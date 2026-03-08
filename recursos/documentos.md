@@ -1,0 +1,230 @@
+# Documentos y Preparativos
+
+## Datos del Viaje
+
+- **Duración:** 103 noches (5 agosto - 16 noviembre 2026)
+- **Viajeros:** 2 personas (excepto DESVÍO: 1 persona)
+
+### Nacionalidad e Inmigración
+
+| Persona | Nacionalidad | ETIAS | Límite Schengen |
+|---------|-------------|-------|-----------------|
+| Persona 1 | Italiano + Argentino | NO necesita (ciudadano UE) | Sin límite |
+| Persona 2 | Argentina | SI necesita ($8, solicitar 1-2 meses antes) | 90 días en 180 |
+
+### Cálculo Schengen - Persona 2
+
+| Tramo | Días | Schengen? |
+|-------|------|-----------|
+| UK (Londres, York, Edimburgo, Highlands) | 21 | NO |
+| Ámsterdam | 4 | SI |
+| París | 6 | SI |
+| DESVÍO | 7 | Depende del destino |
+| Friburgo → Madrid | 65 | SI |
+| **Total Schengen (sin DESVÍO)** | **75** | Dentro del límite |
+| **Total Schengen (DESVÍO en Schengen)** | **82** | Dentro del límite |
+
+Ambos escenarios están dentro del límite de 90 días. Margen de 8-15 días.
+
+---
+
+## Pasaportes
+
+- [ ] **Persona 1:** Pasaporte italiano (ciudadano UE)
+  - Número: _por completar_
+  - Vencimiento: _por completar_
+  - Copias digitales en Google Drive + email
+  - Copia física en equipaje separado
+
+- [ ] **Persona 2:** Pasaporte argentino
+  - Número: _por completar_
+  - Vencimiento: _por completar_
+  - Copias digitales en Google Drive + email
+  - Copia física en equipaje separado
+
+**Requisito:** Pasaporte válido por al menos 6 meses después del viaje (después de mayo 2027).
+
+### ETIAS (solo Persona 2)
+
+- [ ] Solicitar autorización ETIAS para Espacio Schengen
+- **Costo:** $8
+- **Validez:** 3 años o vencimiento pasaporte
+- **Cuándo solicitar:** 1-2 meses antes del viaje
+- **Procesamiento:** Normalmente 72h, puede tardar hasta 30 días
+- **Web oficial:** https://travel-europe.europa.eu/etias_en
+- Persona 1 como ciudadano UE NO necesita ETIAS
+
+---
+
+## Seguro de Viaje
+
+### Requisitos
+- **Duración mínima:** 103 días (5 ago - 16 nov 2026)
+- **Cobertura mínima:** €30.000 (requisito Schengen para Persona 2)
+- **Debe incluir:** Médica, repatriación (obligatorio), cancelación (recomendado), equipaje (recomendado)
+
+### Compañías Recomendadas para Viajes Largos
+- **SafetyWing** - Pensado para nómadas, cubre viajes largos, pago mensual
+- **World Nomads** - Popular entre mochileros
+- **True Traveller** - Especializado en viajes +90 días
+- **IATI** - Seguro español, buena cobertura Europa
+
+### Datos del Seguro (completar al contratar)
+- [ ] Compañía: _por completar_
+- [ ] Número de póliza: _por completar_
+- [ ] Contacto emergencia 24h: _por completar_
+- [ ] Costo estimado: $250-400 pp
+
+---
+
+## Finanzas
+
+### Tarjetas
+- [ ] **Wise / Revolut:** Abrir cuenta y recibir tarjeta (tardan 1-2 semanas)
+- [ ] **Tarjeta backup:** De otro banco, para emergencias
+- [ ] Avisar a bancos de fechas de viaje (1 semana antes)
+- [ ] Verificar PINs de todas las tarjetas
+
+### Monedas del Viaje
+
+| País | Moneda | Nota |
+|------|--------|------|
+| UK | GBP (libra) | Llevar algo en efectivo |
+| Zona Euro (NL, FR, DE, AT, IT, ES, SI) | EUR | Moneda principal |
+| Suiza | CHF (franco suizo) | Aceptan EUR en algunos lugares |
+| Chequia | CZK (corona checa) | Cajero al llegar |
+| Polonia | PLN (zloty) | Cajero al llegar |
+| Hungría | HUF (forinto) | Cajero OTP Bank, NUNCA Euronet |
+
+### Efectivo Inicial
+- [ ] GBP: £100-200 para primeros días en Londres
+- [ ] EUR: €200-300 de respaldo
+
+### Números de Bloqueo (completar y guardar)
+- Tarjeta 1: _por completar_
+- Tarjeta 2: _por completar_
+- Wise: Bloqueo desde la app
+- Revolut: Bloqueo desde la app
+
+---
+
+## Tecnología
+
+### eSIM / Datos
+- [ ] Comprar eSIM antes de salir (Airalo o Holafly)
+- [ ] Verificar que ambos teléfonos soporten eSIM
+- Plan Europa: ~$30-50/mes (Airalo) o ~$60/mes ilimitado (Holafly)
+
+### Adaptadores de Corriente
+- [ ] 2x adaptadores Tipo G (UK)
+- [ ] 2x adaptadores Tipo C/F (Europa continental)
+- [ ] Powerbank (mínimo 10.000 mAh) cargado
+- [ ] Cables USB-C / Lightning extras
+
+### Preparar Antes de Salir
+- [ ] Mapas offline descargados por ciudad (Google Maps)
+- [ ] Idiomas descargados en Google Translate (FR, DE, IT, CZ, PL, HU, SI, NL)
+- [ ] Google Photos backup automático activado
+- [ ] Apps instaladas (ver `apps_utiles.md`)
+
+---
+
+## Vuelos Principales
+
+### Vuelo de Ida (COMPRADO)
+- **Fecha salida:** 4 agosto 2026
+- **Llegada:** 5 agosto 2026
+- **Destino:** London Heathrow
+- **Aerolínea:** _por completar_
+- **Confirmación:** _por completar_
+
+### Vuelo de Regreso (PENDIENTE)
+- [ ] **Comprar vuelo Madrid → casa**
+- **Fecha:** 16 noviembre 2026
+- **Origen:** Madrid (MAD)
+- **Destino:** _por completar_
+
+### Vuelos Internos (ver TRANSPORTE_ENTRE_CIUDADES.md)
+- [ ] Edimburgo → Ámsterdam (26 ago)
+- [ ] Nápoles → Barcelona (4 nov)
+
+---
+
+## Salud
+
+### Medicamentos
+- [ ] Recetas médicas (en inglés si posible)
+- [ ] Botiquín: analgésicos, antihistamínicos, antidiarreicos, curitas, desinfectante
+- [ ] Medicamentos personales (suficiente para 103 días)
+- [ ] Pastillas de mareo (para Costa Amalfitana)
+
+### Alergias / Condiciones Médicas
+- Persona 1: _por completar_
+- Persona 2: _por completar_
+
+---
+
+## Preparativos en Casa
+
+### Antes de Partir
+- [ ] Detener suscripciones innecesarias
+- [ ] Avisar a familia con itinerario completo
+- [ ] Pagar facturas por adelantado
+- [ ] Vaciar nevera de perecederos
+- [ ] Desenchufar aparatos
+- [ ] Revisar cerraduras y ventanas
+
+### Dejar a Familia
+- Itinerario completo con direcciones de alojamiento
+- Números de contacto
+- Copia de pasaportes
+- Información del seguro
+
+---
+
+## Documentos Digitales
+
+### Carpeta en la Nube (Google Drive)
+Crear carpeta "Viaje Europa 2026" con:
+- [ ] Copias de pasaportes
+- [ ] Póliza de seguro
+- [ ] Confirmaciones de vuelos
+- [ ] Confirmaciones de alojamientos
+- [ ] Reservas de transporte
+- [ ] Itinerario general
+- [ ] Contactos de emergencia
+- [ ] Recetas médicas
+
+### Acceso Offline
+- [ ] Documentos descargados en ambos teléfonos
+- [ ] Copias impresas de lo esencial (pasaporte, seguro, vuelos)
+- [ ] Email enviado a ambos con todos los documentos
+
+---
+
+## Números de Emergencia
+
+- **Emergencias Europa:** 112
+- **Seguro de viaje:** _por completar_
+- **Banco tarjeta 1:** _por completar_
+- **Banco tarjeta 2:** _por completar_
+- **Familia/Emergencia:** _por completar_
+
+---
+
+## Checklist Final (1 semana antes)
+
+- [ ] Confirmar todos los vuelos
+- [ ] Check-in online donde sea posible
+- [ ] Verificar restricciones de equipaje
+- [ ] Cargar powerbank
+- [ ] Activar eSIM
+- [ ] Imprimir documentos esenciales
+- [ ] Cambiar algo de GBP y EUR
+- [ ] Verificar que las tarjetas funcionen
+- [ ] Hacer backup de fotos del teléfono
+- [ ] Informar fechas de viaje al banco
+
+---
+
+**Última actualización:** Marzo 2026
