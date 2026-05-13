@@ -1,8 +1,8 @@
-# Lista de Equipaje - Europa 103 días
+# Lista de Equipaje - Europa 109 días
 
 ## Consideraciones Generales
 
-- **Duración:** 103 días (5 ago - 16 nov 2026)
+- **Duración:** 109 días (5 ago - 21 nov 2026)
 - **Estaciones:** Verano (agosto) → Otoño (sept-nov)
 - **Temperaturas:** 6°C - 25°C
 - **Clima:** Variable, de cálido a frío
@@ -263,7 +263,7 @@ Items confirmados que faltan comprar:
 - **Frecuencia:** Cada 7-10 días
 - **Dónde:** Lavanderías self-service (lavadoras por monedas)
 - **Costo estimado:** $5-8 por carga
-- **Ciudades con estadía larga:** Londres (8n), Highlands (7n), Friburgo (7n), Roma (7n), Nápoles (8n), Barcelona (7n)
+- **Ciudades con estadía larga:** Londres (8n), Highlands (7n), Selva Negra (7n), Roma (7n), Nápoles (8n), Barcelona (7n)
 
 ### Kit de Lavado
 - [ ] Detergente en láminas / pods (para lavar a mano si es necesario)

@@ -2,35 +2,40 @@
 
 ## Información General
 
-- **Duración:** 5 agosto - 16 noviembre 2026 (103 noches)
-- **Viajeros:** 2 personas (excepto DESVÍO: 1 persona, 7 noches)
-- **Países:** 9 países + DESVÍO por definir
-- **Ciudades:** 19 ciudades
+- **Duración:** 5 agosto - 21 noviembre 2026 (108 noches / 109 días)
+- **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona, 8 noches)
+- **Países:** 13 países (incluye Portugal)
+- **Ciudades/Bases:** 23 paradas + **3 días de margen flex**
 - **Presupuesto estimado:** $9,000-13,000 pp
 
 ## Ruta
 
 | # | País | Ciudad | Noches | Fechas |
 |---|------|--------|--------|--------|
-| 1 | Reino Unido | Londres | 8 | 5-13 ago |
-| 2 | Reino Unido | York | 3 | 13-16 ago |
-| 3 | Reino Unido | Edimburgo | 3 | 16-19 ago |
-| 4 | Reino Unido | Highlands | 7 | 19-26 ago |
-| 5 | Países Bajos | Ámsterdam | 4 | 26-30 ago |
-| 6 | Francia | París | 6 | 30 ago - 5 sept |
-| 7 | DESVÍO | Por definir | 7 | 5-12 sept |
-| 8 | Alemania | Friburgo | 7 | 12-19 sept |
-| 9 | Suiza | Interlaken | 4 | 19-23 sept |
-| 10 | Chequia | Praga | 4 | 23-27 sept |
-| 11 | Polonia | Cracovia | 5 | 27 sept - 2 oct |
-| 12 | Hungría | Budapest | 4 | 2-6 oct |
-| 13 | Austria | Viena | 5 | 6-11 oct |
-| 14 | Eslovenia | Liubliana | 4 | 11-15 oct |
-| 15 | Italia | Florencia | 5 | 15-20 oct |
-| 16 | Italia | Roma | 7 | 20-27 oct |
-| 17 | Italia | Nápoles | 8 | 27 oct - 4 nov |
-| 18 | España | Barcelona | 7 | 4-11 nov |
-| 19 | España | Madrid | 5 | 11-16 nov |
+| 1 | Reino Unido | [Londres](./01_Reino_Unido/Londres/) | 8 | 5-13 ago |
+| 2 | Reino Unido | [York](./01_Reino_Unido/York/) | 2 | 13-15 ago |
+| 3 | Reino Unido | [Edimburgo](./01_Reino_Unido/Edimburgo/) | 3 | 15-18 ago |
+| 4 | Reino Unido | [Highlands](./01_Reino_Unido/Highlands/) | 7 | 18-25 ago |
+| 5 | Países Bajos | [Ámsterdam](./02_Paises_Bajos/Amsterdam/) | 4 | 25-29 ago |
+| 6 | Francia | [París](./03_Francia/Paris/) | 6 | 29 ago - 4 sept |
+| 7 | Portugal | [Lisboa](./04_Portugal/Lisboa/) + [Porto](./04_Portugal/Porto/) | 8 | 4-12 sept |
+| 8 | Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 2 | 12-14 sept |
+| 9 | Francia | [Colmar](./03_Francia/Colmar/) | 2 | 14-16 sept |
+| 10 | Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 3 | 16-19 sept |
+| 11 | Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken\ y\ alrededores/) | 4 | 19-23 sept |
+| 12 | Austria | [Innsbruck](./07_Austria/Innsbruck/) | 2 | 23-25 sept |
+| 13 | Austria | [Viena](./07_Austria/Viena/) | 5 | 25-30 sept |
+| 14 | Chequia | [Praga](./08_Chequia/Praga/) | 4 | 30 sept - 4 oct |
+| 15 | Polonia | [Cracovia](./09_Polonia/Cracovia/) | 5 | 4-9 oct |
+| 16 | Hungría | [Budapest](./10_Hungria/Budapest/) | 4 | 9-13 oct |
+| 17 | Eslovenia | [Eslovenia (por regiones)](./11_Eslovenia/) | 4 | 13-17 oct |
+| 18 | Italia | [Florencia](./12_Italia/Florencia/) | 5 | 17-22 oct |
+| 19 | Italia | [Roma](./12_Italia/Roma/) | 7 | 22-29 oct |
+| 20 | Italia | [Nápoles](./12_Italia/Napoles/) | 2 | 29-31 oct |
+| 21 | Italia | [Sur de Italia (por definir)](./12_Italia/Sur\ de\ Italia/) | 8 | 31 oct - 8 nov |
+| 22 | España | [Barcelona](./13_España/Barcelona/) | 5 | 8-13 nov |
+| 23 | España | [Madrid](./13_España/Madrid/) | 5 | 13-18 nov |
+| 24 | España | **Margen (flex, por definir)** | 3 | 18-21 nov |
 
 **Nota:** El itinerario post-París es flexible. Las fechas son tentativas.
 
@@ -47,7 +52,7 @@
 
 ### Carpetas por país/ciudad
 
-Cada ciudad tiene su propia carpeta (`01_Reino_Unido/Londres (5-13 ago)/`) con:
+Cada ciudad tiene su propia carpeta (ej. `01_Reino_Unido/Londres/`) con:
 
 | Archivo | Contenido |
 |---------|-----------|
@@ -62,13 +67,14 @@ Cada ciudad tiene su propia carpeta (`01_Reino_Unido/Londres (5-13 ago)/`) con:
 |---------|-----------|
 | [recursos/apps_utiles.md](recursos/apps_utiles.md) | Apps esenciales (Wise, Trainline, Citymapper, etc.) |
 | [recursos/documentos.md](recursos/documentos.md) | ETIAS, seguros, visas |
+| [recursos/asistencia_al_viajero_comparativa.md](recursos/asistencia_al_viajero_comparativa.md) | Comparativa de asistencia al viajero (precios + coberturas + análisis) |
 | [recursos/packing_list.md](recursos/packing_list.md) | Qué llevar |
 | [recursos/frases_utiles.md](recursos/frases_utiles.md) | Frases por idioma |
 
 ## Estado del Proyecto
 
 ### Completado
-- Estructura de carpetas para 19 ciudades
+- Estructura de carpetas para 23 paradas/bases
 - Investigación de actividades, alojamiento y transporte por ciudad
 - Optimización Eurail Pass y trenes nocturnos
 - Tips compilados de Reddit (r/solotravel, r/Eurotrip)
@@ -77,30 +83,7 @@ Cada ciudad tiene su propia carpeta (`01_Reino_Unido/Londres (5-13 ago)/`) con:
 
 ### Pendiente
 
-**Decisiones:**
-- [ ] Definir DESVÍO (7 días, 5-12 sept)
-
-**Documentos y finanzas** (detalle en `recursos/documentos.md`):
-- [ ] Solicitar ETIAS - solo Persona 2/argentina ($8, 72h proceso)
-- [ ] Contratar seguro de viaje 103 días (cobertura min €30.000)
-- [ ] Abrir Wise/Revolut (tardan 1-2 semanas)
-
-**Reservas anticipadas** (se agotan):
-- [ ] Anne Frank House (Ámsterdam) - MESES antes
-- [ ] Edinburgh Military Tattoo (agosto) - MESES antes
-- [ ] Sagrada Familia (Barcelona)
-- [ ] Coliseo + Vaticano (Roma)
-- [ ] Auschwitz (Cracovia)
-- [ ] Alojamientos agosto (temporada alta)
-
-**Transporte** (detalle en `TRANSPORTE_ENTRE_CIUDADES.md`):
-- [ ] Comprar vuelo Madrid → casa (vuelta, pendiente)
-- [ ] Reservar vuelos: Edimburgo→Ámsterdam, Nápoles→Barcelona
-- [ ] Reservar auto Highlands (19-25 ago)
-- [ ] Reservar trenes nocturnos (2-3 meses antes)
-
-**Tecnología:**
-- [ ] Comprar eSIM (Airalo o Holafly)
+Todos los pendientes y tareas de reservas se han centralizado en el archivo maestro: **[CHECKLIST.md](CHECKLIST.md)**.
 
 ---
 

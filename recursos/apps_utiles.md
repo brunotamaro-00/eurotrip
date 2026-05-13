@@ -37,6 +37,14 @@
 | **Rome2Rio** | Planificador de rutas multimodal | Ver todas las opciones entre 2 puntos |
 | **Rail Planner** | Planificar viajes con Eurail | App oficial Eurail |
 | **Skyscanner** | Vuelos baratos | Para Edimburgo→Ámsterdam, Nápoles→Barcelona |
+| **CP** | Trenes en Portugal | Comprar/gestionar trenes (Lisboa↔Porto, Lisboa↔Sintra) |
+| **Bolt** | Transporte tipo Uber (EU) | Muy usado en Portugal, a veces más barato que Uber |
+| **Uber** | Transporte tipo Uber | Alternativa a Bolt |
+| **Carris** | Bus/tranvía en Lisboa | Línea 28E y red urbana |
+| **Metro Lisboa** | Metro de Lisboa | Navegante ocasional / info de líneas |
+| **Andante** | Tickets transporte Porto (área metropolitana) | Tarjeta Andante (metro/bus/tren urbano) |
+| **Metro do Porto** | Metro de Porto | Líneas (incl. aeropuerto) y service updates |
+| **STCP** | Buses urbanos Porto | Red de buses de Porto |
 
 ---
 
@@ -84,7 +92,7 @@
 | App | Función | Nota |
 |-----|---------|------|
 | **Google Photos** | Backup automático fotos | Activar con WiFi |
-| **AllTrails** | Rutas de senderismo | Para Interlaken, Highlands, etc. |
+| **AllTrails** | Rutas de senderismo | Para Suiza, Highlands, Selva Negra, etc. |
 | **Find My / Find My Device** | Localizar dispositivos | Activar antes de viajar |
 | **WiFi Map** | Encontrar WiFi gratis | Mapa de contraseñas |
 

@@ -248,6 +248,44 @@
 
 ---
 
+## 🇵🇹 Portugués (Portugal)
+
+### Básico
+- **Hola:** Olá
+- **Buenos días:** Bom dia
+- **Buenas tardes/noches (saludo):** Boa tarde / Boa noite
+- **Adiós:** Adeus / Tchau (informal)
+- **Por favor:** Por favor
+- **Gracias:** Obrigado (hombre) / Obrigada (mujer)
+- **De nada:** De nada
+- **Perdón/Disculpa:** Desculpe / Com licença
+- **Sí/No:** Sim / Não
+- **¿Habla inglés?:** Fala inglês?
+- **No entiendo:** Não entendo
+
+### Direcciones
+- **¿Dónde está...?:** Onde fica...?
+- **¿Cómo llego a...?:** Como chego a...?
+- **Estación de tren:** Estação de comboios
+- **Metro:** Metro
+- **Parada de bus:** Paragem de autocarro
+- **Baño:** Casa de banho
+- **Izquierda/Derecha:** Esquerda / Direita
+- **Recto:** Em frente
+
+### Restaurante
+- **Una mesa para uno/dos:** Uma mesa para um/dois, por favor
+- **La cuenta:** A conta, por favor
+- **Agua:** Água
+- **Café:** Café
+- **Cerveza:** Cerveja
+- **¿Aceptan tarjeta?:** Aceitam cartão?
+
+### Emergencias
+- **¡Ayuda!:** Socorro!
+- **Necesito un médico:** Preciso de um médico
+- **¿Dónde está el hospital?:** Onde fica o hospital?
+
 ## 💡 Tips Generales
 
 ### Gestos Útiles

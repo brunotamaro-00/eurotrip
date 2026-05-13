@@ -1,227 +1,131 @@
-# Transporte Entre Ciudades - Europa 2026
+# Transporte entre ciudades — Europa 2026
 
-## Tabla Resumen: Conexión entre Ciudades Consecutivas
+## Estrategia óptima Eurail (15 días en 2 meses)
 
-| # | Origen → Destino | Fecha | Medio | Duración | Precio advance pp | Eurail? | Notas |
-|---|-----------------|-------|-------|----------|------------------|---------|-------|
-| 1 | **Londres → York** | 13 ago | Tren LNER | 2h | $33-55 | NO | UK = comprar en Trainline anticipado |
-| 2 | **York → Edimburgo** | 16 ago | Tren LNER | 2.5h | $22-44 | NO | UK = comprar anticipado |
-| 3 | **Edimburgo → Highlands** | 19 ago | Auto rentado | Variable | Ver sección | NO | Pickup en aeropuerto Edimburgo |
-| 4 | **Highlands → Edimburgo** | 25 ago | Auto rentado | ~3h | Incluido | NO | Devolver auto, dormir en Edimburgo |
-| 5 | **Edimburgo → Ámsterdam** | 26 ago | Vuelo | 1.5h | $55-110 | NO | VOLAR (tren = 12h+) |
-| 6 | **Ámsterdam → París** | 30 ago | Eurostar | 3.5h | $39-55 | NO | Comprar anticipado. Reserva Eurail = $32-42, no ahorra. |
-| 7 | **París → DESVÍO** | 5 sept | Por definir | - | - | - | Destino pendiente |
-| 8 | **DESVÍO → Friburgo** | 12 sept | Tren TGV | 4-5h | $55-99 | SÍ | Activar Eurail acá. Reserva $11-17. |
-| 9 | **Friburgo → Interlaken** | 19 sept | Tren SBB/DB | 3h | $31-109 | SÍ | Sin reserva en Suiza. Tramo caro sin advance. |
-| 10 | **Interlaken → Praga** | 23 sept | Tren nocturno | 10-12h | $66-99 | SÍ | Nightjet. Reserva couchette $18-42. |
-| 11 | **Praga → Cracovia** | 27 sept | Bus RegioJet | 5-7h | $17-28 | NO | Bus mucho más barato. Eurail no cubre. |
-| 12 | **Cracovia → Budapest** | 2 oct | Tren nocturno | 10h | $33-55 | MARGINAL | Reserva $8-17. Conviene si individual >$39. |
-| 13 | **Budapest → Viena** | 6 oct | Tren ÖBB | 2.5h | $17-28 | NO | Muy barato advance. No vale un día del pass. |
-| 14 | **Viena → Liubliana** | 11 oct | Tren ÖBB EC | 4h | $29-73 | SÍ | Sin reserva. Tramo caro sin advance ($73). |
-| 15 | **Liubliana → Trieste → Florencia** | 15 oct | Bus + tren | 1.5h + 3.5-5h | $33-62 | MARGINAL | Vía Trieste (parada). Bus Liub→Trieste $11-22, tren Trieste→Florencia $22-40. |
-| 16 | **Florencia → Roma** | 20 oct | Italo/Trenitalia | 1.5h | $11-28 | NO | Italo no acepta Eurail. Advance muy barato. |
-| 17 | **Roma → Nápoles** | 27 oct | Italo/Trenitalia | 1h | $11-17 | NO | Italo no acepta Eurail. Ultra barato. |
-| 18 | **Nápoles → Barcelona** | 4 nov | Vuelo | 2h | $44-110 | NO | VOLAR (tren = 15h+ complicado) |
-| 19 | **Barcelona → Madrid** | 11 nov | Ouigo/AVLO | 2.5h | $17-41 | NO | Ouigo/AVLO no aceptan Eurail pero son más baratos que AVE. |
+### Datos del pass
+- **Tipo**: Eurail Global Pass (2nd class), **15 días de viaje en 2 meses**
+- **Costo**: **USD 370 pp** (ya comprado)
+- **Regla clave**: un **día de viaje** = **trenes ilimitados** entre 00:00 y 23:59 (ideal para meter 2–5 tramos el mismo día)
+- **Nocturnos**: siempre requieren reserva; normalmente contás **1 solo día** si es un tren nocturno directo (salida tarde y llegada al día siguiente).
+
+### Principio de optimización (para que rinda de verdad)
+- **No quemar un día Eurail en un tramo corto barato** (p.ej. `Estrasburgo → Colmar`) *si ese día no lo combinás con más trenes*.
+- Usar Eurail donde el billete suelto suele ser más caro o donde querés **flexibilidad** (Suiza, tramos largos alpinos, conexiones internacionales).
+- Evitar Eurail en servicios donde el **fee de reserva** es grande y/o el billete suelto es muy barato (ej. **Eurostar AMS→PAR**, **low-cost** tipo Ouigo/AVLO/Italo).
+
+### Activación recomendada (para que la ventana cubra también España)
+**Activar el primer día “caro” de tren: 19 sept (Friburgo → Suiza/Jungfrau).**  
+Ventana estimada: **19 sept → 18 nov** (fin de ventana Eurail), lo que deja la opción de usar Eurail también en **Barcelona → Madrid (13 nov)** si todavía te quedan días.
+
+> Nota de moneda: en esta tabla los **fees de reserva están en EUR** (son los valores que publican operadores/Eurail). Los **precios “sin Eurail” están en USD estimados** (varían fuerte según compra anticipada/horarios).
 
 ---
 
-## Eurail Pass — Análisis en Profundidad
+## Tabla comparativa por tramo (Eurail vs sin Eurail)
 
-### Datos del Pass
-- **Tipo:** 15 días de viaje en 2 meses (Global Pass, 2nd class)
-- **Costo:** $370pp (YA COMPRADO — con descuento extra)
-- **Costo por día de viaje:** $370 / 15 = **$24.67 por día** — cada tramo donde usás el pass debería valer más que esto
-- **Regla Flexi:** Cada día que viajás = 1 día usado del pass (máximo 15 dentro de la ventana de 2 meses)
-- **Día de viaje:** Trenes ILIMITADOS entre 00:00 y 23:59 del mismo día calendario
-- **Nocturnos:** Si el tren es directo (sin transbordo), cuenta como 1 solo día de viaje
-- **Fuentes:** eurail.com, Reddit r/Interrail, Rick Steves Forum, comunidad Eurail
-
-### Ventana Óptima de Activación
-
-**Activar el 12 de septiembre (DESVÍO → Friburgo)**
-- Ventana: **12 sept → 11 nov**
-- Cubre TODOS los tramos desde Friburgo hasta Madrid
-
-Si se activa antes (ej. 30 ago para Ámsterdam→París), la ventana expira ~29 oct y no cubre Barcelona→Madrid.
-
-### Operadores que NO Aceptan Eurail
-
-Esto es clave y muchos viajeros lo descubren tarde (fuente: Reddit r/solotravel, r/Interrail):
-
-| Operador | País | Tipo | Alternativa Eurail |
-|----------|------|------|-------------------|
-| **Ouigo** | España/Francia | Low-cost alta velocidad | Renfe AVE / SNCF TGV |
-| **AVLO** | España | Low-cost Renfe | Renfe AVE |
-| **Iryo** | España | Alta velocidad privado | Renfe AVE |
-| **Italo** | Italia | Alta velocidad privado | Trenitalia Frecciarossa |
-| **RegioJet** (bus) | Chequia/Polonia | Bus | No hay alternativa tren directa barata |
-| **Flixbus** | Europa | Bus | N/A |
-
-**Impacto real:** En España, Ouigo/AVLO venden Barcelona→Madrid desde $10-41. Con Eurail solo podés tomar el AVE de Renfe ($68 sin pass). En Italia, Italo vende Florencia→Roma desde $11-17; con Eurail solo Trenitalia ($11 reserva obligatoria).
-
-### Reservas Obligatorias con Eurail
-
-| Tren | Reserva extra pp | Dónde reservar |
-|------|-----------------|----------------|
-| TGV (Francia) | $11-24 | sncf-connect.com (más barato que eurail.com) |
-| AVE (España, Renfe) | $11 | renfe.com |
-| Nightjet/EuroNight couchette | $18-42 | nightjet.com (seleccionar "Eurail Globalpass") |
-| Thalys/Eurostar (NL→FR) | $32-42 (muy caro) | eurostar.com |
-| Trenes suizos (SBB) | **Gratis** — simplemente subir | No hace falta |
-| ÖBB regionales (Austria) | **Gratis** | No hace falta |
-| EuroCity (AT→SI, HU→AT) | **Gratis** | No hace falta |
-
-**Tip Reddit:** NUNCA reservar en eurail.com — cobran $2 extra por persona por reserva. Reservar directo en las webs nacionales (DB, ÖBB, SBB, SNCF, Renfe).
-
-### Análisis Ruta por Ruta: Eurail vs Individual
-
-#### Rutas donde Eurail AHORRA (individual caro)
-
-| Ruta | Fecha | Individual | Con Eurail | Ahorro neto |
-|------|-------|-----------|------------|-------------|
-| DESVÍO → Friburgo (TGV) | 12 sept | $55-99 | $11-17 reserva | $39-88 |
-| Friburgo → Interlaken | 19 sept | $31-109 (sin advance: $88+) | Gratis (sin reserva) | $31-109 |
-| Interlaken → Praga nocturno | 23 sept | $66-99 | $18-42 reserva | $24-81 |
-| Viena → Liubliana | 11 oct | $29-73 (sin advance: $73) | Gratis (sin reserva) | $29-73 |
-| Day trips Suiza | sept | $33-66+ | Gratis | $33-66 |
-
-#### Rutas MARGINALES (depende del precio advance)
-
-| Ruta | Fecha | Individual | Con Eurail | Veredicto |
-|------|-------|-----------|------------|-----------|
-| Cracovia → Budapest nocturno | 2 oct | $33-55 | $8-17 reserva | Marginal. Conviene si cuesta >$39 |
-| Day trip Friburgo (Colmar+Strasbourg) | sept | $22-33 | Gratis | Conviene si ese día ya viajás |
-| Budapest → Viena | 6 oct | $17-28 advance | Gratis | NO conviene gastar un día por $17-28 |
-
-#### Rutas donde Eurail NO conviene (comprar individual)
-
-| Ruta | Fecha | Individual advance | Por qué NO Eurail |
-|------|-------|--------------------|-------------------|
-| Ámsterdam → París | 30 ago | $39-55 | Reserva Eurail = $32-42 ≈ lo mismo. Fuera de ventana óptima. |
-| Praga → Cracovia | 27 sept | $17-28 (bus RegioJet) | Bus mucho más barato. Eurail no cubre. |
-| Budapest → Viena | 6 oct | $17-28 (ÖBB advance) | Muy barato. No vale gastar un día del pass. |
-| Florencia → Roma | 20 oct | $11-28 (Italo/Trenitalia advance) | Italo no acepta Eurail. Trenitalia advance = $17-28. |
-| Roma → Nápoles | 27 oct | $11-17 (Italo/Trenitalia advance) | Misma razón. Tramo ultra barato. |
-| Barcelona → Madrid | 11 nov | $17-41 (Ouigo/AVLO) | Ouigo/AVLO no aceptan Eurail. Más baratos que AVE+reserva. |
-
-### Escenarios Concretos
-
-#### Escenario A: Eurail solo en tramos de alto valor (5-7 días)
-
-| # | Día Eurail | Reserva |
-|---|-----------|---------|
-| 1 | DESVÍO → Friburgo | $11-17 |
-| 2 | Friburgo: day trip Colmar + Strasbourg | Gratis |
-| 3 | Friburgo → Interlaken | Gratis |
-| 4 | Interlaken → Praga nocturno | $18-42 |
-| 5 | Cracovia → Budapest nocturno | $8-17 |
-| 6 | Viena → Liubliana | Gratis |
-| 7 | Day trip en Suiza (opcional) | Gratis |
-
-- **Reservas:** ~$37-76
-- **Ahorro vs individual (esos tramos):** ~$220-484
-- **Resultado (pass $370):** Entre **-$150 y +$114**
-- **Problema:** Usás solo 5-7 de 15 días. Desperdiciás 8-10 días.
-
-#### Escenario B: Maximizar los 15 días (incluir day trips)
-
-Días 1-7 del Escenario A, más:
-
-| # | Día Eurail | Valor individual del tramo |
-|---|-----------|---------------------------|
-| 8 | Day trip Viena → Bratislava | $18 |
-| 9 | Day trip Florencia → Pisa o Siena | $11-22 |
-| 10 | Florencia → Roma (Trenitalia) | $17-28 + $11 reserva |
-| 11 | Day trip Roma → Tivoli/Orvieto | $11-22 |
-| 12 | Roma → Nápoles (Trenitalia) | $11-17 + $11 reserva |
-| 13 | Day trip Nápoles → Pompeya + Sorrento | $9-13 |
-| 14 | Day trip Barcelona → Montserrat | $22 |
-| 15 | Barcelona → Madrid (AVE Renfe) | $68 sin pass + $11 reserva |
-
-- **Reservas totales:** ~$69-119
-- **Ahorro total vs individual:** ~$363-660
-- **Resultado (pass $370):** Entre **-$7 y +$291**
-- **Con $370 ya pagado, este escenario conviene SI usás los 15 días y maximizás day trips.**
-
-#### Escenario C: NO haber comprado Eurail — todo individual anticipado
-
-(Para referencia, ya que el pass YA está comprado)
-
-| Tramo | Operador | Precio advance pp |
-|-------|----------|-------------------|
-| Ámsterdam → París | Eurostar/Thalys | $39-55 |
-| DESVÍO → Friburgo | TGV/tren | $44-88 |
-| Friburgo → Interlaken | SBB/DB | $31-44 |
-| Interlaken → Praga nocturno | Nightjet | $66-99 |
-| Praga → Cracovia | RegioJet bus | $17-28 |
-| Cracovia → Budapest nocturno | PKP | $33-55 |
-| Budapest → Viena | ÖBB | $17-28 |
-| Viena → Liubliana | ÖBB | $29-44 |
-| Florencia → Roma | Italo/Trenitalia | $11-28 |
-| Roma → Nápoles | Italo/Trenitalia | $11-17 |
-| Barcelona → Madrid | Ouigo/AVLO | $17-41 |
-| **TOTAL (sin day trips)** | | **$315-527** |
-| Day trips (~6 tramos) | Varios | $88-143 |
-| **TOTAL GENERAL** | | **$403-670** |
-
-Vs Eurail Escenario B: $439-489 (pass $370 + reservas $69-119)
-
-### Recomendación Final
-
-**El pass YA está comprado ($370).** La clave ahora es maximizar su valor:
-
-**Escenario B (15 días maximizado) es la mejor estrategia.** A $370, el pass se paga solo si usás los 15 días e incluís day trips. Ahorro estimado: **$0-291** vs comprar todo individual.
-
-**La ventaja extra es la FLEXIBILIDAD:**
-- No atarte a trenes específicos (tickets advance no son reembolsables)
-- Poder cambiar de plan sin perder dinero
-- Subir a cualquier tren suizo sin reserva
-- Hacer day trips espontáneos
-
-**Estrategia concreta:**
-- Activar el **12 de septiembre** — ventana cubre hasta 11 de noviembre
-- Usarlo en los 4-5 tramos caros (Friburgo→Interlaken, nocturnos, Viena→Liubliana)
-- Rellenar los días restantes con day trips (Suiza, Viena→Bratislava, Pompeya, Montserrat, etc.)
-- Comprar por fuera: Italia interna (Italo), España interna (Ouigo/AVLO), bus Praga→Cracovia
-
-### Checklist Eurail
-- [x] ~~Comprar pass~~ — YA COMPRADO ($370 con descuento)
-- [ ] Activar el pass el **12 de septiembre** (primera fecha de uso)
-- [ ] Reservar nocturnos en nightjet.com con opción "Eurail Globalpass" (2-3 meses antes)
-- [ ] Reservar TGV en sncf-connect.com (NO en eurail.com — $2 extra por reserva)
-- [ ] NO usar el pass en: Budapest→Viena, Florencia→Roma, Roma→Nápoles, Barcelona→Madrid
-- [ ] Comprar esos tramos en Italo/Ouigo/AVLO/ÖBB por separado (advance)
-- [ ] Llevar registro de días usados (15 máximo)
-- [ ] Usar cada día de viaje para múltiples trenes (day trips + intercity = 1 solo día)
+| # | Tramo (fecha) | Medio / operador | Sin Eurail (USD pp) | Con Eurail (¿aplica? + reservas) | ¿Conviene gastar día Eurail? | Nota de eficiencia |
+|---|---|---|---:|---|---|---|
+| 1 | Londres → York (13 ago) | LNER | $33–55 | **Sí aplica**, pero sería fuera de la ventana si activás en sept. (En UK: reservas suelen ser opcionales/gratis) | **No** | No conviene activar el pass en agosto por la ventana de 2 meses. |
+| 2 | York → Edimburgo (15 ago) | LNER | $22–44 | **Sí aplica**, mismo caso que arriba | **No** | Igual: comprar advance. |
+| 3 | Edimburgo → Highlands (18 ago) | Auto | — | No aplica | N/A | — |
+| 4 | Highlands → Edimburgo (24 ago) | Auto | — | No aplica | N/A | — |
+| 5 | Edimburgo → Ámsterdam (25 ago) | Vuelo | $55–110 | No aplica | N/A | — |
+| 6 | Ámsterdam → París (29 ago) | **Eurostar** | $39–55 | **Sí aplica**, pero reserva **obligatoria**: **€32–€37** | **No** | Con Eurail casi no ahorrás (y además hay cupos de passholders). |
+| 7 | París → Lisboa (4 sept) | Vuelo | **$85 (con equipaje)** | No aplica | N/A | — |
+| 8 | Lisboa → Porto (9 sept) | CP (IC/AP) | $12–40 | **Sí aplica**, reserva **obligatoria** en IC/AP (fee típico: **€5** en Alfa Pendular; en Portugal se gestiona en estación) | **No (low-ROI)** | Buen candidato solo si te faltan días y querés “gastar” 1 travel day temprano. |
+| 9 | Porto → Estrasburgo (12 sept) | Vuelo | **$95 (con equipaje)** | No aplica | N/A | — |
+| 10 | Estrasburgo → Colmar (14 sept) | TER (SNCF) | $8–15 | **Sí aplica**, **sin reserva** (regional) | **No (puro tramo corto)** | Si insistís usar Eurail acá, que sea en un día con 3–4 trenes (ida/vuelta + otro regional). |
+| 11 | Colmar → Friburgo (16 sept) | TER + RE | $15–25 | **Sí aplica**, normalmente **sin reserva** (regional) | **No (low-ROI)** | Lo mismo: si lo usás, que sea parte de un día con más trenes. |
+| 12 | Friburgo → Jungfrau Region (19 sept) | DB/SBB | $35–110 | **Sí aplica**, en general **sin reserva** (CH/DE/AT suelen ser “subir y listo”) | **Sí** | Primer día ideal de activación del pass. |
+| 13 | Jungfrau Region → Innsbruck (23 sept) | SBB/ÖBB | $45–130 | **Sí aplica**, en general **sin reserva obligatoria** | **Sí** | Tramo largo: muy buen uso del pass. |
+| 14 | Innsbruck → Viena (25 sept) | ÖBB Railjet | $25–65 | **Sí aplica**, **reserva opcional** (si querés asiento asignado) | **Sí** | Si encontrás Sparschiene muy barata, puede ser “depende”; pero con pass suele rendir. |
+| 15 | Viena → Praga (30 sept) | Railjet / otros | $15–45 | **Sí aplica**, reserva normalmente **opcional** | **Depende** | Económicamente suele ser barato; sirve para “sumar días” sin dolor. |
+| 16 | Praga → Cracovia (4 oct) | Bus RegioJet | $17–28 | No aplica (bus) | N/A | — |
+| 17 | Cracovia → Budapest (9 oct) | **EuroNight (EN Chopin)** | $33–55 | **Sí aplica**, reserva **obligatoria**. Fees publicados (EN Chopin BUD↔KRK): **asiento €4**, **couchette 6p €17**, **sleeper triple €32** / **doble €44** / **single €83** | **Sí** | Excelente: tramo largo + ahorra hotel si vas en couchette/sleeper. |
+| 18 | Budapest → Liubliana (13 oct) | IC (MÁV/SŽ) | $25–70 | **Sí aplica**, reserva **obligatoria** (fee típico en esta ruta: **€3**) | **Sí** | Buen uso por distancia + flexibilidad. |
+| 19 | Liubliana → Trieste → Florencia (17 oct) | Tren + tren (o bus + tren) | $33–62 | **Sí aplica** si hacés todo en tren. Para **Frecciarossa** (Trenitalia) la reserva es **obligatoria €13**. | **Sí (si vas por tren)** | Para que rinda: hacé `Ljubljana → Trieste` en tren y el mismo día `Trieste → Firenze` con Trenitalia (1 travel day). |
+| 20 | Florencia → Roma (22 oct) | Italo o Trenitalia | $11–28 | Con Eurail solo **Trenitalia** (Italo **no**). En Frecciarossa/FA reserva **obligatoria €13** | **Depende (low-ROI)** | Muy barato sin pass; usar Eurail acá es para completar 15 días, no por ahorro. |
+| 21 | Roma → Nápoles (29 oct) | Italo o Trenitalia | $11–17 | Con Eurail solo **Trenitalia** (Italo **no**). Frecce reserva **obligatoria €13** | **No** | Casi siempre conviene comprar advance. |
+| 22 | Nápoles → Sur de Italia (31 oct) | Variable | Variable | Depende destino/tren; no siempre rinde Eurail | Depende | Se decide según ruta en `SUR_DE_ITALIA_OPCIONES.md`. |
+| 23 | Sur de Italia → Barcelona (8 nov) | Vuelo | $15–110 | No aplica | N/A | — |
+| 24 | Barcelona → Madrid (13 nov) | Ouigo/AVLO o Renfe/iryo | $17–41 | **Sí aplica** en **Renfe/iryo**, con reserva **obligatoria** (típico **€10–€13**, según tren/clase). **Ouigo/AVLO no aceptan Eurail.** | **Depende** | Si te quedan días del pass, usarlo acá puede tener sentido. Si priorizás precio, Ouigo/AVLO suele ganar. |
 
 ---
+
+## Guía de reservas (solo lo que afecta a esta ruta)
+
+### 1) Trenes donde la reserva suele ser **obligatoria** (con Eurail)
+- **Eurostar (Ámsterdam → París)**: reserva obligatoria **€32–€37** (cupos limitados).
+- **Portugal (CP)**:
+  - **Alfa Pendular**: reserva obligatoria; fee típico **€5** (asiento).
+  - **Intercidades**: reserva obligatoria.
+  - En Portugal, muchas reservas se hacen **en estación** (no siempre se puede por el sistema online de Eurail).
+- **Italia (Trenitalia “Le Frecce”)**: Frecciarossa/Frecciargento/etc. reserva obligatoria **€13**.
+- **Nocturnos**: siempre reserva obligatoria (fee según asiento/couchette/sleeper). Para tu ruta `Cracovia ↔ Budapest` (EN Chopin) los fees publicados son: **€4 / €17 / €32–€83** según clase.
+- **España (Renfe/iryo)**: en general reserva obligatoria en alta velocidad y larga distancia; fee típico **€10–€13** (según tren/clase).
+
+### 2) Trenes donde normalmente **no** necesitás reservar (con Eurail)
+- **Suiza (SBB)**: la regla general es **subir y listo** (salvo panorámicos especiales).
+- **Regionales Francia/Alemania** (TER/RE): normalmente sin reserva.
+- **Austria (ÖBB) Railjet**: reserva generalmente **opcional**.
+
+### 3) Operadores que **NO** aceptan Eurail (relevante en tu itinerario)
+- **Italo (Italia)**: no acepta Eurail.
+- **Ouigo / AVLO (España)**: no aceptan Eurail (son low-cost).
+- **FlixBus / RegioJet bus**: buses, no cubre Eurail.
+
+### 4) Dónde reservar (en serio, sin perder plata/tiempo)
+- **Eurail self-service**: funciona para muchas reservas, pero suma **costos administrativos** (típicamente **€2 pp por tren**; y en algunos casos **€9 por orden** si es ticket en papel).
+- **ÖBB (nightjet / trenes Austria)**: para nocturnos y muchos internacionales.
+- **B-europe / DB / Rail Europe / ItaloRail**: suelen servir para TGV/Eurostar/Trenitalia según el caso.
+- **Portugal**: muy frecuentemente **en estación CP**.
+- **España (Renfe)**: reservas pueden implicar **PNR / retiro** en estaciones según el tren.
+
+---
+
+## Propuesta de 15 días Eurail (fechas exactas)
+
+### Resumen
+- **Objetivo**: usar los 15 días en tramos largos + Suiza + 2–4 day trips, y dejar Alsacia (barata) como cash.
+- **Primer día de uso / activación**: **19 sept**.
+
+### Los 15 días sugeridos (plan “rinde + usa todo”)
+
+| Día # | Fecha | Qué cubrir con Eurail (ejemplo) | Reservas / fees | Motivo |
+|---:|---|---|---|---|
+| 1 | 19 sept | **Friburgo → Interlaken/Lauterbrunnen/Grindelwald** | Sin reserva típica | Primer día caro + activa el pass. |
+| 2 | 20 sept | **Day trip Suiza**: Interlaken → **Bern** → Interlaken | Sin reserva | Suiza = donde más rinde el pass por precio suelto alto. |
+| 3 | 21 sept | **Day trip Suiza**: Interlaken → **Lucerna** (Brünig) → Interlaken | Sin reserva | Otro día de alto ROI y paisajazo. |
+| 4 | 22 sept | **Day trip Suiza**: Interlaken → **Montreux** → Interlaken | Sin reserva | Completa Suiza con un tercer día fuerte. |
+| 5 | 23 sept | **Jungfrau Region → Innsbruck** (vía Zürich) | Sin reserva típica | Tramo largo alpino (muy buen uso). |
+| 6 | 25 sept | **Innsbruck → Viena** | Reserva opcional | Tramo medio-largo; con pass es cómodo/flexible. |
+| 7 | 26 sept | **Day trip**: Viena → **Bratislava** → Viena | Reserva opcional | Suma un día útil y barato de ejecutar. |
+| 8 | 27 sept | **Day trip**: Viena → **Melk** (Wachau) → Viena | Reserva opcional | Otro día “fácil” para llegar a 15 sin forzar tramos chicos caros. |
+| 9 | 30 sept | **Viena → Praga** | Reserva opcional | Sirve para sumar un día con buen traslado real. |
+| 10 | 1 oct | **Day trip**: Praga → **Kutná Hora** → Praga | Sin reserva | Día barato y lógico. |
+| 11 | 2 oct | **Day trip**: Praga → **Karlovy Vary** → Praga | Sin reserva | Completa 2 day trips desde Praga. |
+| 12 | 9 oct | **Cracovia → Budapest (EN Chopin)** | **Obligatoria**: €4 (asiento) / €17 (couchette 6p) / €32–€83 (sleeper) | 10/10 para Eurail: largo + nocturno. |
+| 13 | 13 oct | **Budapest → Liubliana (IC)** | **Obligatoria**: €3 | Tramo largo internacional, buen día Eurail. |
+| 14 | 17 oct | **Liubliana → Trieste → Florencia (todo en tren)** | Frecciarossa **obligatoria €13** | Unificás 2 tramos en 1 día Eurail (y evitás bus si querés). |
+| 15 | 13 nov | **Barcelona → Madrid (Renfe/iryo)** | Reserva obligatoria (típico €10–€13) | Deja el pass vivo hasta España y te garantiza llegar a 15. |
+
+### Si preferís Ouigo/AVLO en Barcelona → Madrid (más barato)
+Si querés comprar low-cost y **no** usar Eurail el 13 nov, cambiá el **Día #15** por uno de estos (según qué te calce mejor):
+- **Opción A (Italia)**: 22 oct `Florencia → Roma` con **Trenitalia** (reserva Frecce **€13**).
+- **Opción B (Austria)**: sumar un **day trip** extra desde Viena (otro regional) usando 1 travel day más ahí.
 
 ## Trenes Nocturnos
 
-### Ruta 1: Interlaken → Praga (23 sept)
-
-| Detalle | Info |
-|---------|------|
-| Ruta real | Interlaken → Zürich → Munich → Praga |
-| Salida | ~20:00 |
-| Llegada | ~08:00 día siguiente |
-| Duración | 10-12h |
-| Operador | ÖBB Nightjet / DB |
-| Precio couchette | $66-99pp |
-| Con Eurail | Reserva adicional $16-38pp |
-
-**Por qué conviene:** Tramo largo, ahorra 1 noche de hotel + llegan frescos a Praga por la mañana con el día entero por delante.
-
-### Ruta 2: Cracovia → Budapest (2 oct)
+### Ruta 1: Cracovia → Budapest (9 oct)
 
 | Detalle | Info |
 |---------|------|
 | Salida | ~20:00 |
 | Llegada | ~06:00 día siguiente |
 | Duración | 10h |
-| Operador | PKP Intercity |
-| Precio couchette | $33-55pp |
+| Tren | EuroNight (EN) (ruta tipo **EN Chopin**) |
+| Reserva con Eurail | **Obligatoria** |
+| Fees publicados (según tipo) | **Asiento €4** / **couchette 6p €17** / **sleeper** €32+ |
 | Alternativa | Bus nocturno $22-33 (menos cómodo) |
 
 **Por qué conviene:** Ruta directa que de día es paisaje poco interesante. Económico y ahorra hotel.
@@ -242,33 +146,73 @@ Vs Eurail Escenario B: $439-489 (pass $370 + reservas $69-119)
 - No hay WiFi generalmente
 
 ### Reservar
-- **Con Eurail:** nightjet.com (seleccionar "Eurail Globalpass" en descuentos). NO usar eurail.com (cobra €2 extra por reserva)
-- **Sin Eurail:** nightjet.com (ÖBB), Trainline, Omio
-- **Anticipación:** 2-3 meses (se llenan, especialmente en verano)
+- **Con Eurail:** reservar la **plaza/cama** (obligatorio) por el canal que habilite el tren: sistema de reservas de Eurail, taquilla en estación, u operador que lo venda (según el servicio).
+- **Sin Eurail:** comprar billete completo (y cama) lo antes posible.
+- **Anticipación:** cuanto antes mejor (los nocturnos se agotan por cupos).
 
 ---
 
 ## Vuelos
 
-### Edimburgo → Ámsterdam (26 ago)
+### Edimburgo → Ámsterdam (25 ago)
 - **Duración:** 1.5h
 - **Precio:** $55-110pp
 - **Airlines:** Ryanair, EasyJet, KLM
 - **Por qué volar:** Tren = 12h+ con varios transbordos. No tiene sentido.
 - **Tip:** Reservar con 2-3 meses de anticipación para mejores precios.
 
-### Nápoles → Barcelona (4 nov)
-- **Duración:** 2h
-- **Precio:** $44-110pp
-- **Airlines:** Ryanair, Vueling, EasyJet
-- **Por qué volar:** No hay conexión de tren directa razonable (15h+ con transbordos).
+### París → Lisboa (4 sept) — COMPRADO
+- **Precio:** **$85pp (con equipaje)**
 
-### Liubliana → Trieste → Florencia (15 oct) - Por tierra vía Trieste
+### Porto → Estrasburgo (12 sept) — COMPRADO
+- **Precio:** **$95pp (con equipaje)**
+
+### Buenos Aires (BUE) → Londres (LHR) (4-5 ago) — COMPRADO (Smiles)
+- **Costo:** USD 484 pp
+
+### Madrid (MAD) → Buenos Aires (BUE) (21 nov) — COMPRADO
+- **Aerolínea:** Plus Ultra
+- **Costo:** USD 473 pp (USD 946 total)
+- **Equipaje:** 1 carry on + 1 valija despachada
+
+### Sur de Italia → Barcelona (8 nov) — Aeropuerto flexible
+
+El aeropuerto de salida depende de la ruta elegida en el sur:
+
+| Aeropuerto | Airlines | Precio estimado | Frecuencia oct-nov | Mejor para |
+|------------|----------|-----------------|-------------------|------------|
+| **Nápoles (NAP)** | Ryanair, Vueling, EasyJet | $44-110pp | Diario | Ruta A (Amalfi) |
+| **Bari (BRI)** | Ryanair | $30-80pp | 3-5/semana | Ruta B/C (Puglia) |
+| **Catania (CTA)** ⭐ | Ryanair, Vueling | $15-60pp | Diario | Ruta D/E (Sicilia) |
+| **Palermo (PMO)** | Ryanair | $15-60pp | 3-5/semana | Ruta D (Sicilia oeste) |
+| **Roma (FCO/CIA)** | Múltiples | $30-80pp | Múltiple diario | Si vuelven a Roma |
+
+**Recomendación:** Catania y Palermo tienen los vuelos más baratos a Barcelona (Ryanair hub).
+
+Ver `12_Italia/Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md` para las 5 rutas posibles y sus transportes.
+
+---
+
+## Tramos por tierra (detalles)
+
+### Nápoles → Sur (opciones según ruta)
+
+| Destino | Medio | Duración | Precio pp |
+|---------|-------|----------|-----------|
+| **Sorrento** (Amalfi) | Circumvesuviana | 1h10 | $4.40 |
+| **Bari** (Puglia) | Trenitalia/Italo | 3.5-4h | $14-40 |
+| **Palermo** (Sicilia) | Ferry nocturno GNV | 10-12h | $45-80 |
+| **Catania** (Sicilia) | Ferry nocturno Grimaldi | 10-12h | $50-90 |
+| **Tropea** (Calabria) | Tren vía Lamezia | 4-5h | $20-40 |
+
+### Liubliana → Trieste → Florencia (17 oct) — vía Trieste
 
 **Tramo 1: Liubliana → Trieste**
-- **FlixBus:** 1.5h, $11-22pp (más rápido y barato que tren)
-- **Tren:** 2.5h con transbordo, $35+pp
-- **Recomendación:** FlixBus. Sale frecuente (~11/día).
+- **Opción “cash” (más barata / simple):** **FlixBus** 1.5h, $11-22pp.
+- **Opción “Eurail day” (para usar el pass):** **tren** `Ljubljana → Trieste` (EuroCity / regional según horario). Suele ser sin reserva obligatoria en este tramo.
+
+**Variante si vienen con auto (loop por Eslovenia):**
+- Dejar el auto en **Koper** y hacer **Koper → Trieste en bus** (~40–50 min). Suele ser más simple que el tren (que normalmente implica cambios) y te deja Trieste listo para el stopover + tren a Florencia.
 
 **Parada en Trieste** (algunas horas)
 - Castillo de Miramare, centro histórico, café italiano
@@ -277,29 +221,29 @@ Vs Eurail Escenario B: $439-489 (pass $370 + reservas $69-119)
 **Tramo 2: Trieste → Florencia**
 - **Italo directo:** 3.5h, $22-40pp advance (1 salida/día)
 - **Trenitalia Frecciarossa:** 4-5h vía Bologna o Venice Mestre, $20-55pp
-- **Recomendación:** Italo directo si el horario encaja. Sino Trenitalia vía Bologna.
+- **Recomendación:** si estás pagando cash, Italo directo si el horario encaja. Si ese día lo querés **Eurail**, usar **Trenitalia** (Frecce) con reserva.
 
 **Total:** $33-62pp, 5-7h de viaje real (sin contar parada en Trieste)
 
-**Eurail:** Se puede usar 1 día del pass para tren Liubliana→Trieste (SŽ/Trenitalia regional) + Trenitalia Frecciarossa Trieste→Florencia ($11 reserva). Pero advance individual es barato, así que solo conviene si te sobran días del pass.
+**Eurail:** si este día cuenta dentro de tus 15 días, hacelo “full Eurail”: `Ljubljana → Trieste` en tren + `Trieste → Firenze` con Trenitalia. En Frecciarossa la reserva es **obligatoria (€13)**. Si no querés gastar día Eurail, lo más barato suele ser **FlixBus + Italo advance**.
 
 ---
 
-## Auto Rentado - Highlands (19-25 ago)
+## Auto Rentado - Highlands (18-25 ago)
 
 ### Datos Confirmados
-- **Fechas:** 19 ago (pickup) → 25 ago (devolución)
+- **Fechas:** 18 ago (pickup) → 25 ago (devolución, mañana)
 - **Pickup/devolución:** Aeropuerto de Edimburgo
 - **Empresas recomendadas:** Arnold Clark, Enterprise
 
 ### Ruta del Auto
 | Noche | Ciudad | Noches |
 |-------|--------|--------|
-| 19-20 ago | Fort William | 2 |
-| 21-22 ago | Portree (Isle of Skye) | 2 |
-| 23-24 ago | Inverness | 2 |
-| 25 ago | Devolver auto → Edimburgo | Dormir en Edimburgo |
-| 26 ago | Vuelo Edimburgo → Ámsterdam | - |
+| 18-20 ago | Fort William | 2 |
+| 20-22 ago | Portree (Isle of Skye) | 2 |
+| 22-24 ago | Inverness | 2 |
+| 24 ago | Inverness → Gothenburg Hotel (tránsito) | 1 |
+| 25 ago | Vuelo Edimburgo → Ámsterdam | - |
 
 ### Tips Auto en Escocia
 - Se maneja por la IZQUIERDA
@@ -327,22 +271,23 @@ Vs Eurail Escenario B: $439-489 (pass $370 + reservas $69-119)
 
 ### Eurail (YA COMPRADO — $370)
 - [x] ~~Comprar Eurail~~ — LISTO
-- [ ] Activar pass el **12 de septiembre**
-- [ ] Reserva TGV DESVÍO → Friburgo — sncf-connect.com
-- [ ] Reserva nocturno Interlaken → Praga — nightjet.com (opción "Eurail Globalpass")
-- [ ] Reserva nocturno Cracovia → Budapest — nightjet.com
+- [ ] Activar pass el **19 de septiembre** (primer día Eurail sugerido)
+- [ ] Definir si el día 15 será **Barcelona → Madrid con Renfe/iryo** o si se reemplaza por otro día (ver alternativas)
+- [ ] Reservar/planificar el nocturno **Cracovia → Budapest (9 oct)** (asiento/couchette/sleeper según presupuesto)
 
 ### Comprar anticipado SIN Eurail (2-3 meses antes)
-- [ ] Vuelo Edimburgo → Ámsterdam (26 ago) — Skyscanner
-- [ ] Vuelo Nápoles → Barcelona (4 nov) — Skyscanner
-- [ ] Liubliana → Trieste (15 oct) — flixbus.com ($11-22)
-- [ ] Trieste → Florencia (15 oct) — italotreno.it o trenitalia.com ($22-40 advance)
+- [ ] Vuelo Edimburgo → Ámsterdam (25 ago) — Skyscanner. Aún sin vuelo.
+- [ ] Vuelo **París → Lisboa** (4 sept) — **comprado ($85, con equipaje)**
+- [ ] Tren **Lisboa → Porto** (9 sept) — CP (Alfa Pendular / Intercidades)
+- [ ] Vuelo **Porto → Estrasburgo** (12 sept) — **comprado ($95, con equipaje)**
+- [ ] Vuelo Sur Italia → Barcelona (8 nov) — Skyscanner. Aeropuerto depende de ruta sur elegida (Nápoles/Bari/Catania/Palermo)
+- [ ] Liubliana → Trieste (17 oct) — **FlixBus (cash)** $11-22 *o* **tren (Eurail day)** según estrategia
+- [ ] Trieste → Florencia (17 oct) — **Italo (cash)** $22-40 *o* **Trenitalia (Eurail + reserva €13)**
 - [ ] Tren Londres → York (13 ago) — Trainline
-- [ ] Tren York → Edimburgo (16 ago) — Trainline
-- [ ] Eurostar Ámsterdam → París (30 ago) — eurostar.com anticipado
-- [ ] Auto Highlands (19-25 ago) — Arnold Clark / Enterprise
-- [ ] Bus Praga → Cracovia (27 sept) — regiojet.com (desde $17)
-- [ ] Budapest → Viena (6 oct) — oebb.at (Sparschiene desde $17)
-- [ ] Florencia → Roma (20 oct) — italotreno.it o trenitalia.com (desde $11)
-- [ ] Roma → Nápoles (27 oct) — italotreno.it o trenitalia.com (desde $11)
-- [ ] Barcelona → Madrid (11 nov) — ouigo.com o renfe.com/AVLO (desde $10-17)
+- [ ] Tren York → Edimburgo (15 ago) — Trainline
+- [ ] Eurostar Ámsterdam → París (29 ago) — eurostar.com anticipado
+- [ ] Auto Highlands (18-25 ago, devolución 25 a la mañana) — Arnold Clark / Enterprise
+- [ ] Bus Praga → Cracovia (4 oct) — regiojet.com (desde $17)
+- [ ] Florencia → Roma (22 oct) — italotreno.it o trenitalia.com (desde $11)
+- [ ] Roma → Nápoles (29 oct) — italotreno.it o trenitalia.com (desde $11)
+- [ ] Barcelona → Madrid (13 nov) — **Ouigo/AVLO (cash)** *o* **Renfe/iryo (Eurail + reserva)** según días restantes
