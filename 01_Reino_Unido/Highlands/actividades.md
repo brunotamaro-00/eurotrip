@@ -128,7 +128,7 @@ Día más tranquilo y fresco.
 | 22 ago | Viernes | Inverness | Traslado desde Skye (~3h) |
 | 23 ago | Sábado | Inverness | |
 | 24 ago | Domingo | Gothenburg Hotel (tránsito) | Traslado desde Inverness (~3.5h aprox), noche en ruta hacia EDI |
-| 25 ago | Lunes | — | Vuelo a Ámsterdam (aún sin vuelo) |
+| 25 ago | Lunes | — | Vuelo a Ámsterdam — **COMPRADO (USD 182 total, 2p)** |
 
 **Ruta auto:** Edimburgo → (A82, Loch Lomond, Glencoe) → Fort William → (Eilean Donan) → Skye → Inverness → (A9) → Edimburgo
 

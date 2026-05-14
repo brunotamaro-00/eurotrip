@@ -56,7 +56,7 @@
 |----------|------------|
 | Eurail Pass (15 días/2 meses) — YA COMPRADO | $370 |
 | Reservas obligatorias Eurail (TGV, nocturnos) | $69-119 |
-| Vuelo Edimburgo → Ámsterdam (aún sin vuelo) | $55-110 |
+| Vuelo Edimburgo → Ámsterdam (COMPRADO — USD 182 total, 2p) | **$91** |
 | Vuelo Sur Italia → Barcelona (aeropuerto flexible) | $15-110 |
 | Vuelo **Buenos Aires (BUE) → Londres (LHR)** — **Smiles (COMPRADO)** | **$484** |
 | Vuelo **Madrid (MAD) → Buenos Aires (BUE)** — **Plus Ultra (COMPRADO)** | **$473** |
@@ -70,7 +70,7 @@
 | Barcelona → Madrid (Ouigo/AVLO) | $17-41 |
 | Auto Highlands (7 días, dividido en 2) | $150-220 |
 | Transporte local (metro, bus, etc.) | $500-750 |
-| **TOTAL TRANSPORTE** | **$2,345.5-2,994.5** |
+| **TOTAL TRANSPORTE** | **$2,381.5-2,975.5** |
 
 **Nota:** Maximizar los 15 días del Eurail con day trips (Suiza, Bratislava, Pompeya, Montserrat). Los tramos baratos (Italia, España, bus) se compran por fuera. Ver análisis en TRANSPORTE_ENTRE_CIUDADES.md.
 
@@ -231,7 +231,8 @@
 | Vuelo Buenos Aires (BUE) → Londres (LHR) — Smiles | $968.0 | $484.0 |
 | Vuelo Madrid (MAD) → Buenos Aires (BUE) — Plus Ultra | $946.0 | $473.0 |
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
-| **TOTAL CONFIRMADO** | **$5,575.8** | **$2,832.9** |
+| Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$182.0** | **$91.0** |
+| **TOTAL CONFIRMADO** | **$5,757.8** | **$2,923.9** |
 
 ---
 

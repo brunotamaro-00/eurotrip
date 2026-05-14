@@ -72,16 +72,16 @@
 ### ✅ Plan confirmado:
 1. **24 agosto:** Manejar Inverness → Gothenburg Hotel (camino a EDI) (~3.5h aprox)
 2. **24 agosto noche:** Dormir en **Gothenburg Hotel** (1 noche, tránsito)
-3. **25 agosto:** Vuelo Edimburgo → Ámsterdam (aún sin vuelo)
+3. **25 agosto:** Vuelo Edimburgo → Ámsterdam — **COMPRADO (USD 182 total, 2p)**
 
 ### Devolución del auto
 - Devolver en Aeropuerto de Edimburgo (EDI) el **25 por la mañana**
 - Práctico: el hotel queda en ruta hacia EDI y simplifica el día de vuelo (devolución + salida a Ámsterdam)
 
-### Vuelo Edimburgo → Ámsterdam (25 agosto) — AÚN SIN VUELO
+### Vuelo Edimburgo → Ámsterdam (25 agosto) — **COMPRADO**
 - **Aerolíneas:** KLM, easyJet, Ryanair
 - **Duración:** ~1.5h directo
-- **Precio estimado:** £50-150
+- **Precio:** **USD 182 total (2 personas)** (**USD 91 pp**)
 - **Aeropuerto:** Edinburgh Airport (EDI)
 - **Tip:** Buscar vuelo temprano para aprovechar el día en Ámsterdam
 
@@ -107,10 +107,10 @@
   - Empresa: [___]
   - Precio total: £___
   - Confirmación: #___
-- [ ] **Vuelo Edimburgo → Ámsterdam:** 25 agosto — aún sin vuelo
+- [x] **Vuelo Edimburgo → Ámsterdam:** 25 agosto — **COMPRADO**
   - Aerolínea: [___]
   - Hora: [___]
-  - Precio: £___
+  - Precio: **USD 182 total (2p)** / **USD 91 pp**
 
 ## 🔗 Enlaces Útiles
 

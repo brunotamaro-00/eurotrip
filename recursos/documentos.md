@@ -149,7 +149,7 @@
 - **Equipaje:** 1 carry on + 1 valija despachada
 
 ### Vuelos Internos (ver TRANSPORTE_ENTRE_CIUDADES.md)
-- Edimburgo → Ámsterdam (25 ago) — aún sin vuelo
+- Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
 - Sur de Italia → Barcelona (8 nov)
 
 ---

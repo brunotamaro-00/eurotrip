@@ -29,7 +29,7 @@ Ventana estimada: **19 sept → 18 nov** (fin de ventana Eurail), lo que deja la
 | 2 | York → Edimburgo (15 ago) | LNER | $22–44 | **Sí aplica**, mismo caso que arriba | **No** | Igual: comprar advance. |
 | 3 | Edimburgo → Highlands (18 ago) | Auto | — | No aplica | N/A | — |
 | 4 | Highlands → Edimburgo (24 ago) | Auto | — | No aplica | N/A | — |
-| 5 | Edimburgo → Ámsterdam (25 ago) | Vuelo | $55–110 | No aplica | N/A | — |
+| 5 | Edimburgo → Ámsterdam (25 ago) | Vuelo | **$91 (USD 182 total, 2p)** — **COMPRADO** | No aplica | N/A | — |
 | 6 | Ámsterdam → París (29 ago) | **Eurostar** | $39–55 | **Sí aplica**, pero reserva **obligatoria**: **€32–€37** | **No** | Con Eurail casi no ahorrás (y además hay cupos de passholders). |
 | 7 | París → Lisboa (4 sept) | Vuelo | **$85 (con equipaje)** | No aplica | N/A | — |
 | 8 | Lisboa → Porto (9 sept) | CP (IC/AP) | $12–40 | **Sí aplica**, reserva **obligatoria** en IC/AP (fee típico: **€5** en Alfa Pendular; en Portugal se gestiona en estación) | **No (low-ROI)** | Buen candidato solo si te faltan días y querés “gastar” 1 travel day temprano. |
@@ -156,7 +156,7 @@ Si querés comprar low-cost y **no** usar Eurail el 13 nov, cambiá el **Día #1
 
 ### Edimburgo → Ámsterdam (25 ago)
 - **Duración:** 1.5h
-- **Precio:** $55-110pp
+- **Precio:** **USD 182 total (2 personas)** (**USD 91 pp**) — **COMPRADO**
 - **Airlines:** Ryanair, EasyJet, KLM
 - **Por qué volar:** Tren = 12h+ con varios transbordos. No tiene sentido.
 - **Tip:** Reservar con 2-3 meses de anticipación para mejores precios.
@@ -276,7 +276,7 @@ Ver `12_Italia/Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md` para la
 - [ ] Reservar/planificar el nocturno **Cracovia → Budapest (9 oct)** (asiento/couchette/sleeper según presupuesto)
 
 ### Comprar anticipado SIN Eurail (2-3 meses antes)
-- [ ] Vuelo Edimburgo → Ámsterdam (25 ago) — Skyscanner. Aún sin vuelo.
+- [x] Vuelo Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
 - [ ] Vuelo **París → Lisboa** (4 sept) — **comprado ($85, con equipaje)**
 - [ ] Tren **Lisboa → Porto** (9 sept) — CP (Alfa Pendular / Intercidades)
 - [ ] Vuelo **Porto → Estrasburgo** (12 sept) — **comprado ($95, con equipaje)**
