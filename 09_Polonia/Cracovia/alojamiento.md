@@ -1,9 +1,9 @@
 # 🏨 Alojamiento en Cracovia
 
 
-**Mosquito Hostel** - Ver PRESUPUESTO.mdpp, legendario, muy social  
-**Greg & Tom Party Hostel** - Ver PRESUPUESTO.mdpp, fiesta  
-**Goodbye Lenin** - Ver PRESUPUESTO.mdpp, temático
+**Mosquito Hostel** - **~USD 20-28 pp/noche** (dorm), legendario, muy social
+**Greg & Tom Party Hostel** - **~USD 22-30 pp/noche**, fiesta
+**Goodbye Lenin** - **~USD 18-26 pp/noche**, temático
 
 **Ubicación:** Centro (Stare Miasto) o Kazimierz
 

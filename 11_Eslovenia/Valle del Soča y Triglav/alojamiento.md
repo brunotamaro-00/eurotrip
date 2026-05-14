@@ -1,5 +1,7 @@
 # 🏨 Alojamiento — Valle del Soča y Triglav
 
+**Referencia de precios (plan 2026):** pensiones y hostels de montaña **~USD 40-60 pp/noche** (jul-ago más caro; octubre algo más bajo). Alinear con bloque Eslovenia en `PRESUPUESTO.md`.
+
 ## 🧭 Dónde conviene dormir (si hacés 1 noche)
 
 ### Kobarid (recomendación “equilibrada”)

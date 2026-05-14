@@ -1,24 +1,24 @@
 # Alojamiento — Friburgo
 
 **Fechas:** 16-19 septiembre (3 noches)  
-**Presupuesto objetivo:** Ver PRESUPUESTO.mdpp/noche  
+**Presupuesto objetivo:** **USD 38-55 pp/noche** (Selva Negra; ver `PRESUPUESTO.md`)  
 
 ---
 
 ## Hostels / Económico
 
-**Black Forest Hostel** — Ver PRESUPUESTO.mdpp
+**Black Forest Hostel** — **~USD 36-50 pp/noche** (dorm; cotizar)
 - Cerca del centro, buena onda
 - Dormitorios y habitaciones privadas
 - Cocina compartida
 - **Preguntar por KONUS card**
 
-**Green City Hotel Vauban** — Ver PRESUPUESTO.mdpp
+**Green City Hotel Vauban** — **~USD 45-70 pp/noche** (hotel; cotizar)
 - Barrio Vauban (ecológico)
 - Sostenible, moderno
 - Incluye KONUS card
 
-**Airbnb en Altstadt** — Ver PRESUPUESTO.mdpp
+**Airbnb en Altstadt** — **~USD 40-65 pp/noche** (2 pers.; depende fechas)
 - Apartamento + cocina = ahorro
 - **Verificar si dan KONUS card** (depende del anfitrión/municipio)
 

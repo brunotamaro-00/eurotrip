@@ -1,9 +1,9 @@
 # 🏨 Alojamiento en Budapest
 
 
-**Carpe Noctem** - Ver PRESUPUESTO.mdpp, party, terraza  
-**Vitae** - Ver PRESUPUESTO.mdpp, diseño  
-**Maverick** - Ver PRESUPUESTO.mdpp, ruin bar propio
+**Carpe Noctem** - **~USD 22-32 pp/noche** (dorm), party, terraza
+**Vitae** - **~USD 24-34 pp/noche**, diseño
+**Maverick** - **~USD 26-36 pp/noche**, ruin bar propio
 
 **Ubicación:** Distrito 7 (ruin bars) o Pest centro
 

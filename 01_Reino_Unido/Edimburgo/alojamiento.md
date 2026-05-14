@@ -1,6 +1,8 @@
 # 🏨 Alojamiento en Edimburgo
 
 **Fechas:** 15-18 agosto (3 noches)  
+**Referencia reservada / plan:** **~USD 45,8 pp/noche** promedio (3 noches; `PRESUPUESTO.md`). En Fringe, los hostels céntricos suelen **USD 55-90+** si se reserva tarde.
+
 **Nota:** AGOSTO = FESTIVAL FRINGE - Reservar YA, precios suben mucho
 
 ## 🎯 Criterios
@@ -109,7 +111,7 @@
 
 ### 🎯 Análisis rápido:
 - **Mejor puntaje:** Edinburgh Backpackers (8,4)
-- **Mejor precio:** Safestay Edinburgh Cowgate (Ver PRESUPUESTO.md + código promo STAY10)
+- **Mejor precio:** Safestay Edinburgh Cowgate (**~USD 44/noche** en dorm 6p; ver tabla arriba + código promo STAY10)
 - **Más privacidad:** High Street Hostel (4 personas por cuarto)
 - **Todos en Ciudad Vieja:** Excelente ubicación en todos los casos
 

@@ -1,5 +1,7 @@
 # 🏨 Alojamiento — Costa eslovena y Trieste
 
+**Referencia de precios (plan 2026):** bloque Eslovenia **~USD 33-45 pp/noche** (`PRESUPUESTO.md`). **Trieste (Italia)** suele ser **~USD 40-65** según temporada y cercanía al centro.
+
 ## Recomendación para tu estrategia
 
 ### Dormir en **Koper** (logística)

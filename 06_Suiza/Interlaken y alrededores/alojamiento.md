@@ -1,7 +1,7 @@
 # Alojamiento — Jungfrau Region / Suiza (4 noches: 19-23 sept)
 
 **Viajeros:** 2 personas
-**Presupuesto objetivo:** Lo más barato posible (Suiza es cara)
+**Presupuesto objetivo:** Lo más barato posible (Suiza es cara). **Referencia plan 2026:** **~USD 70-88 pp/noche** en la región Jungfrau (`PRESUPUESTO.md`; la tabla CHF de abajo detalla por base).
 **Tipo preferido:** Hostels, guesthouses, Airbnb económico
 
 ---
@@ -15,7 +15,7 @@
 | | Grindelwald | CHF 45-65 | CHF 70-90 | CHF 55-75 | CHF 180-260 |
 | | Gimmelwald | CHF 35-45 | CHF 50-65 | N/A | CHF 140-180 |
 
-**Nota:** CHF 1 ≈ Ver PRESUPUESTO.md.Ver PRESUPUESTO.md. Precios septiembre 2026 (temporada media).
+**Nota:** CHF 1 ≈ **USD ~1,12-1,18** (orientativo; ver cotización al reservar). Precios septiembre 2026 (temporada media).
 
 ---
 
@@ -79,10 +79,10 @@ Como la decisión final es 4 noches en Interlaken/Jungfrau, **Lucerna queda como
 
 | Ranking | Región | Costo 4 noches pp (dorm) | Costo 4 noches pp (privado) |
 |---------|--------|--------------------------|----------------------------|
-| 1 | **Gimmelwald** | CHF 140-180 (Ver PRESUPUESTO.md) | CHF 200-240 (Ver PRESUPUESTO.md) |
-| 2 | **Interlaken** | CHF 140-200 (Ver PRESUPUESTO.md) | CHF 180-260 (Ver PRESUPUESTO.md) |
-| 3 | **Lauterbrunnen** | CHF 160-220 (Ver PRESUPUESTO.md) | CHF 240-320 (Ver PRESUPUESTO.md) |
-| 4 | **Grindelwald** | CHF 180-260 (Ver PRESUPUESTO.md) | CHF 280-360 (Ver PRESUPUESTO.md) |
+| 1 | **Gimmelwald** | CHF 140-180 (≈ USD 155-200) | CHF 200-240 (≈ USD 220-265) |
+| 2 | **Interlaken** | CHF 140-200 (≈ USD 155-220) | CHF 180-260 (≈ USD 198-285) |
+| 3 | **Lauterbrunnen** | CHF 160-220 (≈ USD 175-240) | CHF 240-320 (≈ USD 265-350) |
+| 4 | **Grindelwald** | CHF 180-260 (≈ USD 198-285) | CHF 280-360 (≈ USD 308-395) |
 
 ---
 

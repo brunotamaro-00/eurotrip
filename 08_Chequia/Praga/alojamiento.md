@@ -3,14 +3,14 @@
 
 ## 🏠 Hostels Party
 
-**Hostel One Home** - Ver PRESUPUESTO.mdpp, ambiente increíble, cenas gratuitas  
-**Czech Inn** - Ver PRESUPUESTO.mdpp, moderno, bar  
-**Sir Toby's** - Ver PRESUPUESTO.mdpp, Holešovice (hip)
+**Hostel One Home** - **~USD 26-36 pp/noche** (dorm), ambiente increíble, cenas gratuitas
+**Czech Inn** - **~USD 28-38 pp/noche**, moderno, bar
+**Sir Toby's** - **~USD 24-34 pp/noche**, Holešovice (hip)
 
 ## 🏠 Hostels Tranquilos
 
-**Plus Prague** - Ver PRESUPUESTO.mdpp, boutique  
-**Mosaic House** - Ver PRESUPUESTO.mdpp, diseño
+**Plus Prague** - **~USD 30-42 pp/noche**, boutique
+**Mosaic House** - **~USD 32-44 pp/noche**, diseño
 
 ## 💡 Tips
 

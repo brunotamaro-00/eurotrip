@@ -1,7 +1,7 @@
 # 🛏️ Alojamiento — Lisboa
 
 **Fechas:** 4–9 septiembre (5 noches)  
-**Objetivo:** ≤ ~Ver PRESUPUESTO.md/noche (1 persona)  
+**Objetivo:** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
 
 ---
 
@@ -79,7 +79,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Lisbon-Destination-Hostel/Lisbon/53114?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=14`
 - **Puntaje / ubicación**: 9,6 — Rossio / Baixa  
-- **Precio**: 8 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 8 personas | **~USD 28/noche** (Hostelworld, 4–9 sept 2026, 1 huésped; ver `hostelworld.tsv`)
 - **Cocina**: **sí (full)** — cocina, heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: *muy fuerte*. Señales: Linkup Events (walking tours, pub crawls, fiestas de sangría/BBQ), “jungle” indoor garden, juegos (pool/ping-pong), espacios comunes grandes.
 - **Alertas de reseñas**:
@@ -92,7 +92,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Lost-Inn-Lisbon/Lisbon/73197?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=4`
 - **Puntaje / ubicación**: 9,4 — Chiado (cerca Cais do Sodré / Pink Street)
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 37/noche**
 - **Cocina**: **sí (full)** — cocina, heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: *fuerte*. Señales: cenas temáticas, conciertos/actividades internas, walking tours, sangría; común “cómodo para conocer gente”.
 - **Alertas de reseñas**:
@@ -105,7 +105,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Living-Lounge-Hostel/Lisbon/29235?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=22`
 - **Puntaje / ubicación**: 9,9 — Chiado / Baixa
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 43/noche**
 - **Cocina**: **sí (full)** — cocina, heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: *medio-alto* (más “boutique” que party). Señales: tours + **cenas**/workshops (muy buen formato para conocer gente) y lounge grande.
 - **Alertas de reseñas**:
@@ -118,7 +118,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/We-Love-F-Tourists/Lisbon/75036?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=18`
 - **Puntaje / ubicación**: 9,6 — Baixa
-- **Precio**: 3 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 3 personas | **~USD 42/noche**
 - **Cocina**: **sí (casi full)** — heladera/freezer, microondas, pava eléctrica, ollas/sartenes, hornallas.
 - **Vibe social / amigos**: *fuerte*. Señales: staff muy protagonista, cenas/tapas con música, tours + bar crawls.
 - **Alertas de reseñas**:
@@ -132,7 +132,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Goodnight-Lisbon-Hostel/Lisbon/20273?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=16`
 - **Puntaje / ubicación**: 9,5 — Baixa / Chiado
-- **Precio**: 3 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 3 personas | **~USD 35/noche**
 - **Cocina**: **sí (limitada)** — heladera/freezer, microondas.
 - **Vibe social / amigos**: *fuerte*. Señales: sangría, pub crawls, walking tours; “casa compartida” vibe.
 - **Alertas de reseñas**:
@@ -145,7 +145,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Inn-Possible-Lisbon-Hostel/Lisbon/83892?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=19`
 - **Puntaje / ubicación**: 9,2 — Mouraria / Alfama (centro histórico)
-- **Precio**: 6 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 6 personas | **~USD 46/noche**
 - **Cocina**: **sí (full)** — heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: *medio-alto*. Señales: actividades diarias, cenas/film nights/sangría; buena recepción para solo travelers.
 - **Alertas de reseñas**:
@@ -159,7 +159,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Lisb-on-Hostel/Lisbon/47342?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=20`
 - **Puntaje / ubicación**: 9,0 — Baixa-Chiado
-- **Precio**: 6 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 6 personas | **~USD 37/noche**
 - **Cocina**: **sí (muy limitada)** — microondas.
 - **Vibe social / amigos**: *medio*. Señales: rooftop y espacios comunes lindos; menos señal de “eventos fuertes” que los top.
 - **Alertas de reseñas**:
@@ -172,7 +172,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Safestay-Lisbon-Bairro-Alto/Lisbon/43233?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=27`
 - **Puntaje / ubicación**: 8,8 — Bairro Alto
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 34/noche**
 - **Cocina**: **sí (muy limitada)** — microondas.
 - **Vibe social / amigos**: *alto* si querés “party hostel” (bar/terrazas/eventos).
 - **Alertas de reseñas**:
@@ -186,7 +186,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/The-Central-House-Lisbon-Baixa/Lisbon/296255?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=30`
 - **Puntaje / ubicación**: 8,9 — Baixa
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 40/noche**
 - **Cocina**: **no**
 - **Vibe social / amigos**: *medio-bajo* (más “hostel moderno / hotel feel”). Señales: common space/cowork; menos enfoque en fiesta.
 - **Alertas de reseñas**:
@@ -199,7 +199,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Draft-Hostel-Rooms/Lisbon/323502?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=34`
 - **Puntaje / ubicación**: 8,6 — Baixa / Chiado
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 57/noche**
 - **Cocina**: **sí (full)** — cocina, heladera/freezer, utensilios, microondas, pava eléctrica, hornallas.
 - **Vibe social / amigos**: *medio* (más “cómodo/quiet”). Señales: walking tours, yoga, pub crawls, espacios comunes.
 - **Alertas de reseñas**:
@@ -212,7 +212,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Rossio-Hostel/Lisbon/20929?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=25`
 - **Puntaje / ubicación**: 9,7 — Rossio / Baixa
-- **Precio**: 4 personas | **Ver PRESUPUESTO.md**
+- **Precio**: 4 personas | **~USD 49/noche**
 - **Cocina**: **sí (full)** — heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: en papel *muy alto* (actividad nocturna, común grande).
 - **ALERTA (reseñas)**:

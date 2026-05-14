@@ -1,7 +1,7 @@
 # 🛏️ Alojamiento — Porto
 
 **Fechas:** 9–12 septiembre (3 noches)  
-**Objetivo:** ≤ ~Ver PRESUPUESTO.md/noche (1 persona)  
+**Objetivo:** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
 
 ---
 

@@ -1,5 +1,7 @@
 # 🏨 Alojamiento en Liubliana
 
+**Referencia de precios (plan 2026):** **~USD 33-45 pp/noche** en el bloque Eslovenia (`PRESUPUESTO.md`). Hostels céntricos típicamente **~USD 35-48** en dorm.
+
 ## 🧭 Qué conviene para ustedes (son 2)
 Liubliana es chica: lo que más te cambia la experiencia es **ubicación + parking (si ya tenés auto)** y que el check-in/check-out sea simple.
 
@@ -14,9 +16,9 @@ Liubliana es chica: lo que más te cambia la experiencia es **ubicación + parki
 ---
 
 ## 🏨 Opciones (ideas base)
-**Hostel Celica** – ver `PRESUPUESTO.md` (ex-prisión convertida, único)  
-**Alibi** – ver `PRESUPUESTO.md` (moderno)  
-**Tresor** – ver `PRESUPUESTO.md` (social)
+**Hostel Celica** – **~USD 38-48 pp/noche** (dorm; plan Eslovenia) (ex-prisión convertida, único)  
+**Alibi** – **~USD 35-45 pp/noche** (moderno)  
+**Tresor** – **~USD 36-46 pp/noche** (social)
 
 **Ubicación:** Centro (ciudad pequeña, todo cerca)
 

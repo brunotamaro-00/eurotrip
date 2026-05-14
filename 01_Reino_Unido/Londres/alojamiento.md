@@ -1,6 +1,8 @@
 # 🏨 Alojamiento en Londres
 
 **Fechas:** 5-13 agosto (8 noches)  
+**Referencia reservada / plan:** **~USD 37,6 pp/noche** promedio (8 noches; `PRESUPUESTO.md`). Rangos por barrio en la tabla inferior = **orientativos** (hostel dorm, ago.).
+
 **Ubicación preferida:** Zonas 1-2, cerca del metro
 
 ## 🎯 Criterios de Búsqueda
@@ -89,19 +91,19 @@
 
 | Barrio | Precio pp/noche | Transporte | Vida Nocturna | Atracciones | MEJOR PARA |
 |--------|----------------|------------|---------------|-------------|------------|
-| **King's Cross** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | **Ubicación práctica** |
-| **Shoreditch** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Vida nocturna** |
-| **South Bank** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Vista río/turismo** |
-| **Camden** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Alternativo/mercados** |
-| **Kensington** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | **Museos gratis** |
-| **Paddington** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | **Aeropuerto/Hyde Park** |
+| **King's Cross** | **USD 38-52** (dorm; ago.) | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | **Ubicación práctica** |
+| **Shoreditch** | **USD 42-58** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | **Vida nocturna** |
+| **South Bank** | **USD 48-68** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Vista río/turismo** |
+| **Camden** | **USD 35-48** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Alternativo/mercados** |
+| **Kensington** | **USD 45-65** | ⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ | **Museos gratis** |
+| **Paddington** | **USD 40-55** | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐ | **Aeropuerto/Hyde Park** |
 
 ## 🚫 Barrios a Evitar
 
 - **Zone 3+ (Periféricas):** Demasiado lejos, pierdes mucho tiempo en transporte
 - **Brixton:** Puede ser inseguro de noche (buen mercado de día, no ideal para hospedarse)
 - **Zonas cerca de aeropuertos:** Pierdes horas de viaje diario
-- **Oxford St / Soho / Covent Garden:** Ubicación excelente pero MUY CARO (Ver PRESUPUESTO.md+/noche)
+- **Oxford St / Soho / Covent Garden:** Ubicación excelente pero MUY CARO (**USD 65-95+**/noche en hostel)
 
 ## 🗺️ Mapa Mental de Londres
 
@@ -239,8 +241,8 @@
 
 ### 🎯 Análisis rápido:
 - **Mejor puntaje:** Destinations @ The Gallery (9,1) - también pocos por cuarto
-- **Mejor precio:** Smart Russell Square (Ver PRESUPUESTO.md) y Smart Camden Inn (Ver PRESUPUESTO.md)
-- **Mejor balance precio/calidad:** Destinations @ The Gallery (9,1, Ver PRESUPUESTO.md, 6 personas)
+- **Mejor precio:** Smart Russell Square (**~USD 32**/noche) y Smart Camden Inn (**~USD 33**/noche)
+- **Mejor balance precio/calidad:** Destinations @ The Gallery (9,1, **~USD 42**/noche, 6 personas)
 - **Mejor ubicación céntrica:** Wombat's (Tower of London) o St Christopher's (Shoreditch)
 
 ## ✅ Decisión Final
@@ -260,14 +262,14 @@
 ## 💡 Tips para Londres
 
 ### Cómo llegar desde Heathrow
-- **Opción 1 - Piccadilly Line (Metro):** Ver PRESUPUESTO.md, 1 hora, directo
-- **Opción 2 - Elizabeth Line:** Ver PRESUPUESTO.md, 45 min, más rápido
-- **Opción 3 - Heathrow Express:** Ver PRESUPUESTO.md, 15 min + metro después
-- **Uber/Taxi:** Ver PRESUPUESTO.md, según tráfico
+- **Opción 1 - Piccadilly Line (Metro):** **~USD 6-8** (~£5-6), ~1 hora, directo
+- **Opción 2 - Elizabeth Line:** **~USD 15-19** (~£12-15), ~45 min, más rápido
+- **Opción 3 - Heathrow Express:** **~USD 30-40** (~£25), ~15 min + metro después
+- **Uber/Taxi:** **~USD 60-120+**, según tráfico
 
 ### Cómo llegar desde Gatwick
-- **Gatwick Express:** Ver PRESUPUESTO.md, 30 min a Victoria
-- **Thameslink:** Ver PRESUPUESTO.md, más lento pero económico
+- **Gatwick Express:** **~USD 25-32** (~£20), ~30 min a Victoria
+- **Thameslink:** **~USD 12-18** (~£10-14), más lento pero económico
 
 ### Cerca del Alojamiento
 - **Supermercado:** Tesco Metro / Sainsbury's Local (por confirmar según ubicación)
@@ -277,7 +279,7 @@
 
 ### Transporte Público
 - **Oyster Card:** Comprar en cualquier estación
-- **Tope diario Zonas 1-2:** Ver PRESUPUESTO.md (ilimitado después de ese monto)
+- **Tope diario Zonas 1-2:** **~USD 11-13/día** (~£8,90; contactless/Oyster; ilimitado después de ese monto)
 - **O usar tarjeta contactless** directamente
 
 ## 📝 Notas

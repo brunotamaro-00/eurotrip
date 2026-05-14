@@ -16,23 +16,23 @@
 
 | Barrio | Precio pp/noche | Metro | Local/Seguro | Comida | Atracciones | MEJOR PARA |
 |--------|----------------|-------|--------------|--------|-------------|------------|
-| **Poble Sec** ⭐ | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tapas/local/seguro** |
-| **Gràcia** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Experiencia local** |
-| **El Born** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Céntrico/bonito** |
-| **Raval Alto** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | **Alternativo/barato** |
-| **Eixample** | Ver PRESUPUESTO.md | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Sagrada Familia** |
+| **Poble Sec** ⭐ | **USD 38-50** (dorm/privada básica; nov.) | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | **Tapas/local/seguro** |
+| **Gràcia** | **USD 36-48** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | **Experiencia local** |
+| **El Born** | **USD 42-58** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Céntrico/bonito** |
+| **Raval Alto** | **USD 34-46** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ | **Alternativo/barato** |
+| **Eixample** | **USD 40-54** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | **Sagrada Familia** |
 
 ## 💡 Recomendación Final
 
-- **🥇 Poble Sec / Sant Antoni:** Carrer Blai tapas, Montjuïc 10min, local, seguro, Ver PRESUPUESTO.md pp.
-- **🥈 Plan B Gràcia:** Máxima experiencia local, plazas, Park Güell 15min, Ver PRESUPUESTO.md pp.
-- **🥉 Plan C El Born:** Más céntrico, bonito, histórico. Más caro (Ver PRESUPUESTO.md pp), más pickpockets.
+- **🥇 Poble Sec / Sant Antoni:** Carrer Blai tapas, Montjuïc 10min, local, seguro, **~USD 38-50 pp/noche**.
+- **🥈 Plan B Gràcia:** Máxima experiencia local, plazas, Park Güell 15min, **~USD 36-48 pp/noche**.
+- **🥉 Plan C El Born:** Más céntrico, bonito, histórico. Más caro (**~USD 42-58 pp/noche**), más pickpockets.
 
 ## 🏠 Hostels
 
-**Sant Jordi Hostels** - Ver PRESUPUESTO.mdpp, múltiples locaciones, social  
-**Kabul Party Hostel** - Ver PRESUPUESTO.mdpp, fiesta  
-**360 Hostel Arts&Culture** - Ver PRESUPUESTO.mdpp, cultural
+**Sant Jordi Hostels** - **~USD 28-40 pp/noche** (dorm), múltiples locaciones, social  
+**Kabul Party Hostel** - **~USD 32-45 pp/noche**, fiesta  
+**360 Hostel Arts&Culture** - **~USD 26-38 pp/noche**, cultural
 
 Barcelona llena de hostels, muy backpacker-friendly
 

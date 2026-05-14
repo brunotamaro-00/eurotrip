@@ -1,6 +1,8 @@
 # 🏨 Alojamiento en York
 
 **Fechas:** 13-15 agosto (2 noches)  
+**Referencia de precios (plan 2026):** **~USD 59,5 pp/noche** promedio reservado (`PRESUPUESTO.md`; hostel/céntrico en temporada alta). Cotizar siempre en Hostelworld/Booking.
+
 **Ubicación preferida:** Centro histórico, cerca de la estación
 
 ## 🎯 Criterios de Búsqueda

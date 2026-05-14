@@ -1,5 +1,7 @@
 # 🏨 Alojamiento en Viena
 
+**Referencia de precios (plan 2026):** **~USD 50-60 pp/noche** en promedio para el bloque Viena (5 noches; `PRESUPUESTO.md`). Los hostels de la comparativa suelen caer **~USD 35-55** en dorm según fecha.
+
 ---
 
 ## Dónde conviene dormir (barrios, con trade-offs)
@@ -61,8 +63,8 @@
 
 #### 3) Precio (lo que cuesta vs lo que ofrece)
 - **Con precios ya anotados por vos**:
-  - **Ruthensteiner**: **Ver PRESUPUESTO.md–38pp** (tu nota) + “value for money” muy alto.
-  - **Wombat’s**: **Ver PRESUPUESTO.md–44pp** (tu nota) + excelente ubicación, suele justificar el extra.
+  - **Ruthensteiner**: **~€32-38 / ~USD 35-42 pp/noche** (tu nota) + “value for money” muy alto.
+  - **Wombat’s**: **~€38-44 / ~USD 42-48 pp/noche** (tu nota) + excelente ubicación, suele justificar el extra.
 - **Proxy “value for money” (Hostelworld)**:
   - **Vienna Boutique**: muy alto (tiende a ser de lo mejor en valor si te encaja el estilo tranquilo).
   - **MEININGER**: correcto, pero a veces pagás “hotel feel” más que ambiente.
@@ -90,7 +92,7 @@
 #### Wombat’s City Hostel Vienna Naschmarkt
 - **Ubicación**: Naschmarkt / U4 Kettenbrückengasse (base muy céntrica).
 - **Cocina**: **sí, guest kitchen**.
-- **Precio**: **Ver PRESUPUESTO.md–44pp** (tu nota).
+- **Precio**: **~€38-44 / ~USD 42-48 pp/noche** (tu nota).
 - **Ambiente**: social (bar/eventos), buen equilibrio.
 - **Limpieza**: alta.
 - **Ideal si**: querés estar bien ubicado y aun así poder cocinar algunos días.
@@ -98,7 +100,7 @@
 #### Hostel Ruthensteiner Vienna
 - **Ubicación**: Westbahnhof (U3/U6), buen hub para moverse; menos “postal” a pie.
 - **Cocina**: **sí, muy completa** (neveras + cocina + micro).
-- **Precio**: **Ver PRESUPUESTO.md–38pp** (tu nota) + excelente relación valor.
+- **Precio**: **~€32-38 / ~USD 35-42 pp/noche** (tu nota) + excelente relación valor.
 - **Ambiente**: de los más “hostel spirit” y fácil para socializar.
 - **Limpieza**: muy buena.
 - **Ideal si**: querés cocinar bastante y hacer vida de hostel sin gastar de más.

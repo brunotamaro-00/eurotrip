@@ -1,5 +1,7 @@
 # 🏨 Alojamiento — Lagos Alpinos (Bled / Bohinj)
 
+**Referencia de precios (plan 2026):** **~USD 38-55 pp/noche** en Bled (temporada media-alta); Bohinj a veces **~USD 35-48** en habitaciones simples. Ver bloque Eslovenia en `PRESUPUESTO.md`.
+
 ## Dónde conviene dormir (según objetivo)
 
 ### Bled (cómodo + logística simple)

@@ -1,5 +1,7 @@
 # 🏨 Alojamiento — Karst y Cuevas
 
+**Referencia de precios (plan 2026):** mismo orden de magnitud que el bloque Eslovenia (**~USD 33-55 pp/noche** en guesthouses/apartamentos rurales; `PRESUPUESTO.md`).
+
 ## ¿Conviene dormir acá?
 En tu loop, esta zona suele funcionar mejor como **día de paso** (entre Soča/Lagos y Costa/Koper) porque:
 - La visita marca el ritmo por **horarios/tours**.

@@ -1,6 +1,8 @@
 # Alojamiento — Innsbruck
 
 **Fechas:** 23-25 septiembre (2 noches)  
+**Referencia de precios (plan 2026):** **~USD 50-70 pp/noche** (`PRESUPUESTO.md`, Austria). Innsbruck suele ser algo más barata que Viena; habitación privada en Airbnb ronda **~USD 70-110 pp/noche** si se cotiza con anticipación.
+
 **Presupuesto objetivo:** medio (Austria es cara, pero menos que Suiza)  
 
 ---

@@ -24,9 +24,9 @@ Nápoles es una ciudad intensa, y donde elijas dormir definirá tu percepción d
 
 ## 🏠 Hostels
 
-- **Hostel of the Sun** - Ver PRESUPUESTO.mdpp. Cerca del puerto (excelente si van a tomar ferries a Capri/Sicilia). Muy social.
+- **Hostel of the Sun** - **~USD 28-42 pp/noche** (dorm). Cerca del puerto (excelente si van a tomar ferries a Capri/Sicilia). Muy social.
 - **Tric Trac Hostel** - En el Centro Storico, muy buenas reseñas en limpieza y ambiente.
-- **Ostello Bello Napoli** - Ver PRESUPUESTO.mdpp. Moderno, céntrico, seguro.
+- **Ostello Bello Napoli** - **~USD 32-46 pp/noche**. Moderno, céntrico, seguro.
 
 ## 💡 Tip Final
 Con solo 2 noches, el **Centro Storico** es la mejor opción. Van a querer vivir la experiencia de caminar de noche por Via dei Tribunali comiendo pizza sin tener que pensar en tomar un metro turbio de vuelta a la estación.

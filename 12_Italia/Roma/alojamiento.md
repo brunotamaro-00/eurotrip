@@ -33,9 +33,9 @@
 
 ## 🏠 Hostels Populares
 
-- **The Yellow Square** - Ver PRESUPUESTO.mdpp, el *party hostel* más famoso de Roma. Genial si quieres fiesta, terrible si quieres dormir tranquilo (está cerca de Termini pero en una calle decente).
+- **The Yellow Square** - **~USD 38-52 pp/noche** (dorm), el *party hostel* más famoso de Roma. Genial si quieres fiesta, terrible si quieres dormir tranquilo (está cerca de Termini pero en una calle decente).
   - **Voz de Cande (2026):** lo describe como **“pura joda”** — bar integrado, ambiente muy social/fiestero; encaja si el plan es **salir y conocer gente**, no si buscan silencio. El **bar del Yellowsquare** también aparece en listas de vida nocturna de quienes se quedan ahí.
-- **Alessandro Palace** - Ver PRESUPUESTO.mdpp, bar en la terraza. (Cerca de Termini).
+- **Alessandro Palace** - **~USD 35-48 pp/noche**, bar en la terraza. (Cerca de Termini).
 - **Hostel Trastevere / Legends** - En Trastevere, ambiente más relajado.
 
 ## 💡 Recomendación Final para 7 noches

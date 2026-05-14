@@ -18,18 +18,20 @@ Jordaan y Oud-West. Barrios hermosos con canales pintorescos. Jordaan es el más
 **ZONA AMARILLA (Este/Sur) -- IDEAL:**
 De Pijp, Oost, Museumplein, hasta Artis Zoo y Oosterpark. El mejor balance entre precio, autenticidad, ubicación y transporte. De Pijp tiene Albert Cuypmarkt y vida de barrio; Oost es más tranquilo y económico. Ambos a 10-15 min en bici del centro.
 
+**Nota:** Referencia de **precios en USD** alineada al plan 2026 (`PRESUPUESTO.md`): **~USD 59 pp/noche** promedio en vuestra reserva (4 noches, 2p). Rangos por zona = **orientativos** (dorm/privada pequeña, ago.; el **12,5% impuesto turístico** a veces se suma al checkout).
+
 ### Las 8 Zonas de Ámsterdam
 
 | Zona | Precio pp/noche | Ubicación | Vibe | Para quién |
 |------|----------------|-----------|------|------------|
-| **De Pijp** | Ver PRESUPUESTO.md | A 10 min bici del centro | Multicultural, mercados, bares locales | **Balance perfecto** |
-| **Oost** | Ver PRESUPUESTO.md | 15 min bici/tram | Diverso, económico, tranquilo | **Presupuesto ajustado** |
-| **Oud-West** | Ver PRESUPUESTO.md | 10 min bici, junto a Vondelpark | Local, trendy, mercados | **Cerca de museos y Leidseplein** |
-| **Jordaan** | Ver PRESUPUESTO.md | En el centro | Canales, pintoresco, bohemio | **Si el presupuesto lo permite** |
-| **Museumplein/Zuid** | Ver PRESUPUESTO.md | Junto a los museos | Tranquilo, elegante | **Si priorizan museos** |
-| **Centrum** | Ver PRESUPUESTO.md | EL centro | Turístico, ruidoso, caro | **No recomendado** |
-| **Noord** | Ver PRESUPUESTO.md | Al otro lado del río IJ | Alternativo, en crecimiento | **Solo si el hostel es muy bueno** |
-| **West/Nieuw-West** | Ver PRESUPUESTO.md | Periférico | Residencial, poco interés | **No recomendado** |
+| **De Pijp** | **USD 52-72** (dorm; ago.) | A 10 min bici del centro | Multicultural, mercados, bares locales | **Balance perfecto** |
+| **Oost** | **USD 48-62** | 15 min bici/tram | Diverso, económico, tranquilo | **Presupuesto ajustado** |
+| **Oud-West** | **USD 52-75** | 10 min bici, junto a Vondelpark | Local, trendy, mercados | **Cerca de museos y Leidseplein** |
+| **Jordaan** | **USD 62-88** | En el centro | Canales, pintoresco, bohemio | **Si el presupuesto lo permite** |
+| **Museumplein/Zuid** | **USD 58-82** | Junto a los museos | Tranquilo, elegante | **Si priorizan museos** |
+| **Centrum** | **USD 65-95** | EL centro | Turístico, ruidoso, caro | **No recomendado** |
+| **Noord** | **USD 45-62** | Al otro lado del río IJ | Alternativo, en crecimiento | **Solo si el hostel es muy bueno** |
+| **West/Nieuw-West** | **USD 42-58** | Periférico | Residencial, poco interés | **No recomendado** |
 
 ### Micro-zonas (recomendación *fina*) para este viaje: social + salir de noche + bici
 
@@ -98,14 +100,16 @@ Esto no reemplaza una guía local, pero sirve para detectar patrones reales de e
 
 | Factor | Hostel (habitación compartida) | Hostel (privada) | Airbnb |
 |--------|-------------------------------|-------------------|--------|
-| **Precio total 4 noches** | Ver PRESUPUESTO.md (2 camas) | Ver PRESUPUESTO.md | Ver PRESUPUESTO.md+ |
-| **Precio pp/noche** | Ver PRESUPUESTO.md | Ver PRESUPUESTO.md | Ver PRESUPUESTO.md+ |
+| **Precio total 4 noches** | ~USD 360-520 (dorm, 2p)* | ~USD 480-720 (privada 2p) | ~USD 520-960 (Airbnb)* |
+| **Precio pp/noche** | ~USD 45-65* (**vuestra reserva ~USD 59**) | ~USD 60-90 | ~USD 65-120* |
+
+\* Orientativos (mercado ago.); **reserva confirmada del viaje:** ~**USD 237,7 pp** (4 noches, 2p) — `PRESUPUESTO.md`.
 | **Cocina** | Algunos sí, otros no | Algunos sí | Generalmente sí |
 | **Socializar** | Alto (bar, eventos) | Medio | Bajo |
 | **Privacidad** | Baja | Media | Alta |
 | **Ubicación** | Generalmente céntricos | Ídem | Variable |
 
-**Para 4 noches:** la diferencia de precio no es tan dramática como en París (6 noches). La comida callejera en Ámsterdam es barata y abundante (stroopwafels Ver PRESUPUESTO.md, FEBO Ver PRESUPUESTO.md, Albert Cuypmarkt), así que la cocina no es tan crítica como en París.
+**Para 4 noches:** la diferencia de precio no es tan dramática como en París (6 noches). La comida callejera en Ámsterdam es barata y abundante (stroopwafels ~USD 2-4, FEBO ~USD 2-4, Albert Cuypmarkt), así que la cocina no es tan crítica como en París.
 
 **Recomendación: Hostel.** Mejor relación precio/ubicación/experiencia para 4 noches. Si pueden, habitación privada para descansar mejor. Tienen muchos eventos sociales y suelen organizar bar crawls y actividades.
 
@@ -120,14 +124,14 @@ Esto no reemplaza una guía local, pero sirve para detectar patrones reales de e
 - Excelente ambiente social, staff organiza actividades diurnas y nocturnas
 - **Ideal si**: quieren **hostel social** y salir sin estar en Centrum
 - Nota: no tiene ascensor, tiene un gato residente
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 
 **Stayokay Amsterdam Oost** (Oost) -- 8.9/10
 - Antiguo colegio de 1900 reconvertido. Tranquilo, barrio típico
 - Habitaciones espaciosas con baño privado. Restaurante propio
 - A 15 min en bici/tram del centro
 - **Ideal si**: priorizan **descanso + precio** (y la salida la resuelven en bici)
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 - **No confundir con Stayokay Noord** (el que no le gustó a Martu)
 
 ### Zona Azul (Oud-West / Vondelpark)
@@ -136,14 +140,14 @@ Esto no reemplaza una guía local, pero sirve para detectar patrones reales de e
 - DENTRO de Vondelpark. Ubicación premium para museos (Rijksmuseum, Van Gogh a 5 min)
 - 574 camas, moderno, bar con deportes. Hoscar Winner 2026
 - **Ideal si**: querés **buen balance** entre museos + salir por Leidseplein (sin dormir en zona roja)
-- Desayuno Ver PRESUPUESTO.md.50
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- Desayuno **~USD 9-13** (~€8,50-11,50) opcional
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 
 **Flying Pig Uptown** (cerca de Vondelpark) -- 8.6/10
 - Hostel backpacker clásico, +18 estricto. Bar propio con beer pong y karaoke
 - Cerca de Leidseplein y museos
 - **Ideal si**: la prioridad es **salir/fiesta** (y toleran más ruido/ambiente)
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 
 ### Zona Centro (si priorizan ubicación sobre todo)
 
@@ -152,14 +156,14 @@ Esto no reemplaza una guía local, pero sirve para detectar patrones reales de e
 - Bar con DJ nights, cerveza más barata de la ciudad. Cocina disponible
 - +18 estricto. En zona roja del mapa (turístico) pero el hostel es bueno
 - **Ideal si**: quieren **logística Centraal** y no les molesta el “Centro turístico”
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 
 **Hans Brinker Hostel** -- 8.3/10
 - Cerca de Leidseplein (vida nocturna). Bar y club propios
 - Toalla y sábanas incluidas. Máximo 40 años en dorms
 - Sin cocina. Básico pero bien ubicado
 - **Ideal si**: quieren estar **muy cerca de Leidseplein** y vuelven tarde (no es opción “tranquila”)
-- ~Ver PRESUPUESTO.md pp/noche en compartida
+- ~**USD 50-72 pp/noche** en dorm (ago.; cotizar Hostelworld)
 
 ---
 

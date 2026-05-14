@@ -2,9 +2,9 @@
 
 
 **Opciones de Hostels:**
-- **Plus Florence** - Ver PRESUPUESTO.mdpp, con piscina y terraza, ambiente más moderno y tipo resort.
-- **Hostel Archi Rossi** - Ver PRESUPUESTO.mdpp, decoración artística única, desayuno abundante.
-- **Academy Hostel** - Ver PRESUPUESTO.mdpp, excelente ubicación cerca del Duomo.
+- **Plus Florence** - **~USD 36-50 pp/noche** (dorm), con piscina y terraza, ambiente más moderno y tipo resort.
+- **Hostel Archi Rossi** - **~USD 32-44 pp/noche**, decoración artística única, desayuno abundante.
+- **Academy Hostel** - **~USD 38-52 pp/noche**, excelente ubicación cerca del Duomo.
 - **Ostello Bello Firenze** — **cerca de SMN** (estación). **Voz de Cande (2026):** no es el más “lujo”, pero **gente copada**, ambiente **muy social** (bar y comedor integrados; a veces **pasta gratis** por la noche y detalles con la barra). Si el plan es **fiesta ligera + conocer gente**, encaja; si buscan silencio absoluto, revisar habitación privada u otro barrio.
 
 ---
