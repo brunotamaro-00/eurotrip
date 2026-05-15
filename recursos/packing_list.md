@@ -200,7 +200,7 @@ Items confirmados que faltan comprar:
 ### Esenciales
 - [ ] Pasaporte (válido 6+ meses)
 - [ ] Copia del pasaporte (separada del original)
-- [ ] Seguro de viaje (impreso + digital)
+- [ ] Póliza/seguro de viaje (PAX Assistance) (impreso + digital)
 - [ ] Tarjetas de crédito/débito (2-3 tarjetas en lugares separados)
 - [ ] Efectivo inicial (GBP + EUR)
 - [ ] Licencia de conducir (si planean rentar coche)

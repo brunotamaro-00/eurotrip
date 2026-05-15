@@ -15,7 +15,7 @@
 
 ## 1 a 2 Meses Antes (Trámites y Logística)
 - [ ] **ETIAS:** Solicitar autorización para Persona 2/argentina ($8, 72h proceso).
-- [ ] **Seguro de Viaje:** Contratar seguro por 109 días (cobertura min €30.000).
+- [x] **Seguro de Viaje:** **COMPRADO** — **Pax Assistance (4 meses BASIC)** — **USD 350 c/u** (USD 700 total).
 - [ ] **Finanzas:** Abrir cuenta en Wise y/o Revolut (tardan 1-2 semanas en llegar).
 - [ ] **Desvíos y Traslados:** Decidir y reservar transporte para day trips (Cotswolds, Wutachschlucht, etc.).
 - [ ] **Tecnología:** Comprar eSIM (Airalo o Holafly) y verificar que ambos teléfonos la soporten.

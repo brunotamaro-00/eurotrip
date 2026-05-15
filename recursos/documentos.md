@@ -70,10 +70,11 @@
 - **IATI** - Seguro español, buena cobertura Europa
 
 ### Datos del Seguro (completar al contratar)
-- Compañía: _por completar_
+- Compañía: **PAX Assistance**
+- Plan: **Long Stay (LS) 4 meses — BASIC**
 - Número de póliza: _por completar_
 - Contacto emergencia 24h: _por completar_
-- Costo estimado: $250-400 pp
+- Costo: **USD 350 pp** (**USD 700 total**, 2p) — **COMPRADO**
 
 ---
 
@@ -205,7 +206,7 @@ Crear carpeta "Viaje Europa 2026" con:
 ## Números de Emergencia
 
 - **Emergencias Europa:** 112
-- **Seguro de viaje:** _por completar_
+- **Seguro de viaje (PAX Assistance):** _por completar_ (ver voucher)
 - **Banco tarjeta 1:** _por completar_
 - **Banco tarjeta 2:** _por completar_
 - **Familia/Emergencia:** _por completar_

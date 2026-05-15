@@ -78,12 +78,12 @@
 
 | Concepto | Estimado pp |
 |----------|------------|
-| Seguro de viaje (109 días) | $250-400 |
+| Seguro de viaje — **Pax Assistance (4 meses BASIC) (COMPRADO)** | **$350** |
 | eSIM datos (3.5 meses) | $90-150 |
 | Museos y atracciones | $300-500 |
 | Lavandería (~10 veces) | $50-80 |
 | ETIAS | $8 |
-| **TOTAL OTROS** | **$698-1,138** |
+| **TOTAL OTROS** | **$798-1,088** |
 
 ---
 
@@ -194,9 +194,9 @@
 |-----------|-------|
 | Alojamiento (100 noches, sin Portugal) | $4,069-5,099 |
 | Alimentación (100 días, sin Portugal) | $2,894-4,015 |
-| Transporte (Eurail ya comprado) | $2,345.5-2,994.5 |
-| Otros | $698-1,138 |
-| **TOTAL pp (sin Portugal)** | **$10,006.5-13,246.5** |
+| Transporte (Eurail ya comprado) | $2,381.5-2,975.5 |
+| Otros | $798-1,088 |
+| **TOTAL pp (sin Portugal)** | **$10,142.5-13,177.5** |
 
 ### Portugal (1 persona, 8 noches)
 
@@ -210,9 +210,9 @@
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | $10,446.5-13,906.5 |
-| Persona 2 (100 noches, sin Portugal) | $10,006.5-13,246.5 |
-| **TOTAL VIAJE** | **$20,453-27,153** |
+| Persona 1 (108 noches completas) | **$10,592.5-13,983.5** |
+| Persona 2 (100 noches, sin Portugal) | **$10,142.5-13,177.5** |
+| **TOTAL VIAJE** | **$20,735-27,161** |
 
 ### Gastos Confirmados
 
@@ -232,7 +232,8 @@
 | Vuelo Madrid (MAD) → Buenos Aires (BUE) — Plus Ultra | $946.0 | $473.0 |
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
 | Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$182.0** | **$91.0** |
-| **TOTAL CONFIRMADO** | **$5,757.8** | **$2,923.9** |
+| Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
+| **TOTAL CONFIRMADO** | **$6,457.8** | **$3,273.9** |
 
 ---
 
