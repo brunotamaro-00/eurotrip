@@ -60,10 +60,7 @@
 - **Cobertura mínima:** €30.000 (requisito Schengen para Persona 2)
 - **Debe incluir:** Médica, repatriación (obligatorio), cancelación (recomendado), equipaje (recomendado)
 
-### Comparativa (precios + coberturas)
-- Ver documento dedicado: [asistencia_al_viajero_comparativa.md](asistencia_al_viajero_comparativa.md)
-
-### Compañías Recomendadas para Viajes Largos
+### Compañías evaluadas (referencia)
 - **SafetyWing** - Pensado para nómadas, cubre viajes largos, pago mensual
 - **World Nomads** - Popular entre mochileros
 - **True Traveller** - Especializado en viajes +90 días
@@ -151,7 +148,9 @@
 
 ### Vuelos Internos (ver TRANSPORTE_ENTRE_CIUDADES.md)
 - Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
-- Sur de Italia → Barcelona (8 nov)
+- París → Lisboa (4 sept) — **COMPRADO** (~$85 con equipaje, 1 persona)
+- Porto → Estrasburgo (12 sept) — **COMPRADO** (Volotea, **USD 90**, 1 persona)
+- Sur de Italia → Barcelona (8 nov) — pendiente
 
 ---
 
@@ -228,4 +227,4 @@ Crear carpeta "Viaje Europa 2026" con:
 
 ---
 
-**Última actualización:** Marzo 2026
+**Última actualización:** Mayo 2026

@@ -350,5 +350,5 @@ No todo hay que llevarlo. Europa tiene tiendas baratas (Primark, Decathlon, H&M)
 
 ---
 
-**Última actualización:** Marzo 2026
+**Última actualización:** Mayo 2026
 

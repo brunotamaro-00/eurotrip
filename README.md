@@ -22,7 +22,7 @@
 | 8 | Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 2 | 12-14 sept |
 | 9 | Francia | [Colmar](./03_Francia/Colmar/) | 2 | 14-16 sept |
 | 10 | Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 3 | 16-19 sept |
-| 11 | Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken\ y\ alrededores/) | 4 | 19-23 sept |
+| 11 | Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken%20y%20alrededores/) | 4 | 19-23 sept |
 | 12 | Austria | [Innsbruck](./07_Austria/Innsbruck/) | 2 | 23-25 sept |
 | 13 | Austria | [Viena](./07_Austria/Viena/) | 5 | 25-30 sept |
 | 14 | Chequia | [Praga](./08_Chequia/Praga/) | 4 | 30 sept - 4 oct |
@@ -32,7 +32,7 @@
 | 18 | Italia | [Florencia](./12_Italia/Florencia/) | 5 | 17-22 oct |
 | 19 | Italia | [Roma](./12_Italia/Roma/) | 7 | 22-29 oct |
 | 20 | Italia | [Nápoles](./12_Italia/Napoles/) | 2 | 29-31 oct |
-| 21 | Italia | [Sur de Italia (por definir)](./12_Italia/Sur\ de\ Italia/) | 8 | 31 oct - 8 nov |
+| 21 | Italia | [Sur de Italia (por definir)](./12_Italia/Sur%20de%20Italia/) | 8 | 31 oct - 8 nov |
 | 22 | España | [Barcelona](./13_España/Barcelona/) | 5 | 8-13 nov |
 | 23 | España | [Madrid](./13_España/Madrid/) | 5 | 13-18 nov |
 | 24 | España | **Margen (flex, por definir)** | 3 | 18-21 nov |
@@ -49,6 +49,7 @@
 | [PRESUPUESTO.md](PRESUPUESTO.md) | Estimaciones de gasto por país y categoría |
 | [TRANSPORTE_ENTRE_CIUDADES.md](TRANSPORTE_ENTRE_CIUDADES.md) | Cómo ir entre ciudades, Eurail, vuelos, trenes nocturnos, auto |
 | [TIPS_VIAJE.md](TIPS_VIAJE.md) | Consejos, estafas, seguridad, comida, errores comunes |
+| [CHECKLIST.md](CHECKLIST.md) | Panel de control de reservas y tareas pendientes |
 
 ### Carpetas por país/ciudad
 
@@ -66,8 +67,7 @@ Cada ciudad tiene su propia carpeta (ej. `01_Reino_Unido/Londres/`) con:
 | Archivo | Contenido |
 |---------|-----------|
 | [recursos/apps_utiles.md](recursos/apps_utiles.md) | Apps esenciales (Wise, Trainline, Citymapper, etc.) |
-| [recursos/documentos.md](recursos/documentos.md) | ETIAS, seguros, visas |
-| [recursos/asistencia_al_viajero_comparativa.md](recursos/asistencia_al_viajero_comparativa.md) | Comparativa de asistencia al viajero (precios + coberturas + análisis) |
+| [recursos/documentos.md](recursos/documentos.md) | ETIAS, seguro (Pax Assistance comprado), visas, vuelos |
 | [recursos/packing_list.md](recursos/packing_list.md) | Qué llevar |
 | [recursos/frases_utiles.md](recursos/frases_utiles.md) | Frases por idioma |
 
@@ -87,4 +87,4 @@ Todos los pendientes y tareas de reservas se han centralizado en el archivo maes
 
 ---
 
-**Última actualización:** Marzo 2026
+**Última actualización:** Mayo 2026

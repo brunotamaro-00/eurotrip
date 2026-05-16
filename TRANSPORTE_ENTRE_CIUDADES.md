@@ -189,7 +189,7 @@ El aeropuerto de salida depende de la ruta elegida en el sur:
 
 **Recomendación:** Catania y Palermo tienen los vuelos más baratos a Barcelona (Ryanair hub).
 
-Ver `12_Italia/Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md` para las 5 rutas posibles y sus transportes.
+Ver [`12_Italia/Sur de Italia/SUR_DE_ITALIA_OPCIONES.md`](./12_Italia/Sur%20de%20Italia/SUR_DE_ITALIA_OPCIONES.md) para las rutas posibles y sus transportes (subcarpetas: Puglia, Sicilia, Calabria, Costa Amalfitana).
 
 ---
 

@@ -114,4 +114,4 @@
 
 ---
 
-**Última actualización:** Marzo 2026
+**Última actualización:** Mayo 2026

@@ -14,7 +14,7 @@
 | 8 | 🇫🇷 Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 12-sept | 14-sept | 2 | Ciudad | $$ | 11-21 |
 | 9 | 🇫🇷 Francia | [Colmar](./03_Francia/Colmar/) | 14-sept | 16-sept | 2 | Ciudad | $$ | 11-22 |
 | 10 | 🇩🇪 Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 16-sept | 19-sept | 3 | Ciudad/Naturaleza | $$ | 10-21 |
-| 11 | 🇨🇭 Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken\ y\ alrededores/) | 19-sept | 23-sept | 4 | Trekking | $$$ | 9-17 |
+| 11 | 🇨🇭 Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken%20y%20alrededores/) | 19-sept | 23-sept | 4 | Trekking | $$$ | 9-17 |
 | 12 | 🇦🇹 Austria | [Innsbruck](./07_Austria/Innsbruck/) | 23-sept | 25-sept | 2 | Naturaleza/Ciudad | $$$ | 6-16 |
 | 13 | 🇦🇹 Austria | [Viena](./07_Austria/Viena/) | 25-sept | 30-sept | 5 | Ciudad | $$$ | 8-18 |
 | 14 | 🇨🇿 Chequia | [Praga](./08_Chequia/Praga/) | 30-sept | 4-oct | 4 | Ciudad | $$ | 10-18 |
@@ -24,7 +24,7 @@
 | 18 | 🇮🇹 Italia | [Florencia](./12_Italia/Florencia/) | 17-oct | 22-oct | 5 | Ciudad | $$ | 11-20 |
 | 19 | 🇮🇹 Italia | [Roma](./12_Italia/Roma/) | 22-oct | 29-oct | 7 | Ciudad | $$ | 12-21 |
 | 20 | 🇮🇹 Italia | [Nápoles](./12_Italia/Napoles/) | 29-oct | 31-oct | 2 | Ciudad | $ | 13-20 |
-| 21 | 🇮🇹 Italia | [Sur de Italia (por definir)](./12_Italia/Sur\ de\ Italia/) | 31-oct | 8-nov | 8 | Flexible | $-$$ | 15-23 |
+| 21 | 🇮🇹 Italia | [Sur de Italia (por definir)](./12_Italia/Sur%20de%20Italia/) | 31-oct | 8-nov | 8 | Flexible | $-$$ | 15-23 |
 | 22 | 🇪🇸 España | [Barcelona](./13_España/Barcelona/) | 8-nov | 13-nov | 5 | Ciudad | $$ | 11-18 |
 | 23 | 🇪🇸 España | [Madrid](./13_España/Madrid/) | 13-nov | 18-nov | 5 | Ciudad | $$ | 6-14 |
 | 24 | 🇪🇸 España | **Margen (flex, por definir)** | 18-nov | 21-nov | 3 | Flexible | — | — |
@@ -50,8 +50,8 @@
 - Hungría: 4 noches
 
 ### Europa del Sur (40 noches)
-- Eslovenia: 4 noches (**base + desvíos:** Bled + Trieste)
-- Italia: 22 noches (Florencia 5 + Roma 7 + Nápoles 2 + Sur 8) — **Sur flexible:** ver `12_Italia/Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md`
+- Eslovenia: 4 noches (**por regiones:** Liubliana, lagos, Soča, cuevas, costa/Trieste — ver [`11_Eslovenia/README.md`](./11_Eslovenia/README.md))
+- Italia: 22 noches (Florencia 5 + Roma 7 + Nápoles 2 + Sur 8) — **Sur flexible:** ver [`12_Italia/Sur de Italia/SUR_DE_ITALIA_OPCIONES.md`](./12_Italia/Sur%20de%20Italia/SUR_DE_ITALIA_OPCIONES.md) (subcarpetas: Puglia, Sicilia, Calabria, Costa Amalfitana)
 - España: 10 noches (Barcelona 5 + Madrid 5)
 
 > **Nota Italia:** Las 22 noches de Italia son redistribuibles. El bloque “Sur de Italia” sigue abierto (Puglia/Bari, Sicilia, etc.). El vuelo de salida es flexible (Nápoles, Bari, Catania, Palermo) y **la salida a Barcelona es el 8-nov**.
@@ -91,7 +91,7 @@
 ## ⚠️ Pendientes
 
 ### Decisiones Importantes
-1. **Sur de Italia (31 oct - 8 nov)**: Elegir entre Puglia/Bari, Calabria, Sicilia, etc. Ver `12_Italia/Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md`
+1. **Sur de Italia (31 oct - 8 nov)**: Elegir entre Puglia/Bari, Calabria, Sicilia, etc. Ver [`12_Italia/Sur de Italia/SUR_DE_ITALIA_OPCIONES.md`](./12_Italia/Sur%20de%20Italia/SUR_DE_ITALIA_OPCIONES.md)
 
 ### Por Planificar
 - [ ] Transporte entre ciudades principales

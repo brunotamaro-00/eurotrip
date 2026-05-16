@@ -100,3 +100,7 @@ Llega un punto (generalmente semana 4-6) donde no querés salir del hostel, te i
 4. **Alargar estadías** — Si un lugar te gusta, quédate más. El itinerario no está escrito en piedra.
 
 > *"If you get to a point where you hate traveling, stop. Rest. There's no medal for seeing 50 cities exhausted."* - Consenso r/solotravel
+
+---
+
+**Última actualización:** Mayo 2026
