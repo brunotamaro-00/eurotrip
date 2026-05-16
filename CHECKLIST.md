@@ -1,5 +1,7 @@
 # Panel de Control Maestro: Reservas y Preparativos
 
+**Fechas cerradas:** hasta fin del desvío Portugal (**12 sept**). **Post Portugal:** fechas tentativas — priorizar investigación; reservar alojamiento/traslados cuando se confirme tramo y noches. **3 noches de margen:** sin destino; no reservar hasta decidir si se usan y dónde.
+
 ## 3 a 6 Meses Antes (Reservas Críticas)
 - [ ] **Anne Frank House (Ámsterdam):** Reservar apenas abran las fechas (se agotan MESES antes).
 - [ ] **Coliseo + Foro / Vaticano (Roma):** Reservar online en web oficial (Parco Colosseo y Museos Vaticanos).
@@ -13,7 +15,7 @@
 - [x] **Vuelos Internos:** Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p). Pendiente: Sur de Italia → Barcelona (8 nov).
 - [ ] **Trenes Nocturnos:** Reservar asientos/camas (suelen abrir 2-3 meses antes).
 - [ ] **Auto Highlands:** Reservar auto (18-25 ago, devolución 25 a la mañana).
-- [ ] **Decisión Sur de Italia:** Elegir entre Puglia/Bari, Calabria, Sicilia, etc. (31 oct - 8 nov).
+- [ ] **Decisión Sur de Italia:** Elegir entre Puglia/Bari, Calabria, Sicilia, etc. (borrador **29 oct - 8 nov**, 10 noches).
 
 ## 1 a 2 Meses Antes (Trámites y Logística)
 - [ ] **ETIAS:** Solicitar autorización para Persona 2/argentina ($8, 72h proceso).

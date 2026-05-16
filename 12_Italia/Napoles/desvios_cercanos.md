@@ -1,6 +1,6 @@
 # 🗺️ Desvíos desde Nápoles
 
-> **Nota:** Las excursiones largas al sur (Costa Amalfitana, Puglia, Calabria, Sicilia) ahora tienen sus propias carpetas dentro de `../Sur de Italia (31 oct - 8 nov)/`. Ver `../Sur de Italia (31 oct - 8 nov)/SUR_DE_ITALIA_OPCIONES.md` para el análisis comparativo.
+> **Nota:** Las excursiones largas al sur (Costa Amalfitana, Puglia, Calabria, Sicilia) ahora tienen sus propias carpetas dentro de `../Sur de Italia/`. Ver `../Sur de Italia/SUR_DE_ITALIA_OPCIONES.md` para el análisis comparativo.
 
 ## Day Trips Cortos (si sobra tiempo en Nápoles)
 
@@ -8,7 +8,7 @@
 - **Distancia:** 25km, 30min Circumvesuviana
 - **Precio:** $18 entrada
 - **Tiempo:** 3-5 horas (es ENORME)
-- Info completa en `../Sur de Italia (31 oct - 8 nov)/Costa Amalfitana/desvios_cercanos.md`
+- Info completa en `../Sur de Italia/Costa Amalfitana/desvios_cercanos.md`
 
 ### Herculano
 - **Distancia:** 10km, 20min Circumvesuviana
@@ -29,10 +29,10 @@
 
 | Destino | Carpeta | Días recomendados |
 |---------|---------|-------------------|
-| Costa Amalfitana | `../Sur de Italia (31 oct - 8 nov)/Costa Amalfitana/` | 3-4 |
-| Puglia | `../Sur de Italia (31 oct - 8 nov)/Puglia/` | 5-7 |
-| Calabria | `../Sur de Italia (31 oct - 8 nov)/Calabria/` | 4-5 |
-| Sicilia | `../Sur de Italia (31 oct - 8 nov)/Sicilia/` | 6-8 |
+| Costa Amalfitana | `../Sur de Italia/Costa Amalfitana/` | 3-4 |
+| Puglia | `../Sur de Italia/Puglia/` | 5-7 |
+| Calabria | `../Sur de Italia/Calabria/` | 4-5 |
+| Sicilia | `../Sur de Italia/Sicilia/` | 6-8 |
 
 ---
 

@@ -1,6 +1,6 @@
 # 🎯 Actividades en Liubliana
 
-**Fechas:** 13-17 octubre (4 noches, 5 días)  
+**Fechas tentativas:** 11-15 octubre (4 noches, 5 días)  
 **Price Level:** $$ (económico para ser Europa occidental)  
 **Temp:** 7-15°C (otoño, puede llover)  
 **Sol:** Amanecer ~7:11-7:17 / Anochecer ~18:17-18:25 (~11h de luz)

@@ -1,6 +1,6 @@
 # Suiza — Interlaken y alrededores (Jungfrau Region)
 
-**Fechas:** 4 noches en la región de **Interlaken/Jungfrau**  
+**Fechas tentativas:** 19-23 septiembre (4 noches en la región **Interlaken/Jungfrau**)  
 **Prioridad:** vistas + trekking + cascadas (no ciudades)  
 **Presupuesto actividades:** pagar 2–3 “caras” si valen la pena  
 **Extra confirmado:** posible **stopover en Lucerna** el día de salida hacia Innsbruck (bajar, recorrer y seguir viaje).

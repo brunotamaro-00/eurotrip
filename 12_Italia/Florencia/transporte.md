@@ -1,6 +1,6 @@
 # 🚆 Transporte en Florencia
 
-**Llegada 17 oct — Liubliana → Trieste → Florencia (por tierra)**
+**Llegada 15 oct (borrador) — Liubliana → Trieste → Florencia (por tierra)**
 - FlixBus Liubliana→Trieste (1.5h, $11-22) + parada en Trieste + Italo/Trenitalia Trieste→Florencia (3.5-5h, $22-40)
 - Total: $33-62pp, 5-7h de viaje + parada en Trieste
 - Estación de llegada: **Firenze Santa Maria Novella (SMN)** (justo en el centro)
@@ -9,7 +9,7 @@
 - A Siena: Buses (autolinee toscane) suelen ser mejor que el tren porque te dejan en la cima del pueblo histórico, el tren te deja abajo en el valle.
 - A Pisa/Cinque Terre: Tren regional 2-3h, $22-33pp.
 
-**Salida 22 oct Florencia → Roma:** 
+**Salida 20 oct (borrador) Florencia → Roma:** 
 - Tren de alta velocidad (Frecciarossa o Italo): 1.5h, $11-28pp comprando anticipado. Frecuencia excelente (cada media hora).
 
 ---

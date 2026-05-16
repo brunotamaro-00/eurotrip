@@ -1,14 +1,14 @@
-# Sur de Italia (31 oct - 8 nov) — Base por definir
+# Sur de Italia (29 oct - 8 nov) — Base por definir
 
-**Fechas:** 31 oct - 8 nov (8 noches)  
-**Estado:** Por definir (Fuerte recomendación: **Sicilia** o **Puglia** debido al clima de noviembre).
+**Fechas tentativas:** 29 oct - 8 nov (**10 noches** en el borrador post-Portugal)  
+**Estado:** Por definir (fuerte recomendación: **Sicilia** o **Puglia** por clima de noviembre). Noches y fechas se confirman **sobre la marcha** junto con el resto del tramo post Portugal.
 
 ---
 
 ## Cómo usar esta carpeta
 
 - La comparación detallada de opciones, con el "Reality Check" de los foros de viajeros para noviembre, está en `SUR_DE_ITALIA_OPCIONES.md`.
-- La idea es elegir una de estas rutas (Puglia/Matera o Sicilia) y, cuando se defina, crear las subcarpetas base dentro de este tramo con los 4 archivos estándar (actividades, alojamiento, transporte, desvios_cercanos).
+- La idea es elegir una de estas rutas (Puglia/Matera o Sicilia) y, cuando se defina, usar las subcarpetas con los 5 archivos estándar (`actividades`, `alojamiento`, `transporte`, `desvios_cercanos`, `contexto_historico`).
 
 ---
 

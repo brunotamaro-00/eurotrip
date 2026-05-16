@@ -1,6 +1,6 @@
 # Transporte — Innsbruck
 
-**Fechas:** 23-25 septiembre (2 noches)  
+**Fechas tentativas:** 23 septiembre (tránsito → Viena el mismo día, salvo que se sumen noches)  
 
 ---
 
@@ -25,7 +25,7 @@ Ruta típica:
 
 ---
 
-## Salida a Viena (25 sept)
+## Salida a Viena (23 sept, borrador)
 
 - **Innsbruck → Viena:** ~4.5h (ÖBB Railjet)
 - Suele haber precios “Sparschiene” si comprás con anticipación

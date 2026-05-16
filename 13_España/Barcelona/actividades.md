@@ -1,6 +1,6 @@
 # 🎯 Actividades en Barcelona
 
-**Fechas:** 8-13 noviembre (5 noches, 6 días)  
+**Fechas tentativas:** 8-13 noviembre (5 noches, 6 días)  
 **Price Level:** $$  
 **Temp:** 11-18°C  
 **Sol:** Amanecer ~7:25-7:33 / Anochecer ~17:36-17:44 (~10h de luz)

@@ -1,6 +1,6 @@
 # 🎯 Actividades en Nápoles Ciudad
 
-**Fechas:** 29-31 octubre (2 noches, 2-3 días — el resto se dedica al sur)  
+**Fechas tentativas:** 27-29 octubre (2 noches — luego Sur de Italia 10 noches desde el 29)  
 **Price Level:** $ (Nápoles es económico para Italia)  
 **Temp:** 13-20°C (otoño, puede llover)  
 **Sol:** Amanecer ~6:28 / Anochecer ~16:57. **Horario de Invierno** (El cambio de hora fue el 25 oct en Roma, así que aquí ya aplica que anochece temprano).

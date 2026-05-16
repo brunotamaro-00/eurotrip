@@ -1,6 +1,6 @@
 # Transporte — Friburgo (Selva Negra)
 
-**Fechas:** 16-19 septiembre (3 noches)  
+**Fechas tentativas:** 16-19 septiembre (3 noches)  
 
 ---
 

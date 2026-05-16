@@ -4,6 +4,7 @@
 
 - **Duración:** 108 noches / 109 días (5 agosto - 21 noviembre 2026)
 - **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona)
+- **Itinerario:** Fechas **definidas hasta Portugal (12 sept)**; post Portugal son **tentativas** (pueden cambiar días por ciudad). Recalcular Schengen si se modifica el tramo Schengen.
 
 ### Nacionalidad e Inmigración
 
@@ -146,7 +147,7 @@
 - **Costo:** USD 473 pp (USD 946 total)
 - **Equipaje:** 1 carry on + 1 valija despachada
 
-### Vuelos Internos (ver TRANSPORTE_ENTRE_CIUDADES.md)
+### Vuelos Internos (ver `ITINERARIO_GENERAL.md` y `transporte.md` por ciudad)
 - Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
 - París → Lisboa (4 sept) — **COMPRADO** (~$85 con equipaje, 1 persona)
 - Porto → Estrasburgo (12 sept) — **COMPRADO** (Volotea, **USD 90**, 1 persona)

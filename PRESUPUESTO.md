@@ -5,6 +5,8 @@
 **Duración total:** 108 noches (5 agosto - 21 noviembre 2026)
 **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona)
 
+**Planificación:** Fechas y noches **cerradas hasta fin de Portugal (12 sept)**. Del Estrasburgo en adelante, las fechas por ciudad son **tentativas** (ver [`README.md`](README.md)). Las **3 noches de margen** no tienen destino fijo: presupuesto reservado para alargar estancia donde haga falta.
+
 ---
 
 ## Presupuesto por Categoría
@@ -26,15 +28,15 @@
 | Francia — Colmar | 14-16 sept | 2 | $40-60 | $80-120 | |
 | Alemania — Friburgo | 16-19 sept | 3 | $38-55 | $114-165 | Selva Negra (base) |
 | Suiza — Jungfrau Region | 19-23 sept | 4 | $70-88 | $280-352 | Interlaken/Lauterbrunnen/etc. |
-| Austria — Innsbruck | 23-25 sept | 2 | $50-70 | $100-140 | |
-| Austria — Viena | 25-30 sept | 5 | $50-60 | $250-300 | |
-| Chequia | 30 sept - 4 oct | 4 | $23-33 | $92-132 | |
-| Polonia | 4-9 oct | 5 | $18-28 | $90-140 | |
-| Hungría | 9-13 oct | 4 | $20-30 | $80-120 | |
-| Eslovenia | 13-17 oct | 4 | $33-45 | $132-180 | Por regiones (Liubliana + lagos + Soča + cuevas + costa/Trieste) |
-| Italia | 17 oct - 8 nov | 22 | $38-53 | $836-1,166 | Florencia + Roma + Nápoles + Sur de Italia |
+| Austria — Innsbruck | 23 sept (tránsito) | 0 | $50-70 | $0–140 | 0 noches en borrador; +1–2 si se confirman |
+| Austria — Viena | 23-28 sept | 5 | $50-60 | $250-300 | |
+| Chequia | 28 sept - 3 oct | 5 | $23-33 | $115-165 | |
+| Polonia | 3-7 oct | 4 | $18-28 | $72-112 | |
+| Hungría | 7-11 oct | 4 | $20-30 | $80-120 | |
+| Eslovenia — Liubliana | 11-15 oct | 4 | $33-45 | $132-180 | Base Liubliana; excursiones por regiones |
+| Italia | 15 oct - 8 nov | 24 | $38-53 | $912-1,272 | Florencia + Roma + Nápoles + Sur (10n) |
 | España | 8-18 nov | 10 | $35-48 | $350-480 | Barcelona + Madrid |
-| **Margen (flex, por definir)** | 18-21 nov | 3 | $35-48 | $105-144 | Extra para sumar a alguna ciudad |
+| **Margen flex (ubicación TBD)** | a usar en el viaje | 3 | $35-48 | $105-144 | Colchón; sumar noches donde interese (no anclado al cierre) |
 | **TOTAL** | | **108** | | **$4,349-5,554** | |
 
 ### Alimentación (por persona)
@@ -43,7 +45,7 @@
 |--------|---------|------|----------|
 | Europa Occidental (UK, NL, FR, DE, CH, AT) | $33-45 | 48 | $1,584-2,160 |
 | Europa Central (CZ, PL, HU, SI) | $20-30 | 17 | $340-510 |
-| Europa del Sur (IT, ES) | $28-38 | 32 | $896-1,216 |
+| Europa del Sur (IT, ES) | $28-38 | 34 | $952-1,292 |
 | **Portugal (1 persona)** | $20-40 | 8 | $160-320 |
 | **Margen (3 días flex)** | $28-45 | 3 | $84-135 |
 | **TOTAL** | | **108** | **$3,064-4,341** |
@@ -72,7 +74,7 @@
 | Transporte local (metro, bus, etc.) | $500-750 |
 | **TOTAL TRANSPORTE** | **$2,381.5-2,975.5** |
 
-**Nota:** Maximizar los 15 días del Eurail con day trips (Suiza, Bratislava, Pompeya, Montserrat). Los tramos baratos (Italia, España, bus) se compran por fuera. Ver análisis en TRANSPORTE_ENTRE_CIUDADES.md.
+**Nota:** Maximizar los 15 días del Eurail con day trips (Suiza, Bratislava, Pompeya, Montserrat). Los tramos baratos (Italia, España, bus) se compran por fuera. Ver tramos en `transporte.md` de cada ciudad y [`ITINERARIO_GENERAL.md`](ITINERARIO_GENERAL.md).
 
 ### Otros Gastos (por persona)
 
@@ -135,49 +137,49 @@
 - Actividades: $80-150 (teleféricos, trenes montaña)
 - **Subtotal: ~$545-732** (país más caro)
 
-### Austria (7 noches: 23-30 sept)
-- Alojamiento: $350-440
+### Austria (5 noches en borrador: Viena 23-28 sept; Innsbruck 0, puede +1–2)
+- Alojamiento: $250-440 (Viena $250-300 + Innsbruck $0-140 si aplica)
 - Comida: $231-315
 - Actividades: $50-100
 - **Subtotal: ~$631-855**
 
-### Chequia (4 noches: 30 sept - 4 oct)
-- Alojamiento: $92-132
+### Chequia (5 noches: 28 sept - 3 oct)
+- Alojamiento: $115-165
 - Comida: $80-120
 - Actividades: $20-40
 - **Subtotal: ~$192-292**
 
-### Polonia (5 noches: 4-9 oct)
-- Alojamiento: $90-140
+### Polonia (4 noches: 3-7 oct)
+- Alojamiento: $72-112
 - Comida: $90-140
 - Actividades: $20-40
 - **Subtotal: ~$200-320**
 
-### Hungría (4 noches: 9-13 oct)
+### Hungría (4 noches: 7-11 oct)
 - Alojamiento: $80-120
 - Comida: $80-120
 - Actividades: $30-50 (termas)
 - **Subtotal: ~$190-290**
 
-### Eslovenia (4 noches: 13-17 oct)
+### Eslovenia (4 noches: 11-15 oct, base Liubliana)
 - Alojamiento: $132-180
 - Comida: $80-120
 - Actividades: $30-50
 - **Subtotal: ~$242-350**
 
-### Italia (22 noches: 17 oct - 8 nov)
-- Alojamiento: $836-1,166
+### Italia (24 noches: 15 oct - 8 nov)
+- Alojamiento: $912-1,272
 - Comida: $616-836
 - Actividades: $100-200 (Coliseo, Vaticano, Uffizi, Pompeya)
 - **Subtotal: ~$1,420-2,020**
 
-> **Nota Sur de Italia:** El presupuesto de las 8 noches del bloque “Sur de Italia” varía según la ruta elegida:
+> **Nota Sur de Italia:** El presupuesto de las **10 noches** tentativas del bloque “Sur de Italia” varía según la ruta elegida:
 > - **Costa Amalfitana:** $$-$$$ — Sorrento/Positano más caro. ~$40-55pp/día todo incluido.
 > - **Puglia:** $ — Muy económica. ~$30-45pp/día todo incluido.
 > - **Calabria:** $ — La más barata. ~$25-40pp/día todo incluido. Sumar auto €25-40/día si aplica.
 > - **Sicilia:** $ — Económica. ~$30-45pp/día todo incluido. Ferry nocturno ahorra 1 noche hotel.
 > 
-> Impacto en presupuesto total: Elegir Puglia/Calabria/Sicilia en vez de Amalfi podría ahorrar $100-200pp en las 8 noches. Vuelos desde Catania/Palermo ($15-60) son más baratos que desde Nápoles ($44-110).
+> Impacto en presupuesto total: Elegir Puglia/Calabria/Sicilia en vez de Amalfi podría ahorrar $100-250pp en esas 10 noches. Vuelos desde Catania/Palermo ($15-60) son más baratos que desde Nápoles ($44-110).
 
 ### España (10 noches: 8-18 nov)
 - Alojamiento: $350-480

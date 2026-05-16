@@ -1,6 +1,6 @@
 # Transporte — Estrasburgo
 
-**Fechas:** 12-14 septiembre (2 noches)  
+**Fechas tentativas:** 12-14 septiembre (2 noches)  
 
 ---
 

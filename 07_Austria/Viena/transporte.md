@@ -1,6 +1,6 @@
 # 🚆 Transporte en Viena
 
-**Llegada Innsbruck → Viena (25 sept):** ~4.5h tren (ÖBB Railjet)
+**Llegada Interlaken/Innsbruck → Viena (23 sept, borrador):** tren ÖBB (desde Innsbruck ~4.5h si hay escala; o ruta directa según horario elegido)
 
 ## 🚇 Transporte local (Wiener Linien)
 
@@ -16,7 +16,7 @@
 - **Mini-hack “turista inteligente”**: si tu día es “centro caminable + 1–2 trayectos”, suele convenir **suelto**; si ese día vas a encadenar varias puntas (palacios + heuriger + miradores), el **24h** suele rendir.
 - **Ringstraße fácil**: si están cansados, usar tranvía para “ver ciudad” sin gastar energía (y bajar/subir por tramos).
 
-**Salida Viena → Praga (30 sept):** ~4h tren, $15-45pp (suele haber promos)
+**Salida Viena → Praga (28 sept, borrador):** ~4h tren, $15-45pp (suele haber promos)
 
 ---
 

@@ -1,6 +1,6 @@
 # Desvíos cercanos — Colmar / Alsacia
 
-**Fechas:** 14-16 septiembre (2 noches)  
+**Fechas tentativas:** 14-16 septiembre (2 noches)  
 
 ---
 

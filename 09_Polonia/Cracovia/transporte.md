@@ -1,6 +1,6 @@
 # 🚆 Transporte en Cracovia
 
-**Llegada Praga → Cracovia:** 4 oct - Tren/bus 7h, $27-44pp
+**Llegada Praga → Cracovia:** 3 oct (borrador) — Tren/bus ~7h, $27-44pp
 
 ## 🚋 Transporte local (MPK/KMK)
 
@@ -12,7 +12,7 @@
 - 24h **Zona I**: 20 PLN (normal) / 10 PLN (reducida)
 - 24h **Zonas I+II+III**: 25 PLN (normal) / 12.5 PLN (reducida)
 
-**Salida Cracovia → Budapest:** 9 oct
+**Salida Cracovia → Budapest:** 7 oct (borrador)
 - Hay conexiones **nocturnas** y **diurnas** según temporada/horarios. Comprar con anticipación suele abaratar y asegurar cama/couchette si aplica.
 
 ---

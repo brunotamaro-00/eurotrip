@@ -1,6 +1,10 @@
 # 🚆 Transporte en Nápoles y alrededores
 
-**Llegada Roma → Nápoles:** Tren de alta velocidad (Italo o Trenitalia). 1 hora, $11-33pp (muy frecuente). Comprar anticipado para el mejor precio. Llega a **Napoli Centrale**.
+**Fechas tentativas:** 27-29 octubre (2 noches).
+
+**Llegada 27 oct (borrador) Roma → Nápoles:** Tren de alta velocidad (Italo o Trenitalia). 1 hora, $11-33pp (muy frecuente). Comprar anticipado para el mejor precio. Llega a **Napoli Centrale**.
+
+**Salida 29 oct (borrador) → Sur de Italia:** según ruta elegida (Puglia, Sicilia, etc.); ver [`../Sur de Italia/`](../Sur%20de%20Italia/).
 
 ---
 

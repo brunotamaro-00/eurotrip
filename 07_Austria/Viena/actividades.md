@@ -1,6 +1,6 @@
 # 🎯 Actividades en Viena
 
-**Fechas:** 25-30 septiembre (5 noches)  
+**Fechas tentativas:** 23-28 septiembre (5 noches)  
 **Price Level:** $$$ (cara, pero hay trucos)  
 **Temp:** 9-17°C (otoño, puede llover)  
 **Sol:** Amanecer ~7:00-7:07 / Anochecer ~18:13-18:27 (~11.25h de luz)
@@ -169,18 +169,18 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 25 sept | Viernes | Llegada desde Innsbruck |
+| 23 sept | Miércoles | Llegada desde Interlaken/Innsbruck (mismo día si no pernoctan en Innsbruck) |
+| 24 sept | Jueves | |
+| 25 sept | Viernes | |
 | 26 sept | Sábado | |
 | 27 sept | Domingo | |
-| 28 sept | Lunes | |
-| 29 sept | Martes | |
-| 30 sept | Miércoles | Salida a Praga |
+| 28 sept | Lunes | Salida a Praga |
 
-## Eventos Cercanos a las Fechas (25-30 sept)
+## Eventos Cercanos a las Fechas (23-28 sept)
 
-- **Vienna Design Week** (25 sept - 4 oct, termina justo antes) - Festival interdisciplinario de diseño. Verificar si hay eventos finales.
-- **Viennale** (16-28 oct, CERCANO +1 semana) - Festival internacional de cine de Viena. Si las fechas fueran flexibles, es imperdible. Entradas ~Ver PRESUPUESTO.md.50. Web: viennale.at
-- **Waves Vienna** (1-3 oct, ANTES) - Festival de música emergente. Termina antes de la llegada.
+- **Vienna Design Week** (25 sept - 4 oct) - Solapa el **final** de la estancia tentativa (23-28 sept); verificar eventos de cierre.
+- **Viennale** (16-28 oct) - **No coincide** con la estancia tentativa (septiembre). Solo aplicaría si se flexibilizan fechas hacia octubre.
+- **Waves Vienna** (1-3 oct) - **Después** de la estancia tentativa (salida 28 sept).
 - Octubre en Viena = temporada de ópera y conciertos en la Staatsoper y Musikverein. Buscar programación.
 
 ## 💡 Tips de Viajeros

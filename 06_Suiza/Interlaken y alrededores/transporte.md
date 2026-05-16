@@ -1,6 +1,6 @@
 # Transporte — Suiza
 
-## Llegada desde Selva Negra / Friburgo (19 sept)
+## Llegada desde Selva Negra / Friburgo (19 sept, borrador tentativo)
 
 | Destino | Ruta | Duración | Precio sin pass | Eurail | Notas |
 |---------|------|----------|----------------|--------|-------|
@@ -11,7 +11,9 @@
 
 ---
 
-## Salida hacia Innsbruck (23 sept)
+## Salida hacia Innsbruck / Viena (23 sept, borrador)
+
+> Si Innsbruck queda en **0 noches**, seguir el mismo día hacia **Viena** (ver [`../../07_Austria/Innsbruck/transporte.md`](../../07_Austria/Innsbruck/transporte.md)).
 
 Ruta típica (por tren):
 

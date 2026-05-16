@@ -55,7 +55,7 @@
 
 ---
 
-## 🌦️ Octubre (13–17 oct) — tips específicos de alojamiento
+## 🌦️ Octubre (borrador 11–15 oct, base Liubliana) — tips específicos de alojamiento
 - **Secado de ropa/calzado**: si llueve, agradecés “calefacción buena” y lugar para secar.
 - **Llegada con luz**: si vas a dormir en zona muy rural, intentá llegar antes del anochecer.
 - **Plan B**: si pinta mal clima, que la base te deje moverte rápido hacia **cuevas** o **costa** sin perder 2 horas en carreteras de montaña.

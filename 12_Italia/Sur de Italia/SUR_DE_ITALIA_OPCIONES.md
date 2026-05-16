@@ -1,6 +1,6 @@
 # 🗺️ Sur de Italia — Análisis Comparativo de Opciones (Reddit Reality Check)
 
-**Contexto:** 8 noches asignadas actualmente (31 oct - 8 nov).  
+**Contexto:** **10 noches** en el **borrador tentativo** post-Portugal (29 oct - 8 nov; fechas y reparto por definir en el viaje).  
 **Prioridades:** Gastronomía auténtica, no sentirse en una trampa turística, buen clima/evitar cierres de temporada baja.  
 **Nápoles ciudad se mantiene** (1-2 días mínimo).  
 **Vuelo de salida flexible:** Roma, Nápoles, Bari, Catania, Palermo → Barcelona.
@@ -32,7 +32,7 @@ La regla de oro para el sur de Italia en noviembre es: **Ve a lugares donde la g
 
 ---
 
-## 🛤️ Las 2 Rutas Ganadoras para Noviembre (6-8 días después de Nápoles)
+## 🛤️ Las 2 Rutas Ganadoras para Noviembre (borrador **10 noches** tras Nápoles, 29 oct - 8 nov)
 
 Descartando la Costa Amalfitana por riesgo climático/logístico, las dos opciones más recomendadas para tener una experiencia auténtica y vibrante son:
 

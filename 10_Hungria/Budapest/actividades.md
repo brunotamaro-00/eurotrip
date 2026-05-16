@@ -1,6 +1,6 @@
 # 🎯 Actividades en Budapest
 
-**Fechas:** 9-13 oct (4 noches)  
+**Fechas tentativas:** 7-11 oct (4 noches)  
 **Price Level:** $ (muy económico)  
 **Temp:** 10-19°C (otoño, puede refrescar)  
 **Sol:** Amanecer ~6:42-6:48 / Anochecer ~18:15-18:23 (~11.5h de luz)
@@ -186,16 +186,16 @@ Budapest tiene **una de las mejores vidas nocturnas de Europa**, comparable a Be
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 9 oct | Viernes | Llegada desde Cracovia |
+| 7 oct | Miércoles | Llegada desde Cracovia |
+| 8 oct | Jueves | |
+| 9 oct | Viernes | |
 | 10 oct | Sábado | |
-| 11 oct | Domingo | |
-| 12 oct | Lunes | |
-| 13 oct | Martes | Salida a Liubliana |
+| 11 oct | Domingo | Salida a Liubliana |
 
-## Eventos Cercanos a las Fechas (9-13 oct)
+## Eventos Cercanos a las Fechas (7-11 oct)
 
-- **Festival de Pálinka y Salchichas** (1-3 oct) - Festival gastronómico en el Castillo de Buda. +400 destilados de pálinka, salchichas artesanales, quesos. Conciertos nocturnos. Coincide exacto con la llegada.
-- **SPAR Budapest Marathon** (10-11 oct, CERCANO) - Maratón por los landmarks de Budapest (Danubio, Parlamento, Castillo).
+- **Festival de Pálinka y Salchichas** (1-3 oct) - Festival gastronómico en el Castillo de Buda. Termina **antes** de la llegada tentativa (7 oct).
+- **SPAR Budapest Marathon** (10-11 oct) - Coincide con el **cierre** de la estancia tentativa (salida 11 oct).
 - **Café Budapest Autumn Festival** (mediados oct, CERCANO) - Festival de artes contemporáneas: cine, danza, jazz, teatro.
 
 ## 💡 Tips de Viajeros

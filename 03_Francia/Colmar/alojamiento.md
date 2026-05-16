@@ -1,6 +1,6 @@
 # Alojamiento — Colmar
 
-**Fechas:** 14-16 septiembre (2 noches)  
+**Fechas tentativas:** 14-16 septiembre (2 noches)  
 **Presupuesto objetivo:** **USD 40-60 pp/noche** (plan Alsacia; ver `PRESUPUESTO.md`)  
 
 ---

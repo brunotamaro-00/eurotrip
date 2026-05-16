@@ -1,6 +1,6 @@
 # 🎯 Actividades en Estrasburgo
 
-**Fechas:** 12-14 septiembre (2 noches)  
+**Fechas tentativas:** 12-14 septiembre (2 noches)  
 **Categoría:** Ciudad + gastronomía  
 **Price Level:** $$  
 **Temperatura:** 11-21°C  

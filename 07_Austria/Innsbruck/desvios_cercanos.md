@@ -1,6 +1,6 @@
 # Desvíos cercanos — Innsbruck
 
-**Fechas:** 23-25 septiembre (2 noches)  
+**Fechas tentativas:** 23 septiembre (tránsito o 1–2 noches)  
 
 ---
 

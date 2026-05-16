@@ -1,6 +1,6 @@
 # 🎯 Actividades en Innsbruck
 
-**Fechas:** 23-25 septiembre (2 noches)  
+**Fechas tentativas:** 23 septiembre — **tránsito / 0 noches** (puede pasar a 1–2 noches)  
 **Categoría:** Alpes + ciudad chica  
 **Price Level:** $$$  
 **Temperatura:** 6-16°C  
@@ -41,12 +41,14 @@
 
 ---
 
-## Plan simple (2 noches)
+## Plan simple (borrador: tránsito o 1–2 noches)
 
-### Itinerario “2 días reales” (sin correr)
+### Si es solo tránsito (0 noches → Viena el 23-sept)
+- Paseo corto por **Altstadt + Golden Roof** entre trenes, o subida rápida a **Nordkette** si el horario y el clima acompañan.
 
-- **Día 1 (llegada desde Suiza):** Altstadt + Golden Roof + paseo por el Inn + atardecer (si da) en algún mirador cercano.
-- **Día 2 (clima bueno):** Montaña (Nordkette *o* Patscherkofel/Zirbenweg) + cena en el centro.
+### Si confirman 1–2 noches
+- **Día 1 (llegada desde Suiza):** Altstadt + Golden Roof + paseo por el Inn.
+- **Día 2 (clima bueno):** Montaña (Nordkette *o* Patscherkofel/Zirbenweg) + salida a Viena.
 
 ### Plan B (si el clima está feo)
 - **Alpenzoo** (zoológico alpino, muy buen plan corto).
@@ -63,7 +65,7 @@
 - Innsbruck Card (incluye Nordkette + Patscherkofel + museos + transporte IVB): `https://www.innsbruck.info/en/sightseeing/innsbruck-card.html`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- **Con solo 2 noches**: elegir **1 subida** (Nordkette *o* Patscherkofel) según clima/visibilidad.
+- **Si confirman 1–2 noches** (borrador actual = tránsito): elegir **1 subida** (Nordkette *o* Patscherkofel) según clima/visibilidad.
 - **Nordkette** suele ser la opción “wow” por estar **pegada a la ciudad** (pero es más “miradores” que trekking largo).
 - **Patscherkofel** suele ganar si quieren **senderos más tranquilos** (Zirbenweg) y menos sensación de “atracción turística”.
 - Si piensan hacer 2-3 atracciones + transporte, **la Innsbruck Card** puede simplificar (revisar si les cierra por precio vs lo que efectivamente hagan).

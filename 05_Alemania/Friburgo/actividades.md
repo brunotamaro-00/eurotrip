@@ -1,6 +1,6 @@
 # 🎯 Actividades en Friburgo (base Selva Negra)
 
-**Fechas:** 16-19 septiembre (3 noches)  
+**Fechas tentativas:** 16-19 septiembre (3 noches)  
 **Categoría:** Ciudad + naturaleza (day trips)  
 **Price Level:** $$  
 **Temperatura:** 10-21°C  

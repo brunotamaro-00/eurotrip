@@ -1,6 +1,6 @@
 # 🎯 Actividades en Cracovia
 
-**Fechas:** 4-9 octubre (5 noches)  
+**Fechas tentativas:** 3-7 octubre (4 noches)  
 **Price Level:** $ (MUY económico)  
 **Temp:** 9-17°C  
 **Sol:** Amanecer ~6:26-6:40 / Anochecer ~18:18-18:38 (~12h de luz)
@@ -95,14 +95,13 @@ La mejor zona. Bares en antiguas sinagogas y edificios judíos históricos con d
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 4 oct | Domingo | Llegada desde Praga |
+| 3 oct | Sábado | Llegada desde Praga |
+| 4 oct | Domingo | |
 | 5 oct | Lunes | |
 | 6 oct | Martes | |
-| 7 oct | Miércoles | |
-| 8 oct | Jueves | |
-| 9 oct | Viernes | Salida a Budapest |
+| 7 oct | Miércoles | Salida a Budapest |
 
-## Eventos Cercanos a las Fechas (4-9 oct)
+## Eventos Cercanos a las Fechas (3-7 oct)
 
 - **Krakow Autumn Folk & Arts Festival** (16-19 oct, CERCANO +2 semanas) - Festival internacional de danza y música folklórica en el centro histórico. Actuaciones gratuitas en Mały Rynek.
 - No se encontraron eventos grandes durante las fechas exactas de estadía.

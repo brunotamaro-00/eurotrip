@@ -1,6 +1,6 @@
 # 🚆 Transporte en Budapest
 
-**Llegada:** 9 oct - Tren nocturno desde Cracovia (ideal)
+**Llegada (borrador):** 7 oct — Tren nocturno desde Cracovia (ideal) u otro horario
 
 **Local (BKK):**
 - **24h travelcard:** 2,750 HUF (oficial)
@@ -12,7 +12,7 @@
   - En el metro, el “error típico” turista es entrar sin tener el pase/ticket listo ante controles; tenerlo a mano.
   - Si vas a caminar mucho, combinar “caminata + 1 tranvía largo” para ahorrar piernas sin perder vistas.
 
-**Salida:** 13 oct - Budapest → Liubliana: tren (vía Viena) o bus (según horarios)
+**Salida (borrador):** 11 oct — Budapest → Liubliana: tren (vía Viena) o bus (según horarios)
 
 ---
 

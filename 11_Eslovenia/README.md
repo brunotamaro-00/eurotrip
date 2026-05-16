@@ -1,4 +1,6 @@
-## 🇸🇮 Eslovenia (13–17 oct) — por regiones + roadtrip en auto
+## 🇸🇮 Eslovenia (11–15 oct, borrador) — base Liubliana + roadtrip en auto
+
+**Fechas tentativas** (tramo post-Portugal; ver [`ITINERARIO_GENERAL.md`](../ITINERARIO_GENERAL.md)).
 
 **Idea fuerza (consenso viajeros):** Eslovenia rinde como “base + excursiones” o como **mini-loop en auto**. Liubliana es chica (1 día), y lo mejor está en lagos, valle del Soča, cuevas y costa.
 
@@ -30,7 +32,7 @@ Es una estrategia muy lógica porque:
 
 ---
 
-## 📍 Propuesta de loop (4 noches) — ajustada a tus fechas 13–17 oct
+## 📍 Propuesta de loop (4 noches) — borrador **11–15 oct** (base Liubliana)
 
 > Objetivo: tocar **todo lo “core”** sin que Soča sea solo manejo, y salir por Koper/Trieste sin estrés.
 
@@ -56,7 +58,7 @@ Es una estrategia muy lógica porque:
   - [`Karst y Cuevas/actividades.md`](./Karst%20y%20Cuevas/actividades.md)
   - [`Costa Eslovena y Trieste/actividades.md`](./Costa%20Eslovena%20y%20Trieste/actividades.md)
 
-### Salida (17 oct) — Koper → Trieste (stopover) → Florencia
+### Salida (15 oct, borrador) — Koper → Trieste (stopover) → Florencia
 - Bus Koper→Trieste suele ser ~40–50 min (FlixBus/Arriva según horario).
 - Trieste: consigna + 3–6h de paseo + tren a Florencia.
 - Link: [`Costa Eslovena y Trieste/transporte.md`](./Costa%20Eslovena%20y%20Trieste/transporte.md)

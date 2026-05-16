@@ -1,6 +1,6 @@
 # Alojamiento — Friburgo
 
-**Fechas:** 16-19 septiembre (3 noches)  
+**Fechas tentativas:** 16-19 septiembre (3 noches)  
 **Presupuesto objetivo:** **USD 38-55 pp/noche** (Selva Negra; ver `PRESUPUESTO.md`)  
 
 ---

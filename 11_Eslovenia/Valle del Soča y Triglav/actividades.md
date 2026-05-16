@@ -135,7 +135,7 @@
 
 ---
 
-## 🧠 Tips específicos para mediados de octubre (13–17 oct)
+## 🧠 Tips específicos para mediados de octubre (borrador 11–15 oct, base Liubliana)
 - **Día corto**: elegí 1 actividad “larga” + 2–3 cortas; no más.
 - **Buses**: los buses “de movilidad sostenible” del valle son **estacionales (verano)**. Para octubre, planificá como si **no existieran** (si aparece alguno, es bonus). Si necesitás un trekking **sí o sí** de punto A→B, asumí que vas a tener que resolverlo con **2 autos o taxi**.
 - **Vršič Pass**: puede haber **nieve temprana** o hielo en sombra. Antes de salir mirá estado oficial de rutas.

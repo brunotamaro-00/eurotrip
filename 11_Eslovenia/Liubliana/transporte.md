@@ -1,6 +1,8 @@
 # 🚆 Transporte en Liubliana
 
-**Llegada 13 oct Budapest → Liubliana:** tren (vía Viena/Maribor) o bus (según horarios)
+**Llegada 11 oct (borrador) Budapest → Liubliana:** tren (vía Viena/Maribor) o bus (según horarios)
+
+**Salida 15 oct (borrador) Liubliana → Trieste → Florencia:** ver [`../Costa Eslovena y Trieste/transporte.md`](../Costa%20Eslovena%20y%20Trieste/transporte.md) y [`../README.md`](../README.md) (loop por regiones opcional con auto).
 
 ## 🚌 Transporte local (LPP)
 
@@ -16,7 +18,7 @@ Para el loop por regiones (auto) y la salida **Koper → Trieste → Florencia**
 - Dashboard del tramo: [`../README.md`](../README.md)
 - Costa + Trieste: [`../Costa Eslovena y Trieste/transporte.md`](../Costa%20Eslovena%20y%20Trieste/transporte.md)
 
-Los detalles finos de precios/estrategia Eurail de `Liubliana → Trieste → Florencia` están centralizados en `TRANSPORTE_ENTRE_CIUDADES.md`.
+Detalle de precios Eurail en tramos Liubliana → Trieste → Florencia: ver notas en [`../README.md`](../README.md) y carpetas por región.
 
 
 ---

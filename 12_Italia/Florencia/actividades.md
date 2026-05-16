@@ -1,6 +1,6 @@
 # 🎯 Actividades en Florencia
 
-**Fechas:** 17-22 octubre (5 noches, 6 días)  
+**Fechas tentativas:** 15-20 octubre (5 noches, 6 días)  
 **Price Level:** $$  
 **Temp:** 11-20°C (Otoño: ropa en capas, posible lluvia)  
 **Sol:** Amanecer ~6:51-6:56 / Anochecer ~18:04-18:11 (~11.25h de luz)
@@ -83,12 +83,12 @@ Florencia está llena de trampas para turistas, especialmente alrededor del Duom
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 17 oct | Sábado | Llegada desde Liubliana (vía Trieste) |
+| 15 oct | Jueves | Llegada desde Liubliana (vía Trieste) |
+| 16 oct | Viernes | |
+| 17 oct | Sábado | |
 | 18 oct | Domingo | |
-| 19 oct | Lunes | **Atención:** Muchos museos estatales (como Uffizi y Accademia) cierran los lunes |
-| 20 oct | Martes | |
-| 21 oct | Miércoles | |
-| 22 oct | Jueves | Salida a Roma |
+| 19 oct | Lunes | **Atención:** Muchos museos estatales (Uffizi, Accademia) cierran los lunes |
+| 20 oct | Martes | Salida a Roma |
 
 ## 💡 Tips de Supervivencia y Temporada (Octubre)
 

@@ -1,9 +1,9 @@
 # 🚆 Transporte en Roma
 
-**Fechas:** 22-29 octubre (7 noches, 8 días)
+**Fechas tentativas:** 20-27 octubre (7 noches, 8 días)
 
-**Llegada 22 oct - Florencia → Roma:** Tren 1.5h, $16-44pp. Llegada a Roma Termini o Roma Tiburtina.
-**Salida 29 oct - Roma → Nápoles:** Tren 1h, $11-33pp (muy frecuente).
+**Llegada 20 oct (borrador) — Florencia → Roma:** Tren 1.5h, $16-44pp. Llegada a Roma Termini o Roma Tiburtina.
+**Salida 27 oct (borrador) — Roma → Nápoles:** Tren 1h, $11-33pp (muy frecuente).
 
 ---
 

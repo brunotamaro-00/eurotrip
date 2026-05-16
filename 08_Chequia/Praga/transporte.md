@@ -1,6 +1,6 @@
 # 🚆 Transporte en Praga
 
-## 🚂 Llegada desde Viena (30 sept)
+## 🚂 Llegada desde Viena (28 sept, borrador)
 
 - **Viena → Praga:** ~4h en tren (Railjet/RegioJet). Suele haber promos advance baratas.
 
@@ -19,7 +19,7 @@
 - **Tickets papel:** suelen requerir **validación** (una sola vez, al primer uso).
 - **Aeropuerto:** suele resolverse con ticket de **90 min** (según conexión) comprado en app/máquina; validar reglas en PID/DPP para tu ruta.
 
-## 🚂 Salida hacia Cracovia (4 oct)
+## 🚂 Salida hacia Cracovia (3 oct, borrador)
 
 Opciones típicas (según horarios/temporada): **tren** o **bus** (RegioJet y otros).
 

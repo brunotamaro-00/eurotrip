@@ -1,6 +1,6 @@
 # 🎯 Actividades en Roma
 
-**Fechas:** 22-29 octubre (7 noches, 8 días)  
+**Fechas tentativas:** 20-27 octubre (7 noches, 8 días)  
 **Price Level:** $$  
 **Temp:** 12-21°C (otoño perfecto, pero puede llover)  
 **Sol:** Amanecer ~7:26 / Anochecer ~18:22. **⚠️ OJO: Cambio de hora el domingo 25 oct.** Los relojes se atrasan 1 hora. A partir del 25 de octubre, anochecerá a las ~17:15. Planificar actividades al aire libre más temprano en la tarde.
@@ -97,14 +97,14 @@ Si están cansados de las multitudes del centro:
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 22 oct | Jueves | Llegada desde Florencia |
+| 20 oct | Martes | Llegada desde Florencia |
+| 21 oct | Miércoles | |
+| 22 oct | Jueves | |
 | 23 oct | Viernes | |
 | 24 oct | Sábado | |
 | 25 oct | Domingo | **Último domingo del mes** = Museos Vaticanos GRATIS. **Cambio de hora** (anochece más temprano). |
 | 26 oct | Lunes | Cierran algunos museos estatales |
-| 27 oct | Martes | |
-| 28 oct | Miércoles | Audiencia Papal a la mañana en San Pedro (evitar la plaza si no van a la audiencia) |
-| 29 oct | Jueves | Salida a Nápoles |
+| 27 oct | Martes | Salida a Nápoles |
 
 ## 💡 Etiqueta y Supervivencia Romana
 

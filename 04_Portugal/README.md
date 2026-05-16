@@ -20,16 +20,10 @@
 ---
 
 ## Archivos de Portugal
-- `04_Portugal (4-12 sept)/Lisboa (4-9 sept)/`
-  - `actividades.md`
-  - `alojamiento.md`
-  - `transporte.md`
-  - `desvios_cercanos.md`
-- `04_Portugal (4-12 sept)/Porto (9-12 sept)/`
-  - `actividades.md`
-  - `alojamiento.md`
-  - `transporte.md`
-  - `desvios_cercanos.md`
+- [`Lisboa/`](./Lisboa/) (4–9 sept): `actividades.md`, `alojamiento.md`, `transporte.md`, `desvios_cercanos.md`, `contexto_historico.md`
+- [`Porto/`](./Porto/) (9–12 sept): mismos 5 archivos estándar
+
+> **Último tramo con fechas cerradas del viaje** (post Portugal el itinerario es tentativo — ver [`ITINERARIO_GENERAL.md`](../ITINERARIO_GENERAL.md)).
 
 ---
 

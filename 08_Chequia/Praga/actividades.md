@@ -1,6 +1,6 @@
 # 🎯 Actividades en Praga
 
-**Fechas:** 30 sept - 4 oct (4 noches, 5 días)  
+**Fechas tentativas:** 28 sept - 3 oct (5 noches, 6 días)  
 **Categoría:** Ciudad medieval  
 **Price Level:** $$ (Europa del Este, económico)  
 **Temperatura:** 10-18°C  
@@ -84,13 +84,14 @@ Praga tiene INCREÍBLE vida nocturna y MUY barata.
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 30 sept | Miércoles | Llegada desde Viena |
+| 28 sept | Lunes | Llegada desde Viena |
+| 29 sept | Martes | |
+| 30 sept | Miércoles | |
 | 1 oct | Jueves | |
 | 2 oct | Viernes | |
-| 3 oct | Sábado | |
-| 4 oct | Domingo | Salida a Cracovia |
+| 3 oct | Sábado | Salida a Cracovia |
 
-## Eventos Cercanos a las Fechas (30 sept - 4 oct)
+## Eventos Cercanos a las Fechas (28 sept - 3 oct)
 
 - **Signal Festival** (15-18 oct, CERCANO +3 semanas) - Festival de luces y videomapping que transforma Praga en galería al aire libre. Instalaciones gratuitas 19:00-00:00. Si las fechas fueran flexibles, vale mucho la pena. Web: signalfestival.com
 - **Dvořákova Praha** (sept) - Festival de música clásica. Verificar fechas exactas 2026.
@@ -101,7 +102,7 @@ Praga tiene INCREÍBLE vida nocturna y MUY barata.
 - Praga es hermosa pero MUY turística
 - Ver Puente Carlos al amanecer (6-7am)
 - Pub crawls muy populares entre backpackers
-- 4 días perfectos para ver todo
+- 5 noches / 6 días encajan bien para ver el centro sin correr
 
 Ver `desvios_cercanos.md` para Český Krumlov (pueblo medieval, Media prioridad)
 

@@ -1,6 +1,6 @@
 # 🎯 Actividades en Colmar (y Route des Vins)
 
-**Fechas:** 14-16 septiembre (2 noches)  
+**Fechas tentativas:** 14-16 septiembre (2 noches)  
 **Categoría:** Pueblo + vino + “postales”  
 **Price Level:** $$  
 **Temperatura:** 11-22°C  

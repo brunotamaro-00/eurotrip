@@ -1,6 +1,6 @@
 # 🎯 Actividades en Madrid
 
-**Fechas (itinerario base):** 13-18 noviembre (5 noches, 6 días)  
+**Fechas tentativas:** 13-18 noviembre (5 noches, 6 días)  
 **Price Level:** $$  
 **Temp:** 6-14°C (otoño frío)  
 **Sol:** Amanecer ~7:54-8:00 / Anochecer ~17:57-18:02 (~10h de luz)
@@ -60,4 +60,4 @@ Madrid sale TARDE (2-3am es temprano)
 - Cena tarde (21:00+)
 - Madrid vida nocturna hasta 6am
 - 5 días son suficientes para cerrar el itinerario base tranquilos
-- Quedan **3 días de margen** hasta el vuelo de regreso (**21 nov, MAD → BUE**). Ese margen se puede usar para **extender Madrid** o reasignarlo a otra(s) ciudad(es) durante el viaje.
+- El viaje incluye **3 noches de margen flex** (sin ciudad asignada): colchón por si queremos **quedarnos más** en algún sitio — pueden sumarse **en cualquier tramo**, no solo en Madrid. Vuelo de regreso: **21 nov, MAD → BUE** (fecha fija de cierre del viaje).
