@@ -21,7 +21,7 @@
 | **Reino Unido subtotal** | **5-25 ago** | **20** | | **$912.7** | |
 | Países Bajos | 25-29 ago | 4 | $59.4 | $237.7 | ✅ Reservado |
 | Francia | 29 ago - 4 sept | 6 | $44.3 | $265.6 | ✅ Reservado |
-| **Portugal — Lisboa + Porto (1 persona)** | 4-12 sept | 8 | $30-35 | $240-280 | Confirmado |
+| **Portugal — Lisboa + Porto (1 persona)** | 4-12 sept | 8 | **$26 (Lisboa) + $30-35 (Porto est.)** | **$220-235** | Lisboa ✅ Reservado; Porto pendiente |
 | Francia — Estrasburgo | 12-14 sept | 2 | $40-60 | $80-120 | |
 | Francia — Colmar | 14-16 sept | 2 | $40-60 | $80-120 | |
 | Alemania — Friburgo | 16-19 sept | 3 | $38-55 | $114-165 | Selva Negra (base) |
@@ -35,7 +35,7 @@
 | Italia | 17 oct - 8 nov | 22 | $38-53 | $836-1,166 | Florencia + Roma + Nápoles + Sur de Italia |
 | España | 8-18 nov | 10 | $35-48 | $350-480 | Barcelona + Madrid |
 | **Margen (flex, por definir)** | 18-21 nov | 3 | $35-48 | $105-144 | Extra para sumar a alguna ciudad |
-| **TOTAL** | | **108** | | **$4,349-5,579** | |
+| **TOTAL** | | **108** | | **$4,329-5,534** | |
 
 ### Alimentación (por persona)
 
@@ -114,13 +114,14 @@
 - Vuelo **París → Lisboa** (con equipaje): **$85**
 - Tren **Lisboa → Porto** (CP, Alfa Pendular / Intercidades): **$12-40** (según compra/horario)
 - Vuelo **Porto → Estrasburgo** (Volotea, con equipaje): **$90 (COMPRADO)**
+- Alojamiento Lisboa: **Lisbon Destination Hostel** — **USD 26/noche** (4–9 sept, 5 noches) — ✅ Reservado
 
 | Concepto | Estimado |
 |----------|----------|
-| Alojamiento (8n) | $240-280 |
+| Alojamiento (8n) | $220-235 |
 | Comida (8d) | $160-320 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$587-815** |
+| **Subtotal** | **$567-770** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: $274-405 (Estrasburgo 2n + Colmar 2n + Friburgo 3n)
@@ -202,9 +203,9 @@
 
 | Categoría | Portugal (Lisboa + Porto) |
 |-----------|----------------------------|
-| Alojamiento + comida | $400-600 |
+| Alojamiento + comida | $380-555 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$587-815** |
+| **Subtotal** | **$567-770** |
 
 ### Gran Total (2 personas + Portugal 1 persona)
 
@@ -228,12 +229,13 @@
 | Gothenburg Hotel (Edimburgo tránsito, 1 noche) | $115.2 | $57.6 |
 | Ámsterdam (4 noches) | $475.4 | $237.7 |
 | París (6 noches) — The People – Paris Belleville | $531.2 | $265.6 |
+| Lisboa (5 noches) — Lisbon Destination Hostel (1 persona) | $130.0 | $130.0 |
 | Vuelo Buenos Aires (BUE) → Londres (LHR) — Smiles | $968.0 | $484.0 |
 | Vuelo Madrid (MAD) → Buenos Aires (BUE) — Plus Ultra | $946.0 | $473.0 |
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
 | Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$182.0** | **$91.0** |
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
-| **TOTAL CONFIRMADO** | **$6,457.8** | **$3,273.9** |
+| **TOTAL CONFIRMADO** | **$6,587.8** | **$3,403.9** |
 
 ---
 
@@ -315,4 +317,4 @@ Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financiera
 
 ---
 
-**Última actualización:** Abril 2026
+**Última actualización:** Mayo 2026
