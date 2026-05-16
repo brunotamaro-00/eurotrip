@@ -45,22 +45,22 @@ Leyenda rápida:
 - **Cocina**: **Sí** (cocina para cocinar) / **Parcial** (kitchenette: micro/tostadora/hervidor) / **No claro** (no se ve como fortaleza en el extracto).
 - **Muestra**: no pesa igual un 9.x con **6000** reseñas que con **65**.
 
-| # | Hostel | HW (nota, reseñas) | Loc / Atmos / Clean | Social | Cocina | Alertas (reseñas) |
-|---:|---|---|---|---|---|---|
-| 1 | **Onefam Oldtown** | **9.6** (1631) | **9.9 / 9.6 / 9.4** | Alto | Sí | Puede ser muy “programado” (actividades) si buscás algo tranquilo |
-| 2 | **Onefam Home** | **9.7** (5962) | **9.8 / 9.6 / 9.7** | Alto | Sí | Vibe **muy social/party** (no para “chill”) |
-| 3 | **Onefam Miru** | **9.7** (2587) | **9.7 / 9.6 / 9.5** | Alto | Sí | **Edad 18–40** |
-| 4 | **Prague Dream Hostel** | **9.3** (3073) | **9.7 / 8.6 / 9.2** | Medio | Sí | Calle/zona puede “asustar” al principio (reseñas dicen que ok) |
-| 5 | **The Clock Inn** | **9.1** (1867) | **9.7 / 8.4 / 8.9** | Medio | Sí | Cocina con **horario** (7:00–22:30) |
-| 6 | **Hostel DownTown** | **8.8** (6633) | **9.6 / 8.2 / 8.6** | Medio | Sí | Puede sentirse “poco hostel vibe” según momento/huéspedes |
-| 7 | **Luma Terra Prague Hostel** | **9.3** (836) | **9.5 / 8.5 / 9.6** | Medio | Sí | Reseñas: colchones algo **springy** y storage limitado |
-| 8 | **Charles Bridge Economic Hostel** | **8.9** (2933) | **10.0 / 7.6 / 8.7** | Bajo | Sí | Cero social; puede haber **ruido** por ubicación ultra céntrica |
-| 9 | **Little Quarter Hostel** | **9.3** (2536) | **9.8 / 8.2 / 9.3** | Medio-bajo | No claro | Poco social/eventos; **sin ascensor**; faltan cortinas (reseñas) |
-| 10 | **Hostel Mandarinka** | **8.4** (858) | **9.6 / 7.6 / 8.6** | Bajo | Sí | Baños/toilets chicos; más “hotel feel” que social |
-| 11 | **Hostel Orange** | **8.5** (4166) | **9.9 / 7.6 / 8.1** | Bajo | Parcial | Poco social; camas triple altura / **sin ascensor** (reseñas) |
-| 12 | **Sophie's Hostel** | **9.1** (6490) | **8.9 / 8.5 / 9.3** | Medio | Sí | Más boutique/chill (menos “conocer gente fácil”) |
-| 13 | **Safestay Prague Charles Bridge** | **8.2** (2818) | **9.2 / 7.4 / 8.4** | Bajo | No claro | Camas incómodas/ruidosas; staff menos cálido (reseñas) |
-| 14 | **A Plus Hostel - Centrum** | **7.6** (65) | **9.3 / 6.2 / 6.8** | Bajo | Sí | Muestra chica + quejas fuertes de **baños/limpieza** |
+| # | Hostel | Precio (USD) | HW (nota, reseñas) | Loc / Atmos / Clean | Social | Cocina | Alertas (reseñas) |
+|---:|---|---:|---|---|---|---|---|
+| 1 | **Onefam Oldtown** | **49** | **9.6** (1631) | **9.9 / 9.6 / 9.4** | Alto | Sí | Puede ser muy “programado” (actividades) si buscás algo tranquilo |
+| 2 | **Onefam Home** | **49** | **9.7** (5962) | **9.8 / 9.6 / 9.7** | Alto | Sí | Vibe **muy social/party** (no para “chill”) |
+| 3 | **Onefam Miru** | **47** | **9.7** (2587) | **9.7 / 9.6 / 9.5** | Alto | Sí | **Edad 18–40** |
+| 4 | **Prague Dream Hostel** | **51** | **9.3** (3073) | **9.7 / 8.6 / 9.2** | Medio | Sí | Calle/zona puede “asustar” al principio (reseñas dicen que ok) |
+| 5 | **The Clock Inn** | **30** | **9.1** (1867) | **9.7 / 8.4 / 8.9** | Medio | Sí | Cocina con **horario** (7:00–22:30) |
+| 6 | **Hostel DownTown** | **36** | **8.8** (6633) | **9.6 / 8.2 / 8.6** | Medio | Sí | Puede sentirse “poco hostel vibe” según momento/huéspedes |
+| 7 | **Luma Terra Prague Hostel** | **55** | **9.3** (836) | **9.5 / 8.5 / 9.6** | Medio | Sí | Reseñas: colchones algo **springy** y storage limitado |
+| 8 | **Charles Bridge Economic Hostel** | **33** | **8.9** (2933) | **10.0 / 7.6 / 8.7** | Bajo | Sí | Cero social; puede haber **ruido** por ubicación ultra céntrica |
+| 9 | **Little Quarter Hostel** | **38** | **9.3** (2536) | **9.8 / 8.2 / 9.3** | Medio-bajo | No claro | Poco social/eventos; **sin ascensor**; faltan cortinas (reseñas) |
+| 10 | **Hostel Mandarinka** | **31** | **8.4** (858) | **9.6 / 7.6 / 8.6** | Bajo | Sí | Baños/toilets chicos; más “hotel feel” que social |
+| 11 | **Hostel Orange** | **34** | **8.5** (4166) | **9.9 / 7.6 / 8.1** | Bajo | Parcial | Poco social; camas triple altura / **sin ascensor** (reseñas) |
+| 12 | **Sophie's Hostel** | **26** | **9.1** (6490) | **8.9 / 8.5 / 9.3** | Medio | Sí | Más boutique/chill (menos “conocer gente fácil”) |
+| 13 | **Safestay Prague Charles Bridge** | **22** | **8.2** (2818) | **9.2 / 7.4 / 8.4** | Bajo | No claro | Camas incómodas/ruidosas; staff menos cálido (reseñas) |
+| 14 | **A Plus Hostel - Centrum** | **34** | **7.6** (65) | **9.3 / 6.2 / 6.8** | Bajo | Sí | Muestra chica + quejas fuertes de **baños/limpieza** |
 
 ### Recomendación rápida (Ubicación → Cocina → Social)
 - **Mejor opción global (muy céntrico + cocina + social)**: **Onefam Oldtown** o **Onefam Home** (si te va el vibe Onefam).
@@ -93,6 +93,7 @@ Formato:
 - **Ubicación**: Old Town (Prague 1), súper caminable.
 - **Cocina**: **sí** (shared kitchen; té/café gratis).
 - **Ambiente**: **muy social** (actividades).
+- **Precio**: **USD 49 pp/noche** (tu nota).
 - **Hostelworld**: **9.6** (1631) — Value **9.6** / Location **9.9** / Atmos **9.6** / Clean **9.4**.
 - **Fortalezas (reseñas Hostelworld)**
   - **Ubicación** de las mejores (Location 9.9).
@@ -105,6 +106,7 @@ Formato:
 - **Ubicación**: Prague 1, cerca de Old Town + estación principal.
 - **Cocina**: **sí** (en el extracto no se detalla; suele figurar en amenities; confirmar en listing al reservar).
 - **Ambiente**: **muy social/party**.
+- **Precio**: **USD 49 pp/noche** (tu nota).
 - **Hostelworld**: **9.7** (5962) — Value **9.6** / Location **9.8** / Atmos **9.6** / Clean **9.7**.
 - **Fortalezas (reseñas Hostelworld)**
   - Combina **Location altísima** con vibe social (Atmos 9.6).
@@ -118,6 +120,7 @@ Formato:
 - **Ubicación**: Vinohrady (Praha 2) con metro (Náměstí Míru) muy cerca.
 - **Cocina**: **sí** (Kitchen 24/7).
 - **Ambiente**: **muy social** (actividades diarias/nocturnas).
+- **Precio**: **USD 47 pp/noche** (tu nota).
 - **Hostelworld**: **9.7** (2587) — Value **9.7** / Location **9.7** / Atmos **9.6** / Clean **9.5**.
 - **Fortalezas (reseñas Hostelworld)**
   - Social altísimo (Atmos 9.6) con staff muy bien valorado (9.8).
@@ -130,6 +133,7 @@ Formato:
 - **Ubicación**: muy central para caminar (Location 9.7).
 - **Cocina**: **sí** (Fully Equipped Kitchen).
 - **Ambiente**: social moderado (eventos, pero no siempre “super social”).
+- **Precio**: **USD 51 pp/noche** (tu nota).
 - **Hostelworld**: **9.3** (3073) — Value **9.3** / Location **9.7** / Atmos **8.6** / Clean **9.2**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación excelente para moverte a pie.
@@ -143,6 +147,7 @@ Formato:
 - **Ubicación**: centro (Location 9.7), buena para noche/salidas.
 - **Cocina**: **sí** (comunal, 7:00–22:30).
 - **Ambiente**: medio (rooftop + bar + pub crawl).
+- **Precio**: **USD 30 pp/noche** (tu nota).
 - **Hostelworld**: **9.1** (1867) — Value **8.8** / Location **9.7** / Atmos **8.4** / Clean **8.9**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación muy fuerte + seguridad alta (Security 9.7).
@@ -155,6 +160,7 @@ Formato:
 - **Ubicación**: muy céntrico (Location 9.6).
 - **Cocina**: **sí** (fully equipped, 24h).
 - **Ambiente**: medio (actividades, pero variable).
+- **Precio**: **USD 36 pp/noche** (tu nota).
 - **Hostelworld**: **8.8** (6633) — Value **8.6** / Location **9.6** / Atmos **8.2** / Clean **8.6**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación fuerte para base.
@@ -167,6 +173,7 @@ Formato:
 - **Ubicación**: muy bien conectada (Location 9.5).
 - **Cocina**: **sí** (self-service kitchen).
 - **Ambiente**: medio (tende a ser quiet según reseñas).
+- **Precio**: **USD 55 pp/noche** (tu nota).
 - **Hostelworld**: **9.3** (836) — Value **9.1** / Location **9.5** / Atmos **8.5** / Clean **9.6**.
 - **Fortalezas (reseñas Hostelworld)**
   - Limpieza muy alta (9.6) y facilities fuertes (9.4).
@@ -179,6 +186,7 @@ Formato:
 - **Ubicación**: Malá Strana, **Charles Bridge** al lado (Location **10.0**).
 - **Cocina**: **sí** (muchas unidades con kitchen; también guest kitchen según listing).
 - **Ambiente**: bajo (Atmos 7.6).
+- **Precio**: **USD 33 pp/noche** (tu nota).
 - **Hostelworld**: **8.9** (2933) — Value **9.3** / Location **10.0** / Atmos **7.6** / Clean **8.7**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación imbatible para caminar (10/10).
@@ -191,6 +199,7 @@ Formato:
 - **Ubicación**: Malá Strana (castillo/puente), muy caminable (Location 9.8).
 - **Cocina**: **no claro** en el extracto (confirmar en listing completo).
 - **Ambiente**: medio-bajo (Atmos 8.2; reseñas dicen “chill”).
+- **Precio**: **USD 38 pp/noche** (tu nota).
 - **Hostelworld**: **9.3** (2536) — Value **9.6** / Location **9.8** / Atmos **8.2** / Clean **9.3**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación excelente (cerca de castillo + tranvía).
@@ -204,6 +213,7 @@ Formato:
 - **Ubicación**: muy práctica (Location 9.6; cerca estación principal).
 - **Cocina**: **sí** (fully-equipped kitchen).
 - **Ambiente**: bajo (Atmos 7.6).
+- **Precio**: **USD 31 pp/noche** (tu nota).
 - **Hostelworld**: **8.4** (858) — Value **8.2** / Location **9.6** / Atmos **7.6** / Clean **8.6**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación excelente y fácil logística.
@@ -216,6 +226,7 @@ Formato:
 - **Ubicación**: Wenceslas Square (Location 9.9).
 - **Cocina**: **parcial** (kitchenette para té/café: pava/tostadora/micro).
 - **Ambiente**: bajo (Atmos 7.6; reseñas “peaceful”).
+- **Precio**: **USD 34 pp/noche** (tu nota).
 - **Hostelworld**: **8.5** (4166) — Value **7.9** / Location **9.9** / Atmos **7.6** / Clean **8.1**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación top para hacer todo a pie.
@@ -228,6 +239,7 @@ Formato:
 - **Ubicación**: New Town (más local), bien conectada (Location 8.9).
 - **Cocina**: **sí** (guest kitchen).
 - **Ambiente**: medio/chill (boutique).
+- **Precio**: **USD 26 pp/noche** (tu nota).
 - **Hostelworld**: **9.1** (6490) — Value **9.3** / Location **8.9** / Atmos **8.5** / Clean **9.3**.
 - **Fortalezas (reseñas Hostelworld)**
   - “Boutique hostel”: limpieza y facilities muy sólidas (9.3/9.0).
@@ -240,6 +252,7 @@ Formato:
 - **Ubicación**: muy buena (Location 9.2), cerca de Charles Bridge/National Theatre.
 - **Cocina**: **no claro** en el extracto (confirmar en listing completo).
 - **Ambiente**: bajo (Atmos 7.4).
+- **Precio**: **USD 22 pp/noche** (tu nota).
 - **Hostelworld**: **8.2** (2818) — Value **8.2** / Location **9.2** / Atmos **7.4** / Clean **8.4**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación facilita muchísimo logística.
@@ -252,6 +265,7 @@ Formato:
 - **Ubicación**: muy céntrica (Location 9.3), pero con **muestra chica**.
 - **Cocina**: **sí** (two small kitchens según listing).
 - **Ambiente**: bajo (Atmos 6.2).
+- **Precio**: **USD 34 pp/noche** (tu nota).
 - **Hostelworld**: **7.6** (65) — Value **7.2** / Location **9.3** / Atmos **6.2** / Clean **6.8**.
 - **Fortalezas (reseñas Hostelworld)**
   - Ubicación fuerte si solo querés base.

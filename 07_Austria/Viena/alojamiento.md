@@ -33,16 +33,16 @@ Leyenda rápida:
 - **Cocina**: **Sí** (cocina para cocinar) / **Parcial** (micro/heladera/snack) / **No** (no hay o no aparece como amenity).
 - **Muestra**: una nota con **33k reseñas** pesa distinto que una con **55**.
 
-| # | Hostel | HW (nota, reseñas) | Loc / Atmos / Clean | Social | Cocina | Alertas (reseñas) |
-|---:|---|---|---|---|---|---|
-| 1 | **Wombat’s City Hostel Vienna Naschmarkt** | **9.3** (33815) | **9.4 / 9.1 / 9.3** | Alto | **Sí** | Puede haber **ruido** si te toca dorm “party”; depende del cuarto |
-| 2 | **Hostel Ruthensteiner Vienna** | **9.5** (14744) | **9.0 / 9.5 / 9.6** | Alto | **Sí** | Ubicación menos “postal”; **queja aislada** por trato de recepción |
-| 3 | **Vienna Boutique Hostel** | **9.6** (273) | **9.2 / 9.3 / 10.0** | Medio | Parcial | A veces **no ves staff**; más “quiet/lux sleep” que hostel clásico |
-| 4 | **JO&JOE Vienna** | **8.9** (3400) | **8.6 / 8.6 / 9.2** | Alto | Parcial | **Sin cortinas** en algunas camas; fees (lavandería/toallas) y detalles de confort |
-| 5 | **St Christopher’s Inn Vienna** | **8.8** (3395) | **8.4 / 8.6 / 8.5** | Medio | No | Puede haber **grupos escolares/niños** y ruido; lockers/limpieza del cuarto variables |
-| 6 | **Stadtaffe – Chic Hostel VIE** | **8.7** (1076) | **8.4 / 7.9 / 9.0** | Bajo | Sí | **Self-check-in** y comunicación por teléfono; “no social” aparece repetido |
-| 7 | **MEININGER Hotel Vienna Downtown Franz** | **8.5** (5702) | **7.7 / 7.9 / 9.1** | Bajo | **Sí** | Vibe **hotel** + ubicación no tan buena (Location 7.7); no cash (reportado) |
-| 8 | **Space Home Apartment – Inner City** | **8.3** (55) | **8.0 / 10.0 / 10.0** | Bajo | **No** | **Sin cocina / sin hangout**, seguridad/staff bajos, lockers/wifi reportados |
+| # | Hostel | Precio (USD) | HW (nota, reseñas) | Loc / Atmos / Clean | Social | Cocina | Alertas (reseñas) |
+|---:|---|---:|---|---|---|---|---|
+| 1 | **Wombat’s City Hostel Vienna Naschmarkt** | **43** | **9.3** (33815) | **9.4 / 9.1 / 9.3** | Alto | **Sí** | Puede haber **ruido** si te toca dorm “party”; depende del cuarto |
+| 2 | **Hostel Ruthensteiner Vienna** | **49** | **9.5** (14744) | **9.0 / 9.5 / 9.6** | Alto | **Sí** | Ubicación menos “postal”; **queja aislada** por trato de recepción |
+| 3 | **Vienna Boutique Hostel** | **47** | **9.6** (273) | **9.2 / 9.3 / 10.0** | Medio | Parcial | A veces **no ves staff**; más “quiet/lux sleep” que hostel clásico |
+| 4 | **JO&JOE Vienna** | **39** | **8.9** (3400) | **8.6 / 8.6 / 9.2** | Alto | Parcial | **Sin cortinas** en algunas camas; fees (lavandería/toallas) y detalles de confort |
+| 5 | **St Christopher’s Inn Vienna** | **40** | **8.8** (3395) | **8.4 / 8.6 / 8.5** | Medio | No | Puede haber **grupos escolares/niños** y ruido; lockers/limpieza del cuarto variables |
+| 6 | **Stadtaffe – Chic Hostel VIE** | **39** | **8.7** (1076) | **8.4 / 7.9 / 9.0** | Bajo | Sí | **Self-check-in** y comunicación por teléfono; “no social” aparece repetido |
+| 7 | **MEININGER Hotel Vienna Downtown Franz** | **39** | **8.5** (5702) | **7.7 / 7.9 / 9.1** | Bajo | **Sí** | Vibe **hotel** + ubicación no tan buena (Location 7.7); no cash (reportado) |
+| 8 | **Space Home Apartment – Inner City** | **55** | **8.3** (55) | **8.0 / 10.0 / 10.0** | Bajo | **No** | **Sin cocina / sin hangout**, seguridad/staff bajos, lockers/wifi reportados |
 
 ### Recomendación rápida (ordenada por tu prioridad)
 - **Mejor opción global (ubicación + cocina completa + social)**: **Wombat’s City Hostel Vienna Naschmarkt**.
@@ -80,9 +80,15 @@ Leyenda rápida:
 - **No**: **Space Home** (múltiples reviews mencionan falta de cocina).
 
 #### 3) Precio (lo que cuesta vs lo que ofrece)
-- **Con precios ya anotados por vos**:
-  - **Ruthensteiner**: **~€32-38 / ~USD 35-42 pp/noche** (tu nota) + “value for money” muy alto.
-  - **Wombat’s**: **~€38-44 / ~USD 42-48 pp/noche** (tu nota) + excelente ubicación, suele justificar el extra.
+- **Con precios ya anotados por vos (USD pp/noche)**:
+  - **Hostel Ruthensteiner Vienna**: **USD 49**
+  - **JO&JOE Vienna**: **USD 39**
+  - **Wombat’s City Hostel Vienna Naschmarkt**: **USD 43**
+  - **Stadtaffe – Chic Hostel VIE**: **USD 39**
+  - **St Christopher’s Inn Vienna**: **USD 40**
+  - **MEININGER Hotel Vienna Downtown Franz**: **USD 39**
+  - **Vienna Boutique Hostel**: **USD 47**
+  - **Space Home Apartment – Inner City**: **USD 55**
 - **Proxy “value for money” (Hostelworld)**:
   - **Vienna Boutique**: muy alto (tiende a ser de lo mejor en valor si te encaja el estilo tranquilo).
   - **MEININGER**: correcto, pero a veces pagás “hotel feel” más que ambiente.
@@ -110,7 +116,7 @@ Leyenda rápida:
 #### Wombat’s City Hostel Vienna Naschmarkt
 - **Ubicación**: Naschmarkt / U4 Kettenbrückengasse (base muy céntrica).
 - **Cocina**: **sí, guest kitchen**.
-- **Precio**: **~€38-44 / ~USD 42-48 pp/noche** (tu nota).
+- **Precio**: **USD 43 pp/noche** (tu nota).
 - **Ambiente**: social (bar/eventos), buen equilibrio.
 - **Limpieza**: alta.
 - **Ideal si**: querés estar bien ubicado y aun así poder cocinar algunos días.
@@ -126,7 +132,7 @@ Leyenda rápida:
 #### Hostel Ruthensteiner Vienna
 - **Ubicación**: Westbahnhof (U3/U6), buen hub para moverse; menos “postal” a pie.
 - **Cocina**: **sí, muy completa** (neveras + cocina + micro).
-- **Precio**: **~€32-38 / ~USD 35-42 pp/noche** (tu nota) + excelente relación valor.
+- **Precio**: **USD 49 pp/noche** (tu nota) + excelente relación valor.
 - **Ambiente**: de los más “hostel spirit” y fácil para socializar.
 - **Limpieza**: muy buena.
 - **Ideal si**: querés cocinar bastante y hacer vida de hostel sin gastar de más.
@@ -142,7 +148,7 @@ Leyenda rápida:
 #### Vienna Boutique Hostel
 - **Ubicación**: 7 (Neubau), zona muy buena para base.
 - **Cocina**: **parcial** (nevera + micro; no es una cocina completa).
-- **Precio**: suele tener muy buena relación valor.
+- **Precio**: **USD 47 pp/noche** (tu nota).
 - **Ambiente**: tranquilo (no party).
 - **Limpieza**: excelente.
 - **Ideal si**: priorizás descanso/limpieza y no vas a cocinar platos “de verdad”.
@@ -158,7 +164,7 @@ Leyenda rápida:
 #### MEININGER Hotel Vienna Downtown Franz
 - **Ubicación**: 2 (Leopoldstadt), bien conectado (área Schottenring/canal).
 - **Cocina**: **sí, guest kitchen (24/7)**.
-- **Precio**: relación valor correcta.
+- **Precio**: **USD 39 pp/noche** (tu nota).
 - **Ambiente**: más hotelero (menos social).
 - **Limpieza**: muy buena.
 - **Ideal si**: querés cocina + limpieza y te da igual el ambiente hostel.
@@ -175,7 +181,7 @@ Leyenda rápida:
 #### JO&JOE Vienna
 - **Ubicación**: Westbahnhof (muy práctico para transporte).
 - **Cocina**: **snack kitchen** (para preparar algo simple).
-- **Precio**: variable; suele pagar la “experiencia” (rooftop/eventos).
+- **Precio**: **USD 39 pp/noche** (tu nota).
 - **Ambiente**: muy social/party.
 - **Limpieza**: buena.
 - **Ideal si**: querés conocer gente y te da lo mismo no cocinar fuerte.
@@ -191,7 +197,7 @@ Leyenda rápida:
 #### St Christopher’s Inn Vienna
 - **Ubicación**: cerca de Keplerplatz U1 + Hauptbahnhof (excelente para conexiones).
 - **Cocina**: **no claro** (más orientado a bar/resto).
-- **Precio**: relación valor media-buena.
+- **Precio**: **USD 40 pp/noche** (tu nota).
 - **Ambiente**: social por bar/eventos.
 - **Limpieza**: buena.
 - **Ideal si**: querés ubicación por estación y ambiente de bar.
@@ -208,7 +214,7 @@ Leyenda rápida:
 #### Stadtaffe – Chic Hostel VIE
 - **Ubicación**: 16 (Ottakring), más alejado del “centro”, pero con transporte.
 - **Cocina**: **sí, cocina compartida**.
-- **Precio**: relación valor media.
+- **Precio**: **USD 39 pp/noche** (tu nota).
 - **Ambiente**: moderado.
 - **Limpieza**: correcta.
 - **Ideal si**: querés cocina y no te importa estar más afuera.
@@ -226,6 +232,7 @@ Leyenda rápida:
 - **Ubicación**: 3 (Landstraße), ok para moverse, pero no destaca.
 - **Cocina**: **no** (reportes de falta de cocina).
 - **Precio**: **no usaría “value” como proxy** acá (muestra chica + no encaja con tu objetivo).
+- **Precio (tu nota)**: **USD 55 pp/noche**.
 - **Ambiente**: bajo (cápsulas + poca vida común).
 - **Limpieza**: mixta.
 - **Ideal si**: solo querés dormir en cápsula y no te importa cocinar/social (no recomendado para tu caso).
