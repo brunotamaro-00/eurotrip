@@ -1,7 +1,7 @@
 # 🛏️ Alojamiento — Lisboa
 
 **Fechas:** 4–9 septiembre (5 noches)  
-**Reservado:** **Lisbon Destination Hostel** (Rossio) — **USD 26/noche** (1 persona)  
+**Reservado:** **Lisbon Destination Hostel** (Rossio) — **USD 30/noche** (1 persona)  
 **Objetivo (original):** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
 
 ---
@@ -30,7 +30,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 ### Top 3 (mejor balance social + ubicación + cocina)
 
-1. **Lisbon Destination Hostel** (Rossio): muy social y con eventos; ubicación “hub” (Sintra/metro). ✅ **RESERVADO** (USD 26/noche).
+1. **Lisbon Destination Hostel** (Rossio): muy social y con eventos; ubicación “hub” (Sintra/metro). ✅ **RESERVADO** (USD 30/noche).
 2. **Lost Inn Lisbon** (Chiado/Cais do Sodré): social + actividades + muy buena cocina; gran zona para salida.
 3. **Living Lounge Hostel** (Chiado/Baixa): vibe boutique + cenas/actividades; gran ubicación; cocina full.
 
@@ -73,14 +73,14 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 ## Fichas (11 hostels de Lisboa)
 
-> Precios/cocina: tomados de `hostelworld.tsv` (Lisboa, 4–9 sept, 1 huésped, USD), **excepto** Lisbon Destination Hostel (precio reservado: **USD 26/noche**).  
+> Precios/cocina: tomados de `hostelworld.tsv` (Lisboa, 4–9 sept, 1 huésped, USD), **excepto** Lisbon Destination Hostel (precio reservado: **USD 30/noche**).  
 > “Vibe/actividades”: señales de Hostelworld + reseñas externas (Booking/Tripadvisor/Wanderlog).
 
 ### 1) Lisbon Destination Hostel
 
 - **Link**: `https://www.spanish.hostelworld.com/pwa/hosteldetails.php/Lisbon-Destination-Hostel/Lisbon/53114?from=2026-09-04&to=2026-09-09&guests=1&currency=USD#position=14`
 - **Puntaje / ubicación**: 9,6 — Rossio / Baixa  
-- **Precio**: **USD 26/noche (reservado)** — referencia Hostelworld: 8 personas | ~USD 28/noche (4–9 sept 2026, 1 huésped; ver `hostelworld.tsv`).
+- **Precio**: **USD 30/noche (reservado)** — referencia Hostelworld: 8 personas | ~USD 28/noche (4–9 sept 2026, 1 huésped; ver `hostelworld.tsv`).
 - **Cocina**: **sí (full)** — cocina, heladera/freezer, utensilios, microondas, pava eléctrica, ollas/sartenes, fregadero, hornallas.
 - **Vibe social / amigos**: *muy fuerte*. Señales: Linkup Events (walking tours, pub crawls, fiestas de sangría/BBQ), “jungle” indoor garden, juegos (pool/ping-pong), espacios comunes grandes.
 - **Alertas de reseñas**:

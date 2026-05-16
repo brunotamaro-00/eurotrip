@@ -8,7 +8,7 @@
 - [ ] **Auschwitz-Birkenau (Cracovia):** Tour guiado ($16) recomendado, reservar online sí o sí.
 - [ ] **Catacumbas de París:** Reservar online apenas abran las fechas.
 - [ ] **Alojamiento Agosto:** Reservar (temporada alta UK y Países Bajos).
-- [x] **Alojamiento Lisboa (4–9 sept):** Lisbon Destination Hostel — **USD 26/noche** (5 noches, 1 persona) — **RESERVADO**.
+- [x] **Alojamiento Lisboa (4–9 sept):** Lisbon Destination Hostel — **USD 30/noche** (5 noches, 1 persona) — **RESERVADO**.
 - [ ] **Alojamiento Porto (9–12 sept):** Reservar (3 noches, 1 persona).
 - [x] **Vuelos Internos:** Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p). Pendiente: Sur de Italia → Barcelona (8 nov).
 - [ ] **Trenes Nocturnos:** Reservar asientos/camas (suelen abrir 2-3 meses antes).
