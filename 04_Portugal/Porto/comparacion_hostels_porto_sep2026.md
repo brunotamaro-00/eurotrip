@@ -13,15 +13,17 @@ title: "Comparación de hostels — Porto (9–12 sep 2026, 1 persona)"
 
 ## Resumen ejecutivo (para decidir rápido)
 
-- **Si querés MAX social / conocer gente fácil (solo traveler):** `Onefam Ribeira`, `Onefam Clérigos`, `Porto Spot`, `Nice Way`, `Rivoli Cinema`  
+- **Si querés MAX social / conocer gente fácil (solo traveler):** `Onefam Ribeira`, `Porto Spot`, `Nice Way`, `Rivoli Cinema`  
   - **Ojo**: Onefam suele tener **límite de edad 18–39**.
-- **Si querés “hostel muy bueno” (comodidad + limpieza + ubicación):** `The Passenger`, `Gallery Hostel`, `Onefam Ribeira`  
+- **Si querés “hostel muy bueno” (comodidad + limpieza + ubicación):** `The Passenger`, `Onefam Ribeira`  
 - **Si querés social pero sin tanta “party encima”:** `Lost Inn`, `Cats` (depende del dormitorio / ruido), `Porto Wine` (más chill según reseñas visibles)  
-- **Mejor precio dentro de lo social y céntrico:** `Nice Way` (USD 24.63), `Onefam Clérigos` (USD 26.70)  
+- **Mejor precio dentro de lo social y céntrico:** `Nice Way` (USD 24.63)  
 
 ---
 
-## Tabla maestra (14 opciones)
+## Tabla maestra (9 opciones)
+
+**Numeración:** ordenada por **volumen de reseñas en Hostelworld** (mayor → menor).
 
 Leyenda rápida:
 - **Social**: Alto / Medio / Bajo (combinando subscore **Atmosphere** + eventos + señales de reseñas visibles).
@@ -30,20 +32,15 @@ Leyenda rápida:
 
 | # | Hostel | Precio (USD) | Zona (aprox.) | HW (nota, reseñas) | Atmos/Clean | Social | Cocina | Eventos | Alertas / notas rápidas |
 |---:|---|---:|---|---|---|---|---|---|---|
-| 1 | Cats Hostel Porto | 38.66 | Baixa/Sé (São Bento) | 9.1 (5492) | 8.5 / 8.9 | Medio | Sí | Sí | Ruido: lockers bajo cama “muy ruidosos” (reseña) |
-| 2 | Lost Inn Porto | 27.68 | Baixa/Sé | 9.2 (2409) | 8.7 / 9.1 | Medio | Sí | Sí* | Callejón oscuro (sensación); pocos baños (reseña) |
-| 3 | Onefam Ribeira | 41.75 | Centro histórico (Sé/Ribeira) | 9.8 (3635) | 9.8 / 9.8 | Alto | Sí | Sí | **Edad 18–39**; hiper social (dinners + actividades) |
-| 4 | Nice Way Porto | 24.63 | Baixa/Aliados (cerca estación) | 9.3 (3157) | 9.1 / 9.1 | Alto | Sí | Sí | Ruido: paredes finas / piso chirría (reseñas) |
-| 5 | The Passenger Hostel | 35.90 | Baixa/São Bento | 9.7 (2375) | 9.5 / 9.7 | Alto | Sí | Sí | Muy “top”; queja aislada: “frat party / pocos locales” |
-| 6 | Urban Garden Porto Central | 30.21 | Baixa/Santa Catarina/Aliados | 9.3 (455) | 8.6 / 9.1 | Medio | Sí | Sí | Locker no usa candado propio; moscas en común (reseña) |
-| 7 | Onefam Clérigos | 26.70 | Baixa/Clérigos | 9.5 (35) | 9.7 / 9.2 | Alto | Sí (self-catering) | Sí | **Edad 18–39**; pocas reseñas (35) |
-| 8 | Porto Spot Hostel | 34.56 | Baixa/Trindade | 9.2 (6268) | 8.7 / 9.3 | Alto | Sí | Sí | Sin cortinas en cama (reseña); pasillo eco/ruido (reseña) |
-| 9 | Porto Wine Hostel | 42.94 | Cordoaria/Clérigos | 9.5 (2854) | 9.3 / 9.7 | Medio | Sí | Sí | Habitaciones al frente ruidosas; muchas escaleras; sin cortinas (reseña) |
-| 10 | Gallery Hostel Porto | 47.34 | Cedofeita (arts district) | 9.8 (2179) | 9.5 / 10.0 | Medio | (No explícita) | Sí* | Boutique; cenas portuguesas ~€10 (HW says) |
-| 11 | The Central House Porto Ribeira | 36.13 | Ribeira | 9.3 (1202) | 8.6 / 9.0 | Medio | (No explícita) | Sí | Humedad en baños (reseña); “premium dorm” |
-| 12 | Rivoli Cinema Hostel | 36.79 | Baixa/Aliados | 9.6 (3815) | 9.0 / 9.6 | Alto | Sí | Sí | Paredes finas/sirenas (reseña); rooftop + pool (estacional) |
-| 13 | So Cool Hostel Porto | 24.50 | Cedofeita/Boavista (Boavista) | 8.8 (1105) | 8.3 / 9.2 | Medio-bajo | Sí | No | Wifi mala (reseña); reglas raras (desinfección equipaje; cierre cocina noche) |
-| 14 | Porto Lounge Hostel & Guest House | 48.09 | Baixa/Aliados (Rua do Almada) | 9.6 (1635) | 9.0 / 10.0 | Alto | Sí | Sí | Reseña fuerte: cancelación por “water damage”; paredes finas/olor (reseñas) |
+| 1 | Porto Spot Hostel | 34.56 | Baixa/Trindade | 9.2 (6268) | 8.7 / 9.3 | Alto | Sí | Sí | Sin cortinas en cama (reseña); pasillo eco/ruido (reseña) |
+| 2 | Cats Hostel Porto | 38.66 | Baixa/Sé (São Bento) | 9.1 (5492) | 8.5 / 8.9 | Medio | Sí | Sí | Ruido: lockers bajo cama “muy ruidosos” (reseña) |
+| 3 | Rivoli Cinema Hostel | 36.79 | Baixa/Aliados | 9.6 (3815) | 9.0 / 9.6 | Alto | Sí | Sí | Paredes finas/sirenas (reseña); rooftop + pool (estacional) |
+| 4 | Onefam Ribeira | 41.75 | Centro histórico (Sé/Ribeira) | 9.8 (3635) | 9.8 / 9.8 | Alto | Sí | Sí | **Edad 18–39**; hiper social (dinners + actividades) |
+| 5 | Nice Way Porto | 24.63 | Baixa/Aliados (cerca estación) | 9.3 (3157) | 9.1 / 9.1 | Alto | Sí | Sí | Ruido: paredes finas / piso chirría (reseñas) |
+| 6 | Porto Wine Hostel | 42.94 | Cordoaria/Clérigos | 9.5 (2854) | 9.3 / 9.7 | Medio | Sí | Sí | Habitaciones al frente ruidosas; muchas escaleras; sin cortinas (reseña) |
+| 7 | Lost Inn Porto | 27.68 | Baixa/Sé | 9.2 (2409) | 8.7 / 9.1 | Medio | Sí | Sí* | Callejón oscuro (sensación); pocos baños (reseña) |
+| 8 | The Passenger Hostel | 35.90 | Baixa/São Bento | 9.7 (2375) | 9.5 / 9.7 | Alto | Sí | Sí | Muy “top”; queja aislada: “frat party / pocos locales” |
+| 9 | The Central House Porto Ribeira | 36.13 | Ribeira | 9.3 (1202) | 8.6 / 9.0 | Medio | (No explícita) | Sí | Humedad en baños (reseña); “premium dorm” |
 
 Notas:
 - `Eventos: Sí*` = se infieren actividades por “Hostelworld says” o por descripción, aunque “Linkup events” no aparezca cargado como lista (depende del listing).
@@ -57,7 +54,19 @@ Formato:
 - **Fortalezas**: lo que más sostiene la decisión (subscores + descripción + reseñas visibles).
 - **Debilidades**: lo que más se repite como fricción (reseñas visibles / reglas / logística).
 
-### 1) Cats Hostel Porto — USD 38.66 — Baixa/Sé (São Bento)
+### 1) Porto Spot Hostel — USD 34.56 — Baixa/Trindade
+**Hostelworld:** 9.2 (6268) — Security 9.7 — Value 9.3 — Desayuno incluido
+
+- **Fortalezas**
+  - Muy buena escala para conocer gente (Hostelworld says: “right size to get to know everybody”).
+  - Dinners + pub crawls + walking tours.
+  - Muy sólido en limpieza y staff.
+- **Debilidades**
+  - Snippet visible: pasillo **hace eco** → ruido.
+  - Snippet visible: sin **cortinas** en camas (depende de tu tolerancia).
+- **Fuente**: `https://www.hostelworld.com/hostels/p/42599/porto-spot-hostel/`
+
+### 2) Cats Hostel Porto — USD 38.66 — Baixa/Sé (São Bento)
 **Hostelworld:** 9.1 (5492) — Atmosphere 8.5 — Location 9.6  
 **Eventos:** walking tours / pub crawl (Linkup). **Cocina:** “fully equipped kitchen” (About).
 
@@ -70,19 +79,19 @@ Formato:
   - City tax explícita desde 2025.
 - **Fuente**: `https://www.hostelworld.com/hotels/p/60189/cats-hostel-porto/`
 
-### 2) Lost Inn Porto — USD 27.68 — Baixa/Sé
-**Hostelworld:** 9.2 (2409) — Atmosphere 8.7 — Cleanliness 9.1 — Age limit 45  
+### 3) Rivoli Cinema Hostel — USD 36.79 — Baixa/Aliados
+**Hostelworld:** 9.6 (3815) — Security 10.0 — Staff 9.9 — Desayuno incluido
 
 - **Fortalezas**
-  - Muy buena **ubicación** (Sé + São Bento).
-  - Camas con **cortinas** (se menciona en reseña visible) + cocina compartida.
-  - Detalle social: reseña visible menciona **sangría gratis 21:00**.
+  - De los más completos: cocina, lounge, terraza enorme, movie nights, pub crawl, walking tours.
+  - Muy fácil socializar sin tener que “forzarlo”.
+  - Locker con llave de la habitación (reseña) → no dependés de candado.
 - **Debilidades**
-  - Reseña visible: **pocos baños**.
-  - Reseña visible: para solo travelers, **callejón oscuro** y grupo de gente cerca (no reporta incidente, pero “sensación”).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/313235/lost-inn-porto/`
+  - Snippet visible: **paredes finas** / sirenas afuera (ruido puntual).
+  - Pool/rooftop bar puede ser estacional.
+- **Fuente**: `https://www.hostelworld.com/hostels/p/30402/rivoli-cinema-hostel/`
 
-### 3) Onefam Ribeira — USD 41.75 — Centro histórico (Sé/Ribeira)
+### 4) Onefam Ribeira — USD 41.75 — Centro histórico (Sé/Ribeira)
 **Hostelworld:** 9.8 (3635) — Atmosphere 9.8 — Location 10.0 — **Edad 18–39**
 
 - **Fortalezas**
@@ -94,7 +103,7 @@ Formato:
   - Por ubicación centro histórico: potencial de **ruido/cuestas** (no aparece como queja en snippets visibles, pero es el trade-off de zona).
 - **Fuente**: `https://www.hostelworld.com/hostels/p/299858/onefam-ribeira/`
 
-### 4) Nice Way Porto — USD 24.63 — Baixa/Aliados
+### 5) Nice Way Porto — USD 24.63 — Baixa/Aliados
 **Hostelworld:** 9.3 (3157) — Atmosphere 9.1 — Location 9.9 — Kitchen explícita
 
 - **Fortalezas**
@@ -105,54 +114,7 @@ Formato:
   - Reseñas visibles: **ruido** (paredes finas) + **piso chirriante**.
 - **Fuente**: `https://www.hostelworld.com/hostels/p/267792/nice-way-porto/`
 
-### 5) The Passenger Hostel — USD 35.90 — Baixa/São Bento
-**Hostelworld:** 9.7 (2375) — Atmosphere 9.5 — Location 9.9 — **Desayuno incluido**
-
-- **Fortalezas**
-  - “Hard to beat”: limpieza, ubicación y comodidades (cortinas, luz, enchufe).
-  - Linkup events (walking tour / night out / karaoke).
-  - Excelente para base logística (estación São Bento).
-- **Debilidades**
-  - Snippet visible: experiencia tipo “fraternity party” / “muchos americanos” (más sobre **perfil de huéspedes** que sobre el hostel).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/`
-
-### 6) Urban Garden Porto Central Hostel — USD 30.21 — Baixa/Santa Catarina
-**Hostelworld:** 9.3 (455) — Staff 9.8 — Security 9.6 — Pods con cortinas
-
-- **Fortalezas**
-  - Camas tipo **pod** con privacidad (cortina + ventilación + locker con llave).
-  - Baño privado en todas las habitaciones (según About).
-  - Jardín grande + cocina + PS4/Netflix (muy buen “common life”).
-- **Debilidades**
-  - Snippet visible: **moscas** en zona común; locker no permite candado propio (usan sistema del hostel).
-  - Atmosphere 8.6 (no es party hostel).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/277420/urban-garden-porto-central-hostel/`
-
-### 7) Onefam Clérigos — USD 26.70 — Baixa/Clérigos
-**Hostelworld:** 9.5 (35) — Atmosphere 9.7 — **Edad 18–39** — listing nuevo (pocas reseñas)
-
-- **Fortalezas**
-  - Fórmula Onefam: **dinners + actividades + night outs** (muy social).
-  - Ubicación: encima de la movida (Galerias de Paris).
-- **Debilidades**
-  - Evidencia más débil (solo 35 reseñas al corte).
-  - Snippet visible: “washrooms are gross” (baños).
-  - Sin ascensor; edificio con escaleras.
-- **Fuente**: `https://www.hostelworld.com/hostels/p/338178/onefam-clerigos/`
-
-### 8) Porto Spot Hostel — USD 34.56 — Baixa/Trindade
-**Hostelworld:** 9.2 (6268) — Security 9.7 — Value 9.3 — Desayuno incluido
-
-- **Fortalezas**
-  - Muy buena escala para conocer gente (Hostelworld says: “right size to get to know everybody”).
-  - Dinners + pub crawls + walking tours.
-  - Muy sólido en limpieza y staff.
-- **Debilidades**
-  - Snippet visible: pasillo **hace eco** → ruido.
-  - Snippet visible: sin **cortinas** en camas (depende de tu tolerancia).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/42599/porto-spot-hostel/`
-
-### 9) Porto Wine Hostel — USD 42.94 — Cordoaria/Clérigos
+### 6) Porto Wine Hostel — USD 42.94 — Cordoaria/Clérigos
 **Hostelworld:** 9.5 (2854) — Staff 9.8 — Cleanliness 9.7
 
 - **Fortalezas**
@@ -165,19 +127,30 @@ Formato:
   - Detalle incómodo: reseña menciona baño conectado a dormitorio mixto (según asignación).
 - **Fuente**: `https://www.hostelworld.com/hostels/p/41438/porto-wine-hostel/`
 
-### 10) Gallery Hostel Porto — USD 47.34 — Cedofeita (arts district)
-**Hostelworld:** 9.8 (2179) — Cleanliness 10.0 — Security 10.0 — Atmosphere 9.5
+### 7) Lost Inn Porto — USD 27.68 — Baixa/Sé
+**Hostelworld:** 9.2 (2409) — Atmosphere 8.7 — Cleanliness 9.1 — Age limit 45  
 
 - **Fortalezas**
-  - “Boutique hostel” muy redondo: diseño, limpieza, staff.
-  - Ubicación: Cedofeita/Bombarda (mejor “barrio” que dormir en Ribeira).
-  - Hostelworld says: cenas portuguesas nocturnas (~€10) → social sin party duro.
+  - Muy buena **ubicación** (Sé + São Bento).
+  - Camas con **cortinas** (se menciona en reseña visible) + cocina compartida.
+  - Detalle social: reseña visible menciona **sangría gratis 21:00**.
 - **Debilidades**
-  - Precio alto (en tu lista es el 2º más caro).
-  - Cocina no aparece explícita en el extracto corto; lo normal aquí es más “restaurant/cenas” que “cocina mochilera” (confirmar en listing completo si te importa).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/51446/gallery-hostel-porto/`
+  - Reseña visible: **pocos baños**.
+  - Reseña visible: para solo travelers, **callejón oscuro** y grupo de gente cerca (no reporta incidente, pero “sensación”).
+- **Fuente**: `https://www.hostelworld.com/hostels/p/313235/lost-inn-porto/`
 
-### 14) The Central House Porto Ribeira — USD 36.13 — Ribeira
+### 8) The Passenger Hostel — USD 35.90 — Baixa/São Bento
+**Hostelworld:** 9.7 (2375) — Atmosphere 9.5 — Location 9.9 — **Desayuno incluido**
+
+- **Fortalezas**
+  - “Hard to beat”: limpieza, ubicación y comodidades (cortinas, luz, enchufe).
+  - Linkup events (walking tour / night out / karaoke).
+  - Excelente para base logística (estación São Bento).
+- **Debilidades**
+  - Snippet visible: experiencia tipo “fraternity party” / “muchos americanos” (más sobre **perfil de huéspedes** que sobre el hostel).
+- **Fuente**: `https://www.hostelworld.com/hostels/p/279606/the-passenger-hostel/`
+
+### 9) The Central House Porto Ribeira — USD 36.13 — Ribeira
 **Hostelworld:** 9.3 (1202) — Security 9.9 — Location 9.9 — Bar/resto en planta baja
 
 - **Fortalezas**
@@ -188,43 +161,6 @@ Formato:
   - Snippet visible: baños con **humedad**; limpieza depende mucho de huéspedes.
   - Cocina no aparece explícita en extracto (asumir más “bar/resto” que cocinar).
 - **Fuente**: `https://www.hostelworld.com/bed-and-breakfasts/p/312776/the-central-house-porto-ribeira/`
-
-### 18) Rivoli Cinema Hostel — USD 36.79 — Baixa/Aliados
-**Hostelworld:** 9.6 (3815) — Security 10.0 — Staff 9.9 — Desayuno incluido
-
-- **Fortalezas**
-  - De los más completos: cocina, lounge, terraza enorme, movie nights, pub crawl, walking tours.
-  - Muy fácil socializar sin tener que “forzarlo”.
-  - Locker con llave de la habitación (reseña) → no dependés de candado.
-- **Debilidades**
-  - Snippet visible: **paredes finas** / sirenas afuera (ruido puntual).
-  - Pool/rooftop bar puede ser estacional.
-- **Fuente**: `https://www.hostelworld.com/hostels/p/30402/rivoli-cinema-hostel/`
-
-### 21) So Cool Hostel Porto — USD 24.50 — Cedofeita/Boavista
-**Hostelworld:** 8.8 (1105) — Security 9.2 — Cleanliness 9.2 — Desayuno incluido
-
-- **Fortalezas**
-  - Jardín grande + cocina (lo menciona reseña visible).
-  - Limpio y seguro; buen precio.
-- **Debilidades**
-  - Snippet visible: **wifi terrible**.
-  - Reglas operativas inusuales: cierre de cocina/jardín de noche; desinfección obligatoria de equipaje; obligan a salir del dorm entre 11:00–13:30.
-  - Reseña muy negativa aislada (trato staff / ubicación “muerta”): tomar como señal, pero no como verdad única.
-- **Fuente**: `https://www.hostelworld.com/hostels/p/77903/so-cool-hostel-porto/`
-
-### 22) Porto Lounge Hostel & Guest House — USD 48.09 — Baixa/Aliados
-**Hostelworld:** 9.6 (1635) — Cleanliness 10.0 — Location 10.0 — Eventos (free city tour + pub crawl)
-
-- **Fortalezas**
-  - Combinación rara: **boutique + social** (tour + pub crawl) + ubicación perfecta.
-  - Dorms con lockers grandes y enchufe dentro del locker (según About).
-  - Buenas terrazas + lounge.
-- **Debilidades**
-  - Snippet visible: cancelación por “water damage” + sospecha de relisting más caro (señal fuerte, pero una reseña).
-  - Snippets visibles: olor planta baja + paredes finas + locks complicadas.
-  - Muchas escaleras (comentado).
-- **Fuente**: `https://www.hostelworld.com/hostels/p/64814/porto-lounge-hostel-and-guest-house/`
 
 ---
 
@@ -240,10 +176,10 @@ Formato:
 
 ## Mi shortlist sugerida (si hoy tuviera que reservar solo 1)
 
-- **Si entrás en 18–39 y querés social “garantizado”**: **Onefam Ribeira** (o **Onefam Clérigos** si preferís estar *encima* de la noche, con la cautela de que tiene pocas reseñas).
+- **Si entrás en 18–39 y querés social “garantizado”**: **Onefam Ribeira**.
 - **Si querés el mejor “todo bien” sin tanta fricción**: **The Passenger**.
 - **Si querés social clásico con cenas/tours y buena relación**: **Porto Spot** o **Nice Way** (aceptando el riesgo de ruido).
-- **Si querés algo más barrio/boutique**: **Gallery Hostel** (Cedofeita) o **Porto Wine** (Clérigos/Cordoaria, más chill).
+- **Si querés algo más chill en Clérigos/Cordoaria**: **Porto Wine**.
 
 ---
 
@@ -272,8 +208,6 @@ Formato:
 - **Por qué**: ubicación 9.9, bar/happy hour + eventos, cocina.  
 - **Ojo**: ruido (paredes finas / piso chirriante) en reseñas visibles.
 
-### Si querés “céntrico + boutique” (menos social, más calidad percibida)
+### Si querés “céntrico + más chill” (menos party, buena calidad percibida)
 
-- **Porto Lounge** (USD 48.09): ubicación perfecta + tour/pub crawl, pero caro y con señales de ruido/olor en reseñas visibles.  
-- **Gallery Hostel** (USD 47.34): top en limpieza/seguridad y Cedofeita es gran zona; social más “cena/relax” que party.
-
+- **Porto Wine** (USD 42.94): Clérigos/Cordoaria, temático vino, social medio; ojo ruido en habitaciones al frente.

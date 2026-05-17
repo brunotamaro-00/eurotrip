@@ -1,3 +1,6 @@
-operativo-app/
+# bot-de-ruta vive en ../bot-de-ruta/ (hermano de Itinerary/)
+bot-de-ruta/
 hostelworld.tsv
 claude.md
+.DS_Store
+**/.DS_Store

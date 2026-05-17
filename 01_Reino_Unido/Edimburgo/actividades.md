@@ -67,7 +67,7 @@ Antes de comprar entradas individuales a castillos/sitios históricos, evaluar s
 - [ ] **National Museum of Scotland** - GRATIS, historia escocesa
 - [ ] **Scottish National Gallery** - GRATIS, arte
 - [ ] **National Portrait Gallery** - GRATIS
-- [ ] **Camera Obscura** - Ver PRESUPUESTO.md, ilusiones ópticas (divertido)
+- [ ] **Camera Obscura** - ilusiones ópticas (**£24.95 adulto**) `https://camera-obscura.co.uk/view-tickets`
 - [ ] **Surgeon's Hall Museum** - £8, museo de cirujanos con muestras de cuerpos. Random pero interesante
 - [ ] **Parlamento escocés** - GRATIS todos los días excepto domingos. Se puede visitar
 
@@ -79,8 +79,8 @@ Antes de comprar entradas individuales a castillos/sitios históricos, evaluar s
 
 - [ ] **Edinburgh Festival Fringe** - ⭐⭐⭐⭐⭐ ESTARÁN EN PLENO FESTIVAL - teatro, comedia, música por toda la ciudad
 - [ ] **Edinburgh Military Tattoo** - ⭐⭐⭐⭐⭐ Espectáculo nocturno de bandas militares, gaitas, desfiles frente al castillo iluminado (RESERVAR CON MUCHA ANTICIPACIÓN)
-- [ ] **Ghost Tour** - Ver PRESUPUESTO.md, historias de fantasmas (Edimburgo es una de las ciudades más embrujadas). Cementerio de Greyfriars es parada clásica
-- [ ] **Whisky Experience** - Ver PRESUPUESTO.md+, cata de whisky escocés
+- [ ] **Ghost Tour** - historias de fantasmas (precio varía por empresa; reservar online en agosto)
+- [ ] **Whisky Experience** - cata/experiencia (**Silver Tour £25**) `https://www.scotchwhiskyexperience.co.uk/tour/silver-tour/`
 - [ ] **Pub tradicional escocés** - Probar haggis y cerveza local
 
 ### Ruta Harry Potter
@@ -153,3 +153,24 @@ Antes de comprar entradas individuales a castillos/sitios históricos, evaluar s
 - VisitScotland: https://www.visitscotland.com/
 - Edinburgh Festival: https://www.edfringe.com/
 - Military Tattoo: https://www.edintattoo.co.uk/
+
+---
+
+## ⚠️ Reservas y precios oficiales (2026)
+
+- **Edinburgh Castle**: online **£23.50** adulto (walk‑up £26). Se agota con anticipación en agosto. Fuente (oficial): `https://www.edinburghcastle.scot/visit/tickets-prices/`
+- **Military Tattoo (Fringe)**: se compra por ticketing oficial; el precio depende de sector/fecha y no siempre aparece “plano” en la landing. Fuente (oficial): `https://www.edintattoo.co.uk/tickets/tattoo-2026`
+
+## 🧯 Anti-scam / trampas típicas (festival)
+
+- Agosto = **crowds** + precios altos: reservar y no improvisar “lo grande” el mismo día.
+- Royal Mile es hermosa pero muy turística: comer/beber suele rendir más en calles laterales.
+
+## 🧠 Consenso Reddit/foros (resumen)
+
+- Con 3 noches: **Castillo + Royal Mile + 1 día de vibe Festival** suele ser el combo que más satisfacción da.
+- Si el clima está feo, Edimburgo sigue rindiendo (museos, pubs, tours).
+
+## 🔎 Hilos y lecturas (links)
+
+- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/Edinburgh/search/?q=fringe%20tips&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/uktravel/search/?q=edinburgh%203%20days&restrict_sr=1&sort=relevance&t=all`

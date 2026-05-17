@@ -67,14 +67,14 @@
 - [ ] **Science Museum** - Ciencia interactiva (GRATIS)
 - [ ] **Victoria & Albert Museum** - Artes decorativas (GRATIS)
 - [ ] **Imperial War Museum** - Historia militar (GRATIS)
-- [ ] **Churchill War Rooms** - Búnker WWII (Ver PRESUPUESTO.md)
+- [ ] **Churchill War Rooms** - Búnker WWII (**£34 adulto**, reservar online) `https://www.iwm.org.uk/visits/churchill-war-rooms/booking`
 - [ ] **National Portrait Gallery** - Retratos (GRATIS)
 
 ## 🏰 Monumentos y Arquitectura
 
-- [ ] **Westminster Abbey** - Abadía gótica (Ver PRESUPUESTO.md)
-- [ ] **St Paul's Cathedral** - Catedral barroca (Ver PRESUPUESTO.md)
-- [ ] **The Shard** - Mirador (Ver PRESUPUESTO.md)
+- [ ] **Westminster Abbey** - Abadía gótica (**£31 adulto**) `https://www.westminster-abbey.org/visit-us/prices-entry-times/`
+- [ ] **St Paul's Cathedral** - Catedral barroca (**£27 adulto**) `https://www.stpauls.co.uk/ticket-types-and-prices`
+- [ ] **The Shard** - Mirador (precio variable; a veces **desde £19**) `https://tickets.theviewfromtheshard.com/`
 - [ ] **Sky Garden** - Mirador GRATIS (reserva online)
 - [ ] **Piccadilly Circus** - Times Square londinense
 - [ ] **Trafalgar Square** - Plaza emblemática
@@ -95,7 +95,7 @@
 
 - [ ] **Camden Market** - Mercado alternativo, comida del mundo
 - [ ] **Notting Hill** - Casas coloridas, Portobello Road Market (sábados)
-- [ ] **Thames River Cruise** - Crucero por Támesis (Ver PRESUPUESTO.md) / Uber Boat como transporte
+- [ ] **Thames River Cruise** - Crucero por Támesis (precio varía según operador/formatos) `https://www.cityexperiences.com/london/city-cruises/river-thames-sightseeing/` / Uber Boat como transporte
 ### Harry Potter — Warner Bros Studio Tour (Leavesden)
 
 Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Diagon Alley, Hogwarts Express, Forbidden Forest, Dumbledore's Office, maqueta gigante de Hogwarts. No es un parque de atracciones — es un museo interactivo de producción cinematográfica. Para fans es una de las mejores experiencias de Londres.
@@ -106,8 +106,8 @@ Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Dia
 
 | Opción | Precio pp | Incluye |
 |--------|----------|---------|
-| **Ticket solo (sitio oficial)** | £58.50 (~Ver PRESUPUESTO.md) | Entrada + shuttle gratis desde Watford Junction |
-| **Ticket + bus Golden Tours** | £94-118 (~Ver PRESUPUESTO.md) | Entrada + bus ida/vuelta desde centro de Londres |
+| **Ticket solo (sitio oficial)** | £58.50 | Entrada + shuttle gratis desde Watford Junction |
+| **Ticket + bus Golden Tours** | £94-118 | Entrada + bus ida/vuelta desde centro de Londres |
 | **Souvenir Gift Ticket** | £70.50 | Entrada (fecha abierta, canjear en 12 meses) |
 | **Deluxe Tour (VIP guiado)** | £250 | Guía privado 2.5h + butterbeer + guidebook |
 
@@ -122,9 +122,9 @@ Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Dia
 
 | Opción | Precio total (x2) | Tiempo al estudio | Flexibilidad |
 |--------|-------------------|-------------------|-------------|
-| Ticket solo + tren DIY | ~£133 (~Ver PRESUPUESTO.md) | 35-45 min | Alta — trenes cada 10-15 min |
-| Golden Tours (bus + ticket) | £188-236 (~Ver PRESUPUESTO.md) | 1h 15min | Baja — horarios fijos del bus |
-| **Ahorro DIY** | **£55-103 (~Ver PRESUPUESTO.md)** | **30 min menos** | **Mejor** |
+| Ticket solo + tren DIY | ~£133 (aprox) | 35-45 min | Alta — trenes cada 10-15 min |
+| Golden Tours (bus + ticket) | £188-236 (aprox) | 1h 15min | Baja — horarios fijos del bus |
+| **Ahorro DIY** | **£55-103 (aprox)** | **30 min menos** | **Mejor** |
 
 **Recomendación clara: TICKET SOLO + TREN.** Ahorran £55-103 entre los dos, llegan más rápido, y tienen más flexibilidad. El shuttle desde Watford es gratis y está incluido. No hay razón para pagar el paquete salvo comodidad extrema.
 
@@ -137,7 +137,7 @@ Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Dia
 - **Evitar:** Slots de 11am-1pm (pico de multitud)
 - **Web oficial:** https://www.wbstudiotour.co.uk/ — Comprar directo, es el más barato
 - [ ] **ACCIÓN: Reservar tickets para agosto 2026 (abrir disponibilidad ~mayo 2026)**
-- [ ] **West End Show** - Musical/Teatro (Ver PRESUPUESTO.md, a veces hay tickets de último momento)
+- [ ] **West End Show** - Musical/Teatro (tickets oficiales / última hora) `https://www.officiallondontheatre.com/`
 - [ ] **Pub tradicional** - Pinta de cerveza (probar pubs emblemáticos como Ye Olde Cheshire Cheese o The George Inn)
 - [ ] **Pub Tour** - Tours de pubs históricos (buscar tours auténticos, no trampas turísticas)
 - [ ] **Ghost Tour / Historical Night Tour** - Tours históricos nocturnos por la ciudad
@@ -197,7 +197,7 @@ Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Dia
 ### Oyster Card / Contactless
 - **Incluye:** Metro, buses, trenes
 - **¿Vale la pena?:** SÍ, imprescindible
-- **Tope diario:** Ver PRESUPUESTO.md (zonas 1-2)
+- **Tope diario:** depende de zonas y día; ver caps oficiales TfL `https://tfl.gov.uk/fares/find-fares/tube-and-rail-fares/pay-as-you-go-caps`
 
 ## 📅 Días de la Semana (para planificar)
 
@@ -258,3 +258,28 @@ Recorrido por los sets reales de filmación de las 8 películas. Great Hall, Dia
 ### Videos Recomendados
 - **Living London History:** Videos sobre historia de Londres
 - **London's Map, Explained:** https://www.youtube.com/watch?v=uDy88vW76_Y (Excelente para entender la ciudad)
+
+---
+
+## ⚠️ Reservas y precios oficiales (2026)
+
+- **Tower of London**: Adulto **£37** (online, sin donación; con donación opcional sube). Fuente (oficial): `https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/`
+- **Westminster Abbey**: Adulto **£31** (multimedia guide incluido). Fuente (oficial): `https://www.westminster-abbey.org/visit-us/prices-entry-times/`
+- **London Eye**: Standard Ticket **online desde £29** (en puerta £39). Fuente (oficial): `https://www.londoneye.com/tickets-and-prices/general-tickets/standard-tickets/`
+- **Warner Bros. Studio Tour (Harry Potter)**: 2026 prices **desde £58.50** (hay packs/variantes). Fuente (oficial): `https://www.wbstudiotour.co.uk/tickets-2/`
+
+## 🧯 Anti-scam / trampas típicas (foros)
+
+- **Pickpockets**: zonas hiper turísticas y metro en hora pico. No llevar celular “a la vista” ni mochila atrás en aglomeración.
+- **Street scams**: “peticiones”/clipboards, pulseritas, juegos de cubiletes. Regla simple: no enganchar conversación, seguir caminando.
+- **Comer pegado a atracciones**: suele ser caro y flojo. Estrategia: caminar 2–3 cuadras y elegir por reseñas/rotación de gente.
+
+## 🧠 Consenso Reddit/foros (resumen)
+
+- Londres tiene muchísimas cosas pagas, pero **los museos top son gratis**: conviene alternar 1 “ticket fuerte” por día con día de museos/parques.
+- **Reservar con anticipación** las atracciones “de cola”: Tower of London, HP Studio, miradores.
+- El **London Pass** muchas veces no conviene si tu plan real es museos gratis + 1–2 pagas (verificar según qué terminen eligiendo).
+
+## 🔎 Hilos y lecturas (links)
+
+- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/london/search/?q=itinerary%205%20days&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/uktravel/search/?q=london%20tips&restrict_sr=1&sort=relevance&t=all`

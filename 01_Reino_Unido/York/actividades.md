@@ -106,3 +106,19 @@
 - York Minster: https://yorkminster.org/
 - Jorvik Viking Centre: https://www.jorvikvikingcentre.co.uk/
 - National Railway Museum: https://www.railwaymuseum.org.uk/
+
+---
+
+## ⚠️ Reservas y precios oficiales (2026)
+
+- **York Minster**: “Minster only” **£20** adulto; con Central Tower **£26**. Fuente (oficial): `http://www.yorkminster.org/visit-york-minster/opening-times-amp-admission.html`
+- **JORVIK Viking Centre**: adultos **desde £17.50** (pre‑booking recomendado; suelen funcionar con slots). Fuente (oficial): `https://www.jorvikvikingcentre.co.uk/visit/`
+
+## 🧠 Consenso Reddit/foros (resumen)
+
+- York es chica y súper caminable: con 2 noches, la clave es hacer **Minster + murallas + 1 atracción temática** (JORVIK o ghost walk).
+- Para atracciones con slot, reservar con margen para no “romper” el ritmo del día.
+
+## 🔎 Hilos y lecturas (links)
+
+- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/uktravel/search/?q=york%20itinerary&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/travel/search/?q=york%20minster%20jorvik&restrict_sr=1&sort=relevance&t=all`

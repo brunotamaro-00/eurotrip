@@ -179,3 +179,19 @@ Día más tranquilo y fresco.
 - Highland Games: https://www.shga.co.uk/
 - Historic Environment Scotland: https://www.historicenvironment.scot/
 - Jacobite Steam Train: https://westcoastrailways.co.uk/jacobite/
+
+---
+
+## ⚠️ Reservas y precios oficiales (2026)
+
+- **Eilean Donan Castle**: adulto **£13** (familia £38). Importante: tickets **solo en el día, on‑site** (no venden online). Fuente (oficial): `https://www.eileandonancastle.com/visit/opening-hours/`
+- **Dunvegan Castle & Gardens (Skye)**: adulto **£17.50** (familia £45). Fuente (oficial): `https://www.dunvegancastle.com/visitor-information/`
+
+## 🧠 Consenso Reddit/foros (resumen)
+
+- Agosto = **altísima temporada**: estacionamientos se llenan temprano (Old Man of Storr, Fairy Pools, Neist Point). Salir temprano rinde más que “manejar de noche”.
+- No subestimar el **clima**: plan A (hikes) + plan B (miradores/paradas cortas) en el mismo día.
+
+## 🔎 Hilos y lecturas (links)
+
+- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/Scotland/search/?q=skye%20itinerary%203%20days&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/uktravel/search/?q=highlands%20road%20trip%207%20days&restrict_sr=1&sort=relevance&t=all`
