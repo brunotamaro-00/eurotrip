@@ -12,7 +12,7 @@
 | Inverness | 2 | 22-24 ago | ✅ **RESERVADO** |
 | Tránsito hacia Aeropuerto de Edimburgo (Gothenburg Hotel) | 1 | 24-25 ago | ✅ **RESERVADO** |
 
-**Ruta:** Edimburgo → Fort William → Skye → Inverness → Edimburgo → **vuelo a Ámsterdam (25 ago, COMPRADO — USD 182 total, 2p)**
+**Ruta:** Edimburgo → Fort William → Skye → Inverness → Edimburgo → **vuelo a Ámsterdam (25 ago, COMPRADO — USD 184 total, 2p)**
 
 ---
 
@@ -104,4 +104,4 @@
 - [x] ~~Reservar hostels Highlands~~ ✅ Glen Nevis + Portree + Inverness (**~USD 298 pp**, 6 noches; subtotal UK en `PRESUPUESTO.md`)
 - [x] ~~Reservar alojamiento de tránsito 24-25 ago~~ ✅ Gothenburg Hotel (**USD 115,2** total 2p)
 - [ ] Reservar auto (fechas: 18-25 ago, retirar/devolver en Aeropuerto de Edimburgo - EDI)
-- [x] Vuelo Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
+- [x] Vuelo Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 184 total**, 2p)

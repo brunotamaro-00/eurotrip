@@ -61,12 +61,6 @@
 - **Cobertura mínima:** €30.000 (requisito Schengen para Persona 2)
 - **Debe incluir:** Médica, repatriación (obligatorio), cancelación (recomendado), equipaje (recomendado)
 
-### Compañías evaluadas (referencia)
-- **SafetyWing** - Pensado para nómadas, cubre viajes largos, pago mensual
-- **World Nomads** - Popular entre mochileros
-- **True Traveller** - Especializado en viajes +90 días
-- **IATI** - Seguro español, buena cobertura Europa
-
 ### Datos del Seguro (completar al contratar)
 - Compañía: **PAX Assistance**
 - Plan: **Long Stay (LS) 4 meses — BASIC**
@@ -148,7 +142,7 @@
 - **Equipaje:** 1 carry on + 1 valija despachada
 
 ### Vuelos Internos (ver `ITINERARIO_GENERAL.md` y `transporte.md` por ciudad)
-- Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 182 total**, 2p)
+- Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 184 total**, 2p)
 - París → Lisboa (4 sept) — **COMPRADO** (~$85 con equipaje, 1 persona)
 - Porto → Estrasburgo (12 sept) — **COMPRADO** (Volotea, **USD 90**, 1 persona)
 - Sur de Italia → Barcelona (8 nov) — pendiente

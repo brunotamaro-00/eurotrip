@@ -5,7 +5,7 @@
 ### Vuelo Edimburgo → Ámsterdam (25 agosto)
 - **Aerolíneas:** KLM, easyJet
 - **Duración:** 1.5h vuelo
-- **Precio:** **USD 182 total (2 personas)** (**USD 91 pp**) — **COMPRADO**
+- **Precio:** **USD 184 total (2 personas)** (**USD 92 pp**) — **COMPRADO**
 - **Llegada:** Amsterdam Schiphol Airport
 
 ### Del Aeropuerto al Centro
@@ -103,7 +103,7 @@ El **Tram 2** hace un recorrido muy lindo que pasa por zonas bonitas de la ciuda
 
 ## Tickets a Comprar
 
-- [x] **Vuelo EDI→AMS:** 25 agosto — **COMPRADO** (hora: [___], **USD 182 total**, 2p)
+- [x] **Vuelo EDI→AMS:** 25 agosto — **COMPRADO** (hora: [___], **USD 184 total**, 2p)
 - [ ] **Tren AMS→París:** 29 agosto (sábado), hora: [___], €___ -- RESERVAR con anticipación
 - [ ] **Alquiler bici:** [X días], €___/día
 - [ ] **Anne Frank House:** Reservar martes 10:00 CET, 6 semanas antes de la visita

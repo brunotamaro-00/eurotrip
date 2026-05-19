@@ -27,28 +27,32 @@
 | Francia — Estrasburgo | 12-14 sept | 2 | $40-60 | $80-120 | |
 | Francia — Colmar | 14-16 sept | 2 | $40-60 | $80-120 | |
 | Alemania — Friburgo | 16-19 sept | 3 | $38-55 | $114-165 | Selva Negra (base) |
-| Suiza — Jungfrau Region | 19-23 sept | 4 | $70-88 | $280-352 | Interlaken/Lauterbrunnen/etc. |
+| Suiza — Jungfrau Region | 19-23 sept | 4 | $72-90 | $288-360 | Interlaken/Lauterbrunnen/etc. |
 | Austria — Innsbruck | 23 sept (tránsito) | 0 | $50-70 | $0–140 | 0 noches en borrador; +1–2 si se confirman |
-| Austria — Viena | 23-28 sept | 5 | $50-60 | $250-300 | |
-| Chequia | 28 sept - 3 oct | 5 | $23-33 | $115-165 | |
+| Austria — Viena | 23-28 sept | 5 | $52-62 | $260-310 | |
+| Chequia | 28 sept - 3 oct | 5 | $28-38 | $140-190 | |
 | Polonia | 3-7 oct | 4 | $18-28 | $72-112 | |
 | Hungría | 7-11 oct | 4 | $20-30 | $80-120 | |
 | Eslovenia — Liubliana | 11-15 oct | 4 | $33-45 | $132-180 | Base Liubliana; excursiones por regiones |
-| Italia | 15 oct - 8 nov | 24 | $38-53 | $912-1,272 | Florencia + Roma + Nápoles + Sur (10n) |
+| Italia | 15 oct - 8 nov | 24 | $40-56 | $960-1,344 | Florencia + Roma + Nápoles + Sur (10n) |
 | España | 8-18 nov | 10 | $35-48 | $350-480 | Barcelona + Madrid |
 | **Margen flex (ubicación TBD)** | a usar en el viaje | 3 | $35-48 | $105-144 | Colchón; sumar noches donde interese (no anclado al cierre) |
-| **TOTAL** | | **108** | | **$4,349-5,554** | |
+| **TOTAL** | | **108** | | **$4,240-5,200** | |
 
 ### Alimentación (por persona)
 
 | Región | $/día pp | Días | Total pp |
 |--------|---------|------|----------|
-| Europa Occidental (UK, NL, FR, DE, CH, AT) | $33-45 | 48 | $1,584-2,160 |
-| Europa Central (CZ, PL, HU, SI) | $20-30 | 17 | $340-510 |
-| Europa del Sur (IT, ES) | $28-38 | 34 | $952-1,292 |
-| **Portugal (1 persona)** | $20-40 | 8 | $160-320 |
-| **Margen (3 días flex)** | $28-45 | 3 | $84-135 |
-| **TOTAL** | | **108** | **$3,064-4,341** |
+| Reino Unido (ago, temporada alta) | $38-52 | 20 | $760-1,040 |
+| Países Bajos + París | $36-48 | 10 | $360-480 |
+| **Portugal (1 persona)** | $25-38 | 8 | $200-304 |
+| Alsacia + Selva Negra | $32-42 | 7 | $224-294 |
+| Austria | $34-46 | 5 | $170-230 |
+| Suiza | $48-70 | 4 | $192-280 |
+| Europa Central (CZ, PL, HU, SI) | $17-26 | 17 | $289-442 |
+| Italia + España | $28-40 | 34 | $952-1,360 |
+| **Margen (3 días flex)** | $30-42 | 3 | $90-126 |
+| **TOTAL** | | **108** | **$3,240-4,560** |
 
 ### Transporte (por persona)
 
@@ -58,7 +62,7 @@
 |----------|------------|
 | Eurail Pass (15 días/2 meses) — YA COMPRADO | $370 |
 | Reservas obligatorias Eurail (TGV, nocturnos) | $69-119 |
-| Vuelo Edimburgo → Ámsterdam (COMPRADO — USD 182 total, 2p) | **$91** |
+| Vuelo Edimburgo → Ámsterdam (COMPRADO — USD 184 total, 2p) | **$92** |
 | Vuelo Sur Italia → Barcelona (aeropuerto flexible) | $15-110 |
 | Vuelo **Buenos Aires (BUE) → Londres (LHR)** — **Smiles (COMPRADO)** | **$484** |
 | Vuelo **Madrid (MAD) → Buenos Aires (BUE)** — **Plus Ultra (COMPRADO)** | **$473** |
@@ -71,8 +75,8 @@
 | Roma → Nápoles (individual Italo) | $11-17 |
 | Barcelona → Madrid (Ouigo/AVLO) | $17-41 |
 | Auto Highlands (7 días, dividido en 2) | $150-220 |
-| Transporte local (metro, bus, etc.) | $500-750 |
-| **TOTAL TRANSPORTE** | **$2,381.5-2,975.5** |
+| Transporte local (metro, bus, etc.) | $550-850 |
+| **TOTAL TRANSPORTE** | **$2,432.5-3,026.5** |
 
 **Nota:** Maximizar los 15 días del Eurail con day trips (Suiza, Bratislava, Pompeya, Montserrat). Los tramos baratos (Italia, España, bus) se compran por fuera. Ver tramos en `transporte.md` de cada ciudad y [`ITINERARIO_GENERAL.md`](ITINERARIO_GENERAL.md).
 
@@ -82,10 +86,10 @@
 |----------|------------|
 | Seguro de viaje — **Pax Assistance (4 meses BASIC) (COMPRADO)** | **$350** |
 | eSIM datos (3.5 meses) | $90-150 |
-| Museos y atracciones | $300-500 |
-| Lavandería (~10 veces) | $50-80 |
+| Museos y atracciones | $1,700-3,000 |
+| Lavandería (~12 veces) | $55-95 |
 | ETIAS | $8 |
-| **TOTAL OTROS** | **$798-1,088** |
+| **TOTAL OTROS** | **$2,203-3,603** |
 
 ---
 
@@ -93,22 +97,22 @@
 
 ### Reino Unido (20 noches: 5-25 ago)
 - Alojamiento: $912.7 (Londres $37.6/n, York $59.5/n, Edimburgo $45.8/n, Highlands confirmado $297.9 pp + Edimburgo tránsito 1 noche Gothenburg Hotel)
-- Comida: $660-900
+- Comida: $760-1,040
 - Transporte inter-ciudades: $55-100 (trenes) + $150-220 (auto Highlands)
-- Actividades: $100-200
-- **Subtotal: ~$1,880-2,510**
+- Actividades: $400-650
+- **Subtotal: ~$2,280-3,100**
 
 ### Países Bajos (4 noches: 25-29 ago)
 - Alojamiento: $237.7 (reservado)
-- Comida: $132-180
-- Actividades: $30-60
-- **Subtotal: ~$382-532**
+- Comida: $144-192
+- Actividades: $110-175
+- **Subtotal: ~$474-629**
 
 ### Francia (6 noches: 29 ago - 4 sept)
 - Alojamiento: $265.6 (✅ Reservado — The People – Paris Belleville)
-- Comida: $198-270
-- Actividades: $50-100
-- **Subtotal: ~$514-636**
+- Comida: $216-288
+- Actividades: $140-220
+- **Subtotal: ~$622-774**
 
 ### Portugal — Lisboa + Porto (8 noches: 4-12 sept) - 1 PERSONA
 
@@ -121,57 +125,58 @@
 | Concepto | Estimado |
 |----------|----------|
 | Alojamiento (8n) | $240-255 |
-| Comida (8d) | $160-320 |
+| Comida (8d) | $200-304 |
+| Actividades | $70-130 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$587-790** |
+| **Subtotal** | **$697-968** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: $274-405 (Estrasburgo 2n + Colmar 2n + Friburgo 3n)
-- Comida: $245-335 (Alsacia + Alemania, similar nivel de precios)
-- Actividades: $30-60
-- **Subtotal: ~$527-760**
+- Comida: $224-294
+- Actividades: $55-95
+- **Subtotal: ~$553-784**
 
 ### Suiza (4 noches: 19-23 sept)
-- Alojamiento: $280-352
-- Comida: $185-230
-- Actividades: $80-150 (teleféricos, trenes montaña)
-- **Subtotal: ~$545-732** (país más caro)
+- Alojamiento: $288-360
+- Comida: $192-280
+- Actividades: $170-300
+- **Subtotal: ~$650-940** (país más caro)
 
 ### Austria (5 noches en borrador: Viena 23-28 sept; Innsbruck 0, puede +1–2)
-- Alojamiento: $250-440 (Viena $250-300 + Innsbruck $0-140 si aplica)
-- Comida: $231-315
-- Actividades: $50-100
-- **Subtotal: ~$631-855**
+- Alojamiento: $260-450 (Viena $260-310 + Innsbruck $0-140 si aplica)
+- Comida: $170-230
+- Actividades: $85-140
+- **Subtotal: ~$615-820**
 
 ### Chequia (5 noches: 28 sept - 3 oct)
-- Alojamiento: $115-165
-- Comida: $80-120
-- Actividades: $20-40
-- **Subtotal: ~$192-292**
+- Alojamiento: $140-190
+- Comida: $85-130
+- Actividades: $55-90
+- **Subtotal: ~$280-410**
 
 ### Polonia (4 noches: 3-7 oct)
 - Alojamiento: $72-112
-- Comida: $90-140
-- Actividades: $20-40
-- **Subtotal: ~$200-320**
+- Comida: $68-104
+- Actividades: $60-100
+- **Subtotal: ~$200-316**
 
 ### Hungría (4 noches: 7-11 oct)
 - Alojamiento: $80-120
-- Comida: $80-120
-- Actividades: $30-50 (termas)
-- **Subtotal: ~$190-290**
+- Comida: $68-104
+- Actividades: $70-115
+- **Subtotal: ~$218-339**
 
 ### Eslovenia (4 noches: 11-15 oct, base Liubliana)
 - Alojamiento: $132-180
 - Comida: $80-120
-- Actividades: $30-50
-- **Subtotal: ~$242-350**
+- Actividades: $60-100
+- **Subtotal: ~$272-400**
 
 ### Italia (24 noches: 15 oct - 8 nov)
-- Alojamiento: $912-1,272
-- Comida: $616-836
-- Actividades: $100-200 (Coliseo, Vaticano, Uffizi, Pompeya)
-- **Subtotal: ~$1,420-2,020**
+- Alojamiento: $960-1,344
+- Comida: $672-960
+- Actividades: $300-480
+- **Subtotal: ~$1,932-2,784**
 
 > **Nota Sur de Italia:** El presupuesto de las **10 noches** tentativas del bloque “Sur de Italia” varía según la ruta elegida:
 > - **Costa Amalfitana:** $$-$$$ — Sorrento/Positano más caro. ~$40-55pp/día todo incluido.
@@ -183,9 +188,9 @@
 
 ### España (10 noches: 8-18 nov)
 - Alojamiento: $350-480
-- Comida: $280-380
-- Actividades: $50-100 (Sagrada Familia)
-- **Subtotal: ~$680-960**
+- Comida: $280-400
+- Actividades: $140-210
+- **Subtotal: ~$770-1,090**
 
 ---
 
@@ -195,27 +200,28 @@
 
 | Categoría | Rango |
 |-----------|-------|
-| Alojamiento (100 noches, sin Portugal) | $4,069-5,099 |
-| Alimentación (100 días, sin Portugal) | $2,894-4,015 |
-| Transporte (Eurail ya comprado) | $2,381.5-2,975.5 |
-| Otros | $798-1,088 |
-| **TOTAL pp (sin Portugal)** | **$10,142.5-13,177.5** |
+| Alojamiento (100 noches, sin Portugal) | $4,000-4,945 |
+| Alimentación (100 días, sin Portugal) | $3,040-4,256 |
+| Transporte (Eurail ya comprado) | $2,432.5-3,026.5 |
+| Otros | $2,203-3,603 |
+| **TOTAL pp (sin Portugal)** | **$11,675.5-15,830.5** |
 
 ### Portugal (1 persona, 8 noches)
 
 | Categoría | Portugal (Lisboa + Porto) |
 |-----------|----------------------------|
-| Alojamiento + comida | $400-575 |
+| Alojamiento + comida | $440-559 |
+| Actividades | $70-130 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$587-790** |
+| **Subtotal** | **$697-968** |
 
 ### Gran Total (2 personas + Portugal 1 persona)
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | **$10,592.5-13,983.5** |
-| Persona 2 (100 noches, sin Portugal) | **$10,142.5-13,177.5** |
-| **TOTAL VIAJE** | **$20,735-27,161** |
+| Persona 1 (108 noches completas) | **$12,115.5-16,386** |
+| Persona 2 (100 noches, sin Portugal) | **$11,675.5-15,830.5** |
+| **TOTAL VIAJE** | **$23,791-32,216** |
 
 ### Gastos Confirmados
 
@@ -235,9 +241,9 @@
 | Vuelo Buenos Aires (BUE) → Londres (LHR) — Smiles | $968.0 | $484.0 |
 | Vuelo Madrid (MAD) → Buenos Aires (BUE) — Plus Ultra | $946.0 | $473.0 |
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
-| Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$182.0** | **$91.0** |
+| Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$184.0** | **$92.0** |
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
-| **TOTAL CONFIRMADO** | **$6,607.8** | **$3,423.9** |
+| **TOTAL CONFIRMADO** | **$6,609.8** | **$3,424.9** |
 
 ---
 
@@ -245,17 +251,17 @@
 
 ### Presupuesto promedio r/solotravel Europa:
 - Viaje económico: €50-70/día pp (~$55-77)
-- Nuestro estimado: ~$88-122/día pp (alojamiento + comida + transporte local)
+- Nuestro estimado: ~$95-130/día pp (alojamiento + comida + transporte local)
 
 ### Comparación:
 
 | Concepto | Reddit Average | Nuestro Estimado |
 |----------|---------------|------------------|
-| Alojamiento pp/día | €20-25 | $39-50 |
-| Comida pp/día | €15-20 | $27-37 |
-| Transporte local pp/día | €5-10 | ~$10-15 |
-| Actividades pp/día | €10-15 | ~$10-15 |
-| **TOTAL pp/día** | **€50-70** | **$86-117** |
+| Alojamiento pp/día | €20-25 | $39-48 |
+| Comida pp/día | €15-20 | $30-42 |
+| Transporte local pp/día | €5-10 | ~$5-8 |
+| Actividades pp/día | €10-15 | ~$16-28 |
+| **TOTAL pp/día** | **€50-70** | **$90-126** |
 
 Nuestro presupuesto está ligeramente por encima del promedio Reddit. Esto incluye más flexibilidad y comodidad. Europa del Este (Chequia, Polonia, Hungría, Eslovenia) baja el promedio significativamente, mientras que Suiza y UK lo suben.
 
