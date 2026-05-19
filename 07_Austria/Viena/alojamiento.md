@@ -1,6 +1,6 @@
 # 🏨 Alojamiento en Viena
 
-**Referencia de precios (plan 2026):** **~USD 50-60 pp/noche** en promedio para el bloque Viena (5 noches; `PRESUPUESTO.md`). Los hostels de la comparativa suelen caer **~USD 35-55** en dorm según fecha.
+**Referencia de precios (plan 2026):** **~USD 52-62 pp/noche** en promedio para el bloque Viena (5 noches; `PRESUPUESTO.md`). Los hostels de la comparativa suelen caer **~USD 35-55** en dorm según fecha.
 
 ---
 

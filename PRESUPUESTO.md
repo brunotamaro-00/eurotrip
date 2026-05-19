@@ -325,4 +325,4 @@ Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financiera
 
 ---
 
-**Última actualización:** Mayo 2026
+**Última actualización:** Mayo 2026 (revisión actividades, comida, alojamiento tentativo y totales)

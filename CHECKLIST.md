@@ -2,6 +2,8 @@
 
 **Fechas cerradas:** hasta fin del desvío Portugal (**12 sept**). **Post Portugal:** fechas tentativas — priorizar investigación; reservar alojamiento/traslados cuando se confirme tramo y noches. **3 noches de margen:** sin destino; no reservar hasta decidir si se usan y dónde.
 
+**Presupuesto:** rangos actualizados en [`PRESUPUESTO.md`](PRESUPUESTO.md) (~$24k-32k total viaje; ~$6,6k ya confirmados).
+
 ## 3 a 6 Meses Antes (Reservas Críticas)
 - [ ] **Anne Frank House (Ámsterdam):** Reservar apenas abran las fechas (se agotan MESES antes). **Recordatorio:** suelen abrir ~6 semanas antes, **martes 10:00 CET**.
 - [ ] **Coliseo + Foro / Vaticano (Roma):** Reservar online en web oficial (Parco Colosseo y Museos Vaticanos).

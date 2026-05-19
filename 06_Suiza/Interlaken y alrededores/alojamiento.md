@@ -1,7 +1,7 @@
 # Alojamiento — Jungfrau Region / Suiza (4 noches tentativas: 19-23 sept)
 
 **Viajeros:** 2 personas
-**Presupuesto objetivo:** Lo más barato posible (Suiza es cara). **Referencia plan 2026:** **~USD 70-88 pp/noche** en la región Jungfrau (`PRESUPUESTO.md`; la tabla CHF de abajo detalla por base).
+**Presupuesto objetivo:** Lo más barato posible (Suiza es cara). **Referencia plan 2026:** **~USD 72-90 pp/noche** en la región Jungfrau (`PRESUPUESTO.md`; la tabla CHF de abajo detalla por base).
 **Tipo preferido:** Hostels, guesthouses, Airbnb económico
 
 ---

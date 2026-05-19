@@ -15,7 +15,7 @@
 ## Transporte (confirmado / clave)
 - **Vuelo París → Lisboa:** **$85** (con equipaje)
 - **Tren Lisboa → Porto:** ~3h (CP — Alfa Pendular / Intercidades)
-- **Vuelo Porto → Estrasburgo:** **$95** (con equipaje)
+- **Vuelo Porto → Estrasburgo:** **$90** (Volotea, con equipaje — COMPRADO)
 
 ---
 

@@ -104,6 +104,19 @@ Las fechas con * en la tabla son orientativas (post-Portugal).
 - Barcelona: 11-18°C
 - Madrid: 6-14°C
 
+## 💰 Presupuesto (referencia)
+
+Estimación consolidada en [`PRESUPUESTO.md`](PRESUPUESTO.md) (mayo 2026):
+
+| Concepto | Rango |
+|----------|-------|
+| Por persona (108 noches, viaje completo) | ~$12,100-16,400 |
+| Por persona (100 noches, sin Portugal) | ~$11,700-15,800 |
+| **Total viaje** (2 personas + Portugal 1p) | **~$24,000-32,200** |
+| Ya confirmado (ambas personas + seguros/vuelos clave) | ~$6,610 total · ~$3,425 pp |
+
+Incluye alojamiento, comida, transporte (Eurail + vuelos + local), museos/actividades y extras (eSIM, lavandería, ETIAS). El tramo post-Portugal sigue siendo tentativo en fechas; los rangos de alojamiento/comida de esas ciudades pueden moverse al reservar.
+
 ## ⚠️ Pendientes
 
 ### Decisiones Importantes
