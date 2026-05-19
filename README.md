@@ -6,7 +6,7 @@
 - **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona, 8 noches)
 - **Países:** 13 países (incluye Portugal)
 - **Ciudades/Bases:** 23 paradas + **3 noches de margen flex** (sin asignar aún)
-- **Presupuesto estimado:** ~$11,700-16,400 pp · ~$24,000-32,200 total del viaje (2 personas + Portugal 1p). Ver [PRESUPUESTO.md](PRESUPUESTO.md).
+- **Presupuesto estimado:** ~$11,700-16,400 pp · Ver [PRESUPUESTO.md](PRESUPUESTO.md).
 
 ## Planificación: fechas fijas vs. tentativas
 
