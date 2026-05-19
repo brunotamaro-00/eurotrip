@@ -8,9 +8,9 @@
 
 ## 📍 Entendiendo Puglia
 
-Puglia es el **talón de la bota italiana**. Menos turismo masivo que Toscana o Amalfi, gastronomía top tier (cuna de la burrata y la focaccia), pueblos blancos sobre colinas, trulli únicos en el mundo, costa hermosa, y Matera — una de las ciudades más impactantes de Italia.
+Puglia es el **talón de la bota italiana**. Menos turismo masivo que Toscana o Amalfi, gastronomía top tier (cuna de la burrata y la focaccia), pueblos blancos sobre colinas, trulli únicos en el mundo, y Matera — una de las ciudades más impactantes de Italia.
 
-**Es perfecta para late October:** ciudades vivas, clima agradable, todo abierto, precios bajos.
+**Perfecta para octubre/noviembre:** barroco en Lecce, trulli, Matera de noche, valle d’Itria, focaccia en Bari. **No planificar playa** — agua fría, servicios costeros cerrados o reducidos.
 
 ## 🏙️ Bari (1-2 días)
 
@@ -34,8 +34,9 @@ Puglia es el **talón de la bota italiana**. Menos turismo masivo que Toscana o 
 
 ### Bari Tips
 - La ciudad vieja tiene mala fama de seguridad pero ha mejorado mucho. Sentido común, no flashear objetos caros.
+- **Reddit (nativo):** Hospitalidad de locales irregular en Bari Vecchia — no tomarlo personal si la experiencia es fría.
 - Bari es más una ciudad real que turística. No es "bonita" como Lecce, pero es auténtica.
-- Excelente base para day trips (Alberobello 1h, Matera 1h, Polignano 30min)
+- Excelente base para day trips (Alberobello 1h, Matera 1h, Polignano 30min, **Trani** 30min, Castel del Monte con auto)
 
 ---
 
@@ -64,6 +65,7 @@ Lecce es barroco puro. Toda la ciudad está construida en **piedra leccese** (pi
 
 ### Lecce Tips
 - Más bonita que Bari, más pequeña, más walkable
+- **Reddit (nativo):** Hermosa para **2 días** — en oct/nov es la mejor base del Salento (tren a Otranto y Gallipoli)
 - Buena vida nocturna universitaria (Università del Salento)
 - Free walking tours disponibles
 
@@ -123,31 +125,59 @@ Matera es una ciudad construida en y alrededor de **cuevas (sassi)**. Habitada c
 
 ---
 
-## 🏖️ Pueblos Costeros
+## 🏘️ Pueblos costeros e históricos (oct/nov)
 
-### Polignano a Mare (Medio día)
-- **Qué:** Pueblo sobre acantilado con playa en cueva (Lama Monachile)
+### Polignano a Mare (Medio día) ⭐
+- **Qué:** Pueblo sobre acantilado; vista icónica desde el puente sobre la cala (Lama Monachile)
 - **Desde Bari:** 30min tren, $3
-- **Imprescindible:** La vista desde el puente sobre la playa-cueva
-- **Cuna de Domenico Modugno** ("Volare", la canción italiana más famosa)
-- **Red Bull Cliff Diving** se hace aquí (acantilados)
+- **Cuna de Domenico Modugno** ("Volare")
+- **Reddit:** Evitar **sábados y domingos** — pueblo minúsculo y masificación
 - **Medio día** suficiente, combinable con Monopoli
 
-### Ostuni — "La Ciudad Blanca" (Medio día)
-- **Qué:** Pueblo todo blanco en colina, vistas a olivos hasta el mar
+### Monopoli (Medio día)
+- **Qué:** Puerto pesquero, centro histórico, catedral
+- **Desde Bari:** 40min tren, $4
+- **Menos turístico** que Polignano, más auténtico — buena cena de pescado
+
+### Ostuni — "La Ciudad Blanca" (Medio día–1 día)
+- **Qué:** Pueblo todo blanco en colina, vistas a olivares
 - **Desde Bari:** 1h tren, $8-12
-- **Qué hacer:** Caminar la ciudad vieja blanca, catedral, vistas
+- **Reddit (nativo):** Base ideal con **auto** para valle d’Itria (Cisternino, Locorotondo, bombette, vino)
 - **Fotogénico** — uno de los pueblos más bonitos de Puglia
 
-### Monopoli (Medio día)
-- **Qué:** Puerto pesquero, centro histórico bonito, playas cercanas
-- **Desde Bari:** 40min tren, $4
-- **Menos turístico** que Polignano, más auténtico
+### Otranto (Day trip desde Lecce, medio día) ⭐
+- **Qué:** Punto más oriental de Italia, catedral (mosaico del piso), castillo, **cueva de bauxita**
+- **Desde Lecce:** 50min tren, $4
+- **Oct/nov:** Prioridad en ciudad y bauxita, no en playas del entorno
 
-### Gallipoli (Desde Lecce, medio día)
-- **Qué:** Isla conectada por puente, ciudad vieja medieval, playas
+### Gallipoli (Day trip desde Lecce, medio día)
+- **Qué:** **Centro histórico** en isla medieval (puente de acceso)
 - **Desde Lecce:** 40min tren, $4
-- **En octubre:** Playa no ideal pero el pueblo es hermoso
+- **Oct/nov:** El casco antiguo sí; discotecas y “playa” no
+
+### Trani (parada desde Bari, medio día)
+- **Qué:** Catedral románica sobre el mar, centro compacto
+- **Desde Bari:** 30min tren
+- **Reddit:** Parada recomendada — también Molfetta y Barletta si recorren la costa norte
+
+---
+
+## 🌲 Gargano (norte — solo si sobran días)
+
+**Prioridad baja en oct/nov.** Si tienen auto y tiempo extra:
+
+- [ ] **Vieste** y **Peschici** — pueblos-castillo sobre acantilados
+- [ ] Carretera por el **bosque del Gargano**
+- **Saltar en oct/nov:** playas de acantilado, barcos, Tremiti (servicios reducidos)
+
+Ver detalle en `desvios_cercanos.md`.
+
+## 🍞 Gastronomía extra (interior — Reddit)
+
+| Lugar | Por qué |
+|-------|---------|
+| **Altamura** | Pan IGP — “mejor pan de Italia” según el hilo |
+| **Ruvo di Puglia** | **Mokambo Gelateria** — una de las heladerías más antiguas de Italia |
 
 ---
 
@@ -164,8 +194,15 @@ Matera es una ciudad construida en y alrededor de **cuevas (sassi)**. Habitada c
 ## 🔗 Fuentes oficiales (links)
 - Turismo Puglia (oficial): `https://www.viaggiareinpuglia.it/`\n+- Castel del Monte (Ministero della Cultura): `https://cultura.gov.it/luogo/castel-del-monte`\n+- Castel del Monte (ticketing oficial): `https://ecm-coopculture.inera.it/en/products/ticket-for-the-castel-del-monte/`
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Si van **sin auto**: suele rendir basarse en 1-2 bases con tren (Bari/Lecce) + 1-2 day trips.\n+- Si van **con auto**: se vuelve mucho más fácil combinar valle d’Itria (Alberobello/Locorotondo/Ostuni) + Matera.\n+- Matera “de noche” suele ser el highlight (por eso dormir 1 noche).
+## 🧠 Consenso Reddit/foros (resumen) — oct/nov
+
+**Tu pack ideal (sin playa):** Bari → Polignano/Monopoli → Alberobello/Locorotondo/Ostuni → **Matera** (1 noche) → **Lecce** → day trip Otranto o Gallipoli.
+
+- **Sin auto:** totalmente viable en oct/nov con tren (Bari–Lecce + FSE).
+- **Con auto:** suma valle d’Itria, Castel del Monte, Altamura, Castro/Ciolo — no hace falta para el pack básico.
+- Del hilo **Alex_O7**, usar solo pueblos, interior y comida; ignorar playas, snorkel y bases veraniegas.
+- **Matera de noche** sigue siendo el highlight #1 (1 noche en cueva).
+- **Polignano:** entre semana. **Gargano:** opcional y baja prioridad en nov.
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Puglia itinerary”: `https://www.reddit.com/r/ItalyTravel/search/?q=Puglia%20itinerary&restrict_sr=1&sort=relevance&t=all`

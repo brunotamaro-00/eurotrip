@@ -41,27 +41,26 @@
 - Estaciones de tren/bus a veces lejos del centro histórico
 - Combinar Alberobello + Matera en un día es difícil sin auto
 
-### Con auto (recomendado si hay presupuesto)
+### Con auto (opcional en oct/nov — útil para interior)
+
+> El hilo Alex_O7 pide coche para **playas** del Salento. En **oct/nov** el pack clásico (Bari–Matera–Lecce) funciona bien **sin auto**. El coche suma valle d’Itria, Castel del Monte y pueblos sueltos.
 
 **Precio alquiler:** €30-50/día en octubre (temporada baja)
-- **Pickup:** Bari aeropuerto o estación central
-- **Devolución:** Bari aeropuerto (para vuelo a Barcelona) o Lecce
+- **Pickup/devolución:** Bari aeropuerto (vuelo a Barcelona) o estación central
 
-**Ventajas del auto:**
-- Flexibilidad total entre pueblos
-- Alberobello + Matera + pueblos del interior en un día
-- Parar en miradores, olivares, masserie
-- Costa del Salento (sur de Lecce) es hermosa en auto
+**Ventajas del auto en oct/nov:**
+- Alberobello + Locorotondo + Cisternino + Ostuni en un día
+- Castel del Monte, Altamura, Castro/Ciolo sin depender de buses
+- Masserie y olivares en el interior
 
 **Desventajas:**
-- Estacionamiento difícil en centros históricos (Matera, Lecce, Bari Vecchia)
-- Calles estrechas en pueblos
-- ZTL (zona tráfico limitado) — multas si entrás sin permiso
-- Agregar €10-15/día de combustible
+- Estacionamiento difícil (Matera, Lecce, Bari Vecchia, Polignano)
+- ZTL — multas si entrás sin permiso
+- Polignano en fin de semana: aparcamiento imposible
 
-**Tip:** Si alquilan auto, NO meterlo en centros históricos. Estacionar en parkings fuera y caminar.
+**Tip:** NO meter el auto en centros históricos. Parking periférico + caminar.
 
-**Estimado total auto 5-6 días:** €200-350 (alquiler + combustible + estacionamiento)
+**Estimado total auto 5–7 días:** €200-350 (alquiler + combustible + parking)
 
 ## Salida desde Puglia
 
@@ -88,8 +87,11 @@
 ## 🔗 Fuentes oficiales (links)
 - Trenitalia: `https://www.trenitalia.com/en.html`\n+- FSE (Ferrovie del Sud Est): `https://www.ferroviesudest.it/`\n+- FAL (Ferrovie Appulo Lucane): `https://www.ferrovieappulolucane.it/`
 
-## 🧠 Consenso Reddit/foros (resumen)
-- **Sin auto**: viable si hacen “costa + ciudades” (Bari/Lecce/Monopoli/Polignano) y aceptan menos flexibilidad.\n+- **Con auto**: vale la pena si quieren interior (valle d’Itria) + Matera con tiempos cómodos.\n+- Ojo ZTL y estacionamiento (multas típicas).
+## 🧠 Consenso Reddit/foros (resumen) — oct/nov
+- **Sin auto:** recomendado para tu temporada — tren Bari↔Lecce + FSE a Otranto/Gallipoli + bus FAL a Matera.
+- **Con auto:** opcional; rentable para valle d’Itria y Castel del Monte, no para “hacer playas”.
+- Alex_O7 (coche obligatorio) aplica a **verano/playa**, no a tu itinerario.
+- Ojo ZTL y estacionamiento en centros históricos.
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Puglia without car”: `https://www.reddit.com/r/ItalyTravel/search/?q=Puglia%20without%20car&restrict_sr=1&sort=relevance&t=all`

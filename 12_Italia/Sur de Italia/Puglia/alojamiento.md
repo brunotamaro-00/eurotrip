@@ -20,6 +20,17 @@
 ### Opción C: Nómade (con auto)
 Dormir cada noche en un lugar diferente: Bari → Matera → Alberobello → Lecce → costa
 
+### Opción D: Con auto (oct/nov — valle d’Itria, no playa)
+
+| Base | Noches | Para qué |
+|------|--------|----------|
+| **Bari** | 2 | Ciudad + day trips (Polignano, Matera, Castel del Monte) |
+| **Matera** | 1 | Cueva + atardecer (imprescindible) |
+| **Ostuni** | 1–2 | Valle d’Itria, Cisternino, masserie |
+| **Lecce** | 2 | Barroco + day trips Otranto/Gallipoli |
+
+**No usar** la ruta veraniega de Alex_O7 (semanas en Otranto/Gallipoli por playa) — en oct/nov no compensa.
+
 ## 🏠 Bari
 
 **Zona:** Bari Vecchia o alrededores de la estación
@@ -64,8 +75,11 @@ Dormir cada noche en un lugar diferente: Bari → Matera → Alberobello → Lec
 ## 🔗 Fuentes oficiales (links)
 - Turismo Puglia (oficial): `https://www.viaggiareinpuglia.it/`
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Para itinerario “clásico”:\n+  - **Bari** como base logística (tren + aeropuerto)\n+  - **Lecce** si quieren barroco + Salento\n+  - **Matera**: 1 noche por experiencia (cuevas + atardecer)\n+- En pueblos chicos, suele rendir más **B&B/Airbnb** que buscar hostel.
+## 🧠 Consenso Reddit/foros (resumen) — oct/nov
+- **Bari** (2n) + **Matera** (1n en cueva) + **Lecce** (2n) = pack ideal sin mudanzas extra.
+- **Ostuni** 1n solo si tienen auto y quieren valle d’Itria con calma.
+- **Matera**: reservar cave hotel con anticipación.
+- En masserie y pueblos blancos, **B&B/Airbnb** > hostel.
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “stay in Bari or Lecce”: `https://www.reddit.com/r/ItalyTravel/search/?q=Bari%20Lecce%20stay&restrict_sr=1&sort=relevance&t=all`
