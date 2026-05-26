@@ -1,0 +1,18 @@
+- generic [ref=e2]:
+  - separator [ref=e3]
+  - iframe [ref=e8]:
+    - generic [ref=f2e2]:
+      - generic [ref=f2e3]:
+        - checkbox "No soy un robot" [ref=f2e7]
+        - generic [ref=f2e11]: No soy un robot
+      - generic [ref=f2e15]: reCAPTCHA
+  - separator [ref=e9]
+  - generic [ref=e10]:
+    - text: Acerca de esta página
+    - text: Nuestros sistemas han detectado tráfico inusual procedente de tu red de ordenadores. En esta página se comprueba si eres tú quien envía las solicitudes en lugar de un robot.
+    - link "¿A qué se debe esto?" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - text: "Dirección IP: 2800:810:443:1e3:bcf3:1b7a:b5d8:e292"
+      - text: "Hora: 2026-05-26T23:14:54Z"
+      - text: "URL: https://www.google.com/search?q=site:reddit.com+onebag+50L+europe+backpacking+packing+tips&sei=bCkWauuPEruNseMPwZXx0Ac"

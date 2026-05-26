@@ -81,7 +81,10 @@
 - [ ] 1 par **zapatilla de cuero o sneaker casual** — presentable para cenar y ciudad, cómoda para caminar
   - *Veja Campo (muy popular en Europa) · Adidas Stan Smith · Clarks Wallabee · Blundstone 063 (si querés tobillera)*
 
-**Nota:** Solo 2 pares. Las deportivas se usan puestas en vuelos/traslados. El board short reemplaza el traje de baño separado.
+- [ ] 1 par **ojotas / flip-flops** — duchas de hostel, piletas, días de playa (imprescindible, error #1 de los que no las llevan)
+  - *Havaianas · Reef · Crocs Slide*
+
+**Nota:** 3 pares en total. Las deportivas se usan puestas en vuelos/traslados. El board short reemplaza el traje de baño separado. Las ojotas van en la mochila chica o colgadas afuera.
 
 ### Toalla
 - [ ] 1 toalla de microfibra pequeña
@@ -102,8 +105,15 @@
 - [ ] 1 gorra / sombrero (sol de agosto)
 - [ ] 1 gafas de sol
 - [ ] 1 paraguas compacto
-- [ ] 1 botella de agua reutilizable
-- [ ] Candados con cable (para lockers de hostels — ver POR COMPRAR)
+- [ ] 1 botella con filtro de agua — evita comprar botellas en todo el viaje, ahorra plata y espacio
+  - *LifeStraw Go · Katadyn BeFree · GRAYL Geopress*
+- [ ] Candados de combinación (para lockers de hostels — los hostels cobran alquiler si no llevás el tuyo)
+- [ ] 1 bufanda / pañuelo liviano — triple uso: frío de noche, cubrir hombros en iglesias/museos, almohada en tren
+  - *Seda, algodón liviano o lana fina — comprar allá también es opción*
+- [ ] 1 **Buff / tube de cuello** — protección solar, abrigo de cuello, filtro de polvo, puede funcionar como gorro; viajeros de largo plazo lo mencionan como indispensable
+  - *Buff Original · Smartwool Neck Gaiter*
+- [ ] 2 **AirTags** — uno en la mochila grande, uno en la mochila de día; muy recomendados en viajes largos para localizar equipaje
+- [ ] 1 **bolígrafo** — para formularios en fronteras, aeropuertos y documentación; mencionado en casi todos los posts de viajeros experimentados
 
 ---
 
@@ -185,6 +195,8 @@
 - [ ] Descongestionante nasal
 - [ ] Gotas para ojos
 - [ ] Medicamentos personales (suficiente para 3+ meses)
+- [ ] **Electrolitos en sobres** (2-3 unidades) — para cuando hace mucho calor o después de estar enfermo; se pierden muchos con el sudor y pueden causar calambres
+  - *Nuun · Liquid IV · sachets de farmacia*
 
 ### Primeros Auxilios
 - [ ] Curitas / Band-aids (varios tamaños)
@@ -195,6 +207,7 @@
 - [ ] Crema para ampollas (Compeed)
 - [ ] Tijeras pequeñas
 - [ ] Termómetro
+- [ ] **Superglue monodosis** (2-3 unidades) — cierra heridas pequeñas de forma efectiva; también repara objetos (suela de zapatilla, correa rota)
 
 ### Documentos Médicos
 - [ ] Recetas médicas (en inglés)
@@ -253,10 +266,12 @@
 ## 📦 Opcional / Según Necesidad
 
 ### Para Comodidad
-- [ ] Almohada de viaje inflable (ver POR COMPRAR)
+- [ ] Almohada de viaje inflable
 - [ ] Sábana saco (hostales)
 - [ ] Linterna frontal / pequeña
 - [ ] Navaja suiza pequeña (¡en mochila grande, no carry-on!)
+- [ ] Cinta de embalar / duct tape — ocupa casi nada; arregla mochilas rotas, zapatillas que se abren, bolsos
+- [ ] Spork o cubiertos de viaje — para picnics y mercados; Europa invita a comer al aire libre
 
 ### Para Entretenimiento
 - [ ] Baraja de cartas
@@ -289,14 +304,36 @@
 - **Octubre-Noviembre:** Comprar ropa de frío allá (fleece, chaqueta, gorro, bufanda)
 
 ### Regla de esta mochila
-- 6 tops: 2 merino (ciudad), 2 técnicas (trekking), 1 camisa de botones, 1 manga larga
-- 3-4 bottoms: jean negro + chino travel + board short (+ jogger opcional)
-- 2 pares de calzado: deportivas con suela + zapatilla cuero/loafer
+- 6 tops: 2 algodón Supima (ciudad), 2 técnicas (trekking), 1 camisa de botones, 1 manga larga
+- 5 bottoms: jean + chino travel + pantalón lino + board short + bermuda
+- 3 capas externas: campera down + buzo + suéter liviano
+- 3 pares de calzado: deportivas con suela + zapatilla cuero/sneaker + ojotas
 - El board short hace de malla → una prenda menos
 
-### Materiales: Secado Rápido Siempre
-- **SÍ:** Poliéster, nylon, mezclas sintéticas, merino
-- **NO:** 100% algodón (tarda en secar, pesa mojado)
+### Materiales
+- **Remeras de ciudad:** algodón Supima o lino-algodón — con lavandería semanal no hay problema de secado
+- **Remeras de trekking:** sintético/quick-dry obligatorio
+- **Pantalones:** nylon o mezcla para chino/bermuda; lino para el pant cómodo
+- **Evitar:** prendas que necesiten planchado, telas que tarden días en secar a mano
+
+### ❌ Qué NO llevar (lecciones de la comunidad viajera)
+- **Secador de pelo, plancha o rulo** — pesados, los hostels/hoteles los tienen, adaptadores complican
+- **Más de 3 pares de zapatos** — el error más repetido; siempre se termina usando solo 2-3
+- **Ropa "por si acaso"** para eventos formales que probablemente no pasen
+- **Toiletries en tamaño completo** — comprar allá o llevar formato mini/sólido
+- **Zapatillas de running** si no planeás correr realmente — ocupan mucho y se usan una vez
+- **Tripié de cámara** — bulky, rara vez justifica el espacio
+- **Souvenirs físicos pesados** — fotos y tickets son más livianos y significativos
+- **Ropa favorita o cara** — en un viaje largo te da miedo usarla/perderla; llevá ropa que no te importe reemplazar o dejar atrás
+- **Cuaderno grande** — el teléfono alcanza para notas; si querés escribir, uno pequeño de 50 páginas es suficiente
+- **Shampoo y acondicionador líquido** — los sólidos (Lush y similares) son más livianos, no cuentan como líquido en carry-on, y duran más
+
+### 💡 Tips prácticos de la comunidad
+- **Empacá siempre en el mismo orden y lugar** — construye un hábito que reduce drásticamente el riesgo de olvidar cosas al salir de alojamientos
+- **La bolsa impermeable dobla como bolsa de lavado** — podés lavar ropa a mano dentro cuando el lavabo está sucio o no retiene agua
+- **E-SIM en lugar de SIM física** — comprala antes de salir, se activa en el avión, mucho más fácil que buscar chip al llegar
+- **Mapas offline descargados antes de salir** — Google Maps o Organic Maps (gratis); no esperes a necesitarlos sin datos
+- **Ropa no necesita lavarse tras cada uso** — el algodón y especialmente el merino aguantan 2-3 usos; no todo va a la lavandería cada vez
 
 ### Colores Neutros
 - Negro, gris, azul marino, beige
