@@ -1,5 +1,14 @@
 # 🗺️ Desvíos desde Florencia
 
+## 🛵 Museo Vespa (Pontedera, cerca de Pisa) — BAJA PRIORIDAD (nicho)
+
+- **Distancia:** ~80km, 1.5h tren (Florencia → Pisa → Pontedera)
+- **Qué:** Colección histórica completa de la Vespa desde 1946 en la fábrica original Piaggio.
+- **Para quién:** Si les gusta el diseño industrial o la historia del objeto. *Reddit: "I liked it more than many of the bigger museums on our Italy trip."*
+- **Nota:** Es una parada de nicho, no un must. Combinable con una visita rápida a Pisa si van al día.
+
+---
+
 ## ⭐ Cinque Terre - MEDIA PRIORIDAD (Trekking + Costa)
 
 - **Distancia:** 150km, 2-3h tren

@@ -9,10 +9,12 @@
 
 ### Nacionalidad e Inmigración
 
-| Persona | Nacionalidad | ETIAS | Límite Schengen |
-|---------|-------------|-------|-----------------|
-| Persona 1 | Italiano + Argentino | NO necesita (ciudadano UE) | Sin límite |
-| Persona 2 | Argentina | SI necesita ($8, solicitar 1-2 meses antes) | 90 días en 180 |
+| Persona | Nacionalidad | UK ETA | ETIAS | Límite Schengen |
+|---------|-------------|--------|-------|-----------------|
+| Persona 1 | Italiano + Argentino | **SI** (~£16) | NO (ciudadano UE) | Sin límite |
+| Persona 2 | Argentina | **SI** (~£16) | **SI** ($8) | 90 días en 180 |
+
+> ⚠️ **UK ETA:** aplica a **ambos** — los ciudadanos UE **no están exentos** bajo el esquema vigente desde abr-2025. Solo los irlandeses están exentos.
 
 ### Cálculo Schengen - Persona 2
 
@@ -42,6 +44,14 @@
   - Copia física en equipaje separado
 
 **Requisito:** Pasaporte válido por al menos 6 meses después del viaje (después de mayo 2027).
+
+### UK ETA (ambos viajeros)
+
+- **Quién:** Persona 1 y Persona 2. Los ciudadanos UE **no están exentos** — solo irlandeses. Aplica con cualquier pasaporte (italiano o argentino).
+- **Costo:** ~£16 pp (online)
+- **Validez:** 2 años o vencimiento del pasaporte (el primero que ocurra). Múltiples entradas; estadías de hasta 6 meses por visita.
+- **Cuándo solicitar:** Antes del 5 ago (primer día en Londres). Aprobación típica: 3 días hábiles, puede demorar más.
+- **Web oficial / app:** `https://www.gov.uk/apply-for-an-electronic-travel-authorisation-eta` (o app "UK ETA" en App Store / Play Store)
 
 ### ETIAS (solo Persona 2)
 

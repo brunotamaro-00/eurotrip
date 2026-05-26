@@ -243,7 +243,8 @@
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
 | Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$184.0** | **$92.0** |
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
-| **TOTAL CONFIRMADO** | **$6,609.8** | **$3,424.9** |
+| Vuelo París (CDG/ORY) → Lisboa (LIS) — Persona 1 (1 persona) | $85.0 | $85.0 |
+| **TOTAL CONFIRMADO** | **$6,694.8** | **$3,509.9** |
 
 ---
 

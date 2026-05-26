@@ -28,9 +28,19 @@
 
 **Extra útil:** muchos alojamientos dan **Guest Card** (según localidad) con beneficios de buses locales y descuentos. Interlaken Guest Card (oficial): https://www.interlaken.swiss/en/info-service/gaestekarten/interlaken-guest-card
 
-## Nota sobre Lucerna (stopover, sin dormir)
+## Nota sobre Lucerna (stopover vs 2 noches)
 
-Como la decisión final es 4 noches en Interlaken/Jungfrau, **Lucerna queda como parada de día** en ruta a Innsbruck (si quieren). Para eso no hace falta buscar alojamiento ahí; con lockers en la estación alcanza.
+**Borrador actual del repo:** 4 noches en Interlaken/Jungfrau → Lucerna como parada de día en ruta a Innsbruck.
+
+**Opción P2 (tentativa):** Redistribuir a ~6 noches: Interlaken 3n + Lucerna 2n + Berna (día de paso). Si van con esta opción, buscar alojamiento en Lucerna. Precios orientativos:
+
+| Base | Hostel dorm pp/noche | Privada pp/noche |
+|------|---------------------|-----------------|
+| **Lucerna** | CHF 40-55 | CHF 70-95 |
+
+- Lucerna está entre Interlaken y Zúrich (paso natural hacia Innsbruck).
+- La disyuntiva es básicamente **precio**: 2n en Lucerna encarece el tramo CHF 80-110 extra pp vs solo hacer el stopover de día.
+- Para el stopover de día: con lockers en la estación alcanza, no hace falta buscar alojamiento.
 
 ## Opciones (Jungfrau / Interlaken)
 

@@ -25,6 +25,7 @@
 - [ ] **Decisión Sur de Italia:** Elegir entre Puglia/Bari, Calabria, Sicilia, etc. (borrador **29 oct - 8 nov**, 10 noches).
 
 ## 1 a 2 Meses Antes (Trámites y Logística)
+- [ ] **UK ETA (ambos viajeros):** Solicitar online (~£16 pp) antes del 5 ago. Ciudadanos UE **no están exentos** — solo irlandeses. App "UK ETA" o `gov.uk/apply-for-an-electronic-travel-authorisation-eta`.
 - [ ] **ETIAS:** Solicitar autorización para Persona 2/argentina ($8, 72h proceso).
 - [x] **Seguro de Viaje:** **COMPRADO** — **Pax Assistance (4 meses BASIC)** — **USD 350 c/u** (USD 700 total).
 - [ ] **Documentos (por completar):** Pasaporte Persona 1 (número + vencimiento).

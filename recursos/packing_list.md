@@ -17,8 +17,10 @@
 Items confirmados que faltan comprar:
 
 - [ ] **Mochila chica de día** — para day trips y como carry-on en vuelos
-- [ ] **Riñonera** — pasaporte, dinero, teléfono, seguridad en la calle
+- [ ] **Riñonera** — pasaporte, dinero, teléfono, seguridad en la calle (P2 considera también totebag para el día)
 - [ ] **Candados con cable/tiritas** — para lockers en hostels
+- [ ] **Almohada de viaje inflable** — que ocupe poco espacio (preferir inflable sobre la de espuma)
+- [ ] **Kindle** — Bruno confirmado; P2 por confirmar
 
 ---
 
@@ -43,41 +45,58 @@ Items confirmados que faltan comprar:
 
 ## 👕 Ropa
 
-> **Prioridad absoluta: liviano y secado rápido.** Evitar 100% algodón. Ropa de frío (chaqueta abrigada, gorro, bufanda, guantes) se compra allá sobre el final si es necesario.
+> **Prioridad: liviano, secado rápido y versátil.** Material clave: **merino wool** (no huele, se puede repetir, pinta normal). Evitar 100% algodón. Ropa de frío (chaqueta abrigada, gorro, bufanda, guantes) se compra allá sobre el final si es necesario.
 
-### Camisetas / Tops
-- [ ] 4-5 camisetas técnicas / sintéticas de secado rápido (manga corta)
-- [ ] 2 camisetas manga larga ligeras (para capas o sol)
+### Tops (6 prendas)
+- [ ] 2 remeras manga corta **merino wool** — ciudad, cenar, uso general (aguantan 2 días sin oler)
+  - *Icebreaker Tech Lite II · Smartwool Merino 150 · Patagonia Capilene Merino*
+- [ ] 2 remeras manga corta **técnicas/sintéticas** — trekking y días de mucho movimiento
+  - *Patagonia Capilene Cool Daily · Arc'teryx Motus SL · Columbia Zero Rules*
+- [ ] 1 **camisa de botones liviana** (lino o nylon blend) — enrollada ocupa mínimo; transforma cualquier look para cenar
+  - *Patagonia Go To Shirt · Bluffworks Ascender · Vuori Airo Shirt*
+- [ ] 1 remera manga larga (merino o técnica) — capa extra o días frescos
+  - *Icebreaker 200 Oasis LS · Smartwool Classic All-Season LS*
 
-### Pantalones
-- [ ] 1 jean negro (opcional — se puede reemplazar por otro pantalón liviano)
-- [ ] 1 pantalón liviano de secado rápido (tipo travel pant)
-- [ ] 1 pantalón corto / shorts
-- [ ] 1 pantalón cómodo / jogger liviano (para dormir o estar)
+### Pantalones / Bottoms (3-4 prendas)
+- [ ] 1 **jean navy oscuro** — ancla del look casual prolijo
+  - *Levi's 511 Slim · Uniqlo Slim Fit Jeans · Nudie Jeans Tight Terry (premium)*
+- [ ] 1 **pantalón travel chino olive** — quick-dry, pinta decente (no tipo track pant)
+  - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
+- [ ] 1 **shorts tipo board short** — sirve de short y de malla (elimina llevar traje de baño separado)
+  - *Patagonia Baggies · Quiksilver Highline · Vuori Kore Short*
+- [ ] 1 jogger / pantalón cómodo liviano — solo para hostel/dormir (se puede eliminar si falta espacio)
+  - *Vuori Ponto Jogger · Lululemon ABC Jogger · Uniqlo Ultra Stretch*
 
 ### Capas Externas
 - [ ] 1 chaqueta impermeable / cortavientos (liviana, empacable)
+  - *Patagonia Houdini · Arc'teryx Squamish Hoody · Salomon Bonatti WP*
 - [ ] 1 buzo fino / hoodie liviano (capa media para agosto-septiembre)
+  - *Patagonia LW Synchilla Snap-T · Vuori Ponto Half Zip · Uniqlo Stretch Fleece*
 
 **🛍️ Comprar allá si hace falta (octubre-noviembre):** fleece/polar, chaqueta de otoño, bufanda, gorro, guantes
 
 ### Ropa Interior
-- [ ] 7 pares de ropa interior
-- [ ] 7 pares de calcetines (livianos, de secado rápido)
+- [ ] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
+  - *Icebreaker Anatomica (merino) · ExOfficio Give-N-Go · Saxx Kinetic*
+- [ ] 5-6 pares de calcetines: 3 finos de ciudad + 2-3 con acolchado para trekking
+  - *Darn Tough (garantía de por vida) · Smartwool PhD · Icebreaker Hike*
 - [ ] 2-3 sujetadores deportivos / normales
+  - *Lululemon Free to Be · Patagonia Active Mesh · Oiselle · Smartwool Intraknit (merino)*
 
 ### Ropa de Dormir
-- [ ] 1-2 conjuntos de pijama ligero
-
-### Traje de Baño
-- [ ] 1 traje de baño (playas, baños termales)
-- [ ] 1 toalla de microfibra pequeña
+- [ ] 1 conjunto de pijama ligero (o usar el jogger + remera)
 
 ### Calzado
-- [ ] 1 par zapatillas deportivas / cómodas para caminar (las que uses puestas)
-- [ ] 1 par zapatos lindos / cómodos (para salir, ciudades)
+- [ ] 1 par **zapatillas deportivas con buena suela** — trekking y caminatas largas (se usan puestas en el avión)
+  - *Salomon X-Adventure · Merrell Moab Speed · On Cloudventure · Hoka Anacapa*
+- [ ] 1 par **zapatilla de cuero o sneaker casual** — presentable para cenar y ciudad, cómoda para caminar
+  - *Veja Campo (muy popular en Europa) · Adidas Stan Smith · Clarks Wallabee · Blundstone 063 (si querés tobillera)*
 
-**Nota:** Solo 2 pares. Las deportivas se usan puestas en vuelos/traslados.
+**Nota:** Solo 2 pares. Las deportivas se usan puestas en vuelos/traslados. El board short reemplaza el traje de baño separado. *Tip P2: unificar calzado — zapatillas + ojotas de playa/baño, sin sandalias "de noche" extra. Jean negro + jean azul = máximo 2 jeans.*
+
+### Toalla
+- [ ] 1 toalla de microfibra pequeña
+  - *PackTowl Personal · Rainleaf Microfiber · Sea to Summit DryLite*
 
 ---
 
@@ -252,8 +271,9 @@ Items confirmados que faltan comprar:
 
 ### Para Entretenimiento
 - [ ] Baraja de cartas
-- [ ] Diario de viaje
+- [ ] Diario de viaje / cuadernito
 - [ ] Libro de bolsillo
+- [ ] Anagramas / Sudokus (P2)
 
 ---
 
@@ -280,10 +300,10 @@ Items confirmados que faltan comprar:
 - **Octubre-Noviembre:** Comprar ropa de frío allá (fleece, chaqueta, gorro, bufanda)
 
 ### Regla de esta mochila
-- 6-7 tops (todos secado rápido)
-- 3-4 bottoms (livianos)
-- 2 pares de zapatos (deportivas + lindas)
-- 1 traje de baño
+- 6 tops: 2 merino (ciudad), 2 técnicas (trekking), 1 camisa de botones, 1 manga larga
+- 3-4 bottoms: jean negro + chino travel + board short (+ jogger opcional)
+- 2 pares de calzado: deportivas con suela + zapatilla cuero/loafer
+- El board short hace de malla → una prenda menos
 
 ### Materiales: Secado Rápido Siempre
 - **SÍ:** Poliéster, nylon, mezclas sintéticas, merino

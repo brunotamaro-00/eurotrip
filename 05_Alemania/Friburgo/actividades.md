@@ -22,6 +22,10 @@
 - [ ] **Schlossberg** — mirador “fácil” (a pie o Schlossbergbahn).
 - [ ] **Barrio Vauban** — urbanismo sostenible (si te interesa arquitectura/ciudad).
 
+## 🎶 Eventos / Festivales
+
+- **New Pop Festival** (Friburgo) — 3er fin de semana de septiembre (cae dentro de la estancia tentativa 16-19 sept). Incluso sin entradas hay conciertos gratis y ambiente en la ciudad. *Fuente: Reddit (comentario local).* Más info: buscar “Freiburg New Pop Festival 2026”.
+
 ---
 
 ## 🌲 Selva Negra — elegir 1 día “fuerte” + 1 día “suave”

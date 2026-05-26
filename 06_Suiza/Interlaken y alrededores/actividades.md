@@ -89,23 +89,41 @@ Esto es un **menú de opciones** (no un itinerario rígido). La regla de oro que
 
 ---
 
-## Stopover en Lucerna (día de paso a Innsbruck)
+## Lucerna (opción 2 noches tentativas o stopover de día)
 
-Si el día de salida hacen **Interlaken → Luzern → Zürich → Innsbruck**, es totalmente viable bajarse en **Lucerna** unas horas (sin dormir).
+**Opción A — 2 noches en Lucerna (opción P2):** Redistribuir Suiza a ~6 noches: Interlaken 3 + Lucerna 2 + Berna (por el día de paso). La ciudad justifica dormir ahí: tiene mucho más que un stopover.
 
-**Idea de recorrido (3–5h, sin correr):**
-- **Kapellbrücke + Water Tower**
-- **Old Town** (plazas + fachadas pintadas)
-- **Lion Monument**
-- Paseo por el lago (si el clima acompaña)
+**Opción B — Solo stopover:** Si el día de salida hacen **Interlaken → Luzern → Zürich → Innsbruck**, también es viable bajarse unas horas sin dormir (lockers en estación).
 
-**Logística clave:** dejar valijas en la estación (lockers / luggage deposit SBB).
+**Por qué Lucerna (cuando el repo dice “pasar por arriba”):**
+- Considerada la **ciudad más bonita de Suiza** por muchos visitantes.
+- **Kapellbrücke** — puente cubierto de madera más antiguo de Europa, Patrimonio histórico, con el Wasserturm.
+- **Casco medieval** completo (plazas, fachadas pintadas, muralla medieval).
+- **Lago de los Cuatro Cantones** + paseo por el lago.
+- **Río Reuss** — divide casco antiguo (norte) de casco nuevo (sur); los dos puentes históricos lo cruzan.
+- **Lion Monument (Löwendenkmal)** — escultura tallada en roca, gratis.
+- **Monte Pilatus** — opción de teleférico/tren de cremallera (caro pero impactante). Ver: https://www.pilatus.ch/en/
 
-**Links oficiales:**
-- Lucerna “top sights” (oficial): https://www.luzern.com/en/the-city/sights/top-sights
+**Recorrido (si solo hay medio día / stopover):**
+- Kapellbrücke + Water Tower → Old Town → Lion Monument → paseo por el lago.
+
+**Logística:**
+- **Tren Luzern–Interlaken Express:** incluido en Eurail, panorámico. Oficial: https://www.zentralbahn.ch/en/interlaken-express
 - Lockers estación Luzern (SBB): https://www.sbb.ch/en/travel-information/stations/find-station/luzern-station/shops/shop-detail.html/geo-schliessfach-e714
-- Gepäckaufbewahrung estación Luzern (SBB): https://www.sbb.ch/en/travel-information/stations/find-station/lucerne-station/shopping/shop-detail.html/geo-gepaeckaufbewahrung-8f4a
-- Luzern–Interlaken Express (oficial Zentralbahn): https://www.zentralbahn.ch/en/interlaken-express
+- Lucerna “top sights” (oficial): https://www.luzern.com/en/the-city/sights/top-sights
+
+---
+
+## Berna (day trip en ruta desde Friburgo/Selva Negra)
+
+Berna queda a ~1h desde Friburgo (Breisgau) o ~40min desde Interlaken. Posible parada entre Friburgo y Suiza sin necesidad de noche.
+
+- **Centro histórico** (Zytglogge, Lauben/soportales, Rosengarten con vistas).
+- **Hofgasse + plazas medievales** — arquitectura única en Suiza.
+- **Oso de Berna (BernBear Park)** — al borde del río Aare, entrada gratis.
+- Vale como parada de 3–4h sin hacer noche.
+
+**Fuente (Notas P2):** “Berna (parada desde Friburgo, sin noche).”
 
 ---
 

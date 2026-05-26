@@ -1,6 +1,6 @@
 # 🎯 Actividades en Innsbruck
 
-**Fechas tentativas:** 23 septiembre — **tránsito / 0 noches** (puede pasar a 1–2 noches)  
+**Fechas tentativas:** 23 septiembre — **tránsito / 0 noches** (P2 sugiere 2 noches; puede pasar a 1–2)  
 **Categoría:** Alpes + ciudad chica  
 **Price Level:** $$$  
 **Temperatura:** 6-16°C  
@@ -10,15 +10,24 @@
 ## 📍 Innsbruck ciudad (imprescindibles)
 
 - [ ] **Altstadt (Ciudad vieja)** — calles medievales, paseo corto y muy agradable
-- [ ] **Golden Roof (Goldenes Dachl)** — símbolo del centro histórico
+- [ ] **Golden Roof / Tejadillo de Oro (Goldenes Dachl)** — símbolo del centro histórico; mirar también las fachadas pintadas de **Katzunghaus** y **Helblinghaus** (las más llamativas del entorno)
+- [ ] **Catedral de Santiago (Dom zu St. Jakob)** — principal iglesia de Innsbruck, a pocos metros del Tejadillo de Oro; interior barroco
+- [ ] **Arco del Triunfo (Triumphpforte)** — arco del siglo XVIII al sur del centro, fácil al pasar
+- [ ] **Antiguo Ayuntamiento (Altes Rathaus)** + **Columna de Santa Ana** — en la Calle María Teresa (peatonal principal)
 - [ ] **Río Inn + puente** — vistas clásicas con montañas de fondo
 - [ ] **Hofkirche** — tumba de Maximiliano I (si les interesa historia Habsburgo)
 
 ---
 
+## 🍽️ Gastronomía
+
+- **Innsbrucker Gröstl** — plato típico tirolés: patatas salteadas con carne, cebolla y huevo frito. El "clásico" local que pedir en cualquier Gasthaus del centro.
+
+---
+
 ## 🏔️ Montaña (elegir 1 según clima)
 
-- [ ] **Nordkette / Seegrube** — teleférico desde la ciudad, mirador alpino inmediato
+- [ ] **Top of Innsbruck / Nordkette / Seegrube** — teleférico desde la ciudad, mirador alpino inmediato (~€42 ida/vuelta aproximado)
 - [ ] **Patscherkofel** — otra opción de montaña con rutas de hiking
 
 ### Nordkette vs Patscherkofel (regla simple)

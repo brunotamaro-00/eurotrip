@@ -23,14 +23,31 @@ Con solo 4 noches, los "desvíos" dependen de qué región elijas como base. Est
 
 ---
 
-## Stopover en Lucerna (en ruta a Innsbruck)
+## Lucerna (stopover o 2 noches, en ruta a Innsbruck)
 
-Si van a hacer el stopover, pensalo como “**paseo urbano corto**” (no como base).
+**Opción 1 (paseo de medio día):** bajarse en Luzern en ruta, recorrer 3–5h, seguir viaje (lockers/consigna en **Luzern Bahnhof SBB**).
 
-**Ideas (3–5h):**
-- Kapellbrücke + Old Town + Lion Monument + paseo por el lago.
+**Opción 2 (2 noches, sugerida por P2):** redistribuir Suiza como ~6 noches totales (Interlaken 3 + Lucerna 2 + Berna día de paso). Ver nota en `actividades.md`.
 
-**Logística:** lockers/consigna en **Luzern Bahnhof (SBB)**.
+**Qué ver en Lucerna:**
+- Kapellbrücke + Wasserturm (puente medieval cubierto).
+- Casco antiguo + muralla medieval + plazas.
+- Río Reuss + paseo por el lago.
+- Lion Monument (gratis).
+- Monte Pilatus (teleférico, opción cara pero única).
+
+**Tren Luzern–Interlaken Express:** panorámico, incluido en Eurail. Oficial: https://www.zentralbahn.ch/en/interlaken-express
+
+---
+
+## Berna (day trip, en ruta desde Friburgo o de paso)
+
+~1h desde Friburgo, ~40min desde Interlaken. Buen punto de paso sin necesidad de noche.
+
+- Centro histórico medieval (Zytglogge, Lauben/soportales).
+- BernBear Park (Oso de Berna) al borde del Aare — gratis.
+- Rosengarten: vistas sobre el casco antiguo.
+- 3–4h alcanza.
 
 ---
 

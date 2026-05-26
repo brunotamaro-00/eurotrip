@@ -215,7 +215,7 @@
 
 | App / Sitio | Función | Nota |
 |-----|---------|------|
-| **UK ETA** | Solicitar ETA del Reino Unido | App oficial UKVI (si aplica por nacionalidad). Guía: `https://www.gov.uk/guidance/using-the-uk-eta-app` |
+| **UK ETA** | Solicitar ETA del Reino Unido | Aplica a **ambos** viajeros (ciudadanos UE no exentos). Ver `recursos/documentos.md`. App oficial UKVI: `https://www.gov.uk/guidance/using-the-uk-eta-app` |
 
 ---
 
