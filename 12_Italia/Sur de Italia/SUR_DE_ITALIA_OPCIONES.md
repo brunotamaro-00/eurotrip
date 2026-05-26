@@ -24,7 +24,7 @@ La regla de oro para el sur de Italia en noviembre es: **Ve a lugares donde la g
 | **Clima (Noviembre)** | Riesgo de lluvia, húmedo, viento | Agradable (15-20°C), fresco de noche | El mejor clima (17-23°C), soleado | Agradable, pero solitario |
 | **Cierres de Temporada**| **CRÍTICO:** Ferries cancelados, pueblos fantasma | Todo abierto (las ciudades viven todo el año) | Todo abierto (ciudades reales y vibrantes) | Playa cerrada, muy local |
 | **Transporte** | Limitado (solo buses SITA, sin ferries) | Trenes Bari-Lecce y buses funcionan normal | Trenes Palermo-Catania excelentes | Muy limitado (auto casi obligatorio) |
-| **¿Necesita auto?** | No | Ideal pero factible en tren | Ideal para pueblos, tren para ciudades | Sí |
+| **¿Necesita auto?** | ⚠️ NO (la SS163 es estrecha, parking imposible — buses son mejores) | ✅ Confirmado — desbloquea Valle d'Itria, Castel del Monte y más | ✅ Confirmado — 2 ventanas cortas (~5 días totales) optimizan costo | ✅ Siempre fue necesario |
 | **Precio comida/hotel**| $$$ (Caro incluso cerrado) | $ (Muy económico y auténtico) | $ (El más barato junto con Calabria) | $ |
 | **Gastronomía** | Limoncello, mariscos | Burrata, *Orecchiette*, *Focaccia Barese* (Top street food) | *Arancini*, *Cannoli*, granita, pez espada | *Nduja* (picante), bergamota |
 | **Historia/Trekking** | Pompeya/Herculano (desde Nápoles) | **Matera** (Sassi), Lecce (Barroco) | Valle dei Templi, Siracusa, Taormina, **Etna** | Bronces de Riace, pueblos de montaña |

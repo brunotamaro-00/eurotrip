@@ -51,6 +51,22 @@
 - Sorrento → Nápoles (Circumvesuviana 1h10) → Bari (Trenitalia 3.5-4h, $14-40)
 - Total: ~5-6h, $18-45pp
 
+## 🚗 Nota especial: Auto en la Costa Amalfitana — NO recomendado
+
+La Costa Amalfitana es una de las pocas zonas de Italia donde el auto **juega en contra**:
+
+- **SS163** (la carretera costera): 2 carriles para 2 sentidos + buses + motos + camiones de reparto. Extremadamente estrecha, sin arcén. Un error y te quedás pegado por horas.
+- **Parking**: En Positano y Amalfi es carísimo ($30-50/día), escasísimo, y a menudo fuera del pueblo. En verano imposible, en octubre difícil igual.
+- **Los buses SITA van exactamente donde querés ir** y la experiencia de curvas mirando el mar es parte del viaje.
+
+**Estrategia si tienen auto en el sur de Italia:**
+- Dejar el auto en Sorrento o Nápoles (parking cubierto seguro)
+- Usar Circumvesuviana Nápoles → Sorrento
+- Desde Sorrento, buses SITA a Positano/Amalfi
+- Recoger el auto al volver desde Sorrento
+
+**Única excepción:** Si quieren ir a Ravello (que no está en la ruta de bus principal) o a pueblos del interior, el auto suma. Pero para el eje Sorrento→Positano→Amalfi, los buses son superiores.
+
 ## Apps Útiles
 - **Moovit** - Horarios buses SITA en tiempo real
 - **TravelMar** - Horarios ferries

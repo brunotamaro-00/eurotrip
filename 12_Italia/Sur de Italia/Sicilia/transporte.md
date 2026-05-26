@@ -56,24 +56,78 @@
 
 **Domingos:** Servicio reducido drásticamente. Planificar.
 
-### Con auto (máxima flexibilidad)
+### Con auto ✅ — Decisión confirmada
 
 **Precio alquiler:** €25-45/día en octubre
-- **Pickup:** Aeropuerto Palermo o Catania
-- **Total 6-7 días:** €180-350 (alquiler + combustible + peajes)
+- **Pickup:** Aeropuerto Palermo o Catania — NUNCA en centro ciudad
+- **Total estimado (ventana optimizada):** €150-280 (ver estrategia abajo)
 
 **Ventajas:**
-- Agrigento + pueblos interiores sin depender de trenes lentos
-- Etna por tu cuenta (sin tour organizado)
-- Parar en pueblos pintorescos en ruta
-- Costa norte (Cefalù) + sur (Agrigento) + este (Siracusa) sin estrés
+- Val di Noto completo (Ragusa, Scicli, Marzamemi, Vendicari): inaccesible sin auto
+- Agrigento + Trapani + Marsala sin depender de buses lentos
+- Etna por cuenta propia (sin tour organizado)
+- Parar en pueblos en ruta (Erice, Piazza Armerina, Bronte)
 
-**Desventajas:**
-- Palermo y Catania: NO manejar en el centro (caótico + ZTL)
-- Estacionamiento en pueblos históricos complicado
-- Autopistas sicilianas en mal estado en algunos tramos
+**Regla de oro:** Palermo y Catania = NO usar el auto. Son ZTL + caos extremo. El auto es para la ruta rural, no para las ciudades grandes.
 
-**Tip:** Alquilar solo si van a hacer ruta combinada. Para solo ruta Este, tren funciona bien.
+---
+
+### 🗓️ Ventana Óptima de Alquiler en Sicilia (10 noches)
+
+La clave es **no alquilar el auto los días de ciudad** (Palermo y Catania no lo necesitan). La estrategia de 2 tramos cortos ahorra ~5 días de alquiler:
+
+#### Tramo 1 — Ruta Oeste (3 días)
+| Día | Movimiento |
+|-----|-----------|
+| Día 3 | Recoger auto en **aeropuerto Palermo** → Monreale (30min) → Agrigento (2.5h). Dormir Agrigento. |
+| Día 4 | Agrigento → Trapani (2h) → Erice (30min) → Segesta (30min) → Marsala (30min). Dormir Trapani/Marsala. |
+| Día 5 | Marsala salinas → Catania (3.5h autopista A29+A19). Devolver auto en **aeropuerto Catania**. |
+
+**Días 1-2:** Palermo sin auto (todo a pie). **Días 6+:** Catania/Etna/Siracusa sin auto.
+
+#### Tramo 2 — Val di Noto (2-3 días)
+| Día | Movimiento |
+|-----|-----------|
+| Día 8 | Recoger auto en **aeropuerto Catania** → Siracusa (1h). Instalarse. |
+| Día 9 | Siracusa → Noto (30min) → Marzamemi (30min) → Ragusa Ibla (45min). Dormir Ragusa. |
+| Día 10 | Ragusa → Scicli (30min) → Modica (20min) → devolver auto en **aeropuerto Catania** (1.5h). Vuelo BCN. |
+
+**Total auto:** ~5-6 días en 2 ventanas → **€150-270 estimado** (vs €375-450 si fuera 10 días completos).
+
+**Alternativa tramo 2 más corto:** Si priorizan Siracusa/Ortigia y no el Val di Noto, saltar el Tramo 2 y hacer Noto solo (30min tren desde Siracusa sin auto). El Val di Noto profundo es lo que realmente requiere auto.
+
+---
+
+### ⚠️ ZTL (Zone a Traffico Limitato) — MUY IMPORTANTE
+
+Casi todos los centros históricos de Sicilia son ZTL: prohibido circular sin permiso especial. Las cámaras son automáticas y la multa llega a tu casa (o a la tarjeta de crédito del alquiler) meses después.
+
+**Ciudades con ZTL estricta:** Palermo centro, Catania centro, Taormina, Noto, Ragusa Ibla, Siracusa/Ortigia.
+
+**Qué hacer:**
+- Preguntar al hotel si pueden registrar el vehículo para acceso a la ZTL antes de llegar.
+- Estacionar **fuera del centro** y caminar o tomar taxi/bus.
+- En Taormina especialmente: el pueblo está en la cima y el acceso es limitado. El hotel debe avisar.
+- Si en duda, NO entres. Los carteles son pequeños y fáciles de no ver.
+
+---
+
+### 🚌 Empresas de bus entre ciudades (complemento al tren)
+
+El sistema de buses en Sicilia es fragmentado: ~10 empresas distintas, sin reserva centralizada. Para 10 noches es útil conocerlas:
+
+| Empresa | Rutas principales |
+|---------|------------------|
+| **SAIS Trasporti** | Palermo↔Agrigento, Agrigento↔Catania, Palermo↔Catania |
+| **Interbus** | Catania↔Siracusa, Catania↔Taormina, Siracusa↔Ragusa |
+| **AST Sicilia** | Catania↔Etna (Rifugio Sapienza), rutas rurales |
+| **Flixbus** | Palermo↔Catania (nuevo, más cómodo) |
+| **Prestia e Comandè** | Bus aeropuerto Palermo → centro |
+| **ALIBUS** | Bus aeropuerto Catania → centro ($4) |
+
+**Tip crítico:** Los horarios sicilianos son optimistas. Llegar 15min antes, y no planificar conexiones ajustadas. Los domingos el servicio cae un 50-70%.
+
+**Reserva:** SAIS e Interbus tienen web para comprar online. AST no siempre. Comprar en persona en la estación si no hay web.
 
 ## Para subir al Etna
 
@@ -107,11 +161,33 @@
 
 ---
 
-## 🔗 Fuentes oficiales (links)
-- Trenitalia: `https://www.trenitalia.com/en.html`\n+- GNV (ferries): `https://www.gnv.it/en`\n+- Tirrenia (ferries): `https://www.tirrenia.it/en`\n+- Turismo Sicilia (oficial): `https://www.visitsicily.info/en/`
+---
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Para encajar con BCN, suele convenir terminar en **Catania** (más vuelos).\n+- Sin auto, se puede hacer una ruta sólida (Catania–Siracusa–Taormina / Palermo–Agrigento–Trapani) pero limita playas remotas.\n+- Ferry nocturno desde Nápoles puede rendir si quieren ahorrar una noche de hotel.
+### 🚗 Tips de alquiler de auto en Sicilia
+
+- **Seguro a todo riesgo (full coverage):** Contratarlo siempre. Las carreteras sicilianas tienen baches y los daños menores son frecuentes.
+- **Peajes:** Las autopistas sicilianas tienen peajes. Al entrar, tomás ticket; al salir, pagás según distancia. Llevar efectivo: tarjeta no siempre funciona.
+- **Cuidado con personas en peajes:** Hay reportes de personas haciéndose pasar por empleados de peaje para cobrar en efectivo a turistas. Usar siempre los carriles oficiales automáticos.
+- **Velocidad:** Cámaras automáticas en autopistas. Multas se cargan a la tarjeta del alquiler.
+- **GPS o Maps offline:** Descargar mapa offline de Sicilia en Google Maps o Maps.me antes de salir. La señal en el interior es irregular.
+
+---
+
+## 🔗 Fuentes oficiales (links)
+- Trenitalia: `https://www.trenitalia.com/en.html`
+- GNV (ferries): `https://www.gnv.it/en`
+- Tirrenia (ferries): `https://www.tirrenia.it/en`
+- SAIS bus: `https://www.saistrasporti.it/`
+- Interbus: `https://www.interbus.it/`
+- Turismo Sicilia (oficial): `https://www.visitsicily.info/en/`
+
+## 🧠 Consenso foros (resumen)
+- Para encajar con BCN, conviene terminar en **Catania** (más vuelos frecuentes).
+- Sin auto, se puede hacer una ruta sólida (Palermo+Agrigento o Catania+Siracusa+Taormina) pero limita el Val di Noto profundo.
+- Ferry nocturno desde Nápoles puede rendir si quieren ahorrar una noche de hotel.
+- La estrategia mixta (tren para ciudades, auto alquilado 3-4 días para la parte rural) es la recomendada por múltiples fuentes para 10 noches.
 
 ## 🔎 Hilos y lecturas (links)
+- [Getting around Sicily — car vs public transport (mel365)](https://mel365.com/getting-around-sicily/)
+- [Driving in Sicily — tips esenciales](https://www.alongdustyroads.com/posts/driving-in-sicily-car-rental)
 - Búsqueda r/ItalyTravel “Sicily without car”: `https://www.reddit.com/r/ItalyTravel/search/?q=Sicily%20without%20car&restrict_sr=1&sort=relevance&t=all`

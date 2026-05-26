@@ -63,10 +63,10 @@
 - **Operadores:** Caronte & Tourist, Bluferries
 - **Nota:** Si devolvés el auto en Reggio, cruzás a pie y tomás tren en Messina
 
-### Con auto alquilado
-- Se puede cruzar con el auto en el ferry ($30-40)
-- Verificar si la empresa de alquiler permite cruzar a Sicilia (algunas no)
-- Alternativa: Devolver auto en Reggio, cruzar a pie, alquilar otro en Sicilia (más caro pero sin restricciones)
+### Con auto alquilado (decisión confirmada)
+- Se puede cruzar con el auto en el ferry ($30-40) **solo si el contrato de alquiler lo permite**
+- **Muchas empresas prohíben cruzar el Estrecho** — verificar explícitamente al reservar. Hertz y Europcar generalmente lo permiten; empresas low-cost frecuentemente no.
+- **Opción más simple (evita el problema):** Devolver auto en Reggio Calabria → cruzar a pie en ferry (20min) → recoger auto nuevo en Sicilia (Messina o Catania). Más costoso pero sin riesgo de multa por contrato.
 
 ## Salida desde Calabria
 

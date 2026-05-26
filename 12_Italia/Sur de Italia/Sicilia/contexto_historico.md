@@ -10,6 +10,7 @@
 - **Dominios ibéricos y barroco siciliano**: Elites terratenientes, esplendor artístico popular (festejos, teatro) y tensiones fiscales con Nápoles y Madrid.
 - **Unificación italiana y contradicciones**: La anexión trajo modernización desigual, latifundio y emigración masiva hacia América; la diáspora difundió cocina y músicas sicilianas globalmente.
 - **Cosa Nostra y estado de derecho**: Historia del siglo XX con capítulos de violencia (Falcone y Borsellino, 1992) y cultura civil antimafia; contexto social más que atracción turística.
+- **Terremoto de 1693 y el barroco siciliano**: El terremoto más devastador de la historia de Europa destruyó 54 ciudades del sureste de Sicilia en segundos. La reconstrucción en barroco tardío generó el Val di Noto — siete ciudades UNESCO (Noto, Ragusa, Modica, Scicli, Caltagirone, entre otras) planificadas desde cero con urbanismo y arquitectura coherente. Es uno de los pocos casos en la historia donde una catástrofe derivó en un conjunto arquitectónico de primer nivel mundial.
 
 ## Épocas Fundamentales
 
@@ -39,5 +40,5 @@
 - **Documentales**: Producciones sobre el Etna y la viticultura en lavas; reportajes BBC sobre templo griego de Agrigento.
 - **Podcasts**: *The History of Byzantium* — Sicilia bizantina; *In Our Time* — Arquímedes, Vísperas sicilianas, *Mafia* (episodios divulgativos).
 - **Música**: Cantautores sicilianos (Franco Battiato, Rosa Balistreri) y bandas de *tarantella* contemporánea para oír el sur en clave moderna.
-- **Ficción ligera — blockbuster, nostalgia y detectives**: ***The White Lotus*** (segunda temporada, HBO): comedia coral de resort siciliano — alta estilización y acantilados, baja fidelidad etnográfica; ***Il commissario Montalbano***: procedimental muy “sofa binge” basado en Camilleri, rodado en buena parte por la provincia de Ragusa (*Scicli*, *Punta Secca*, *Marzamemi*…) — vista previa perfecta antes de ese road trip oriental; melodramas de cartel de **Giuseppe Tornatore** (*Malena*, *Baarìa*, *Stanno tutti bene*) para nostalgia edulcorada de pueblo; *Aquaman* (2018) y blockbuster similares reutilizan acantilados trapaneses como cartel marina de fantasía.
+- **Ficción ligera — blockbuster, nostalgia y detectives**: ***The White Lotus*** (segunda temporada, HBO): comedia coral de resort siciliano filmada en Taormina y San Domenico Palace — alta estilización y acantilados, baja fidelidad etnográfica; ***Il commissario Montalbano***: procedimental muy “sofa binge” basado en Camilleri, rodado en buena parte por la provincia de Ragusa (*Scicli*, *Punta Secca*, *Marzamemi*…) — vista previa perfecta antes del Val di Noto; el comisariato “ficticio” de Montalbano es el Palazzo Municipio de Scicli; melodramas de cartel de **Giuseppe Tornatore** (*Malena*, *Baarìa*, *Stanno tutti bene*) para nostalgia edulcorada de pueblo; *Aquaman* (2018) y blockbuster similares reutilizan acantilados trapaneses como cartel marina de fantasía.
 

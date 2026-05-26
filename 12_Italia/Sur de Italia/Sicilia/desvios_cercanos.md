@@ -41,69 +41,112 @@
 
 ---
 
-## 🏘️ Pueblos del Interior
+---
+
+## 🏛️ VAL DI NOTO — Circuito Barroco Completo
+
+El sureste de Sicilia es el más olvidado por los turistas que van a lo seguro (Palermo/Taormina/Etna) — y precisamente por eso es donde más vale ir con 10 noches. Siete ciudades barrocas UNESCO reconstruidas tras el terremoto de 1693. Mejor con auto.
+
+### Noto ⭐⭐
+- **Qué:** La “capital del barroco siciliano”. Toda la ciudad reconstruida en piedra caliza dorada. Uno de los centros urbanos más fotogénicos de Italia.
+- **Desde Siracusa:** 30min tren ($4) — el day trip más fácil de toda Sicilia. Sin auto.
+- **Qué hacer:**
+  - [ ] Corso Vittorio Emanuele al atardecer — la calle barroca más impresionante del sur de Italia
+  - [ ] Catedral di Noto — fachada dorada, escala monumental
+  - [ ] Palazzo Nicolaci di Villadorata — balcones con figuras de monstruos ($5)
+  - [ ] Porta Reale — arco de entrada
+- **Mejor momento:** Tarde. La luz del sol poniente sobre la piedra caliza es extraordinaria.
+- **Cuánto tiempo:** 1 día o 1 noche para disfrutarlo sin turistas.
+
+### Ragusa e Ibla ⭐⭐
+- **Qué:** Ciudad de “dos almas” UNESCO. Ragusa Ibla es el corazón barroco que baja por escalinata hasta un valle. Mucho más tranquilo y auténtico que Taormina.
+- **Desde Siracusa:** 1.5h bus Interbus o auto
+- **Qué hacer:**
+  - [ ] Piazza del Duomo en Ibla — la plaza barroca más bella del sureste
+  - [ ] Jardines Iblei — parque en el borde del acantilado, vistas del valle, ideal para atardecer
+  - [ ] Escalinata Ragusa–Ibla — subirla al anochecer
+  - [ ] Caminar sin rumbo por Ibla — es pequeño y todo se descubre a pie
+- **Conexión Montalbano:** La mayoría de la serie Il Commissario Montalbano se filmó aquí. Reconocerán cada esquina.
+- **Cuánto tiempo:** 1-2 días. Dormir en Ibla si pueden (reservar anticipado).
+- **Michelin:** Duomo restaurant (2 estrellas) en Ibla, para quienes quieran gastar.
+
+### Scicli (medio día)
+- **Qué:** Pueblo barroco UNESCO mucho menos visitado que Ragusa y Noto. Piazza Busacca, Chiesa di San Bartolomeo tallada en la roca.
+- **Desde Ragusa:** 30min auto
+- **Tip Montalbano:** El comisariato del Commissario está aquí (Palazzo Municipio). Fans hacen peregrinación.
+- **Combinar con Ragusa** en el mismo día si tienen auto.
+
+### Modica (medio día) — Chocolate
+- **Qué:** Ciudad barroca con cañones rosas + el chocolate más famoso de Sicilia. Técnica azteca: cacao sin mantequilla, granuloso, con especias.
+- **Desde Ragusa:** 20min auto
+- **Dónde:**
+  - **Antica Dolceria Bonajuto** (1880) — la referencia histórica
+  - **Sabadì** — versión moderna y premiada
+- **Para llevarse:** Tabletas con canela, con chile, con algarroba. Completamente diferente al chocolate industrial.
+- **Cuánto tiempo:** 2-3h + compras.
+
+### Marzamemi (1-2h)
+- **Qué:** Aldea de pescadores en el extremo sur. Plaza Piazza Regina Margherita rodeada de almacenes de atún convertidos en bares y restaurantes. Muy fotogénico.
+- **Desde Noto:** 30min auto
+- **Tip:** Parada de paso entre Noto y Siracusa. No necesita más de 2h pero merece pararse.
+- **Sin auto:** Imposible acceder.
+
+### Vendicari Nature Reserve (medio día)
+- **Qué:** Reserva natural costera con 3700 acres de playas y humedales. Flamencos, tortugas marinas. La playa Calamosche es de las más hermosas de Sicilia.
+- **Desde Noto:** 15min auto
+- **En octubre:** Casi sin turistas. Agua puede estar fría pero el paisaje para caminar es impresionante.
+- **Sin auto:** Inaccesible.
+
+---
+
+## 🏘️ Más Pueblos del Interior
 
 ### Caltagirone (Cerámica)
-- **Qué:** Ciudad de la cerámica siciliana. Escalera de Santa Maria del Monte con 142 escalones decorados con mayólicas.
-- **Desde Catania:** 1.5h bus
-
-### Ragusa e Ibla
-- **Qué:** Ciudad barroca (UNESCO). Ragusa Ibla = centro histórico de cuento.
-- **Desde Siracusa:** 1.5h bus/auto
-- **Combinable** con Modica (chocolate artesanal)
-
-### Noto
-- **Qué:** Capital del barroco siciliano (UNESCO). Ciudad reconstruida tras terremoto de 1693 en piedra dorada.
-- **Desde Siracusa:** 30min tren/bus
-- **Day trip fácil** desde Siracusa
+- **Qué:** Ciudad de la cerámica siciliana UNESCO. Escalera di Santa Maria del Monte con 142 escalones decorados con mayólicas de colores.
+- **Desde Catania:** 1.5h bus o auto
+- **Cuánto tiempo:** Medio día
 
 ---
 
-## 🍫 Modica (Chocolate) — BAJA PRIORIDAD
+## 🏝️ Marsala — Ciudad del Vino (desde Trapani)
 
-- **Qué:** Chocolate artesanal con técnica azteca (granuloso, no se derrite, con especias)
-- **Desde Siracusa:** 1.5h
-- **Bonpajuto / Antica Dolceria** - Las chocolaterías más famosas
-- **Combinable** con Ragusa Ibla en un día
+- **Qué:** Ciudad costera con centro histórico, ruinas fenicias, y su famoso vino. Garibaldi desembarcó aquí en 1860.
+- **Desde Trapani:** 30min bus/auto
+- **Qué hacer:**
+  - [ ] **Museo Archeologico Baglio Anselmi** — Barco fenicio de guerra del siglo III a.C., el mejor conservado del mundo ($6)
+  - [ ] **Cantina Florio o Donnafugata** — Tour y cata del vino Marsala (reservar)
+  - [ ] **Centro histórico** — Compacto y agradable
+- **Salinas de Marsala:** Las más extensas de Sicilia, con molinos del siglo XVIII. Mejor al atardecer (los colores del agua cambian de rosa a naranja).
+- **Combinar** en el mismo día que Trapani/Erice.
 
 ---
 
-## 📅 Distribución sugerida
+## 📅 Itinerarios de 10 Noches (resumen rápido)
 
-### 6 días — Ruta Este pura
-1. Llegada Catania (ferry nocturno o vuelo). Catania ciudad.
-2. Etna (día completo)
-3. Siracusa (Ortigia + Neapolis)
-4. Siracusa + Noto (day trip)
-5. Taormina
-6. Catania mañana + vuelo a Barcelona
+Ver **actividades.md** para los 3 itinerarios detallados con tabla día a día.
 
-### 7 días — Ruta Oeste pura
-1. Llegada Palermo (ferry nocturno). Instalarse.
-2. Palermo (mercados, Cappella Palatina, catacumbas)
-3. Monreale (mañana) + Palermo (tarde)
-4. Cefalù (day trip)
-5. Agrigento (Valle dei Templi)
-6. Trapani + Erice o Segesta
-7. Vuelo Palermo → Barcelona
-
-### 8 días — Combinada ⭐
-1. Ferry nocturno Nápoles → Palermo
-2. Palermo (mercados, street food, Cappella Palatina)
-3. Palermo (catacumbas, Monreale)
-4. Tren a Agrigento, Valle dei Templi, noche ahí
-5. Tren/bus a Catania
-6. Etna
-7. Siracusa
-8. Taormina (mañana) → Catania → vuelo Barcelona
+| Opción | Resumen | Auto |
+|--------|---------|------|
+| **Ruta A** | Este profunda: Catania→Etna→Siracusa→Noto→Taormina | No |
+| **Ruta B** | Combinada: Palermo→Agrigento→Catania→Etna→Siracusa→Noto | No |
+| **Ruta C** | Combinada completa + Val di Noto | Sí (parcial) |
 
 ---
 
 ## 🔗 Fuentes oficiales (links)
-- Valle dei Templi (oficial): `https://www.lavalledeitempli.it/en/travel-guide/timetables-and-tickets/`\n+- Funivia dell’Etna (tickets): `https://www.funiviaetna.com/tickets`
+- Valle dei Templi: `https://www.lavalledeitempli.it/en/travel-guide/timetables-and-tickets/`
+- Funivia dell’Etna: `https://www.funiviaetna.com/tickets`
+- Vendicari Reserve: `https://www.riservavendicari.it/`
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Si hay que elegir, la “combinada” suele ser lo más equilibrado (Palermo + Agrigento + Catania/Etna + Siracusa/Taormina).\n+- Con pocos días, elegir **Este** o **Oeste**, no ambos.
+## 🧠 Consenso foros (resumen)
+- La combinada (Ruta B) es lo más equilibrado para 10 noches sin auto.
+- El **Val di Noto** (Noto+Ragusa+Scicli) aparece en casi todos los “hidden gems” como zona que la gente lamenta no haber incluido.
+- **Siracusa/Ortigia de noche** es mencionado por casi todos como el highlight inesperado del viaje.
+- Vendicari y Marzamemi requieren auto pero se mencionan como joyas del sureste.
 
 ## 🔎 Hilos y lecturas (links)
-- Búsqueda r/ItalyTravel “Agrigento Valle dei Templi”: `https://www.reddit.com/r/ItalyTravel/search/?q=Agrigento%20Valle%20dei%20Templi&restrict_sr=1&sort=relevance&t=all`
+- [Sicily’s Val di Noto guide — Untold Italy](https://untolditaly.com/exploring-sicilys-val-di-noto/)
+- [Ragusa travel guide — GoAskALocal](https://goaskalocal.com/blog/travel-guide-to-ragusa-sicily)
+- [Marzamemi guide — Italy Dreams](https://italy-dreams.com/2026/03/26/heres-what-its-like-to-visit-sicilys-marzamemi-and-vendicari-nature-reserve/)
+- [Sicily hidden gems — Italy4Real](https://italy4real.com/the-best-hidden-gems-in-sicily/)
+- Búsqueda r/ItalyTravel “Val di Noto”: `https://www.reddit.com/r/ItalyTravel/search/?q=Val%20di%20Noto&restrict_sr=1&sort=relevance&t=all`
