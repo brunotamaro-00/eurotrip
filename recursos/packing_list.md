@@ -12,18 +12,6 @@
 
 ---
 
-## 🛒 POR COMPRAR
-
-Items confirmados que faltan comprar:
-
-- [ ] **Mochila chica de día** — para day trips y como carry-on en vuelos
-- [ ] **Riñonera** — pasaporte, dinero, teléfono, seguridad en la calle (P2 considera también totebag para el día)
-- [ ] **Candados con cable/tiritas** — para lockers en hostels
-- [ ] **Almohada de viaje inflable** — que ocupe poco espacio (preferir inflable sobre la de espuma)
-- [ ] **Kindle** — Bruno confirmado; P2 por confirmar
-
----
-
 ## 🧳 Equipaje — Setup Confirmado
 
 ### Mochila Principal (50L)
@@ -32,12 +20,12 @@ Items confirmados que faltan comprar:
 - **En vuelos:** Se despacha como equipaje facturado
 - **En trenes/buses:** Se lleva puesta, sin restricción de peso
 
-### Mochila Chica de Día (POR COMPRAR)
+### Mochila Chica de Día
 - **Tipo:** Mochila compacta (~20-25L)
 - **Uso diario:** Day trips, salidas, llevar cosas del día
 - **En vuelos:** Funciona como carry-on (documentos, electrónica, cambio de ropa)
 
-### Riñonera (POR COMPRAR)
+### Riñonera
 - **Uso:** Pasaporte, dinero, teléfono — siempre encima
 - **En vuelos:** Bolsa personal (va debajo del asiento)
 
@@ -45,35 +33,39 @@ Items confirmados que faltan comprar:
 
 ## 👕 Ropa
 
-> **Prioridad: liviano, secado rápido y versátil.** Material clave: **merino wool** (no huele, se puede repetir, pinta normal). Evitar 100% algodón. Ropa de frío (chaqueta abrigada, gorro, bufanda, guantes) se compra allá sobre el final si es necesario.
+> **Prioridad: liviano, secado rápido y versátil.** Las remeras de ciudad pueden ser algodón de calidad (con lavandería semanal no hay problema de secado). Las de trekking sí deben ser sintéticas. Ropa de frío se compra allá sobre el final si es necesario.
 
 ### Tops (6 prendas)
-- [ ] 2 remeras manga corta **merino wool** — ciudad, cenar, uso general (aguantan 2 días sin oler)
-  - *Icebreaker Tech Lite II · Smartwool Merino 150 · Patagonia Capilene Merino*
+- [ ] 2 remeras manga corta **algodón Supima o mezcla lino-algodón** — ciudad, cenar, uso general
+  - *Uniqlo Supima Cotton Tee · Gap Favorite Tee · H&M Premium Cotton*
 - [ ] 2 remeras manga corta **técnicas/sintéticas** — trekking y días de mucho movimiento
-  - *Patagonia Capilene Cool Daily · Arc'teryx Motus SL · Columbia Zero Rules*
+  - *Patagonia Capilene Cool Daily · Arc'teryx Motus SL · Decathlon Kalenji (opción económica)*
 - [ ] 1 **camisa de botones liviana** (lino o nylon blend) — enrollada ocupa mínimo; transforma cualquier look para cenar
-  - *Patagonia Go To Shirt · Bluffworks Ascender · Vuori Airo Shirt*
-- [ ] 1 remera manga larga (merino o técnica) — capa extra o días frescos
-  - *Icebreaker 200 Oasis LS · Smartwool Classic All-Season LS*
+  - *Uniqlo Premium Linen · Patagonia Go To Shirt · Bluffworks Ascender*
+- [ ] 1 remera manga larga **algodón ligero o sintética** — capa extra o días frescos
+  - *Uniqlo Supima Cotton LS · Patagonia Capilene Cool LS*
 
-### Pantalones / Bottoms (3-4 prendas)
-- [ ] 1 **jean navy oscuro** — ancla del look casual prolijo
+### Pantalones / Bottoms (5 prendas)
+- [ ] 1 **jean** — ancla del look casual prolijo *(ya tenés)*
   - *Levi's 511 Slim · Uniqlo Slim Fit Jeans · Nudie Jeans Tight Terry (premium)*
-- [ ] 1 **pantalón travel chino olive** — quick-dry, pinta decente (no tipo track pant)
+- [ ] 1 **pantalón travel chino liviano** — quick-dry, pinta decente (no tipo track pant)
   - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
-- [ ] 1 **shorts tipo board short** — sirve de short y de malla (elimina llevar traje de baño separado)
+- [ ] 1 **pantalón de lino liviano** — cómodo para recorrer todo el día, canchero, enrolla casi a nada
+  - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá)*
+- [ ] 1 **board short** — sirve de short y de malla (elimina llevar traje de baño separado)
   - *Patagonia Baggies · Quiksilver Highline · Vuori Kore Short*
-- [ ] 1 jogger / pantalón cómodo liviano — solo para hostel/dormir (se puede eliminar si falta espacio)
-  - *Vuori Ponto Jogger · Lululemon ABC Jogger · Uniqlo Ultra Stretch*
+- [ ] 1 **bermuda** (nylon o mezcla nylon-lino) — más city-appropriate que el board short, largo a la rodilla
+  - *Uniqlo Chino Shorts · Patagonia Quandary Shorts · Bluffworks Shorts*
 
 ### Capas Externas
-- [ ] 1 chaqueta impermeable / cortavientos (liviana, empacable)
-  - *Patagonia Houdini · Arc'teryx Squamish Hoody · Salomon Bonatti WP*
-- [ ] 1 buzo fino / hoodie liviano (capa media para agosto-septiembre)
-  - *Patagonia LW Synchilla Snap-T · Vuori Ponto Half Zip · Uniqlo Stretch Fleece*
+- [ ] 1 **campera ultra light down** — se comprime en su propio bolsillo, livianísima, agua-resistente para lluvia ligera
+  - *Uniqlo Ultra Light Down · Uniqlo Hybrid Down (más abrigada) · Patagonia Nano Puff*
+- [ ] 1 **buzo / hoodie liviano** — capa media para agosto-septiembre
+  - *Uniqlo Fleece Crewneck · Vuori Ponto Half Zip · Patagonia LW Synchilla*
+- [ ] 1 **suéter liviano** — segunda capa media para cuando refresca (octubre-noviembre)
+  - *Uniqlo Extra Fine Merino Crewneck · Uniqlo Cashmere Blend · Gap Merino Crew*
 
-**🛍️ Comprar allá si hace falta (octubre-noviembre):** fleece/polar, chaqueta de otoño, bufanda, gorro, guantes
+**🛍️ Comprar allá si hace falta (octubre-noviembre):** chaqueta de otoño/invierno, bufanda, gorro, guantes
 
 ### Ropa Interior
 - [ ] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
@@ -83,16 +75,13 @@ Items confirmados que faltan comprar:
 - [ ] 2-3 sujetadores deportivos / normales
   - *Lululemon Free to Be · Patagonia Active Mesh · Oiselle · Smartwool Intraknit (merino)*
 
-### Ropa de Dormir
-- [ ] 1 conjunto de pijama ligero (o usar el jogger + remera)
-
 ### Calzado
 - [ ] 1 par **zapatillas deportivas con buena suela** — trekking y caminatas largas (se usan puestas en el avión)
   - *Salomon X-Adventure · Merrell Moab Speed · On Cloudventure · Hoka Anacapa*
 - [ ] 1 par **zapatilla de cuero o sneaker casual** — presentable para cenar y ciudad, cómoda para caminar
   - *Veja Campo (muy popular en Europa) · Adidas Stan Smith · Clarks Wallabee · Blundstone 063 (si querés tobillera)*
 
-**Nota:** Solo 2 pares. Las deportivas se usan puestas en vuelos/traslados. El board short reemplaza el traje de baño separado. *Tip P2: unificar calzado — zapatillas + ojotas de playa/baño, sin sandalias "de noche" extra. Jean negro + jean azul = máximo 2 jeans.*
+**Nota:** Solo 2 pares. Las deportivas se usan puestas en vuelos/traslados. El board short reemplaza el traje de baño separado.
 
 ### Toalla
 - [ ] 1 toalla de microfibra pequeña
@@ -121,10 +110,10 @@ Items confirmados que faltan comprar:
 ## 💻 Electrónica
 
 ### Dispositivos
-- [ ] Teléfono + funda protectora (fotos con el teléfono)
+- [x] Teléfono + funda protectora (fotos con el teléfono)
 - [ ] Laptop liviana 13" (confirmado)
-- [ ] E-reader / Kindle
-- [ ] Reloj / smartwatch
+- [x] E-reader / Kindle
+- [x] Reloj / smartwatch
 
 ### Cargadores y Cables
 - [ ] Cargador de teléfono + cable extra
@@ -141,7 +130,7 @@ Items confirmados que faltan comprar:
 - [ ] USB / disco externo pequeño (backup opcional)
 
 ### Auriculares
-- [ ] Auriculares bluetooth / con cable
+- [x] Auriculares bluetooth / con cable
 - [ ] Tapones para oídos (dormir en hostales, vuelos)
 
 ---
