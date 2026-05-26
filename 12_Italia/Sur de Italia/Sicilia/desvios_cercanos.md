@@ -37,7 +37,7 @@
 - **Desde Agrigento:** 1.5h auto
 - **Desde Catania:** 1.5h auto
 - **Precio:** $12
-- **Sin auto:** Difícil (buses escasos desde Piazza Armerina ciudad, 1-2/día)
+- **Acceso:** Requiere auto (1.5h desde Agrigento o Catania). Encaja como desvío en ruta si tienen el auto del Tramo 1.
 
 ---
 
@@ -49,7 +49,7 @@ El sureste de Sicilia es el más olvidado por los turistas que van a lo seguro (
 
 ### Noto ⭐⭐
 - **Qué:** La “capital del barroco siciliano”. Toda la ciudad reconstruida en piedra caliza dorada. Uno de los centros urbanos más fotogénicos de Italia.
-- **Desde Siracusa:** 30min tren ($4) — el day trip más fácil de toda Sicilia. Sin auto.
+- **Desde Siracusa:** 30min en auto (o tren $4). Encaja en el Tramo 2 del itinerario.
 - **Qué hacer:**
   - [ ] Corso Vittorio Emanuele al atardecer — la calle barroca más impresionante del sur de Italia
   - [ ] Catedral di Noto — fachada dorada, escala monumental
@@ -89,13 +89,13 @@ El sureste de Sicilia es el más olvidado por los turistas que van a lo seguro (
 - **Qué:** Aldea de pescadores en el extremo sur. Plaza Piazza Regina Margherita rodeada de almacenes de atún convertidos en bares y restaurantes. Muy fotogénico.
 - **Desde Noto:** 30min auto
 - **Tip:** Parada de paso entre Noto y Siracusa. No necesita más de 2h pero merece pararse.
-- **Sin auto:** Imposible acceder.
+- Requiere auto (15min desde Noto).
 
 ### Vendicari Nature Reserve (medio día)
 - **Qué:** Reserva natural costera con 3700 acres de playas y humedales. Flamencos, tortugas marinas. La playa Calamosche es de las más hermosas de Sicilia.
 - **Desde Noto:** 15min auto
 - **En octubre:** Casi sin turistas. Agua puede estar fría pero el paisaje para caminar es impresionante.
-- **Sin auto:** Inaccesible.
+- Requiere auto (1.5h desde Siracusa).
 
 ---
 
@@ -139,7 +139,6 @@ Ver **actividades.md** para los 3 itinerarios detallados con tabla día a día.
 - Vendicari Reserve: `https://www.riservavendicari.it/`
 
 ## 🧠 Consenso foros (resumen)
-- La combinada (Ruta B) es lo más equilibrado para 10 noches sin auto.
 - El **Val di Noto** (Noto+Ragusa+Scicli) aparece en casi todos los “hidden gems” como zona que la gente lamenta no haber incluido.
 - **Siracusa/Ortigia de noche** es mencionado por casi todos como el highlight inesperado del viaje.
 - Vendicari y Marzamemi requieren auto pero se mencionan como joyas del sureste.

@@ -14,9 +14,9 @@
 
 ## Moverse dentro de Puglia
 
-### Sin auto (factible pero con limitaciones)
+### Trenes y buses de referencia (conexiones principales)
 
-**Tren (bien conectado en la costa):**
+Útiles para los tramos entre ciudades grandes donde no conviene manejar (Bari→Lecce, etc.):
 
 | Ruta | Duración | Precio | Operador |
 |------|----------|--------|----------|
@@ -26,20 +26,9 @@
 | Bari → Ostuni | 1h | $8-12 | Trenitalia |
 | Lecce → Gallipoli | 40min | $4 | FSE |
 | Lecce → Otranto | 50min | $4 | FSE |
+| Bari → Matera | 1h15 | $5-8 | FAL bus |
 
-**Bus (para pueblos del interior):**
-
-| Ruta | Duración | Precio | Operador |
-|------|----------|--------|----------|
-| Bari → Alberobello | 1-1.5h | $5 | FSE bus |
-| Bari → Matera | 1h15 | $5-8 | FAL bus (más rápido que tren) |
-| Alberobello → Matera | 2h+ (vía Bari) | $10 | Requiere transbordo |
-
-**Limitaciones sin auto:**
-- Alberobello y Matera requieren buses con horarios espaciados
-- Domingos: servicio muy reducido en buses locales
-- Estaciones de tren/bus a veces lejos del centro histórico
-- Combinar Alberobello + Matera en un día es difícil sin auto
+**Nota:** Tren Bari↔Lecce sigue siendo cómodo incluso con auto alquilado — evita aparcar en el centro. El auto es para los pueblos del interior (Valle d'Itria, Castel del Monte) donde el transporte público es esporádico.
 
 ### Con auto ✅ — Decisión confirmada
 
@@ -49,7 +38,7 @@
 
 **Lo que desbloquea el auto en Puglia:**
 - **Valle d’Itria completo en un día:** Alberobello + Locorotondo + Cisternino + Ostuni — imposible en bus eficientemente
-- **Castel del Monte** (castillo octogonal de Federico II, patrimonio UNESCO) — sin auto es muy complicado
+- **Castel del Monte** (castillo octogonal de Federico II, patrimonio UNESCO) — solo accesible en auto
 - **Alberobello + Matera en el mismo día** — en bus requieren 2 días separados
 - **Lecce + Otranto + Gallipoli** — con auto en un loop cómodo; en tren son conexiones separadas
 - **Masserie** (granjas fortaleza históricas) y olivares centenarios del interior

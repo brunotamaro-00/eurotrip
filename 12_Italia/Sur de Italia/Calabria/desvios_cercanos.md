@@ -70,13 +70,7 @@ Vuelo Catania → Barcelona
 
 ## 📅 Distribución sugerida (4-5 días solo Calabria)
 
-### Sin auto (limitado pero factible)
-1. Tren Nápoles → Tropea. Explorar Tropea tarde.
-2. Tropea día completo + Pizzo (tren 15min)
-3. Tren a Scilla. Scilla + Reggio (Bronces de Riace)
-4. Opción: cruzar a Sicilia O volver a Nápoles para vuelo
-
-### Con auto (recomendado)
+### Con auto ✅
 1. Tropea + Capo Vaticano
 2. Pizzo (tartufo) + costa
 3. Scilla + Reggio Calabria (Bronces de Riace)
@@ -89,7 +83,8 @@ Vuelo Catania → Barcelona
 - Turismo Calabria (oficial): `https://www.calabriatourism.it/`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- Si el objetivo es maximizar “wow” sin auto, Sicilia/Puglia suelen ser más fáciles.\n+- Calabria vale mucho si quieren costa menos turística y presupuesto bajo, pero la logística manda (auto ayuda).
+- Con auto confirmado, Calabria es viable. La costa es más barata y menos turística que Sicilia/Puglia.
+- La decisión es si tienen días suficientes para sumarla al sur o si van directo a Sicilia.
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Scilla Tropea”: `https://www.reddit.com/r/ItalyTravel/search/?q=Scilla%20Tropea&restrict_sr=1&sort=relevance&t=all`

@@ -5,24 +5,7 @@
 
 ## 🏘️ Estrategia según ruta (10 noches)
 
-### Ruta A — Este Profunda sin auto
-| Base | Noches | Cubre |
-|------|--------|-------|
-| **Catania** | 3 | Catania ciudad, Etna (day trip), base de operaciones |
-| **Siracusa/Ortigia** | 3 | Ortigia, parque arqueológico, Noto (day trip 30min) |
-| **Taormina o Giardini-Naxos** | 2 | Taormina, Castelmola |
-| **Catania** | 2 | Descanso/Cefalù/salida |
-
-### Ruta B — Combinada sin auto
-| Base | Noches | Cubre |
-|------|--------|-------|
-| **Palermo** | 3 | Palermo ciudad, Monreale (day trip), Cefalù (day trip) |
-| **Agrigento** | 1 | Valle dei Templi |
-| **Catania** | 2 | Catania ciudad, Etna (day trip) |
-| **Siracusa/Ortigia** | 2 | Ortigia, Neapolis, Noto (day trip) |
-| **Taormina / salida** | 2 | Taormina + Catania para vuelo |
-
-### Ruta C — Combinada con auto
+### Itinerario confirmado (10 noches con auto)
 | Base | Noches | Cubre |
 |------|--------|-------|
 | **Palermo** | 2 | Palermo ciudad |

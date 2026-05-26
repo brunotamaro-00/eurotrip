@@ -83,7 +83,7 @@ La clave es **no alquilar el auto los días de ciudad** (Palermo y Catania no lo
 | Día 4 | Agrigento → Trapani (2h) → Erice (30min) → Segesta (30min) → Marsala (30min). Dormir Trapani/Marsala. |
 | Día 5 | Marsala salinas → Catania (3.5h autopista A29+A19). Devolver auto en **aeropuerto Catania**. |
 
-**Días 1-2:** Palermo sin auto (todo a pie). **Días 6+:** Catania/Etna/Siracusa sin auto.
+**Días 1-2:** Palermo a pie (auto aún no recogido — no hace falta en ciudad). **Días 6-9:** Catania/Etna/Siracusa a pie y tren (auto devuelto, no se necesita hasta el Val di Noto).
 
 #### Tramo 2 — Val di Noto (2-3 días)
 | Día | Movimiento |
@@ -94,7 +94,7 @@ La clave es **no alquilar el auto los días de ciudad** (Palermo y Catania no lo
 
 **Total auto:** ~5-6 días en 2 ventanas → **€150-270 estimado** (vs €375-450 si fuera 10 días completos).
 
-**Alternativa tramo 2 más corto:** Si priorizan Siracusa/Ortigia y no el Val di Noto, saltar el Tramo 2 y hacer Noto solo (30min tren desde Siracusa sin auto). El Val di Noto profundo es lo que realmente requiere auto.
+**Tramo 2 flexible:** Si los días apremian, el Val di Noto se puede acortar a 1 día (Noto + Ragusa solo) en vez de 2.
 
 ---
 
@@ -183,7 +183,7 @@ El sistema de buses en Sicilia es fragmentado: ~10 empresas distintas, sin reser
 
 ## 🧠 Consenso foros (resumen)
 - Para encajar con BCN, conviene terminar en **Catania** (más vuelos frecuentes).
-- Sin auto, se puede hacer una ruta sólida (Palermo+Agrigento o Catania+Siracusa+Taormina) pero limita el Val di Noto profundo.
+- Las ciudades grandes (Palermo, Catania, Siracusa) no requieren el auto — usarlo solo para los tramos rurales es la estrategia óptima.
 - Ferry nocturno desde Nápoles puede rendir si quieren ahorrar una noche de hotel.
 - La estrategia mixta (tren para ciudades, auto alquilado 3-4 días para la parte rural) es la recomendada por múltiples fuentes para 10 noches.
 

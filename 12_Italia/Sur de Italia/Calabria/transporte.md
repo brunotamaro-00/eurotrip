@@ -2,7 +2,7 @@
 
 ## ⚠️ Nota Importante
 
-**Calabria tiene el peor transporte público de las 4 opciones del sur.** Auto es prácticamente necesario para disfrutarla bien. Sin auto, solo Tropea y la línea de costa tirrénica son accesibles por tren.
+**Auto confirmado.** La mayor parte de lo que vale la pena en Calabria (parques, interior, Capo Vaticano, pueblos de montaña) requiere auto.
 
 ## Llegada desde Nápoles
 
@@ -39,20 +39,16 @@
 
 **Tip:** Autopista A2 (Salerno-Reggio) es de peaje pero rápida. Carreteras costeras son lentas pero panorámicas.
 
-### Sin auto (limitado)
+### Trenes de referencia (costa tirrénica — útiles como backup)
 
-**Tren costa tirrénica:**
-| Ruta | Duración | Precio | Frecuencia |
-|------|----------|--------|------------|
-| Tropea → Pizzo | 15min | $3 | Frecuente |
-| Tropea → Lamezia | 1-1.5h | $5-8 | Frecuente |
-| Lamezia → Reggio | 2-2.5h | $10-15 | Varios/día |
-| Reggio → Scilla | 30min | $3 | Frecuente |
+| Ruta | Duración | Precio |
+|------|----------|--------|
+| Tropea → Pizzo | 15min | $3 |
+| Tropea → Lamezia | 1-1.5h | $5-8 |
+| Lamezia → Reggio | 2-2.5h | $10-15 |
+| Reggio → Scilla | 30min | $3 |
 
-**Problemas sin auto:**
-- Capo Vaticano: No hay transporte público práctico
-- Parques nacionales (Sila, Pollino, Aspromonte): Inaccesibles
-- Pueblos del interior: Bus muy esporádico
+El tren cubre solo el eje costero. Todo lo que vale la pena en Calabria (Capo Vaticano, Sila, Aspromonte, pueblos del interior) requiere auto.
 
 ## Cruzar a Sicilia (Estrecho de Messina)
 
@@ -86,7 +82,8 @@
 - Trenitalia: `https://www.trenitalia.com/en.html`\n+- Caronte & Tourist (ferries Estrecho): `https://www.carontetourist.it/en/`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- Sin auto, se puede, pero el “mejor Calabria” (playas/parques) se disfruta más con auto.\n+- Si lo encajan con Sicilia, suele ser más eficiente (cruzar y volar desde CTA/PMO).
+- Con auto confirmado, Calabria se puede hacer completa. La pregunta es si encaja en los días totales del sur.
+- Si combinan con Sicilia, suele convenir cruzar el Estrecho y volar desde Catania/Palermo (más vuelos a BCN que desde Lamezia).
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Calabria without car”: `https://www.reddit.com/r/ItalyTravel/search/?q=Calabria%20without%20car&restrict_sr=1&sort=relevance&t=all`

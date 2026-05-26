@@ -51,7 +51,8 @@
 - Turismo Calabria (oficial): `https://www.calabriatourism.it/`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- **Sin auto**: base más realista suele ser Tropea/Scilla/Reggio con tren.\n+- **Con auto**: habilita Capo Vaticano y parques (Sila/Aspromonte).\n+- En octubre, verificar aperturas (algunos B&B cierran off-season).
+- Con auto confirmado: bases recomendadas son Tropea (costa norte) y Scilla o Reggio (cruce a Sicilia). Capo Vaticano y los parques (Sila/Aspromonte) accesibles en day trip desde Tropea.
+- En octubre, verificar aperturas (algunos B&B cierran off-season).
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Tropea base”: `https://www.reddit.com/r/ItalyTravel/search/?q=Tropea%20base&restrict_sr=1&sort=relevance&t=all`

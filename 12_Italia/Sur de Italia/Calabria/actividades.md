@@ -73,7 +73,7 @@ Calabria es **la punta de la bota italiana**, la región más pobre y menos visi
   - [ ] **Lago Cecita / Lago Arvo** - Lagos de montaña, caminatas
   - [ ] **En octubre:** Colores de otoño espectaculares, setas (sagra del fungo en Camigliatello)
 - **Desde Cosenza:** 40min auto
-- **Acceso sin auto:** Muy difícil. Buses escasos.
+- **Acceso:** Auto (40min desde Cosenza).
 
 ### Parco Nazionale del Pollino
 - **Qué:** El parque nacional más grande de Italia. Montañas, cañones, pinos loricati (árboles milenarios retorcidos)
@@ -113,7 +113,8 @@ Calabria es **la punta de la bota italiana**, la región más pobre y menos visi
 - Turismo Calabria (oficial): `https://www.calabriatourism.it/`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- Calabria suele ser “gran valor” si quieren **Italia barata y auténtica**, pero la logística sin auto limita.\n+- Si el objetivo es optimizar vuelo a BCN, muchas veces conviene **terminar en Sicilia** (más conexiones) y usar Calabria como puente.
+- Calabria es “gran valor” si quieren **Italia barata y auténtica**. Con auto confirmado, toda la región es accesible.
+- Si la combinan con Sicilia, conviene **terminar en Sicilia** para el vuelo a BCN (más conexiones desde CTA/PMO que desde Lamezia).
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “Calabria itinerary”: `https://www.reddit.com/r/ItalyTravel/search/?q=Calabria%20itinerary&restrict_sr=1&sort=relevance&t=all`

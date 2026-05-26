@@ -188,7 +188,7 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 
 El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades reconstruidas en estilo barroco tras el catastrófico terremoto de 1693 (UNESCO). Menos turístico que Palermo/Taormina, más íntimo, con paisaje dramático y pueblos que parecen de película (literalmente — Montalbano se filmó aquí).
 
-**Con 10 noches, el Val di Noto se vuelve alcanzable.** Con auto es ideal; sin auto se puede hacer Noto + Modica en day trips desde Siracusa.
+**Con 10 noches y auto, el Val di Noto completo es parte del itinerario.**
 
 ### Noto (1 día) ⭐
 
@@ -242,7 +242,7 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 - **Qué:** Reserva natural costera, playas vírgenes de agua turquesa, flamencos, tortugas marinas. La playa Calamosche es de las más bellas de Sicilia.
 - **Desde Noto:** 15min auto
 - **En octubre:** Las playas están casi vacías. El agua puede estar fría pero el paisaje es increíble para caminar.
-- **Sin auto:** Imposible llegar (sin transporte público).
+- Requiere auto (15min desde Noto).
 
 ---
 
@@ -339,10 +339,9 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 - Turismo Sicilia (oficial): `https://www.visitsicily.info/en/`
 
 ## 🧠 Consenso foros/blogs (resumen)
-- Para 10 noches, la **combinada sin auto** (Ruta B) aparece consistentemente como la que cubre más en relación esfuerzo. Se pierde el Val di Noto profundo, pero se gana Palermo (que muchos describen como el highlight de Sicilia).
-- **Ruta Este profunda** (Ruta A) es la recomendada si la prioridad es logística simple y barroco del sureste.
-- **Con auto** desbloquea el Val di Noto completo (Ragusa/Scicli/Marzamemi), Vendicari y Trapani interior — vale la pena para la semana más flexible.
+- La combinada con auto (itinerario confirmado) cubre el "best of" completo: Palermo, Valle dei Templi, Trapani/Marsala, Etna, Siracusa y Val di Noto.
 - Múltiples fuentes coinciden: **Siracusa/Ortigia de noche** es uno de los mejores momentos del viaje entero por Sicilia.
+- El Val di Noto (Ragusa/Scicli/Noto) aparece consistentemente como la zona que la gente lamenta no haber incluido en viajes anteriores.
 
 ## 🔎 Hilos y lecturas (links)
 - [10-day Sicily itinerary guide (GoAskALocal)](https://goaskalocal.com/blog/10-day-sicily-itinerary)

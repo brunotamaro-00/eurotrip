@@ -198,8 +198,7 @@ Ver detalle en `desvios_cercanos.md`.
 
 **Tu pack ideal (sin playa):** Bari → Polignano/Monopoli → Alberobello/Locorotondo/Ostuni → **Matera** (1 noche) → **Lecce** → day trip Otranto o Gallipoli.
 
-- **Sin auto:** totalmente viable en oct/nov con tren (Bari–Lecce + FSE).
-- **Con auto:** suma valle d’Itria, Castel del Monte, Altamura, Castro/Ciolo — no hace falta para el pack básico.
+- **Con auto confirmado:** Valle d’Itria, Castel del Monte, Altamura y Castro/Ciolo están todos en el menú. Para el eje Bari–Lecce el tren sigue siendo cómodo (evita aparcar en centros históricos).
 - Del hilo **Alex_O7**, usar solo pueblos, interior y comida; ignorar playas, snorkel y bases veraniegas.
 - **Matera de noche** sigue siendo el highlight #1 (1 noche en cueva).
 - **Polignano:** entre semana. **Gargano:** opcional y baja prioridad en nov.

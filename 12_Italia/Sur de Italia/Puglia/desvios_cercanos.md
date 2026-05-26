@@ -5,19 +5,17 @@
 ## 🏰 Castel del Monte — MEDIA PRIORIDAD
 
 - **Qué:** Castillo octagonal misterioso de Federico II (UNESCO). Arquitectura única, sin función militar ni residencial clara. Nadie sabe para qué se construyó.
-- **Distancia desde Bari:** 60km, 1h auto / 1.5h bus (complejo sin auto)
+- **Distancia desde Bari:** 60km, 1h auto
 - **Precio:** $10
 - **Tiempo:** 1-2 horas
-- **Sin auto:** Bus desde Andria (tren Bari→Andria 1h + bus local 20min). Factible pero requiere planificación.
 
 ---
 
-## 🏛️ Salento — pueblos y costa (oct/nov) — MEDIA con tren / ALTA con auto
+## 🏛️ Salento — pueblos y costa (oct/nov) — ALTA con auto
 
 El sur de Puglia se llama **Salento**. En **octubre/noviembre** el valor está en **Lecce, Otranto, Gallipoli vieja, cuevas y paseos costeros** — no en playa ni baño (agua fría, chiringuitos cerrados, muchos tours en barco reducidos).
 
-**Sin auto:** Lecce como base + 1–2 day trips (Otranto, Gallipoli) en tren FSE — suficiente para oct/nov.  
-**Con auto:** Sumar Castro (Zinzulusa), Puente del Ciolo (mirador), Santa Maria di Leuca (medio día), Mesagne/Oria en ruta a Brindisi.
+**Con auto:** Lecce como base + loop a Castro (Zinzulusa), Puente del Ciolo (mirador), Santa Maria di Leuca (medio día), Mesagne/Oria en ruta a Brindisi. Para el eje Lecce↔Otranto/Gallipoli el tren FSE también funciona si preferís no manejar ese tramo.
 
 ### Prioridades oct/nov (del hilo Alex_O7, sin playa)
 
@@ -49,7 +47,7 @@ El sur de Puglia se llama **Salento**. En **octubre/noviembre** el valor está e
 ### Cisternino
 - **Qué:** Pueblo blanco, famoso por sus "bombette" (rollitos de carne a la parrilla)
 - **Bombetterie:** Carnicerias donde te cocinan la carne ahí mismo. Experiencia pugliese pura.
-- **Con auto** es fácil; sin auto, bus desde Ostuni
+- **Con auto** desde Ostuni (30min)
 
 ### Martina Franca
 - **Qué:** Barroco, más grande que los otros pueblos del valle
@@ -113,28 +111,25 @@ El sur de Puglia se llama **Salento**. En **octubre/noviembre** el valor está e
 
 ---
 
-## 📅 Distribución sugerida (oct/nov — sin foco playa)
+## 📅 Distribución sugerida (oct/nov — con auto)
 
-### 5 días (compacto, sin auto) ⭐
-1. Bari (medio día) + Polignano (tarde; **entre semana**)
-2. Alberobello (mañana) + Matera (tarde/noche en cueva)
-3. Matera mañana (Parco della Murgia) → tren a Lecce
-4. Lecce (día completo)
-5. Day trip Otranto **o** Ostuni + vuelo/tren desde Bari
-
-### 7 días (relajado, ideal oct/nov)
+### 7 días ⭐
 | Día | Plan |
 |-----|------|
-| 1 | Bari ciudad + focaccia |
-| 2 | Polignano + Monopoli (tren) |
-| 3 | Alberobello + Locorotondo |
-| 4 | Matera (dormir en cueva) |
-| 5 | Matera mañana → Lecce tarde |
-| 6 | Lecce |
-| 7 | Otranto o Gallipoli (medio día) + salida |
+| 1 | Llegada Bari. Bari ciudad + focaccia en Vito. |
+| 2 | **Castel del Monte** (mañana) → **Alberobello** + **Locorotondo** (tarde) |
+| 3 | **Cisternino** (bombette almuerzo) + **Ostuni** + **Polignano** (en ruta, entre semana) |
+| 4 | **Matera** (dormir en cueva — reservar anticipado) |
+| 5 | Matera mañana → **Lecce** tarde |
+| 6 | Lecce día completo |
+| 7 | Loop Salento: **Otranto** + **Castro** (Zinzulusa) + Santa Maria di Leuca → devolver auto en Bari aeropuerto |
 
-### 7 días con auto (oct/nov)
-Misma lógica + en un día: **Cisternino** (bombette) + **Ostuni** + **Castel del Monte** o **Altamura** (pan). Opcional: Castro + Ciolo si les sobra medio día desde Lecce.
+### 5 días (compacto)
+1. Bari + Polignano (**entre semana**)
+2. Castel del Monte + Alberobello + Locorotondo
+3. Matera (dormir en cueva)
+4. Matera mañana → Lecce tarde
+5. Lecce + Otranto + salida desde Bari
 
 
 ---
