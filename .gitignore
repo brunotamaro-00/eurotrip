@@ -4,3 +4,4 @@ hostelworld.tsv
 claude.md
 .DS_Store
 **/.DS_Store
+.playwright-mcp/
