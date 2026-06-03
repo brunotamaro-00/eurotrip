@@ -53,6 +53,19 @@
 
 ## 🎭 Experiencias y Tours
 
+### En inglés
+
+- [ ] **Association of Voluntary Guides — AVG** *(en inglés)* — **El free tour más único del viaje**: guías voluntarios puros que llevan hasta 20+ años haciéndolo; fundado en 1951; ~2h cubriendo York Minster, murallas romanas, The Shambles, Clifford's Tower e historia vikinga, normanda y medieval; **no se espera ni se solicita propina** — lo hacen exclusivamente por amor a la ciudad; capacidad máxima 30 personas, reservar online (GRATIS — propina no esperada) — punto de encuentro: **York City Art Gallery, Exhibition Square** — junto a la estatua de William Etty, tablero de "tour times"; salidas diarias **10:30 y 13:15** (todo el año excepto Navidad) `https://www.avgyork.co.uk/`
+- [ ] **Hello York! Free Walking Tour** *(en inglés)* — 90min, ~3km por las calles medievales; jun-sep únicamente vier y sáb a las 10:30 y 13:30; tip-based; el 10% de las propinas va directamente a **Restore** (organización de apoyo a personas sin hogar de York) (GRATIS — **propina sugerida £5-10**) `https://helloyork.co.uk/`
+
+### En español
+
+> ⚠️ **York tiene muy poca oferta de tours en español** — es una ciudad pequeña y la escena de guías hispanohablantes es mínima. La mejor opción real es el **AVG en inglés**: el tour es tan visual y gestual que se entiende fácilmente aunque el inglés no sea perfecto. Como alternativa, GuruWalk lista algunos guías en español pero la disponibilidad es irregular — verificar al momento de reservar.
+
+- [ ] **GuruWalk York** *(inglés / verificar español)* — Marketplace; algunos guías ofrecen tours en español de forma esporádica; filtrar por idioma y confirmar disponibilidad antes de ir (GRATIS — **propina libre**) `https://www.guruwalk.com/york`
+
+> **Consenso foros (Rick Steves + TripAdvisor):** "El AVG es el secreto mejor guardado de York: guías que llevan décadas haciéndolo, conocen cada piedra de la ciudad y lo hacen por amor — no por dinero. Es literalmente el mejor tour gratuito de toda Inglaterra."
+
 - [ ] **Ghost Walk nocturno** - York tiene más "fantasmas documentados" que cualquier otra ciudad de Europa; los tours nocturnos son genuinamente buenos y muy recomendados en foros (**desde £10**) — varios operadores, buscar reviews en TripAdvisor `https://www.theoriginalghostwalk.co.uk/`
 - [ ] **Betty's Tea Room** - Institución local de té desde 1919; scones, pasteles y sándwiches en un salón eduardiano impecable (sin reserva; **cola habitual de 15-30 min** — mejor ir temprano o en horas valle, menos cola entre semana) `https://www.bettys.co.uk/cafe-tea-rooms/our-locations/york`
 - [ ] **Pubs históricos de York** - El Guy Fawkes Inn (donde nació Guy Fawkes, 1570), The Ye Olde Starre Inne (pub más antiguo de York, desde 1644) y The Roman Bath (sobre ruinas romanas reales)

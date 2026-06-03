@@ -108,6 +108,25 @@ Antes de comprar entradas individuales a castillos/sitios HES, evaluar si convie
 
 ---
 
+## 🚶 Free Walking Tour — Hacer el Primer Día
+
+### En inglés
+
+- [ ] **SANDEMANs New Edinburgh** *(en inglés y español)* — La empresa de free tours nació aquí en 2003: Edimburgo es la cuna del modelo; ~2.5h por Old Town, Royal Mile, Greyfriars Kirkyard, Canongate y Holyrood con guías freelancers locales (GRATIS — **propina sugerida £10-12** pp) — punto de encuentro: Mercat Cross en la Royal Mile; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/edinburgh/free-tour-of-edinburgh/`
+- [ ] **City Explorers Free Tour** *(en inglés)* — 3 salidas diarias (10am, 11am y 1pm), grupos pequeños, muy bien valorado en TripAdvisor; cubre Old Town, closes medievales y la historia oscura de la ciudad (GRATIS — **propina sugerida £10-12**) — punto de encuentro: 154 High Street, frente al pub Copper Still `https://www.tripadvisor.com/Attraction_Review-g186525-d10629888-Reviews-City_Explorers_Free_Tour-Edinburgh_Scotland.html`
+- [ ] **Walkative! Edinburgh** *(en inglés)* — Tour de "paga lo que quieras" (~2h); guías con formación académica en historia escocesa; muy bien valorado por su profundidad histórica (propina sugerida £10-15) `https://freewalkingtour.com/edinburgh/`
+- [ ] **Invisible Cities** *(en inglés)* — No es un free tour, pero es único: guías que han vivido en situación de calle en Edimburgo narran la historia de la ciudad mezclada con su experiencia personal; 5★ en TripAdvisor y Google; perspectiva completamente diferente a cualquier otra opción (**~£15 adulto** — precio social; el dinero va directo al guía) `https://invisible-cities.org/edinburgh-walking-tours/`
+
+### En español
+
+- [ ] **ViajarPorEscocia** *(exclusivo en español)* — **La referencia absoluta para hispanohablantes en Escocia**; empresa creada por españoles que viven en Edimburgo desde 2009; únicos operadores con la máxima certificación de VisitScotland; free tour del Old Town (~2h) + free tour de Harry Potter; 5.0/5 en GuruWalk (66 opiniones); salidas 10:30 y 13:30 (GRATIS — propina cultural) `https://viajarporescocia.com/tour/free-tour-edimburgo/`
+- [ ] **Civitatis Free Tour Edimburgo** *(exclusivo en español)* — Tour clásico del Old Town en español con guías seleccionados; ideal para quien llega sin conocimiento previo de la historia escocesa (GRATIS — propina cultural) `https://www.civitatis.com/ar/edimburgo/free-tour/`
+- [ ] **GuruWalk Edimburgo** *(en español)* — Marketplace con guías independientes; varios ofrecen tours en español; filtrar por idioma y leer reviews individuales (GRATIS — **propina libre**) `https://www.guruwalk.com/free-walking-tour-edinburgh`
+
+> **Consenso viajeros:** "ViajarPorEscocia en español es de otro nivel — guías que viven en Edimburgo hace años y conocen la ciudad como su casa. Para Invisible Cities, reservar con días de anticipación: los grupos son pequeños y se agotan. City Explorers para quien quiere 3 opciones de horario en inglés."
+
+---
+
 ## 🌆 Barrios para Caminar
 
 - [ ] **Old Town (Castillo → Holyrood)** - El corazón medieval; Royal Mile, Victoria Street, Cockburn Street, Canongate y Grassmarket todo en menos de 1km²; explorar las "closes" (callejones) que salen perpendiculares a la Royal Mile
