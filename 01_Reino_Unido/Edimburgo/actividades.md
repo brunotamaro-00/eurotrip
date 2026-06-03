@@ -1,176 +1,289 @@
 # 🎯 Actividades en Edimburgo
 
-**Fechas:** 15-18 agosto (3 noches, 4 días)  
+**Fechas:** 15-18 agosto (3 noches, 4 días — viernes a lunes)  
 **Categoría:** Ciudad histórica  
 **Price Level:** $$  
 **Temperatura:** 12-19°C  
 **Sol:** Amanecer ~5:43-5:49 / Anochecer ~20:42-20:49 (~15h de luz)  
-**Nota:** Edinburgh Festival Fringe en agosto - la ciudad estará en su máximo esplendor
-
-## 💰 Explorer Pass (Historic Environment Scotland)
-
-Antes de comprar entradas individuales a castillos/sitios históricos, evaluar si conviene la [Explorer Pass](https://www.historicenvironment.scot/visit-a-place/explorer-passes/).
-
-- **Precio adulto:** £42-50
-- **Validez:** 14 días consecutivos, 1 visita por sitio
-- **Incluye:** 78+ sitios — Edinburgh Castle, Stirling Castle, Urquhart Castle, Fort George, y más
-- **Bonus:** 20% descuento en audioguías de Edinburgh Castle, Stirling Castle y Glasgow Cathedral
-- **Importante:** Reservar online con anticipación (se agotan semanas antes en agosto). No incluye Holyrood Palace ni propiedades del National Trust
-
-## 📍 Imprescindibles
-
-### Edinburgh Castle
-- **Tiempo:** 2-3 horas
-- **Reserva:** Recomendada online (también para ahorrarse la fila)
-- **Notas:** Vistas espectaculares, Joyas de la Corona escocesas. Todos los días a las 13h se dispara un cañón (excepto domingos)
-
-### Royal Mile
-- **Gratis, tiempo:** 2-3 horas caminando
-- **Qué ver:** Calle principal medieval desde castillo a Holyrood
-- **Notas:** Lleno de tiendas, pubs, artistas callejeros (aún más en Festival). Los pubs sobre Royal Mile son más turísticos — buscar locales fuera de la calle principal
-
-### Victoria Street
-- **Gratis, tiempo:** 30-60 min
-- **Qué ver:** Calle colorida y curva, dicen que fue inspiración para el Callejón Diagon de HP
-- **Comer:** OINK — sandwiches de cerdo asado, baratos y ricos
-
-### Real Mary King's Close
-- **Tiempo:** 1.5 horas (tour guiado)
-- **Qué es:** Callejón subterráneo "congelado en el tiempo" debajo de la Royal Mile — se cerró y quedó preservado. Tours de cómo era la vida en el siglo XVII
-- **Nota:** Considerada una de las mejores atracciones de Edimburgo
-
-### Arthur's Seat
-- **Gratis, tiempo:** 2-3 horas
-- **Qué ver:** Volcán extinto, caminata, vistas 360° de Edimburgo
-- **Notas:** Llevar calzado cómodo, puede hacer viento
-
-### Calton Hill
-- **Gratis, tiempo:** 1 hora
-- **Qué ver:** Colina con monumentos, vistas panorámicas. Se ve el Palacio de Holyrood y el Parlamento
-- **Mejor momento:** Atardecer
-
-### Greyfriars Bobby + Cementerio de Greyfriars
-- **Gratis**
-- **Qué ver:** Escultura del perrito Bobby (famoso por quedarse junto a la tumba de su dueño). El cementerio tiene una tumba de "Tom Riddle" y dicen que JK Rowling sacó muchos nombres de personajes de HP de las lápidas. Tours de fantasmas nocturnos populares aquí
-- **Tiempo:** 30-60 min
-
-### Dean Village
-- **Gratis, tiempo:** 1 hora
-- **Qué es:** Antigua aldea que quedó dentro de la ciudad, aspecto de cuento. Ideal para pasear y fotos
-
-### Grassmarket
-- **Gratis**
-- **Qué es:** Plaza histórica debajo del castillo, hoy zona de vida nocturna y pubs. Buen lugar para salir de noche
-
-## 🏛️ Museos y Patrimonio
-
-- [ ] **National Museum of Scotland** - GRATIS, historia escocesa
-- [ ] **Scottish National Gallery** - GRATIS, arte
-- [ ] **National Portrait Gallery** - GRATIS
-- [ ] **Camera Obscura** - ilusiones ópticas (**£24.95 adulto**) `https://camera-obscura.co.uk/view-tickets`
-- [ ] **Surgeon's Hall Museum** - £8, museo de cirujanos con muestras de cuerpos. Random pero interesante
-- [ ] **Parlamento escocés** - GRATIS todos los días excepto domingos. Se puede visitar
-
-### Palacio de Holyrood
-- **Qué es:** Palacio oficial de la reina en Escocia
-- **Nota:** Está bueno pero no es el "mejor" palacio — si van a ver palacios en otros países, evaluar si vale la pena acá
-
-## 🎨 Experiencias Únicas
-
-- [ ] **Edinburgh Festival Fringe** - ⭐⭐⭐⭐⭐ ESTARÁN EN PLENO FESTIVAL - teatro, comedia, música por toda la ciudad
-- [ ] **Edinburgh Military Tattoo** - ⭐⭐⭐⭐⭐ Espectáculo nocturno de bandas militares, gaitas, desfiles frente al castillo iluminado (RESERVAR CON MUCHA ANTICIPACIÓN)
-- [ ] **Ghost Tour** - historias de fantasmas (precio varía por empresa; reservar online en agosto)
-- [ ] **Whisky Experience** - cata/experiencia (**Silver Tour £25**) `https://www.scotchwhiskyexperience.co.uk/tour/silver-tour/`
-- [ ] **Pub tradicional escocés** - Probar haggis y cerveza local
-
-### Ruta Harry Potter
-- **The Elephant House:** Café donde JK Rowling escribía HP (Victoria Street zona)
-- **Hotel Balmoral:** Donde terminó de escribir el último libro
-- **Cementerio Greyfriars:** Tumba de Tom Riddle + otros nombres de personajes
-- **Victoria Street:** Inspiración del Callejón Diagon
-
-## 🍽️ Gastronomía / Costumbres
-
-- **Fish & chips:** Dicen que los de Edimburgo son los mejores de Escocia
-- **Haggis:** Comida nacional, a veces con salsa de whisky
-- **Irn-Bru:** Refresco local escocés, hay que probarlo
-- **Fríen todo:** Es parte de la cultura gastronómica
-- **Comer en OINK** (Victoria Street): Sandwiches de cerdo asado, baratos y ricos
-
-## 🌆 Barrios
-
-- **Old Town:** Medieval, castillo, Royal Mile
-- **New Town:** Georgiano, elegante, plano, restaurantes y cafés muy buenos
-- **Leith:** Puerto, moderno, restaurants
-- **Stockbridge:** Bohemio, mercado los domingos, pubs, río. Barrio local con vida real (20-25 min caminando al centro)
-
-## 📅 Días de la Semana (para planificar)
-
-| Fecha | Día | Nota |
-|-------|-----|------|
-| 15 ago | Viernes | Llegada desde York (tren ~2.5h) |
-| 16 ago | Sábado | |
-| 17 ago | Domingo | Stockbridge Market (domingos) |
-| 18 ago | Lunes | Salida a Highlands (auto) |
-
-## 🎪 Eventos Especiales en Agosto
-
-### Edinburgh Festival Fringe ⭐⭐⭐⭐⭐
-- **Qué es:** El festival de artes escénicas más grande del mundo
-- **Cuándo:** Todo agosto
-- **Dónde:** Por TODA la ciudad (Royal Mile lleno de artistas)
-- **Web:** https://www.edfringe.com/
-- **Nota:** La ciudad entera se transforma, es una experiencia única
-
-### Edinburgh Military Tattoo ⭐⭐⭐⭐⭐
-- **Qué es:** Espectáculo nocturno militar con bandas, gaitas, desfiles
-- **Dónde:** Frente al Castillo de Edimburgo iluminado
-- **Cuándo:** Todo agosto
-- **Reserva:** **SE RESERVA CON MUCHA ANTICIPACIÓN** (meses antes)
-- **Web:** https://www.edintattoo.co.uk/
-
-### Highland Games
-- **Qué es:** Competencias tradicionales escocesas
-- **Buscar:** https://www.shga.co.uk/
-- **Nota:** Verificar si hay alguno cerca durante estas fechas
-
-### Castillos en modo verano
-- Muchos castillos escoceses hacen en agosto: recreaciones medievales, visitas nocturnas, conciertos al aire libre
-- **Ejemplos:** Stirling Castle, Urquhart Castle
-- **Buscar:** En sitios oficiales de Historic Environment Scotland
-
-## 💡 Tips
-
-- ⚠️ **Festival Fringe = LLENO** - reservar alojamiento, Military Tattoo, tours con MUCHA anticipación
-- Lluvia probable, llevar impermeable
-- Muchos free walking tours
-- Pubs cierran 01:00 (más tarde que Inglaterra)
-- Con 3 días, enfocarse en lo esencial + disfrutar el Festival
-- No intentar ver todo, priorizar experiencias
-
-## 🔗 Enlaces
-
-- VisitScotland: https://www.visitscotland.com/
-- Edinburgh Festival: https://www.edfringe.com/
-- Military Tattoo: https://www.edintattoo.co.uk/
 
 ---
 
-## ⚠️ Reservas y precios oficiales (2026)
+## 💰 Explorer Pass (Historic Environment Scotland)
 
-- **Edinburgh Castle**: online **£23.50** adulto (walk‑up £26). Se agota con anticipación en agosto. Fuente (oficial): `https://www.edinburghcastle.scot/visit/tickets-prices/`
-- **Military Tattoo (Fringe)**: se compra por ticketing oficial; el precio depende de sector/fecha y no siempre aparece “plano” en la landing. Fuente (oficial): `https://www.edintattoo.co.uk/tickets/tattoo-2026`
+Antes de comprar entradas individuales a castillos/sitios HES, evaluar si conviene la [Explorer Pass](https://www.historicenvironment.scot/visit-a-place/explorer-passes/).
 
-## 🧯 Anti-scam / trampas típicas (festival)
+- **Precio adulto:** £42-50
+- **Validez:** 14 días consecutivos, 1 visita por sitio
+- **Incluye:** 78+ sitios HES — Edinburgh Castle, Stirling Castle, Urquhart Castle, Fort George, y más
+- **Bonus:** 20% descuento en audioguías de Edinburgh Castle y Stirling Castle
+- **En este archivo, cubre:** ✅ Edinburgh Castle — solo ese
+- **NO cubre:** Palace of Holyroodhouse (Royal Collection Trust), Real Mary King's Close (operador privado), Gladstone's Land (NTS — organización separada), Scott Monument, Camera Obscura, Scotch Whisky Experience ni ningún otro de la lista
+- **Importante:** Reservar online con anticipación (se agotan en agosto). HES ≠ NTS: son dos organizaciones distintas; sus membresías/pases no se intercambian
 
-- Agosto = **crowds** + precios altos: reservar y no improvisar “lo grande” el mismo día.
-- Royal Mile es hermosa pero muy turística: comer/beber suele rendir más en calles laterales.
+---
 
-## 🧠 Consenso Reddit/foros (resumen)
+## 🏰 Sitios Históricos y Monumentos
 
-- Con 3 noches: **Castillo + Royal Mile + 1 día de vibe Festival** suele ser el combo que más satisfacción da.
-- Si el clima está feo, Edimburgo sigue rindiendo (museos, pubs, tours).
+- [ ] **Edinburgh Castle** ✅ Explorer Pass - Fortaleza del s. XII en lo alto de un volcán extinto; Honours of Scotland (corona, cetro y espada), Crown Room con la Piedra del Destino y cañón disparado a la 1pm (**£21.50 online, £24 en puerta** — adulto; gratis con Explorer Pass) — reservar con semanas de anticipación en agosto; llegar a las 9:30 (apertura) `https://www.edinburghcastle.scot/plan-your-visit/tickets/`
+- [ ] **Real Mary King's Close** - Callejones subterráneos del s. XVII preservados bajo la Royal Mile; tour guiado de 1.5h por calles y habitaciones tal como quedaron; una de las mejores atracciones de la ciudad (**£35 adulto**) — pre-booking obligatorio en agosto; se agota `https://www.realmarykingsclose.com/tickets-prices/`
+- [ ] **Palace of Holyroodhouse** - Residencia oficial del Rey en Escocia; Apartments de Estado, habitaciones de María Reina de Escocia y ruinas de la Abadía de Holyrood incluidas (**£22 online, £26 en puerta** — adulto) `https://www.rct.uk/visit/palace-of-holyroodhouse`
+- [ ] **Holyrood Abbey (ruinas)** - Incluida con el ticket de Holyroodhouse; abadía del s. XII en ruinas espectaculares, quemada varias veces; arquitectura gótica sobresaliente
+- [ ] **Scottish Parliament** - Edificio contemporáneo polémico y fascinante; cuando el Parlamento está en sesión se puede asistir a los debates desde la galería pública (GRATIS) `https://www.parliament.scot/visiting/plan-a-visit`
+- [ ] **Greyfriars Kirkyard** - Cementerio del s. XVI donde Rowling encontró los nombres de Harry Potter: tumba de Thomas Riddell, McGonagall, Moody, entre otros; Bobby (el skye terrier leal) tiene estatua en la entrada (GRATIS) — también punto central de los ghost tours nocturnos
+- [ ] **Scott Monument** - La torre gótica más grande dedicada a un escritor en el mundo (61m); 287 escalones para subir a la cima con vistas sobre Princes Street Gardens y New Town (**~£10 adulto**) `https://www.edinburghmuseums.org.uk/venue/scott-monument`
+- [ ] **Calton Hill** - Colina con el inacabado "National Monument" (réplica del Partenón) y el Nelson Monument; vistas 360° de la ciudad y el Firth of Forth — mejor al atardecer (GRATIS subir; Nelson Monument interior ~£8)
+- [ ] **Gladstone's Land** - Tenement del s. XVII en la Royal Mile perfectamente conservado y amueblado; NTS (no Explorer Pass) (**~£8 adulto**) `https://www.nts.org.uk/visit/places/gladstones-land`
+- [ ] **John Knox House** - Una de las casas medievales más antiguas de Edimburgo (s. XV-XVI); residencia del reformador protestante; importante para entender la Reforma escocesa (**~£6 adulto**) `https://www.scottishstorytellingcentre.com/john-knox-house/`
+- [ ] **Dean Village** - Antigua aldea de molinos a orillas del Water of Leith, absorbida por la ciudad en el s. XIX; aspecto de cuento, prácticamente sin turistas — ideal para fotos y descanso del circuito principal (GRATIS)
+- [ ] **Grassmarket** - Plaza histórica del s. XV al pie del castillo; fue el lugar de ejecuciones públicas; hoy zona de pubs, restaurantes y mercado de fin de semana (GRATIS; mejor viernes noche o sábado)
+- [ ] **George Heriot's School (exterior)** - Escuela del s. XVII con cuatro torres y sistema de houses; muy señalada como la principal inspiración para Hogwarts; visible desde Greyfriars Kirkyard (GRATIS — solo exterior)
+- [ ] **Canongate Tolbooth** - Antigua prisión y ayuntamiento del s. XVI reconvertida en museo; ahora alberga "The People's Story" — historia social del pueblo de Edimburgo (GRATIS)
 
-## 🔎 Hilos y lecturas (links)
+---
 
-- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/Edinburgh/search/?q=fringe%20tips&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/uktravel/search/?q=edinburgh%203%20days&restrict_sr=1&sort=relevance&t=all`
+## ⛪ Iglesias y Catedrales
+
+- [ ] **St Giles' Cathedral** - La catedral del corazón de la Royal Mile; gótica, del s. XIV; la Thistle Chapel interior es excepcional — estallido de talla en madera para la Orden del Cardo, el orden de caballería más antiguo de Escocia (GRATIS; donativo sugerido) `https://www.stgilescathedral.org.uk/`
+- [ ] **Greyfriars Kirk** - Iglesia del s. XVII donde se firmó el Solemn League and Covenant (1638); rodeada por el cementerio más famoso de la ciudad; atmosférica especialmente al atardecer (GRATIS)
+- [ ] **Canongate Kirk** - Iglesia del Royal Mile donde están enterrados Adam Smith, el poeta Robert Ferguson y Agnes McLehose (la musa de Burns); el jardín interior tiene un crucifijo memorable (GRATIS)
+- [ ] **St Mary's Episcopal Cathedral** - Catedral victoriana neo-gótica en el West End de New Town; menos visitada que St Giles pero arquitectónicamente espectacular (GRATIS)
+
+---
+
+## 🏛️ Museos y Galerías
+
+*(La mayoría gratis — no escatimar)*
+
+- [ ] **National Museum of Scotland** - Historia escocesa desde los Pictos hasta la modernidad en 5 plantas; colecciones de ciencia, arte, mundo natural y cultura escocesa — genuinamente uno de los mejores museos del UK (GRATIS) `https://www.nms.ac.uk/national-museum-of-scotland/`
+- [ ] **Scottish National Gallery** - Colección de arte europeo medieval al impresionista; Velázquez, Raphael, Tiziano y la colección más grande de pinturas de Turner fuera de Londres (GRATIS) `https://www.nationalgalleries.org/visit/scottish-national-gallery`
+- [ ] **Scottish National Portrait Gallery** - Edificio neo-gótico espectacular en New Town; retratos de Mary Reina de Escocia, Bonnie Prince Charlie y figuras modernas; la arquitectura vale más que el contenido (GRATIS) `https://www.nationalgalleries.org/visit/scottish-national-portrait-gallery`
+- [ ] **Scottish National Gallery of Modern Art (Modern One & Two)** - Arte moderno y contemporáneo en dos edificios en Dean Village; jardines con esculturas de Antony Gormley y Eduardo Paolozzi (GRATIS) `https://www.nationalgalleries.org/visit/scottish-national-gallery-of-modern-art`
+- [ ] **Writers' Museum** - Lady Stair's Close, off the Royal Mile; manuscritos, objetos y habitaciones de Walter Scott, Robert Burns y Robert Louis Stevenson; pequeño e íntimo (GRATIS) `https://www.edinburghmuseums.org.uk/venue/writers-museum`
+- [ ] **Museum of Edinburgh (Huntly House)** - Historia local en un edificio del s. XVI en Canongate; el original del Covenant se guarda aquí (GRATIS) `https://www.edinburghmuseums.org.uk/venue/museum-of-edinburgh`
+- [ ] **Museum of Childhood** - Colección enorme de juguetes y juegos de siglos; curioso para adultos y niños (GRATIS) `https://www.edinburghmuseums.org.uk/venue/museum-of-childhood`
+- [ ] **Surgeons' Hall Museum** - Colección anatómica del Royal College of Surgeons; espécimenes patológicos, historia forense y quirúrgica; perturbador y fascinante en partes iguales (**~£8 adulto**) `https://museum.rcsed.ac.uk/`
+- [ ] **Camera Obscura & World of Illusions** - Cámara oscura victoriana con vistas en tiempo real de la ciudad + 5 plantas de ilusiones ópticas interactivas; entretenido para un día de lluvia (**~£18-20 adulto** — verificar web oficial) `https://www.camera-obscura.co.uk/`
+- [ ] **The Scotch Whisky Experience** - Tour-cata con guía; Silver Tour incluye un tasting de whisky de las 4 regiones escocesas; también tienen la mayor colección privada de whisky del mundo en exhibición (**Silver Tour £24 adulto**) `https://www.scotchwhiskyexperience.co.uk/`
+
+---
+
+## 👁️ Miradores
+
+- [ ] **Arthur's Seat** - Cima del volcán extinto a 251m; las vistas abarcan toda la ciudad, el Firth of Forth y las Pentland Hills — mejor al amanecer (~5:45) cuando no hay nadie o al atardecer (~20:45); caminata de 2-3h desde el portón de Holyrood Park (GRATIS)
+- [ ] **Calton Hill** - 20 min caminando desde la Royal Mile; vistas 360° de la ciudad, el castillo y el Firth of Forth; mejor al atardecer; los monumentos son pintorescos aunque inacabados (GRATIS subir; Nelson Monument ~£8 para entrar)
+- [ ] **Salisbury Crags** - Acantilado dramático en Holyrood Park justo debajo de Arthur's Seat; Radical Road sigue la base de los acantilados — vistas de la ciudad sin el esfuerzo de subir todo el volcán (GRATIS)
+- [ ] **Scott Monument** - 287 escalones de caracol, cada plataforma con mejores vistas; perspectiva única sobre Princes Street Gardens desde arriba (**~£10** — ver Sitios Históricos)
+- [ ] **Castle Esplanade** - El explanada frente al castillo da vistas espectaculares hacia New Town y el Firth of Forth; en agosto esta es la tribuna del Military Tattoo (GRATIS acceder al exterior)
+
+---
+
+## 🌳 Parques y Naturaleza
+
+- [ ] **Holyrood Park** - 640 hectáreas de naturaleza volcánica dentro de la ciudad; incluye Arthur's Seat, Salisbury Crags, St Margaret's Loch y vistas sin igual — el contraste ciudad/naturaleza más extremo del itinerario (GRATIS)
+- [ ] **Princes Street Gardens** - Jardines en el antiguo Loch formado en el valle bajo el castillo; perfectos para picnic y descanso entre atracciones de Old y New Town; hay florales Band Stand y un pequeño carrusel (GRATIS)
+- [ ] **Royal Botanic Garden** - 72 hectáreas de jardines botánicos a 15 min del centro; jardín chino, glasshouses victorianas y senderos tranquilos; ideal para mañanas tranquilas (**Jardines GRATIS; Glasshouses ~£8 adulto**) `https://www.rbge.org.uk/visit/edinburgh/`
+- [ ] **The Meadows** - Amplio parque al sur de Old Town; popular entre estudiantes y locals; sin turistas; cafés independientes alrededor en Marchmont `https://edinburghmuseums.org.uk`
+- [ ] **Dean Village + Water of Leith Walkway** - Caminata a lo largo del río desde Dean Village hasta Stockbridge; una hora, completamente tranquila, sin autos; bellísima en agosto (GRATIS)
+
+---
+
+## 🛒 Mercados
+
+- [ ] **Stockbridge Market** - Mercado de barrio con productores locales, comida artesanal y quesos; el más auténtico y local de Edimburgo (**📅 Solo domingos** 10am-5pm) `https://www.stockbridgemarket.com/`
+- [ ] **Edinburgh Farmers' Market** - Productores escoceses directos; Castle Terrace, junto al castillo (**📅 Solo sábados** 9am-2pm) `https://www.edinburghfarmersmarket.co.uk/`
+- [ ] **Grassmarket Market** - Puestos de artesanía y comida en la plaza histórica bajo el castillo; ambiente animado en sábados de agosto (informal, sin web fija)
+
+---
+
+## 🎭 Festival, Teatro, Música y Shows
+
+- [ ] **Edinburgh Festival Fringe (7-31 ago)** - El festival de artes más grande del mundo; 3.500+ espectáculos en 300+ locales por toda la ciudad; cientos de shows GRATUITOS en la Royal Mile cada día + tickets desde £5 en venues; la ciudad entera es un escenario `https://www.edfringe.com/`
+- [ ] **Royal Edinburgh Military Tattoo (7-29 ago, Lu-Sáb, 21h)** - Espectáculo de bandas militares, gaitas y desfiles frente al Castillo iluminado; "A Call to Gather" (tema 2026, Royal Air Force como servicio líder) — **tickets casi seguramente agotados** (se venden meses antes); check resale o pararse en Royal Mile a las 21h para escuchar las gaitas (£21.60-£64 según sector) `https://www.edintattoo.co.uk/tickets/tattoo-2026`
+- [ ] **Edinburgh International Festival (agosto)** - Festival "curado" paralelo al Fringe; ópera, danza contemporánea, música clásica y teatro en venues principales; tickets desde £8 `https://www.eif.co.uk/`
+- [ ] **Edinburgh Art Festival (29 jul-23 ago)** - Exposiciones de arte en galerías por toda la ciudad; muchas GRATIS; combina bien con los museos nacionales `https://www.edinburghartfestival.com/`
+- [ ] **Edinburgh International Book Festival (agosto)** - Charlas, lecturas y debates con autores internacionales en Charlotte Square; tickets desde £8-15; algunos eventos GRATIS `https://www.edbookfest.co.uk/`
+- [ ] **Ghost Tour nocturno** - Edimburgo tiene más "avistamientos documentados" por km² que cualquier otra ciudad de Europa; los tours de City of the Dead y Mercat Tours son los más recomendados en Reddit (**desde £10-15**) — reservar en agosto `https://www.mercattours.com/` / `https://www.blackhart.uk.com/`
+- [ ] **Ceilidh (baile tradicional escocés)** - Varios locales organizan ceilidhs en agosto para turistas y locales; animado, físico y muy divertido aunque no sepas bailar; buscar cartelera en Assembly Rooms o locales de Grassmarket (**desde £10-15 entrada**)
+- [ ] **Sandy Bell's Folk Pub** - El pub de música folk tradicional más famoso de Edimburgo; sesiones de trad escocés la mayoría de las noches; sin cobro entrada (solo la pinta) `https://sandybells.co.uk/`
+
+---
+
+## 🌆 Barrios para Caminar
+
+- [ ] **Old Town (Castillo → Holyrood)** - El corazón medieval; Royal Mile, Victoria Street, Cockburn Street, Canongate y Grassmarket todo en menos de 1km²; explorar las "closes" (callejones) que salen perpendiculares a la Royal Mile
+- [ ] **New Town** - Planificado en 1766; arquitectura georgiana de piedra arenisca; George Street para cafés y tiendas; Charlotte Square para jardines; contraste total con Old Town
+- [ ] **Stockbridge** - Barrio bohemio y local al norte del centro; el más auténtico de Edimburgo para locales; Water of Leith, mercado dominical, pubs y cafés independientes sin turistas
+- [ ] **Leith** - El puerto histórico de Edimburgo, hoy renovado con galerías, restaurantes y bares de calidad; The Shore (paseo a orillas del río Leith) es el mejor destino gastronómico fuera del circuito turístico; 30 min caminando o 10 min en bus desde el centro
+- [ ] **Dean Village** - Aldea medieval en el Water of Leith; la calle Bells Brae y el puente Dean Bridge son spots icónicos; llegar en 20 min caminando desde el centro (ver Parques)
+- [ ] **Bruntsfield / Marchmont** - Barrio universitario al sur de The Meadows; cafeterías independientes excelentes, panaderías y librerías; cero turistas, cien por cien vida de barrio
+- [ ] **Grassmarket** - Por la mañana, mercado y cafés; por la noche, el epicentro de la vida nocturna local con decenas de pubs sobre la plaza
+
+---
+
+## 🥃 Gastronomía Escocesa
+
+*(Platos a probar al menos una vez — buscar en pubs y cafeterías locales, evitar la Royal Mile para comer)*
+
+**Platos:**
+- [ ] **Haggis con neeps and tatties** - El plato nacional; picadillo de asaduras de cordero con avena, cocinado en tripa + nabo triturado (neeps) + puré de papa (tatties); probar con salsa de whisky
+- [ ] **Cullen Skink** - Sopa de ahumado de haddock (eglefino), papas y cebolla; típicamente escocesa y deliciosa; buscarla en pubs de la zona de Leith
+- [ ] **Scotch Broth** - Caldo de cordero con cebada perlada y verduras; plato reconfortante que sigue siendo muy común en pubs escoceses
+- [ ] **Scotch Pie** - Tarta de masa dura rellena de carne picada; un clásico de las panaderías escocesas y los estadios de fútbol; Greggs o panaderías locales, £2-3
+- [ ] **Cranachan** - Postre escocés por excelencia: avena tostada, crema, miel, frambuesas y whisky mezclados; refrescante y muy de verano
+
+**Snacks y bebidas:**
+- [ ] **Irn-Bru** - La bebida gaseosa nacional de Escocia; naranja brillante, sabor único e inimitable; obligatorio probarlo una vez
+- [ ] **Shortbread escocés** - Galletita de manteca pura; diferente a cualquier shortbread importado; Walker's es el estándar pero las bakeries locales tienen versiones mejores
+- [ ] **OINK (Victoria Street 34 o 82 High Street)** - El mejor bocadillo barato de Edimburgo según Reddit; cerdo asado con rellenos varios en pan artesanal; £5-8, cola esperada, vale completamente la pena `https://oinkhogroast.co.uk/`
+
+**Dónde comer bien sin gastar:**
+- [ ] **The Piemaker (Cockburn Street)** - Tartas y pies artesanales desde £4; muy populares entre trabajadores y estudiantes locales
+- [ ] **Locals cerca de Canonmills / Stockbridge / Leith** - Restaurantes con relación calidad-precio muy superior a la Royal Mile para el mismo tipo de comida
+
+---
+
+## ⚡ Harry Potter en Edimburgo
+
+*(Lugares donde JKR vivió, escribió y se inspiró — todos caminables en Old Town)*
+
+- [ ] **Victoria Street** - Calle colorida y curva del s. XIX, ampliamente considerada la inspiración del Callejón Diagón; mejor foto desde arriba de la curva mirando hacia abajo (GRATIS)
+- [ ] **Greyfriars Kirkyard** - Tumba de Thomas Riddell (el "Tom Riddle" original), lápidas con McGonagall, Moody, Moodie y docenas de otros apellidos usados por Rowling; imperdible para fans (GRATIS — ver también Sitios Históricos)
+- [ ] **The Elephant House (George IV Bridge 21)** - El café donde JKR escribió partes de las primeras novelas; **reabrió el 29 diciembre 2025** tras 4 años cerrado por el incendio de 2021; la mesa que usó Rowling fue recuperada y está de vuelta; esperar cola en agosto `https://www.elephanthouse.biz/`
+- [ ] **The Elephant House — sucursal Victoria Street** - Nueva sucursal abierta en 2024 en la misma calle del Callejón Diagón; menos famosa, menos cola (GRATIS entrar a tomar algo)
+- [ ] **Balmoral Hotel (exterior)** - JKR terminó de escribir "Harry Potter y las Reliquias de la Muerte" en la suite 552; talló iniciales en una lechuza de mármol en la habitación; el exterior y el reloj del hotel son imperdibles (GRATIS ver desde la calle)
+- [ ] **George Heriot's School (exterior)** - Escuela del s. XVII con cuatro torres y un sistema de casas que muchos señalan como la inspiración más directa de Hogwarts; visible desde Greyfriars (GRATIS)
+- [ ] **Spoon Café (Nicolson Street 6A)** - El edificio fue el restaurante Nicolson's donde JKR escribía siendo madre soltera con bebé en brazos; el local en sí es diferente ahora (Spoon Café), pero el edificio es el mismo
+
+---
+
+## 📸 Spots Fotográficos
+
+1. **Victoria Street (desde arriba)** - La curva colorida clásica; mejor antes de las 9am
+2. **Dean Village + puente Dean Bridge** - Reflejo del agua y arquitectura de cuento
+3. **Grassmarket con el castillo de fondo** - La cara trasera del castillo es más fotogénica que la frontal
+4. **Canongate / Royal Mile al amanecer** - Adoquines y casas de piedra sin turistas
+5. **Calton Hill al atardecer** - Castillo, New Town y el Firth de fondo
+6. **Greyfriars Kirkyard** - Lápidas medievales y la silueta de Heriot's School al fondo
+7. **Portón de Holyrood Park + Arthur's Seat de fondo** - Sin salir del barrio
+8. **Princes Street Gardens desde el Scott Monument** - El contraste castillo / jardines / New Town
+
+---
+
+## 🎉 Eventos Especiales: 15-18 Agosto 2026
+
+- [ ] **Edinburgh Festival Fringe (activo todo el tiempo)** - Buscar el programa antes de llegar; hundreds of free acts en la Royal Mile de 10am a 22h; shows de pago recomendados: reservar 1-2 semanas antes para comedias más populares `https://www.edfringe.com/`
+- [ ] **Royal Edinburgh Military Tattoo (activo, Lu-Sáb, 21:00)** - Check resale platforms para entradas; si no, posicionarse en Calton Hill o el Royal Mile a las 21:00 para escuchar las gaitas y ver el castillo iluminado `https://www.edintattoo.co.uk/`
+- [ ] **Crieff Highland Gathering — 16 agosto (sábado)** - Highland Games a ~1h en auto de Edimburgo; lanzamiento de tronco (caber toss), tiro de piedra, gaitas y danza; una de las más auténticas de agosto `https://www.crieffhighlandgathering.com/`
+- [ ] **El cañón de la 1pm (One O'Clock Gun)** - Disparado desde el castillo todos los días a la 1pm (excepto domingos y festividades); sonido retumba por todo Old Town; punto de encuentro histórico — llegar a la Royal Mile antes de la 1pm para vivirlo
+- [ ] **Edinburgh Art Festival (hasta 23 ago)** - Exposiciones de arte en galerías por toda la ciudad; muchas GRATIS; buscar programa `https://www.edinburghartfestival.com/`
+- [ ] **Edinburgh International Book Festival (agosto)** - Activo durante las fechas; charlas y eventos en Charlotte Square `https://www.edbookfest.co.uk/`
+- **Nota:** El **Stirling Highland Games** es el 15 de agosto (día de llegada desde York) — si el tren de York llega a Edimburgo relativamente temprano, Stirling está a 50 min en tren para una desviación breve, aunque lo más probable es que el primer día sea de instalación y exploración del Fringe.
+
+---
+
+## 🎫 City Cards y Pases
+
+- **Explorer Pass (Historic Environment Scotland)** - Incluye Edinburgh Castle, Stirling Castle, Urquhart Castle, Fort George, Caerlaverock y 75+ sitios más; válido 14 días desde el primer uso (**£42-50 adulto**) — muy rentable si se combina con Highlands `https://www.historicenvironment.scot/visit-a-place/explorer-passes/`
+- **Royal Edinburgh Ticket** - Incluye Palace of Holyroodhouse + Queen's Gallery + autobús hop-on hop-off (**~£50 adulto**) — solo conviene si no tienes el Explorer Pass y querías los dos; evaluar antes de comprar `https://www.rct.uk/visit/palace-of-holyroodhouse`
+
+---
+
+## 📅 Días de la Semana
+
+| Fecha | Día | Nota |
+|-------|-----|------|
+| 15 ago | Viernes | Llegada desde York (York → Edinburgh Waverley, ~2.5h, LNER). Fringe y Tattoo activos. |
+| 16 ago | Sábado | Edinburgh Farmers' Market (mañana). Crieff Highland Gathering a ~1h si se quiere. |
+| 17 ago | Domingo | **Stockbridge Market** (10am-5pm). Día completo ciudad. |
+| 18 ago | Lunes | Salida a Highlands en auto. |
+
+---
+
+## 💡 Tips
+
+**Alojamiento y planificación:**
+- Agosto en Edimburgo = los precios más altos del año. El Fringe triplica el costo de los alojamientos; si no está reservado, hacerlo ahora. La ciudad tiene 350% de ocupación en las últimas semanas de agosto.
+- El Military Tattoo se vende en minutos cuando abren ventas en otoño del año anterior; chequear plataformas de reventa si no consiguen entrada directa.
+
+**Festival Fringe:**
+- Explorar el programa en `edfringe.com` antes de llegar; los mejores shows de comedia, música y teatro se agotan 1-2 semanas antes.
+- Muchísimos shows son GRATIS en la Royal Mile, en los jardines de Holyrood y en plazas de barrio; no hace falta gastar para vivir el Fringe.
+- Las venues más pequeñas (Underbelly, Pleasance, Gilded Balloon, Assembly) producen los shows más interesantes; las grandes atracciones de la Royal Mile son más turísticas.
+
+**Royal Mile y Old Town:**
+- La Royal Mile en sí es turística y cara para comer/beber; las "closes" laterales (Cockburn Street, Victoria Street, Candlemaker Row, Grassmarket) son más auténticas.
+- Ir a la Royal Mile antes de las 9am es una experiencia completamente diferente a las 11am; el contraste es enorme.
+- Los pubs de Grassmarket y Cowgate son los locales; los de la Royal Mile son para turistas.
+
+**Transporte local:**
+- Lothian Buses cubre toda la ciudad: £1.80 billete único, £4.50 day ticket (pagar en efectivo o app Lothian Buses); no hay metro.
+- Tranvía desde el aeropuerto hasta St Andrew Square: £7.50 adulto (25 min, cada 7 min en horas punta).
+- Edimburgo es muy caminable; Old Town a New Town a Stockbridge puede hacerse todo a pie.
+- Para Leith: bus 12 o 16 desde Princes Street (20 min).
+
+**Arthur's Seat:**
+- **El amanecer (5:45am) es la experiencia top de Edimburgo** según Reddit; sin gente, luz dorada y silencio total. Llevar abrigo — hace frío a esa hora aunque sea agosto.
+- Subida principal desde el portón de Queen's Drive cerca de Holyrood Palace; ~2-3h ida y vuelta según ruta.
+- Llevar capas; la cima es significativamente más fría y con más viento que la ciudad.
+
+**Pubs y vida nocturna:**
+- Los pubs en Escocia cierran a la 1am (más tarde que en Inglaterra); el Fringe extiende el ambiente hasta más tarde en locales especiales.
+- Sandy Bell's Pub (Forrest Road) tiene música folk tradicional todas las noches; no cobran entrada.
+- El ceilidh es mucho más divertido que lo que suena; probarlo aunque no se sepa bailar.
+
+**Clima:**
+- El "haar" (niebla marina) puede aparecer de repente desde el Firth of Forth; típicamente en las mañanas. Llevar siempre impermeable liviano aunque salga con sol.
+- Agosto en Edimburgo puede ser fresco (12-15°C por las noches); llevar una capa más de lo que parece necesario.
+
+---
+
+## 🧯 Anti-scam / Trampas de Festival
+
+- **Agosto = precios disparados**: revisar precios en la carta ANTES de sentarse en restaurantes de zonas turísticas; algunas menus tienen recargos por festival no anunciados.
+- **Flyerers del Fringe**: los performers que reparten flyers en la Royal Mile son genuinamente parte de la experiencia — no son scams; así funciona el Fringe. Tomar los flyers, hojear, decidir.
+- **Pickpockets**: el Fringe trae la mayor afluencia turística de Europa en agosto; vigilar celular y billetera en aglomeraciones de la Royal Mile.
+- **Tours del castillo en bus desde el Grassmarket**: los paquetes de tours privados cobran 2-3x más que la entrada directa; comprar siempre directo en `edinburghcastle.scot`.
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- "El Fringe es el evento más extraordinario de Europa y más gente debería planificar su viaje entero alrededor de él" — /r/Edinburgh (repetido constantemente)
+- "Reservar alojamiento para agosto en Edimburgo con menos de 3 meses de anticipación es un error caro. 6 meses es lo mínimo razonable." — /r/uktravel
+- "Arthur's Seat al amanecer es la experiencia más memorable del viaje a Escocia para la mayoría de viajeros" — /r/Scotland
+- "Si no tienes entrada al Tattoo (que es probable), párate en Calton Hill o en el Royal Mile a las 21:00 — se escucha perfectamente y el castillo iluminado es impresionante de todos modos" — /r/Edinburgh
+- "La National Museum of Scotland es gratis y es uno de los mejores museos del planeta. Darle al menos 3h." — /r/Edinburgh
+- "Leith (The Shore, Kitchin, Fishers) es el mejor secreto gastronómico de Edimburgo para los que solo visitan Old Town" — /r/Edinburgh
+- "No comer en la Royal Mile bajo ninguna circunstancia. Caminar 3 calles hacia cualquier lado." — universal en /r/Edinburgh
+
+---
+
+## 🔗 Links Útiles
+
+- **VisitScotland (oficial):** `https://www.visitscotland.com/`
+- **Edinburgh Festival Fringe:** `https://www.edfringe.com/`
+- **Royal Edinburgh Military Tattoo:** `https://www.edintattoo.co.uk/`
+- **Edinburgh International Festival:** `https://www.eif.co.uk/`
+- **Historic Environment Scotland (castillos, Explorer Pass):** `https://www.historicenvironment.scot/`
+- **Edinburgh Book Festival:** `https://www.edbookfest.co.uk/`
+- **Edinburgh Art Festival:** `https://www.edinburghartfestival.com/`
+- **Lothian Buses (transporte urbano):** `https://www.lothianbuses.com/`
+- **Reddit r/Edinburgh:** `https://www.reddit.com/r/Edinburgh/`
+- **Reddit r/Edinburgh — Fringe tips:** `https://www.reddit.com/r/Edinburgh/search/?q=fringe%20tips&restrict_sr=1`
+- **Reddit r/uktravel — Edimburgo:** `https://www.reddit.com/r/uktravel/search/?q=edinburgh%203%20days&restrict_sr=1`
+
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+- **Edinburgh Castle**: **£21.50** adulto (online) / £24.00 en puerta `https://www.edinburghcastle.scot/plan-your-visit/tickets/`
+- **Palace of Holyroodhouse**: **£22** adulto (online) / £26 en puerta `https://www.rct.uk/visit/palace-of-holyroodhouse`
+- **Real Mary King's Close**: **£35** adulto (tour guiado estándar) `https://www.realmarykingsclose.com/tickets-prices/`
+- **Camera Obscura**: **~£18-20** adulto — verificar web oficial `https://www.camera-obscura.co.uk/view-tickets/`
+- **Scotch Whisky Experience (Silver Tour)**: **£24** adulto `https://www.scotchwhiskyexperience.co.uk/`
+- **National Museum of Scotland**: GRATIS `https://www.nms.ac.uk/`
+- **Scottish National Gallery**: GRATIS `https://www.nationalgalleries.org/`
+- **Scott Monument**: **~£10** adulto `https://www.edinburghmuseums.org.uk/venue/scott-monument`
+- **Surgeons' Hall Museum**: **~£8** adulto `https://museum.rcsed.ac.uk/`
+- **Gladstone's Land (NTS)**: **~£8** adulto `https://www.nts.org.uk/visit/places/gladstones-land`
+- **Explorer Pass (HES)**: **£42-50** adulto `https://www.historicenvironment.scot/visit-a-place/explorer-passes/`

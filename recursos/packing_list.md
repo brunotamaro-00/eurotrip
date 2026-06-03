@@ -45,27 +45,38 @@
 - [ ] 1 remera manga larga **algodón ligero o sintética** — capa extra o días frescos
   - *Uniqlo Supima Cotton LS · Patagonia Capilene Cool LS*
 
-### Pantalones / Bottoms (5 prendas)
-- [ ] 1 **jean** — ancla del look casual prolijo *(ya tenés)*
-  - *Levi's 511 Slim · Uniqlo Slim Fit Jeans · Nudie Jeans Tight Terry (premium)*
-- [ ] 1 **pantalón travel chino liviano** — quick-dry, pinta decente (no tipo track pant)
-  - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
-- [ ] 1 **pantalón de lino liviano** — cómodo para recorrer todo el día, canchero, enrolla casi a nada
-  - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá)*
-- [ ] 1 **board short** — sirve de short y de malla (elimina llevar traje de baño separado)
-  - *Patagonia Baggies · Quiksilver Highline · Vuori Kore Short*
-- [ ] 1 **bermuda** (nylon o mezcla nylon-lino) — más city-appropriate que el board short, largo a la rodilla
+### Pantalones / Bottoms (4 prendas)
+
+**Shorts (2)**
+- [ ] 1 **bermuda prolija** (nylon o mezcla nylon-lino) — largo a la rodilla, city-appropriate, sirve para cenar
   - *Uniqlo Chino Shorts · Patagonia Quandary Shorts · Bluffworks Shorts*
+- [ ] 1 **short deportivo** — también sirve de malla (elimina llevar traje de baño separado)
+  - *Patagonia Baggies · Quiksilver Highline · Vuori Kore Short*
+
+**Pantalones largos (2)**
+- [ ] 1 **pantalón prolijo** (chino travel liviano, quick-dry) — para cenar, salidas más arregladas
+  - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
+- [ ] 1 **pantalón para recorrer** (lino liviano) — cómodo para caminar todo el día, canchero, enrolla casi a nada
+  - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá)*
 
 ### Capas Externas
-- [ ] 1 **campera ultra light down** — se comprime en su propio bolsillo, livianísima, agua-resistente para lluvia ligera
-  - *Uniqlo Ultra Light Down · Uniqlo Hybrid Down (más abrigada) · Patagonia Nano Puff*
-- [ ] 1 **buzo / hoodie liviano** — capa media para agosto-septiembre
-  - *Uniqlo Fleece Crewneck · Vuori Ponto Half Zip · Patagonia LW Synchilla*
-- [ ] 1 **suéter liviano** — segunda capa media para cuando refresca (octubre-noviembre)
-  - *Uniqlo Extra Fine Merino Crewneck · Uniqlo Cashmere Blend · Gap Merino Crew*
 
-**🛍️ Comprar allá si hace falta (octubre-noviembre):** chaqueta de otoño/invierno, bufanda, gorro, guantes
+**Capas medias (abrigo)**
+- [ ] 1 **sweater merino** — capa media prolija, usable sola en ciudad; no huele tras varios usos
+  - *Uniqlo Merino Crew Neck · Icebreaker Merino 260 · Zara lana merino*
+- [ ] 1 **buzo / hoodie liviano** — segunda capa media para frío más intenso o días casuales
+  - *Uniqlo Fleece Crewneck · Vuori Ponto Half Zip · Carhartt Chase Half-Zip*
+
+**Capas externas (protección)**
+- [ ] 1 **puff sintético sin capucha** (Uniqlo PUFFTECH Jacket) — abrigo principal comprimible; sintético = abriga incluso húmedo
+- [ ] 1 **rompevientos impermeable packable** — protección lluvia/viento; va encima de todo cuando llueve *(a confirmar, ver opciones abajo)*
+
+  **Opciones rompevientos — todas packable, impermeables y livianas:**
+  - **Marmot PreCip Eco (~$100)** — la mejor del rango: liviana, costuras selladas, buena transpiración, packable confirmado
+  - **The North Face Venture 2 (~$90)** — clásica, packable, totalmente impermeable, costuras selladas, muy probada
+  - **Columbia Glennaker Lake II (~$70)** — la más económica; packable (capucha se guarda en el cuello); protección algo más limitada para lluvia intensa
+
+**🛍️ Comprar allá si hace falta (octubre-noviembre):** bufanda, gorro, guantes
 
 ### Ropa Interior
 - [ ] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
@@ -305,8 +316,8 @@
 
 ### Regla de esta mochila
 - 6 tops: 2 algodón Supima (ciudad), 2 técnicas (trekking), 1 camisa de botones, 1 manga larga
-- 5 bottoms: jean + chino travel + pantalón lino + board short + bermuda
-- 3 capas externas: campera down + buzo + suéter liviano
+- 4 bottoms: bermuda prolija + short deportivo + chino travel (prolijo) + pantalón lino (recorrer)
+- 4 capas: sweater merino + buzo/hoodie + puff sintético (Powder Lite) + shell impermeable
 - 3 pares de calzado: deportivas con suela + zapatilla cuero/sneaker + ojotas
 - El board short hace de malla → una prenda menos
 
@@ -396,5 +407,37 @@ No todo hay que llevarlo. Europa tiene tiendas baratas (Primark, Decathlon, H&M)
 
 ---
 
-**Última actualización:** Mayo 2026
+---
+
+## 🛒 Lista de Compras — Amazon US
+
+> Accesorios más recomendados por la comunidad viajera para viajes largos de este estilo. Muchos ya están mencionados en las secciones anteriores; acá están consolidados en un solo lugar para comprar todo junto.
+
+### ⚡ Carga y Energía
+
+- [x] **PowerCore Slim 10000**
+- [x] **Adaptador universal con puertos USB** — EPICKA TA-105 (cubre UK Tipo G + Europa + 23 países; tiene 4 puertos USB integrados) — reemplaza llevar adaptadores separados
+- [x] **Cable USB-C a USB-C** (extra, 1m) — para cargar laptop desde powerbank
+
+### 😴 Sueño y Comodidad
+
+- [x] **Tapones de oído de silicona** — moldeable, duran más y sellan mejor que los de espuma; *Mack's Pillow Soft* o *Hearos* (llevar 6–8 pares; se pierden)
+- [x] **Antifaz para dormir contorneado** — que no presione los ojos; *Alaska Bear* (seda natural, muy liviano) o *Mavogel Cotton*
+
+### 🔐 Seguridad
+
+- [x] **Candados TSA de combinación (x3)**
+
+### 🗂️ Organización
+
+- [x] **Packing cubes set (4–6 piezas)** — *BAGAIL Basic* · *AmazonBasics Packing Cubes* · *Gonex Packing Cubes* · *YAMIU Packing Cubes* — todas bajo $15–20 el set, buenas reseñas, funcionan igual que las de marca premium
+
+### ⚖️ Practicidad
+
+- [x] **Cubiertos de viaje ligeros (spork o set)** — para picnics y mercados;
+- [x] **Tuppers de silicona colapsables (x2, ~600–800ml)** — colapsan planos cuando están vacíos; para mercados, sobras y picnics; *SILIVO Collapsible Lunch Box* · *Collapse-it Silicone Food Storage* · *MAMI WATA Collapsible Containers* — buscar set de 2 del mismo tamaño mediano, +1000 reviews, bajo $20
+
+---
+
+**Última actualización:** Junio 2026
 
