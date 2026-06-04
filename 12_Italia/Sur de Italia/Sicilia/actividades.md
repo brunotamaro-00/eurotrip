@@ -1,7 +1,7 @@
 # 🎯 Actividades en Sicilia
 
 **Días recomendados:** 6-8  
-**Price Level:** $ (económica)  
+**Price Level:** € (económica)  
 **Temp late Oct / early Nov:** 17-23°C (el mejor clima del sur en esta época)  
 **Sol:** Amanecer ~6:25-6:35 / Anochecer ~17:00-17:10 (~10.5h de luz, horario CET)  
 **Temporada:** Ciudades vivas todo el año. Playas cierran pero todo lo demás abierto.
@@ -47,23 +47,24 @@ Sicilia es **la isla más grande del Mediterráneo** y una de las regiones más 
 Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos lados. Si les gustó Nápoles, les va a encantar Palermo.
 
 #### Imprescindibles
-- [ ] **Mercato Ballarò** - El mercado más grande y caótico. Gritos de vendedores, comida callejera, colores. Experiencia sensorial.
-- [ ] **Mercato della Vucciria** - Históricamente el más famoso, hoy más nocturno/bares
-- [ ] **Cattedrale di Palermo** - Mezcla de estilos (árabe-normando-barroco). Subir al techo ($7)
-- [ ] **Palazzo dei Normanni + Cappella Palatina** - Palacio real con mosaicos bizantinos dorados IMPRESIONANTES en la capilla ($14). No saltear.
-- [ ] **Chiesa della Martorana** - Más mosaicos bizantinos dorados, gratis
-- [ ] **Teatro Massimo** - Ópera más grande de Italia, escena final de El Padrino III. Tour $10.
-- [ ] **Catacumbas de los Capuchinos** - 8000 momias y esqueletos vestidos en las paredes. Macabro y fascinante ($4).
-- [ ] **Quattro Canti** - Intersección barroca, centro de la ciudad vieja
+- [ ] **Mercato Ballarò** - El mercado más grande y caótico. Gritos de vendedores, comida callejera, colores. Experiencia sensorial. GRATIS
+- [ ] **Mercato della Vucciria** - Históricamente el más famoso, hoy más nocturno/bares. GRATIS
+- [ ] **Cattedrale di Palermo** - Mezcla de estilos (árabe-normando-barroco). Subir al techo (**~€5**, verificar en `https://www.cattedrale.palermo.it`)
+- [ ] **Palazzo dei Normanni + Cappella Palatina** - Palacio real con mosaicos bizantinos dorados IMPRESIONANTES. **€15.50** (ma-ju, sin Apartamentos Reales) / **€19** (vi-lu, con Apartamentos + Jardines). No saltear. `https://www.federicosecondo.org/en/visit/`
+- [ ] **Chiesa della Martorana** - Más mosaicos bizantinos dorados. GRATIS (donación)
+- [ ] **Teatro Massimo** - Ópera más grande de Italia, escena final de El Padrino III. Tour guiado **€12** adultos, **€6** (-26), **€9** grupos. `https://www.teatromassimo.it/en/guided-tours/`
+- [ ] **Catacumbas de los Capuchinos** - 8000 momias y esqueletos vestidos en las paredes. Macabro y fascinante. **€3** `https://www.catacombefraticappuccini.com`
+- [ ] **Quattro Canti** - Intersección barroca, centro de la ciudad vieja. GRATIS
+- [ ] **Monreale** - Catedral normanda a 8km de Palermo con los mosaicos medievales más completos del mundo (UNESCO). Bus 389 desde Palermo (~20min). Claustro **€4**. Catedral gratis. IMPRESCINDIBLE.
 
 #### Comida en Palermo (STREET FOOD CAPITAL)
-- **Arancina** - Bola de arroz frita rellena (ragù o mantequilla). $1.50-2. LA comida callejera siciliana.
-- **Panelle** - Croqueta de harina de garbanzos frita. En panino con crocchè (croqueta de papa). $2-3.
-- **Sfincione** - Pizza esponjosa siciliana con cebolla, anchoas, pan rallado. $2.
-- **Pane con la milza** - Panino con bazo y pulmón de ternera. Street food EXTREMO. No para todos, pero experiencia auténtica. $3-4.
+- **Arancina** - Bola de arroz frita rellena (ragù o mantequilla). **€1.50-2**. LA comida callejera siciliana.
+- **Panelle** - Croqueta de harina de garbanzos frita. En panino con crocchè (croqueta de papa). **€2-3**.
+- **Sfincione** - Pizza esponjosa siciliana con cebolla, anchoas, pan rallado. **€2**.
+- **Pane con la milza** - Panino con bazo y pulmón de ternera. Street food EXTREMO. No para todos, pero experiencia auténtica. **€3-4**.
 - **Stigghiola** - Intestinos de cordero a la parrilla. Otro nivel de street food.
-- **Cannolo siciliano** - Tubo crujiente relleno de ricota y chips de chocolate. MUST. $2-3. Pedir que lo rellenen al momento (si ya está relleno = viejo).
-- **Granita con brioche** - Granizado de almendra/limón/café con brioche. Desayuno siciliano ($3-4).
+- **Cannolo siciliano** - Tubo crujiente relleno de ricota y chips de chocolate. MUST. **€2-3**. Pedir que lo rellenen al momento (si ya está relleno = viejo).
+- **Granita con brioche** - Granizado de almendra/limón/café con brioche. Desayuno siciliano (**€3-4**).
 
 **Dónde:**
 - **Mercato Ballarò** - Para todo el street food
@@ -81,22 +82,23 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 ### Cefalù (1 día)
 
 - **Qué:** Pueblo costero con catedral normanda y roca gigante (La Rocca)
-- **Desde Palermo:** 1h tren, $7-12
+- **Desde Palermo:** 1h tren, **~€7-12**
 - **Qué hacer:**
-  - [ ] **La Rocca** - Subir a la roca (30-45min), vistas panorámicas de Cefalù y el mar
-  - [ ] **Catedral de Cefalù** - Mosaicos bizantinos del Cristo Pantocrátor (similar a Monreale)
-  - [ ] **Lavatoio Medievale** - Lavadero medieval, escondido y bonito
-  - [ ] **Playa** - En octubre para caminar, pero el pueblo es precioso
-- **Cuánto tiempo:** Day trip desde Palermo o medio día si vas de paso
+  - [ ] **La Rocca** - Subir a la roca (30-45min), vistas panorámicas de Cefalù y el mar. GRATIS
+  - [ ] **Catedral de Cefalù** - Mosaicos bizantinos del Cristo Pantocrátor (similar a Monreale). GRATIS (donación)
+  - [ ] **Lavatoio Medievale** - Lavadero medieval, escondido y bonito. GRATIS
+  - [ ] **Playa** - En octubre para caminar, el pueblo es precioso aunque el agua esté fría
+- **Cuánto tiempo:** Day trip desde Palermo o medio día si van de paso
 
 ---
 
 ### Agrigento / Valle dei Templi (1 día) ⭐
 
 - **Qué:** Los templos griegos mejor conservados FUERA de Grecia. Valle dei Templi es Patrimonio UNESCO.
-- **Desde Palermo:** 2-2.5h tren, $10-15
-- **Precio:** $12 entrada
+- **Desde Palermo:** 2-2.5h tren, **~€10-15**
+- **Precio:** **€14** adultos, **€7** reducido (18-25 EU). Gratis primer domingo del mes. Combo con Museo Arqueológico: **€19.80**
 - **Tiempo:** 3-4 horas mínimo
+- `https://www.lavalledeitempli.it/en/travel-guide/timetables-and-tickets/`
 
 #### Imprescindibles
 - [ ] **Tempio della Concordia** - El templo griego mejor conservado del mundo (siglo V a.C.). De noche está iluminado.
@@ -113,9 +115,9 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 
 ### Trapani y Alrededores (1-2 días, opcional)
 
-- **Trapani:** Puerto, centro histórico, salinas (saline di Trapani, paisaje con molinos)
-- **Erice:** Pueblo medieval en la montaña sobre Trapani, teleférico para subir. Nubes, niebla, ambiente mágico. Pasteles de almendra.
-- **Segesta:** Templo dórico solitario en colina verde. Impactante por su aislamiento. $7.
+- **Trapani:** Puerto, centro histórico, salinas (Saline di Trapani, paisaje con molinos de sal). GRATIS pasear.
+- **Erice:** Pueblo medieval en la montaña sobre Trapani, teleférico para subir. Nubes, niebla, ambiente mágico. Pasteles de almendra. Teleférico **~€9 ida/vuelta** (verificar en `https://www.funiviaerice.it`)
+- **Segesta:** Templo dórico solitario en colina verde. Impactante por su aislamiento. **€7** `https://parchiarcheologici.regione.sicilia.it`
 - **Desde Palermo:** 1.5-2h tren/bus
 
 ---
@@ -126,11 +128,11 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 
 - **Qué:** Segunda ciudad de Sicilia, a los pies del Etna, reconstruida en barroco negro (lava)
 - **Qué hacer:**
-  - [ ] **Piazza del Duomo** - Elefante de lava (símbolo), catedral, mercado de pescado al lado
-  - [ ] **Pescheria (mercado de pescado)** - Caótico, ruidoso, auténtico. Mariscos frescos.
-  - [ ] **Via Etnea** - Calle principal, shopping, vistas al Etna al fondo
-  - [ ] **Teatro Greco-Romano** - En pleno centro, parcialmente excavado
-  - [ ] **Monastero dei Benedettini** - Monasterio barroco enorme, hoy universidad ($12)
+  - [ ] **Piazza del Duomo** - Elefante de lava (símbolo), catedral, mercado de pescado al lado. GRATIS
+  - [ ] **Pescheria (mercado de pescado)** - Caótico, ruidoso, auténtico. Mariscos frescos. GRATIS
+  - [ ] **Via Etnea** - Calle principal, shopping, vistas al Etna al fondo. GRATIS
+  - [ ] **Teatro Greco-Romano** - En pleno centro, parcialmente excavado (verificar precio en `https://parchiarcheologici.regione.sicilia.it`)
+  - [ ] **Monastero dei Benedettini** - Monasterio barroco enorme, hoy universidad. **€12**
 - **Comida:** Pescheria para mariscos baratos. Arancini (en Catania se dice "arancino", masculino — guerra lingüística con Palermo). Pasta alla Norma (pasta con berenjena, tomate, ricota salata — inventada en Catania en honor a la ópera de Bellini).
 
 ---
@@ -139,11 +141,12 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 
 - **Qué:** El volcán activo más alto de Europa (3357m). Patrimonio UNESCO.
 - **Cómo subir:**
-  - **Teleférico + 4x4 + guía:** Desde Rifugio Sapienza (bus desde Catania 1.5h). Teleférico hasta 2500m ($35), 4x4 hasta 2900m ($30 extra), guía hasta cráteres ($30). Total ~$95 el paquete completo.
-  - **Solo teleférico + caminata libre:** $35 teleférico, luego caminar hasta donde permitan (depende de actividad volcánica)
-  - **Caminata desde abajo:** Rutas por los flancos, cráteres laterales Silvestri (gratis, accesibles), paisaje lunar
+  - **Teleférico + 4x4 + guía:** Desde Rifugio Sapienza (bus desde Catania 1.5h). Teleférico hasta 2500m (**€35**), 4x4 hasta 2900m (**€30** extra), guía hasta cráteres (**€30**). Total ~**€95** el paquete completo.
+  - **Solo teleférico + caminata libre:** **€35** teleférico, luego caminar hasta donde permitan (depende de actividad volcánica)
+  - **Caminata desde abajo:** Rutas por los flancos, cráteres laterales Silvestri (GRATIS, accesibles), paisaje lunar
 - **En octubre:** Excelente. Sin calor, sin multitudes. Puede haber nieve en la cima. Llevar ropa abrigada (viento fuerte arriba, 0-5°C en la cima vs 20°C abajo).
 - **Tip:** El Etna es impresionante incluso sin llegar a la cima. Los cráteres Silvestri (2000m) son gratuitos y accesibles.
+- `https://www.funiviaetna.com/tickets`
 
 ---
 
@@ -153,16 +156,16 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 - **Dos zonas:**
 
 #### Ortigia (isla del centro histórico)
-- [ ] **Piazza del Duomo** - Catedral construida DENTRO de un templo griego (las columnas dóricas son visibles). Impresionante superposición de épocas.
-- [ ] **Fonte Aretusa** - Fuente de papiros al borde del mar, mitología griega
-- [ ] **Calles de Ortigia** - Caminar sin rumbo, cada esquina es hermosa
-- [ ] **Mercato di Ortigia** - Mercado de pescado y productos locales
+- [ ] **Piazza del Duomo** - Catedral construida DENTRO de un templo griego (las columnas dóricas son visibles). Impresionante superposición de épocas. GRATIS exterior.
+- [ ] **Fonte Aretusa** - Fuente de papiros al borde del mar, mitología griega. GRATIS
+- [ ] **Calles de Ortigia** - Caminar sin rumbo, cada esquina es hermosa. GRATIS
+- [ ] **Mercato di Ortigia** - Mercado de pescado y productos locales. GRATIS
 
 #### Parque Arqueológico de Neapolis
 - [ ] **Teatro Griego** - Uno de los más grandes del mundo antiguo, tallado en roca
 - [ ] **Orecchio di Dionisio** - Cueva con acústica increíble (nombre dado por Caravaggio)
 - [ ] **Anfiteatro Romano** - Enorme
-- **Precio:** $13
+- **Precio:** **€14** adultos, **€7** reducido (18-25 EU) `https://parchiarcheologici.regione.sicilia.it/siracusa-eloro-villa-tellaro-akrai/en/biglietti/area-archeologica-della-neapolis/`
 
 **Cuánto tiempo:** 1 día mínimo, 2 ideal
 **Tip:** Ortigia de noche es mágica. Considerar dormir ahí.
@@ -174,9 +177,9 @@ Palermo es la capital y es CAÓTICA. Tráfico, gritos, mercados, motos por todos
 - **Qué:** Pueblo glamuroso en terraza sobre el mar, con Etna de fondo
 - **Desde Catania:** 1h tren/bus (bajar en Giardini-Naxos, luego bus local o taxi hasta arriba)
 - **Qué hacer:**
-  - [ ] **Teatro Greco** - Teatro griego con vista al Etna y al mar simultáneamente. La vista más famosa de Sicilia ($10). Llegar temprano (antes de las 9am) para evitar grupos.
-  - [ ] **Corso Umberto** - Calle principal, tiendas, cafés
-  - [ ] **Isola Bella** - Islita conectada por lengua de arena. Reserva natural. En octubre el agua es fría pero el paisaje sigue siendo hermoso.
+  - [ ] **Teatro Greco** - Teatro griego con vista al Etna y al mar simultáneamente. La vista más famosa de Sicilia. **€14** adultos, **€7** reducido (18-25 EU). Llegar antes de las 9am para evitar grupos. `https://aditusculture.com/en/esperienze/taormina/musei-parchi-archeologici/teatro-antico-di-taormina`
+  - [ ] **Corso Umberto** - Calle principal, tiendas, cafés. GRATIS
+  - [ ] **Isola Bella** - Islita conectada por lengua de arena. Reserva natural. En octubre el paisaje sigue siendo hermoso.
   - [ ] **Castelmola** - Pueblo diminuto 5km arriba de Taormina. Vistas aún mejores. Probar vino de almendra en Bar Turrisi.
   - [ ] **Giardini-Naxos** - Pueblo en la playa abajo de Taormina: más barato para dormir, más auténtico.
 - **Cuánto tiempo:** 1 día (o noche en Giardini-Naxos para disfrutar Taormina sin turistas)
@@ -193,12 +196,12 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 ### Noto (1 día) ⭐
 
 - **Qué:** La "capital del barroco siciliano". Reconstruida en piedra caliza dorada tras 1693. UNESCO.
-- **Desde Siracusa:** 30 min en tren ($4) — el day trip más fácil de toda Sicilia.
+- **Desde Siracusa:** 30 min en tren (**€4**) — el day trip más fácil de toda Sicilia.
 - **Qué hacer:**
-  - [ ] **Corso Vittorio Emanuele** - La calle barroca más hermosa de Sicilia. Andar de punta a punta (15min a pie, pero parar en cada plaza).
-  - [ ] **Catedral de Noto** - La más impresionante de la zona. Fachada dorada al atardecer = foto extraordinaria.
-  - [ ] **Palazzo Nicolaci di Villadorata** - Balcones barrocos con figuras de monstruos. El ejemplo más elaborado del barroco siciliano ($5).
-  - [ ] **Porta Reale** - Arco de entrada al centro histórico.
+  - [ ] **Corso Vittorio Emanuele** - La calle barroca más hermosa de Sicilia. Andar de punta a punta (15min a pie, pero parar en cada plaza). GRATIS
+  - [ ] **Catedral de Noto** - La más impresionante de la zona. Fachada dorada al atardecer = foto extraordinaria. GRATIS
+  - [ ] **Palazzo Nicolaci di Villadorata** - Balcones barrocos con figuras de monstruos. El ejemplo más elaborado del barroco siciliano. **€5**
+  - [ ] **Porta Reale** - Arco de entrada al centro histórico. GRATIS
 - **Mejor momento del día:** Tarde. La luz del sol poniente vuelve la piedra caliza intensamente dorada. Es impresionante.
 - **Tip:** Todo Noto se camina en 15 minutos de punta a punta. No necesita más de 1 día. Pero dormir ahí 1 noche vale para disfrutar la plaza de noche, sin turistas.
 
@@ -207,10 +210,10 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 - **Qué:** Ciudad UNESCO de "dos almas" — Ragusa Superiore (la nueva) y Ragusa Ibla (la histórica, bajando por escalinata). Ibla es un laberinto barroco de cuento.
 - **Desde Siracusa:** 1.5h bus (Interbus) o auto
 - **Qué hacer en Ibla:**
-  - [ ] **Piazza del Duomo** - La plaza más bella del sureste siciliano. Catedral barroca, escalinata, silencio.
-  - [ ] **Jardines Iblei** - Parque al borde del precipicio, vistas del valle. Ideal para la hora dorada.
-  - [ ] **Caminar sin rumbo por Ibla** - Es pequeño, todo se encuentra a pie.
-  - [ ] **Escalinata Ragusa–Ibla** - La conexión entre las dos ciudades. Subirla al anochecer.
+  - [ ] **Piazza del Duomo** - La plaza más bella del sureste siciliano. Catedral barroca, escalinata, silencio. GRATIS
+  - [ ] **Jardines Iblei** - Parque al borde del precipicio, vistas del valle. Ideal para la hora dorada. GRATIS
+  - [ ] **Caminar sin rumbo por Ibla** - Es pequeño, todo se encuentra a pie. GRATIS
+  - [ ] **Escalinata Ragusa–Ibla** - La conexión entre las dos ciudades. Subirla al anochecer. GRATIS
 - **Dónde dormir:** En Ibla para la experiencia completa (pocos hoteles, reservar anticipado).
 - **Michelin en Ibla:** Duomo (2 estrellas) y La Fenice para los que quieran gastar.
 - **Tip inspector Montalbano:** La mayoría de la serie se filmó en Ragusa Ibla y Scicli. Los fans de la serie reconocen cada esquina.
@@ -246,7 +249,7 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 
 ---
 
-## 🔴 Bronte — El Pistacchio más famoso del mundo (day trip desde Etna)
+## 🔴 Bronte — El Pistacho más famoso del mundo (day trip desde Etna)
 
 - **Qué:** Pueblo en las faldas oeste del Etna, capital mundial del pistacho DOP. Hay pistacho en todo: helado, pesto, pasta, cannoli, granita.
 - **Desde Catania:** 1h auto (o excursión organizada)
@@ -262,12 +265,12 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 ### Street Food (Palermo = capital mundial)
 | Plato | Qué es | Precio |
 |-------|--------|--------|
-| **Arancina/o** | Bola de arroz frita (ragù, mantequilla, pistacchio) | $1.50-2 |
-| **Panelle e crocchè** | Croquetas de garbanzo + papa en panino | $2-3 |
-| **Sfincione** | Pizza esponjosa siciliana | $2 |
-| **Cannolo** | Tubo crujiente + ricota | $2-3 |
-| **Granita con brioche** | Granizado + brioche (desayuno) | $3-4 |
-| **Pane con la milza** | Panino de bazo (Palermo) | $3-4 |
+| **Arancina/o** | Bola de arroz frita (ragù, mantequilla, pistacchio) | **€1.50-2** |
+| **Panelle e crocchè** | Croquetas de garbanzo + papa en panino | **€2-3** |
+| **Sfincione** | Pizza esponjosa siciliana | **€2** |
+| **Cannolo** | Tubo crujiente + ricota | **€2-3** |
+| **Granita con brioche** | Granizado + brioche (desayuno) | **€3-4** |
+| **Pane con la milza** | Panino de bazo (Palermo) | **€3-4** |
 
 ### Pasta
 - **Pasta alla Norma** - Berenjena, tomate, ricota salata (Catania)
@@ -292,20 +295,7 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 
 ---
 
----
-
-## 💡 Tips Prácticos para Octubre/Noviembre
-
-- **ZTL (Zona Traffico Limitato):** Si alquilan auto, NO entrar al centro histórico de Palermo, Catania, Taormina ni Noto. Las multas llegan meses después a la tarjeta. Los hoteles en esas zonas pueden registrar el vehículo, preguntar siempre.
-- **Domingos:** El servicio de buses y trenes cae drásticamente. Si toca domingo, planificar estar ya en destino o usar taxi/Uber.
-- **Cash:** Sicilia es más cash que el norte de Italia. Mercados, cafés, street food, estacionamiento = efectivo obligatorio.
-- **Cierres de temporada:** Los chiringuitos y negocios de playa cierran, pero restaurantes, museos, y atracciones históricas siguen abiertos. Verificar horarios de Monreale y Valle dei Templi (suelen tener horario reducido en noviembre).
-- **Ropa:** Palermo/Catania: 18-23°C. Etna cima: 0-10°C y viento fuerte. Llevar capas para el volcán aunque abajo haga calor.
-- **Pickpocketing:** Menor que Roma/Nápoles pero igual tener sentido común en Ballarò y en la Pescheria de Catania.
-
----
-
-## 📅 Itinerarios de 10 Noches (detalle)
+## 📅 Itinerario de 10 Noches (detalle)
 
 ### ✅ ITINERARIO CONFIRMADO — 10 Noches con Auto (2 ventanas)
 
@@ -317,9 +307,9 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 | 4 | **Agrigento → Trapani** | Amanecer en los templos. Auto a Trapani (2h). Erice (subir, niebla, pasteles). Segesta (30min desvío). Salinas al atardecer. | ✅ |
 | 5 | **Trapani/Marsala → Catania** | Marsala mañana (museo barco fenicio, bodegas). Autopista A29+A19 a Catania (3.5h). **Devolver auto en aeropuerto CTA.** | ✅ |
 | 6 | **Catania** | Piazza del Duomo, Pescheria (mercado de pescado), Via Etnea, Monastero Benedettini | ❌ |
-| 7 | **Etna** | Tour organizado desde Catania (~$60-80pp, incluye bus + guía). O bus AST a Rifugio Sapienza + teleférico solo. | ❌ |
-| 8 | **Catania → Siracusa** | Tren (1h10, $8). Tarde en Ortigia. Noche en la isla. | ❌ |
-| 9 | **Siracusa + Noto** | Mañana: parque arqueológico Neapolis. Tarde: tren a Noto (30min), atardecer barroco dorado, vuelta. | ❌ |
+| 7 | **Etna** | Tour organizado desde Catania (~**€60-80pp**, incluye bus + guía). O bus AST a Rifugio Sapienza + teleférico solo. | ❌ |
+| 8 | **Catania → Siracusa** | Tren (1h10, **~€8**). Tarde en Ortigia. Noche en la isla. | ❌ |
+| 9 | **Siracusa + Noto** | Mañana: parque arqueológico Neapolis. Tarde: tren a Noto (30min, **€4**), atardecer barroco dorado, vuelta. | ❌ |
 | 10 | **Val di Noto con auto** | **Recoger auto en Siracusa o CTA.** Marzamemi (1h) → Ragusa Ibla (45min). Dormir Ragusa. | ✅ |
 | 11 | **Val di Noto → Catania** | Scicli (30min) → Modica chocolate (20min) → Taormina opcional (1h desvío) → devolver auto CTA → vuelo BCN. | ✅ |
 
@@ -333,19 +323,84 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 
 ---
 
-## 🔗 Fuentes oficiales (links)
-- Valle dei Templi (oficial): `https://www.lavalledeitempli.it/en/travel-guide/timetables-and-tickets/`
-- Funivia dell’Etna (tickets): `https://www.funiviaetna.com/tickets`
-- Turismo Sicilia (oficial): `https://www.visitsicily.info/en/`
+## 🚶 Free Walking Tour
 
-## 🧠 Consenso foros/blogs (resumen)
-- La combinada con auto (itinerario confirmado) cubre el "best of" completo: Palermo, Valle dei Templi, Trapani/Marsala, Etna, Siracusa y Val di Noto.
-- Múltiples fuentes coinciden: **Siracusa/Ortigia de noche** es uno de los mejores momentos del viaje entero por Sicilia.
-- El Val di Noto (Ragusa/Scicli/Noto) aparece consistentemente como la zona que la gente lamenta no haber incluido en viajes anteriores.
+### SANDEMANs / Agorà Tours — Palermo (EN)
+- Punto de encuentro: **Piazza della Vittoria 299** (Ticket Office del Palazzo dei Normanni)
+- Tours en inglés; guías locales freelancers asociados a SANDEMANs para Palermo
+- Ingreso = propina (sugerido **€5-10 pp**)
+`https://www.neweuropetours.eu/walking-tours-palermo/`
 
-## 🔎 Hilos y lecturas (links)
-- [10-day Sicily itinerary guide (GoAskALocal)](https://goaskalocal.com/blog/10-day-sicily-itinerary)
-- [Sicily without a car — feasibility (mel365)](https://mel365.com/10-days-in-sicily/)
-- [Val di Noto guide — Untold Italy podcast](https://untolditaly.com/exploring-sicilys-val-di-noto/)
-- [Eastern Sicily hidden gems](https://greeking.me/blog/italy-travel-tips/eastern-sicily-guide)
-- Búsqueda r/ItalyTravel “Sicily itinerary”: `https://www.reddit.com/r/ItalyTravel/search/?q=Sicily%20itinerary&restrict_sr=1&sort=relevance&t=all`
+### Civitatis — Palermo (ES/EN)
+- **Free tour Palermo** (2h): Punto de encuentro **Iglesia Sant'Ignazio all'Olivella**
+- **Free Alternative Tour** (callejeo, Kalsa, Vucciria, Piazza Marina, murales): mismo punto; disponible en **español**
+- Guía freelancer; ingreso = propina (sugerido **€5-15 pp**)
+`https://www.civitatis.com/es/palermo/free-tour/`
+
+### GuruWalk — Palermo (EN/IT/ES)
+- Punto de encuentro: **Via Maqueda 461** (frente a la zapatería Premier)
+- Tours en inglés e italiano; tour en **español los viernes** por la mañana
+- Propina recomendada
+`https://www.guruwalk.com/palermo`
+
+### Civitatis — Catania (ES/EN)
+- Free tour Catania (2h): Punto de encuentro **frente a Basilica della Collegiata, Via Etnea**
+- Tour alternativo nocturno: Punto de encuentro **Piazza Vincenzo Bellini** a las 20:30h
+`https://www.civitatis.com/en/catania/guided-tour/`
+
+### GuruWalk — Catania / Siracusa (EN)
+- Disponibles; verificar guías y horarios en la app/web
+`https://www.guruwalk.com/catania` · `https://www.guruwalk.com/syracuse`
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **Siracusa/Ortigia de noche** — consenso unánime: es uno de los mejores momentos del viaje entero por Sicilia. La isla medieval iluminada es mágica. Quedarse a dormir en Ortigia marca la diferencia.
+- **Val di Noto (Ragusa/Noto/Scicli)** — zona que la gente lamenta no haber incluido en viajes previos. Múltiples hilos coinciden: "I didn't know about Val di Noto and I regret it." Infraturístico, lleno de sorpresas, los pueblos parecen atrezzo de película.
+- **Palermo: ajustar expectativas** — la gente que llega abierta al caos lo describe como uno de los mejores destinos de Italia. Quien espera una ciudad "bonita y ordenada" se decepciona. El caos ES la experiencia.
+- **Monreale infravalorado** — aparece en listas de "lo que casi salté y no debería haber saltado." Los mosaicos del ábside compiten con cualquier cosa de Roma. Solo 20 min en bus desde Palermo.
+- **ZTL = multa garantizada** — el tip más repetido: NO entrar con auto al centro histórico de ninguna ciudad. Las multas llegan meses después a la tarjeta de crédito. "This is non-negotiable in Sicily."
+- **Joya inesperada: Marzamemi** — viajero tras viajero describe la aldea de pescadores como "casi no la hacemos y fue uno de los mejores momentos." No más de 2h pero esa plaza y ese puesto de atún curado son únicos.
+- **Sobrevalorado:** Taormina en temporada alta — hermosa pero con masificación brutal en julio/agosto. En octubre/noviembre mejora mucho. Evitar fines de semana, llegar antes de las 9am.
+- **Tip más repetido:** El arancino/arancina se come EN EL MOMENTO, recién frito. En Catania es "arancino" (masculino); en Palermo "arancina" (femenino). La disputa es sagrada.
+- **Reservar con anticipación:** Valle dei Templi y Parco Neapolis Siracusa — conviene tener ticket comprado si van en puente o fin de semana de octubre. Los tours del Etna se agotan con semanas de antelación en temporada.
+
+---
+
+## 💡 Tips Prácticos
+
+### ZTL y Auto
+- **ZTL (Zona Traffico Limitato):** Si alquilan auto, NO entrar al centro histórico de Palermo, Catania, Taormina ni Noto. Las multas llegan meses después a la tarjeta. Los hoteles en esas zonas pueden registrar el vehículo, preguntar siempre.
+- **Domingos:** El servicio de buses y trenes cae drásticamente. Si toca domingo, planificar estar ya en destino o usar taxi/Uber.
+
+### Dinero y Consumo
+- **Cash:** Sicilia es más cash que el norte de Italia. Mercados, cafés, street food, estacionamiento = efectivo obligatorio.
+- **Cierres de temporada:** Los chiringuitos y negocios de playa cierran, pero restaurantes, museos y atracciones históricas siguen abiertos. Verificar horarios de Monreale y Valle dei Templi (suelen tener horario reducido en noviembre).
+
+### Clima y Ropa
+- **Ropa:** Palermo/Catania: 18-23°C. Etna cima: 0-10°C y viento fuerte. Llevar capas para el volcán aunque abajo haga calor.
+- **Pickpocketing:** Menor que Roma/Nápoles pero igual tener sentido común en Ballarò y en la Pescheria de Catania.
+
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+| Atracción | Precio adulto | Reducido | Nota |
+|-----------|--------------|----------|------|
+| **Palazzo dei Normanni + Cappella Palatina** | **€15.50** (ma-ju) / **€19** (vi-lu) | — | Vi-lu incluye Apartamentos Reales; federicosecondo.org |
+| **Valle dei Templi — Agrigento** | **€14** | **€7** (18-25 EU) | Gratis 1er domingo del mes; combo con museo **€19.80** |
+| **Catacombe dei Cappuccini — Palermo** | **€3** | — | catacombefraticappuccini.com |
+| **Teatro Massimo — Palermo (tour)** | **€12** | **€6** (-26) · **€9** (grupos) | 40min; EN/ES/IT/FR; teatromassimo.it |
+| **Monreale — Claustro** | **€4** | — | Catedral gratuita; coopculture.it |
+| **Cattedrale di Palermo — Techo** | **~€5** | — | (verificar en cattedrale.palermo.it) |
+| **Teatro Greco — Taormina** | **€14** | **€7** (18-25 EU) | Abierto 9:00-16:00; aditusculture.com |
+| **Parco Arqueológico Neapolis — Siracusa** | **€14** | **€7** (18-25 EU) | Abierto 8:30-19:40; taquilla cierra 18:30 |
+| **Palazzo Nicolaci di Villadorata — Noto** | **€5** | — | — |
+| **Segesta — Templo** | **€7** | — | parchiarcheologici.regione.sicilia.it |
+| **Monastero dei Benedettini — Catania** | **€12** | — | — |
+| **Funivía Etna (teleférico solo)** | **€35** | — | Hasta 2500m; funiviaetna.com |
+| **Etna 4x4 (adicional al teleférico)** | **€30** | — | Hasta 2900m; operadores en Rifugio Sapienza |
+| **Etna tour organizado (bus+guía, desde Catania)** | **~€60-80 pp** | — | Incluye traslado y guía |
+
+**Fuentes:** lavalledeitempli.it · federicosecondo.org · catacombefraticappuccini.com · teatromassimo.it · aditusculture.com · parchiarcheologici.regione.sicilia.it · funiviaetna.com
