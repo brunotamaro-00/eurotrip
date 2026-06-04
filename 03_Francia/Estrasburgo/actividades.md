@@ -1,97 +1,190 @@
-# 🎯 Actividades en Estrasburgo
+# 🥨 Actividades en Estrasburgo
 
-**Fechas tentativas:** 12-14 septiembre (2 noches)  
-**Categoría:** Ciudad + gastronomía  
-**Price Level:** $$  
-**Temperatura:** 11-21°C  
-
----
-
-## ⚠️ Reservas y precios oficiales (2026)
-
-- **Plataforma de la Catedral (vistas)**: €8 normal / €5 reducido, **330 escalones** (no accesible movilidad reducida). Fuente (oficial): `https://www.strasbourg.eu/lieu/-/entity/id/686030/plateforme-de-la-cathedrale-de-strasbourg`
-- **Strasbourg City Card** (descuentos 7 días): **€5 adulto online** (retiro en oficina de turismo). Fuente (oficial): `https://shop.visitstrasbourg.fr/visite/strasbourg-city-card/`
-- **Batorama (barco por canales)**: “Open Ticket” flexible: short €12.50 / long €16.20 (reducidos €7.20 / €8.90). Fuente (oficial): `https://www.batorama.com/en/open-ticket`
-- **Parlamento Europeo (visita)**: **gratis**, ~60 min. Requiere **documento físico** (DNI/pasaporte) y no dejan entrar con equipaje grande. Fuente (oficial): `https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-outside-plenary-session`
-- **Museo Alsaciano**: **cerrado por obras (07/07/2025 → 01/06/2028)**. Fuente (oficial): `https://en.musees.strasbourg.eu/practical-informations-alsatian-museum`
-- **Alternativas “museo de ciudad”** (si querían algo tipo Musée Alsacien): los museos municipales suelen listar **€7.50 / €3.50** (ver cada museo en Musées de Strasbourg). Ejemplos: MAMCS `https://en.musees.strasbourg.eu/museum-of-modern-and-contemporary-art` y museos del Palais Rohan `https://en.musees.strasbourg.eu/practical-informations-museum-of-fine-arts`
+**Fechas tentativas:** 12-14 septiembre (2 noches, 3 días)
+**Categoría:** Ciudad histórica alsaciana + capital europea + gastronomía
+**Price Level:** $$
+**Temperatura septiembre:** 11-21°C (días agradables, noches frescas)
+**Sol:** Amanecer ~7:00 / Anochecer ~19:45
 
 ---
 
-## 📍 Imprescindibles (centro histórico)
+## ⚠️ Precio Verificados y Estado (2026)
 
-- [ ] **Catedral Notre‑Dame** — interior gratis; reloj astronómico (show suele ser al mediodía) + (si pinta) plataforma de vistas.
-- [ ] **Petite France** — canales + casas de entramado. Mejor **temprano** o al final del día para fotos y menos gente.
-- [ ] **Barrage Vauban + Ponts Couverts** — terraza gratis con vista a Petite France.
-- [ ] **Grande Île (UNESCO)** — caminar sin mapa: plazas, callecitas, cafés.
-
-## ✅ Recomendados (si da el tiempo)
-
-- [ ] **Barrio Krutenau** — vibra más local/estudiantil, buen lugar para comer y tomar algo.
-- [ ] **Neustadt (Imperial District)** — arquitectura distinta al casco medieval (paseo caminando/bici).
-- [ ] **Parc de l’Orangerie** — descanso “verde” cerca del barrio europeo.
-- [ ] **Batorama** — perfecto si están cansados de caminar o si quieren ver la ciudad “desde el agua”.
-- [ ] **Parlamento Europeo** — si coincide con horario y ganas.
+- **Plataforma Catedral (vistas 330 escalones):** **€8** normal / **€5** reducido `https://www.strasbourg.eu/lieu/-/entity/id/686030/plateforme-de-la-cathedrale-de-strasbourg`
+- **Reloj Astronómico (show 12:30h):** **€3** adulto — llegar antes de 11:30h; película histórica a las 12h; el show empieza 12:30h (excepto domingos)
+- **Batorama (barco por canales):** Short (Petite France) **€12.50** / Long (ciudad entera) **€16.20** (reducidos €7.20 / €8.90) `https://www.batorama.com/en/open-ticket`
+- **Parlamento Europeo:** GRATIS — requiere documento físico (DNI/pasaporte); no dejan entrar con equipaje grande `https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-outside-plenary-session`
+- **Museos Palais Rohan (3 museos):** **€7.50** adulto cada uno; gratis 1er domingo del mes `https://en.musees.strasbourg.eu/`
+- **Museo Alsaciano:** CERRADO por obras hasta junio 2028 `https://en.musees.strasbourg.eu/practical-informations-alsatian-museum`
+- **Strasbourg City Card (7 días, descuentos):** **€5** adulto online `https://shop.visitstrasbourg.fr/visite/strasbourg-city-card/`
 
 ---
 
-## 🍽️ Gastronomía (winstubs y “qué pedir”)
+## ⛪ Catedral Notre-Dame y Casco Histórico
 
-**Qué pedir (clásicos):**
-- **Tarte flambée / flammekueche**
-- **Choucroute garnie**
-- **Baeckeoffe**
-- **Kougelhopf** (dulce)
-- **Vinos blancos**: Riesling, Gewürztraminer, Pinot Gris
-
-**Winstubs (para ir a lo seguro):** Chez Yvonne, Le Clou, Au Pont Saint‑Martin (reservar si pueden; se llenan).
-
----
-
-## 🧯 Anti-scam / trampas típicas
-
-- **Restaurantes ultra “postal” en Petite France**: lindos, pero pueden ser caros/turísticos. Estrategia: almorzar/merendar ahí, y cenar en Krutenau o calles menos obvias.
-- **Pickpockets**: en zonas más concurridas (catedral/Petite France/tranvía). Mochila adelante y celular fuera de bolsillos fáciles.
+- [ ] **Catedral Notre-Dame de Strasbourg** ⭐ - La segunda catedral más visitada de Francia; fachada de arenisca roja del s. XIII con esculturas góticas de una densidad extraordinaria; una de las siete maravillas del mundo medieval según Víctor Hugo; interior con vitrales del s. XII-XIV (GRATIS interior) — la plataforma exterior son 330 escalones con vistas sobre los tejados de Alsacia (**€8** adulto) `https://www.cathedrale-strasbourg.fr/`
+- [ ] **Reloj Astronómico de la Catedral** - El reloj de 1838 que mide el tiempo astronómico, la precesión de los equinoccios y la posición de los planetas; el show de figuras mecánicas (los 12 Apóstoles y la Muerte) dura ~15min (**€3** adulto) — llegar antes de las 11:30h para asegurar lugar; película introductoria a las 12h; show comienza a las 12:30h exactas (no domingos)
+- [ ] **Grande Île (Isla Grande, UNESCO)** - El centro histórico de Estrasburgo completo; callejuelas medievales adoquinadas, plazas, edificios con entramado de madera del s. XV-XVII; caminar sin mapa es la actividad (GRATIS)
+- [ ] **Petite France** ⭐ - El barrio de los curtidores, pescadores y molineros del s. XVI; casas de entramado de madera con flores colgantes reflejadas en los canales del Ill; el spot más fotogénico de Alsacia (GRATIS) — mucho mejor temprano (antes de las 9am) o al atardecer; de 11am a 15h hay grupos de tour que dificultan las fotos
+- [ ] **Barrage Vauban + Ponts Couverts** - La terraza gratuita sobre la esclusa de Vauban con las mejores vistas de los tres Torres Medievales y Petite France reflejada en el agua (GRATIS) — la vista más icónica de Estrasburgo; se llega a pie desde Petite France en 5min
+- [ ] **Place Kléber** - La plaza central de Estrasburgo; siempre animada; el corazón social de la ciudad (GRATIS)
+- [ ] **Place Gutenberg** - La plaza dedicada al inventor de la imprenta moderna (nacido en Estrasburgo); estatua de Gutenberg y fachadas del s. XVI (GRATIS)
+- [ ] **Quai de la Poissonnerie** - El muelle de los pescadores; fachadas coloridas del s. XVI sobre el canal; el ángulo más fotogénico de la Petite France desde el agua (GRATIS)
 
 ---
 
-## 🧭 Itinerarios listos (2 noches)
+## 🏛️ Museos
 
-- **Día 1 (llegada, suave)**: Grande Île → Petite France → Barrage Vauban (atardecer) → cena winstub.
-- **Día 2 (full)**:
-  - **AM**: Catedral (interior) + (si pinta) **plataforma** temprano.
-  - **PM**: Krutenau + Neustadt / Orangerie.
-  - **Opcional**: Parlamento Europeo (si quieren + encaja horario) o Batorama (si prefieren descanso).
-
----
-
-## 💡 Tips de foros (operativa real)
-
-- **Catedral/platforma**: ir **temprano** para evitar colas y porque la subida (330 escalones) cansa.
-- **Petite France**: vale mucho para fotos, pero se “quema” rápido si van en hora pico; mejor **weekday morning** o “golden hour”.
-- **Comer**: winstub auténtica + reserva suele ser mejor que elegir al azar “al lado de la catedral”.
+- [ ] **Palais Rohan — 3 museos** - El palacio episcopal del s. XVIII alberga tres colecciones: Museo de Artes Decorativas (porcelana de Hannong, habitaciones del obispo intactas), Museo de Bellas Artes (Rubens, Raphael, El Greco, Goya), Museo Arqueológico (prehistoria y colección romana de Alsacia) (**€7.50** cada museo / gratis 1er domingo del mes) `https://en.musees.strasbourg.eu/`
+- [ ] **MAMCS — Musée d'Art Moderne et Contemporain** - El museo de arte moderno de Estrasburgo en un edificio espectacular de 1998 junto al río; colección desde 1870 hasta hoy; café con terraza sobre el agua (**€7.50** adulto) `https://en.musees.strasbourg.eu/museum-of-modern-and-contemporary-art`
+- [ ] **Château Vodou** - El museo privado y caritativo con la mayor colección de objetos de vodou africano occidental del mundo; en el barrio Krutenau; genuinamente sorprendente y diferente a todo (`https://www.chateauvodou.com/`)
+- [ ] **Musée de l'Œuvre Notre-Dame** - La colección original de esculturas de la catedral (algunas reemplazadas por copias en la fachada); vitrales del s. XI-XIV; joya del arte medieval (**€7.50** adulto) `https://en.musees.strasbourg.eu/museum-of-the-work-of-notre-dame`
+- [ ] **Fort Poligone** - Fuerte militar del s. XIX en el extrarradio de Estrasburgo; voluntarios ofrecen tours completos de 2.5h todos los **jueves y sábados** (GRATIS o donación) — llegar en bus 73 desde el centro; un secreto auténtico de la ciudad
 
 ---
 
-## 🔗 Fuentes oficiales (links)
+## 🏛️ Barrios y Zonas
 
-- Catedral (plataforma + tarifas/horarios): `https://www.strasbourg.eu/lieu/-/entity/id/686030/plateforme-de-la-cathedrale-de-strasbourg`
-- Strasbourg City Card (precio y descuentos): `https://shop.visitstrasbourg.fr/visite/strasbourg-city-card/`
-- Batorama (open ticket): `https://www.batorama.com/en/open-ticket`
-- Parlamento Europeo (visita): `https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-outside-plenary-session`
-- Musées de Strasbourg (Museo Alsaciano + otros): `https://en.musees.strasbourg.eu/`
+- [ ] **Barrio Krutenau** - El barrio estudiantil y alternativo de Estrasburgo; cafés bohemios, bares de barrio, galerías independientes; la versión "local" de la ciudad que los guías turísticos no muestran (GRATIS explorar) — mejor para tapas, copas y cenar fuera del circuito turístico
+- [ ] **Neustadt (Barrio Imperial / "La Nueva Ciudad")** - El barrio construido por el Imperio Alemán después de la anexión de 1871; arquitectura wilhelminiana imponente totalmente diferente al casco medieval; Patrimonio UNESCO desde 2017; la ruta de los grandes bulevares (GRATIS explorar)
+- [ ] **Barrio Europeo** - Las instituciones de la UE concentradas al norte de la ciudad; el Parlamento Europeo, el Consejo de Europa, el Tribunal Europeo de Derechos Humanos; arquitectura contemporánea junto al Parque de la Orangerie (GRATIS ver exterior)
+- [ ] **Quai des Bateliers** - La orilla del río en la zona de bares y vida nocturna; terrazas sobre el agua en verano/otoño (GRATIS explorar)
 
-## 🧠 Consenso Reddit/foros (resumen)
+---
 
-- **2 noches alcanzan** para centro histórico + 1 extra (Parlamento/Batorama/Neustadt) si no corren.
-- **Petite France** es el “must” fotográfico, pero es mejor en franjas **temprano/tarde**.
-- Para comer, la recomendación repetida es **winstub** (cocina alsaciana) y **reservar** en las más conocidas.
-- Si te gusta “local vibe”, **Krutenau** aparece como buen plan de tarde/noche.
+## 🌳 Parques
 
-## 🔎 Hilos y lecturas (links)
+- [ ] **Parc de l'Orangerie** - El parque más grande de Estrasburgo; a pasos del Parlamento Europeo; lago con barcas, zoológico pequeño (gratis los jueves), rosaleda, el quiosco de música más antiguo de Alsacia (GRATIS) — el pulmón verde de la ciudad
+- [ ] **Jardin des Deux Rives** - El parque binacional que cruza el Rin hacia Alemania; cruzar el puente pasarela a pie a Kehl es una experiencia curiosa (GRATIS)
 
-- VoyageForum (incontournables): `https://voyageforum.com/forum/france-incontournables-visiter-strasbourg-d1069415/`
-- Routard (Petite France, tips): `http://routard.com/forums/t/visite-de-la-petite-france-a-strasbourg/156771`
-- Strasbourg‑Pratique (winstubs): `https://strasbourg-pratique.com/guide-pratique-manger-dans-une-winstub-a-strasbourg/`
-- Reddit (búsquedas útiles):\n  - `https://www.reddit.com/r/france/search/?q=strasbourg%20visiter&restrict_sr=1&sort=relevance&t=all`\n  - `https://www.reddit.com/r/travel/search/?q=strasbourg&restrict_sr=1&sort=relevance&t=all`
+---
 
+## 🚢 Canales y Transporte
+
+- [ ] **Batorama — barco por los canales** - Recorrido por el Ill y los canales de Estrasburgo; la versión "desde el agua" de la Grande Île y Petite France; ideal si hay cansancio de caminar — Short (Petite France) **€12.50** / Long (ciudad entera, recomendado) **€16.20** `https://www.batorama.com/`
+- [ ] **Tranvía histórico (Tram A-F)** - La red de tranvías de Estrasburgo es considerada la mejor de Francia; usarla para llegar al Parlamento Europeo o al barrio Europeo (~**€1.80** billete)
+
+---
+
+## 🏛️ Instituciones Europeas
+
+- [ ] **Parlamento Europeo** - El hemiciclo donde los 705 diputados europeos debaten; visita guiada de ~60min incluyendo el hemiciclo, la historia de la UE y las exposiciones permanentes (GRATIS) — reservar online con anticipación; llevar DNI/pasaporte físico; no dejan bolsas grandes ni mochilas `https://visiting.europarl.europa.eu/`
+- [ ] **Consejo de Europa** - El edificio del organismo de derechos humanos (distinto a la UE); arquitectura de los años 50 junto al Parlamento (GRATIS ver exterior)
+- [ ] **Palais des Droits de l'Homme** - El edificio del Tribunal Europeo de Derechos Humanos de Richard Rogers; arquitectura contemporánea esférica (GRATIS ver exterior)
+
+---
+
+## 🍽️ Gastronomía Alsaciana
+
+### Los platos que hay que probar
+- [ ] **Tarte flambée / Flammekueche** - La "pizza alsaciana": masa fina cubierta de crème fraîche, cebolla y lardons de bacon; la versión clásica (~**€10-14**); la comida más emblemática de Alsacia — en winstub auténtica, mucho mejor que en los locales de Petite France
+- [ ] **Choucroute garnie** - El plato alsaciano por excelencia; col fermentada con carnes curadas, salchichas y patatas (~**€16-22**) — plato contundente; mejor al mediodía
+- [ ] **Baeckeoffe** - El cassoulet alsaciano de tres carnes marinadas en vino blanco con patatas; preparación que dura 24h; solo en winstubs auténticas (~**€18-24**)
+- [ ] **Spaetzle** - Los fideos de huevo alsacianos con mantequilla tostada; como guarnición o plato (~**€8-12**)
+- [ ] **Kougelhopf** - El bizcocho esponjoso con pasas y almendras; el postre/desayuno más característico de Alsacia (~**€4-6** la porción)
+- [ ] **Vinos blancos de Alsacia** - Riesling, Gewürztraminer, Pinot Gris, Sylvaner; por copa en winstub ~**€4-6**; Alsacia produce los mejores vinos blancos secos de Francia
+
+### Winstubs recomendadas (reservar con anticipación)
+- [ ] **Chez Yvonne (S'Burjerstuewel)** - La winstub más histórica de Estrasburgo (desde 1873); Chirac y Sarkozy tienen mesas reservadas; el estándar de la cocina alsaciana ~**€20-30** menú `https://www.chez-yvonne.net/`
+- [ ] **Fink Stuebel** - En el borde de Petite France; interior de madera pintada, manteles de cuadros; la favorita de TripAdvisor y recomendada en foros de viaje ~**€18-25**
+- [ ] **Tire-Bouchon** - Junto a la catedral; institución de cocina alsaciana tradicional; carta larga y variada ~**€18-28**
+- [ ] **Winstub du Pont du Corbeau** - Familia Andt desde 30+ años; platos caseros de productos frescos; más auténtica que las winstubs turísticas de Petite France ~**€15-22**
+- [ ] **Le Clou** - Pequeña winstub céntrica; la recomendada por foodies que buscan autenticidad sobre fama ~**€18-25**
+- [ ] **Marché Couvert (Les Halles)** - El mercado cubierto para almuerzo rápido y barato; charcutería alsaciana, quesos munster, brezel fresco (~**€6-12** comer dentro)
+
+---
+
+## 🚶 Free Walking Tour — Hacer el Primer Día
+
+### En inglés
+
+- [ ] **Happy Strasbourg Free Walking Tour** *(en inglés)* — El operador local especializado en Estrasburgo; desde marzo 2026 tour de Petite France en inglés **todos los días**; el tour más valorado de la ciudad para entender la cultura alsaciana y la historia entre Francia y Alemania (GRATIS — **propina sugerida €10-15**) — punto de encuentro: consultar en `https://happy-strasbourg.eu/free-walking-tour-strasbourg/`
+- [ ] **GuruWalk Estrasburgo** *(en inglés)* — Marketplace; guía historiador con el tour más completo y mejor valorado de la plataforma (4.9/5); cubre la Grande Île, historia franco-alemana, Petite France (GRATIS — **propina libre**) `https://www.guruwalk.com/strasbourg`
+
+### En español
+
+- [ ] **Civitatis Free Tour Estrasburgo** *(en español)* — ~2h por el casco histórico en español; guías hispanohablantes seleccionados (GRATIS — propina cultural) `https://www.civitatis.com/en/strasbourg/free-walking-tour/`
+- [ ] **GuruWalk Estrasburgo en español** *(en español)* — Filtrar por idioma español; verificar disponibilidad (GRATIS — **propina libre**) `https://www.guruwalk.com/strasbourg`
+
+> **Consenso foros:** "Estrasburgo es la ciudad que más sorprende a los que llegan sin expectativas — es la síntesis de lo mejor de Francia y Alemania; la cocina alsaciana, la arquitectura y el hecho de que hayas sido de un país al otro durante siglos crea algo completamente único que un free tour explica en 2h mejor que cualquier guía de papel." (Rick Steves forums, r/france)
+
+---
+
+## 📸 Spots Fotográficos
+
+1. **Barrage Vauban al atardecer** — Los tres Ponts Couverts reflejados en el canal; la postal más icónica de Estrasburgo
+2. **Petite France al amanecer (antes 8am)** — Las casas de entramado sobre el canal sin turistas; luz dorada
+3. **Fachada Catedral Notre-Dame** — La fachada más detallada del gótico; luz frontal a media mañana
+4. **Quai de la Poissonnerie desde el puente** — Los colores del s. XVI reflejados en el agua
+5. **Neustadt desde la Place de la République** — Los grandes bulevares y el estilo wilhelminiano desde el centro
+6. **Interior de la Catedral** — Vitrales del s. XII con luz solar; mañana entre 10h-14h
+7. **Place Gutenberg** — La plaza con el tilo centenario y la estatua del inventor
+
+---
+
+## 📅 Referencia de Días (2 noches)
+
+| Día | Plan |
+|-----|------|
+| Día 1 (llegada) | Grande Île → Petite France (atardecer) → Barrage Vauban → cena winstub |
+| Día 2 | AM: Catedral (interior) + Reloj Astronómico (11:30h llegar) + plataforma; PM: Krutenau + Neustadt o Batorama / Parlamento Europeo |
+
+---
+
+## 💡 Tips
+
+### Logística
+- **Estrasburgo es 100% caminable** en el centro; todo el casco histórico está en la Grande Île (isla rodeada de canales); el barrio Europeo requiere tranvía o bici
+- **Tranvía** — el mejor sistema de Francia; comprar billete antes de subir (máquinas en cada parada); ~**€1.80** el viaje / day pass ~**€5**
+- **Bicicleta** — Estrasburgo es la ciudad más ciclista de Francia; alquilar en Vélhop (~**€2-5/día**) para el barrio Europeo y el Parc de l'Orangerie
+
+### Petite France
+- Ir muy temprano (antes de las 9am) o al atardecer dorado para las fotos sin grupos de tour
+- Los restaurantes junto al canal son los más caros y menos auténticos; cenar en Krutenau o calles internas de la Grande Île
+
+### Reloj Astronómico
+- Llegar antes de las **11:30h** para conseguir el ticket de €3 y el lugar
+- No ir los domingos (no hay show)
+
+### Winstubs
+- **Reservar siempre** en las conocidas (Chez Yvonne, Fink Stuebel); en septiembre se llenan entre semana también
+- Comer la flammekueche al mediodía como alternativa económica (~€10-14)
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **Petite France es espectacular, pero solo a primera hora o al atardecer** — "a las 11am el barrio parece Disneyland; antes de las 9am es la ciudad medieval auténtica, una de las más bellas de Europa" (r/france, múltiples posts)
+- **Barrage Vauban > cualquier entrada de pago** — "la terraza gratuita del Barrage da la mejor vista de toda la ciudad incluyendo los Ponts Couverts y Petite France; nadie te cobra nada y es la foto de portada de cualquier guía de Estrasburgo" (TripAdvisor foros)
+- **Winstub auténtica con reserva** — "no improvisar para cenar; las winstubs buenas se llenan; reservar Chez Yvonne o Fink Stuebel el día anterior como mínimo" (Lonely Planet Thorn Tree, r/france)
+- **Krutenau para la noche local** — "si Petite France es la Estrasburgo turística, Krutenau es la real; cafés de estudiantes, bares sin carta en inglés, precios locales" (múltiples posts r/france)
+- **Reloj Astronómico** — "el show de 15 minutos a las 12:30h es kitsch pero los mecanismos del reloj en sí son extraordinarios; vale los €3 por el contexto histórico solo" (Rick Steves forums)
+- **2 noches es perfecto** — consenso absoluto en foros: "en 2 noches y 3 días ves todo lo que tiene Estrasburgo; con 1 noche se corre demasiado" (r/travel, Rick Steves)
+
+---
+
+## 🔗 Links Útiles
+
+- **Visit Strasbourg (oficial):** `https://www.visitstrasbourg.fr/`
+- **Catedral (plataforma + horarios):** `https://www.cathedrale-strasbourg.fr/`
+- **Parlamento Europeo (visita):** `https://visiting.europarl.europa.eu/`
+- **Batorama:** `https://www.batorama.com/`
+- **Happy Strasbourg tours:** `https://happy-strasbourg.eu/`
+- **Musées de Strasbourg:** `https://en.musees.strasbourg.eu/`
+- **Reddit r/france (Strasbourg):** `https://www.reddit.com/r/france/search/?q=strasbourg`
+
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+- **Catedral — interior:** GRATIS
+- **Catedral — plataforma (330 escalones):** **€8** adulto / **€5** reducido `https://www.strasbourg.eu/lieu/-/entity/id/686030/`
+- **Reloj Astronómico (show 12:30h):** **€3** adulto (no domingos)
+- **Batorama Short (Petite France):** **€12.50** adulto `https://www.batorama.com/`
+- **Batorama Long (ciudad entera):** **€16.20** adulto `https://www.batorama.com/`
+- **Parlamento Europeo:** GRATIS `https://visiting.europarl.europa.eu/`
+- **Museos del Palais Rohan (Beaux-Arts, Décoratifs, Archéologique):** **€7.50** adulto cada uno; gratis 1er domingo del mes `https://en.musees.strasbourg.eu/`
+- **MAMCS (Arte Moderno):** **€7.50** adulto `https://en.musees.strasbourg.eu/`
+- **Strasbourg City Card:** **€5** adulto (7 días de descuentos) `https://shop.visitstrasbourg.fr/`
+- **Tranvía:** ~**€1.80** billete / ~**€5** day pass
+- **Museo Alsaciano:** CERRADO hasta junio 2028

@@ -5,123 +5,215 @@
 **Temp:** 12-21°C (otoño perfecto, pero puede llover)  
 **Sol:** Amanecer ~7:26 / Anochecer ~18:22. **⚠️ OJO: Cambio de hora el domingo 25 oct.** Los relojes se atrasan 1 hora. A partir del 25 de octubre, anochecerá a las ~17:15. Planificar actividades al aire libre más temprano en la tarde.
 
+---
+
 ## ⚠️ RESERVAS IMPORTANTES (Regla de Oro de Reddit)
+
 "Si no reservas online con meses de anticipación, perderás medio día en la fila o simplemente no entrarás".
-- **Coliseo + Foro:** Reservar online en la web oficial (Parco Colosseo).
-- **Museos Vaticanos:** Reservar online. El skip-the-line vale cada centavo.
-- **Galería Borghese:** OBLIGATORIO reservar, no venden en puerta bajo ningún concepto.
-
-## 📍 Roma Antigua
-
-### Coliseo y Foro
-- [ ] **Coliseo** - Ver PRESUPUESTO.md (incluye Foro + Palatino, válido 24h).
-- [ ] **Foro Romano y Palatino** - El Palatino tiene menos multitudes y jardines hermosos.
-- **Tip Local:** El Foro Romano tiene muy poca sombra y *cero* carteles explicativos. Descarga un audio tour (como Rick Steves gratis) o no entenderás nada más allá de "piedras rotas".
-
-### Panteón
-- [ ] **Panteón** - Ver PRESUPUESTO.md (cobran desde 2023). **Tip Reddit:** Intenta ir justo después de que llueva o mientras llueve; ver caer el agua por el óculo abierto del techo y drenarse por el piso de mármol original romano es una experiencia única.
-
-## ⛪ Vaticano
-
-- [ ] **Museos Vaticanos + Capilla Sixtina** - Ver PRESUPUESTO.md. 
-  - **Tip Reddit de Supervivencia:** Los Museos son un laberinto interminable y caluroso, con multitudes que te empujan como ganado hacia la Sixtina. Ve muy temprano en la mañana o en los tours nocturnos de los viernes para evitar el pánico de las multitudes.
-- [ ] **Basílica de San Pedro** - GRATIS. Para evitar las colas masivas de seguridad en la plaza, ve a las 7:00 AM apenas abren.
-
-## 🍕 Gastronomía Auténtica (Reddit Tips)
-
-La regla general en Roma es: **Aléjate 3-4 cuadras de cualquier monumento importante para comer.**
-
-### Trampas Turísticas a Evitar
-- Cualquier lugar que tenga a alguien en la puerta invitándote a pasar (*buttadentro*).
-- Menús traducidos a 5 idiomas con fotos de la comida.
-- Gelaterias con montañas gigantes de helado brillante (busca colores naturales en recipientes con tapa de metal - *pozzetti*).
-
-### Dónde y Qué Comer
-Roma tiene 4 pastas clásicas: **Carbonara, Cacio e Pepe, Amatriciana, Gricia.** NO pidas pollo en tu pasta, ni "Fettuccine Alfredo" (no existe aquí).
-
-- **En Trastevere:** *Da Enzo al 29* (es excelente, pero hay que hacer mucha fila antes de que abran), *Tonnarello* (popular pero un poco más turístico). *Trapizzino* (Street food increíble: bolsillos de pizza rellenos de guisos romanos).
-- **En Testaccio (El corazón de la comida romana):** *Felice a Testaccio* (Cacio e Pepe legendario, reserva obligatoria), *Mercato di Testaccio* (Para almorzar barato entre locales). *Mordi e Vai* en el mercado hace sándwiches de guisos romanos espectaculares.
-- **Centro/Campo de' Fiori:** *Roscioli Salumeria* (Carbonara top 3 de la ciudad, reservar semanas antes).
-- **Pizza:** En Roma la pizza es súper fina y crujiente (*scrocchiarella*). Para pizza al paso (*al taglio*), *Pizzarium* cerca del Vaticano es considerado el mejor de Italia.
-
-## 👯 Notas de Cande (segunda opinión, 2026)
-
-Vista personal útil para **priorizar** y para **comer de noche**. No sustituye reservas oficiales ni el consenso de arriba.
-
-### Imprescindibles que Cande remarca
-- [ ] **Monumento a Vittorio Emanuele II** (*Il Vittoriano*) — terrazas con **vistas muy lindas** sobre el centro (subida de pago; combina con zona del Foro).
-- [ ] **Campo de' Fiori** — plaza de mercado (de día) y ambiente; **Forno Campo de' Fiori** para pizza al taglio / focaccia.
-- [ ] **Coliseo + Foro Romano** — Cande lo pondría **con guía** (encaja con audio tour / guía: contexto porque “solo piedras” cansa).
-- [ ] **Castel Sant'Angelo** — castillo + **buenas vistas** del techo/terrazas (entrada de pago).
-- [ ] **Piazza Navona** — paseo clásico de noche o de día.
-- [ ] **Ciudad del Vaticano** — ya cubierto arriba (Museos + basílica).
-- [ ] **Galleria Borghese + Villa Borghese** — **MUST** para Cande: pinacoteca pequeña y muy densa + paseo por el parque (reserva obligatoria, igual que arriba).
-
-### Compras / vintage
-- **Vintage:** el centro y barrios como **Monti** tienen buena escena; vale callejear sin lista rígida.
-- **Manufactus** — souvenirs de **cuero** “made in Italy” (varias sucursales; revisar horarios).
-
-### Gastronomía (lista de Cande; cruzar con trampas turísticas de arriba)
-- **Gelato:** *Frigidarium*; *La Romana* (**MUST** para Cande).
-- **Trastevere** — para Cande **el mejor barrio para comer** (coincide en “vida” pero Reddit advierte saturación turística: elegir trattorie concretas y horarios).
-- **Trapizzino** (Trastevere / street food) — ya mencionado arriba; **MUST** compartido.
-- **Supplì:** *Supplì Roma* (**MUST** — arancini romanos).
-- **Tiramisú:** *Two Sizes* (**MUST**).
-- **Pizza:** *50 Kalò* apareció en la lista de Cande bajo “Roma”; en esta guía también figura fuerte en **Nápoles** (origen napolitano). Si buscan pizza romana *tonda* fina, priorizar referencias de pizza al plato / al taglio de arriba; si les cierra el nombre, pueden cruzarlo con la parada en Nápoles.
-- **Carbonara:** *Maccarone* (**MUST**).
-- **Pasta al ragù:** *Pastasciutta* (take away / rápido, **MUST** para Cande).
-
-### Vida nocturna y “Roma vacía”
-- **Jerry Thomas Project** — *speakeasy* (reserva / cupo; políticas estrictas).
-- **Scalo San Lorenzo** — ambiente a la noche (zona con patio / cancha; revisar seguridad y horarios como en cualquier barrio nocturno).
-- **Bar San Calisto** (Trastevere) — *aperitivo* clásico, muy concurrido.
-- **Pastelería Lambiasi** — idea: **pasar de noche** (verificar horario real; puede ser café de barrio con horario extendido).
-- **Giardino degli Aranci** — **atardecer** (ya listado como alternativa tranquila).
-- **Bar del hostel Yellowsquare** — si se alojan ahí (ver `alojamiento.md`).
-- **Fontana di Trevi:** además del consejo de **muy temprano**, Cande recomienda **después de la 1:00** para verla más vacía; **ojo:** cansancio, transporte nocturno y seguridad como siempre en centro grande.
-
-### Tono general (gestión de expectativas)
-- Sobre Roma, **Cande** resume: **mucha agitación y turistas**; no es la Italia favorita de Cande, pero **sí un must**. Útil para planificar **descansos** (Villa Borghese, Aventino, día en Testaccio/Vía Apia) y no medir el viaje solo por el centro histórico pegado a monumentos.
-
-## 💎 Lugares Ocultos y Alternativas (Off the Beaten Path)
-
-Si están cansados de las multitudes del centro:
-- [ ] **Aventine Keyhole (Buco della serratura):** En la colina del Aventino, miras por la cerradura de una puerta verde y ves la cúpula de San Pedro perfectamente enmarcada por arbustos. 
-- [ ] **Giardino degli Aranci (Jardín de los Naranjos):** Al lado de la cerradura. El mejor lugar para ver el atardecer sobre Roma lejos de la locura de las escalinatas de Piazza di Spagna.
-- [ ] **Via Appia Antica (La Vía Apia):** Alquila bicicletas eléctricas el domingo (cuando cierran la calle al tráfico). Es la carretera de 2000 años de antigüedad rodeada de ruinas, catacumbas y campos. La Roma que casi ningún turista ve.
-- [ ] **Quartiere Coppedè:** Un barrio minúsculo al norte de la ciudad que parece sacado de un cuento de hadas o arquitectura de Gaudí. Cero turistas.
+- **Coliseo + Foro:** Reservar en ticketing.colosseo.it; los slots abren 30 días antes
+- **Museos Vaticanos:** Reservar en museivaticani.va; el skip-the-line vale cada euro
+- **Galería Borghese:** OBLIGATORIO reservar — sin reserva no entras bajo ningún concepto, aunque tengas efectivo en la mano
+- **25 oct (último domingo del mes) = Museos Vaticanos GRATIS** — igualmente requiere reservar slot
 
 ---
 
-## Días de la Semana (para planificar)
+## 📍 Roma Antigua
+
+- [ ] **Coliseo** - El anfiteatro más grande del mundo romano (70,000 espectadores); 400 años de espectáculos de gladiadores y caza de animales; **€18** adulto entrada estándar (24h; incluye Foro Romano + Palatino); Full Experience con arena floor o hipogeo: **€24+** (válido 2 días); comprar con reserva de hora en ticketing.colosseo.it; 1er domingo del mes: GRATIS `https://parcocolosseo.it/`
+- [ ] **Foro Romano + Palatino** - Incluido en el ticket del Coliseo; el Palatino tiene menos multitudes que el Foro y jardines con vistas; Tip Local: el Foro tiene muy poca sombra y casi sin carteles explicativos — **descargar el audio tour de Rick Steves** (gratis) antes de ir o no entenderás nada más allá de "piedras rotas"
+- [ ] **Arco de Constantino** - El arco de triunfo mejor conservado de Roma; entre el Coliseo y el Palatino; fotografía imprescindible: **GRATIS**
+- [ ] **Circus Maximus** - El estadio de carreras de carros más grande del mundo antiguo (250,000 espectadores); hoy es un parque; escala impresionante desde las terrazas del Palatino: **GRATIS**
+- [ ] **Panteón** - El edificio de la antigüedad clásica mejor conservado del mundo; el óculo abierto en la cúpula drena el agua de lluvia por el piso de mármol original — **ir durante o justo después de lluvia** para la experiencia única; **€7** adulto (precio desde julio 2026); gratis menores 18 y primer domingo del mes; **reserva online obligatoria** (no hay venta en taquilla) `https://www.pantheonroma.com/en/visit-the-pantheon/`
+- [ ] **Fontana di Trevi** - La fuente más famosa del mundo; **nueva tarifa de acceso €2** vigente desde 2026; **ir a las 6:30 AM** para tenerla casi sola; también funciona post-1:00 AM pero implica logística nocturna; multas de hasta **€250** por sentarse en el borde o tocar el agua
+
+---
+
+## ⛪ Vaticano y Alrededores
+
+- [ ] **Museos Vaticanos + Capilla Sixtina** - 54 galerías con la mayor colección de arte papal; la Sixtina es la culminación; **€20** adulto online (sin suplemento) / **€25** con suplemento de gestión (€5); reducido **€10** para 7-18 años; gratis menores 7; **€7** extra la audioguía; **25 oct = último domingo del mes = GRATIS** (igualmente requiere reservar slot); Tip Reddit: laberinto interminable y caluroso; ir muy temprano o en tour nocturno de los viernes para evitar el pánico de las multitudes `https://tickets.museivaticani.va/`
+- [ ] **Basílica de San Pedro** - La basílica más grande del mundo; GRATIS; para evitar colas masivas de seguridad en la plaza, ir **a las 7:00 AM** apenas abren; tumbas papales y arquitectura que corta el aliento incluso sin subir a la cúpula
+- [ ] **Cúpula de San Pedro** - Vistas panorámicas sobre Roma y el Vaticano; a pie (551 escalones): **€10**; con ascensor (hasta la mitad, luego escalones): **€15**
+- [ ] **Castel Sant'Angelo** - Mausoleo de Adriano convertido en fortaleza papal; las terrazas dan vistas al Tíber y al Vaticano; pasaje secreto (Passetto di Borgo) que conectaba con el Vaticano; **~€16** adulto básico (verificar en coopculture.it antes de ir); gratis 1er domingo del mes
+
+---
+
+## 🏛️ Museos y Pinacotecas
+
+- [ ] **Galleria Borghese** - Pinacoteca de tamaño perfecto (visita de 2h exactas); Bernini (sus esculturas son de otro nivel), Canova, Caravaggio, Tiziano, Rafael; el jardín de la Villa Borghese alrededor es un parque precioso y gratuito; **€16** adulto + **€2** gestión = **€18** total; turno final del día: **€11** + €2 = **€13**; ciudadanos UE 18-25: solo **€2** gestión; gratis menores 18; **RESERVA OBLIGATORIA** — reservar en borghese.gallery con semanas de anticipación `https://borghese.gallery/tickets/`
+- [ ] **Monumento a Vittorio Emanuele II (Vittoriano / Altare della Patria)** - "La máquina de escribir" como lo llaman los romanos; el edificio base + salas interiores: **GRATIS**; terraza panorámica con ascensor de cristal: **~€17-18** adulto (verificar en vive.cultura.gov.it); Cande lo recomienda por las **vistas muy lindas** sobre el Foro y el centro histórico
+- [ ] **Musei Capitolini** - Los museos más antiguos del mundo (inaugurados en 1471); Marco Aurelio original (el de la plaza es copia), la Lupa Capitolina, Constantino gigante; **~€15** adulto (verificar); vista sobre el Foro desde la terraza: impresionante
+- [ ] **Palazzo Doria Pamphilj** - Colección privada increíble (Caravaggio, Velázquez, Bernini) con sala propia para cada obra; menos conocido que los Borghese pero altísimo nivel; **~€16** adulto (verificar)
+
+---
+
+## 🌇 Barrios
+
+- [ ] **Trastevere** - El barrio más "romano" del centro histórico; adoquines y hiedra, trattorias sin menú turístico, vida nocturna auténtica en las plazas; el mejor barrio para comer y vivir la noche romana según Cande: **GRATIS**
+- [ ] **Testaccio** - El verdadero corazón de la comida romana; el barrio de los antiguos mataderos reconvertido; Mercato di Testaccio para almorzar entre locales; Monte Testaccio (colina formada por 53 millones de ánforas romanas rotas); **GRATIS** explorar
+- [ ] **Monti** - El barrio más antiguo de Roma, entre el Coliseo y Termini; ambiente de pueblo en plena ciudad; boutiques vintage, talleres artesanales, trattorias; el favorito de Reddit para alojarse — caminable a los grandes sitios sin precios de trampa turística: **GRATIS**
+- [ ] **Campo de' Fiori** - Plaza de mercado de día (verduras, flores, especias); de noche se convierte en punto de encuentro estudiantil; la estatua de Giordano Bruno (quemado aquí por la Inquisición) preside la plaza: **GRATIS**
+- [ ] **Piazza Navona** - La plaza barroca más espectacular de Roma; la Fuente de los Cuatro Ríos de Bernini en el centro; artistas y artesanos alrededor; paseo clásico de noche: **GRATIS**
+- [ ] **Aventino** - La colina más tranquila de Roma; jardines, iglesias medievales, sin turismo masivo; la cerradura mágica y los Giardini degli Aranci: ver Off the Beaten Path abajo: **GRATIS**
+- [ ] **Pigneto** - El barrio más auténtico y en transformación de Roma; street art, bares locales, aperitivo económico; la zona de la película "Roma" de Visconti; lejos del centro turístico: **GRATIS**
+- [ ] **Ostiense** - Zona industrial reconvertida; el Mercato Ostiense (diseñado por Mussolini como el gran mercado de la ciudad), galería MACRO Testaccio; ambiente alternativo nocturno: **GRATIS**
+
+---
+
+## 🍕 Gastronomía Auténtica
+
+La regla de Roma: **alejarse 3-4 cuadras de cualquier monumento importante para comer.**
+
+### Las 4 pastas romanas (NO pedir Fettuccine Alfredo ni pollo en la pasta)
+- **Carbonara** - Huevo, guanciale (papada curada), pecorino; **sin nata/crema** — *Mejores:* **Roscioli Salumeria** (top 3 de Roma; reservar semanas antes), **Maccarone** (MUST según Cande)
+- **Cacio e Pepe** - Pecorino, pimienta negra, pasta; aparentemente simple e imposible de dominar — *Mejor:* **Felice a Testaccio** (el legendario; reserva obligatoria)
+- **Amatriciana** - Guanciale, tomate, pecorino; el más "rojo" de los cuatro
+- **Gricia** - La madre de la Amatriciana sin tomate; menos conocida pero imprescindible para el purista
+
+### Dónde Comer (por zona)
+- [ ] **Trastevere:** *Da Enzo al 29* (excelente; hacer fila antes que abran para la primera turna), *Tonnarello* (popular pero más turístico), *Trapizzino* (bolsillos de pizza con guisos romanos; street food increíble — MUST según Cande)
+- [ ] **Testaccio:** *Felice a Testaccio* (Cacio e Pepe legendario; reserva), *Mercato di Testaccio* (almuerzo barato entre locales), *Mordi e Vai* en el mercado (sándwiches de guisos romanos espectaculares)
+- [ ] **Centro / Campo de' Fiori:** *Roscioli Salumeria* (Carbonara, reservar con semanas de anticipación), *Forno Campo de' Fiori* (pizza al taglio y focaccia)
+- [ ] **Pizza al taglio (al paso):** *Pizzarium* cerca del Vaticano — considerado por muchos el mejor de toda Italia para pizza al corte; impresionante variedad de toppings
+- [ ] **Street food / Snacks:** *Supplì Roma* (arancini romanos, el snack romano por excelencia — MUST según Cande), *Two Sizes* (tiramisú — MUST según Cande), *Pastasciutta* (pasta take away rápido — MUST según Cande)
+- [ ] **Gelato:** *Frigidarium*, *La Romana* (MUST según Cande); regla estándar: colores opacos/naturales en pozzetti de metal
+
+### Trampas Turísticas a Evitar
+- Alguien en la puerta invitando a pasar (*buttadentro*); menús traducidos a 5+ idiomas con fotos; gelaterías con montañas de helado brillante
+
+---
+
+## 💎 Off the Beaten Path
+
+- [ ] **Aventine Keyhole (Buco della serratura)** - En la colina del Aventino, miras por la cerradura de una puerta verde del Priorato dei Cavalieri di Malta y ves la cúpula de San Pedro perfectamente enmarcada por un túnel de arbustos; uno de los mejores "momentos" de Roma: **GRATIS**
+- [ ] **Giardino degli Aranci (Terraza del Aventino)** - Al lado de la cerradura; vistas panorámicas sobre Roma y el Tíber al atardecer, lejos de la locura de Piazza di Spagna; el mejor mirador tranquilo de la ciudad: **GRATIS**
+- [ ] **Via Appia Antica** - La carretera de 2000 años rodeada de ruinas, catacumbas y campos; alquilar bicis eléctricas el **domingo** (cuando cierran la calle al tráfico); la Roma que casi ningún turista ve; bicicletas ~€10-15/día `https://www.parcoappiaantica.it/`
+- [ ] **Quartiere Coppedè** - Barrio minúsculo al norte de la ciudad que parece sacado de un cuento de hadas (arquitectura entre Art Nouveau y Medieval); encontrado por accidente caminando; cero turistas: **GRATIS**
+- [ ] **Centrale Montemartini** - Museo de esculturas romanas instaladas en una antigua central eléctrica; el contraste mármoles clásicos vs maquinaria industrial es brutal; menos conocido que los Capitolinos; **~€9** adulto (verificar)
+- [ ] **Catacumbas de la Vía Appia** - Las catacumbas paleocristianas más extensas del mundo; San Callisto (la principal), San Sebastiano, Domitilla; solo visita guiada; **~€8-10** adulto (verificar); interesante para entender la historia cristiana temprana
+
+---
+
+## 👯 Notas de Cande (segunda opinión, 2026)
+
+Para Cande: Roma tiene **mucha agitación y turistas**; no es la Italia favorita de Cande, pero **sí un must**. Útil para planificar **descansos** (Villa Borghese, Aventino, día en Testaccio / Vía Apia) y no medir el viaje solo por el centro histórico pegado a monumentos.
+
+### Imprescindibles según Cande
+- **Vittoriano** — terrazas con vistas muy lindas
+- **Castel Sant'Angelo** — castillo + buenas vistas desde el techo
+- **Galleria Borghese + Villa Borghese** — MUST: pinacoteca pequeña y muy densa + paseo por el parque
+- **Coliseo + Foro Romano** — MUST pero con guía/audio tour (sin contexto son solo piedras)
+- **Ciudad del Vaticano** — ya cubierto arriba
+
+### Vida Nocturna y "Roma Vacía"
+- **Jerry Thomas Project** — speakeasy con reserva y políticas estrictas; para cocktails artesanales (muy recomendado en r/rome para quien busca tragos de nivel)
+- **Scalo San Lorenzo** — ambiente nocturno con patio / cancha; zona universitaria de Roma
+- **Bar San Calisto** (Trastevere) — el aperitivo más clásico y concurrido del barrio
+- **Pastelería Lambiasi** — para pasar de noche; verificar horario real
+- **Giardino degli Aranci** — atardecer tranquilo (ya listado arriba)
+- **Fontana di Trevi post-1:00 AM** — la lógica Cande de "Roma vacía"; implica logística nocturna pero funciona
+
+### Compras
+- **Monti** — escena vintage; vale callejear sin lista rígida
+- **Manufactus** — souvenirs de cuero "made in Italy"; varias sucursales
+
+---
+
+## 📅 Días de la Semana
 
 | Fecha | Día | Nota |
 |-------|-----|------|
 | 20 oct | Martes | Llegada desde Florencia |
 | 21 oct | Miércoles | |
 | 22 oct | Jueves | |
-| 23 oct | Viernes | |
+| 23 oct | Viernes | Tours nocturnos Museos Vaticanos (viernes) |
 | 24 oct | Sábado | |
-| 25 oct | Domingo | **Último domingo del mes** = Museos Vaticanos GRATIS. **Cambio de hora** (anochece más temprano). |
+| 25 oct | Domingo | **Último domingo del mes** → Museos Vaticanos **GRATIS** (reservar slot). **Cambio de hora** (atrasar 1h) → anochece ~17:15 |
 | 26 oct | Lunes | Cierran algunos museos estatales |
 | 27 oct | Martes | Salida a Nápoles |
 
-## 💡 Etiqueta y Supervivencia Romana
+**⚠️ Estrategia 25 oct:** Ir a Vaticanos ese día (GRATIS pero muy lleno); reservar slot igualmente en museivaticani.va. Planificar actividades al aire libre antes del anochecer temprano (cambio de hora).
 
-- **El Agua es Gratis:** Roma está llena de *Nasoni* (fuentes públicas con forma de nariz). El agua es fría, potable y deliciosa. Lleva una botella y rellénala. Si tapas el agujero inferior con el dedo, el agua sale por un agujerito arriba como bebedero.
-- **No te sientes en las fuentes:** Las multas por comer o sentarse en los bordes de la Fontana di Trevi o las escalinatas de Piazza di Spagna son reales y severas (Ver PRESUPUESTO.md+).
-- **Seguridad:** Roma es muy segura respecto a crímenes violentos, pero la capital europea de los carteristas (*pickpockets*). Ojo en el Metro (especialmente Termini y la línea A al Vaticano) y en las multitudes del Coliseo. 
+---
 
-Ver `desvios_cercanos.md` para **Ostia Antica, Tívoli (Villa Adriana/d'Este)**
+## 🚶 Free Walking Tour
+
+### EN — SANDEMANs
+- **Punto de encuentro:** **Escalinatas de la Chiesa del Santissimo Nome di Maria al Foro Traiano**, junto a la **Columna de Trajano** (Foro de Trajano / Mercados de Trajano); el guía lleva cartel con el nombre del tour; llegar 10 min antes
+- Tours: Free Tour por el Centro de Roma (3h) + tours de pago (Vaticano, Coliseo, Trastevere, etc.)
+`https://www.neweuropetours.eu/sandemans-tours/roma/`
+
+### ES — Civitatis
+- Tour gratuito completamente en español; cobertura habitual: centro histórico, Coliseo (exterior), Fontana di Trevi, Vaticano (exterior), Trastevere
+- Verificar punto de encuentro exacto y disponibilidad al reservar (varios tours en ES diarios)
+`https://www.civitatis.com/es/roma/`
+
+### GuruWalk (EN/ES)
+- Varios tours con puntos de encuentro distintos según itinerario (centro histórico / Trastevere / Vaticano / Coliseo)
+- Leer reviews individuales del guía antes de reservar — la calidad varía mucho entre guías en GuruWalk Roma
+`https://www.guruwalk.com/rome`
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **Reservas "sí o sí":** Coliseo/Foro (ticketing.colosseo.it), Museos Vaticanos (museivaticani.va) y Galería Borghese — sin reserva se pierde medio día o directamente no se entra
+- **Fontana di Trevi a las 6:30 AM** — la única manera real de tenerla casi sola; a medianoche sigue llena; **nueva tarifa €2 vigente desde 2026**
+- **Testaccio para comer** — el barrio más votado en Reddit para comida romana auténtica y precio razonable; el Mercato di Testaccio es el mejor de Roma para almorzar barato entre locales
+- **Monti para alojarse** — el barrio favorito de Reddit; caminable al Coliseo y Foro, trattorias sin trampa turística, ambiente de barrio en plena ciudad
+- **Via Appia el domingo en bici** — top 5 recomendaciones para "la Roma que nadie ve"; el domingo cierra al tráfico y es casi mágica
+- **Foro Romano necesita audio tour** — sin contexto son "piedras rotas"; Rick Steves (gratis) es la referencia más citada; descargar antes de ir
+- **25 oct = Vaticanos gratis + cambio de hora** — planificar ir ese domingo; el ahorro es de €20-25 por persona; requiere reservar igualmente pero la entrada no se cobra
+- **Roma es abrumadora** — planificar un día "lento" en la semana (Testaccio + Tivoli o Via Appia); el ritmo de monumentos seguidos agota más que cualquier otra ciudad del viaje
+
+---
+
+## 💡 Tips
+
+### Supervivencia Romana
+- **Agua gratuita:** Roma tiene miles de *Nasoni* (fuentes públicas con caño de bronce); agua fría, potable y deliciosa; tapar el agujero inferior con el dedo — el agua sale por un agujerito superior como bebedero; llevar botella rellenable
+- **Pickpockets:** Roma es muy segura respecto a crímenes violentos, pero es la capital europea de los carteristas; máximo cuidado en el Metro (especialmente Termini y línea A hacia el Vaticano) y en las multitudes del Coliseo; mochila siempre al frente
+- **No sentarse en fuentes ni escalinatas históricas:** Multas de hasta **€250** por sentarse en el borde de Fontana di Trevi o escalinatas de Piazza di Spagna; también prohibido comer/beber sentado en las gradas monumentales
+- **Seguridad:** Evitar taxistas sin taxímetro visible; aplicar el mismo sentido común que en cualquier capital europea grande; los robos en Roma son por distracción, no violentos
+
+### Gastronomía
+- El *coperto* (€1.50-3 pp) es legal y normal; no confundir con la propina (que en Italia no existe como obligación)
+- En trattorias locales de Testaccio y Monti se gasta **€12-20** por persona con vino de la casa
+- **Aperitivo** (18-20h) es la costumbre de tomar un negroni o spritz antes de cenar; en Trastevere y Monti muchos bares incluyen algo de comer con la bebida
+
+### Transporte
+- **Metro:** líneas A y B; útil para Vaticano (Ottaviano en la A), Coliseo (Colosseo en la B), Borghese (Spagna en la A); evitar Metro en hora punta con mochila
+- **A pie:** casi todo el centro histórico es caminable entre puntos principales
+- **Autobús:** más lento pero ve a donde el Metro no llega; app ATAC para rutas
+
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+| Atracción | Precio adulto | Reducido | Nota |
+|-----------|--------------|----------|------|
+| Coliseo + Foro Romano + Palatino (24h) | **€18** | — | Full Experience (arena/hipogeo): **€24+**; ticketing.colosseo.it; 1er dom: gratis |
+| Panteón | **€7** | gratis menores 18 | Desde julio 2026; reserva online obligatoria; 1er dom: gratis |
+| Museos Vaticanos + Capilla Sixtina | **€20** online | **€10** (7-18 años) | Con suplemento gestión: **€25**; 25 oct: GRATIS; gratis menores 7 |
+| Cúpula de San Pedro (a pie) | **€10** | — | Con ascensor: **€15** |
+| Galería Borghese | **€16** + **€2** gestión = **€18** | **€2** (UE 18-25) | Reserva OBLIGATORIA; turno final: **€13** |
+| Castel Sant'Angelo | **~€16** básico | — | Verificar en coopculture.it; 1er dom: gratis |
+| Vittoriano (terraza panorámica) | **~€17-18** | **€5** (UE 18-25) | Acceso base + salas: GRATIS; vive.cultura.gov.it |
+| Fontana di Trevi (acceso) | **€2** | — | Nueva tarifa vigente 2026 |
+| Musei Capitolini | **~€15** | — | Verificar en museicapitolini.org |
+
+**Fuentes:** parcocolosseo.it · pantheonroma.com · museivaticani.va · borghese.gallery · coopculture.it
 
 ---
 
 ## 🔗 Fuentes oficiales (links)
-- Coliseo (oficial tickets): `https://parcocolosseo.it/visita/orari-e-biglietti/`
-- Museos Vaticanos (ticketing oficial): `https://tickets.museivaticani.va/`
-- Turismo oficial Roma: `https://www.turismoroma.it/`
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Reservas "sí o sí": **Coliseo/Foro** y **Museos Vaticanos**.
-- **Trevi**: Ir a las 6:30 AM es la ÚNICA manera de tener paz. A medianoche sigue lleno de gente; **alternativa** (consejo de Cande): **muy tarde (post‑1am)** si buscan “Roma vacía” y aceptan logística nocturna.
-- Planificar un día en **Testaccio** o alquilando bicis en la **Vía Apia** para descansar del asfalto y los turistas; Roma es abrumadora y agota físicamente.
+- Coliseo (tickets): `https://parcocolosseo.it/`
+- Panteón (tickets): `https://www.pantheonroma.com/en/visit-the-pantheon/`
+- Museos Vaticanos (tickets): `https://tickets.museivaticani.va/`
+- Galería Borghese (tickets): `https://borghese.gallery/tickets/`
+- Turismo oficial Roma: `https://www.turismoroma.it/`
+- SANDEMANs Roma: `https://www.neweuropetours.eu/sandemans-tours/roma/`
+- Civitatis Roma: `https://www.civitatis.com/es/roma/`
+- GuruWalk Roma: `https://www.guruwalk.com/rome`
+
+Ver `desvios_cercanos.md` para **Ostia Antica, Tívoli (Villa Adriana/d'Este)**

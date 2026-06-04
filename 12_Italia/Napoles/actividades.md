@@ -3,67 +3,175 @@
 **Fechas tentativas:** 27-29 octubre (2 noches — luego Sur de Italia 10 noches desde el 29)  
 **Price Level:** $ (Nápoles es económico para Italia)  
 **Temp:** 13-20°C (otoño, puede llover)  
-**Sol:** Amanecer ~6:28 / Anochecer ~16:57. **Horario de Invierno** (El cambio de hora fue el 25 oct en Roma, así que aquí ya aplica que anochece temprano).
+**Sol:** Amanecer ~6:28 / Anochecer ~16:57 — **ya aplica el horario de invierno** (cambio de hora el 25 oct)
 
-> **Museos gratis 1 nov:** Si seguís en la zona, el primer domingo de noviembre (1/11/2026) aplica "Domenica al Museo" = museos estatales gratis (Museo Archeologico Nacional, Palazzo Reale, Castel Sant'Elmo, etc). OJO: 1 nov = Día de Todos los Santos (feriado).
-
-## 📍 Entendiendo Nápoles (Reddit Reality Check)
-
-Nápoles es **caótica, ruidosa, sucia en partes... y absolutamente auténtica**. No es como el norte de Italia pulido. Es el sur real, sin filtros.
-*Tip Reddit:* "Nápoles fue el shock más grande de mi viaje. Iba preparado para 'Italia bonita' y me encontré con algo completamente diferente. Tómate el primer día para adaptarte al caos; al segundo día te enamorarás."
-
-## 👯 Notas de Cande (segunda opinión, 2026)
-
-- **Bebida local:** pedir la **limonada “abre piernas”** (nombre típico napolitano; suele ser limonada fuerte / con alcohol según el bar — preguntar antes si no quieren sorpresa).
-- **Cocina:** Cande advierte que **mucho es frito** (street food, fritti) y que a **Cande** no le resultó la favorita a nivel digestivo/estilo — aun así Nápoles es cuna de la pizza: compensar con **pizza al plato** y elecciones menos fritas cuando quieran descansar el cuerpo.
-- **Restaurante frente al río:** Cande cuenta que comieron **bien y sin sensación de estafa** en un lugar frente al **Lungomare** (sin nombre; útil como **criterio**: vistas + precio razonable existen, pero conviene mirar reseñas recientes de locales puntuales).
-- **Ciudad:** Cande lo describe como **“quilombo”** intenso (tráfico, ruido); sugiere enmarcarlo como **day trip** (Maradona/mural, almuerzo cerca del río, paseo) si el ritmo general del viaje ya va cargado. **Contraste con Reddit:** muchos foros defienden **más de un día** en Nápoles; ustedes ya tienen **2+ noches** en el itinerario — usen este consejo para **ajustar expectativas**, no para saltarse lo que les interese (museos, pizza, Spaccanapoli).
+> **Primer domingo de noviembre (1/11/2026):** "Domenica al Museo" = museos estatales gratis (MANN, Palazzo Reale, Castel Sant'Elmo, etc.). OJO: 1 nov = feriado (Día de Todos los Santos) — si siguen en la zona, aprovechar.
 
 ---
 
-## 🍕 La Meca de la Gastronomía: Pizza y Street Food
+## 📍 Entendiendo Nápoles
 
-En Nápoles, la mejor comida suele ser la más barata. Evita los restaurantes turísticos del paseo marítimo (*Lungomare*) si buscas autenticidad a buen precio.
+Nápoles es **caótica, ruidosa, sucia en partes… y absolutamente auténtica**. No es el norte de Italia pulido; es el sur real sin filtros. Con solo 2 noches, hay que elegir bien.
 
-### Las Mejores Pizzerías (Según Locales y Foros)
-- **L'Antica Pizzeria da Michele:** Salió en "Eat Pray Love". Solo venden Margherita y Marinara (Ver PRESUPUESTO.md). **La Realidad:** La fila puede ser de 2-3 horas. *Tip:* Ve a las 11:30 AM apenas abren o a las 4:00 PM.
-- **Sorbillo (Via dei Tribunali):** Excelente, pero también con filas masivas.
-- **Alternativas sin tanta fila (Igual de legendarias):** 
-  - **Starita a Materdei:** Famosa por la "Montanara" (pizza frita cubierta de salsa y horneada).
-  - **50 Kalò:** Considerada por los críticos como la mejor masa de Nápoles hoy en día. Cero caos, servicio moderno, más cara (Ver PRESUPUESTO.md).
-  - **Pizzeria Attilio:** En Pignasecca, la favorita de muchos *foodies* locales. Pide la pizza en forma de estrella con bordes rellenos de ricotta.
+> *"Nápoles fue el shock más grande de mi viaje. Iba preparado para 'Italia bonita' y me encontré con algo completamente diferente. Tómate el primer día para adaptarte al caos; al segundo día te enamorarás."*
 
-### Street Food (Comer Caminando)
-- **Pizza a Portafoglio:** Una pizza entera doblada en cuatro (como una billetera) que comes caminando por Ver PRESUPUESTO.md.
-- **Il Cuoppo:** Un cono de papel lleno de frituras de mar a la perfección (calamares, pescaditos) o frituras de tierra (croquetas, arancini).
-- **Sfogliatella (Dulce):** Prueba la *Riccia* (hojaldrada y crujiente) o la *Frolla* (masa suave) en *Pintauro* o *Mary*. Rellena de ricotta dulce y cítricos.
-
-## 💎 Lugares Ocultos y Alternativas (Off the Beaten Path)
-
-El Centro Histórico (Spaccanapoli y Via dei Tribunali) es hermoso pero está cada vez más turístico. Si quieres la experiencia real:
-
-- [ ] **Rione Sanità:** Un barrio vibrante, ruidoso y auténtico que solía ser peligroso y ahora está renaciendo gracias a cooperativas locales. Aquí están las impresionantes **Catacumbas de San Gennaro**.
-- [ ] **Quartieri Spagnoli (Barrio Español):** Famoso por sus calles estrechas en subida y ropa tendida. De día es seguro y fascinante. Ve al **Mural de Maradona** (es como un santuario religioso, la pasión napolitana por Diego es indescriptible).
-- [ ] **Cimitero delle Fontanelle (si está abierto):** Una antigua cantera llena de miles de cráneos humanos. Los napolitanos solían "adoptar" un cráneo, limpiarlo y rezarle a cambio de favores. Una visión fascinante de la relación de la ciudad con la muerte (suele estar en restauración, verificar antes de ir).
-- [ ] **Napoli Sotterranea:** Túneles griegos/romanos bajo la ciudad. Interesante, pero los foros advierten: si sufres de claustrofobia, **NO vayas**. Hay partes donde caminas por pasillos angostos a oscuras con una vela.
-
-## 🏰 Vistas y Arte
-- [ ] **Cappella Sansevero** - El "Cristo Velado". Escultura en mármol que parece tela real. *Reservar online obligatorio, se agota semanas antes.*
-- [ ] **Castel Sant'Elmo** - Toma el funicular hasta el barrio de Vomero para las mejores vistas 360° del Vesubio y la ciudad.
+### Plan sugerido para 2 noches
+- **Tarde llegada:** Spaccanapoli a pie + pizza da Michele o Sorbillo + Piazza del Plebiscito
+- **Día completo:** Cappella Sansevero + Rione Sanità/Catacumbas + Vomero (Castel Sant'Elmo) + noche en el barrio
+- **Mañana salida:** Street food + mercado Pignasecca antes de partir
 
 ---
 
-## 💡 Etiqueta y Seguridad (La Verdad de los Foros)
+## 📍 Imprescindibles
 
-- **¿Es seguro?** Sí. El crimen violento es muy bajo. El problema son los **arrebatos y carteristas**. Nunca camines con el celular asomando del bolsillo trasero. En zonas llenas de gente, mochila al frente.
-- **Cuidado con las Motos (Scooters):** En Nápoles las reglas de tránsito son "sugerencias". Las motos se subirán a las aceras y te pasarán a milímetros. No cambies de dirección de golpe al caminar. 
-- **Cruzar la calle:** Si esperas a que te den paso, te quedarás en la vereda para siempre. Tienes que mirar a los ojos al conductor, dar un paso seguro hacia la calle y caminar a ritmo constante. Ellos te esquivarán a ti.
+### Centro Histórico (Spaccanapoli / Via dei Tribunali)
 
-Ver las opciones de día completo a **Pompeya, Herculano y la Costa Amalfitana** en la carpeta del `Sur de Italia`.
+- [ ] **Cappella Sansevero** ⭐ - El "Cristo Velado": escultura de mármol del s. XVIII que simula perfectamente una tela húmeda sobre un cuerpo; técnicamente imposible y absolutamente sobrecogedora; también el "Anatomical Machines" (modelos anatómicos con venas y arterias de cera del s. XVIII) en el sótano; **€10** adulto / **€7** jóvenes 10-25 años / gratis <10 años — **RESERVAR ONLINE OBLIGATORIO**, se agota semanas antes; aforo muy limitado `https://www.museosansevero.it/en/plan-your-visit/opening-hours-fees`
+- [ ] **Spaccanapoli** - La calle que literalmente "parte" Nápoles en dos; 2km en línea recta de este a oeste a través del centro histórico; una de las calles más vivas e intensas de Europa; **GRATIS** caminar
+- [ ] **Via dei Tribunali** - La otra gran arteria del centro histórico; perpendicular a Spaccanapoli; aquí están las mejores pizzerías y una concentración de iglesias históricas impresionantes; **GRATIS**
+- [ ] **Piazza del Gesù Nuovo e Piazza San Domenico Maggiore** - Las plazas centrales del centro histórico; arquitectura barroca; ambiente local auténtico; **GRATIS**
+- [ ] **Napoli Sotterranea** - Túneles griegos y romanos bajo la ciudad (s. IV a.C.); acueductos griegos que los romanos ampliaron; durante la WWII sirvieron de refugio antiaéreo; las salas con teatro griego-romano son únicos en el mundo: **€10** adulto (entrada básica) — si sufren de claustrofobia, **NO IR**: hay pasajes de 80cm de ancho a oscuras con una vela; **reservar online recomendado** `https://www.napolisotterranea.org/`
+- [ ] **Piazza del Plebiscito** - La plaza más grande de Nápoles; el Palazzo Reale y la Basílica de San Francesco di Paola dominan el fondo; por la noche con las luces es espectacular; **GRATIS**
+
+### Rione Sanità (barrio local auténtico)
+- [ ] **Catacumbas de San Gennaro** - Las catacumbas paleocristianas más grandes del sur de Italia; en el Rione Sanità; gestionadas por una cooperativa juvenil del barrio (proyecto social admirable): **€9** aprox por persona (tour guiado obligatorio; verificar precio actualizado en catacombedinapoli.it); la entrada incluye free ticket para las Catacumbas de San Gaudioso (válido 12 meses) `https://catacombedinapoli.it/en/planning-guided-tour-naples/`
+- [ ] **Rione Sanità en general** - El barrio más auténtico y vibrante de Nápoles; solía ser peligroso, ahora está renaciendo gracias a cooperativas locales; mercado callejero, iglesias barrocas, vida de barrio real; explorar sin miedo pero con conciencia
+
+### Vomero (colina sobre el centro)
+- [ ] **Castel Sant'Elmo** - Fortaleza medieval del s. XIV en lo alto del Vomero; **las mejores vistas 360° de Nápoles, el Vesubio y el Golfo**: **€5** adulto / **€2.50** después de 16:00 o martes; menores 18 UE gratis; subir en funicular (ver transporte) — la subida en funicular ya es una experiencia en sí misma
+- [ ] **Museo di Capodimonte** - Pinacoteca con obras de Caravaggio, Tiziano, Raphael, El Greco y colecciones de porcelana napolitana en un palacio borbónico; **€15** adulto / gratis menores 18 / **gratis el primer domingo del mes**; algo alejado del centro (zona norte, bus o taxi): `https://capodimonte.cultura.gov.it/biglietti/`
+
+### Para los museos
+- [ ] **Museo Arqueológico Nacional (MANN)** - Una de las mejores colecciones arqueológicas del mundo: mosaicos y frescos de Pompeya, colecciones griegas y romanas, el **Gabinete Secreto** (arte erótico romano); **€20** adulto / **€2** reducido (18-25 UE) / **gratis primer domingo del mes** `https://www.museoarcheologiconapoli.it/en/timetables-and-fares/`
+- [ ] **Palazzo Reale di Napoli** - El palacio real borbónico en la Piazza del Plebiscito; apartamentos reales decorados impresionantes + Time Gallery + Museo Caruso: **€15** adulto / gratis menores 17
 
 ---
 
-## 🔗 Fuentes oficiales y Foros
+## 🍕 La Meca de la Pizza y el Street Food
+
+En Nápoles la mejor comida suele ser la más barata. Evitar los restaurantes turísticos del Lungomare si buscás autenticidad.
+
+### Las Mejores Pizzerías
+
+- [ ] **L'Antica Pizzeria da Michele** ⭐ - Solo sirven Margherita y Marinara (la pizza más pura del mundo); fundada en 1870; precio aproximado **€5.50** por pizza — la fila puede ser de 2-3 horas en horario pico; ir a las **11:30am** cuando abren o a las **16:00** para saltarse la fila; salió en "Eat Pray Love"
+- [ ] **Sorbillo (Via dei Tribunali)** ⭐ - El pizzaiolo más famoso de Nápoles hoy; masa napolitana perfecta; ~**€10-12** por pizza; también con fila pero gestiona mejor el flujo; su "pizza frita" también es legendaria
+- [ ] **Starita a Materdei** - Famosa por la **Montanara** (pizza frita cubierta de salsa y luego horneada); menos turistas que Michele o Sorbillo; en el barrio de Materdei
+- [ ] **50 Kalò** - Considerada por muchos críticos la mejor masa de Nápoles hoy; cero caos, servicio moderno; más cara (~**€15-18**); para cuando quieren calidad con ambiente tranquilo
+- [ ] **Pizzeria Attilio** - En el Pignasecca; la pizza estrella con bordes rellenos de ricotta es su especialidad; favorita de foodiess locales
+
+### Street Food (Imprescindible)
+
+- [ ] **Pizza a Portafoglio** - Una pizza entera doblada en cuatro para comer caminando: **~€2-3**; el lunch de los napolitanos; buscar en cualquier pizzería de Via dei Tribunali o Spaccanapoli
+- [ ] **Il Cuoppo** - Un cono de papel lleno de frituras de mar (calamares, pescaditos) o tierra (croquetas, arancini): **~€3-5** — la experiencia callejera más napolitana
+- [ ] **Sfogliatella (dulce)** - Prueba la *Riccia* (hojaldrada y crujiente, la auténtica) o la *Frolla* (masa suave); rellena de ricotta dulce y cítricos: **~€2-3** — en **Pintauro** (Via Toledo) o **Mary** (Via Chiaia)
+- [ ] **Taralli napoletani** - Galletitas de pan crujiente con pimienta negra y almendras; snack callejero clásico; **~€1-2** en cualquier panadería
+- [ ] **Mercato Pignasecca** - El mercado más auténtico del centro; frutas, pescado, fritos callejeros, queso; en el barrio de Quartieri Spagnoli; por la mañana temprano es increíble; **GRATIS** entrar
+
+---
+
+## 💎 Hidden Gems / Alternativas
+
+- [ ] **Quartieri Spagnoli (Barrio Español)** - Las calles estrechas en pendiente perpendiculares a Via Toledo; ropa tendida entre balcones, vespas y vida de barrio; de día es seguro y fascinante; el **Mural de Maradona** está aquí — es un santuario religioso genuino; la pasión napolitana por Diego es indescriptible; **GRATIS**
+- [ ] **Cimitero delle Fontanelle** - Una antigua cantera de toba llena de miles de cráneos humanos; los napolitanos "adoptaban" un cráneo, lo limpiaban y le rezaban a cambio de favores — una visión única de la relación de Nápoles con la muerte; suele estar en restauración parcial — verificar estado antes de ir; **GRATIS** o donación
+- [ ] **Lungomare** - El paseo marítimo; la vista del Golfo de Nápoles con el Vesubio en el fondo es una de las más impresionantes de Italia; ir al atardecer; **GRATIS**
+- [ ] **Mergellina** - El barrio pesquero al extremo oeste del Lungomare; ambiente local, heladerías legendarias (la sfogliatella también), menos turistas que el centro
+- [ ] **Piazza Bellini** - La plaza más bohemia del centro histórico; rodeada de cafés y bares alternativos; los jóvenes de Nápoles se juntan aquí de tarde-noche
+- [ ] **Castel dell'Ovo** - El castillo más antiguo de Nápoles (s. I a.C.) sobre un islote en el golfo; el exterior e interior (acceso libre) dan vistas al Vesubio: **GRATIS** entrar
+
+---
+
+## 💡 Etiqueta y Seguridad
+
+- **¿Es seguro?** Sí. El crimen violento es muy bajo. El problema son los **arrebatos y carteristas** en zonas muy concurridas. Mochila al frente en mercados y metro.
+- **Cuidado con las Motos:** En Nápoles las reglas de tránsito son "sugerencias". Las motos se suben a las aceras. No cambiar de dirección bruscamente; caminar a ritmo constante y los rodearán.
+- **Cruzar la calle:** Si esperas que te den paso, nunca cruzarás. Mirar a los ojos al conductor, dar un paso seguro y mantener el ritmo; ellos te esquivarán.
+- **El chequeo de Cande:** Nápoles puede sentirse como "quilombo" intenso; enmarcarla como la inmersión caótica y auténtica que es, no como "Italia bonita". El consenso Reddit es que casi siempre termina siendo la favorita del viaje.
+
+---
+
+## 🚌 Transporte en Nápoles
+
+- **Metro (Linea 1 y 2):** cubre el centro y el aeropuerto; Linea 1 tiene estaciones con arte contemporáneo excepcional (estación Toledo = "la más bella de Europa" según CNN); ticket **~€1.60** (90min, incluye tranvía y autobús ANM)
+- **Funiculares (4 líneas):** el Funicolare Centrale (Via Toledo → Vomero) y el Funicolare di Chiaia cubren las subidas al Vomero; cubiertos por el mismo ticket UnicoCampania de **~€1.60**
+- **A pie:** el centro histórico se recorre a pie; del metro Naples Centrale (Piazza Garibaldi) al centro son ~20min caminando
+
+---
+
+## 📅 Días de la Semana (para planificar)
+
+| Fecha | Día | Nota |
+|-------|-----|------|
+| 27 oct | Martes | Llegada desde Roma; tarde: Spaccanapoli + pizza |
+| 28 oct | Miércoles | Día completo: Cappella Sansevero + Rione Sanità + Vomero |
+| 29 oct | Jueves | Salida al Sur de Italia; mañana: mercado Pignasecca + street food |
+
+---
+
+## Eventos y Notas de Temporada
+
+- **Nápoles en octubre:** temperatura ideal (13-20°C); menos turistas que verano; la ciudad es más llevadera
+- **1 noviembre (Día de Todos los Santos):** feriado nacional + Domenica al Museo — si el itinerario del Sur de Italia lo permite, volver a Nápoles ese día para museos gratis
+- El **SSC Napoli** puede tener partido de local (Serie A); si coincide y les interesa el fútbol, el Estadio Maradona es una experiencia cultural única
+
+---
+
+## 🚶 Free Walking Tour
+
+### EN — SANDEMANs (opera via Napoli That's Amore, partner vetado)
+- **Naples Old Town Free Walking Tour:** **Piazza Dante**, bajo la estatua de Dante Alighieri; llegar 10min antes
+- **Best of Naples Free Tour:** **Piazza Municipio**, en la **Fuente de Neptuno**; llegar 10min antes
+`https://www.neweuropetours.eu/sandemans-tours/naples/naples-old-town-free-tour/`
+
+### ES — Civitatis
+- **Free Walking Tour Nápoles:** punto de encuentro en **Piazza del Plebiscito** (verificar al reservar, puede variar según tour y fecha)
+- **Free Tour Ciudad Vieja:** entornos de **Piazza Dante**
+- Varios tours de pago ES: Pompeya, Herculano, Costa Amalfitana, Capri
+`https://www.civitatis.com/es/napoles/`
+
+### GuruWalk (EN/ES)
+- **Free Essential Tour (el mejor valorado, +1000 reseñas 5★ en TripAdvisor):** **Piazza Municipio 44** — buscar el cartel de **"Napoli That's Amore"**
+- **Original Free Tour of Naples:** **Piazza Dante**, detrás de la estatua; buscar **paraguas blanco**; también +1100 reseñas 5★
+`https://www.guruwalk.com/p974-naples`
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **No usar Nápoles solo como "puerta" a Pompeya o la Costa Amalfitana** — Dedicarle aunque sea 1 día completo a perderse por sus calles y comer; suele ser la ciudad favorita de quienes buscan algo auténtico y visceral en Italia
+- **Cappella Sansevero** es obligatoria y se agota: reservar semanas antes
+- **Da Michele** es un rito, pero si la fila es de 3h, ir a Attilio o Starita sin remordimiento — la masa napolitana a ese nivel es igual de reveladora en cualquier pizzería local
+- **Spaccanapoli de día** para la energía del barrio; **Piazza Bellini de noche** para beber con los locales
+- **El caos es parte de la experiencia** — ir sin expectativas de "Italia ordenada"; los viajeros que lo abrazan terminan amándola
+
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+| Atracción | Precio adulto | Reducido | Nota |
+|-----------|--------------|----------|------|
+| Cappella Sansevero (Cristo Velado) | **€10** | **€7** (10-25 años) | Reserva online OBLIGATORIA |
+| Napoli Sotterranea | **€10** | — | Reservar si quieren horario fijo |
+| Castel Sant'Elmo | **€5** | **€2.50** (después 16h o martes) | Menores 18 UE gratis |
+| Catacumbas San Gennaro (Rione Sanità) | **~€9** | — | Verificar en catacombedinapoli.it; incluye San Gaudioso |
+| MANN (Museo Arqueológico Nacional) | **€20** | **€2** (18-25 UE) | Gratis 1er domingo del mes |
+| Palazzo Reale di Napoli | **€15** | — | Menores 17 gratis |
+| Museo di Capodimonte | **€15** | — | Gratis menores 18 y 1er domingo mes |
+| Pizza Margherita (da Michele) | **~€5.50** | — | Solo Margherita y Marinara |
+| Pizza en Sorbillo | **~€10-12** | — | |
+| Pizza a portafoglio (callejera) | **~€2-3** | — | |
+| Sfogliatella | **~€2-3** | — | |
+| Funicular (ticket 90min UnicoCampania) | **~€1.60** | — | Metro + funicular + autobús incluidos |
+
+**Fuentes:** museosansevero.it · napolisotterranea.org · catacombedinapoli.it · museoarcheologiconapoli.it · capodimonte.cultura.gov.it
+
+---
+
+## 🔗 Fuentes oficiales
 - Turismo oficial Nápoles: `https://www.visitnaples.eu/`
-- Napoli Sotterranea: `https://www.napolisotterranea.org/`
-- Consenso Reddit: No uses Nápoles solo como "puerta" a Amalfi o Pompeya. Dedícale al menos un día entero a perderte por sus calles y comer; suele ser la ciudad favorita de quienes buscan una experiencia auténtica y visceral en Italia.
+- Cappella Sansevero (reservas): `https://www.museosansevero.it/en/plan-your-visit/opening-hours-fees`
+- Napoli Sotterranea (reservas): `https://www.napolisotterranea.org/`
+- Catacumbas San Gennaro: `https://catacombedinapoli.it/en/planning-guided-tour-naples/`
+- MANN (horarios y precios): `https://www.museoarcheologiconapoli.it/en/timetables-and-fares/`
+- Capodimonte (tickets): `https://capodimonte.cultura.gov.it/biglietti/?lang=en`
+
+Ver las opciones de día completo a **Pompeya, Herculano y la Costa Amalfitana** en la carpeta del `Sur de Italia`
