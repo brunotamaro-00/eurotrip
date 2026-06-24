@@ -83,7 +83,7 @@
 
 ## 🗺️ Cómo llegar a los desvíos del circuito
 
-> Todo se hace **en auto** (es la única forma realista). El "qué hacer" está en [`actividades.md`](actividades.md) y [`desvios_cercanos.md`](desvios_cercanos.md). **No se usa Eurail acá** — no porque UK esté fuera del pase (UK **sí** está cubierto), sino porque las Highlands se recorren **en auto** y la salida es en **vuelo**.
+> Todo se hace **en auto** (es la única forma realista). El "qué hacer" está en [`actividades.md`](actividades.md) y [`desvios_cercanos.md`](desvios_cercanos.md). **Acá no se usa Eurail:** las Highlands se recorren **en auto** y la salida a Ámsterdam es en **vuelo**.
 
 | Destino | Medio | Tiempo (ida) | Costo | ¿Eurail? | Nota |
 |---------|-------|--------------|-------|----------|------|
@@ -112,7 +112,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> ℹ️ **UK sí está cubierto por el Eurail Global Pass** (desde 2019), pero **en las Highlands no se usa**: el circuito es en **auto** (18-25 ago) y la salida a Ámsterdam es en **vuelo**. **Días de Eurail usados acá: 0** (por modo de transporte, no por cobertura). → ver [`../../EURAIL.md`](../../EURAIL.md)
+> ℹ️ **En las Highlands no se usa el Eurail:** el circuito es en **auto** (18-25 ago) y la salida a Ámsterdam es en **vuelo**. **Días de Eurail usados acá: 0.** → ver [`../../EURAIL.md`](../../EURAIL.md)
 
 ---
 

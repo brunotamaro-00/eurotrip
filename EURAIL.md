@@ -3,9 +3,9 @@
 **Pase:** Global Pass · **15 días de viaje dentro de 2 meses** · ✅ comprado ($370 con descuento, x2 personas)
 **Regla:** maximizar en tramos **caros** (UK walk-up, Suiza, larga distancia) y **day trips**; comprar **suelto** lo barato (privados, regional Italia/España, buses).
 
-> ✅ **El Reino Unido SÍ entra en Eurail.** Gran Bretaña (Inglaterra, Escocia, Gales) está incluida en el **Global Pass desde 2019** (lista de 33 países, 2026). **No** hace falta BritRail. Los trenes UK (Londres→York→Edimburgo) y los **day trips británicos** (Bath/Oxford/Cambridge desde Londres; Glasgow/Stirling desde Edimburgo) **pueden gastar día de pase** — y son justo tarifas walk-up caras (£40–90), de las que más rinden. UK **no exige reserva**: subir y andar con el pase activado.
+> 🇬🇧 **Gran Bretaña (Inglaterra, Escocia, Gales) está incluida en el Global Pass.** Los trenes UK (Londres→York→Edimburgo) y los **day trips británicos** (Bath/Oxford/Cambridge desde Londres; Glasgow/Stirling desde Edimburgo) **pueden gastar día de pase** — son tarifas walk-up caras (£40–90), de las que más rinden. UK **no exige reserva**: subir y andar con el pase activado.
 
-> 🪟 **Ventana del pase (2 meses) → ACTIVAR ~7-8 ago (inicio del viaje, primer day trip desde Londres).** La ventana corre hasta **~7 oct** y cubre **todo lo que vale la pena**: UK (5–25 ago) + Ámsterdam→París + Suiza + Austria + Viena→Praga (30 sept). **Italia y España quedan fuera a propósito** y no importa: Italo/Frecce y Ouigo/AVLO/AVE salen **más baratos al contado anticipado** que quemar un día de pase. Activar en Estrasburgo (12 sept) sería un error: dejaría afuera el bloque UK, que es alto valor. *(Fechas post-Portugal tentativas: re-confirmar al cerrar alojamiento.)*
+> 🪟 **Ventana del pase (2 meses) → activar ~7-8 ago (inicio del viaje, primer day trip desde Londres).** La ventana corre hasta **~7 oct** y cubre todo lo que vale la pena: UK (5–25 ago) + Ámsterdam→París + Suiza + Austria + Viena→Praga (30 sept). **Italia y España quedan fuera a propósito**: Italo/Frecce y Ouigo/AVLO/AVE salen **más baratos al contado anticipado** que quemar un día de pase. *(Fechas post-Portugal tentativas: re-confirmar al cerrar alojamiento.)*
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🗓️ Asignación de los 15 días (12 firmes + 3 flex)
+## 🗓️ Asignación de los 15 días (9 firmes + 4 comodines flex)
 
 | # | Día (tent.) | Tramo / uso del día | ¿Reserva? | Por qué rinde |
 |---|-------------|---------------------|-----------|----------------|

@@ -84,7 +84,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> ✅ **El Reino Unido SÍ está cubierto por el Eurail Global Pass** (desde 2019). Los day trips a Glasgow/Stirling/St Andrews **pueden usar día de pase**, pero son **baratos** (£12–17): conviene gastar día acá **solo si te faltan días** para llegar a 15 (uso **flex**). UK no exige reserva.
+> ✅ **El Eurail Global Pass cubre Gran Bretaña.** Los day trips a Glasgow/Stirling/St Andrews **pueden usar día de pase**, pero son **baratos** (£12–17): conviene gastar día acá **solo si te faltan días** para llegar a 15 (uso **flex**). UK no exige reserva.
 
 - **Tramo de salida (Edimburgo → Highlands):** es en **auto**, no usa tren ni Eurail.
 - **Días de Eurail estimados en Edimburgo: 0-1** (1 solo si usás un day trip como comodín para llegar a 15). → ver [`../../EURAIL.md`](../../EURAIL.md)

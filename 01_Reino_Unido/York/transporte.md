@@ -4,7 +4,7 @@
 **Llegada:** tren LNER desde Londres King's Cross → **York Station** (~2h) → detalle en [`../Londres/transporte.md`](../Londres/transporte.md)
 **Salida:** **tren LNER** York → Edimburgo Waverley (15 ago) · ver sección Salida
 
-> 🇬🇧 **UK SÍ entra en Eurail.** El tren **York→Edimburgo** (con parada opcional en Durham, mismo día = mismo día de pase) es un buen **candidato a día de pase** (walk-up ~£70). UK sin reserva. → ver [`../../EURAIL.md`](../../EURAIL.md)
+> 🇬🇧 **Gran Bretaña está cubierta por el Eurail.** El tren **York→Edimburgo** (con parada opcional en Durham, mismo día = mismo día de pase) es un buen **candidato a día de pase** (walk-up ~£70). UK sin reserva. → ver [`../../EURAIL.md`](../../EURAIL.md)
 
 ---
 
@@ -63,7 +63,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> ✅ **El Reino Unido SÍ está cubierto por el Eurail Global Pass** (desde 2019). **York → Edimburgo** (con Durham en el mismo día) gasta **1 día de pase** — walk-up ~£70, rinde. UK no exige reserva. **Días de Eurail estimados en York: 1.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+> ✅ **El Eurail Global Pass cubre Gran Bretaña.** **York → Edimburgo** (con Durham en el mismo día) gasta **1 día de pase** — walk-up ~£70, rinde. UK no exige reserva. **Días de Eurail estimados en York: 1.** → ver [`../../EURAIL.md`](../../EURAIL.md)
 
 ---
 

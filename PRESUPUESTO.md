@@ -61,24 +61,20 @@
 | Concepto | Estimado pp |
 |----------|------------|
 | Eurail Pass (15 días/2 meses) — YA COMPRADO | $370 |
-| Reservas obligatorias Eurail (TGV, nocturnos) | $69-119 |
+| Reservas Eurail (Eurostar Ámsterdam→París + Railjet opc.) | $24-35 |
 | Vuelo Edimburgo → Ámsterdam (COMPRADO — USD 184 total, 2p) | **$92** |
 | Vuelo Sur Italia → Barcelona (aeropuerto flexible) | $15-110 |
 | Vuelo **Buenos Aires (BUE) → Londres (LHR)** — **Smiles (COMPRADO)** | **$484** |
 | Vuelo **Madrid (MAD) → Buenos Aires (BUE)** — **Plus Ultra (COMPRADO)** | **$473** |
 | Liubliana → Trieste → Florencia (bus+tren) | $33-62 |
-| Trenes UK individuales (Londres-York-Edimburgo) | $55-99 |
-| Eurostar Ámsterdam → París (individual) | $39-55 |
-| Bus Praga → Cracovia (RegioJet) | $17-28 |
-| Budapest → Viena (individual ÖBB) | $17-28 |
-| Florencia → Roma (individual Italo) | $11-28 |
-| Roma → Nápoles (individual Italo) | $11-17 |
-| Barcelona → Madrid (Ouigo/AVLO) | $17-41 |
+| Bus/tren Praga → Cracovia (Leo Express/RegioJet, fuera del pase) | $17-28 |
+| Florencia → Roma → Nápoles (Italo, fuera del pase) | $22-45 |
+| Barcelona → Madrid (Ouigo/AVLO, fuera del pase) | $17-41 |
 | Auto Highlands (7 días, dividido en 2) | $150-220 |
 | Transporte local (metro, bus, etc.) | $550-850 |
-| **TOTAL TRANSPORTE** | **$2,432.5-3,026.5** |
+| **TOTAL TRANSPORTE** | **$2,276.5-2,760.5** |
 
-**Nota:** **UK SÍ entra en Eurail** → activar el pase ~7-8 ago. Maximizar los 15 días con tramos caros: **bloque UK** (Londres→York, York→Edimburgo + day trips Bath/Oxford/Cambridge walk-up) y **Suiza** (Friburgo→Interlaken + day trips internos + Interlaken→Viena). Los tramos baratos o privados (Italia, España, Praga→Cracovia, buses) se compran por fuera; quedan **fuera de la ventana** de 2 meses (Italia/España). Ver tramos en `transporte.md` de cada ciudad y [`ITINERARIO_GENERAL.md`](ITINERARIO_GENERAL.md).
+**Nota:** El Eurail (15 días/2 meses, ya comprado) se activa al inicio del viaje (~7-8 ago) y cubre los tramos **más caros**: el **bloque UK** (Londres→York, York→Edimburgo + day trips Bath/Oxford/Cambridge) y **Suiza** (Friburgo→Interlaken + day trips internos + Interlaken→Viena). Los trenes UK y el Eurostar **ya van dentro del pase** (no se compran aparte). Lo barato o de operador privado (Italia, España, Praga→Cracovia, buses) se compra suelto y queda fuera de la ventana de 2 meses (Italia/España). Plan de los 15 días en [`EURAIL.md`](EURAIL.md).
 
 ### Otros Gastos (por persona)
 
@@ -203,9 +199,9 @@
 |-----------|-------|
 | Alojamiento (100 noches, sin Portugal) | $4,000-4,945 |
 | Alimentación (100 días, sin Portugal) | $3,040-4,256 |
-| Transporte (Eurail ya comprado) | $2,432.5-3,026.5 |
+| Transporte (Eurail ya comprado) | $2,276.5-2,760.5 |
 | Otros | $2,203-3,603 |
-| **TOTAL pp (sin Portugal)** | **$11,675.5-15,830.5** |
+| **TOTAL pp (sin Portugal)** | **$11,519.5-15,564.5** |
 
 ### Portugal (1 persona, 8 noches)
 
@@ -220,9 +216,9 @@
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | **$12,390.2-16,737.2** |
-| Persona 2 (100 noches, sin Portugal) | **$11,675.5-15,830.5** |
-| **TOTAL VIAJE** | **$24,065.7-32,567.7** |
+| Persona 1 (108 noches completas) | **$12,234.2-16,471.2** |
+| Persona 2 (100 noches, sin Portugal) | **$11,519.5-15,564.5** |
+| **TOTAL VIAJE** | **$23,753.7-32,035.7** |
 
 ### Gastos Confirmados
 

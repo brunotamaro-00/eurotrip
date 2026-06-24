@@ -4,7 +4,7 @@
 **Llegada:** **vuelo internacional** (1ª parada del viaje) → desde el aeropuerto al centro en tren/metro (ver Llegada)
 **Salida:** **tren LNER** King's Cross → York (13 ago) · ver sección Salida
 
-> 🇬🇧 **UK SÍ entra en Eurail.** El transporte urbano de Londres se paga suelto (contactless), pero el tren **Londres→York** y los **day trips** (Bath/Oxford/Cambridge) son **candidatos a gastar día de pase** (walk-up caro). El pase arranca al inicio del viaje (activar ~7-8 ago). → ver [`../../EURAIL.md`](../../EURAIL.md)
+> 🇬🇧 **Gran Bretaña está cubierta por el Eurail.** El transporte urbano de Londres se paga suelto (contactless), pero el tren **Londres→York** y los **day trips** (Bath/Oxford/Cambridge) son **candidatos a gastar día de pase** (walk-up caro). El pase arranca al inicio del viaje (activar ~7-8 ago). → ver [`../../EURAIL.md`](../../EURAIL.md)
 
 ---
 
@@ -106,7 +106,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> ✅ **El Reino Unido SÍ está cubierto por el Eurail Global Pass** (Gran Bretaña entró en 2019). El tren **Londres → York** y los **day trips** (Bath/Oxford/Cambridge) son **candidatos a día de pase** — tarifas walk-up caras (£40–90) que rinden mucho. UK **no exige reserva** (subir y andar). **Estrategia:** activar el pase ~7-8 ago y usar 2-3 días en Londres (1-2 day trips + Londres→York). **Días de Eurail estimados en Londres: 2-3.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+> ✅ **El Eurail Global Pass cubre Gran Bretaña.** El tren **Londres → York** y los **day trips** (Bath/Oxford/Cambridge) son **candidatos a día de pase** — tarifas walk-up caras (£40–90) que rinden mucho. UK **no exige reserva** (subir y andar). **Estrategia:** activar el pase ~7-8 ago y usar 2-3 días en Londres (1-2 day trips + Londres→York). **Días de Eurail estimados en Londres: 2-3.** → ver [`../../EURAIL.md`](../../EURAIL.md)
 
 ---
 
