@@ -58,40 +58,44 @@
 
 ---
 
-## 🎉 Vida Nocturna
+## 🌙 Nightlife
 
-- [ ] **Cross Club (Holešovice)** - Alternativo, industrial, steampunk; multi-planta con diferentes ambientes (techno, drum&bass, jazz); el favorito de viajeros que buscan algo diferente al club mainstream; atmosfera única en Europa
-- [ ] **Karlovy Lázně** - Club de 5 pisos en el centro, frente al Puente de Carlos; mainstream pero experiencia; entrada **~200-300 CZK** (verificar en puerta); el más "turístico" de los clubs pero también el más accesible para ir una vez
-- [ ] **Chapeau Rouge (Ciudad Vieja)** - Club histórico; más gritty y local que Karlovy Lázně; 3 pisos con música variada
-- [ ] **Hazel (Vinohrady)** - Bar de cócteles muy bien valorado; para una noche sin club
-- [ ] **Pub crawl** - Varias empresas hacen pub crawl por el centro; ~**400-600 CZK** aprox con shots incluidos; populares entre backpackers; verificar precio y empresa antes de ir
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/hits/varied), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. Praga es **barata para salir** (cerveza local 50-70 CZK ≈ €2-3); ojo con las trampas turísticas del centro (ver Anti-Scam). **1 EUR ≈ 25 CZK.**
+
+### 🕺 Para bailar
+- **Radost FX (Vinohrady)** [🇦🇷/latino] — club hip y querido; noches de **reggaeton y salsa** además de hip-hop/house; popular entre locales y visitantes; nuestro palo musical `https://prague.org/latin-club-prague/`
+- **Chapeau Rouge (Ciudad Vieja)** — club histórico de 3 pisos, más gritty y local que los clubes turísticos; música variada; **entrada barata** `https://prague.org/latin-club-prague/`
+- **Karlovy Lázně** — el club de **5 pisos** frente al Puente de Carlos (cada piso un género); mainstream y **el más turístico**, pero es una experiencia para ir una vez; **entrada ~200-300 CZK** (verificar en puerta)
+
+### 🍸 Bares para arrancar / tomar algo
+- **Beer gardens de Letná y Riegrovy Sady** — Pilsner a precio local con vista al Castillo al atardecer; el "previo" favorito de los praguenses (ver sección Cerveza) [local]
+- **Pubs de Žižkov** — el barrio con "más pubs per cápita de Europa"; cerveza barata y cero turistas; arranque auténtico [local]
+- **Hazel (Vinohrady)** — bar de cócteles muy bien valorado para una noche sin club
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Cross Club (Holešovice)** [🦄 raro/icónico] — el club más alucinante de Praga: decoración **industrial-steampunk** hecha de chatarra y engranajes móviles, multi-planta con ambientes distintos (electrónica, DnB, jazz, conciertos); atmósfera única en Europa, imperdible aunque no sea tu género `https://prague.org/latin-club-prague/`
+
+### 🇦🇷 Noche latina
+- **Blaze Lounge & Club** [🇦🇷/latino] — **Latino Night todos los sábados desde las 23h**: salsa y reggaeton; Jungmannovo náměstí (centro) `https://blaze-lounge.cz/en/latino-night-party-prague/`
+- **La Macumba** [🇦🇷/latino] — de los clubes de salsa más populares; DJs de salsa, bachata y reggaeton `https://www.tripadvisor.com/Attraction_Review-g274707-d9857190-Reviews-La_Macumba_latino_music_bar-Prague_Bohemia.html`
+- **La Casa de la Música** [🇦🇷/latino] — salsa y bachata con banda en vivo y pista llena `https://prague.org/latin-club-prague/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Prague.org, Blaze Lounge y guías locales. Re-chequear `r/Prague` a mano antes del viaje.
+- **Dónde salen los locales [local]:** Vinohrady y Žižkov (bares baratos y clubes como Radost FX), no el centro turístico `https://prague.org/latin-club-prague/`
+- **⚠️ Trampa clásica de Praga:** si alguien "te invita" a un bar/strip club sin carta de precios visible o con presión en la puerta → **salir ya** (facturas de miles de euros); ver Anti-Scam arriba `https://www.realpragueguides.com/blog/prague-scams-whats-real-whats-old-and-whats-just-misunderstood-2026-update`
+- **Día fuerte:** vie-sáb (la Latino Night de Blaze cae sábado); con estadía lun-sáb, apuntar vie 2 / sáb 3
+- **Pub crawl:** populares entre backpackers (~400-600 CZK con shots) — verificar empresa antes
+- **Volver:** de madrugada usar **Bolt/Uber/Liftago** (no taxis de calle, ver Anti-Scam); el tranvía tiene líneas nocturnas
 
 ---
 
-## 🍽️ Comer Bien (y Evitar Trampas)
-
-> *"Old Town/centro no es donde viven los locales, así que la densidad de trampas turísticas se parece a la densidad de turistas. La regla simple: **salí 10-15 min caminando** del 'tourist highway' y mejora todo."*
-
-**Señales de tourist trap (se repiten mucho en r/prague):**
-- Menú plastificado con fotos en múltiples idiomas + persona en la puerta "cazando" clientes
-- "Czech traditional" hiper forzado en plena plaza + precios fuera de escala
-- POS con "tip" por defecto sin explicarlo → siempre pedir recibo antes de pagar
-
-**Plan simple para comer sin pensar mucho:**
-- Si dudás, ir a un **Lokál** (mencionado una y otra vez como la opción segura)
-- "Regla de oro": no comer en la misma plaza; a 2-3 calles cambia absolutamente todo
-
-**Platos típicos para buscar:**
-- **Svíčková na smetaně** - Ternera en salsa de crema con knedlíky (dumplings de pan); EL plato nacional; ~180-250 CZK
-- **Guláš** - Goulash checo con pan o knedlíky; contundente y barato (~120-180 CZK)
-- **Vepřo-knedlo-zelo** - Cerdo asado con dumplings y chucrut; clásico dominical
-- **Trdelník** - Dulce callejero (turístico pero genuinamente bueno); ~80-100 CZK
-- **Knedlíky** - Dumplings de pan que acompañan prácticamente todo
-
-**Opciones recomendadas por viajeros:**
-- [ ] **Naše maso (Malá Strana)** - Carnicería/deli local; para almuerzo rápido y auténtico
-- [ ] **Eska (Karlín)** - Cocina checa moderna; uno de los mejores restaurantes de Praga sin ser turístico; reservar
-- [ ] **Havelské tržiště** - Mercado al aire libre en el centro; frutas, souvenirs, snacks; más local que las plazas turísticas
+## 🍽️ Gastronomía
+> Detalle completo (platos checos, hospodas/jídelny, dónde comer barato, trampas turísticas como el trdelník, comida para llevar, supermercados y mercados) en [`gastronomia.md`](gastronomia.md).
+>
+> La sección de **Cerveza Checa** (dónde tomarla) se mantiene arriba en este archivo como experiencia.
 
 ---
 
@@ -132,6 +136,21 @@
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** lun 28 sept – sáb 3 oct (5 noches)
+
+- **⚠️ Feriado el día de llegada:** **lun 28 sept = Día de San Wenceslao** (Día de la Estatalidad Checa) — por ley, las tiendas de +200m² (supermercados incluidos) CIERRAN; quedan abiertos comercios chicos, farmacias y los locales de estaciones de tren/aeropuerto; museos y restaurantes abren normal; puede haber actos conmemorativos en la Plaza Wenceslao `https://www.expats.cz/czech-news/article/czech-statehood-day-sees-stores-closed-for-national-celebration`
+- **Eventos:** Dvořákova Praha (clásica) suele terminar ~fines de sept — verificar si quedan funciones `https://www.dvorakovapraha.cz/` · **Signal Festival (luces/videomapping, GRATIS)** es ~15-18 oct — NO coincide salvo que se estiren fechas
+- **Cierres por día de semana:** **Josefov cierra los sábados** (Shabat) → visitarlo mar-vie; el sáb 3 es día de salida, sin margen
+- **Solo esos días:** Farmer's Market de Holešovice → sáb 3 (mañana de salida) · beer gardens (Letná, Riegrovy) abiertos mientras aguante el clima — primeras semanas de octubre es el límite
+- **Renovaciones/cierres 2026:** funicular de Petřín — en reconstrucción hasta primavera 2026; verificar si reabrió `https://www.dpp.cz/en/restrictions-and-emergencies/detail/24428`
+- **Clima y luz:** 10-18°C, ~12h de luz (anochecer ~18:55); otoño pleno
+
+---
+
 ## Eventos Cercanos a las Fechas (tentativas 28 sept - 3 oct)
 
 - **Dvořákova Praha** (septiembre) - Festival de música clásica con la Filarmónica Checa; verificar fechas exactas 2026 para ver si solapa con la estancia
@@ -165,9 +184,10 @@
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Puente de Carlos al amanecer** = el dato más repetido de r/prague; de día es "un mercado lleno de vendedores y selfie-sticks"; el amanecer vale levantarse a las 5am
-- **Old Town tiene muchas trampas turísticas:** la regla "10-15 min caminando fuera del núcleo turístico" mejora calidad, precio y autenticidad de forma dramática
-- **Beer halls y Lokál** suelen ganar por calidad-precio; evitar menús con fotos y lugares con alguien en la puerta
+- **Puente de Carlos al amanecer** = el dato más repetido de r/prague; de día es "un mercado lleno de vendedores y selfie-sticks"; el amanecer vale levantarse a las 5am `https://old.reddit.com/r/Prague/comments/1k4kkqn/just_visited_prague_for_the_second_time_after_10/`
+- **Old Town tiene muchas trampas turísticas:** la regla "10-15 min caminando fuera del núcleo turístico" mejora calidad, precio y autenticidad de forma dramática `https://old.reddit.com/r/Prague/comments/1qi7lj4/eating_in_old_town/`
+- **Beer halls y Lokál** suelen ganar por calidad-precio; evitar menús con fotos y lugares con alguien en la puerta `https://old.reddit.com/r/Prague/comments/1n3igos/prague_top_travel_tips_list_whats_missing_whats/`
+- **Propinas [local]:** se dice el total al mozo al pagar, no se deja extra en la mesa; revisar el POS por tips por defecto `https://old.reddit.com/r/Prague/comments/1h67py2/tipping/`
 - **Vyšehrad y Letná** son los tops locales para escapar del turismo sin salir de la ciudad; especialmente el atardecer en Riegrovy Sady/Letenský zámeček
 - Para 5 noches: 2 primeros días los imprescindibles del centro + al menos 1 tarde en Vinohrady/Letná + 1 desvío (Český Krumlov si no están cansados)
 - **El Josefov vale el precio** según prácticamente todos; el Cementerio Viejo especialmente sobrecogedore; reservar online para evitar filas

@@ -49,18 +49,39 @@
 
 ---
 
-## 🍺 Gastronomía y Bares
-
-- [ ] **Schwarzwälder Kirschtorte (Tarta Selva Negra)** - La tarta de chocolate, cerezas y nata que da nombre a la región; la auténtica lleva Kirschwasser (aguardiente de cerezas); en cualquier Konditorei del centro (~**€4-6** la porción)
-- [ ] **Maultaschen** - Las ravioles suabas rellenas de carne y espinacas; el plato casero de Baden-Württemberg; en restaurantes de barrio ~**€10-14**
-- [ ] **Flammkuchen (versión alemana de la tarte flambée)** - La misma masa fina pero con variaciones locales (queso, setas, cebolla caramelizada) ~**€9-13**
-- [ ] **Cerveza Baden** - Las cervezas de Baden tienen más cuerpo que las bávaras; Ganter y Feldschlößchen son las marcas locales de Friburgo (~**€3-4** la pinta en bar de estudiantes)
-- [ ] **Vinos de Baden** - La región vinícola más al norte de Alemania con los vinos más cálidos; Spätburgunder (Pinot Noir alemán) y Grauburgunder (Pinot Gris); copas desde ~**€4-6**
-- [ ] **Bares de estudiantes en Stühlinger / Kaiserstuhl** - Cervezas a €2-3, ambiente de 20-25 años; la zona entre la estación y la Altstadt para bares baratos y locales
+## 🍽️ Gastronomía
+> Detalle completo (platos de la Selva Negra, Lange Rote, mensas, dónde comer barato, vinos de Baden, comida para llevar, supermercados y Münstermarkt) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
-## 🌲 Selva Negra — Day Trips (elegir 1 fuerte + 1 suave)
+## 🌙 Nightlife
+
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado, no somos de techno (pero vamos si es lo único). Curaduría de lo mejor. Friburgo es **ciudad universitaria** (25.000 estudiantes): noche **joven, barata y relajada**, concentrada en la Altstadt y la zona de la universidad. Cerveza **€3.50-5**, cóctel **€8-12**.
+
+### 🕺 Para bailar
+- **Maria Bar** — bar + hamburguesería + club; comés temprano y después, cuando bajan las luces, los DJs más conocidos de Friburgo ponen vie-sáb y se baila hasta el final; lo más completo para una noche `https://neontrails.com/germany/freiburg-nightlife`
+- **CRASH** — mezcla ecléctica: desde hits nostálgicos de los 2000 hasta de todo; ambiente íntimo y animado, ideal para bailar sin que sea solo techno `https://neontrails.com/germany/freiburg-nightlife`
+- **El.Pi** — club de rock/indie; pista chica, ambiente amistoso de estudiantes; para los que prefieren guitarras a electrónica `https://neontrails.com/germany/freiburg-nightlife`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Augustinerplatz** — la plaza donde los estudiantes se sientan en las escalinatas a tomar cerveza al aire libre; el "previo" gratis y más local de Friburgo [local] `https://neontrails.com/germany/best-freiburg-bars`
+- **E-Werk / MensaBar** — bares estudiantiles con tragos baratos y noches temáticas; para arrancar barato
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Maria Bar** [🦄 raro] — el combo hamburguesa + club en el mismo local es la rareza simpática de la noche friburguesa
+
+### 🇦🇷 Noche latina
+- **Gran Fiesta Latina @ Mamita** [🇦🇷/latino] — **los sábados desde las 22h**, toda la noche música latina: reggaeton, salsa, merengue, bachata, electro latino y charts; Nussmannstr. 7-9 `https://visit.freiburg.de/en/gran-fiesta-latina`
+- **El Toro** [🇦🇷/latino] — **los viernes** kizomba, bachata, salsa, reggaeton y latino con DJ Roberto Lopes `https://www.about-freiburg.de/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con NeonTrails, visit.freiburg.de y about-freiburg. Re-chequear `r/germany` / agendas locales a mano antes del viaje.
+- **Dónde salen los jóvenes [local]:** Altstadt y zona universitaria; Augustinerplatz al aire libre para arrancar `https://neontrails.com/germany/freiburg-nightlife`
+- **Barato:** ciudad de estudiantes → de lo más económico para salir en Alemania
+- **Día fuerte:** vie-sáb (también las noches latinas caen ahí: El Toro vie, Mamita sáb); con estadía mié-sáb apuntar a esas dos noches
+- **Volver:** todo caminable en la Altstadt; tranvía nocturno limitado, pero el centro es chico y seguro
 
 ### Día "fuerte" (naturaleza/trekking)
 
@@ -95,8 +116,23 @@
 
 ## 🎶 Eventos: 16-19 septiembre 2026
 
-- [ ] **New Pop Festival** (3er fin de semana de septiembre, cae exactamente en estas fechas) — Festival de música indie/pop/electrónica en múltiples venues del centro de Friburgo; mezcla de conciertos de pago (~**€20-40**) y espacios gratuitos con ambiente en la calle — "aunque no pagues entrada, el ambiente en la ciudad durante el New Pop es el mejor fin de semana del año en Friburgo" (Reddit local) `https://www.new-pop.de/`
-- [ ] **Münstermarkt en sábado** — el mercado de los sábados es el más completo del año; productos de la Selva Negra, vinos de Baden, quesos locales
+- [ ] **SWR3 New Pop Festival — 17-19 sept 2026, en BADEN-BADEN (no Friburgo)** ⚠️ corrección: el festival es en Baden-Baden (~1h en tren desde Friburgo); conciertos íntimos de artistas emergentes + **conciertos GRATIS diarios** en la concha del Kurhaus y programa gratuito en la "New Pop City" — posible day trip si interesa; las entradas de pago se agotan con semanas `https://www.baden-baden.com/en/events/swr3-new-pop-festival`
+- [ ] **Münstermarkt en sábado** — el mercado de los sábados es el más completo; productos de la Selva Negra, vinos de Baden, quesos locales (sáb 19, mañana de salida)
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mié 16 – sáb 19 sept (3 noches)
+
+- **⚠️ Wutachschlucht Wanderbus solo opera fines de semana y festivos** → con estadía mié-sáb, el único día con bus de retorno es el **sáb 19** (día de salida); para hacer la garganta entre semana hay que resolver la vuelta con bus regular/taxi o hacer ruta circular — verificar PDF 2026 `https://www.wutachschlucht.de/anreise/wanderbus`
+- **Eventos:** New Pop Festival en Baden-Baden 17-19 sept (ver arriba) · **vendimia** en el Kaiserstuhl y Staufen — bodegas activas, catas con productores
+- **Feriados:** ninguno en Baden-Württemberg esas fechas
+- **Cierres por día de semana:** museos municipales cierran lunes (no afecta mié-sáb); Münstermarkt lun-sáb 7-13:30 (no domingo); Markt Stühlinger mar y vie → **vie 18**
+- **Renovaciones/cierres 2026:** Augustinermuseum renovado y reabierto desde feb 2026 ✓
+- **Clima y luz:** 10-21°C; noches ya frescas; la Selva Negra tiene microclima propio — impermeable y calzado de trekking siempre
 
 ---
 
@@ -136,9 +172,9 @@
 - **Clima:** la Selva Negra cambia rápido; llevar siempre chaqueta impermeable y calzado de trekking aunque salga sol en Friburgo; la garganta y el Feldberg tienen su propio microclima
 - **Feldberg vs Wutachschlucht:** Feldberg para vistas alpinas y altura; Wutachschlucht para selva y garganta fluvial; son experiencias completamente distintas
 
-### New Pop Festival
-- Las entradas para los conciertos principales se agotan con semanas de anticipación; comprar online apenas salga el programa
-- Incluso sin entradas, el ambiente en la ciudad el 3er fin de semana de septiembre es especial; restaurantes llenos, conciertos gratuitos en plazas
+### New Pop Festival (Baden-Baden)
+- Es en **Baden-Baden**, ~1h en tren desde Friburgo — day trip, no evento local de Friburgo
+- Las entradas de pago se agotan con semanas; los conciertos de la concha del Kurhaus y la New Pop City son GRATIS
 
 ---
 
@@ -149,7 +185,7 @@
 - **Schluchsee > Titisee para locales** — "el 90% de los guías turísticos mandan a Titisee; el 90% de los alemanes que viven en Friburgo eligen Schluchsee cuando quieren lago en paz" (r/germany)
 - **Barrio Vauban** — "si te interesa el urbanismo y el futuro de la ciudad europea, Vauban es la visita más fascinante de Friburgo y nadie la menciona; tejados con energía positiva y calles sin coches en una ciudad de verdad" (r/urbanplanning, r/germany)
 - **Los Bächle como símbolo** — "Friburgo tiene estas acequias medievales corriendo por todas las calles y cuando te lo explican te das cuenta de que la ciudad nunca abandonó su relación con el agua; es el detalle más querido de la ciudad por sus habitantes" (múltiples posts r/germany)
-- **New Pop Festival** — "si coincide con el viaje, es el mejor fin de semana del año en Friburgo; incluso sin entradas el ambiente en la ciudad es increíble" (comentario Reddit de residente local)
+- **New Pop Festival (corrección)** — el festival es en **Baden-Baden**, no Friburgo; confirmado 17-19 sept 2026 con conciertos gratis frente al Kurhaus `https://www.baden-baden.com/en/events/swr3-new-pop-festival`
 
 ---
 

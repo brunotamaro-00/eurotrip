@@ -1,5 +1,18 @@
 # 🚆 Transporte en la Costa Amalfitana
 
+**Fechas:** dentro de las 10 noches del Sur (~29 oct – 8 nov 2026) · **Estado:** tentativo (post-Portugal; **opción/desvío** del Sur de Italia)
+**Llegada:** desde **Nápoles** en **Circumvesuviana a Sorrento** (~1h10, €4.40) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Salida:** volver a **Nápoles** (Circumvesuviana) o seguir a **Puglia** (Bari) según ruta · ver Salida
+
+> 📍 Tramo tentativo y **opción/desvío** del Sur (más corto que Puglia/Sicilia/Calabria; suele combinarse con Nápoles). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+
+## 🧭 Resumen rápido
+
+- **Buses SITA = la base** del transporte costero (Sorrento↔Positano↔Amalfi); **ferries solo como bonus** (suelen parar a fines de octubre).
+- ⚠️ **Auto NO recomendado** en la SS163 (estrecha, parking carísimo): dejar el auto en Sorrento/Nápoles y usar bus.
+- **Octubre:** servicio reducido pero operativo; **verificar horarios de vuelta**.
+- **Costo:** bus SITA **€2–4/tramo** · Circumvesuviana €4.40 · ferries €12–20/tramo (si operan).
+
 ## Llegada desde Nápoles
 
 ### Nápoles → Sorrento (Circumvesuviana)
@@ -74,11 +87,21 @@ La Costa Amalfitana es una de las pocas zonas de Italia donde el auto **juega en
 
 ---
 
+## 🎟️ Eurail (este tramo)
+
+> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+- La Costa Amalfitana se mueve con **Circumvesuviana (EAV, fuera de Eurail) + buses SITA + ferries** → **0 días de Eurail**.
+- **Días de Eurail en la Costa Amalfitana: 0.**
+
 ## 🔗 Fuentes oficiales (links)
-- SITA Sud (buses): `https://www.sitasudtrasporti.it/`\n+- Travelmar (ferries): `https://www.travelmar.it/`\n+- EAV (Circumvesuviana horarios): `https://www.eavsrl.it/web/orari-linee-ferroviarie`
+- SITA Sud (buses): `https://www.sitasudtrasporti.it/`
+- Travelmar (ferries): `https://www.travelmar.it/`
+- EAV (Circumvesuviana horarios): `https://www.eavsrl.it/web/orari-linee-ferroviarie`
 
 ## 🧠 Consenso Reddit/foros (resumen)
-- En octubre, planificar con **buses como base** y ferries como “bonus” si operan.\n+- Si marean las curvas: sentarse adelante + medicación.\n+- Validar que haya servicios de vuelta (horarios reducidos off-season).
+- En octubre, planificar con **buses como base** y ferries como “bonus” si operan.
+- Si marean las curvas: sentarse adelante + medicación.
+- Validar que haya servicios de vuelta (horarios reducidos off-season).
 
 ## 🔎 Hilos y lecturas (links)
 - Búsqueda r/ItalyTravel “SITA bus Amalfi”: `https://www.reddit.com/r/ItalyTravel/search/?q=SITA%20bus%20Amalfi&restrict_sr=1&sort=relevance&t=all`

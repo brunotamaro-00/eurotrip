@@ -109,6 +109,17 @@ Calabria es **la punta de la bota italiana**, la región más pobre y menos visi
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — destino del Sur aún sin decidir; ventana jue 29 oct – dom 8 nov
+
+- **Feriado clave: dom 1 nov = Ognissanti** — feriado nacional; en Calabria (transporte público ya limitado) ese día es prácticamente inexistente → imprescindible tener el auto; **1er domingo del mes: Bronces de Riace/museos estatales GRATIS**
+- **Off-season real:** Tropea y la Costa degli Dei están tranquilas pero habitables; varios restaurantes costeros cierran entre semana — verificar antes de manejar lejos para cenar
+- **Sagra del fungo en Camigliatello (Sila):** las ferias de setas de otoño suelen ser oct-nov — verificar fechas; si coincide, es la experiencia local de la Sila
+- **Clima y luz:** 15-22°C en costa, frío en Sila/Pollino (montaña, posible nieve temprana en cumbres); anochece ~17:00 → trekkings de mañana
+
+---
+
 ## 🔗 Fuentes oficiales (links)
 - Turismo Calabria (oficial): `https://www.calabriatourism.it/`
 

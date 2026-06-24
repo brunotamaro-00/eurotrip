@@ -74,23 +74,8 @@
 
 ---
 
-## 🍽️ Gastronomía Alsaciana
-
-### Los platos que hay que probar
-- [ ] **Tarte flambée / Flammekueche** - La "pizza alsaciana": masa fina cubierta de crème fraîche, cebolla y lardons de bacon; la versión clásica (~**€10-14**); la comida más emblemática de Alsacia — en winstub auténtica, mucho mejor que en los locales de Petite France
-- [ ] **Choucroute garnie** - El plato alsaciano por excelencia; col fermentada con carnes curadas, salchichas y patatas (~**€16-22**) — plato contundente; mejor al mediodía
-- [ ] **Baeckeoffe** - El cassoulet alsaciano de tres carnes marinadas en vino blanco con patatas; preparación que dura 24h; solo en winstubs auténticas (~**€18-24**)
-- [ ] **Spaetzle** - Los fideos de huevo alsacianos con mantequilla tostada; como guarnición o plato (~**€8-12**)
-- [ ] **Kougelhopf** - El bizcocho esponjoso con pasas y almendras; el postre/desayuno más característico de Alsacia (~**€4-6** la porción)
-- [ ] **Vinos blancos de Alsacia** - Riesling, Gewürztraminer, Pinot Gris, Sylvaner; por copa en winstub ~**€4-6**; Alsacia produce los mejores vinos blancos secos de Francia
-
-### Winstubs recomendadas (reservar con anticipación)
-- [ ] **Chez Yvonne (S'Burjerstuewel)** - La winstub más histórica de Estrasburgo (desde 1873); Chirac y Sarkozy tienen mesas reservadas; el estándar de la cocina alsaciana ~**€20-30** menú `https://www.chez-yvonne.net/`
-- [ ] **Fink Stuebel** - En el borde de Petite France; interior de madera pintada, manteles de cuadros; la favorita de TripAdvisor y recomendada en foros de viaje ~**€18-25**
-- [ ] **Tire-Bouchon** - Junto a la catedral; institución de cocina alsaciana tradicional; carta larga y variada ~**€18-28**
-- [ ] **Winstub du Pont du Corbeau** - Familia Andt desde 30+ años; platos caseros de productos frescos; más auténtica que las winstubs turísticas de Petite France ~**€15-22**
-- [ ] **Le Clou** - Pequeña winstub céntrica; la recomendada por foodies que buscan autenticidad sobre fama ~**€18-25**
-- [ ] **Marché Couvert (Les Halles)** - El mercado cubierto para almuerzo rápido y barato; charcutería alsaciana, quesos munster, brezel fresco (~**€6-12** comer dentro)
+## 🍽️ Gastronomía
+> Detalle completo (platos alsacianos, winstubs, tarte flambée, menú du jour, comida para llevar, supermercados y Marché Couvert) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -131,6 +116,21 @@
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** sáb 12 – lun 14 sept (2 noches)
+
+- **Eventos / dato para decidir fechas:** las **Journées Européennes du Patrimoine** son el **18-20 sept 2026** — monumentos normalmente cerrados abren GRATIS en toda Francia; con las fechas tentativas se las pierden por días; como el tramo es flexible, considerar si conviene reacomodar Alsacia para pisar ese finde (también aplica a Colmar) `https://journeesdupatrimoine.culture.gouv.fr/`
+- **Feriados:** ninguno en Francia esas fechas
+- **Cierres por día de semana:** Reloj Astronómico **sin show los domingos** (si la estadía incluye dom 13, el show es sáb 12 o lun 14) · museos municipales cierran lunes (verificar cuáles) · Fort Poligone solo abre **jue y sáb** → única chance sáb 12
+- **Parlamento Europeo:** verificar el calendario de sesiones plenarias — durante semana de sesión el acceso de visitas cambia `https://visiting.europarl.europa.eu/`
+- **Renovaciones/cierres 2026:** Museo Alsaciano CERRADO hasta junio 2028 (ya registrado)
+- **Clima y luz:** 11-21°C, amanecer ~7:00 / anochecer ~19:45; noches frescas — abrigo liviano
+
+---
+
 ## 💡 Tips
 
 ### Logística
@@ -154,8 +154,10 @@
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Petite France es espectacular, pero solo a primera hora o al atardecer** — "a las 11am el barrio parece Disneyland; antes de las 9am es la ciudad medieval auténtica, una de las más bellas de Europa" (r/france, múltiples posts)
-- **Barrage Vauban > cualquier entrada de pago** — "la terraza gratuita del Barrage da la mejor vista de toda la ciudad incluyendo los Ponts Couverts y Petite France; nadie te cobra nada y es la foto de portada de cualquier guía de Estrasburgo" (TripAdvisor foros)
+- **Petite France es espectacular, pero solo a primera hora o al atardecer** [viajero] — "very touristy and often crowded"; antes de las 9am es la ciudad medieval auténtica `https://www.tripadvisor.com/ShowTopic-g187075-i825-k3380202-Recommendations_for_2_days_in_Strasbourg-Strasbourg_Bas_Rhin_Grand_Est.html`
+- **Barrage Vauban > cualquier entrada de pago** — la terraza gratuita da la mejor vista de la ciudad (Ponts Couverts + Petite France + catedral); recurrente en foros `https://community.ricksteves.com/travel-forum/france/strasbourg-france-what-to-do`
+- **Lo que dice un local [local]:** guía "25 must-see tips from a local" de una residente alsaciana — qué ver, dónde comer y qué evitar `https://www.my-weekend-in-alsace.com/visiting-strasbourg-do-see-eat/`
+- **El crucero por el Ill vale la pena** [viajero] — "really worth it" repetido en hilos de 2 días en Estrasburgo `https://www.tripadvisor.com/ShowTopic-g187075-i825-k5594967-Strasbourg_for_two_days-Strasbourg_Bas_Rhin_Grand_Est.html`
 - **Winstub auténtica con reserva** — "no improvisar para cenar; las winstubs buenas se llenan; reservar Chez Yvonne o Fink Stuebel el día anterior como mínimo" (Lonely Planet Thorn Tree, r/france)
 - **Krutenau para la noche local** — "si Petite France es la Estrasburgo turística, Krutenau es la real; cafés de estudiantes, bares sin carta en inglés, precios locales" (múltiples posts r/france)
 - **Reloj Astronómico** — "el show de 15 minutos a las 12:30h es kitsch pero los mecanismos del reloj en sí son extraordinarios; vale los €3 por el contexto histórico solo" (Rick Steves forums)

@@ -23,7 +23,7 @@
 | **Reino Unido subtotal** | **5-25 ago** | **20** | | **$912.7** | |
 | Países Bajos | 25-29 ago | 4 | $59.4 | $237.7 | ✅ Reservado |
 | Francia | 29 ago - 4 sept | 6 | $44.3 | $265.6 | ✅ Reservado |
-| **Portugal — Lisboa + Porto (1 persona)** | 4-12 sept | 8 | **$30 (Lisboa) + $30-35 (Porto est.)** | **$240-255** | Lisboa ✅ Reservado; Porto pendiente |
+| **Portugal — Lisboa + Porto (1 persona)** | 4-12 sept | 8 | **$29.51 (Lisboa) + $36.70 (Porto)** | **$257.65** | ✅ Reservado (Lisboa + Porto) |
 | Francia — Estrasburgo | 12-14 sept | 2 | $40-60 | $80-120 | |
 | Francia — Colmar | 14-16 sept | 2 | $40-60 | $80-120 | |
 | Alemania — Friburgo | 16-19 sept | 3 | $38-55 | $114-165 | Selva Negra (base) |
@@ -37,7 +37,7 @@
 | Italia | 15 oct - 8 nov | 24 | $40-56 | $960-1,344 | Florencia + Roma + Nápoles + Sur (10n) |
 | España | 8-18 nov | 10 | $35-48 | $350-480 | Barcelona + Madrid |
 | **Margen flex (ubicación TBD)** | a usar en el viaje | 3 | $35-48 | $105-144 | Colchón; sumar noches donde interese (no anclado al cierre) |
-| **TOTAL** | | **108** | | **$4,240-5,200** | |
+| **TOTAL** | | **108** | | **$4,334.7-5,458.7** | |
 
 ### Alimentación (por persona)
 
@@ -78,7 +78,7 @@
 | Transporte local (metro, bus, etc.) | $550-850 |
 | **TOTAL TRANSPORTE** | **$2,432.5-3,026.5** |
 
-**Nota:** Maximizar los 15 días del Eurail con day trips (Suiza, Bratislava, Pompeya, Montserrat). Los tramos baratos (Italia, España, bus) se compran por fuera. Ver tramos en `transporte.md` de cada ciudad y [`ITINERARIO_GENERAL.md`](ITINERARIO_GENERAL.md).
+**Nota:** **UK SÍ entra en Eurail** → activar el pase ~7-8 ago. Maximizar los 15 días con tramos caros: **bloque UK** (Londres→York, York→Edimburgo + day trips Bath/Oxford/Cambridge walk-up) y **Suiza** (Friburgo→Interlaken + day trips internos + Interlaken→Viena). Los tramos baratos o privados (Italia, España, Praga→Cracovia, buses) se compran por fuera; quedan **fuera de la ventana** de 2 meses (Italia/España). Ver tramos en `transporte.md` de cada ciudad y [`ITINERARIO_GENERAL.md`](ITINERARIO_GENERAL.md).
 
 ### Otros Gastos (por persona)
 
@@ -120,15 +120,16 @@
 - Vuelo **París → Lisboa** (con equipaje): **$85**
 - Tren **Lisboa → Porto** (CP, Alfa Pendular / Intercidades): **$12-40** (según compra/horario)
 - Vuelo **Porto → Estrasburgo** (Volotea, con equipaje): **$90 (COMPRADO)**
-- Alojamiento Lisboa: **Lisbon Destination Hostel** — **USD 30/noche** (4–9 sept, 5 noches) — ✅ Reservado
+- Alojamiento Lisboa: **Lisbon Destination Hostel** — pagado **130€ TOTAL** (≈ **$147.55**, $29.51/noche; 4–9 sept, 5 noches) — ✅ Reservado
+- Alojamiento Porto: **Onefam Ribeira** — pagado **97€ TOTAL** (≈ **$110.10**, $36.70/noche; 9–12 sept, 3 noches) — ✅ Reservado
 
-| Concepto | Estimado |
+| Concepto | Real / Estimado |
 |----------|----------|
-| Alojamiento (8n) | $240-255 |
+| Alojamiento (8n) — Lisboa $147.55 + Porto $110.10 | **$257.65 (real)** |
 | Comida (8d) | $200-304 |
 | Actividades | $70-130 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$697-968** |
+| **Subtotal** | **$714.65-906.65** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: $274-405 (Estrasburgo 2n + Colmar 2n + Friburgo 3n)
@@ -210,18 +211,18 @@
 
 | Categoría | Portugal (Lisboa + Porto) |
 |-----------|----------------------------|
-| Alojamiento + comida | $440-559 |
+| Alojamiento (real) + comida (est.) | $457.65-561.65 |
 | Actividades | $70-130 |
 | Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$697-968** |
+| **Subtotal** | **$714.65-906.65** |
 
 ### Gran Total (2 personas + Portugal 1 persona)
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | **$12,115.5-16,386** |
+| Persona 1 (108 noches completas) | **$12,390.2-16,737.2** |
 | Persona 2 (100 noches, sin Portugal) | **$11,675.5-15,830.5** |
-| **TOTAL VIAJE** | **$23,791-32,216** |
+| **TOTAL VIAJE** | **$24,065.7-32,567.7** |
 
 ### Gastos Confirmados
 
@@ -237,14 +238,15 @@
 | Gothenburg Hotel (Edimburgo tránsito, 1 noche) | $115.2 | $57.6 |
 | Ámsterdam (4 noches) | $475.4 | $237.7 |
 | París (6 noches) — The People – Paris Belleville | $531.2 | $265.6 |
-| Lisboa (5 noches) — Lisbon Destination Hostel (1 persona) | $150.0 | $150.0 |
+| Lisboa (5 noches) — Lisbon Destination Hostel (1 persona) — pagado 130€ TOTAL | $147.55 | $147.55 |
+| Porto (3 noches) — Onefam Ribeira (1 persona) — pagado 97€ TOTAL | $110.10 | $110.10 |
 | Vuelo Buenos Aires (BUE) → Londres (LHR) — Smiles | $968.0 | $484.0 |
 | Vuelo Madrid (MAD) → Buenos Aires (BUE) — Plus Ultra | $946.0 | $473.0 |
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
 | Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$184.0** | **$92.0** |
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
 | Vuelo París (CDG/ORY) → Lisboa (LIS) — Persona 1 (1 persona) | $85.0 | $85.0 |
-| **TOTAL CONFIRMADO** | **$6,694.8** | **$3,509.9** |
+| **TOTAL CONFIRMADO** | **$6,802.5** | **$3,617.6** |
 
 ---
 
@@ -326,4 +328,4 @@ Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financiera
 
 ---
 
-**Última actualización:** Mayo 2026 (revisión actividades, comida, alojamiento tentativo y totales)
+**Última actualización:** 24 junio 2026 (gastos reales de alojamiento Portugal: Lisboa 130€/$147.55 y Porto 97€/$110.10 — Onefam Ribeira confirmado)

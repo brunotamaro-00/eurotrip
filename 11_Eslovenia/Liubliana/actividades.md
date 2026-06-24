@@ -49,44 +49,42 @@ Liubliana es la capital más pequeña de Europa (280,000 hab). Muy compacta y ca
 
 ---
 
-## 🍺 Comida y Bebida
-
-### Platos Eslovenos
-- **Štruklji** - Rollitos de masa hervida rellenos de requesón y nueces (dulces) o espinacas y queso (salados); el plato esloveno más característico; ~**€8-12** como entrante
-- **Potica** - Pan dulce enrollado con nueces o semillas de amapola; imprescindible con café; **€1-3** en panaderías
-- **Jota** - Guiso de frijoles, patatas y chucrut; contundente y calentador para días fríos de octubre; ~**€8-12**
-- **Burek** - Herencia balcánica; hojaldre con carne o queso; street food barato; **~€2-4** en panaderías
-- **Carniola sausage (Kranjska klobasa)** - La salchicha ahumada eslovena; con mostaza y pan; ~**€5-8**
-
-### Dónde Comer
-- [ ] **Mercado Central (Plečnikove Arkade)** - Productos frescos por la mañana; el mejor lugar para comprar snacks y fruta de productores locales; muy barato
-- [ ] **Open Kitchen / Odprta Kuhna** - Si en octubre sigue activa (viernes tarde); 30+ food trucks con platos de todo el mundo + cocina eslovena; una de las mejores experiencias food de la ciudad `https://odprtakuhna.si/`
-- [ ] **Gostilna na Gradu** - Restaurante en el castillo; cocina eslovena con ingredientes de temporada y vistas; para una comida especial; ~**€15-25** por persona
-- [ ] **Druga Violina** - Restaurante con empleados con discapacidad; comida casera eslovena muy buena a precio justo; el favorito de quienes buscan algo con sentido además de comida
-- [ ] **Foculus** - Pizza al estilo romano (masa fina, crujiente); popular entre universitarios; **~€9-13** por pizza
-
-### Cerveza y Bares
-- **Union** y **Laško** - Las marcas locales históricas; cualquier bar las tiene; **~€4-4.50** la caña
-- [ ] **Sir William's** - Pub irlandés con la mejor selección de cervezas de Liubliana; siempre lleno
-- [ ] **Pritličje** - Bar LGBTQ+ friendly; ambiente artístico y muy chill; una de las mejores terrazas del río en verano/principios de otoño
+## 🍽️ Gastronomía
+> Detalle completo (platos eslovenos, burek, dónde comer barato, Mercado Central, Open Kitchen, comida para llevar y supermercados) en [`gastronomia.md`](gastronomia.md).
+>
+> Los **bares/cerveza** (Sir William's, Pritličje, Union/Laško) se mantienen arriba en este archivo como vida nocturna.
 
 ---
 
-## 🎉 Vida Nocturna
+## 🌙 Nightlife
 
-### Metelkova (MUST para alternativos)
-- **Qué es:** Antigua base militar del Ejército Yugoslavo, ocupada espontáneamente en 1993 tras la independencia de Eslovenia; hoy es un centro cultural autogestionado legal y único en Europa; el exterior de los edificios es una obra de arte de graffiti y escultura urbana
-- **Ambiente:** Punk, alternativo, artístico, LGBTQ+ friendly; cada local tiene su música diferente; muy seguro a pesar de la estética
-- **Los locales principales:** Gala Hala (techno, electrónica), Menza pri koritu (rock alternativo), Channel Zero (punk/metal), Klub Tiffany (LGBTQ+), Monokel (LGBTQ+ mujeres)
-- **Entrada:** La zona es pública y gratuita siempre; los conciertos y eventos cobran entre €5-15 según artista
-- **Mejor noche:** Viernes y sábados; funciona todo el año
-- > *"Si te gusta lo underground/alternativo, Metelkova es de los lugares más únicos de Europa. No te dejes intimidar por la estética, es muy seguro."* — r/Ljubljana
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado, no somos de techno (pero vamos si es lo único). Curaduría de lo mejor. Liubliana es chica, **muy segura y barata**; su joya nocturna es **Metelkova** (lo raro/icónico). Cerveza local (Union/Laško) **~€4-4.50**. **Estado tentativo:** dom-jue → la noche fuerte (vie/sáb) la agarra justa; entre semana abren los locales chicos.
 
-### Otros
-- [ ] **Cirkus Club** - Club más mainstream del centro; el más fácil para una noche
-- [ ] **Orto Bar** - Rock y metal; el punto de encuentro local para los amantes del rock
-- [ ] **K4** - El club LGBTQ+ histórico de Liubliana; también dominical cultural
-- [ ] **Pritličje** - Bar perfecto para antes de Metelkova; ambiente relajado, gente interesante
+### 🕺 Para bailar
+- **Cirkus Club** — el club más mainstream del centro; hits y pista fácil para una noche `https://www.ljubljana.info/events/dancing/`
+- **Klubi de Metelkova** — cada galpón con su música (ver Raro/icónico abajo); Gala Hala (electrónica/conciertos), Menza pri koritu (rock alternativo) — para bailar variado y alternativo
+- **K4** — club histórico LGBTQ+ 🏳️‍🌈 con noches variadas; institución de la movida de Liubliana
+
+### 🍸 Bares para arrancar / tomar algo
+- **Pritličje** — el bar perfecto para el previo de Metelkova; ambiente relajado, gente interesante, una de las mejores terrazas del río [local]
+- **Orillas del Ljubljanica** — las terrazas de Gallusovo/Cankarjevo nabrežje son el corazón social; arrancar con una cerveza al lado del río [local]
+- **Sir William's** — pub con la mejor selección de cervezas de la ciudad, siempre lleno
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Metelkova** [🦄 raro/icónico] — **ex base militar yugoslava okupada en 1993**, hoy centro cultural autogestionado legal y único en Europa; fachadas cubiertas de graffiti y escultura urbana, cada galpón con su escena (punk, electrónica, rock, LGBTQ+); **zona pública y gratis**, eventos €5-15; pleno **vie/sáb**; Muy seguro pese a la estética [local] `https://www.visitljubljana.com/`
+
+### 🇦🇷 Noche latina
+- **Fiesta Latina Slovenia @ Cvetličarna** [🇦🇷/latino] — la fiesta latina más grande de Eslovenia: salsa/bachata/kizomba desde las 22h y después **reggaeton y latin pop**; chequear fecha durante la estadía `https://www.salsavida.com/event/slovenia/ljubljana/fiesta-latina-slovenia/`
+- **Dancefloor (Šmartinska 106)** [🇦🇷/latino] — salsa (LA), bachata y kizomba; **entrada €5**, 22-3h `https://www.salsavida.com/guides/slovenia/ljubljana/socials/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Visit Ljubljana, Ljubljana.info y SalsaVida. Re-chequear `r/Ljubljana` a mano antes del viaje.
+- **Lo imperdible [local]:** **Metelkova** — recomendado unánimemente para cualquiera con curiosidad alternativa; el espacio más original de Europa Central `https://www.reddit.com/r/Ljubljana/`
+- **Día fuerte:** vie/sáb (Metelkova late ahí); con estadía dom-jue, la mejor noche es entre semana en los bares del río + locales chicos de Metelkova
+- **Barato y seguro:** Liubliana es de las capitales más seguras de Europa; sin precauciones especiales
+- **Volver:** todo el centro es peatonal y caminable; no hace falta transporte de noche
 
 ---
 
@@ -104,11 +102,28 @@ La mayor ventaja de Liubliana son los desvíos de Eslovenia. Ver las carpetas es
 
 | Fecha | Día | Nota |
 |-------|-----|------|
-| 11 oct | Sábado | Llegada desde Budapest; Open Kitchen puede estar activa (sábados también en temporada) |
-| 12 oct | Domingo | Castillo y casco histórico tranquilo por la mañana |
-| 13 oct | Lunes | |
-| 14 oct | Martes | |
-| 15 oct | Miércoles | Salida a Florencia (vía Trieste) |
+| 11 oct | Domingo | Llegada desde Budapest (ojo: maratón de Budapest ese día — salir con margen) |
+| 12 oct | Lunes | Museos: verificar cuáles cierran lunes |
+| 13 oct | Martes | Desvío regional |
+| 14 oct | Miércoles | Desvío regional |
+| 15 oct | Jueves | Salida a Florencia (vía Trieste) |
+
+> ⚠️ **Días corregidos** (11 oct 2026 = domingo). Consecuencia: la estadía es dom-jue → la **Odprta Kuhna / Open Kitchen (solo viernes) NO coincide**; además a mediados de octubre la temporada suele estar terminando.
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** dom 11 – jue 15 oct (4 noches)
+
+- **Eventos:** LIFFE (cine) suele ser nov — verificar `https://www.liffe.si/` · Ljubljana Design Week/eventos de diseño en oct — verificar `https://www.visitljubljana.com/`
+- **Feriados:** ninguno en Eslovenia esas fechas (Día de la Reforma es el 31 oct)
+- **Cierres por día de semana:** **Odprta Kuhna (Open Kitchen) es solo los VIERNES → no coincide con la estadía dom-jue**; además la temporada termina ~fin de octubre · museos: varios cierran lunes (lun 12) — verificar Galería Nacional y Casa Plečnik antes de planificar ese día · Mercado Central más completo de mañana lun-sáb (domingo reducido)
+- **Solo esos días:** Metelkova pleno solo vie/sáb → la estadía dom-jue la agarra en modo tranquilo (los locales chicos abren igual entre semana)
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados
+- **Clima y luz:** 7-15°C, ~11h de luz (anochecer ~18:20); otoño con lluvia probable — los desvíos regionales dependen del pronóstico: asignar el mejor día al Soča/Bled y el lluvioso a Postojna (subterráneo)
 
 ---
 
@@ -143,8 +158,9 @@ La mayor ventaja de Liubliana son los desvíos de Eslovenia. Ver las carpetas es
 
 ## 🧠 Consenso Reddit/Foros
 
-- **La ciudad se hace en 1-2 días** de casco histórico; los 4+ días se justifican por los desvíos regionales (Bled, Soča, Postojna)
-- **Metelkova:** unánimemente recomendado para cualquiera con curiosidad alternativa; el espacio más original de Europa Central; ir los viernes/sábados por la noche
+- **La ciudad se hace en 1-2 días** de casco histórico; los 4+ días se justifican por los desvíos regionales (Bled, Soča, Postojna) `https://www.reddit.com/r/solotravel/comments/1q8h8y9/trip_report_slovenia_austria_parts_of_italy/`
+- **Moverse [local]:** centro 100% peatonal y caminable; Bicikelj (bicis públicas) con 1h gratis es lo que usan los locales `https://www.reddit.com/r/Ljubljana/comments/1pc5zlv/getting_around_ljubljana_tips_pls/`
+- **Metelkova:** unánimemente recomendado para cualquiera con curiosidad alternativa; el espacio más original de Europa Central; pleno los viernes/sábados por la noche (r/Ljubljana)
 - **Castillo:** el acceso a pie por el bosque es tan bonito como el funicular y gratis; subir al funicular para la bajada si quieren la experiencia
 - **Open Kitchen/Odprta Kuhna:** si coincide con los viernes activos (primavera-otoño), es el mejor plan de comida de toda la ciudad
 - **Plečnik** es el hilo que une todo Liubliana; un arquitecto que diseñó puentes, mercados, parques, estadios y la biblioteca de la misma ciudad; el free tour suele contar bien su historia

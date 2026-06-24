@@ -77,6 +77,20 @@ Koper → Trieste (consigna + paseo) → tren a Florencia (mismo día o noche en
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Ventana tentativa:** mar 13 – jue 15 oct (día de costa + stopover Trieste el jue 15 rumbo a Florencia)
+
+- **Miramare (Trieste):** del 15 al 31 oct el parque cierra a las **17:00** → en el stopover del jue 15, ir temprano `https://miramare.cultura.gov.it/visita/`
+- **Sečovlje Salinas:** oct Lera 7-19h, museo Fontanigge 9-17h ✓
+- **Piran fuera de temporada:** murallas con horario reducido — verificar; el shuttle de Fornače sigue operando (~€1)
+- **Feriados:** ninguno en Eslovenia ni Italia esas fechas
+- **Clima y luz:** el Adriático en octubre es templado (ideal Parenzana y Strunjan a pie); anochecer ~18:20 — el atardecer en Piran cae temprano, planificar la vuelta
+
+---
+
 ## 🔗 Links útiles
 - Info parking oficial Piran/Portorož: `https://www.portoroz.si/en/general-information/parking/`
 - Parking Fornače (detalle): `https://locapgroup.com/en/parking/piran/`

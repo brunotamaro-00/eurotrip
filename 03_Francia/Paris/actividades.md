@@ -72,38 +72,9 @@
 ---
 
 ## 🍞 Gastronomía
-
-### Boulangeries y desayuno
-- [ ] **Du Pain et des Idées** (Canal Saint-Martin, 10ème) ⭐ - Una de las 3 mejores boulangeries de París; pain des amis, escargot pistache-chocolat, croissant "el mejor de París" según Alan Estrada y docenas de viajeros — no venden café; cruzar a **Télescope** (enfrente) para el espresso `https://www.dupainetdesidees.com/`
-- [ ] **Croissant fresco en boulangerie de barrio** - Cola de locales = buena señal; crujiente por fuera, mantecoso y alveolado por dentro (~**€1.20-1.50**) — el desayuno francés real; sin esto no empieza bien el día
-- [ ] **Pain au chocolat** (~**€1.20-1.80**) + **jambon-beurre** en baguette (~**€4-5**) + **quiche lorraine** la porción (~**€4-5**) — el almuerzo más barato y auténtico de París; en cualquier boulangerie de barrio
-- [ ] **Galette bretonne** (crêpe de trigo sarraceno con relleno salado) en **Rue du Montparnasse** — la calle de crêperías bretonas; galette complète (huevo+jamón+queso) ~**€9-12** — o crêpe dulce de postre ~**€6-8**
-
-### Bouillons (restaurantes históricos baratos) ⭐
-- [ ] **Bouillon Chartier** ⭐ - Desde 1896 en los Grands Boulevards; el más famoso de París; ambiente de estación de tren antigua con camareros en delantal; entrée + plat + dessert ~**€20-25** pp — el consejo más repetido en r/paris para comer bien y barato; cola habitual de 15-30min pero vale `https://www.bouillon-chartier.com/`
-- [ ] **Bouillon Julien** - Hermoso interior Art Nouveau; platos ~**€10-16**; misma filosofía que Chartier, menor espera `https://www.bouillon-julien.com/`
-- [ ] **Bouillon Pigalle** - Más nuevo, cerca de Montmartre; mismos precios, menor espera que Chartier `https://www.bouillonpigalle.com/`
-- [ ] **Bouillon République** - Opción adicional en el 11ème si los otros tres tienen mucha cola
-
-### Street food y mercados
-- [ ] **L'As du Fallafel** (Rue des Rosiers, Le Marais) ⭐ - El falafel más famoso de París; cola permanente; pita con falafel, aubergine, tahini ~**€7-10** — tip de viajeros: Mi Va Mi al lado es casi igual y sin cola
-- [ ] **Marché des Enfants Rouges** (Le Marais) - El mercado cubierto más viejo de París (desde 1615); puestos de comida internacional (japonesa, marroquí, italiana, libanesa, francesa); almuerzo de pie ~**€10-15**; abierto Mar-Dom `https://www.marche-des-enfants-rouges.fr/`
-- [ ] **Rue Mouffetard** (Latin Quarter) - La calle-mercado al aire libre más auténtica del centro; quesos, embutidos, frutas, crêpes; ir por la mañana antes de las 11am
-- [ ] **Marché d'Aligre** (Bastille, 12ème) - El mercado más local y menos turístico de París; frutas, verduras, quesos a precios de barrio; Marché Beauvau cubierto al lado con delis
-- [ ] **Marché Bastille** - Jueves y domingos; el mercado de barrio parisino grande y variado por excelencia
-- [ ] **Marchés aux Puces de Saint-Ouen** ⭐ - El mercado de pulgas más grande del mundo; 7 hectáreas, 2000+ vendedores, 14 mercados especializados; antigüedades, vintage, muebles, joyas, discos de vinilo — Sáb 9-18h / Dom 10-18h / Lun 11-17h — Metro L4 → Porte de Clignancourt; regatear es esperado; llevar efectivo; **30 ago (domingo)** es el día ideal del viaje
-
-### Platos clásicos
-- [ ] **Steak-frites en bistró de barrio** (~**€16-20**) — lo más icónico para almorzar; lejos de atracciones turísticas la calidad sube y el precio baja
-- [ ] **Soupe à l'oignon gratinada** (~**€8-10**) — comfort food francés; en cualquier brasserie tradicional
-- [ ] **Confit de canard** en bouillon (~**€14-18**) — la versión barata del plato clásico francés; en Chartier o Julien es un robo a precio decente
-- [ ] **Crème brûlée** (~**€7-9**) — el postre clásico; la versión en brasserie es mejor que en café
-- [ ] **Formule midi (menú almuerzo)** — entrée+plat o plat+dessert por ~**€14-20** en brasseries; mucho más barato que cenar los mismos platos
-
-### Experiencias específicas
-- [ ] **Heladería Berthillon** (Île Saint-Louis) - El helado artesanal de referencia de París; cassis, caramelo beurre salé, praliné; fila corta entre semana (~**€3-4** por bola) `https://www.berthillon.fr/`
-- [ ] **Café de Flore o Les Deux Magots** (Saint-Germain) - Caros (~**€8-10** el café con croissant) pero icónicos; Sartre, Simone de Beauvoir y Camus tenían mesa fija aquí — sentarse en la terraza una vez en la vida
-- [ ] **Picnic parisino** - Baguette + queso + botella de vino en supermercado (Franprix, Monoprix) para ~**€8-10** total; sentarse en Canal Saint-Martin, Jardines de Luxemburgo o Champ de Mars — "esto es lo que hacen los parisinos y es la experiencia más auténtica que podés tener en la ciudad" (r/paris)
+> Detalle completo (platos típicos, boulangeries, bouillons, street food, picnic, supermercados y mercados gastronómicos) en [`gastronomia.md`](gastronomia.md).
+>
+> Nota: el **Marché aux Puces de Saint-Ouen** (mercado de pulgas, **dom 30 ago** ideal) es atracción, no comida — se mantiene su tratamiento en la sección de mercados/barrios de este archivo.
 
 ---
 
@@ -114,15 +85,34 @@
 
 ---
 
-## 🎉 Vida Nocturna
+## 🌙 Nightlife
 
-- [ ] **Bares en Oberkampf (11ème)** - La zona de bares más auténtica de París; **Café Charbon** (bar icónico de 1900 con espejo y madera original), **La Mécanique Ondulatoire** (bar underground con conciertos), ambiente joven y local; empieza a las 22h
-- [ ] **Le Marais de noche** - Bares trendy y cocktails; Rue des Archives y alrededores con escena LGBTQ+ animada
-- [ ] **Pigalle / SoPi de noche** - Clubs, bares de cocktails, más chic; Moulin Rouge si se quiere la experiencia icónica (~**€120+** con cena)
-- [ ] **Rex Club** - Club histórico de techno y electrónica; sistema de sonido extraordinario; una referencia europea (**€10-20**) `https://www.rexclub.com/`
-- [ ] **Concrete** - Club debajo del Pont de Bercy; techno desde el viernes hasta el lunes sin parar (**€10-20**) `https://www.concreteclub.fr/`
-- [ ] **Silencio** - El club secreto diseñado por David Lynch; solo accesible para socios hasta medianoche, abre al público después; experiencia única en París (**€15-20** no-socios después de 00h)
-- [ ] **Apéro junto al Canal Saint-Martin** - Vino (~**€5-7** botella en supermercado) + queso + baguette; sentarse en el Quai de Valmy al atardecer; el plan que más repiten viajeros y locales como "lo mejor de París" (GRATIS)
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/hits), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. **Estado:** fijo (29 ago-4 sept; ojo: parte de agosto París está "de vacaciones" y reabre el 1 sept).
+
+### 🕺 Para bailar
+- **Oberkampf (11ème)** — la zona de bares más auténtica y joven; **Café Charbon** (bar icónico de 1900 con espejo y madera original), **La Mécanique Ondulatoire** (bar underground con conciertos); donde salen los parisinos jóvenes, no turistas [local]; arranca a las 22h
+- **Le Marais de noche** — bares trendy y cocktails (Rue des Archives); escena LGBTQ+ muy animada 🏳️‍🌈
+- **Pigalle / SoPi (9ème)** — bares de cocktails chic y clubes; mezcla sexy y elegante; Moulin Rouge al borde si se quiere la postal (cena-show ~**€120+**)
+
+### 🍸 Bares para arrancar / tomar algo
+- **Apéro junto al Canal Saint-Martin** — vino (~**€5-7** la botella en supermercado) + queso + baguette sentados en el Quai de Valmy al atardecer; el plan que más repiten viajeros y locales como "lo mejor de París" [local] (GRATIS)
+- **Belleville / Ménilmontant (20ème)** — bares multiculturales y baratos, vida nocturna alternativa real; sin turistas
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Silencio** [🦄 raro/icónico] — el **club secreto diseñado por David Lynch**; solo socios hasta medianoche, abre al público después; interiores oníricos, experiencia única en París; **~€15-20** no-socios después de 00h
+- **Rex Club** [🦄 icónico] — club histórico de **techno/electrónica** con uno de los mejores sound systems de Europa; **no es nuestro palo musical**, pero es referente mundial si querés vivir un club parisino de culto; **€10-20** `https://www.rexclub.com/`
+
+### 🇦🇷 Noche latina
+- **Paris Latino @ Café Oz** [🇦🇷/latino] — **noche de salsa GRATIS todos los jueves** desde las 20h: clase de salsa cubana → fiesta salsa → **DJ de reggaeton y latino desde las 00:30**; sin reserva; cae en la estadía el **jue 3 sept** `https://www.sortiraparis.com/en/where-to-party-in-paris/articles/309375-paris-latino-free-salsa-night-every-thursday-at-cafe-oz`
+- **Mondo Latino @ La Felicità** [🇦🇷/latino] — noche de salsa gratis los miércoles en el food hall del 13ème `https://www.danceus.org/events/salsa/paris-france-salsa-calendar/`
+- **La Pachanga** [🇦🇷/latino] — fiesta latina mar-vie (salsa/reggaeton) en Montparnasse `https://www.danceus.org/events/salsa/paris-france-salsa-calendar/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Sortiraparis, DanceUs y guías locales. Re-chequear `r/paris` a mano antes del viaje.
+- **Dónde salen los jóvenes locales [local]:** Oberkampf (11ème), Belleville/Ménilmontant (20ème) y Pigalle (9ème) — no los Champs-Élysées `https://www.sortiraparis.com/en/where-to-party-in-paris`
+- **Hack barato:** el apéro junto al Canal Saint-Martin (vino de súper + picada) es el "previo" parisino por excelencia y sale casi nada
+- **Día fuerte:** jue-sáb; muchos bares y clubes chicos están cerrados gran parte de agosto y reabren con la *rentrée* (1 sept) — verificar antes de cruzar la ciudad
+- **Volver de madrugada:** metro cierra ~1:15 (vie-sáb ~2:15); de madrugada **Noctilien** (buses nocturnos) o caminar si estás cerca
 
 ---
 
@@ -167,6 +157,19 @@
 - [ ] **Jazz à la Villette** (28 ago - 6 sept 2026) — Festival de jazz, soul, funk, hip-hop en La Villette; conciertos pagos (~**€20-40**) y algunos gratuitos; Snarky Puppy, Selah Sue entre los artistas — reservar online con anticipación para headliners `https://jazzalavillette.com/`
 - [ ] **Marchés aux Puces de Saint-Ouen** — domingo 30 agosto (el día ideal del viaje; abren 10am)
 - [ ] **Marché Bastille** — jueves 3 septiembre; el mercado del barrio parisino en su mejor momento
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+**Estadía:** sáb 29 ago – vie 4 sept (6 noches) — *la rentrée*: París vuelve de vacaciones el 1 sept, la ciudad pasa de vacía (agosto) a plena actividad
+
+- **Eventos:** **Jazz à la Villette** (28 ago - 6 sept) cubre toda la estadía — headliners con reserva anticipada, varios shows gratis `https://jazzalavillette.com/`
+- **Feriados:** ninguno en Francia esas fechas; ojo: muchos restaurantes/comercios chicos reabren recién el 1 sept tras el cierre de agosto ("fermeture annuelle") — verificar en Google Maps antes de cruzar la ciudad por un restaurante puntual
+- **Cierres por día de semana:** **Louvre cierra los MARTES** (1 sept cae martes); mié 2 sept nocturno hasta 21:45 (mejor momento); Catacumbas cierran lunes; Orsay cierra lunes
+- **Solo esos días:** Marchés aux Puces → sáb/dom/lun (ideal **dom 30**) · Marché Bastille → **jue 3** · Marché d'Aligre cierra lunes
+- **Renovaciones/cierres 2026:** **Centre Pompidou CERRADO** por renovación hasta 2027 · Notre-Dame reabierta (gratis, aforo controlado) · precios non-EU nuevos desde enero 2026 (Louvre €32, Sainte-Chapelle €22)
+- **Clima y luz:** 15-25°C, amanecer ~7:05 / anochecer ~20:35; el destello de la Eiffel arranca a las 21h
 
 ---
 
@@ -222,7 +225,11 @@
 
 ## 🧠 Consenso Reddit/Foros
 
-- **"La Sainte-Chapelle es el secreto mejor guardado de París"** — aparece en casi todo hilo de r/paris y r/solotravel; "más impresionante que Notre-Dame, menos gente y la gente que entra no entiende lo que está viendo hasta que el guía lo explica"; el truco es ir con sol entre 10:30 y 14:30
+- **Cómo detectar el restaurante trampa [local]** — carta gigante con fotos = comida no hecha al momento; el bistró bueno se reconoce por: pizarra que cambia con las estaciones, carta corta, y vecinos del barrio comiendo en horario francés; cerca de Eiffel/Champs-Élysées los precios son +50% `https://eatlikethefrench.com/how-to-avoid-tourist-food-in-paris/` · `https://www.parisunlocked.com/food/eating-out/how-to-avoid-bad-food-and-restaurants-in-paris-a-few-tips/`
+- **El experimento del "turista falso"** [viajero] — hilo de Rick Steves sobre un test que expuso cómo algunos restaurantes turísticos de París cobran de más a extranjeros (cartas distintas, redondeos); revisar siempre la cuenta `https://community.ricksteves.com/travel-forum/france/the-great-paris-rip-off-exposed-by-a-fake-american-tourist`
+- **Dónde comen los parisinos [local]** — el 11ème es el barrio de bistrós accesibles y bares de vino (Le Verre Volé, planches €10); Quartier Latin para galettes baratas en Rue Mouffetard; Belleville para comer completo por €10-15; food halls del 13ème (La Felicità, Ground Control) `https://ptitresto75.com/bonnes-adresses/bonnes-adresses-restaurant-paris-pas-cher/`
+- **Bouillon: reservar online y saltarse la cola** [viajero] — Bouillon Pigalle acepta reserva (Chartier no); sin reserva la cola puede ser ~1h en hora pico `https://www.tripadvisor.com/ShowUserReviews-g187147-d8651352-r922155294-Bouillon_Pigalle-Paris_Ile_de_France.html`
+- **"La Sainte-Chapelle es el secreto mejor guardado de París"** — recurrente en r/paris y r/solotravel; "más impresionante que Notre-Dame"; el truco es ir con sol entre 10:30 y 14:30
 - **Louvre: no intentar verlo todo** — "Entrá, ve la Mona Lisa para decir que la viste (es pequeña y decepcionante según la mayoría), disfrutá la Victoria de Samotracia y las antigüedades egipcias; 2-3h enfocadas > 6h agotadoras" — repetido docenas de veces en r/paris
 - **Bouillons como respuesta al turismo caro** — "Comí confit de canard con papas por €15 en Chartier. En cualquier otro restaurante parisino eso cuesta el doble" (múltiples posts r/shoestring, r/solotravel); "los bouillons son el anti-trampa de París"
 - **"No comer junto a atracciones turísticas"** — el consejo más repetido en absolutamente todos los foros de viaje sobre París; "solo los que llegan sin investigar caen; alejarse 2 calles lo cambia todo"

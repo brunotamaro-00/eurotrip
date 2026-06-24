@@ -85,30 +85,36 @@
 ---
 
 ## 🍽️ Gastronomía
-
-### La Francesinha
-- [ ] **Francesinha en Café Santiago** ⭐ - El sándwich más icónico de Porto; dos capas de pan, lomo de cerdo, linguiça, steak y queso fundido encima, bañado en salsa secreta de tomate y cerveza; la Francesinha de Café Santiago es la más repetida en foros como "la mejor de Porto" (~**€10-13**) `https://cafesantiago.pt/`
-- [ ] **Francesinha en Brasão Cervejaria** - La segunda más mencionada en foros; a veces menos concurrida que Santiago; Rua de Alvares Cabral 87 (~**€10-13**)
-- [ ] **Francesinha en Bufete Fase** - Versión más barata y de barrio; Rua do Bonjardim (~**€8-10**) — la favorita de los portenses que no quieren pagar precio turístico
-
-### Mariscos y pescado
-- [ ] **Mariscos en Matosinhos** ⭐ - La zona de los mejores mariscos de Porto a precio local; la Rua Heróis de França con restaurantes de gambas, percebes, bacalhau à lagareiro; ~**€15-25** pp con vino — mucho mejor que comer en Ribeira `https://www.matosinhos.eu/`
-- [ ] **Bacalhau à lagareiro** - Bacalao al horno con aceite de oliva y ajos, piel crujiente; la versión porto vs. la brás de Lisboa (~**€12-18**) en restaurantes de Cedofeita o Bonfim
-- [ ] **Caldo verde** + **sopa de peixe** — las sopas portugesas que hay que probar una vez (~**€4-6**)
-
-### Patisseries y cafés
-- [ ] **Pastel de nata en Manteigaria** (Porto branch) - La mejor alternativa a Belém si no se pasó por Lisboa (~**€1.40-1.60**) `https://www.manteigaria.com/`
-- [ ] **Café Majestic** - El café art nouveau del s. XIX en la Rua de Santa Catarina; Harry Potter vino aquí; más para la foto que para el café (~**€4-6** el café) `https://www.cafemajestic.com/`
-- [ ] **Mercado do Bolhão** - El mercado cubierto de hierro y vidrio reformado en 2022; flores, frutas, mariscos, pasteles, restaurantes; el corazón comercial del Porto tradicional (GRATIS entrar) `https://www.mercadobolhao.pt/`
-
-### Bebidas
-- [ ] **Vino verde (Vinho Verde)** - El vino blanco espumoso joven y fresco del norte de Portugal; el más barato y más refrescante; ideal para el calor de septiembre (~**€2-3** copa / **€6-10** botella en supermercado)
-- [ ] **Super Bock y Sagres** - Las dos cervezas nacionales; Super Bock es la local de Porto (~**€1.50-2** en bar)
-- [ ] **Port wine por copa** - En cualquier bar de Gaia o Ribeira; Tawny (añejo, sabor nuez y caramelo) vs. Ruby (joven, afrutado y vibrante); ~**€3-8** la copa según calidad
+> Detalle completo (francesinha, tascas, mariscos de Matosinhos, vino de Oporto, cafés icónicos como Majestic, comida para llevar, supermercados y Mercado do Bolhão) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
-## 🚶 Free Walking Tour — Hacer el Primer Día
+## 🌙 Nightlife
+
+> Vibra: **este tramo es 1 persona** (~26, argentina/o). Buscamos bailable y variado, no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. **Estado:** fijo (9-12 sept; finde **vie 11 / sáb 12**). La movida se concentra en **Galerias de Paris** y **Cândido dos Reis**: dos calles llenas de bares pegados con vibra de "fiesta de barrio" — se toma en la calle y se salta de bar en bar. Arranca tarde (~23:30).
+
+### 🕺 Para bailar
+- **Tendinha dos Clérigos** — bar/club clásico de Rua Galeria de Paris; rock bailable y energía local; favorito de los porteños [local] `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
+- **Café au Lait** — uno de los mejores de Galeria de Paris para bailar; DJs de EDM, hip-hop y funk; ambiente acogedor y animado `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
+- **Moreclub** — club con cócteles y música diversa (house, pop, R&B, techno); ambiente chic; **entrada €5-15** (suele incluir trago) `https://neontrails.com/portugal/best-porto-dance-clubs`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Galerias de Paris + Cândido dos Reis** — el epicentro: decenas de bares en dos calles, se toma en la vereda con vaso en mano, vibra de block party; el arranque obligado [local] `https://porto.travel/galerias-de-paris/`
+- **Jardim das Virtudes (antes del bar)** — al atardecer los universitarios bajan con mantas, vino verde y guitarras; el "previo" más porteño y gratis (ver Parques) [local]
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Plano B** [🦄 raro/icónico] — venue de culto en Galerias de Paris: club + espacio de arte/exposiciones + fiestas temáticas; música electrónica e indie en salas distintas; lo más alternativo y memorable de Porto `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
+
+### 🇦🇷 Noche latina
+- **Dance Floor** [🇦🇷/latino] — especializado en ritmos latinos y africanos (bachata, salsa, kizomba); frente al Douro, con patio sobre el río y talleres gratis de baile `https://portoalities.com/en/top-places-dance-porto/`
+- **Muxima Bar (Gaia)** [🇦🇷/latino] — pista de madera; **noches afrolatinas vie-sáb** (salsa, bachata, kizomba, semba); martes africano `https://www.soundvibemag.com/city-vibes/best-latin-clubs-in-porto/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Inside Porto, Porto.travel, NeonTrails y Portoalities. Re-chequear `r/TravelPortugal` a mano antes del viaje.
+- **Dónde salen los jóvenes locales [local]:** **Galerias de Paris / Cândido dos Reis** (centro) y bares de Cedofeita; todo caminable `https://porto.travel/galerias-de-paris/`
+- **Cómo es la noche:** arranca tarde (~23:30), se toma en la calle y se salta de bar en bar; entradas a clubes **€5-15** y suelen incluir 1-2 tragos
+- **Barato:** de lo más económico de Europa para salir, igual que Lisboa
+- **Solo/seguridad (este tramo):** Porto es muy segura para salir solo/a; de madrugada hay **Uber barato** para volver; metro cierra ~1am `https://andante.pt/`
 
 ### En inglés
 
@@ -144,6 +150,20 @@
 - La época del **São João** (23-24 junio) ya pasó; septiembre es tranquilo en festivales masivos pero la ciudad sigue animada
 - Verificar programa de **Casa da Música** para conciertos en esas fechas `https://www.casadamusica.com/`
 - **Fútbol:** El FC Porto juega en casa en el Estádio do Dragão; verificar calendario de LaLiga portuguesa `https://www.fcporto.pt/`
+- [ ] **Vindima (vendimia) en el Douro** ⭐ — septiembre es temporada de cosecha; el pico es 15 sept-10 oct, pero algunas quintas ya cosechan la 2ª semana; experiencias de pisar uvas y cosechar (**€150-250 pp**) o day tour estándar (**€90-150**) — los tours de vendimia se agotan con 3-4 meses de anticipación; si interesa la Opción C del Día 3, reservar YA `https://www.authentictrails.com/en/douro-valley-harvest-season`
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+**Estadía:** mié 9 – sáb 12 sept (3 noches, 1 persona)
+
+- **Eventos:** inicio de la temporada de **vindima** en el Douro (ver arriba) — la ventana 9-12 sept es temprana pero algunas quintas ya están activas; verificar con el operador del tour
+- **Feriados:** ninguno nacional; **8 sept** es feriado municipal en varias ciudades del norte (no Porto ciudad) — sin impacto
+- **Cierres por día de semana:** Palácio da Bolsa y bodegas abren a diario; Soares dos Reis cierra lunes (no afecta: estadía mié-sáb); Mercado do Bolhão cierra domingo (no afecta)
+- **Solo esos días:** sáb 12 (día de salida) — mañana de mercado en Bolhão antes del tren/vuelo
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados; Bolhão reformado y operativo desde 2022
+- **Clima y luz:** 16-24°C, amanecer ~7:15 / anochecer ~19:50; excelente mes, Atlántico fresco por la tarde en Foz
 
 ---
 
@@ -182,6 +202,7 @@
 
 ## 🧠 Consenso Reddit/Foros
 
+- **Vindima: reservar con meses** [viajero] — los tours de cosecha en el Douro (pisar uvas, vendimiar) se agotan 3-4 meses antes; quien llega en septiembre sin reserva se queda con el day tour estándar `https://www.authentictrails.com/en/douro-valley-harvest-season`
 - **São Bento es stop obligatorio y gratis** — "10-15 minutos en São Bento y ya justificó el viaje a Porto; los azulejos de 20.000 paneles son una obra de arte pública que casi nadie fuera de los trenes usaría" (r/TravelPortugal, Lonely Planet foros)
 - **Jardim das Virtudes para el atardecer** — "casi nadie en guías turísticas pero todos los viajeros que lo encontraron lo recomiendan como el mejor momento del viaje en Porto; universitarios con guitarras, vino verde, la ciudad de fondo — es Porto real" (r/travel, múltiples posts)
 - **Livraria Lello: gestionar expectativas** — "es preciosa pero en temporada alta es un frenesí; si esperabas tranquilidad y magia, ir de madrugada al abrir; si solo querés la foto, cualquier horario sirve" (r/TravelPortugal)

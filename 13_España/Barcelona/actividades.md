@@ -44,26 +44,8 @@
 
 ---
 
-## 🍕 Gastronomía Auténtica
-
-### Lo que hay que comer en Barcelona
-- [ ] **Pa amb tomàquet (pan con tomate)** - EL plato base de la cocina catalana; pan tostado frotado con tomate y ajo, con aceite de oliva; se come solo o con embutidos; **omnipresente** en cualquier bar local — pedir esto antes de nada
-- [ ] **Pintxos en Carrer de Blai (Poble Sec)** - Decenas de bares con barras repletas de pintxos; el más económico y auténtico de la ciudad; pintxo a **€1.50-2**, caña **€2-2.50**; plan perfecto para cena informal
-- [ ] **El Xampanyet (El Born)** - Taberna con más de 100 años en Carrer de Montcada; el cava de la casa a **~€2**; anchoas y tapas de calidad; uno de los bares más citados en r/Barcelona — llegar antes de las 20h para conseguir sitio
-- [ ] **Bar Brutal (El Born)** - Vinoteca de vinos naturales con cocina de temporada; ambiente de barrio bohemio; muy bien valorado en foros de viajeros
-- [ ] **Fideuà** - La versión de la paella pero con fideos finos (originaria de la costa valenciana); en Barceloneta en las terrazas con vistas al mar
-- [ ] **Escalivada** - Vegetales asados (pimientos rojos, berenjena, cebolla) con aceite de oliva; simple y extraordinaria como plato o acompañamiento
-- [ ] **Crema catalana** - El postre local; la versión catalana de la crème brûlée con canela y piel de limón; en cualquier restaurante tradicional
-- [ ] **Vermut de barril (La Hora del Vermut)** - El aperitivo catalán de 12h a 14h; en cualquier bar de Gràcia o el Born; con aceitunas, anchoas y pan; uno de los rituales sociales más auténticos de la ciudad
-
-### Mercados
-- [ ] **Mercat de Santa Caterina (El Born)** - El techo de mosaico multicolor diseñado por Enric Miralles; mucho menos turístico que La Boqueria; excelente para compras de producto local y comer en los bares del mercado
-- [ ] **Mercat de Sant Antoni (límite Eixample/Raval)** - El mercado renovado favorito de los locales; domingos hay mercado de libros de segunda mano en el exterior
-
-### Trampas a Evitar
-- Restaurantes de Las Ramblas (precios de trampa turística sin excepción)
-- La Boqueria después de las 11h (show turístico caro; los puestos auténticos y baratos están en el fondo hacia la izquierda)
-- Sitios con fotos en el menú o personal invitando activamente desde la puerta
+## 🍕 Gastronomía
+> Detalle completo (platos catalanes, menú del día, pintxos de Blai, vermut, bodegas de barrio, mercados y trampas a evitar) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -76,13 +58,38 @@
 
 ---
 
-## 🎉 Vida Nocturna
+## 🌙 Nightlife
 
-- **Gràcia / Poble Sec**: bares con vibra más local; las plazas de Gràcia hasta medianoche; Carrer de Blai para pintxos + bares de barrio
-- **El Born**: barrio de los bares chics; cócteles de autor; animado hasta las 3h
-- **Gaixample (Eixample)**: la escena LGBTQ+ más grande de España; muy abierta y con ambiente toda la semana
-- **Raval**: alternativo y multicultural; precaución en algunas calles muy tarde de noche según foros
-- **Zona Olímpica (Opium/Pacha)**: más club turístico; en noviembre mucho menos frenético que en verano
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/indie/hits), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. Barcelona tiene **escena latina enorme** y clubes multi-sala que cubren todos los géneros. Se sale tardísimo (clubes prenden a las 1-2am). Ojo carteristas (ver Anti-Scam). **Estado tentativo:** dom-vie (sin sábado) → la mejor noche es **jue 12 / vie 13**.
+
+### 🕺 Para bailar
+- **Razzmatazz** [🦄 icónico] — el club mítico de BCN con **5 salas y géneros distintos**: Razz Club (indie/pop-rock), PopBar (pop y R&B de los 80-90), Rex Room (dancehall/hip-hop), Lolita (techno-pop), Loft (techno); hay una sala para cada gusto, **no solo techno**; locales + viajeros hasta la mañana `https://barcelonahacks.com/razzmatazz-barcelona/`
+- **Sala Apolo** — sala centenaria con indie, rock, pop y fiestas temáticas (las "Nasty Mondays" de rock/indie son legendarias); concierto + DJ; alternativa no-techno `https://ra.co/guides/clubs-in-barcelona`
+- **Marula Café (Gòtic)** — funk, soul y ritmos latinos en pista chica; muy bailable y nuestro palo `https://www.barcelona-life.com/barcelona/nightlife`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Plazas de Gràcia** — Plaça del Sol y Plaça de la Vila, terrazas de locales hasta medianoche; el previo más auténtico [local]
+- **Carrer de Blai (Poble Sec)** — pintxos a €1.50-2 + cañas baratas, bar tras bar; comer y arrancar la noche barato [local]
+- **El Born** — bares chics y cócteles de autor (El Xampanyet para vermut antes de las 20h); animado hasta las 3h
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Razzmatazz** [🦄 icónico] — 5 clubes en un mismo edificio industrial; ícono absoluto de la noche barcelonesa (ya arriba)
+- **Jamboree (Plaça Reial)** [🦄 raro/icónico] — club en un **sótano de jazz histórico**: conciertos de jazz/hip-hop y después fiesta hasta el amanecer; mezcla única `https://thetipsytours.com/blogs/news/dont-miss-these-7-nightclubs-in-barcelona/`
+
+### 🇦🇷 Noche latina
+- **Antilla BCN** [🇦🇷/latino] — **EL club latino** de Barcelona (pionero desde 1993): salsa cubana, bachata, merengue y reggaeton en 2 salas, **clases de baile gratis durante la noche**; viernes a la noche o domingos a la tarde; Carrer d'Alcolea 100 `https://antillasalsa.com/en/`
+- **Mojito Club / Agua de Luna / Habana** [🇦🇷/latino] — más salas legendarias de salsa y ritmos latinos `https://www.premiumguest.com/en-blog/the-best-8-latin-nightclubs-in-barcelona`
+- **Beach clubs (Opium/Pacha/Shôko)** — en la zona olímpica/playa ponen reggaeton y mainstream; turísticos pero en noviembre van tranquilos
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Barcelona Life, BarcelonaHacks, RA y YouBarcelona. Re-chequear `r/Barcelona` y LosViajeros a mano antes del viaje.
+- **Dónde salen los locales [local]:** Gràcia y Poble Sec para arrancar; Razzmatazz/Apolo para bailar; Sutton es el club "de catalanes bien vestidos" `https://www.barcelona-life.com/barcelona/nightlife`
+- **⚠️ Carteristas:** Barcelona es la capital europea del carterismo — de noche en Ramblas/Raval/metro, **nada en bolsillos**, riñonera adelante (ver Anti-Scam) `https://www.losviajeros.com/foros.php?amp=1&t=241591`
+- **Horario:** se sale muy tarde (clubes a la 1-2am, cierran 5-6am); cena 21-22h
+- **Día fuerte:** jue-sáb; con estadía dom-vie, apuntar **jue 12** (Antilla tiene social de bachata/salsa los jueves) y **vie 13**
+- **Volver:** metro **toda la noche los sábados**; vie hasta 2am; resto, **NitBus** (buses nocturnos) `https://www.tmb.cat/`
 
 ---
 
@@ -108,6 +115,22 @@ Barcelona es una de las ciudades con más carteristas de Europa. Tener esto pres
 | 11 nov | Miércoles | Comienza Loop Barcelona Festival (imagen en movimiento, hasta 22 nov) |
 | 12 nov | Jueves | |
 | 13 nov | Viernes | Salida a Madrid |
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** dom 8 – vie 13 nov (5 noches)
+
+- **Eventos:** **Loop Barcelona (imagen en movimiento) arranca el mié 11** — muchos eventos gratis `https://loop-barcelona.com/` · Balboa Festival termina el dom 8 (posibles eventos vespertinos)
+- **Feriados:** ninguno en Cataluña esas fechas (la Almudena del 9 nov es solo Madrid)
+- **Cierres por día de semana:** Museu Picasso y varios museos **cierran lunes** (lun 9) → ese día Gaudí/barrios · verificar gratuidad de jueves por la tarde del Picasso (jue 12) — cambia según temporada
+- **Solo esos días:** mercado de libros usados de Sant Antoni → **dom 8** · Els Encants (pulgas) → vie/sáb/dom → **dom 8 o vie 13** · sin sábado en la estadía: el MNAC gratis de sábados 15h no aplica
+- **Renovaciones/cierres 2026:** Sagrada Família en obra permanente (torre central en avance) — los precios/recorridos pueden cambiar; verificar al reservar
+- **Clima y luz:** 11-18°C, anochecer ~17:40 → Bunkers del Carmel a las ~17:00 para el atardecer; playas para caminar
+- **⏰ Reserva crítica:** Sagrada Família con semanas/meses de anticipación — al confirmar fechas del tramo España, reservar de inmediato
 
 ---
 
@@ -141,7 +164,8 @@ Barcelona es una de las ciudades con más carteristas de Europa. Tener esto pres
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Reservas sí o sí**: Sagrada Família y Park Güell con slots horarios; sin reserva previa no entras o pierdes horas de fila — reservar antes de salir de casa
+- **Reservas sí o sí**: Sagrada Família y Park Güell con slots horarios; sin reserva previa no entras o pierdes horas de fila — reservar antes de salir de casa `https://www.losviajeros.com/foros.php?p=2510358`
+- **Seguridad/carteristas [viajero]** — hilo dedicado en LosViajeros (foro en español) sobre los timos de Barcelona: metro, Ramblas, clipboard, tres cartas `https://www.losviajeros.com/foros.php?amp=1&t=241591`
 - **Bunkers del Carmel** es la vista más votada de toda Barcelona en Reddit; gratis y supera a cualquier mirador de pago; ir al atardecer (antes de las 17:30 en noviembre)
 - **Barcelona cansa rápido** — recalcado en casi todos los trip reports; priorizar 1-2 atracciones de pago por día y el resto barrio + terrazas + caminata sin agenda rígida
 - **Las Ramblas**: "sí para pasarla una vez, no para vivir ahí todo el día"; carteristas tan conocidos que aparecen en todos los hilos; mochila al frente siempre
@@ -160,8 +184,7 @@ Barcelona es una de las ciudades con más carteristas de Europa. Tener esto pres
 - **A pie**: Barri Gòtic + El Born + Barceloneta se hacen completamente a pie desde el centro
 
 ### Gastronomía
-- **Menú del día** (lun-vie, 13-16h): **€12-16** incluye primero + segundo + postre + bebida; la forma más económica y auténtica de comer bien
-- **Aperitivo vermut** (12-14h) en cualquier bar de Gràcia o El Born: una caña o vermut + tapas por **€5-8** — el ritual más "local" de la ciudad
+> Tips de menú del día y aperitivo vermut migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Idioma
 - **Catalán ≠ Castellano**: co-oficiales; los locales aprecian un "Gràcies" (gracias) o "Bon dia" (buenos días); en zonas turísticas todo el mundo habla castellano sin problema

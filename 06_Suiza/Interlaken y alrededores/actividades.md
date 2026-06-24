@@ -101,21 +101,9 @@ La ciudad justifica dormir ahí — tiene mucho más contenido que un stopover:
 ---
 
 ## 🍽️ Gastronomía — Suiza No es Barata
-
-La regla de oro en Suiza: **comprar en Coop/Migros y hacer picnic**. Un plato en restaurante cuesta **CHF 25-40 (~€27-43)**.
-
-### Lo que hay que comer (aunque sea una vez)
-- [ ] **Rösti** - Las patatas ralladas y fritas; el plato suizo más básico y mejor; desayuno o acompañamiento en cualquier restaurante; **~CHF 8-12 (~€9-13)** como guarnición
-- [ ] **Käsefondü** - El fondue de queso Gruyère + Emmental; el ritual gastronómico suizo; demasiado pesado para hacer senderismo el mismo día; mejor para cena; **~CHF 25-35 (~€27-38)** pp en restaurante de fondü
-- [ ] **Raclette** - El queso derretido raspado sobre patatas, cornichons y cebollas en vinagre; alternativa al fondü, menos pesado; muy popular en los refugios de montaña (Bergrestaurant)
-- [ ] **Zürcher Geschnetzeltes** - El ternera en salsa cremosa de champiñones y vino blanco; el plato "clásico de ciudad" suizo; en Interlaken lo tienen muchos restaurantes
-- [ ] **Cerveza suiza** - Rugenbräu (la cerveza de la región, fabricada en Matten bei Interlaken) y Cardinal son las más locales; una pinta en bar cuesta **CHF 6-9 (~€6.50-10)**
-
-### Estrategia de Presupuesto (muy repetida en Reddit)
-- **Coop / Migros / Aldi / Lidl / Denner**: comprar el desayuno y la merienda; un sándwich: CHF 5-8 (~€5-9); mirar las "Aktionen" (ofertas del día)
-- Presupuesto real solo comida si mezclas supermercado + alguna cena local: **CHF 40-70/día (~€43-76)**
-- **Agua del grifo**: excelente en toda Suiza; fuentes públicas por todos lados; llevar botella rellenable = ahorro real
-- **Todo cierra los domingos** en Suiza — comprar en el sábado o antes; las estaciones de tren tienen Migros/Coop que abre domingos (caro pero existe)
+> Detalle completo (platos suizos, estrategia Coop/Migros, restaurantes de autoservicio, fondue/raclette, picnic de montaña y precios) en [`gastronomia.md`](gastronomia.md).
+>
+> **Regla de oro:** comprar en Coop/Migros y hacer picnic; usar los restaurantes Coop/Migros (por gramo); reservar 1-2 cenas locales como gusto. Agua de fuente gratis. **Todo cierra los domingos** — comprar el sábado.
 
 ---
 
@@ -143,6 +131,21 @@ Septiembre fin de mes = temporada de transición; el tiempo puede cambiar rápid
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** sáb 19 – mié 23 sept (4 noches)
+
+- **🐄 Alpabzug (bajada del ganado)** ⭐ — fines de septiembre es temporada de Alpabzüge en el Berner Oberland: vacas decoradas con flores y cencerros bajando de los pastos de altura, mercado y comida regional; hay registro de **Alpabzug en Wengen ~20 sept** (mismo valle de Lauterbrunnen — verificar fecha 2026) y otros en Justistal, Hofstetten (termina en Ballenberg) y Gstaad — si coincide, es de las experiencias más auténticas de Suiza `https://madeinbern.com/de/erlebnisse/ganzjaehrig/events/top-kultur-events/alpaufzuege-und-alpabzuege` · calendario `https://swissfamilyfun.com/cow-descent-festivals/`
+- **Feriados:** **dom 20 sept = Eidgenössischer Bettag** (día federal de oración, tercer domingo de sept) — domingo aún más quieto de lo normal; en cantón Berna es día de descanso reforzado; comprar provisiones el **sáb 19** sí o sí
+- **Cierres por día de semana:** todo cierra los domingos en Suiza (dom 20 doble motivo); Migros/Coop de estación de tren abren domingos (más caro)
+- **Solo esos días:** Free Walk Interlaken opera lun/mié/sáb 18h → chances: sáb 19, lun 21 o mié 23 · mercado de Grindelwald los sábados
+- **Renovaciones/cierres 2026:** fin de temporada se acerca — verificar en jungfrau.ch que First, Schynige (hasta 25 oct) y Schilthorn operen con horario completo; First Cliff Walk puede cerrar por viento
+- **Clima y luz:** 9-17°C en valle (3°C en cima); transición de estación — planificar por webcam, no por agenda `https://www.jungfrau.ch/en-gb/live/webcams/`
+
+---
+
 ## 🚶 Free Walking Tour
 
 ### Free Walk Interlaken (operador local, EN)
@@ -161,7 +164,8 @@ Septiembre fin de mes = temporada de transición; el tiempo puede cambiar rápid
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Quedarse en Lauterbrunnen o Gimmelwald** — el consejo más repetido en r/solotravel, r/travel, r/askswitzerland; Interlaken es solo logística, no experiencia
+- **Quedarse en Lauterbrunnen o Gimmelwald** — el consejo más repetido en r/solotravel, r/travel, r/askswitzerland; Interlaken es solo logística, no experiencia `https://www.reddit.com/r/ali_on_switzerland/comments/azds8v/my_guide_to_the_jungfrau_region/`
+- **Alpabzug si coincide [local]** — las bajadas de ganado de fines de sept son fiesta de pueblo real, no atracción turística; hilo de viajeros buscándolas en el Oberland `https://www.myswissalps.com/community/thread/alpabzug-cow-parade-in-early-september/`
 - **1 zona/área por día** — la regla más citada para la región; querer ver todo en un día saturá la experiencia y las piernas
 - **Salir temprano** — las mejores vistas son antes de las 10h; los teleféricos populares (First, Nordkette) se llenan desde las 11h
 - **Schynige Platte → Faulhorn** es el trekking "top tier" de la región según la mayoría de trip reports; si están en forma y hay cielo claro, es el día que más se van a recordar

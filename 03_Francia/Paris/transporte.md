@@ -1,127 +1,149 @@
 # 🚆 Transporte en París
 
-## 🚂 Llegada desde Ámsterdam (29 agosto)
+**Fechas:** sáb 29 ago – jue 4 sept 2026 (6 noches) · **Estado:** fijo
+**Llegada:** **tren Eurostar** desde Ámsterdam → **París Gare du Nord** (~3h20) → detalle en [`../../02_Paises_Bajos/Amsterdam/transporte.md`](../../02_Paises_Bajos/Amsterdam/transporte.md)
+**Salida:** **vuelo** París → Lisboa (4 sept) ✅ comprado · ver sección Salida
 
-### Thalys Ámsterdam → París
-- **Duración:** 3h 20min
-- **Llegada:** Gare du Nord (norte de París)
-- **Del Gare du Nord al alojamiento:** Metro (5-20min según ubicación)
+> ⚠️ **Reforma tarifaria IDF (2025):** el **carnet de 10 ya no existe**; ahora es **tarifa plana** (single €2.55) o pase. Tickets t+ de papel descontinuados — todo va en **Navigo Easy** o Navigo Semaine.
 
-## 🚇 Metro de París
+---
 
-### Sistema
-- **16 líneas** de metro + RER (trenes regionales)
-- **Muy eficiente**, cubre todo
-- **Horario:** 5:30am - 1:15am (2:15am viernes/sábado)
-- **App:** Bonjour RATP, Citymapper
+## 🧭 Resumen rápido
 
-### Tarifas
+- **París es MUY caminable** en el centro — vas a usar menos metro del que pensás. El margen del Sena conecta muchas atracciones a pie.
+- **Para 6 noches (sáb–jue):** lo más eficiente es **Navigo Easy** (single €2.55) para el fin de semana + **Navigo Semaine** desde el lunes (€32.40, ilimitado todas las zonas, **cubre aeropuertos y Versalles**).
+- **Llegada por Gare du Nord** (metro a casi todo el centro en 5–20 min).
+- **Costo transporte/día:** ~€2.55–5 los días sueltos · ~€4.60/día prorrateado con el Navigo Semaine.
 
-#### Ticket Individual (t+)
-- **Precio:** $2
-- **Validez:** 2h, metro + buses
-- **Dónde comprar:** Máquinas en estaciones
+---
 
-#### Carnet de 10 tickets
-- **Precio:** $19 ($1/ticket)
-- **Ahorro:** Mejor que individual
-- **Compartible:** Entre 2 personas
+## 🎫 Tarjetas y tickets urbanos (IDF 2026, post-reforma)
 
-#### Navigo Semaine (Pass semanal)
-- **Precio:** $33 (Zonas 1-5, todo París)
-- **Validez:** Lunes a domingo
-- **¿Vale la pena?** SÍ si están lunes-domingo completo
-- **Requisito:** Foto tamaño pasaporte
+- **Single Métro/RER (tarifa plana):** **€2.55** — válido en metro y RER **toda la zona** (incl. ahora CDG/Orly con ticket especial, ver abajo). Se carga en **Navigo Easy** (tarjeta **€2**, recargable). `https://www.iledefrance-mobilites.fr/`
+- **Single Bus/Tram:** **€2.00** (tarifa separada, no incluye correspondencia con metro).
+- **❌ Carnet de 10:** **eliminado en 2025** — ya no hay descuento por volumen. No buscarlo.
+- **Navigo Semaine (Découverte):** **€32.40** (desde 1 ene 2026) + **€5** tarjeta física no reembolsable. **Lunes a domingo (semana calendario)**, **todas las zonas** = todo París + **RER a Versalles** + **CDG/Orly incluidos**.
+- **Ticket especial Aeropuertos (Paris Region ↔ Airports):** **€14** (solo si NO tenés Navigo Semaine).
+- **Paris Visite (turístico):** **NO conviene** — Navigo Easy/Semaine siempre salen mejor.
 
-#### Paris Visite (turístico)
-- **Precio:** $14 (1 día), $42 (5 días)
-- **¿Vale la pena?** NO, Navigo o carnets mejor
+### 💡 Plan recomendado para estas fechas (sáb 29 → jue 4)
 
-### Recomendación para 7 días (29 ago - 4 sept)
+- **Sáb 29 + dom 30:** **Navigo Easy** (tarjeta €2) con singles a €2.55 según uso (caminando mucho, pocos viajes).
+- **Lun 31 → dom 6:** **Navigo Semaine €32.40 + €5** → cubre **lun 31 a jue 4** (incl. **Versalles** entre semana y el **traslado al aeropuerto** el 4 sept para el vuelo a Lisboa).
+- Total aprox 2 personas: 2× Navigo Easy + singles fin de semana + 2× Navigo Semaine. **Mucho más simple y barato que comprar singles sueltos toda la semana.**
 
-**Opción A: Navigo Semaine $33** ⭐
-- Cubre Zonas 1-5 = TODO París + RER a Versalles + Marché aux Puces
-- Validez: lunes 31 ago → domingo 6 sept (la semana calendario)
-- **Problema:** Llegás sábado 29. Los primeros 2 días (sáb-dom) quedan fuera.
-- **Solución:** Carnet de 10 para sáb-dom ($19), Navigo desde lunes ($33). Total: $52 para 7 días ilimitados.
-- **El Navigo cubre Versalles (RER C)** = te ahorrás los $8 de ida/vuelta.
+> Navigo Semaine necesita **foto** (tamaño carnet) para la tarjeta Découverte — llevar una o sacarla en cabina/estación.
 
-**Opción B: 2 carnets de 10 ($38 total, 20 viajes)**
-- Probablemente suficiente si caminan mucho
-- NO cubre RER a Versalles (hay que comprar aparte, $8 ida/vuelta)
-- Más simple, sin foto, compartible entre 2 personas
+---
 
-**Opción C: Navigo Easy (tarjeta recargable)**
-- Tarjeta $2 + recargas (t+ tickets o carnets)
-- Más práctico que tickets de papel
+## 🚇 Metro / RER / bus
 
-**Paris Museum Pass: NO recomendado para tu perfil.** Solo hacés Louvre + Versalles + quizás Sainte-Chapelle. Comprá entradas individuales. Ver análisis en `actividades.md`.
+- **16 líneas de metro + RER** (trenes regionales A–E): red densísima, cubre todo.
+- **Horario:** ~5:30–1:15 (hasta ~2:15 vie/sáb). Planificar el **último metro** si salen de noche.
+- **RER C** = línea a **Versalles** (Château Rive Gauche) y otros suburbios.
+- **Guardar el ticket/validar siempre:** inspecciones con **multa €50+** incluso dentro del andén.
 
-**París es walkable** — no van a usar tanto metro como piensan. El centro es compacto.
+---
 
-## 🚶 Caminar
+## 🚶 A pie / 🚲 Vélib' / 🚢 Batobus
 
-- **París es MUY walkable** en el centro
-- Margen del Sena hermoso
-- Muchas atracciones cerca unas de otras
-- Caminar es gratis y la mejor forma de ver la ciudad
+- **Caminar es la mejor forma de ver París** — centro compacto, Sena hermoso, atracciones cercanas. Gratis.
+- **Vélib' (bici pública):** pase corto **~€5–8/día** (clásica) / e-bike con suplemento por minuto; **~€16/semana** (verificar tarifa actual en app). París **no es tan bike-friendly como Ámsterdam** pero mejoró mucho (carriles del Sena, Rivoli). `https://www.velib-metropole.fr/`
+- **Funicular de Montmartre:** evita los 197 escalones a Sacré-Cœur; **incluido en Navigo/single**.
+- **Batobus (barco hop-on/hop-off por el Sena):** 9 paradas (Torre Eiffel, Orsay, Notre-Dame, Louvre, Champs-Élysées…); pase 1 o 2 días; transporte + sightseeing climatizado. `https://www.batobus.com/`
 
-## 🚢 Batobus (Barco hop-on hop-off por el Sena) *(Rec. Alan x el Mundo)*
+---
 
-- **Qué es:** Barco turístico que recorre el Sena con 9 paradas en monumentos principales. Funciona como transporte + sightseeing: bajás y subís cuantas veces quieras durante la validez del boleto.
-- **Paradas:** Torre Eiffel, Musée d'Orsay, Saint-Germain-des-Prés, Notre-Dame, Jardin des Plantes, Hôtel de Ville, Louvre, Champs-Élysées, Beaugrenelle.
-- **Pases:** 1 día o 2 días consecutivos.
-- **¿Vale la pena?** Alternativa al crucero clásico si preferís ir a tu ritmo. Combina transporte entre atracciones con vistas del Sena. Climatizado, vista panorámica y terraza.
-- **Web:** batobus.com
+## 🚕 Taxi / Uber / Bolt
 
-## 🚲 Vélib' (Bicicletas públicas)
+- **Uber / Bolt / FREE NOW / G7** disponibles; útiles de noche o con equipaje. Caros en hora pico por tráfico; el metro suele ser más rápido en el centro.
 
-- **Precio:** $5 día, $16 semana
-- **Bueno para:** Distancias medianas
-- **Nota:** París no es tan bike-friendly como Ámsterdam
+---
 
-## ✈️ Salida a Lisboa (4 sept)
+## 🗺️ Cómo llegar a los day trips y puntos clave
 
-### París → Lisboa (Portugal)
-- **Medio:** Vuelo
-- **Duración:** ~2.5h
-- **Precio:** **$85pp (con equipaje)**
-- **Nota:** El Eurail se recomienda activar alrededor del **12 sept** (llegada a Estrasburgo) para maximizar la ventana de 2 meses.
+> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Versalles** es el único desvío confirmado. Todo cubierto por **Navigo Semaine** (no requiere Eurail; París es pre-Portugal y la salida es en avión).
 
-## 🗺️ Cómo Llegar a Destinos Específicos
+| Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
+|---------|-------|--------|------------------|----------|------|
+| **[Versalles](Day_trips/Versalles.md)** ✅ | **RER C** → *Versailles Château Rive Gauche* | 35–45 min | €4/tramo · **incluido en Navigo Semaine** | ❌ N/A (avión) | NO bajarse en "Versailles Chantiers"; mar–jue, llegar 9:00; reservar slot |
+| **[Fontainebleau](Day_trips/Fontainebleau.md)** | Tren Gare de Lyon → Fontainebleau-Avon + bus 1 | 40 min + bus | **~€18 return** (Transilien, fuera de Navigo) | ❌ N/A (avión) | Château cerrado **martes**; park y bosque gratis |
+| **Chantilly** | Tren Gare du Nord | 25–45 min | **~€16–18 return** (fuera de Navigo) | ❌ N/A (avión) | Château + museo + crème; 10-15 min a pie de la estación |
+| **Giverny** | Tren Gare Saint-Lazare → Vernon + shuttle | 45 min + shuttle | **~€30 return** | ❌ N/A (avión) | Casa de Monet; abr-nov; solo fans del impresionismo |
+| **Marché aux Puces (Saint-Ouen)** | Metro L4 → Porte de Clignancourt | 20–25 min | single/Navigo | — | 5 min a pie desde el metro (urbano, no day trip) |
+| **Catacumbas** | Metro L4/L6 → Denfert-Rochereau | — | single/Navigo | Reservar entrada online |
+| **Montmartre / Sacré-Cœur** | Metro L2 (Anvers) o L12 (Abbesses) + funicular | — | single/Navigo | Funicular incluido en el ticket |
 
-### Marché aux Puces de Saint-Ouen
-- **Metro:** Línea 4 → **Porte de Clignancourt** (última parada)
-- Desde el centro: 20-25min
-- 5 min caminando desde la salida del metro
-- Alternativa: Línea 13 → Garibaldi (10 min caminando)
+---
 
-### Versalles
-- **RER C** dirección **Versailles Château Rive Gauche**
-- Desde Saint-Michel / Invalides / Champ de Mars: 35-45min
-- $4 por tramo ($8 ida/vuelta) — o incluido en Navigo Semaine
-- **Cuidado:** No bajarse en "Versailles Chantiers" (otra estación, más lejos del palacio)
+## ✈️ Salida hacia Lisboa (4 sept) — ✅ COMPRADO
 
-### Catacumbas
-- **Metro:** Línea 4 o 6 → **Denfert-Rochereau**
-- Entrada en Place Denfert-Rochereau
+- **Medio:** **vuelo** París → Lisboa (Portugal). **Duración ~2h30.** **Precio: $85 pp (con equipaje) — ✅ COMPRADO.**
+- **Acceso al aeropuerto (CDG u Orly, según el vuelo):**
+  - **CDG:** **RER B** (~35 min a Gare du Nord/Châtelet) — **incluido en Navigo Semaine**, o ticket aeropuerto **€14** suelto.
+  - **Orly:** **RER B + Orlyval**, **Tram T7**, o **Métro L14** (extensión a Orly) — incluido en Navigo Semaine, o **€14** suelto.
+- **Tip:** como salís el **jueves 4** dentro de la validez del **Navigo Semaine** (lun–dom), el traslado al aeropuerto **ya está cubierto** — no comprar el ticket de €14 si tenés el pase.
+- Llegar al aeropuerto con margen (vuelo internacional/Schengen + equipaje).
 
-### Montmartre / Sacré-Cœur
-- **Metro:** Línea 2 → **Anvers** o Línea 12 → **Abbesses**
-- **Funicular de Montmartre:** Evita subir los 197 escalones de la colina hasta Sacré-Cœur. Trayecto ~1 min, totalmente automatizado. **Incluido en Navigo/ticket t+.** Sale desde la base de la colina junto a la estación.
+---
+
+## 🎟️ Eurail (este tramo)
+
+> **París es pre-Portugal y la salida es en avión** → **no se usa Eurail acá. Días de Eurail en París: 0.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+
+- 🪟 **Activación del pase:** se recomienda **activar el Eurail ~12 sept** (llegada a Estrasburgo, ya post-Portugal) para **maximizar la ventana de 2 meses** y no desperdiciarla en el bloque UK/Ámsterdam/París/Portugal (todo vuelo/suelto). Decisión a confirmar al cerrar fechas.
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **Olvidate del carnet: ya no existe** [local] — desde 2025 es tarifa plana single €2.55 en Navigo Easy, o el pase semanal; los tutoriales viejos del carnet de 10 están obsoletos `https://parisbytrain.com/navigo-easy/`
+- **Navigo Semaine si estás de lunes a domingo** [viajero] — €32.40 ilimitado todas las zonas, **cubre Versalles y los aeropuertos**; se amortiza enseguida `https://parisbytrain.com/paris-train-metro-week-pass-navigo-decouverte/`
+- **Caminá París, vas a usar poco el metro** [viajero] — el centro es compacto y el Sena conecta todo; el metro sobre todo para Montmartre, Versalles y el aeropuerto `https://www.reddit.com/r/ParisTravelGuide/`
+- **Cuidado pickpockets en L1, Gare du Nord y Châtelet** [local] — las líneas y nudos turísticos concentran carteristas; mochila adelante `https://www.reddit.com/r/ParisTravelGuide/`
+- **RER C a Versalles: bajá en "Château Rive Gauche"** [viajero] — error común bajarse en "Versailles Chantiers", que queda más lejos del palacio `https://www.reddit.com/r/ParisTravelGuide/`
+
+---
 
 ## 💡 Tips
 
-- **Guardar tickets** hasta salir de la estación (inspecciones con multa €50+)
-- **Puertas del metro:** Algunos requieren empujar/levantar pestillo, otros automáticos
-- **Pickpockets:** Cuidado en metro línea 1 (turística), Gare du Nord, cambios en Châtelet
-- **Caminar todo lo posible** - es gratis y la mejor forma de ver París
-- **Apps:** Citymapper (mejor que Google Maps para transporte público en París), Bonjour RATP (oficial)
-- **Último metro:** ~1:15am (2:15am viernes/sábado). Planificar si salen de noche.
+- **Guardar/validar el ticket** hasta salir de la estación (multas €50+).
+- **Navigo Découverte necesita foto** — llevar una para no perder tiempo.
+- **Último metro ~1:15** (2:15 vie/sáb) — planificar la vuelta nocturna.
+- **El traslado al aeropuerto del 4 sept** está cubierto por el Navigo Semaine — no pagar el ticket de €14 aparte.
+- **Versalles entre semana** (mar–jue), temprano: jardines gratis y menos cola.
 
-## 📝 Tickets a Comprar
+## 📱 Apps
 
-- [ ] Vuelo **París → Lisboa** (4 sept) — **comprado** ($85, con equipaje)
-- [ ] **Metro:** Carnet de 10 para sáb-dom + Navigo Semaine desde lunes (o solo 2 carnets si prefieren simple)
-- [ ] **Versalles:** Entrada palacio online — sacar con anticipación
+- **Bonjour RATP** / **Île-de-France Mobilités** (oficiales: tickets, estado, Navigo) · **Citymapper** (mejor que Google Maps en París)
+- **SNCF Connect** (RER/Transilien) · **Vélib'** (bici) · **Batobus** · **Uber / Bolt / G7**
 
+## 📝 Tickets a comprar (checklist local)
+
+- [x] **Vuelo París → Lisboa (4 sept)** — **COMPRADO** · $85 pp c/equipaje
+- [ ] **Navigo Easy** (×2, €2 c/u) — para sáb 29 + dom 30 (singles €2.55)
+- [ ] **Navigo Semaine** (×2, €32.40 + €5 tarjeta) — desde lun 31; cubre Versalles + aeropuerto del 4 sept · llevar foto
+- [ ] **Versalles** — entrada palacio online, mar–jue, con anticipación
+
+## ⚠️ Costos de referencia (2026)
+
+| Concepto | Precio | Nota/Fuente |
+|----------|--------|-------------|
+| Single Métro/RER (tarifa plana) | **€2.55** | en Navigo Easy (tarjeta €2) `iledefrance-mobilites.fr` |
+| Single Bus/Tram | **€2.00** | tarifa separada |
+| Carnet de 10 | **❌ eliminado 2025** | ya no existe |
+| Navigo Semaine (Découverte) | **€32.40 + €5** | lun–dom, todas las zonas, incl. aeropuertos/Versalles |
+| Ticket Aeropuertos (suelto) | **€14** | CDG/Orly si no hay Navigo Semaine |
+| Vélib' (día) | **~€5–8** | semana ~€16 (verificar en app) `velib-metropole.fr` |
+| RER C Versalles (suelto) | **~€4/tramo** | incluido en Navigo Semaine |
+| Vuelo París → Lisboa (2026) | **$85 pp** | ✅ comprado, c/equipaje |
+
+**Fuentes:** iledefrance-mobilites.fr · parisbytrain.com · velib-metropole.fr · batobus.com
+
+## 🔗 Fuentes y links
+
+- **Île-de-France Mobilités (tarifas/Navigo):** `https://www.iledefrance-mobilites.fr/`
+- **Paris by Train (Navigo Easy/Semaine, en inglés):** `https://parisbytrain.com/navigo-easy/`
+- **Vélib' Métropole:** `https://www.velib-metropole.fr/`
+- **Batobus:** `https://www.batobus.com/`
+- **Reddit r/ParisTravelGuide:** `https://www.reddit.com/r/ParisTravelGuide/`

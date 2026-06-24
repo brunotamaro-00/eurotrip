@@ -71,6 +71,19 @@ Predjama primero (si querés fotos con mejor luz) → Postojna con el horario qu
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Ventana tentativa:** lun 12 – mié 14 oct — **el plan B perfecto para el día de lluvia de la semana**
+
+- **Škocjan en octubre:** tours cada hora **10:00-15:00**; el recorrido suele terminar en Exit 1; **€18** adulto; llegar 20 min antes `https://www.park-skocjanske-jame.si/en/read/tourist-information/skocjan-caves-guided-tours`
+- **Postojna:** opera todo el año; combo con Predjama ~€46-48; elegir horario al comprar
+- **Cierres por día:** ninguno — cuevas abren a diario
+- **Clima:** dentro de las cuevas ~12°C constante — abrigo liviano siempre; Rakov Škocjan ideal si abre el cielo a mitad del día
+
+---
+
 ## 🔗 Oficiales útiles
 - Škocjan (tickets): `https://park-skocjanske-jame.mojekarte.si/en/visit-of-the-skocjan-caves/events-1139691.html`
 - Škocjan (info): `https://www.park-skocjanske-jame.si/en/`

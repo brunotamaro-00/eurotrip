@@ -21,7 +21,7 @@
 - [ ] **Alojamiento Porto (9–12 sept):** Reservar (3 noches, 1 persona).
 - [x] **Vuelos Internos:** Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 184 total**, 2p). Pendiente: Sur de Italia → Barcelona (8 nov).
 - [ ] **Trenes Nocturnos:** Reservar asientos/camas (suelen abrir 2-3 meses antes).
-- [ ] **Auto Highlands:** Reservar auto (18-25 ago, devolución 25 a la mañana).
+- [ ] **Auto Highlands:** Reservar auto (**retirar 18 ago en Edimburgo**, circuito 18-25 ago, **devolución en EDI aeropuerto** 25 a la mañana antes del vuelo a Ámsterdam). Empresas: Arnold Clark (local, más barato) / Enterprise / Hertz. Se agota en agosto.
 - [ ] **Decisión Sur de Italia:** Elegir entre Puglia/Bari, Calabria, Sicilia, etc. (borrador **29 oct - 8 nov**, 10 noches).
 
 ## 1 a 2 Meses Antes (Trámites y Logística)
@@ -45,11 +45,11 @@
 - [ ] **Praga (tickets/transporte):** Castillo de Praga (entradas) + app/tickets **Lítačka** (activar antes de subir) + chequear estado del funicular Petřín (obras/reapertura).
 - [ ] **Budapest (tickets):** Parlamento (tour guiado) + termas elegidas — reservar/comprar (tickets/horarios 2026).
 - [ ] **Eslovenia (tickets/slots):** Škocjan + Postojna/Predjama + Vintgar (si entran) — reservar con horario. **Si hay auto:** confirmar/comprar **e-vignette**.
-- [ ] **Suiza Jungfrau (logística):** Reservar alojamiento cuando se confirmen noches; decidir pase (Half Fare / Jungfrau Pass / tickets sueltos) y **Oeschinensee** (slot si aplica).
+- [ ] **Suiza Jungfrau (logística):** Reservar alojamiento cuando se confirmen noches; decidir pase (**Half Fare CHF 150** / **Jungfrau Pass CHF 210/3d** / tickets sueltos con −25% Eurail) y **Oeschinensee** (slot si aplica). **No comprar Swiss Travel Pass** (duplica Eurail). (ver `06_Suiza/.../transporte.md`)
 - [ ] **Portugal (tickets):** Sintra (Pena/Regaleira con hora) + Porto (Lello + Clérigos) — reservar online.
-- [ ] **Eurail (reservas obligatorias):** Identificar tramos que exigen reserva (p.ej. **Eurostar/TGV** y **nocturnos**) y reservar cuando abran (2–3 meses antes suele ser la ventana).
-- [ ] **Transporte interciudad (por fuera del Eurail):** Comprar con anticipación los tramos que no convenga/pueda cubrir el pass (UK trains, Italo/Trenitalia, AVE/Ouigo/AVLO, buses tipo RegioJet). **Fijos a priorizar:** Londres→York (13 ago), York→Edimburgo (15 ago), **Eurostar Ámsterdam→París (29 ago)**.
-- [ ] **Portugal (transporte):** Comprar tren **CP Lisboa→Porto** (Alfa Pendular / Intercidades) cuando se definan horarios.
+- [ ] **Eurail (activación + reservas):** ✅ **UK SÍ entra en el Global Pass** (desde 2019) → **activar el pase ~7-8 ago** (inicio del viaje, primer day trip Londres); la ventana de 2 meses corre hasta ~7 oct y cubre UK + Ámsterdam→París + Suiza + Austria + Viena→Praga. Italia/España quedan fuera **a propósito** (más barato suelto). **Ámsterdam→París (Eurostar):** reservar cupo passholder **€22–25** apenas abra (~3 meses antes, cupo limitado) — con la ventana en agosto **conviene gastar el día de pase** acá. Railjet (Suiza→Austria, Viena→Praga): reserva **opcional** ~€3. Plan completo de los 15 días en `EURAIL.md`.
+- [ ] **Transporte interciudad (por fuera del Eurail):** Comprar con anticipación los tramos que no convenga/pueda cubrir el pass (UK trains, Italo/Trenitalia, AVE/Ouigo/AVLO, buses tipo RegioJet). **Fijos a priorizar:** **Londres→York (13 ago)** y **York→Edimburgo (15 ago)** — **UK SÍ entra en Eurail**: van como **día de pase** (walk-up caro £70–90, sin reserva), no comprar advance si se usa el pase; **Eurostar Ámsterdam→París (29 ago)** → **día de pase** con reserva passholder €22–25 (reservar temprano, cupo limitado). **Alsacia (tent.):** Estrasburgo→Colmar TER €7–12 (sin reserva); Colmar→Friburgo **Regio-Elsass-Ticket €37/2-5p** o bus desde €3. **Post-Portugal (tent., reservas opcionales):** Friburgo→Interlaken ICE+SBB (sin reserva; SuperSparpreis €19.99 antic. si no se usa pase); **Interlaken→Innsbruck/Viena Railjet** (reserva opc. €3 — ⚠️ **obras Arlberg 14 jun–14 oct: vía St. Gallen**); Viena→Praga (Railjet reservar asiento ~€3 si Eurail, o RegioJet €14.90 suelto); **Praga→Cracovia Leo Express/RegioJet €13–16** (fuera de Eurail).
+- [ ] **Portugal (transporte):** Comprar tren **CP Lisboa→Porto** (Alfa Pendular **€35.70** tourist / Intercidades) **anticipado** para tarifa Promo (desde ~€18). **Porto→Estrasburgo (12 sept):** vuelo Volotea **$90** — **COMPRADO**. Portugal va **fuera del Eurail** (suelto). (ver `04_Portugal/*/transporte.md`)
 - [ ] **City passes (si conviene):** Decidir Paris Museum Pass / Roma Pass / Budapest Card / Firenze Card según plan real de museos.
 - [ ] **Tecnología:** Comprar eSIM (Airalo o Holafly) y verificar que ambos teléfonos la soporten.
 - [ ] **Packing (ver lista completa):** Revisar y completar [`recursos/packing_list.md`](recursos/packing_list.md). Críticos por comprar: **mochila día**, **riñonera**, **candados** y **adaptadores** (Tipo G UK + Tipo C/F Europa).

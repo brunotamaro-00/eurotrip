@@ -47,25 +47,8 @@ Nápoles es **caótica, ruidosa, sucia en partes… y absolutamente auténtica**
 
 ---
 
-## 🍕 La Meca de la Pizza y el Street Food
-
-En Nápoles la mejor comida suele ser la más barata. Evitar los restaurantes turísticos del Lungomare si buscás autenticidad.
-
-### Las Mejores Pizzerías
-
-- [ ] **L'Antica Pizzeria da Michele** ⭐ - Solo sirven Margherita y Marinara (la pizza más pura del mundo); fundada en 1870; precio aproximado **€5.50** por pizza — la fila puede ser de 2-3 horas en horario pico; ir a las **11:30am** cuando abren o a las **16:00** para saltarse la fila; salió en "Eat Pray Love"
-- [ ] **Sorbillo (Via dei Tribunali)** ⭐ - El pizzaiolo más famoso de Nápoles hoy; masa napolitana perfecta; ~**€10-12** por pizza; también con fila pero gestiona mejor el flujo; su "pizza frita" también es legendaria
-- [ ] **Starita a Materdei** - Famosa por la **Montanara** (pizza frita cubierta de salsa y luego horneada); menos turistas que Michele o Sorbillo; en el barrio de Materdei
-- [ ] **50 Kalò** - Considerada por muchos críticos la mejor masa de Nápoles hoy; cero caos, servicio moderno; más cara (~**€15-18**); para cuando quieren calidad con ambiente tranquilo
-- [ ] **Pizzeria Attilio** - En el Pignasecca; la pizza estrella con bordes rellenos de ricotta es su especialidad; favorita de foodiess locales
-
-### Street Food (Imprescindible)
-
-- [ ] **Pizza a Portafoglio** - Una pizza entera doblada en cuatro para comer caminando: **~€2-3**; el lunch de los napolitanos; buscar en cualquier pizzería de Via dei Tribunali o Spaccanapoli
-- [ ] **Il Cuoppo** - Un cono de papel lleno de frituras de mar (calamares, pescaditos) o tierra (croquetas, arancini): **~€3-5** — la experiencia callejera más napolitana
-- [ ] **Sfogliatella (dulce)** - Prueba la *Riccia* (hojaldrada y crujiente, la auténtica) o la *Frolla* (masa suave); rellena de ricotta dulce y cítricos: **~€2-3** — en **Pintauro** (Via Toledo) o **Mary** (Via Chiaia)
-- [ ] **Taralli napoletani** - Galletitas de pan crujiente con pimienta negra y almendras; snack callejero clásico; **~€1-2** en cualquier panadería
-- [ ] **Mercato Pignasecca** - El mercado más auténtico del centro; frutas, pescado, fritos callejeros, queso; en el barrio de Quartieri Spagnoli; por la mañana temprano es increíble; **GRATIS** entrar
+## 🍕 Gastronomía
+> Detalle completo (pizza y pizzerías, street food — portafoglio/cuoppo/pizza fritta/sfogliatella, dónde comer barato, Mercato Pignasecca y trampas) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -115,6 +98,21 @@ En Nápoles la mejor comida suele ser la más barata. Evitar los restaurantes tu
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mar 27 – jue 29 oct (2 noches)
+
+- **Eventos:** verificar fixture del SSC Napoli (Serie A) — si hay partido de local, el Maradona es una experiencia cultural; sin otros eventos mayores detectados
+- **Feriados:** ninguno durante la estadía; el **dom 1 nov (Ognissanti + Domenica al Museo = museos estatales GRATIS)** cae ya en el tramo Sur — si el plan del Sur pasa cerca de Nápoles, es la ventana para MANN/Capodimonte gratis
+- **Cierres por día de semana:** mar-jue todo abre; ojo: **MANN cierra los martes** → visitarlo mié 28 · Cappella Sansevero cierra martes... **verificar** (históricamente cerraba martes) — si es así, también va al mié 28
+- **⏰ Reserva crítica:** Cappella Sansevero se agota con semanas — reservar al confirmar fechas
+- **Renovaciones/cierres 2026:** Cimitero delle Fontanelle con aperturas parciales — verificar estado
+- **Clima y luz:** 13-20°C; **ya rige horario de invierno** → anochece ~17:00; concentrar lo exterior (Lungomare, Vomero) antes de las 16:30
+
+---
+
 ## 🚶 Free Walking Tour
 
 ### EN — SANDEMANs (opera via Napoli That's Amore, partner vetado)
@@ -139,7 +137,8 @@ En Nápoles la mejor comida suele ser la más barata. Evitar los restaurantes tu
 
 - **No usar Nápoles solo como "puerta" a Pompeya o la Costa Amalfitana** — Dedicarle aunque sea 1 día completo a perderse por sus calles y comer; suele ser la ciudad favorita de quienes buscan algo auténtico y visceral en Italia
 - **Cappella Sansevero** es obligatoria y se agota: reservar semanas antes
-- **Da Michele** es un rito, pero si la fila es de 3h, ir a Attilio o Starita sin remordimiento — la masa napolitana a ese nivel es igual de reveladora en cualquier pizzería local
+- **Da Michele: sacar número en la puerta** [viajero] — al llegar pedir ticket al manager o la espera se duplica; llegar justo antes del mediodía; si la fila es de horas, ir a Attilio o Starita sin remordimiento `https://www.tripadvisor.com/ShowUserReviews-g187785-d1235237-r457540804-L_Antica_Pizzeria_da_Michele-Naples_Province_of_Naples_Campania.html` · debate "worth the hype" `https://community.ricksteves.com/travel-forum/italy-reviews/l-antica-pizzeria-da-michele-worth-the-hype`
+- **Seguridad real según viajeros** — el centro storico es seguro y vivo hasta la madrugada; la única zona floja es el entorno de la estación central (evitar de noche); bolso cruzado, no al hombro `https://www.tripadvisor.com/ShowTopic-g187785-i421-k14764126-Naples_safety_tips_and_things_to_do-Naples_Province_of_Naples_Campania.html`
 - **Spaccanapoli de día** para la energía del barrio; **Piazza Bellini de noche** para beber con los locales
 - **El caos es parte de la experiencia** — ir sin expectativas de "Italia ordenada"; los viajeros que lo abrazan terminan amándola
 

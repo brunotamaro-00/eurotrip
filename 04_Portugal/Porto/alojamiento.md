@@ -1,7 +1,8 @@
 # 🛏️ Alojamiento — Porto
 
 **Fechas:** 9–12 septiembre (3 noches)  
-**Objetivo:** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
+**Reservado:** **Onefam Ribeira** (Centro histórico, Sé/Ribeira) — pagado **97€ TOTAL** (≈ **USD 110.10**, **USD 36.70/noche**; 1 persona) — ✅ Reservado  
+**Objetivo (original):** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
 
 ---
 

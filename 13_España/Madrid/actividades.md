@@ -56,26 +56,42 @@
 
 ---
 
-## 🍕 Gastronomía Auténtica
+## 🍕 Gastronomía
+> Detalle completo (platos madrileños, bocadillo de calamares, cocido, menú del día, vermut, tapeo de La Latina/Lavapiés, mercados y trampas) en [`gastronomia.md`](gastronomia.md).
 
-### Lo que hay que comer
-- [ ] **Bocadillo de calamares** - El snack icónico de Madrid; pan de barra con calamares fritos; **€3-4**; los mejores en las callejas alrededor de Plaza Mayor (Bar La Campana es el más famoso)
-- [ ] **Cocido madrileño** - El guiso de garbanzos con varios tipos de carne (morcillo, chorizo, tocino, gallina); el plato "de domingo" por excelencia; en La Latina o Lavapiés; **~€15-20** en taberna tradicional; se sirve en 3 vuelcos (caldo, garbanzos, carnes)
-- [ ] **Tortilla de patatas** - Con o sin cebolla (debate nacional eterno); en cualquier bar local; la de Bar Nestor en La Latina es legendaria (poca tortilla, mucha gente)
-- [ ] **Churros con chocolate** - San Ginés (calle Arenal, abierto 24h) es el más famoso; **€5-7** el combo; también la Chocolatería Valor; no confundir con los churros de feria de azúcar
-- [ ] **Vermut dominical** - El ritual social madrileño los domingos 12-15h; en cualquier bar de Malasaña, La Latina o Lavapiés; vermut de barril + aceitunas + patatas + ambiente festivo de mediodía: **€4-6** la copa
-- [ ] **Tapas en La Latina** - Cava Baja y Cava Alta para el circuito clásico; tabernas con jamón ibérico, queso manchego, croquetas; el mejor barrio para el tapeo tradicional madrileño sin trampa turística
+---
 
-### Dónde Comer
-- [ ] **Mercado de San Antón (Chueca)** - 3 plantas; más auténtico y menos turístico que San Miguel; bueno para almuerzo con calidad
-- [ ] **Mercado de San Fernando (Lavapiés)** - El mercado multicultural más interesante de Madrid; tapas internacionales a precios de barrio; muy local
-- [ ] **Roscioli (Madrid)** - El hermano del famoso Roscioli de Roma; cocina italiana seria en Madrid; reservar
-- [ ] **Casa Dani** - En el Mercado de la Paz (Salamanca); las mejores croquetas de Madrid según varios rankings; ir a mediodía cuando está vivo
+## 🌙 Nightlife
 
-### Trampas a Evitar
-- Bares en Sol/Plaza Mayor con menú en 5 idiomas y fotos en la carta
-- El "menú bonito" en primera línea de Sol — comer en barrios, usar el centro para caminar
-- Restaurantes con tabletas electrónicas en la barra sin precio visible
+> Fechas tentativas — re-verificar al confirmar (el vuelo MAD→BUE del 21 nov es fijo).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/indie/hits), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. **Madrid tiene la noche más larga de Europa** (bares se llenan a las 23h, clubes hasta las 6-7am) y **escena latina enorme** — el cierre perfecto del viaje. Es la última ciudad: **llegan vie 13 → finde sáb 14 ideal**, y con las noches flex pueden estirar hasta el 21.
+
+### 🕺 Para bailar
+- **Teatro Kapital** [🦄 icónico] — el megaclub de **7 pisos**, cada uno con su música (reggaeton, pop, house, hip-hop, techno) + azotea con vista; hay algo para cualquier gusto, no solo techno; el club más famoso de Madrid `https://www.studentfy.com/madrid/blog/top-10-best-clubs-in-madrid`
+- **Sala BarCo (Malasaña)** — banda en vivo (indie/rock/funk) temprano y DJs después; íntimo, favorito de los locales [local] `https://www.studentfy.com/madrid/blog/top-10-best-clubs-in-madrid`
+- **Teatro Barceló (Malasaña)** — 3 pisos de pop comercial a electrónica; **los jueves de universitarios** son los más concurridos `https://www.studentfy.com/madrid/blog/top-10-best-clubs-in-madrid`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Malasaña** — el corazón indie y vintage de Madrid: bares chiquitos, energía joven, barato; donde arrancan los locales [local] `https://laemadrid.com/madrid-nightlife-guide/`
+- **La Latina (Cava Baja)** — tapeo y cañas de bar en bar; el previo más castizo, sobre todo domingos post-Rastro [local]
+- **Chueca** — bares de calidad y la escena LGBTQ+ más grande de España 🏳️‍🌈; animado toda la semana
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Teatro Kapital** [🦄 icónico] — 7 pisos en un antiguo teatro; es EL templo nocturno de Madrid, hay que vivirlo una vez (ya arriba)
+- **Wurlitzer Ballroom (Malasaña)** [🦄 raro] — sala sudorosa y under de rock/indie en vivo; lo opuesto a un club comercial, puro espíritu de garaje `https://www.timeout.com/madrid/music-and-nightlife/the-best-clubs-in-madrid`
+
+### 🇦🇷 Noche latina
+- **Azúcar Madrid** [🇦🇷/latino] — salsa, merengue y bachata; **vie/sáb/dom**, cerca de Atocha `https://www.goandance.com/en/blog/post/44/10-clubs-where-to-dance-salsa-in-madrid`
+- **El Son** [🇦🇷/latino] — de las mejores salas latinas: salsa y caribeño con shows en vivo, en 2 pisos `https://www.goandance.com/en/blog/post/44/10-clubs-where-to-dance-salsa-in-madrid`
+- **Tropicana** [🇦🇷/latino] — 3 pisos de comercial + **reggaeton** + electrónica, cañón de CO2 y mucha fiesta; para perreo sin vueltas `https://www.danceus.org/events/salsa/madrid-spain-salsa-calendar/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Time Out, LAE Madrid, Studentfy y GoAndDance. Re-chequear `r/Madrid` y LosViajeros a mano antes del viaje.
+- **Cómo es la noche [local]:** Madrid sale **tardísimo** — los bares de Malasaña/Chueca no se llenan hasta las 23h y los clubes cierran a las 6-7am `https://laemadrid.com/madrid-nightlife-guide/`
+- **Dónde salen los jóvenes [local]:** Malasaña (indie/joven), Chueca (LGBTQ+), La Latina (tapeo); el centro es todo caminable
+- **Día fuerte:** jue-sáb (los jueves de Barceló son universitarios); con llegada el vie 13, **el sáb 14 es la gran noche**
+- **Volver:** el **Metro cierra ~1:30**; de madrugada los **Búho** (buses nocturnos) salen de Plaza de Cibeles/Sol; taxis y Uber/Cabify abundantes y razonables
 
 ---
 
@@ -90,11 +106,8 @@
 
 ---
 
-## 👯 Gastronomía y Bares de Cande / Notas
-
-### Lo que hay que tomar
-- **Vermut Yzaguirre** o **Vermut Lustau** — los vermuts de barril más pedidos en bares madrileños auténticos
-- **Gin tonic madrileño** — la cultura del gin-tonic en España es diferente: copa de balón grande, hielo abundante, botánicas; un rito nocturno
+## 👯 Bares y noche de Cande / Notas
+> Qué tomar (vermut Yzaguirre/Lustau, gin-tonic madrileño) migrado a [`gastronomia.md`](gastronomia.md).
 - Vida nocturna hasta las 6am — Madrid tiene la noche más larga de Europa (sin hipérbole)
 
 ---
@@ -114,6 +127,22 @@
 | 21 nov | Sábado | **Vuelo MAD → BUE** (fecha fija de cierre del viaje) |
 
 **⚠️ Las 3 noches de margen flex** pueden sumarse en Madrid si quedarse más tiene sentido. El vuelo el 21 nov es la fecha límite.
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar (el vuelo MAD→BUE del 21 nov es fijo)
+
+**Estadía tentativa:** vie 13 – mié 18 nov (5 noches; + hasta 3 noches flex → 21 nov)
+
+- **Eventos:** **JAZZMADRID** activo en noviembre (+100 conciertos) `https://festivaldejazzmadrid.com/` · **jue 19 nov: aniversario del Prado** — posible jornada gratuita (verificar; solo aplica si usan noches flex)
+- **Feriados:** ninguno durante la estadía (la Almudena fue el 9 nov)
+- **Ventanas GRATIS confirmables:** Prado todas las tardes (lun-sáb 18-20h, dom 17-19h) · Thyssen **lun 16, 12-16h** y sáb 21-23h (sáb 14 ✓) · Reina Sofía franjas — verificar
+- **Cierres por día de semana:** Templo de Debod cierra **lunes** (lun 16) — reservar slot para otro día · Mercado de Motores es el 2º domingo (8 nov) → **NO coincide** con el dom 15
+- **Solo esos días:** **El Rastro → dom 15** (9-15h) + vermut y tapas en La Latina después — el plan dominical perfecto cae justo
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados
+- **Clima y luz:** 6-14°C (puede helar de noche — el tramo más frío del viaje); anochecer ~18:00; abrigo de verdad
 
 ---
 
@@ -146,9 +175,9 @@
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Madrid rinde por barrios y "vida"** más que por checklist de monumentos — el consejo más repetido en r/Madrid; el Prado + la Reina Sofía son los únicos "obligatorios" en términos de museos
-- **El Rastro el domingo** — el plan más mencionado para un primer domingo en Madrid; Rastro + tapas en La Latina es el circuito perfecto (el 15 nov es domingo — ideal)
-- **Lavapiés para comer barato y auténtico** — con tanta diversidad gastronómica y precios de barrio; alternativa real a La Latina para tapas sin trampa turística
+- **Madrid rinde por barrios y "vida"** más que por checklist de monumentos — el consejo más repetido en r/Madrid; el Prado + la Reina Sofía son los únicos "obligatorios" en términos de museos `https://www.losviajeros.com/foros.php?p=6875076`
+- **El Rastro el domingo** — el plan más mencionado para un primer domingo en Madrid; Rastro + tapas en La Latina es el circuito perfecto (el 15 nov es domingo — ideal) `https://www.losviajeros.com/foros.php?p=6285957`
+- **Lavapiés para comer barato y auténtico** — diversidad gastronómica a precios de barrio; alternativa real a La Latina para tapas sin trampa turística `https://www.losviajeros.com/foros.php?p=6799994`
 - **Thyssen siempre se recomienda sobre el Prado para quien viene saturado de museos** — colección más variada (del Renacimiento al Pop Art en un solo recorrido), edificio más manejable, gratis los lunes
 - **El bocadillo de calamares es el símbolo alimentario más madrileño** — aparece en todos los trip reports de Reddit sobre Madrid como "snack obligatorio"
 - **Vida nocturna hasta el amanecer** — Madrid tiene el ocio nocturno más largo de Europa; en Malasaña y Chueca los bares no empiezan a llenarse hasta las 23h
@@ -165,9 +194,7 @@
 - **Carteristas**: como en toda capital grande; máximo cuidado en el Metro y alrededores de Sol/Gran Vía; mochila al frente en las aglomeraciones
 
 ### Gastronomía
-- **Menú del día** (lun-vie, 14-16h): **€12-16** incluye primero + segundo + postre + bebida; en La Latina o Lavapiés es la mejor relación calidad-precio de Madrid
-- **Tapas gratis con bebida**: en Lavapiés y algunos bares de Chueca todavía se mantiene la tradición de incluir una tapa con la bebida (práctica más común en España fuera de Madrid, pero existe)
-- **Agua de Madrid**: el agua del grifo de Madrid es de las mejores de Europa (de los embalses de la Sierra); beber directamente del grifo o rellenar botella
+> Tips de menú del día, tapa gratis y agua del grifo migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Transporte
 - **Abono Turístico (1-7 días)**: para 5 días en Madrid vale la pena; zona A cubre todo el centro; verificar precios actuales en crtm.es

@@ -59,26 +59,42 @@
 
 ---
 
-## 🍕 Gastronomía Auténtica
+## 🍕 Gastronomía
+> Detalle completo (las 4 pastas romanas, street food — supplì/pizza al taglio/trapizzino/maritozzo, dónde comer por zona, Mercato di Testaccio, regla del gelato y trampas) en [`gastronomia.md`](gastronomia.md).
 
-La regla de Roma: **alejarse 3-4 cuadras de cualquier monumento importante para comer.**
+---
 
-### Las 4 pastas romanas (NO pedir Fettuccine Alfredo ni pollo en la pasta)
-- **Carbonara** - Huevo, guanciale (papada curada), pecorino; **sin nata/crema** — *Mejores:* **Roscioli Salumeria** (top 3 de Roma; reservar semanas antes), **Maccarone** (MUST según Cande)
-- **Cacio e Pepe** - Pecorino, pimienta negra, pasta; aparentemente simple e imposible de dominar — *Mejor:* **Felice a Testaccio** (el legendario; reserva obligatoria)
-- **Amatriciana** - Guanciale, tomate, pecorino; el más "rojo" de los cuatro
-- **Gricia** - La madre de la Amatriciana sin tomate; menos conocida pero imprescindible para el purista
+## 🌙 Nightlife
 
-### Dónde Comer (por zona)
-- [ ] **Trastevere:** *Da Enzo al 29* (excelente; hacer fila antes que abran para la primera turna), *Tonnarello* (popular pero más turístico), *Trapizzino* (bolsillos de pizza con guisos romanos; street food increíble — MUST según Cande)
-- [ ] **Testaccio:** *Felice a Testaccio* (Cacio e Pepe legendario; reserva), *Mercato di Testaccio* (almuerzo barato entre locales), *Mordi e Vai* en el mercado (sándwiches de guisos romanos espectaculares)
-- [ ] **Centro / Campo de' Fiori:** *Roscioli Salumeria* (Carbonara, reservar con semanas de anticipación), *Forno Campo de' Fiori* (pizza al taglio y focaccia)
-- [ ] **Pizza al taglio (al paso):** *Pizzarium* cerca del Vaticano — considerado por muchos el mejor de toda Italia para pizza al corte; impresionante variedad de toppings
-- [ ] **Street food / Snacks:** *Supplì Roma* (arancini romanos, el snack romano por excelencia — MUST según Cande), *Two Sizes* (tiramisú — MUST según Cande), *Pastasciutta* (pasta take away rápido — MUST según Cande)
-- [ ] **Gelato:** *Frigidarium*, *La Romana* (MUST según Cande); regla estándar: colores opacos/naturales en pozzetti de metal
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/hits/varied), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. La noche romana joven arranca con tragos en **Trastevere** (Piazza Trilussa) o **San Lorenzo** (universitario, barato) y termina en los clubes de **Testaccio/Ostiense**. Se sale tarde (la cena italiana es 21-22h). Ver también las **Notas de Cande** abajo.
 
-### Trampas Turísticas a Evitar
-- Alguien en la puerta invitando a pasar (*buttadentro*); menús traducidos a 5+ idiomas con fotos; gelaterías con montañas de helado brillante
+### 🕺 Para bailar
+- **Caruso Latin Club** [🇦🇷/latino] — club hip en Testaccio (la mayor concentración de clubes de Roma); salsa, merengue y reggaeton caribeño; nuestro palo `https://www.nightflow.com/latin-clubs-in-rome/`
+- **Planet Rome** — uno de los clubes más grandes de Roma, **4 salas**: noche latina, jazz en vivo, house y retro — siempre hay una sala que no es techno `https://www.nightflow.com/latin-clubs-in-rome/`
+- **San Lorenzo (Piazza dell'Immacolata)** — barrio universitario y alternativo: tragos baratos, street food, música en vivo, desde wine bars a clubes punk-rock; donde salen los estudiantes locales [local] `https://www.justroma.it/en/for-young-people/where-to-have-fun-in-the-evening-in-rome-for-young-people/`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Piazza Trilussa (Trastevere)** — la plaza más salvaje para tomar al aire libre vie-sáb; el corazón del previo romano [local] `https://youlocalrome.com/best-districts-to-go-out-in-rome/`
+- **Freni e Frizioni** [🦄] — bar de cócteles en un **ex taller mecánico** sobre Piazza Trilussa; aperitivo con buffet, ambiente joven; lindo y peculiar `https://youlocalrome.com/best-districts-to-go-out-in-rome/`
+- **Bar San Calisto (Trastevere)** — el aperitivo más clásico y concurrido del barrio, baratísimo [local]
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Jerry Thomas Project** [🦄 raro/icónico] — el **speakeasy** más famoso de Roma: hace falta password (se pide en su web) y tiene reglas estrictas; coctelería de altísimo nivel en un local escondido `https://www.guruwalk.com/rome`
+- **Klang Roma (Pigneto)** [🦄 raro] — espacio underground con performances que van de DJ sets clubby a jazz experimental en vivo; **entrada gratis**; lo más alternativo `https://youlocalrome.com/best-districts-to-go-out-in-rome/`
+
+### 🇦🇷 Noche latina
+- **Barrio Latino** [🇦🇷/latino] — club de salsa y bachata con noches **mié/vie/sáb/dom**; el sábado ("Havana") tiene **orquesta en vivo de 9 músicos** + DJ (salsa, bachata, sonido cubano); el domingo aperitivo + baile para principiantes `https://www.salsavida.com/event/italy/rome/weekly-latin-nights-at-barrio-latino/`
+- **Caruso Latin Club** [🇦🇷/latino] — ya arriba (Testaccio, salsa/merengue/reggaeton)
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con You Local Rome, JustRoma, SalsaVida y NightFlow. Re-chequear `r/rome` a mano antes del viaje.
+- **Dónde salen los jóvenes [local]:** arrancan en Trastevere/San Lorenzo y terminan en clubes de Testaccio/Ostiense; San Lorenzo es el más barato y estudiantil `https://www.justroma.it/en/for-young-people/where-to-have-fun-in-the-evening-in-rome-for-young-people/`
+- **Trampa turística a evitar:** tragos en las piazzas-monumento del centro (Navona, Trevi) — caros; bajar a Trastevere/Testaccio
+- **Día fuerte:** vie-sáb (Piazza Trilussa explota); las fiestas latinas de Barrio Latino se reparten mié/vie/sáb/dom
+- **Horario:** se cena tarde (21-22h) y los clubes prenden pasada la 1am
+- **Volver:** el metro cierra ~23:30 (vie-sáb ~1:30); de madrugada hay buses nocturnos y taxis/Uber — cuidado con taxistas sin taxímetro (ver Tips)
 
 ---
 
@@ -135,6 +151,22 @@ Para Cande: Roma tiene **mucha agitación y turistas**; no es la Italia favorita
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mar 20 – mar 27 oct (7 noches)
+
+- **Eventos:** **dom 25 oct = último domingo del mes → Museos Vaticanos GRATIS** (entrada hasta ~12:30; reservar slot igual, lleno extremo) · mismo día: **Porta Portese**, el mercado de pulgas dominical de Trastevere (mañana) `https://www.romehacks.com/rome-travel-tips/`
+- **⏰ Cambio de hora:** madrugada del **dom 25 oct** se atrasa 1h (fin del horario de verano) → desde ese día anochece ~17:15; mover paseos exteriores a la mañana/mediodía
+- **Feriados:** ninguno en Italia (Ognissanti es el 1 nov, ya en el Sur)
+- **Cierres por día de semana:** Galleria Borghese cierra **lunes** (lun 26) · varios museos estatales cierran lunes · vie 23: tours nocturnos de los Vaticanos (temporada — verificar)
+- **Solo esos días:** **Via Appia en bici → domingo 25** (cerrada al tráfico) — choca con Vaticanos gratis: elegir; alternativa: Appia igual está tranquila entre semana
+- **Renovaciones/cierres 2026:** Panteón con reserva online obligatoria y tarifa €7 desde julio 2026 ✓; Trevi con tarifa €2 ✓ (ya registrados)
+- **Clima y luz:** 12-21°C; ~10.5h de luz tras el cambio de hora; posible lluvia — el Panteón con lluvia es un plan, no un problema
+
+---
+
 ## 🚶 Free Walking Tour
 
 ### EN — SANDEMANs
@@ -158,7 +190,9 @@ Para Cande: Roma tiene **mucha agitación y turistas**; no es la Italia favorita
 
 - **Reservas "sí o sí":** Coliseo/Foro (ticketing.colosseo.it), Museos Vaticanos (museivaticani.va) y Galería Borghese — sin reserva se pierde medio día o directamente no se entra
 - **Fontana di Trevi a las 6:30 AM** — la única manera real de tenerla casi sola; a medianoche sigue llena; **nueva tarifa €2 vigente desde 2026**
-- **Testaccio para comer** — el barrio más votado en Reddit para comida romana auténtica y precio razonable; el Mercato di Testaccio es el mejor de Roma para almorzar barato entre locales
+- **Testaccio para comer** — el barrio más votado en foros para comida romana auténtica y precio razonable; el Mercato di Testaccio es el mejor de Roma para almorzar barato entre locales `https://www.tripadvisor.com/Tourism-g187791-Rome_Lazio-Vacations.html`
+- **No comer en piazzas junto a monumentos** [viajero] — "you will overpay and wonder what everyone is raving about"; 3-4 cuadras de distancia lo cambian todo `https://www.romehacks.com/rome-travel-tips/`
+- **Trastevere de noche + Porta Portese el domingo** [viajero] — el barrio rinde de tarde-noche; el mercado de pulgas dominical es el plan de mañana local `https://community.ricksteves.com/travel-forum/italy/rome-itinerary-f58a4fea-ea41-44e5-9646-c9fa9061b857`
 - **Monti para alojarse** — el barrio favorito de Reddit; caminable al Coliseo y Foro, trattorias sin trampa turística, ambiente de barrio en plena ciudad
 - **Via Appia el domingo en bici** — top 5 recomendaciones para "la Roma que nadie ve"; el domingo cierra al tráfico y es casi mágica
 - **Foro Romano necesita audio tour** — sin contexto son "piedras rotas"; Rick Steves (gratis) es la referencia más citada; descargar antes de ir
@@ -176,9 +210,7 @@ Para Cande: Roma tiene **mucha agitación y turistas**; no es la Italia favorita
 - **Seguridad:** Evitar taxistas sin taxímetro visible; aplicar el mismo sentido común que en cualquier capital europea grande; los robos en Roma son por distracción, no violentos
 
 ### Gastronomía
-- El *coperto* (€1.50-3 pp) es legal y normal; no confundir con la propina (que en Italia no existe como obligación)
-- En trattorias locales de Testaccio y Monti se gasta **€12-20** por persona con vino de la casa
-- **Aperitivo** (18-20h) es la costumbre de tomar un negroni o spritz antes de cenar; en Trastevere y Monti muchos bares incluyen algo de comer con la bebida
+> Tips de coperto, presupuesto por persona en trattoria y aperitivo migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Transporte
 - **Metro:** líneas A y B; útil para Vaticano (Ottaviano en la A), Coliseo (Colosseo en la B), Borghese (Spagna en la A); evitar Metro en hora punta con mochila

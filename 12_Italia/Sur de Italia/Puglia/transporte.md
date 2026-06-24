@@ -1,5 +1,18 @@
 # 🚆 Transporte en Puglia
 
+**Fechas:** ~29 oct – 8 nov 2026 (parte de las 10 noches del Sur) · **Estado:** tentativo (post-Portugal; **opción** del Sur de Italia)
+**Llegada:** desde **Nápoles** en tren Frecce/Italo a Bari (~3h30–4h) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Salida:** **vuelo** Bari → Barcelona (~8 nov) · ver sección Salida
+
+> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+
+## 🧭 Resumen rápido
+
+- **Auto recomendado** para Valle d'Itria, Castel del Monte y pueblos del interior; **tren para el eje Bari↔Lecce** (rápido, evita parking).
+- **Llegada** desde Nápoles en Frecce/Italo a Bari; **salida** en **vuelo Bari → Barcelona** (Ryanair, ~2h).
+- ⚠️ **ZTL** en Bari, Lecce y Matera: no meter el auto en cascos históricos (multas a la tarjeta meses después).
+- **Costo:** auto **€30–50/día** + nafta + parking · trenes regionales baratos.
+
 ## Llegada desde Nápoles
 
 ### Nápoles → Bari (Tren)
@@ -75,8 +88,17 @@
 
 ---
 
+## 🎟️ Eurail (este tramo)
+
+> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+- **Salida Puglia → Barcelona es un VUELO** (Ryanair Bari→BCN ~€30–80) → **0 días de Eurail**.
+- Dentro de Puglia: trenes **regionales baratos** (Bari↔Lecce €10–18, FSE) — no rinde gastar día de pase; lo demás es **auto**.
+- **Días de Eurail en Puglia: 0.**
+
 ## 🔗 Fuentes oficiales (links)
-- Trenitalia: `https://www.trenitalia.com/en.html`\n+- FSE (Ferrovie del Sud Est): `https://www.ferroviesudest.it/`\n+- FAL (Ferrovie Appulo Lucane): `https://www.ferrovieappulolucane.it/`
+- Trenitalia: `https://www.trenitalia.com/en.html`
+- FSE (Ferrovie del Sud Est): `https://www.ferroviesudest.it/`
+- FAL (Ferrovie Appulo Lucane): `https://www.ferrovieappulolucane.it/`
 
 ## 🧠 Consenso foros (resumen) — oct/nov
 - **Con auto confirmado:** el itinerario en Puglia mejora sustancialmente. Valle d’Itria en un día, Castel del Monte accesible, Matera+Alberobello combinables.

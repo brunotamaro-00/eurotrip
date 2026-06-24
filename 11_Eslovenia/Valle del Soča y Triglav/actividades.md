@@ -157,6 +157,20 @@
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Ventana tentativa:** lun 12 – mié 14 oct (1-2 días desde Liubliana o con noche en el valle)
+
+- **Tolmin Gorges:** horario oficial 12-25 oct **9:00-17:00** ✓ (ya verificado arriba) `https://www.soca-valley.com/en/attraction/tolmin-gorges/opening-hours/`
+- **Buses estacionales del valle: NO operan en octubre** — planificar 100% con auto; trekkings lineales requieren taxi/2 autos
+- **Vršič Pass:** riesgo de nieve/hielo temprano — chequear estado de rutas la mañana misma `https://www.promet.si/en`
+- **Refugios cerrados** fuera de temporada (Krn incl.) — llevar agua/comida/abrigo
+- **Clima y luz:** ~11h de luz; 1 trekking principal + 2-3 paradas cortas máximo; **Slemenova Špica con alerces dorados** es el plan estrella si el cielo acompaña ⭐
+
+---
+
 ## 🔗 Fuentes/links útiles (oficiales + planificación)
 - Estado de rutas (oficial): `https://www.promet.si/en`
 - Info turística oficial del valle (y muchas fichas de atracciones): `https://www.soca-valley.com/en/`

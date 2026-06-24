@@ -60,65 +60,43 @@ Barrio construido por los soviéticos en 1949 como "ciudad ideal comunista" con 
 
 ---
 
-## 🥟 Comida Polaca: Precios Reales (MUY barato)
-
-### Platos Típicos y Precios
-- **Pierogi** - Dumplings polacos; plato (~10 piezas) en restaurante: **30-45 PLN**; en milk bar: **<15 PLN** — variedades: *ruskie* (queso+papa, los favoritos), *mięsne* (carne), *z kapustą* (col y setas)
-- **Żurek** - Sopa de centeno fermentado servida en pan; **10-20 PLN**; auténtica y deliciosa; uno de los mejores platos para €2-4
-- **Bigos** - Guiso de carne con chucrut; comfort food polaca; ~**20-30 PLN**
-- **Zapiekanka** - "Pizza polaca" en baguette abierta; el street food de Kazimierz; **20-35 PLN** (una es comida completa)
-- **Obwarzanek** - Rosquilla trenzada típica de Cracovia; vendedores ambulantes con carrito azul en cada esquina: **3.50 PLN** (~€0.80); el snack más icónico y barato de la ciudad
-
-### 🥛 Milk Bars (Bar Mleczny): La Joya Económica de Cracovia
-> *"Si no hablás polaco, vas a sobrevivir perfecto con el método señalar + Google Lens. El único riesgo real es llegar tarde: en algunos milk bars las cosas se agotan durante el día."*
-
-**Cómo funciona:** Cafeterías con subvención estatal de la era comunista; comida casera polaca absurdamente barata; menú diario con sopa + plato principal + bebida: **15-25 PLN** (~€3-6)
-
-**Mini-hacks operativos:**
-- Ir **antes de las 14:00** si querés menú completo; en algunos se termina literalmente
-- Usar **Google Lens** para traducir el menú escrito en la pizarra; señalar el plato elegido funciona sorprendentemente bien
-- No confundir con lugares que se llaman "milkbar" pero son más brunch/turista
-
-**Milk bars recomendados (de hilos de r/krakow):**
-- [ ] **Bar Mleczny Flisak** - Muy mencionado como clásico auténtico
-- [ ] **Pod Temidą** - En el centro; de los más accesibles para turistas
-- [ ] **Bar Mleczny Centralny** - En Nowa Huta; para combinar con visita al barrio (ir antes de las 14:00)
-- [ ] **Żak/Żaczek** - Pierogi muy recomendados en foros
-- [ ] **Bar "W przychodni"** - El "raro/único" que nombran los locales; experiencia sui generis
-
-`https://old.reddit.com/r/krakow/comments/1axgfxg/krakow_milk_bars/`
-
-### Dónde Comer (Más allá del Milk Bar)
-- [ ] **Starka (Kazimierz)** - Restaurante polaco auténtico con buena relación calidad-precio; no trampa turística
-- [ ] **Plac Nowy (Kazimierz)** - Puestos de zapiekankas en la rotonda + ambiente local; imprescindible para lunch rápido
-- [ ] **Chłopskie Jadło** - Cocina tradicional campesina con porciones enormes; turístico pero auténtico
-- [ ] **Milkbar Tomasza** - NOTA: a pesar del nombre, r/krakow lo señala como "no es milk bar real" — más turístico; no confundir con los auténticos
+## 🍽️ Gastronomía
+> Detalle completo (platos polacos, milk bars/bar mleczny, pierogarnias, street food de Plac Nowy, comida para llevar, supermercados y mercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
-## 🍺 Vida Nocturna (EXCELENTE y MUY BARATA)
+## 🌙 Nightlife
 
-### Kazimierz: El Barrio de los Bares
-La mejor zona de Cracovia para bares. Locales en antiguas sinagogas y edificios judíos históricos con decoración ecléctica. Ambiente bohemio y muy barato.
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/hits/varied), no somos de techno (pero vamos si es lo único). Curaduría de lo mejor. Cracovia es **de lo más barato y seguro de Europa para salir**, y **Kazimierz** es uno de los mejores barrios de bares del continente. Cerveza local 500ml **~10-15 PLN** (~€2-3.50), cóctel **~20-30 PLN**. **1 EUR ≈ 4.3 PLN.**
 
-**Precios aproximados (en bares de Kazimierz):**
-- Cerveza local (Żywiec, Tyskie) 500ml: **~10-15 PLN** (~€2-3.50)
-- Vodka shot (Żubrówka, Wyborowa): **~10-15 PLN**
-- Cóctel: **~20-30 PLN**
+### 🕺 Para bailar
+- **Teatro Cubano** [🇦🇷/latino] — club latino céntrico; salsa, merengue, bachata con energía y abierto hasta la madrugada; cerca de las atracciones `https://www.tripadvisor.com/ShowUserReviews-g274772-d10356519-r591916780-Teatro_Cubano_Krakow-Krakow_Lesser_Poland_Province_Southern_Poland.html`
+- **Frantic** — club grande de EDM/hits, popular entre locales y turistas; para una noche de pista clásica
+- **Szpitalna 1** — club alternativo en el casco histórico; música variada, ambiente joven
 
-### Bares Icónicos
-- [ ] **Alchemia** - EL bar más famoso de Kazimierz; velas, sótano húmedo y bohemio, música en vivo a veces; imprescindible aunque sea turístico
-- [ ] **Singer** - Máquinas de coser Singer como mesas; ambiente bohemio único; muy fotogénico
-- [ ] **Eszeweria** - Vintage, atmosférico, cerveza barata; menos turístico que Alchemia
-- [ ] **Propaganda** - Temática comunista con objetos de la época; vodka shots y nostalgia irónica
-- [ ] **Miejsce** - Más moderno; cócteles buenos; para cuando querés algo más curado
-- [ ] **Stary Port** - Terraza frente al Vístula; para noches de buen tiempo
-- [ ] **Klub Kulturalny** - Bohemio, eventos, música alternativa; muy local
+### 🍸 Bares para arrancar / tomar algo (Kazimierz)
+- **Alchemia** — EL bar de Kazimierz: velas, sótano bohemio, música en vivo a veces; imprescindible aunque sea turístico `https://www.local-life.com/krakow/articles/where-dancing-krakow`
+- **Eszeweria** — vintage, atmosférico, cerveza barata; más local y menos turístico que Alchemia
+- **Plac Nowy** — la plaza-epicentro de Kazimierz de noche; arrancar acá con una zapiekanka y un trago barato es la previa local [local]
 
-### Clubes
-- [ ] **Frantic** - EDM; popular entre locales y turistas
-- [ ] **Prozak 2.0** - Techno/house; más underground
-- [ ] **Szpitalna 1** - Club alternativo en el centro histórico
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Propaganda** [🦄 raro/icónico] — bar de **temática comunista**: lleno de objetos y propaganda de la era soviética, vodka shots y nostalgia irónica; muy del espíritu polaco `https://www.local-life.com/krakow/articles/where-dancing-krakow`
+- **Singer** [🦄 raro] — bar bohemio donde las mesas son **viejas máquinas de coser Singer**; de los más fotogénicos y queridos de Kazimierz
+
+### 🇦🇷 Noche latina
+- **Mojitos Club** [🇦🇷/latino] — Mojitos Social Nights: salsa, bachata, reggaeton y afrobeat; ul. Mikołajska 13; ambiente amistoso y animado `https://www.salsavida.com/event/poland/krakow/mojitos-social-nights-at-mojitos-club-krakow/`
+- **Prominent – Latino Night** [🇦🇷/latino] — **los viernes**: salsa, bachata y kizomba; Kamienna 17 `https://gojammin.com/en-PL/events/03efb72b-a963-4788-ba02-dcb51cfccc44`
+- **Cuba Sí! @ Louis Music Club** [🇦🇷/latino] — noche de salsa **los miércoles** en Rynek Główny 13 `https://www.inyourpocket.com/krakow/cuba-si-salsa-night-by-salsa-house_20664e`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Local-Life, SalsaVida e InYourPocket. Re-chequear `r/krakow` a mano antes del viaje.
+- **Dónde salen los locales/jóvenes [local]:** **Kazimierz** es el highlight (bares atmosféricos, comida barata, ambiente genuino); recurrente como lo mejor de Cracovia `https://www.local-life.com/krakow/articles/where-dancing-krakow`
+- **⚠️ Trampa frecuente:** promotores de strip clubs/"beer" abordando (sobre todo a hombres) en Stare Miasto → **cero reacción**, seguir caminando; entrar solo a bares con carta de precios visible `https://old.reddit.com/r/krakow/comments/1d55o4i/scam_girls_approaching_single_guys_in_old_town/`
+- **Barato:** de las capitales más económicas para salir de toda Europa
+- **Día fuerte:** vie-sáb (con estadía sáb-mié, la mejor noche es el **sáb 3**); las fiestas latinas se reparten mié (Cuba Sí), vie (Prominent) y todo el finde (Mojitos)
+- **Volver:** centro y Kazimierz caminables (~15-20 min); de madrugada **Bolt/Uber** baratos (no taxis de calle)
 
 ---
 
@@ -173,6 +151,21 @@ La mejor zona de Cracovia para bares. Locales en antiguas sinagogas y edificios 
 | 5 oct | Lunes | Schindler CERRADO; Auschwitz (si van entre semana mejor); milk bars abiertos |
 | 6 oct | Martes | |
 | 7 oct | Miércoles | Salida a Budapest |
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** sáb 3 – mié 7 oct (4 noches)
+
+- **Eventos:** sin eventos mayores detectados en 3-7 oct; el Krakow Autumn Folk Festival cae ~2 semanas después; verificar agenda en `https://krakow.travel/`
+- **Feriados:** ninguno en Polonia esas fechas
+- **Cierres por día de semana:** **Fábrica de Schindler cerrada los lunes** (lun 5) y los slots se agotan → reservar para mar 6 o dom 4 · sinagogas de Kazimierz **cerradas los sábados** (sáb 3, día de llegada) · MOCAK gratis los martes → **mar 6**
+- **⏰ Reserva crítica:** **Auschwitz se reserva con 1-2 MESES** — para visitar el lun 5 o mar 6 de oct, reservar en agosto en `https://visit.auschwitz.org/` · Wieliczka 3-5 días antes
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados
+- **Clima y luz:** 9-17°C, ~12h de luz (anochecer ~18:30); Zakrzówek ya frío para nadar pero las vistas valen
 
 ---
 
@@ -240,11 +233,12 @@ La mejor zona de Cracovia para bares. Locales en antiguas sinagogas y edificios 
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Auschwitz:** reservar con mucha anticipación; ir temprano y planear una tarde tranquila después; el guía del museo lo hace más impactante que ir solo
-- **Kazimierz de noche** suele ser el highlight de muchos viajeros: bares atmósfericos, comida barata, ambiente genuino
-- **Nowa Huta** aparece como "experiencia distinta e impactante" especialmente si ya vieron mucho casco histórico; el free tour especializado es la mejor forma de aprovecharlo
-- **Milk bars:** el consejo más repetido para ahorrar y comer auténtico; llegar antes de las 14:00 siempre
-- **Evitar Euronet** (cajeros) es un consejo que se repite muchísimo en r/krakow
+- **Auschwitz:** reservar con mucha anticipación; ir temprano y planear una tarde tranquila después; el guía-educator del museo lo hace más impactante que ir solo (unánime en r/krakow) `https://old.reddit.com/r/krakow/comments/1pt5t0w/guide_to_krak%C3%B3w_getting_from_airport_to_the_city/`
+- **Milk bars [local]:** el consejo más repetido para ahorrar y comer auténtico; llegar antes de las 14:00 (se agotan los platos); Google Lens para la pizarra `https://old.reddit.com/r/krakow/comments/1axgfxg/krakow_milk_bars/`
+- **Nowa Huta** — "experiencia distinta e impactante" si ya vieron mucho casco histórico; el free tour especializado es la mejor forma `https://old.reddit.com/r/krakow/comments/145z2xk/nowa_huta_milk_bars_language_barriers/`
+- **Trampa frecuente:** promotores de strip clubs/"beer" abordando hombres en Stare Miasto — cero reacción y seguir caminando `https://old.reddit.com/r/krakow/comments/1d55o4i/scam_girls_approaching_single_guys_in_old_town/`
+- **Kazimierz de noche** suele ser el highlight de muchos viajeros: bares atmosféricos, comida barata, ambiente genuino (recurrente en r/krakow y foros)
+- **Evitar Euronet** (cajeros amarillos) es de los consejos más repetidos en r/krakow; usar bancos polacos (PKO, mBank)
 - **Wieliczka:** vale el precio y el viaje aunque parezca turístico; la Capilla de Santa Kinga es lo más impresionante; reservar online
 
 ---

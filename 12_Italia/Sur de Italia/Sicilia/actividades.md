@@ -260,38 +260,8 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 
 ---
 
-## 🍝 Gastronomía Siciliana (Resumen General)
-
-### Street Food (Palermo = capital mundial)
-| Plato | Qué es | Precio |
-|-------|--------|--------|
-| **Arancina/o** | Bola de arroz frita (ragù, mantequilla, pistacchio) | **€1.50-2** |
-| **Panelle e crocchè** | Croquetas de garbanzo + papa en panino | **€2-3** |
-| **Sfincione** | Pizza esponjosa siciliana | **€2** |
-| **Cannolo** | Tubo crujiente + ricota | **€2-3** |
-| **Granita con brioche** | Granizado + brioche (desayuno) | **€3-4** |
-| **Pane con la milza** | Panino de bazo (Palermo) | **€3-4** |
-
-### Pasta
-- **Pasta alla Norma** - Berenjena, tomate, ricota salata (Catania)
-- **Pasta con le sarde** - Sardinas, hinojo silvestre, piñones, pasas (Palermo). Agridulce.
-- **Busiate al pesto trapanese** - Pasta en espiral con pesto de tomate, almendras, ajo (Trapani)
-
-### Dulces
-- **Cannolo** - EL postre siciliano. Ricota fresca, chips de chocolate, pistacchio.
-- **Cassata** - Bizcocho con ricota, mazapán, fruta confitada. Barroca como Sicilia.
-- **Granita** - Más que un granizado. De almendra, limón, café, mora. Con brioche = desayuno.
-- **Frutta di Martorana** - Frutas de mazapán, arte comestible
-
-### Vinos
-- **Nero d'Avola** - Tinto robusto, el más famoso de Sicilia
-- **Marsala** - Vino fortificado (Trapani), para beber o cocinar
-- **Etna Rosso** - Vino volcánico, cada vez más prestigioso
-
-### Pistacchio di Bronte
-- Bronte (pueblo en las faldas del Etna) produce el mejor pistacho del mundo
-- En todo: helado, pesto, cannoli, granita, pasta
-- Es verde brillante y tiene sabor intenso
+## 🍝 Gastronomía
+> Detalle completo (street food por zona, platos por ciudad, dónde comer barato, mercados Ballarò/Capo/Vucciria/Pescheria/Ortigia, vinos y pistacho de Bronte) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -351,6 +321,18 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 ### GuruWalk — Catania / Siracusa (EN)
 - Disponibles; verificar guías y horarios en la app/web
 `https://www.guruwalk.com/catania` · `https://www.guruwalk.com/syracuse`
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — destino del Sur aún sin decidir; ventana jue 29 oct – dom 8 nov
+
+- **Feriado clave: dom 1 nov = Ognissanti (Todos los Santos)** — feriado nacional en domingo: transporte público aún más reducido que un domingo normal; restaurantes llenos de familias (reservar almuerzo); **además es 1er domingo del mes → museos y parques estatales GRATIS** (Valle dei Templi, Neapolis, Teatro Greco) — lleno local asegurado
+- **Mié 4 nov:** jornada con entrada gratis en varios sitios estatales (aniversario de la Unidad) — verificar cuáles aplican
+- **Cierres por temporada:** chiringuitos y servicios de playa cerrados; Monreale y Valle dei Templi con horario reducido en noviembre — verificar; tours del Etna operan todo el año pero con menos salidas
+- **Domingos (1 y 8 nov):** buses y trenes caen drásticamente — no planificar traslados esos días
+- **Clima y luz:** 17-23°C (el mejor clima del sur en esta época); anochece ~17:00 → ruinas y pueblos de mañana, ciudades de noche; Etna cima 0-10°C
 
 ---
 

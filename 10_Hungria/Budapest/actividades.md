@@ -101,54 +101,46 @@ Bares construidos en edificios en ruinas y abandonados del barrio judío (Distri
 
 ---
 
-## 🍽️ Comida Húngara
-
-### Platos Típicos
-- **Gulyás (Gulásh)** - Sopa/guiso de carne con paprika y papas; el plato nacional húngaro (~2,000-3,000 HUF en restaurante)
-- **Lángos** - Masa frita con crema agria y queso; street food imprescindible; **~1,000-2,000 HUF** en el mercado o puestos callejeros
-- **Kürtőskalács (Chimney cake)** - Pastel en espiral cocinado sobre brasas; turístico pero genuinamente bueno; ~1,000-1,500 HUF
-- **Töltött káposzta** - Repollo relleno de carne y arroz; comfort food muy húngara
-- **Pörkölt** - Guiso de carne más espeso que el gulásh; base de muchos platos
-- **Halászlé** - Sopa de pescado con pimentón; del Danubio; muy húngara pero menos conocida por turistas
-
-### Dónde Comer (Recomendaciones Reddit)
-- [ ] **Bors GasztroBar** - Sopas y sándwiches creativos; cola vale la pena; barato (~1,500-2,000 HUF); muy popular entre locals del Distrito VII
-- [ ] **Karaván** - Street food market con opciones variadas (hamburguesas, falafel, chimney cake) en un patio; en Kazinczy utca; buena precio-calidad
-- [ ] **Kőleves Kert** - Jardín + comida húngara moderna; uno de los favoritos de viajeros que no quieren trampa turística
-- [ ] **Mazel Tov** - Israeli food en un ruin bar; de los mejores restaurantes del barrio judío
-- [ ] **Stand25 Bistró** - Para una "comida muy buena de cocina húngara moderna"; recomienda r/budapest para quien quiere calidad sin ser trampa turística; ~4,000-6,000 HUF por plato
-- [ ] **Kifőzde (buscar en Google Maps)** - Las cantinas/cafeterías húngaras con menú del día; porciones enormes, precio local, sin turistas; buscar "kifőzde" en Maps en Pest
-- [ ] **Hummus Bar** - Para una pausa de la comida pesada húngara; varias sucursales; barato y fresco
-
-### Economizar
-- **Lángos en el Mercado Central** (planta alta) o en puestos callejeros: el desayuno/merienda más barato y delicioso
-- **Cualquier kifőzde** cerca del hotel: menú del día ~1,500-3,000 HUF
-- **Supermercados:** Spar, Tesco Express, Aldi — para desayunos y snacks
-- **Evitar el Gran Mercado Central planta alta** para comer si querés precio local: es turística y cara
-
-### Comer "como local"
-> *"Muchos húngaros no van a 'restaurantes húngaros' para comer; comen en casa. Para algo parecido y barato, buscá **kifőzde** o comida en mercados (evitando los puntos más turísticos)."*
+## 🍽️ Gastronomía
+> Detalle completo (platos húngaros, kifőzde/étkezde y napi menü, lángos, dónde comer barato, ruin bar food, comida para llevar, supermercados y Gran Mercado Central) en [`gastronomia.md`](gastronomia.md).
+>
+> Los **ruin bars** (dónde beber) se mantienen arriba en este archivo como experiencia.
 
 ---
 
-## 🎉 Vida Nocturna (LEGENDARIA)
+## 🌙 Nightlife
 
-Budapest tiene **una de las mejores vidas nocturnas de Europa**, comparable a Berlín pero mucho más barata.
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/hits/varied), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. Budapest tiene **una de las mejores noches de Europa, comparable a Berlín pero mucho más barata**. **1 EUR ≈ 390-410 HUF.**
+>
+> **La noche típica:** previo en ruin bar (19-22h) → cenar (22-23h) → bar hopping Distrito VII (23-01h) → club (01-06h).
 
-### La Noche Típica de Budapest
-1. **Pre-game en ruin bar** (19:00-22:00)
-2. **Cenar** (22:00-23:00)
-3. **Bar hopping Distrito VII** (23:00-01:00)
-4. **Club** si quieren seguir (01:00-06:00)
+### 🕺 Para bailar
+- **Doboz** [🇦🇷/latino] — ruin club premium del Distrito VII con 2 pistas; el sábado es **Ritmo Latino** (ver abajo), otras noches mainstream/hits; nuestro palo musical `https://cooltix.hu/event/63419012a0333fcbe8ebd5c5`
+- **Instant-Fogas** — el complejo de ruin club más grande (2 edificios, 26 salas, ~6,000 personas); **múltiples géneros a la vez**, así que siempre hay una sala que no es techno; para fiesta real (ver sección Ruin Bars) `https://szimpla.hu/`
+- **A38** [🦄] — club en un **barco anclado en el Danubio**; programación diversísima (no solo electrónica); una de las salas más cool de Europa
 
-### Clubes (más allá de los ruin bars)
-- [ ] **Akvárium Klub** - Debajo de una plaza; electrónica; buena acústica; uno de los mejores del circuito local
-- [ ] **Lärm** - Techno/house más underground; para cuando el Instant-Fogas ya es demasiado mainstream
-- [ ] **Aether** - House/techno; más selectivo
-- [ ] **Ötkert** - Pool parties en verano; mainstream pero con buenas noches de DJ
-- [ ] **A38** - Club en un barco anclado en el Danubio; programación diversa; una de las salas de conciertos más cool de Europa
+### 🍸 Bares para arrancar / tomar algo
+- **Ruin bars del Distrito VII** — Szimpla Kert y compañía son el previo obligado (ver sección **Ruin Bars** arriba); cerveza 1,200-1,800 HUF
+- **Gólya / Auróra** — para ambiente local cuando el Distrito VII se siente demasiado turístico; cerveza muy barata [local]
 
-> *"Budapest es donde los europeos occidentales vienen a hacer la fiesta que no pueden pagar en sus ciudades. Prepararse para quedar destruidos."*
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Szimpla Kert** [🦄 raro/icónico] — EL ruin bar original (2001): bañeras, autos viejos, maniquíes y luces por todos lados en un edificio en ruinas; Imperdible aunque sea turístico (detalle completo en sección **Ruin Bars**) `https://szimpla.hu/`
+- **Rudas Night Bath (vie/sáb)** [🦄 raro/icónico] — **terma otomana del s. XVI abierta de noche** (18-04h) con rooftop iluminado sobre el Danubio; spa + fiesta, surreal; cae en la estadía el **vie 9** (ver sección Termas) `https://en.rudasfurdo.hu/night-above-the-city`
+
+### 🇦🇷 Noche latina
+- **Ritmo Latino @ Doboz** [🇦🇷/latino] — **todos los sábados**: reggaeton, latin y hits en 2 pistas; **entrada gratis + welcome shots**; cae en la estadía el **sáb 10** `https://cooltix.hu/event/63419012a0333fcbe8ebd5c5`
+- **Azúcar Cuban Disco & Bar** [🇦🇷/latino] — local cubano con decoración temática, cócteles y mucha vida; Kertész utca 3 `https://budtransfer.com/en/best-latin-bars-and-clubs-in-budapest`
+- **Barrio Latino / Fidel's Cabaret** [🇦🇷/latino] — clubes sudamericanos con salsa, en vivo y cabaret; lo más auténtico de la escena latina `https://budtransfer.com/en/best-latin-bars-and-clubs-in-budapest`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con BudTransfer, Cooltix y guías locales. Re-chequear `r/budapest` a mano antes del viaje.
+- **Dónde salen [local]:** Distrito VII (ruin bars) es el centro; Gólya/Auróra para huir del turismo `https://www.budapestlovers.city/en/best/salsa-clubs-in-budapest`
+- **⚠️ "Pretty woman scam":** nunca seguir a alguien que te invita a un bar desconocido en la calle → factura inflada; ir solo a ruin bars/clubes conocidos con precios visibles `https://hungaryunlocked.com/beware-tourists-beware-scammers-target-budapest/`
+- **Día fuerte:** vie-sáb (la fiesta latina de Doboz cae **sáb 10**; el Rudas Night, **vie 9**)
+- **Muy seguro y barato:** el Distrito VII es de los centros más seguros de Europa de noche; "donde los europeos occidentales vienen a hacer la fiesta que no pueden pagar en casa"
+- **Volver:** de madrugada **Bolt/Uber** baratos (nunca taxi de calle); hay buses nocturnos BKK `https://bkk.hu/`
 
 ---
 
@@ -173,6 +165,22 @@ Budapest tiene **una de las mejores vidas nocturnas de Europa**, comparable a Be
 | 9 oct | Viernes | Rudas Night (vie 18:00-04:00) — si tienen energía |
 | 10 oct | Sábado | Mercado de granjeros en Szimpla (10:00-14:00); **Maratón de Budapest** puede afectar el tráfico |
 | 11 oct | Domingo | Salida a Liubliana |
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mié 7 – dom 11 oct (4 noches)
+
+- **⚠️ Maratón de Budapest CONFIRMADO 10-11 oct 2026** — sáb 10: carreras 5K/10K; **dom 11 (día de salida): maratón completo** con cortes de calles del centro y la ribera → planificar el traslado de salida con margen extra y reservar alojamiento YA (los hoteles se llenan ese finde) `https://marathon.runinbudapest.com/spar-budapest-marathon-2026/`
+- **Eventos:** Café Budapest Autumn Festival arranca ~mediados de oct — verificar si solapa `https://www.budapestinfo.hu/`
+- **Feriados:** ninguno en Hungría esas fechas (el 23 oct cae después)
+- **Cierres por día de semana:** Gran Sinagoga cierra los **sábados** y cierra temprano los viernes → visitarla jue 8 o vie 9 temprano · Rudas Night → vie 9 (18:00-04:00)
+- **Solo esos días:** mercado de granjeros en Szimpla → **dom 11** 10-14h (solo si la salida es por la tarde) · Bastión de los Pescadores GRATIS después de las 19:00 (desde oct)
+- **Renovaciones/cierres 2026:** **Gellért CERRADO hasta 2028** (confirmado) — usar Széchenyi/Rudas/Lukács `https://www.gellertbath.hu/opening-hours`
+- **Clima y luz:** 10-19°C, ~11.5h de luz (anochecer ~18:20); las termas exteriores de Széchenyi con vapor en otoño son el momento ideal del año
 
 ---
 
@@ -257,8 +265,10 @@ Budapest tiene **una de las mejores vidas nocturnas de Europa**, comparable a Be
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Termas:** suele recomendarse elegir 1-2 (no "coleccionarlas" todas); Széchenyi = fotos; Rudas = experiencia histórica; Lukács = más local; Dandár = la más auténtica según locals; **Gellért cerrado** hasta 2028
-- **Distrito VII para salir** (ruin bars): seguir tips anti-scam (bares raros + cambio en la calle); Szimpla es obligatorio aunque sea una vez; hay barrios con más ambiente local (Gólya, Auróra) para cuando el Distrito VII se siente demasiado turístico
+- **Termas:** elegir 1-2 (no "coleccionarlas"); Széchenyi = fotos; Rudas = experiencia histórica; Lukács = más local; Dandár = la más auténtica según locals; **Gellért cerrado** hasta 2028 `https://old.reddit.com/r/budapest/comments/1bstpsr/is_it_awkwarduncomfortable_going_to_the_thermal/`
+- **Comer como local [local]:** los húngaros no van a "restaurantes húngaros" — buscar **kifőzde** (cantinas con menú del día) en Google Maps; porciones enormes a precio local `https://old.reddit.com/r/budapest/comments/1lf8d5f/where_do_hungarians_go_to_eat_hungarian_food_or/`
+- **Trampa frecuente:** cambistas cerca del Gran Mercado — experiencia real de estafa documentada; pagar con tarjeta o cajeros de bancos húngaros `https://old.reddit.com/r/budapest/comments/1ltdhpd/i_got_scammed_near_the_central_market_hall_watch/`
+- **Distrito VII para salir** (ruin bars): Szimpla es obligatorio aunque sea una vez; Gólya y Auróra para ambiente local cuando el VII se siente demasiado turístico (recurrente en r/budapest)
 - **Parlamento:** reservar con antelación (tours se agotan 1-3 semanas antes); el tour es la única forma de entrar
 - **Gellért Hill** es el consejo más repetido para free para hacer en Budapest: las vistas son imbatibles y es completamente gratis
 - **"Solo ir a los ruin bars de Kazinczy utca"** es el error más frecuente; explorar también Gólya, Auróra y el Distrito VIII para más ambiente local

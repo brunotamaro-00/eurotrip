@@ -91,7 +91,7 @@ Formato:
   - Pool/rooftop bar puede ser estacional.
 - **Fuente**: `https://www.hostelworld.com/hostels/p/30402/rivoli-cinema-hostel/`
 
-### 4) Onefam Ribeira — USD 41.75 — Centro histórico (Sé/Ribeira)
+### 4) Onefam Ribeira — USD 41.75 (cotizado) → ✅ **RESERVADO** (pagado 97€ TOTAL ≈ USD 110.10, USD 36.70/noche) — Centro histórico (Sé/Ribeira)
 **Hostelworld:** 9.8 (3635) — Atmosphere 9.8 — Location 10.0 — **Edad 18–39**
 
 - **Fortalezas**

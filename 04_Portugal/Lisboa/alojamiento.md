@@ -1,7 +1,7 @@
 # 🛏️ Alojamiento — Lisboa
 
 **Fechas:** 4–9 septiembre (5 noches)  
-**Reservado:** **Lisbon Destination Hostel** (Rossio) — **USD 30/noche** (1 persona)  
+**Reservado:** **Lisbon Destination Hostel** (Rossio) — pagado **130€ TOTAL** (≈ **USD 147.55**, **USD 29.51/noche**; 1 persona)  
 **Objetivo (original):** ≤ **~USD 30-35**/noche (1 persona; plan Portugal en `PRESUPUESTO.md`)  
 
 ---
@@ -30,7 +30,7 @@ Regla práctica: si sos **sensible al ruido**, intentá no quedar pegado a Pink 
 
 ### Top 3 (mejor balance social + ubicación + cocina)
 
-1. **Lisbon Destination Hostel** (Rossio): muy social y con eventos; ubicación “hub” (Sintra/metro). ✅ **RESERVADO** (USD 30/noche).
+1. **Lisbon Destination Hostel** (Rossio): muy social y con eventos; ubicación “hub” (Sintra/metro). ✅ **RESERVADO** (130€ TOTAL / USD 147.55, USD 29.51/noche).
 2. **Lost Inn Lisbon** (Chiado/Cais do Sodré): social + actividades + muy buena cocina; gran zona para salida.
 3. **Living Lounge Hostel** (Chiado/Baixa): vibe boutique + cenas/actividades; gran ubicación; cocina full.
 

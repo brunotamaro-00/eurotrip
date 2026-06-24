@@ -1,73 +1,62 @@
 # 🗺️ Desvíos desde Viena
 
-Con 5 noches, Viena te da para llenar el viaje **sin** day trips. Pero si querés 1 día “aire” fuera de ciudad, estas son las opciones más típicas (en orden de “worth it”).
+> ⚠️ **Fechas tentativas — re-verificar al confirmar.**
 
-## Ranking (para elegir rápido)
+**Tramo:** 23-28 sept 2026 (5 noches) · **Estado:** tentativo · **Realista:** ~1-2 day trips (con 5 noches Viena llena sola; un desvío de "aire" si querés)
 
-| Opción | Tipo | Tiempo (ida) | Prioridad | Vale si… |
-|---|---|---:|---|---|
-| **Wachau (Melk + Dürnstein + Danubio)** | UNESCO + viñedos + río | ~50–60 min a Melk (tren) | ⭐⭐ Alta | Querés paisaje + pueblitos + 1 gran visita (abadía) |
-| **Bratislava** | Capital cercana | ~1h | Media | Te tienta “otro país” y algo distinto (muy caminable) |
-| **Baden bei Wien** | Spa town | ~30–45 min | Baja | Querés paseo corto y relajado |
-| **Neusiedlersee / Burgenland** | Naturaleza + vino | ~1h (mejor con coche) | Baja-Media | Te interesa vino/naturaleza y te encaja en ruta hacia Eslovenia |
-| **Hallstatt** | “postal alpina” | ~3h | Baja | Solo si lo soñabas, pero es lejos para day trip |
+> Costos autoritativos en [`transporte.md`](transporte.md). **Eurail:** Bratislava → mejor el **EURegio Ticket €18** (con transporte urbano) que gastar día de pase; Wachau → tren con Eurail + **barco DDSG aparte** (estacional, verificar fines de septiembre).
 
----
-
-## 🆕 RECOMENDACIONES DE REDDIT (Nuevas)
-
-### Neusiedlersee + Burgenland ⭐ NUEVA RECOMENDACIÓN
-**Quién:** u/opitypang
-> "You're going down the east side of Austria to Slovenia. It would be a pity not to detour into **Burgenland** and see the **Neusiedlersee** on the Hungary border. A very atmospheric and historic area with world-class birdwatching and great wines."
-
-| Qué | Descripción |
-|-----|-------------|
-| **Neusiedlersee** | Lago en frontera con Hungría |
-| **Burgenland** | Región vinícola austriaca |
-| **Birdwatching** | World-class (reconocido internacionalmente) |
-| **Vinos** | Excelentes, zona de producción importante |
-| **Ambiente** | "Very atmospheric and historic" |
-
-### 💡 Cómo encaja en la ruta:
-```
-Viena → Neusiedlersee/Burgenland (day trip o 1 noche) → Liubliana
-```
-
-**Distancia:** ~50km al sureste de Viena  
-**Tiempo:** 1h en coche  
-**Ideal para:** Amantes del vino, naturaleza, birdwatching
-
-### ⚠️ Consideración:
-- Mejor con coche rentado
-- Puede ser day trip desde Viena
-- O parada camino a Eslovenia
+## 🎯 Resumen
+| Destino | Prioridad | Distancia | Tiempo (ida) | Medio | Categoría | ¿Sin auto? |
+|---------|-----------|-----------|--------------|-------|-----------|------------|
+| **Wachau (Melk + Dürnstein + Danubio)** | ✅ Alta | 80 km | ~1h a Melk | Tren + barco DDSG | UNESCO / viñedos / río | ✅ Sí |
+| **Bratislava** | Media | 65 km | ~1h | Tren REX o Twin City Liner | Capital cercana | ✅ Sí |
+| **Baden bei Wien** | Baja | 30 km | ~45 min | Badner Bahn (tranvía) | Spa town | ✅ Sí |
+| **Neusiedlersee / Burgenland** | Baja-Media | 50 km | ~1h | Tren + bus (mejor coche) | Vino / lago / aves | ⚠️ Mejor coche |
+| **Semmeringbahn** | Baja | — | ~1h15 | Tren panorámico | Ferrocarril UNESCO | ✅ Sí |
+| **Hallstatt** | Descartado | 290 km | ~3h | Tren (transbordos) | Postal alpina | ⚠️ Lejos |
 
 ---
 
-## 👤 Ayuda disponible
+## ⭐ Prioridad Alta
 
-**Quién:** u/babyblue1211
-> "Let me know if you need any help for Slovenia/Austria"
-
-✅ Considerar contactar para más tips específicos
+### Wachau (Melk + Dürnstein + Danubio)
+- **Tren a Melk ~1h + barco DDSG Melk→Krems + tren de vuelta** (→ [`transporte.md`](transporte.md)) · día completo
+- **Qué ver:** **Abadía de Melk** (monasterio benedictino barroco sobre el Danubio, biblioteca e iglesia espectaculares), **crucero por el valle del Wachau** (viñedos en terrazas, castillos, pueblos), **Dürnstein** (pueblo con la torre azul donde estuvo preso Ricardo Corazón de León). **Por qué:** el day trip "más redondo" de Viena — abadía + río + pueblos + vino en un loop. **Nota:** el **barco DDSG es estacional** — confirmar que opere a fines de septiembre `https://www.wachau.at/en` · **Sin auto:** sí
 
 ---
 
-## 🔗 Fuentes oficiales (links)
-- Bratislava (ÖBB): `https://fahrplan.oebb.at/webapp/?language=en`
-- Bratislava (turismo oficial): `https://www.visitbratislava.com/`
-- Twin City Liner (barco Viena↔Bratislava): `https://www.twincityliner.com/en/`
-- Wachau (turismo oficial): `https://www.wachau.at/en`
-- Melk Abbey (oficial): `https://www.stiftmelk.at/en/visit-experience/opening-hours-prices-guided-tours/`
-- DDSG (cruceros Wachau): `https://ddsg-blue-danube.at/cruises-wachau/?lang=en`
-- Neusiedler See (turismo oficial): `https://www.neusiedlersee.com/`
+## 🟡 Prioridad Media
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Con 5 noches, Viena “da” para llenar el tiempo sin day trips; Bratislava solo si sobra energía.
-- Neusiedlersee/Burgenland suena muy bien si les interesa vino/naturaleza, pero **mejor con coche** (si no, fricción).
+### Bratislava
+- **Tren REX desde Hbf ~1h (EURegio Ticket €18 ida/vuelta con transporte urbano)** o **Twin City Liner** (barco por el Danubio, ~€19-29, escénico) · medio/día completo
+- **Qué ver:** casco antiguo compacto y caminable, castillo de Bratislava sobre el Danubio, las estatuas callejeras (Čumil), cerveza/comida baratas. **Por qué:** "otro país" a 1h, muy barato; útil si tienta algo distinto. **Nota:** medio día alcanza; la ciudad es pequeña `https://www.visitbratislava.com/` · **Sin auto:** sí
 
-**Wachau** suele aparecer como el day trip “más redondo” si quieren salir de Viena: mezcla **Melk Abbey + pueblos + Danubio** (y si es temporada, barco).
+### Neusiedlersee / Burgenland
+- **Tren a Neusiedl + bus, ~1h (mejor con coche)** · día completo. Lago estepario en la frontera con Hungría, región vinícola, **birdwatching de clase mundial**. **Por qué:** vino + naturaleza, "atmospheric and historic" (recomendación de u/opitypang); encaja camino a Eslovenia. **Nota:** **mejor con coche** — sin auto la logística tiene fricción.
 
-## 🔎 Hilos y lecturas (links)
-- Bratislava day trip (barco vs opciones): `https://old.reddit.com/r/wien/comments/1m2xwm3/day_trip_cruise_from_vienna_to_bratislava_any/`
-- Wachau/Melk (¿vale sumar el día?): `https://old.reddit.com/r/wien/comments/5yuyxw/25_days_in_wien_worth_adding_a_day_to_do_melk/`
+---
+
+## 💭 Prioridad Baja
+- **Baden bei Wien** — Badner Bahn (tranvía interurbano desde la Oper) ~45 min. Ciudad balneario con termas, casino y el parque Kurpark; paseo corto y relajado.
+- **Semmeringbahn** — el primer ferrocarril de montaña del mundo (UNESCO); recorrido panorámico por viaductos de piedra; ida y vuelta como paseo en tren (~1h15 a Semmering).
+
+## ❌ Descartados
+- **Hallstatt** — la postal alpina, pero ~3h ida con transbordos: **demasiado lejos** para day trip honesto desde Viena. Solo como tour guiado largo (13h, combinado con Salzburg) o pernoctando. Skip salvo que sea sueño explícito.
+- **Salzburg / Graz** — ciudades por derecho propio, no day trips desde Viena (>2.5h); mejor con pernocte si se quieren.
+
+## 🧠 Consenso Reddit/Foros
+- **Wachau = el day trip más redondo** [viajero] — Melk en tren + barco por el Danubio hasta Krems, vuelta en tren; mezcla abadía + río + pueblos `https://old.reddit.com/r/wien/comments/5yuyxw/`
+- **Bratislava: el EURegio Ticket es el truco** [viajero] — €18 ida/vuelta + transporte urbano de Bratislava gratis el primer día; mejor que gastar día de Eurail `https://www.tripadvisor.com/ShowTopic-g274924-i1156-k6698341`
+- **Con 5 noches no hace falta salir** [viajero] — Viena llena el tiempo sola; un solo day trip (Wachau) es suficiente
+- **Neusiedlersee suena genial pero llevá coche** [viajero] — vino/naturaleza de primera, pero sin auto hay fricción de buses (u/opitypang)
+- **Hallstatt es demasiado lejos para un día** [viajero] — 3h cada lado; mejor pernoctar o saltearlo
+
+## ✅ Decisión (el usuario marca)
+- [ ] **Wachau (Melk + Danubio)** — [fecha], día completo (verificar barco DDSG)
+- [ ] (Opcional) **Bratislava** — [fecha], medio día (EURegio €18)
+- [ ] **Ninguno** — Viena pura
+
+## 🔗 Fuentes
+- Oficiales: `https://www.wachau.at/en` · `https://www.stiftmelk.at/en/` · `https://ddsg-blue-danube.at/cruises-wachau/?lang=en` · `https://www.visitbratislava.com/` · `https://www.twincityliner.com/en/`
+- Foros: `https://old.reddit.com/r/wien/` · `https://www.tripadvisor.com/`

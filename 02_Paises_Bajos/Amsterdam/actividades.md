@@ -19,7 +19,7 @@
 
 ## 🏛️ Museos — Los 3 Grandes
 
-- [ ] **Anne Frank House** - El anexo secreto donde Anne Frank y su familia se ocultaron 2 años durante la ocupación nazi; la experiencia emocional más intensa del viaje; diario original, habitaciones tal como estaban (**€16.50 adulto** online / **€23.50** con programa introductorio de 30min) — leer el diario antes de ir multiplica el impacto; el programa introductorio puede sentirse redundante si ya conocés la historia `https://www.annefrank.org/`
+- [x] **Anne Frank House** - El anexo secreto donde Anne Frank y su familia se ocultaron 2 años durante la ocupación nazi; la experiencia emocional más intensa del viaje; diario original, habitaciones tal como estaban (**€16.50 adulto** online / **€23.50** con programa introductorio de 30min) — leer el diario antes de ir multiplica el impacto; el programa introductorio puede sentirse redundante si ya conocés la historia `https://www.annefrank.org/`
 - [ ] **Rijksmuseum** - El museo nacional holandés; la "Ronda Nocturna" de Rembrandt y los Vermeers son las estrellas; la biblioteca interior del museo es espectacular por sí sola; plan 3-4h mínimo (**~€22.50 adulto**) — reservar slot online; llegar en apertura (9am); entre semana es más tranquilo `https://www.rijksmuseum.nl/`
 - [ ] **Van Gogh Museum** - 400+ obras del pintor ordenadas cronológicamente; de las colecciones más bien curadas del mundo; plan 2-3h (**€25-27 adulto** — verificar precio actual) — reservar obligatoriamente online con semanas de anticipación en agosto; sin tickets en puerta `https://www.vangoghmuseum.nl/`
 
@@ -33,7 +33,7 @@
 - [ ] **Hortus Botanicus** - Jardín botánico desde 1638, uno de los más antiguos del mundo; mariposas tropicales en el invernadero; muy tranquilo (**€14.75 adulto**) `https://www.dehortus.nl/`
 - [ ] **Red Light Secrets (Museum of Prostitution)** - Museo dentro de una antigua vitrina del RLD; historia, contexto social y exhibiciones interactivas sobre el trabajo sexual en Ámsterdam (**~€15 adulto** standalone; **€22** combo con Hash Museum) `https://redlightsecrets.com/`
 - [ ] **Hash, Marihuana & Hemp Museum** - Historia del cannabis y el cáñamo en el mundo; colección en pleno De Wallen (**€9 adulto** / **€22** combo con Red Light Secrets) — pequeño pero bien curado; el **combo €22 con Red Light Secrets** es buen valor si se visitan los dos el mismo día `https://hashmuseum.com/`
-- [ ] **Amsterdam Museum** - Historia de la ciudad desde la Edad Media hasta hoy; recomendado como **primer día** para entender el contexto de todo; consultar estado 2026 (estuvo en sede provisional) (**~€17 adulto**) `https://www.amsterdammuseum.nl/`
+- [?] **Amsterdam Museum** - Historia de la ciudad desde la Edad Media hasta hoy; recomendado como **primer día** para entender el contexto de todo; consultar estado 2026 (estuvo en sede provisional) (**~€17 adulto**) `https://www.amsterdammuseum.nl/`
 - [ ] **Moco Museum** - Arte moderno (Banksy, Dali, obras de colección privada); muy fotogénico e instagrameable; en la misma zona que Rijksmuseum (**~€22 adulto**) `https://mocomuseum.com/`
 
 ---
@@ -62,14 +62,14 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ## 🚲 Bicicleta (Esencial)
 
-- [ ] **Alquilar bici — MacBike u otro** - Ámsterdam tiene más bicis que personas; es LA forma de moverse; ciudad completamente plana (**MacBike: ~€12-17.50/día** bici estándar; seguro opcional €4.95/día) — Black Bikes y Donkey Republic son alternativas más baratas; reservar online ahorra ~€1 pp `https://www.macbike.nl/`
-- [ ] **Carril bici ≠ acera** — tip de supervivencia: caminar en el carril bici en Ámsterdam es lo más peligroso que se puede hacer; los holandeses no frenan ni advierten; las vías del tranvía atrapan las ruedas — cruzarlas en ángulo recto siempre
+- [x] **Alquilar bici — MacBike u otro** - Ámsterdam tiene más bicis que personas; es LA forma de moverse; ciudad completamente plana (**MacBike: ~€12-17.50/día** bici estándar; seguro opcional €4.95/día) — Black Bikes y Donkey Republic son alternativas más baratas; reservar online ahorra ~€1 pp `https://www.macbike.nl/`
+- [x] **Carril bici ≠ acera** — tip de supervivencia: caminar en el carril bici en Ámsterdam es lo más peligroso que se puede hacer; los holandeses no frenan ni advierten; las vías del tranvía atrapan las ruedas — cruzarlas en ángulo recto siempre
 
 ---
 
 ## 🚢 Canales y Paseos en Barco
 
-- [ ] **Canal cruise clásico 1h** - Recorrido por los canales históricos con audioguía; la perspectiva desde el agua de las casas de gábletes del s. XVII es completamente diferente a la de la bici (**desde €17.50 online / €20 en taquilla**) — el atardecer es el mejor horario; reservar online para ese slot `https://www.stromma.com/en-nl/amsterdam/`
+- [?] **Canal cruise clásico 1h** - Recorrido por los canales históricos con audioguía; la perspectiva desde el agua de las casas de gábletes del s. XVII es completamente diferente a la de la bici (**desde €17.50 online / €20 en taquilla**) — el atardecer es el mejor horario; reservar online para ese slot `https://www.stromma.com/en-nl/amsterdam/`
 - [ ] **Ruta Singel → Herengracht → Jordaan** - Canales con las casas más señoriales; en bici es la ruta más bella de la ciudad; el Herengracht en el "Gouden Bocht" (curva dorada) es lo más elegante (GRATIS)
 - [ ] **Ruta Keizersgracht → Magere Brug (Puente Delgado)** - Puente levadizo de madera sobre el Amstel; se ilumina de noche con bombillas amarillas; una de las imágenes más icónicas de Ámsterdam (GRATIS)
 - [ ] **Ferry a Noord (NDSM)** - Ferry gratuito desde Centraal Station que cruza el IJ; 15min; vista del skyline de Ámsterdam desde el agua (GRATIS) `https://gvb.nl/`
@@ -78,12 +78,12 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ## 🌆 Barrios para Explorar
 
-- [ ] **Jordaan** - Ex barrio obrero del s. XVII, ahora bohemio-chic; calles estrechas de adoquín, galerías, cafés de canal y bares de madera; aquí está Anne Frank House y el mejor ambiente de bici; las 9 Straatjes (9 Calles) son el mejor circuito de tiendas vintage y boutiques; Noordermarkt los sábados — recorrerlo sin mapa es la actividad (GRATIS)
-- [ ] **De Pijp** - "El Brooklyn de Ámsterdam"; barrio multicultural; Albert Cuypmarkt (el mejor mercado) + Gerard Doustraat (bares de barrio) + Sarphatipark (picnic); restaurantes surinameses e indonesios baratos; el barrio que más repiten los viajeros como "favorito inesperado" (GRATIS explorar)
-- [ ] **De Wallen (Red Light District)** - El centro histórico más antiguo; la Oude Kerk (iglesia más antigua, rodeada de vitrinas) es el contraste más surreal de Europa; de día fascinante, de noche caótico; no fotografiar a las trabajadoras — prohibido y sanción real; walking tour guiado el primer día es imprescindible (GRATIS explorar; tours desde ~€15)
+- [x] **Jordaan** - Ex barrio obrero del s. XVII, ahora bohemio-chic; calles estrechas de adoquín, galerías, cafés de canal y bares de madera; aquí está Anne Frank House y el mejor ambiente de bici; las 9 Straatjes (9 Calles) son el mejor circuito de tiendas vintage y boutiques; Noordermarkt los sábados — recorrerlo sin mapa es la actividad (GRATIS)
+- [x] **De Pijp** - "El Brooklyn de Ámsterdam"; barrio multicultural; Albert Cuypmarkt (el mejor mercado) + Gerard Doustraat (bares de barrio) + Sarphatipark (picnic); restaurantes surinameses e indonesios baratos; el barrio que más repiten los viajeros como "favorito inesperado" (GRATIS explorar)
+- [x] **De Wallen (Red Light District)** - El centro histórico más antiguo; la Oude Kerk (iglesia más antigua, rodeada de vitrinas) es el contraste más surreal de Europa; de día fascinante, de noche caótico; no fotografiar a las trabajadoras — prohibido y sanción real; walking tour guiado el primer día es imprescindible (GRATIS explorar; tours desde ~€15)
 - [ ] **NDSM Wharf** - Antigua zona de astilleros al norte; hub alternativo con street art, warehouses y el club Shelter; Pllek (bar en contenedores con playa artificial); IJ-Hallen los fines de semana (mercado de pulgas); ferry gratis desde Centraal (GRATIS llegar + explorar)
 - [ ] **Oud-West** - Barrio residencial de moda; Foodhallen (food court en antiguo depósito de tranvías), De Hallen, Ten Katemarkt; más tranquilo que Jordaan, más auténtico que el centro (GRATIS explorar)
-- [ ] **Oost** - Multicultural y sin turistas; Dappermarkt (comida étnica barata), Oosterpark (monumento a la esclavitud), Tropenmuseum; el barrio que más tiempo ahorras para presupuesto comida (GRATIS explorar)
+- [?] **Oost** - Multicultural y sin turistas; Dappermarkt (comida étnica barata), Oosterpark (monumento a la esclavitud), Tropenmuseum; el barrio que más tiempo ahorras para presupuesto comida (GRATIS explorar)
 
 ---
 
@@ -93,7 +93,7 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ### Recomendados por Calidad
 
-- [ ] **Boerejongens** — Considerado consistentemente de los mejores de la ciudad; varios locales en la ciudad; calidad y variedad de producto excepcional; popular entre locales y viajeros serios; pedir recomendación al personal — siempre saben qué es lo mejor de la semana `https://www.coffeeshopboerejongens.nl/`
+- [?] **Boerejongens** — Considerado consistentemente de los mejores de la ciudad; varios locales en la ciudad; calidad y variedad de producto excepcional; popular entre locales y viajeros serios; pedir recomendación al personal — siempre saben qué es lo mejor de la semana `https://www.coffeeshopboerejongens.nl/`
 - [ ] **Grey Area** — Pequeñísimo; 6-8 personas máximo; manejado por dos americanos de Boulder; stock de calidad premium y muy curioso; fila habitual afuera; en Oude Gracht 2; abre tarde (~12pm) — para el que aprecia el producto, es referencia obligatoria
 - [ ] **Dampkring (Handboogstraat)** — Ambiente más elaborado que la mayoría; salió en la escena de juego de cartas de Ocean's Twelve; buena variedad y staff informado; el local es genuinamente bonito `https://www.dampkring.nl/`
 - [ ] **Paradox** — En Jordaan; el más tranquilo de la lista; clientela mayormente local; sin el caos del centro; terraza pequeña; ideal para primera visita sin querer sentirse en una atracción turística
@@ -115,7 +115,7 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ### Smart Shops Recomendadas
 
-- [ ] **Magic Mushroom Gallery** — La más recomendada y con mejor reputación (Spuistraat 249); personal que asesora bien a principiantes; amplio stock; 4.5/5 con 1200+ reviews `https://www.magicmushroomgallery.com/`
+- [?] **Magic Mushroom Gallery** — La más recomendada y con mejor reputación (Spuistraat 249); personal que asesora bien a principiantes; amplio stock; 4.5/5 con 1200+ reviews `https://www.magicmushroomgallery.com/`
 - [ ] **Tatanka** — Dos locales (Leidseplein + Rembrandtplein); confiable, staff amigable y orientado a recomendar la dosis correcta según experiencia previa `https://www.tatanka.nl/`
 
 ### Guía de Variedades (de menor a mayor intensidad)
@@ -141,34 +141,43 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ---
 
-## 🌙 Vida Nocturna — Clubbing y Raves
+## 🌙 Nightlife
 
-**Contexto:** Ámsterdam es una de las capitales de la música electrónica en Europa. La escena tiene venues de toda la gama — desde clubs techno duros hasta venues convertidos de iglesias.
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/hits/hip-hop), no somos de techno (pero Ámsterdam es **capital mundial** del género: vale vivir un club icónico aunque no sea nuestro palo). Curaduría de lo mejor. **Estado:** fijo (25-29 ago; **noche fuerte: vie 28**). ClinkMama está en el centro (RLD).
+>
+> **Nota:** **De School cerró** (última fiesta 2024). Para techno serio el referente hoy es Shelter.
 
-**Nota importante:** **De School cerró definitivamente** (última fiesta "Het Einde" celebrada en 2024) — ya no está operativo.
+### 🕺 Para bailar (lo nuestro: variado, no-techno)
+- **Melkweg** — antigua lechería convertida en venue multiusos en Leidseplein; salas con géneros muy distintos el mismo día (reggaeton, hip-hop, DnB, pop); la opción más versátil y accesible, no hardcore `https://www.timeout.com/amsterdam/things-to-do/best-clubs-in-amsterdam` `https://www.melkweg.nl/`
+- **Bitterzoet** — club chico y querido del centro; "Nightz" los jueves con hip-hop/RnB/Afro, vie-sáb con eventos variados; ambiente joven y con energía `https://amsterdamnightlifeticket.com/en/blogs/whats-on/best-hip-hop-clubs`
+- **Canvas** — en el piso 7 de una ex redacción de diario (Volkshotel, zona Oost); cócteles + vistas panorámicas + música para un público joven y multicultural; arranca como bar y se transforma en club `https://www.timeout.com/amsterdam/things-to-do/best-clubs-in-amsterdam`
 
-### Clubs Principales
+### 🍸 Bares para arrancar / tomar algo
+- **Rembrandtplein** — plaza con la mayor concentración de bares para arrancar la noche (ojo: parte es turística/neón — ver Tips); buen punto de salida
+- **Brown cafés y cervecerías** — para algo más tranquilo (Café 't Smalle, Wynand Fockink, Brouwerij 't IJ) ver `## 🍺 Bares y Brown Cafés` abajo — ideales para el "previo"
 
-- [ ] **Shelter** — El club techno más puro de Ámsterdam actualmente; debajo del A'DAM Tower en Amsterdam Noord; sistema de sonido Funktion-One de alta gama; ambiente oscuro y serio; acceso en ferry GRATIS desde Centraal + 5min caminando (**€15-25 entrada**; más en DJs internacionales) — llegar después de la 1am cuando está bien poblado; vestimenta oscura/street; no es el lugar para foto turística `https://shelter.amsterdam/`
-- [ ] **Paradiso** — Iglesia convertida en venue cultural desde 1968; noches de techno/house bajo vitrales medievales; la experiencia más única y memorable de la escena de Ámsterdam (**€15-25**; más para headliners internacionales) — tiene también noches de rock y otros géneros; verificar programa agosto `https://www.paradiso.nl/`
-- [ ] **Melkweg** — Al lado del Paradiso en Leidseplein; antigua lechería convertida en venue multiusos (club + sala de conciertos + galería); más accesible y mainstream que Shelter; buena opción si no se quiere la escena hardcore (**€12-20**) `https://www.melkweg.nl/`
-- [ ] **Parallel** — En Amsterdam Noord (zona industrial cerca de NDSM); alternativo y underground; techno/industrial; ambiente warehouse auténtico; menos conocido por turistas (**€10-20**)
-- [ ] **Panama** — Venue versátil; noches de house y techno de calidad; más accesible que Shelter en términos de vibe; en zona Este de la ciudad (**€12-20**) `https://www.panama.nl/`
-- [ ] **Thuishaven** — Club flotante / venue al aire libre junto al agua en Amsterdam Oost; eventos de techno y house en verano; el ambiente más único de la escena (**€10-20**)
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Paradiso** [🦄 raro/icónico] — **iglesia del s. XIX convertida en venue** desde 1968; bailar bajo vitrales medievales; programa variadísimo (techno, house, rock, hip-hop, conciertos); la experiencia más memorable de la escena; **€15-25** — verificar agenda agosto `https://www.paradiso.nl/`
+- **Shelter** [🦄 icónico] — el club de **techno** más puro de la ciudad, bajo la A'DAM Tower (Noord); sound system Funktion-One de élite; **no es nuestro palo musical**, pero es ícono mundial si querés vivir una madrugada techno auténtica; ferry gratis desde Centraal; **€15-25**, llegar después de la 1am `https://shelter.amsterdam/`
+- **Thuishaven** [🦄 raro] — club al aire libre junto al agua (Oost), instalaciones y fogatas tipo festival permanente; techno/house en verano, el ambiente más único; **€10-20**
 
-### Tips de Clubbing
+### 🇦🇷 Noche latina
+- **OUT Latin Club** [🇦🇷/latino] — el club latino #1 de Ámsterdam; salsa/bachata/reggaeton/merengue/dembow; Lange Leidsedwarsstraat (cerca de Leidseplein); **mié-dom desde las 23h** hasta 4-5am; ambiente latino auténtico `https://amsterdamnightlifeticket.com/en/clubs/club-out`
+- **El Punto Latino** [🇦🇷/latino] — noches temáticas para salseros y reggaetoneros; buena vibra latina `https://www.elpuntolatinoams.nl/`
+- **Latin District @ Paradiso** [🇦🇷/latino] — fiesta latina puntual multi-sala en Paradiso (verificar si hay fecha en agosto 2026) `https://www.paradiso.nl/en/program/latin-district/2612947`
 
-- **Queues:** Shelter y Paradiso pueden tener colas de 45min+ en fin de semana; llegar puntual cuando abren o después de la 1am
-- **Reserva/tickets:** Para DJs internacionales o noches especiales, comprar online con días de anticipación — se agotan
-- **Vibe check:** En Shelter y clubs techno serios, hablar en voz alta de más o sacar el teléfono durante la música es mal visto; la escena es seria
-- **Horario Amsterdam:** Los clubs abren legalmente hasta las 5am (a veces 6am o 7am en licencias especiales)
-- **Transporte de vuelta:** A las 3-4am hay pocos tranvías; planificar con taxi/Uber o ir caminando si estás cerca (ClinkMama está en el centro — Shelter requiere ferry)
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Time Out, I Amsterdam y guías de nightlife. Re-chequear `r/Amsterdam` a mano antes del viaje.
+- **Variedad por noche [local]:** la mayoría de los clubes de Ámsterdam **no son de un solo género**: el mismo lugar puede ser reggaeton un día y DnB otro — mirar la agenda del día, no el club `https://www.victorstravels.com/local-cultures/amsterdam-underground-clubs/`
+- **Trampa turística a evitar [local]:** los bares de neón de **Leidseplein/Rembrandtplein** y el "beer bike" — caros y puro turista; salvo para arrancar `https://www.tripadvisor.com/ShowTopic-g188590-i60-k6196782-o10-Ten_things_to_AVOID_in_Amsterdam-Amsterdam_North_Holland_Province.html`
+- **Horario/día fuerte:** clubes abren legalmente hasta 5am (a veces más); vie-sáb es el pico; para DJs internacionales sacar entrada online con días `https://ra.co/clubs/amsterdam`
+- **Volver de madrugada:** a las 3-4am hay pocos tranvías; night buses GVB o caminar (ClinkMama está céntrico). Shelter requiere ferry (gratis y frecuente) `https://en.gvb.nl/`
 
 ---
 
 ## 🍺 Bares y Brown Cafés
 
-- [ ] **Café 't Smalle** — El brown café más fotogénico de Jordaan; sobre el canal, desde 1786; madera oscura y velas; clientela local; **el pub más lindo de la ciudad según consenso viajeros** — llegar temprano, se llena `https://www.t-smalle.nl/`
+- [?] **Café 't Smalle** — El brown café más fotogénico de Jordaan; sobre el canal, desde 1786; madera oscura y velas; clientela local; **el pub más lindo de la ciudad según consenso viajeros** — llegar temprano, se llena `https://www.t-smalle.nl/`
 - [ ] **Proeflokaal Wynand Fockink** — Probador de jenever (ginebra holandesa) en un corredor del s. XVII detrás del Krasnapolsky desde 1679; servidos llenos hasta el borde: primer sorbo sin levantar el vaso — es la única regla (**€4-6 por jenever**) `https://www.wynand-fockink.nl/`
 - [ ] **Brouwerij 't IJ** — Cervecería artesanal al pie del molino De Gooyer; terraza con vista al molino; cervezas propias (Zatte, Natte, Columbus); el spot más "postal" de Ámsterdam fuera del canal típico — visitar al atardecer `https://www.brouwerijhetij.nl/`
 - [ ] **Café de Dokter** — El bar más pequeño y más antiguo de Ámsterdam (1798, capacidad 15 personas); colección de pipas de madera en las paredes; jenever y whisky; sin turistas — poca gente lo conoce
@@ -190,27 +199,15 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ---
 
-## 🍽️ Gastronomía Holandesa
-
-### Platos Imprescindibles
-
-- [ ] **Stroopwafels FRESCOS** — En Albert Cuypmarkt puestos con la wafel recién hecha y caramelo caliente; completamente diferente a las empaquetadas (~€2-3 fresca) — este es el stroopwafel real; los de supermercado no cuentan
-- [ ] **Bitterballen** — Croquetas de carne frita con mostaza Dijon; en cualquier brown café (~€5-7 ración) — el snack con cerveza de Ámsterdam
-- [ ] **Haring / Broodje haring** — Arenque crudo con pepinillo y cebolla; en sandwich o directo levantándolo de la cola; puestos callejeros (~€4-6) — experiencia cultural obligatoria; **Frens Haringhandel** frente al Vondelpark es el de referencia
-- [ ] **Patat (papas fritas)** — Holandesas con mayo; "Oorlog" = mayo + salsa de maní + cebolla cruda; el combo más adictivo (**Vlaams Friteshuis Vleminckx**, Voetboogstraat 31 — las mejores de la ciudad, cola siempre) (~€4-6)
-- [ ] **FEBO** — Automat de comida rápida: moneda en una ranura, croquet de la pared; icónico, random y auténtico (~€2-3 por pieza) — el plan post-coffee shop más clásico de Ámsterdam
-- [ ] **Winkel 43 (appeltaart)** — La mejor tarta de manzana de Ámsterdam según todos los foros; en Jordaan frente al Noordermarkt (~€4-5 el trozo + nata) — cola siempre en sábados; entre semana sin espera `https://www.winkel43.nl/`
-- [ ] **Kaas (quesos)** — Probar en tiendas de Jordaan y las 9 Calles: Gouda joven, Gouda curado, Boerenkaas, Geitenkaas (cabra); la mayoría deja probar gratis (GRATIS probar)
-- [ ] **Jenever** — La ginebra holandesa original de donde nace el gin; jong (joven, suave) vs. oud (añejo, más complejo); en Wynand Fockink (ver bares) o en cualquier brown café (~€4-6 copa)
-- [ ] **Rijsttafel (Mesa de arroz indonesa)** — Herencia colonial holandesa; banquete de 10-20 pequeños platos indonesios; en restaurantes de De Pijp o Oost (~€25-35 pp) — la mejor comida de relación calidad/precio de la ciudad
-- [ ] **Foodhallen** — Food court en antiguo depósito de tranvías en Oud-West; 20+ puestos de comidas internacionales; ambiente muy local (~€10-15 pp) `https://www.foodhallen.nl/`
+## 🍽️ Gastronomía
+> Detalle completo (platos típicos, street food, dónde comer barato, food courts, supermercados y mercados gastronómicos) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
 ## 🎭 Más Experiencias
 
 - [ ] **A'DAM Lookout** - Mirador en lo alto de la A'DAM Tower con vistas 360° a la ciudad y el IJ; **Over The Edge** = columpio que sobresale del edificio a 100m de altura (**€16.50 online** solo mirador / **€34.50** mirador + columpio) — para atardecer; se puede combinar con Shelter (en el mismo edificio) `https://www.adamlookout.com/`
-- [ ] **Heineken Experience** - Tour interactivo en la antigua fábrica; incluye 2 cervezas; proceso de fabricación + historia de la marca (**~€18 + 2 cervezas**) — divertido si gusta la cerveza; no imprescindible `https://www.heinekenexperience.com/`
+- [?] **Heineken Experience** - Tour interactivo en la antigua fábrica; incluye 2 cervezas; proceso de fabricación + historia de la marca (**~€18 + 2 cervezas**) — divertido si gusta la cerveza; no imprescindible `https://www.heinekenexperience.com/`
 - [ ] **Molino De Gooyer + Brouwerij 't IJ** - El único molino de viento real dentro de la ciudad; la cervecería artesanal está justo a su pie; la foto clásica de "Ámsterdam auténtica" (GRATIS ver el molino; cervezas ~€4-6)
 - [ ] **Rembrandtplein** - Plaza con estatuas de bronce recreando "La Ronda de Noche" en 3D; zona de bares concentrados para salida nocturna (GRATIS)
 - [ ] **Houseboat Museum** - Visita interior de un barco-casa; ver cómo vive realmente la gente en los canales (~€5 adulto)
@@ -273,6 +270,20 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+**Estadía:** mar 25 – sáb 29 ago (4 noches)
+
+- **Eventos:** Pluk de Nacht (cine gratis al aire libre) hasta el 29 ago; festivales electrónicos el vie 28 (Wooferland/ZeeZout — verificar línea y fechas exactas); ver sección Eventos arriba
+- **Feriados:** ninguno en Países Bajos esas fechas
+- **Cierres por día de semana:** los museos grandes abren a diario; Anne Frank abre todos los días (horario extendido en verano)
+- **Solo esos días:** Noordermarkt e IJ-Hallen caen el **sáb 29** (día de salida — solo de mañana); Albert Cuypmarkt lun-sáb
+- **Renovaciones/cierres 2026:** Van Gogh Museum **abierto** — su gran renovación ("Masterplan") arranca recién en 2028, pero está en crisis de financiamiento con litigio en feb 2026; verificar noticias antes de ir por posibles cambios de horario `https://www.vangoghmuseum.nl/en/about/news-and-press/news/20250827-van-gogh-museums-future-in-doubt` · Anne Frank sin cierres anunciados
+- **Clima y luz:** 14-22°C, amanecer ~6:40 / anochecer ~20:40; llueve sin aviso — chaqueta siempre
+- **⏰ Recordatorio crítico:** tickets Anne Frank para estas fechas se liberan el **mar 14 de julio a las 10:00 CET** (6 semanas antes, los martes) — poner alarma
+
+---
+
 ## 📅 Días de la Semana
 
 | Fecha | Día | Nota |
@@ -313,15 +324,17 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 ## 🧠 Consenso Reddit/Foros
 
-- **"Alquilar bici fue lo mejor que hicimos"** — el comentario más repetido en r/Amsterdam y r/eurotrips; "en 2 días cubrimos más que en una semana caminando"
-- **Free walking tour el primer día es unánime** — "entendés la ciudad completamente diferente después; todo lo demás tiene sentido"
-- **Café 't Smalle + Wynand Fockink** son los dos lugares más mencionados como "lo mejor de Ámsterdam que nadie pone en la lista de obligatorios"
-- **De Pijp es el barrio favorito de los viajeros experimentados** — "si volviera, viviría en De Pijp en lugar del centro"
-- **Rijsttafel en restaurante indonesio barato** aparece en todos los posts de "cómo comer bien barato en Ámsterdam" — herencia colonial, muy abundante
-- **Begijnhof como secreto del centro** — "a 200 metros del caos turístico de Dam Square hay un patio medieval completamente silencioso; casi nadie sabe que existe"
-- **Para Shelter:** "Llegar temprano para la cola. El sistema de sonido es de lo mejor que existe. La música no para hasta las 6am"
-- **"El haring te va a parecer raro y luego lo vas a extrañar el resto del viaje"** — múltiples posts sobre este plato
-- **Smart shops:** "El staff de Magic Mushroom Gallery es excelente; preguntar por la dosis para primera vez y hacer caso — no sobrepasar" — consenso de múltiples experiencias documentadas en r/Amsterdam
+- **Sobrevalorado según locales [local]:** Heineken Experience, Madame Tussauds, Ice Bar, todo el lado oeste del Damrak, los bares de neón de Leidseplein/Rembrandtplein y el beer bike — lista de un habitué local del foro de Ámsterdam `https://www.tripadvisor.com/ShowTopic-g188590-i60-k6196782-o10-Ten_things_to_AVOID_in_Amsterdam-Amsterdam_North_Holland_Province.html`
+- **Trampa turística frecuente:** el **Bloemenmarkt** (mercado de flores flotante) — "subpar bulbs y baratijas; menos del 1% de los bulbos florece"; ir solo por la foto, no comprar `https://www.tripadvisor.com/ShowTopic-g188553-i58-k8192798-Tourist_traps_and_places_to_avoid-The_Netherlands.html`
+- **Tip más repetido:** no hacer Van Gogh + Anne Frank el primer día con jet lag; y dos cosas que todo primerizo debería hacer: canal cruise de 1h + caminar el anillo de canales a distintas horas (día y noche) `https://www.tripadvisor.com/ShowTopic-g188590-i60-k15287805-Help_for_first_time_visit-Amsterdam_North_Holland_Province.html`
+- **Lo que dicen los locales [local]:** la guía local "what not to do" — no caminar por el carril bici, no fotografiar a las trabajadoras del RLD, cuidado con las vías del tranvía en bici (huesos rotos), no comprar nada a dealers callejeros `https://www.dutchamsterdam.nl/33-things-to-avoid-in-amsterdam`
+- **"Alquilar bici fue lo mejor que hicimos"** — el comentario más repetido en posts de viaje; "en 2 días cubrimos más que en una semana caminando" (recurrente en r/Amsterdam y foros)
+- **Joya inesperada:** **Begijnhof** — a 200m del caos de Dam Square, patio medieval en silencio absoluto; casi nadie sabe que existe (recurrente en hilos de hidden gems)
+- **Café 't Smalle + Wynand Fockink** — los dos lugares más mencionados como "lo mejor de Ámsterdam que nadie pone en la lista de obligatorios"
+- **De Pijp es el barrio favorito de los viajeros experimentados** — "si volviera, viviría en De Pijp en lugar del centro"; rijsttafel indonesio ahí = comer bien barato
+- **Para Shelter:** llegar temprano para la cola o después de la 1am; el sistema de sonido es de lo mejor que existe; la música no para hasta las 6am
+- **Smart shops:** el staff de Magic Mushroom Gallery asesora bien la dosis de primera vez — hacer caso y no sobrepasar (experiencias documentadas en r/Amsterdam)
+- **Seguridad en tren/Centraal** [viajero] — el único punto de la ciudad donde el robo de equipaje es relativamente común es el tren del aeropuerto y Centraal Station; no separarse de las valijas `https://www.tripadvisor.com/ShowTopic-g188553-i58-k14933122-Tips_and_Advice-The_Netherlands.html`
 
 ---
 

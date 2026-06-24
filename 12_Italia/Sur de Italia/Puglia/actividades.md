@@ -203,13 +203,8 @@ Ver detalle en `desvios_cercanos.md`.
 
 ---
 
-## 🍞 Gastronomía extra (interior — Reddit)
-
-| Lugar | Por qué |
-|-------|---------|
-| **Altamura** | Pan IGP — "mejor pan de Italia" según múltiples hilos; Mokambo Gelateria una de las más antiguas |
-| **Cisternino** | Macellerie-ristoranti: eleges el corte crudo y lo asan. Bombette al mejor precio del valle |
-| **Locorotondo** | Vino DOC blanco local, bodegas en el pueblo |
+## 🍞 Gastronomía
+> Detalle completo (platos pugliesos, burrata, focaccia barese, street food de Bari, orecchiette, dónde comer por zona, masserie, supermercados y mercados) en [`gastronomia.md`](gastronomia.md). Incluye lo del interior: pan IGP de Altamura, macellerie-ristoranti de Cisternino (bombette) y vino DOC de Locorotondo.
 
 ---
 
@@ -250,6 +245,19 @@ Ver detalle en `desvios_cercanos.md`.
 - Disponible; múltiples guías locales especializados en los Sassi
 - Verificar reviews del guía individual antes de reservar
 `https://www.guruwalk.com/matera`
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — destino del Sur aún sin decidir; ventana jue 29 oct – dom 8 nov
+
+- **Feriado clave: dom 1 nov = Ognissanti** — feriado nacional en domingo; transporte reducido; **1er domingo del mes → Castello Svevo, Castel del Monte y museos estatales GRATIS** (con multitud local)
+- **Mié 4 nov: Castel del Monte GRATIS** (ya verificado en aditusculture) — si van con auto, ese es el día
+- **Solo ciertos días:** las señoras de las orecchiette en Via dell'Arco Basso están **de mañana (antes de las 11)** todos los días · Polignano SOLO entre semana
+- **Cierres por temporada:** servicios de playa cerrados (ya asumido); trulli-hotels y cave-hotels de Matera con precios de temporada baja ✓
+- **Domingos (1 y 8 nov):** trenes regionales Bari-Lecce con frecuencia reducida — no planificar traslados clave esos días
+- **Clima y luz:** 15-23°C; anochece ~17:00 → **Matera de noche rinde más que nunca** (iluminada desde las 17:30)
 
 ---
 

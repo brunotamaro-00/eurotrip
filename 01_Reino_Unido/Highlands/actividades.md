@@ -24,14 +24,14 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 | Fecha | Día | Base | Traslado / Nota |
 |-------|-----|------|-----------------|
-| 18 ago | Lunes | Fort William | Edimburgo → Fort William ~3h (A82 por Loch Lomond y Glencoe) |
-| 19 ago | Martes | Fort William | Día completo en la zona |
-| 20 ago | Miércoles | Portree (Skye) | Fort William → Skye ~2.5-3h (A87, con parada en Eilean Donan) |
-| 21 ago | Jueves | Portree (Skye) | Día completo en Skye |
-| 22 ago | Viernes | Inverness | Skye → Inverness ~3h (A87, A82) |
-| 23 ago | Sábado | Inverness | Día completo en la zona |
-| 24 ago | Domingo | Gothenburg Hotel, Rosyth | Inverness → Rosyth ~3-3.5h (A9); noche de tránsito a 14 min del aeropuerto |
-| 25 ago | Lunes | — | Vuelo EDI → Ámsterdam (mañana) |
+| 18 ago | Martes | Fort William | Edimburgo → Fort William ~3h (A82 por Loch Lomond y Glencoe) |
+| 19 ago | Miércoles | Fort William | Día completo en la zona |
+| 20 ago | Jueves | Portree (Skye) | Fort William → Skye ~2.5-3h (A87, con parada en Eilean Donan) |
+| 21 ago | Viernes | Portree (Skye) | Día completo en Skye |
+| 22 ago | Sábado | Inverness | Skye → Inverness ~3h (A87, A82). **Glen Urquhart Highland Games en Drumnadrochit este día** |
+| 23 ago | Domingo | Inverness | Día completo en la zona |
+| 24 ago | Lunes | Gothenburg Hotel, Rosyth | Inverness → Rosyth ~3-3.5h (A9); noche de tránsito a 14 min del aeropuerto |
+| 25 ago | Martes | — | Vuelo EDI → Ámsterdam (mañana) |
 
 ---
 
@@ -171,6 +171,11 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ---
 
+## 🍽️ Gastronomía
+> Detalle completo (dónde comer por base, mariscos, comida para llevar, supermercados para cargar provisiones y reservas de cena) en [`gastronomia.md`](gastronomia.md).
+
+---
+
 ## 🥃 Whisky y Destilerías en Ruta
 
 - [ ] **Talisker Distillery (Skye)** - La más pintoresca del viaje; the only Skye whisky; sabor marino y ahumado; tours con cata (**~£15-20**, reservar) `https://www.malts.com/en-gb/distilleries/talisker/`
@@ -193,9 +198,22 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ## 🎪 Highland Games en Agosto 2026
 
-- [ ] **Glen Urquhart Highland Games — 22 agosto (sábado)** ⭐ - Highland Games a orillas del Loch Ness, en Drumnadrochit (justo donde Urquhart Castle); **coincide exactamente con la llegada a Inverness el 22 ago** — combinarlo con la visita al Castle ese mismo día `https://www.glenurquharthighlandgames.co.uk/`
-- [ ] **Crieff Highland Gathering — 16 agosto (sábado)** - En Edimburgo (dia 2); ~1h en auto; uno de los más auténticos del calendario (ver Edimburgo eventos)
-- Nota: No hay Highland Games confirmados en Fort William area (18-20 ago) ni en Skye (20-22 ago) para esas fechas específicas
+- [ ] **Glenurquhart Highland Games — sáb 22 agosto (CONFIRMADO 2026)** ⭐ - Highland Games a orillas del Loch Ness en Blairbeg Park, Drumnadrochit (junto a Urquhart Castle); eventos locales desde 10:30, desfile de apertura 12:30, juegos 12:45-17h; **coincide exactamente con la llegada a Inverness el sáb 22 ago** — combinarlo con la visita al Castle ese mismo día `https://www.lochnessgames.co.uk/visitor-information`
+- [ ] **Crieff Highland Gathering — 16 agosto (verificar día 2026)** - Durante la estadía en Edimburgo; ~1h en auto (ver Edimburgo eventos)
+- Nota: No hay Highland Games confirmados en Fort William area (18-20 ago) ni en Skye (20-22 ago) para esas fechas específicas; calendario completo en `https://scotlander.co.uk/scottish-highland-games-calendar`
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+**Estadía:** mar 18 – mar 25 ago (7 noches; ruta Fort William → Skye → Inverness → Rosyth)
+
+- **Eventos:** **Glenurquhart Highland Games sáb 22 ago** en Drumnadrochit — confirmado oficial; planificar Urquhart Castle temprano y Games después `https://www.lochnessgames.co.uk/visitor-information`
+- **Feriados:** ninguno en Escocia esas fechas
+- **Cierres por día de semana:** sin cierres relevantes; el Jacobite corre a diario en agosto (verificar timetable) `https://westcoastrailways.co.uk/jacobite/timetables`
+- **Solo esos días:** los Games del sáb 22 son la única ventana de Highland Games de la ruta
+- **Renovaciones/cierres 2026:** Inverness Castle en conversión a visitor centre — verificar si ya abrió; el resto sin cierres detectados
+- **Clima y luz:** 9-18°C variable, ~14.5h de luz; **pico de midges** — comprar Smidge antes de Glen Nevis/Fairy Pools; mañanas más despejadas que las tardes → hikes temprano
 
 ---
 
@@ -255,14 +273,15 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ## 🧠 Consenso Reddit/Foros
 
-- "Agosto en Skye = parkings llenos antes de las 9am. Los que salen temprano lo ven todo; los que llegan a las 11am pasan horas en el coche esperando plaza." — /r/Scotland (repetidísimo)
-- "El Jacobite Steam Train es un must si consigues tickets — el sonido del vapor al cruzar el viaducto de Glenfinnan es difícil de superar." — /r/uktravel
-- "El Neist Point al atardecer es el mejor momento de todo Skye. Más silencioso y más dramático que cualquier cosa de Trotternish." — /r/Scotland
-- "Glen Etive (la 'ruta de Skyfall') es el mejor secreto de Glencoe: completamente vacía, brutal y nadie va porque no está en las listas de 'top 10'." — /r/Scotland
-- "Chanonry Point para los delfines es el mejor avistamiento de vida silvestre del UK desde tierra — y es completamente gratuito." — /r/Scotland
-- "Los midges arruinaron mi viaje y no llevaba Smidge. Comprarlo antes de llegar a Fort William." — /r/uktravel (decenas de repeticiones)
-- "Clava Cairns es lo más parecido a un viaje en el tiempo que existe; completamente gratis, habitualmente vacío y a 10 min de Culloden." — /r/Scotland
-- "Fort Augustus y las esclusas del Canal son la parada más infravalurada de toda la ruta Loch Ness — ver los yates subir y bajar es hipnotizante y no hay nadie." — /r/Scotland
+- **Salir temprano en Skye** [viajero] — el consejo más repetido en foros: a las 9:30 ya cuesta encontrar parking y mesa de café; Fairy Pools y Quiraing con "serious crowding" en agosto; primera hora o última hora del día `https://www.tripadvisor.com/ShowTopic-g186585-i749-k14815550-Isle_of_Skye_Trip-Isle_of_Skye_The_Hebrides_Scotland.html`
+- **Tip más repetido:** reservar la cena en Portree — "every single restaurant was full"; no asumir que habrá mesa al volver del día de ruta `https://www.twowanderingsoles.com/blog/isle-of-skye-scotland`
+- **Nafta antes de entrar a Skye** [viajero] — llenar el tanque antes del puente; gasolineras escasas; y leer la etiqueta de las single-track roads antes de manejar `https://community.ricksteves.com/travel-forum/scotland/7-nights-isle-of-skye-itinerary-suggestions-54890f4c-5ea9-43bb-884e-de216ed57725`
+- **Midges en agosto** — "launch their attack the moment you stand still" en días húmedos y nublados; **Smidge** comprado antes de Fort William es la solución repetida en foros `https://www.twofortheworld.com/isle-of-skye-road-trip/`
+- **Walk Highlands** [local] — el recurso que los propios escoceses usan para rutas; sirve para encontrar alternativas a los 4 spots saturados (Storr, Neist, Fairy Pools, Kilt Rock) `https://www.walkhighlands.co.uk/skye/`
+- **Joya inesperada:** Glen Etive (la "ruta de Skyfall") — completamente vacía y brutal; no está en las listas top-10 y por eso nadie va (recurrente en hilos de Glencoe)
+- **Chanonry Point** — el mejor avistamiento de fauna del UK desde tierra (delfines), gratis; llegar 1-2h antes de la marea alta (recurrente en foros de Highlands)
+- **Clava Cairns + Fort Augustus** — las dos paradas "infravaloradas" que más se repiten: cairns de 4.000 años vacíos a 10 min de Culloden, y las esclusas del canal viendo pasar yates
+- **Neist Point al atardecer** — el mejor momento de todo Skye según viajeros; más tranquilo y dramático que Trotternish
 
 ---
 

@@ -97,6 +97,19 @@ Bled temprano (miradores) → traslado → Bohinj + Savica si da.
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Ventana tentativa:** lun 12 – mié 14 oct (day trips desde Liubliana, dom 11-jue 15)
+
+- **⚠️ Vogel CERRADO** por mantenimiento **21 sep – 30 nov 2026** (oficial) — no contar con el teleférico de Bohinj `https://vogel.si/en/good-to-know/`
+- **Vintgar en horario de fin de temporada** (~9:00-15:00, slot online) — ir de mañana; sin margen para improvisar `https://www.vintgar.si/en/my-visit/opening-hours/`
+- **Pletna y botes en Bled:** operación reducida en octubre — verificar en el día
+- **Clima y luz:** ~11h de luz; con lluvia reciente priorizar Ojstrica (mirador corto) y Mostnica Gorge (linda incluso gris); follaje de otoño en pico ⭐
+
+---
+
 ## 🔗 Oficiales útiles
 - Bled (oficial): `https://www.bled.si/`
 - Bled Castle (precios): `https://www.blejski-grad.si/en/plan-your-visit/price-list/`

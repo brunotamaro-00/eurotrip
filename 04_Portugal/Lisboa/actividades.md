@@ -88,26 +88,38 @@
 ---
 
 ## 🍽️ Gastronomía
-
-### Pastéis y café
-- [ ] **Pastéis de Belém** ⭐ - Los pastéis de nata originales (desde 1837 con receta secreta de los monjes del Jerónimos); se comen calientes con canela y azúcar impalpable; la versión auténtica que hace incomparables todas las demás (~**€1.50** la unidad; filas siempre pero van rápido) `https://www.pasteisdebelem.pt/`
-- [ ] **Pastel de nata en café de barrio** - Fuera de Belém, cualquier pastelería de barrio tiene buenas natas al horno; Manteigaria (Chiado) y Confeitaria Nacional son referencias (~**€1.20-1.50**)
-- [ ] **Café com leite / galão** - El desayuno portugués: galão (café con leche largo y suave, ~**€1.20-1.50**) en cualquier café de barrio; más barato que un latte y mejor `https://www.timeout.com/`
-
-### Platos clásicos
-- [ ] **Bacalhau à Brás** - La versión más querida del bacalao; desmigado con huevo, cebolla y patata palha (fina como papel); en restaurantes de barrio ~**€10-14** — "si hay que comer bacalhau una vez en Lisboa, que sea à Brás" (foros)
-- [ ] **Bifana** - El sándwich de cerdo marinado en ajo y laurel; el fast food nacional de Portugal; en tascas de la Baixa ~**€3-4**
-- [ ] **Prego** - Sándwich de ternera a la plancha con ajo; primo más sofisticado de la bifana ~**€4-6**
-- [ ] **Sardinas asadas** - Septiembre es temporada de sardinas; las mejores en restaurantes de Alfama y Mouraria ~**€8-12** la ración
-- [ ] **Caldo verde** - La sopa de col portuguesa con chouriço; el alma de la gastronomía portuguesa ~**€4-6**
-- [ ] **Ameijoas à bulhão pato** - Almejas con cilantro, ajo y limón; el mejor aperitivo de mariscos ~**€10-15** — en restaurantes de Cais do Sodré y Alfama
-- [ ] **Ginjinha** - El licor de cereza agridulce que se bebe en shot pequeño (~**€1.20-1.50**) en bares minúsculos de Rossio y Mouraria (A Ginjinha, Largo de São Domingos); la experiencia más barata y deliciosa de Lisboa
-- [ ] **Time Out Market (Mercado da Ribeira)** - El food hall más famoso de Lisboa; buena para probar cosas rápido; suele estar lleno de turistas — **Mercado de Campo de Ourique** es la versión local y menos masificada (GRATIS entrar en ambos) `https://www.timeoutmarket.com/`
-- [ ] **Mercado de Campo de Ourique** - El mercado del barrio local; restaurantes más auténticos y precios más bajos que el Time Out; muy recomendado por locales `https://www.mercadodecampodeourique.pt/`
+> Detalle completo (platos típicos, tascas, dónde comer barato, comida para llevar, supermercados y food halls) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
-## 🏖️ Excursiones y Alrededores
+## 🌙 Nightlife
+
+> Vibra: **este tramo es 1 persona** (~26, argentina/o). Buscamos bailable y variado (latino/pop/hits), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. **Estado:** fijo (4-9 sept; finde **sáb 5 / dom 6**). Lisboa es **barata y muy segura para salir**; la movida arranca tarde y se concentra en dos zonas pegadas: **Bairro Alto** (bares en la calle) y **Cais do Sodré / Pink Street** (clubes).
+
+### 🕺 Para bailar
+- **Music Box (Cais do Sodré)** [🇦🇷/latino] — bajo el arco de Cais do Sodré; el mejor para música en vivo y noches mezcladas; **miércoles de reggaeton/perreo/latin house**; ladrillo a la vista y gran sonido; **entrada €10-15** `https://www.nextstoplisbon.com/lisbon-nightlife`
+- **Maria Caxuxa (Bairro Alto)** — bar con grandes DJs donde se baila hasta la madrugada; ambiente joven y divertido, barato `https://neontrails.com/portugal/bairro-alto-bars-lisbon`
+- **Pink Street (Rua Nova do Carvalho)** — la calle pintada de rosa de Cais do Sodré; los bares se vuelven clubes a la 1am y siguen hasta las 4am; epicentro de la salida joven `https://historicquarters.com/portugal/lisbon/bairro-alto-nightlife-lisbon`
+
+### 🍸 Bares para arrancar / tomar algo
+- **Bairro Alto** — 120+ bares en una grilla de calles estrechas; se sale a tomar **a la calle** con vaso en mano; cerveza/vino **€3-5**, cóctel **€7-10**; el arranque clásico de toda noche lisboeta [local] `https://www.madaboutlisbon.com/bairro_alto_nightlife.html`
+- **Ginjinha en Largo de São Domingos** — shot de licor de guinda **€1.50** parado en la calle; la previa más lisboeta en 60 segundos [local]
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Pensão Amor** [🦄 raro/icónico] — bar en un **antiguo prostíbulo** de Pink Street que conserva la decoración provocadora de los '70; coctelería, burlesque y librería erótica; lo más peculiar de la noche lisboeta `https://www.nextstoplisbon.com/lisbon-nightlife`
+- **Lux Frágil** [🦄 icónico] — **el club más importante de Lisboa** (de Manuel Reis, con John Malkovich entre los dueños); espacio industrial a la orilla del río + terraza con vista; bookings de electrónica de primer nivel — **no es nuestro palo**, pero es ícono si querés vivir una madrugada de club; **€15-20**, llegar después de las 2am `https://lisbonlisboaportugal.com/Lisbon-information/Lisbon-Nightlife-Drinking-Bars-Clubs.html`
+
+### 🇦🇷 Noche latina
+- **Music Box** [🇦🇷/latino] — reggaeton/perreo los miércoles (arriba)
+- **Barrio Latino (Santos)** [🇦🇷/latino] — uno de los venues de baile latino más conocidos, a orillas del Tejo; noches de kizomba (jue) y River Party (sáb) `https://samiraholma.com/where-to-dance-kizomba-in-lisbon/`
+- **Afrolatino / Mwangolé** [🇦🇷/latino] — kizomba, semba y reggaeton (Lisboa tiene una escena afro-latina enorme por la comunidad angoleña/brasileña) `https://www.portugal.com/activities-experiences/a-dancers-guide-to-lisbon-portugal-kizomba-bachata-salsa-swing-dance-and-more/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con guías de nightlife de Lisboa (NextStopLisbon, MadAboutLisbon, NeonTrails). Re-chequear `r/LisbonPortugalTravel` a mano antes del viaje.
+- **Cómo es la noche [local]:** se arranca tomando en la **calle** en Bairro Alto y se baja a bailar a **Cais do Sodré/Pink Street** después de la 1am; todo caminable `https://www.madaboutlisbon.com/bairro_alto_nightlife.html`
+- **Barato:** cerveza/vino **€3-5**, mucho más barato que el resto de Europa occidental
+- **Solo/seguridad (importante este tramo):** Lisboa es de las capitales más seguras para salir; aun así, de madrugada usar **Bolt/Uber** para volver (no taxis de calle, ver Tips), y cuidar el celular en la multitud de Pink Street
+- **Día fuerte:** vie-sáb; Bairro Alto late todas las noches en temporada
 
 - [ ] **Sintra** ⭐ - Los palacios de cuento de hadas entre pinos y niebla a 40min en tren; Palácio da Pena (amarillo y rojo, obligatorio), Castelo dos Mouros (ruinas medievales con vistas), Palácio Nacional de Sintra (en el pueblo) — **ir entre semana** (mar-jue); en fin de semana es caótico incluso en sept; comprar tickets online días antes; tren desde Rossio o Oriente `https://www.parquesdesintra.pt/`
 - [ ] **Cascais + Costa de Estoril** - El pueblo costero elegante a 40min en tren; playa, centro histórico, fortaleza; la línea de Cascais desde Cais do Sodré es uno de los recorridos en tren más bonitos de Europa (tren incluido en Lisboa Card o ~€2.40 con Viva Viagem)
@@ -156,11 +168,24 @@
 | 4 sept | Viernes | Llegada desde París. |
 | 5 sept | Sábado | Mercado Príncipe Real (Sábado). LX Factory. |
 | 6 sept | Domingo | LX Factory feria (Domingo). |
-| 7 sept | Lunes | Belém (Jerónimos + Torre). |
-| 8 sept | Martes | Sintra (ir entre semana). |
+| 7 sept | Lunes | ⚠️ **Jerónimos y Torre de Belém CIERRAN los lunes** — mover Belém al sáb/dom o mar; lunes ideal para barrios, miradores y Mouraria. |
+| 8 sept | Martes | Sintra (ir entre semana) **o** Belém (Jerónimos + Torre) + Feira da Ladra. |
 | 9 sept | Miércoles | Salida hacia Porto. |
 
 **Mercados:** Feira da Ladra (martes y sábados, Campo de Santa Clara) — mercado de pulgas y curiosidades; Mercado de Campo de Ourique (diario); Mercado Príncipe Real (sábados)
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+**Estadía:** vie 4 – mié 9 sept (5 noches, 1 persona)
+
+- **Eventos:** shoulder season ideal — calor sin pico de multitudes; **MOTELx** (festival de cine de terror, Cinema São Jorge) suele caer la 2ª semana de sept — verificar si arranca antes de la salida `https://www.motelx.org/` · **Santa Casa Alfama** (festival de fado en Alfama) suele ser fines de sept — probablemente NO coincide; verificar `https://www.santacasaalfama.com/`
+- **Feriados:** ninguno en Portugal esas fechas (el 8 sept es feriado solo en algunos municipios del norte, no Lisboa)
+- **Cierres por día de semana:** Jerónimos, Torre de Belém y la mayoría de museos estatales **cierran los LUNES** → el plan "Belém el lun 7" del cuadro de días NO funciona para entrar a Jerónimos/Torre — mover Belém a otro día o hacer solo exteriores+MAAT (abre lunes... verificar) y Pastéis · Feira da Ladra → **mar 8 o sáb 5**
+- **Solo esos días:** Mercado Príncipe Real → **sáb 5** · feria de LX Factory → **dom 6** · sardinas aún en temporada
+- **Renovaciones/cierres 2026:** Museu do Azulejo y Gulbenkian — verificar reapertura (ver Reservas Importantes) · Elevador de Santa Justa: verificar estado operativo
+- **Clima y luz:** 17-26°C, amanecer ~7:10 / anochecer ~20:00; uno de los mejores meses del año en Lisboa
 
 ---
 
@@ -185,7 +210,11 @@
 
 ## 🧠 Consenso Reddit/Foros
 
-- **"Alfama en la mañana temprana es incomparable"** — el consejo más repetido en r/LisbonPortugalTravel: "caminá por Alfama antes de que lleguen los tours; a las 7am ves la ciudad real, los vecinos, los gatos, las viejitas con el café en la puerta — a las 11am ya es otro lugar"
+- **Santa Justa: no pagar** [viajero] — la misma vista se consigue GRATIS subiendo a pie al Largo do Carmo y tomando el sendero a la derecha de las ruinas del Convento do Carmo; la cola del ascensor nunca vale la pena `https://community.ricksteves.com/travel-forum/portugal/mistakes-tourists-make-while-visiting-lisbon`
+- **Taxis: tarifa que se duplica** — quote de un precio y cobro de otro, o "máquina de tarjeta rota"; descargar **Bolt** antes de llegar es el consejo repetido `https://aloneandabroad.com/2025/03/29/mistakes-lisbon/`
+- **Tip más repetido:** no correr — almuerzos largos con vista, el ritmo lento ES Portugal; y llevar efectivo para tiendas chicas y la Feira da Ladra `https://www.tripadvisor.com/ShowTopic-g189158-i203-k2746220-Some_great_tips_for_first_time_visitors-Lisbon_Lisbon_District_Central_Portugal.html`
+- **Pickpockets en tranvía 28 y transporte** [viajero] — el 28E es el punto de carterismo #1 de la ciudad; mochila adelante, nada en bolsillos traseros `https://www.tripadvisor.com/ShowTopic-g189158-i203-k13824968-o10-First_visit_to_Lisbon_advice_please-Lisbon_Lisbon_District_Central_Portugal.html`
+- **"Alfama en la mañana temprana es incomparable"** — el consejo más repetido en r/LisbonPortugalTravel: "a las 7am ves la ciudad real, los vecinos, los gatos, las viejitas con el café en la puerta — a las 11am ya es otro lugar"
 - **Graça y Mouraria > Alfama** para los viajeros que buscan autenticidad sin turismo masivo: "mismas calles empinadas y azulejos pero con la décima parte de turistas" (múltiples posts r/Lisbon)
 - **Miradouro da Senhora do Monte** — "el mirador más alto de Lisboa y el que casi nadie conoce; si subís 10 minutos más allá del Miradouro de Santa Luzia llegás a uno de los mejores puntos de vista que he visto en Europa" (r/solotravel)
 - **Sintra: entre semana sí o sí** — "Sintra en sábado o domingo en agosto o septiembre es un desastre logístico; ir martes o miércoles lo cambia completamente; comprar tickets de Pena online días antes" (TripAdvisor foros, Lonely Planet)

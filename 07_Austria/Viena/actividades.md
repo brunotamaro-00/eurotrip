@@ -132,49 +132,43 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 
 ---
 
-## 🧯 Naschmarkt: Hacks Reales
-
-> *"Para muchos locales, Naschmarkt es más 'paseo/gastro' que 'mercado para hacer compras', y se siente caro y turístico. Si vas, andá con objetivo."*
-
-**Qué SÍ suele rendir:**
-- **Falafel:** hay un "sweet spot" cerca de Kettenbrückengasse (precio por cantidad); no dejarse upsellear con hummus/olivas extras
-- **Especias:** puestos con buen precio por gramo pueden ser mucho más baratos que supermercado
-- **Sábado:** el **Flohmarkt** (mercado de pulgas) adyacente es el mejor momento; llegar antes de las 10am
-
-**Señales para evitar:**
-- Vendedores muy insistentes que te ponen cosas en la cara: no enganchar
-- Stands de "picoteo turístico" en el pasillo central: pagás la ubicación
-
-**Alternativas para mercado más local:**
-- **Brunnenmarkt (16º)** — el más interesante para experiencia multicultural auténtica
-- **Karmelitermarkt (2º)** — fin de semana; muy local y artesanal
-- **Kutschkermarkt (18º)** — barrio bohemio de Währing; pequeño pero excelente
-- **Hannovermarkt / Meiselmarkt** — según dónde se hospeden
-
-`https://old.reddit.com/r/wien/comments/1fk1t7u/was_haltet_ihr_vom_naschmarkt/`
+## 🍽️ Gastronomía
+> Detalle completo (platos vieneses, Würstelstand, Beisl, Naschmarkt y hacks de mercados, comida para llevar, supermercados y precios) en [`gastronomia.md`](gastronomia.md).
+>
+> La **cultura del café vienés** y el **Heuriger** mantienen su tratamiento experiencial arriba en este archivo; el ángulo gastronómico (qué pedir, precios) está en `gastronomia.md`.
 
 ---
 
-## 🍽️ Comida Vienesa
+## 🌙 Nightlife
 
-### Platos Típicos
-- **Wiener Schnitzel** - Milanesa de ternera (debe ser ternera; "Schnitzel vom Schwein" es de cerdo y más barato)
-- **Tafelspitz** - Carne hervida con rábano picante y espinacas; el clásico dominical
-- **Sachertorte** - Pastel de chocolate con mermelada de albaricoque; el debate "Sacher vs Demel" es parte del folklore local
-- **Apfelstrudel** - Mejor en cafés históricos que en restaurantes de calle
-- **Käsekrainer** - Salchicha de cerdo con queso dentro; el street food local por excelencia (~€4-5)
+> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
+>
+> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (house/disco/hits/latino), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. La movida joven late en el **Bermuda Dreieck** (centro) para arrancar y en clubes alrededor del Ring/Danubio para bailar.
 
-### Dónde Comer
-- [ ] **Figlmüller** (Bäckerstrasse o Wollzeile) - El schnitzel que ocupa todo el plato; imprescindible reservar con anticipación; ~€25; turístico pero genuinamente bueno
-- [ ] **Zum Schwarzen Kameel** - Más local; sándwiches y vino de pie; para almuerzo rápido y auténtico
-- [ ] **Bitzinger Würstelstand** - Puesto de salchichas junto a la Ópera; tradición post-función; Käsekrainer ~€5
-- [ ] **Naschmarkt** - Para almuerzo entre semana; mejor relación precio/variedad del centro
-- [ ] **Heuriger** - Para cena; la mejor opción gastronómica local de todo el viaje
+### 🕺 Para bailar
+- **Volksgarten Clubdiskothek** — club **dentro del parque imperial Volksgarten**; house, disco y party hits; jue-sáb (+21); pista indoor y al aire libre; DJs internacionales; el más glam y nuestro palo musical `https://www.viennasightseeing.at/en/service/more-vienna/night-clubs-in-vienna`
+- **U4** — club underground legendario (desde los '80, donde tocó Nirvana); según la noche: charts, rock, hits de los 90, Afrobeats; mar-sáb (+18); variado y joven `https://www.viennasightseeing.at/en/service/more-vienna/night-clubs-in-vienna`
+- **The Loft** — relajado y sin dress code ni precios inflados; **sábados de fiestas 90s/2000s** + fiestas universitarias entre semana `https://neontrails.com/austria/budget-nightlife-in-vienna`
 
-### Economizar
-- Puestos de **Würstelstand** ~€3-5; tan vienés como un café
-- **Billa/Spar/Hofer** para desayunos y snacks
-- **Naschmarkt** entre semana: significativamente más barato que restaurantes del centro
+### 🍸 Bares para arrancar / tomar algo
+- **Bermuda Dreieck (Bermuda Triangle)** — el laberinto de calles del 1er distrito (Seitenstettengasse, Rabensteig, Sterngasse) con la mayor concentración de bares; **happy hour 19-22h**; donde arrancan estudiantes y jóvenes profesionales [local] `https://www.viennasightseeing.at/en/service/more-vienna/night-clubs-in-vienna`
+- **Spittelberg** — barrio bohemio de callejuelas adoquinadas con bares y galerías (ver Hidden Gems); buen previo más tranquilo
+
+### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
+- **Volksgarten** [🦄 icónico] — bailar en un club montado en un **parque palaciego barroco** en pleno Ring es la rareza linda de Viena (ya arriba)
+- **U4** [🦄 icónico] — club de culto vienés desde los '80, parte de la historia musical de la ciudad
+
+### 🇦🇷 Noche latina
+- **Danzón** [🇦🇷/latino] — restaurante + club latino en el 1er distrito; salsa clásica y reggaeton, cócteles, a veces en vivo; **pista vie-sáb desde las 22h** `https://www.wien.info/en/dine-drink/bars-clubs/clubs-discos/latin-clubs-350686`
+- **Selfie – Latino Dance Club** [🇦🇷/latino] — salsa cubana, bachata, reggaeton `https://www.tripadvisor.com/Attraction_Review-g190454-d15564461-Reviews-Selfie_Latino_Dance_Club-Vienna.html`
+- **Lento Club – Daddy Tequila** [🇦🇷/latino] — fiesta latina con clases previas de salsa/bachata/reggaeton `http://www.lentoclub.com/`
+
+### 🧠 Tips de noche (foros)
+> Reddit no es verificable automáticamente desde esta herramienta; respaldo con wien.info, ViennaSightseeing y NeonTrails. Re-chequear `r/wien` a mano antes del viaje.
+- **Dónde salen los jóvenes [local]:** arrancar en el **Bermuda Dreieck** (happy hour) y moverse a Volksgarten/U4; todo céntrico `https://www.viennasightseeing.at/en/service/more-vienna/night-clubs-in-vienna`
+- **Día fuerte:** jue-sáb (Volksgarten arranca jueves; las fiestas latinas de Danzón caen vie-sáb)
+- **Edad/puerta:** Volksgarten +21; varios clubes +18; sin dress code estricto salvo en los más glam
+- **Volver:** el metro de Viena (U-Bahn) funciona **toda la noche los vie-sáb**; entre semana hay **NightLine** (buses nocturnos) — no hace falta taxi `https://www.wienerlinien.at/`
 
 ---
 
@@ -213,9 +207,24 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mié 23 – lun 28 sept (5 noches)
+
+- **Eventos:** **Vienna Design Week 25 sept–4 oct (CONFIRMADO 2026, 20ª edición)** — ~200 eventos, muchos gratis, solapa vie-lun de la estadía `https://www.viennadesignweek.at/en/` · **Viena es World Design Capital 2026** — programación especial de diseño todo el año `https://wdc2026.org/` · inicio de temporada Staatsoper/Musikverein (programación fuerte; standing con 2-3 semanas)
+- **Feriados:** ninguno (el nacional austríaco es el 26 oct)
+- **Cierres por día de semana:** **KHM cierra los lunes fuera de verano** → no dejarlo para el lun 28 (día de salida) · Café Sperl cierra domingos · muchos heuriger abren solo jue-dom — mirar el calendario "ausg'steckt" antes
+- **Solo esos días:** Naschmarkt Flohmarkt → **sáb 26** antes de las 10am · heuriger con **Sturm** (mosto de temporada) — septiembre es EL mes
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados en las atracciones principales
+- **Clima y luz:** 9-17°C, ~11.25h de luz (anochecer ~18:20); otoño con lluvia posible — paraguas
+
+---
+
 ## Eventos Cercanos a las Fechas (tentativas 23-28 sept)
 
-- **Vienna Design Week** (25 sept - 4 oct) - Solapa el final de la estancia tentativa; venues por toda la ciudad, muchos gratis; verificar programa
+- **Vienna Design Week** (25 sept - 4 oct, confirmado 2026) - Solapa el final de la estancia tentativa; venues por toda la ciudad, muchos gratis; verificar programa `https://www.viennadesignweek.at/en/programme/`
 - **Waves Vienna** (1-3 oct) - Festival indie/electro; después de la estancia tentativa (salida 28 sept); solo aplicaría si se flexibilizan fechas
 - **Viennale** (16-28 oct) - Festival de cine internacional; no coincide con la estancia tentativa
 - **Inicio temporada Staatsoper/Musikverein** - Septiembre es el comienzo de temporada; la programación es de mayor nivel que verano; reservar standing con 2-3 semanas de anticipación
@@ -246,8 +255,9 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Cafés + heuriger** son la "experiencia Viena" más memorable según r/wien y r/austria; vale más que sumar otro museo si ya vienen saturados de palacios
-- **Heuriger:** consenso unánime en que Grinzing está sobrevalorado; las mejores experiencias locales están en Stammersdorf (21º) o Mauer/Oberlaa (23º); reservar si van fin de semana en temporada de Sturm (septiembre)
+- **Cafés + heuriger** son la "experiencia Viena" más memorable según r/wien y r/austria; vale más que sumar otro museo si ya vienen saturados de palacios `https://old.reddit.com/r/wien/comments/1mvu7b5/heuriger_help/`
+- **Heuriger [local]:** consenso unánime en r/wien (foro de residentes, en alemán) en que Grinzing está sobrevalorado; las mejores experiencias locales están en Stammersdorf (21º) o Mauer/Oberlaa (23º); reservar si van fin de semana en temporada de Sturm (septiembre) `https://old.reddit.com/r/wien/comments/cga90t/guter_heuriger/`
+- **Naschmarkt [local]:** para los vieneses es paseo gastro caro, no mercado real; ir con objetivo (falafel cerca de Kettenbrückengasse, especias) y mirar Brunnenmarkt/Karmelitermarkt como alternativa local `https://old.reddit.com/r/wien/comments/1fk1t7u/was_haltet_ihr_vom_naschmarkt/`
 - **Standing room Staatsoper:** requiere llegar con tiempo, pero puede ser la mejor relación calidad/precio de Europa; el parterre (**€18**) vale más que el gallinero; el consejo más repetido es ir con bufanda para "marcar" tu sitio
 - **Schönbrunn vs. Belvedere:** si solo hacen uno, r/vienna prefiere ligeramente el Belvedere por "El Beso" de Klimt y los jardines intermedios; Schönbrunn es más "imperial" pero también más masificado
 - Para 5 noches: 1 día palacios+arte (Schönbrunn y/o Belvedere) + 1 noche música (Staatsoper/Musikverein) + 1 tarde Prater/heuriger + cafés + resto caminar barrios locales

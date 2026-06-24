@@ -1,5 +1,19 @@
 # 🚆 Transporte en Sicilia
 
+**Fechas:** ~29 oct – 8 nov 2026 (10 noches del Sur) · **Estado:** tentativo (post-Portugal; **opción** del Sur de Italia)
+**Llegada:** desde **Nápoles** en **vuelo** (Catania/Palermo ~1h) o **ferry nocturno** (~10–12h, ahorra hotel) → ver Llegada y [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Salida:** **vuelo** Catania (o Palermo) → Barcelona (~8 nov) · ver sección Salida
+
+> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+
+## 🧭 Resumen rápido
+
+- **Estrategia mixta:** **tren para ciudades** (Palermo/Catania/Siracusa no necesitan auto) + **auto 3–6 días** para la parte rural (Val di Noto, oeste, Etna). Ahorra ~5 días de alquiler.
+- **Llegar volando** (Catania/Palermo ~€30–60) o en **ferry nocturno** desde Nápoles (ahorra una noche).
+- **Terminar en Catania** para la salida (más vuelos baratos a Barcelona, Ryanair/Vueling).
+- ⚠️ **ZTL estricta** en casi todos los cascos (Palermo, Catania, Taormina, Noto, Ragusa, Ortigia) + peajes en efectivo.
+- **Costo:** auto **€25–45/día** (en 2 ventanas ~€150–280) · trenes/buses baratos pero lentos · vuelo BCN $15–60.
+
 ## Llegada desde Nápoles
 
 ### Ferry nocturno Nápoles → Palermo ⭐ (Recomendado Ruta Oeste)
@@ -172,6 +186,13 @@ El sistema de buses en Sicilia es fragmentado: ~10 empresas distintas, sin reser
 - **GPS o Maps offline:** Descargar mapa offline de Sicilia en Google Maps o Maps.me antes de salir. La señal en el interior es irregular.
 
 ---
+
+## 🎟️ Eurail (este tramo)
+
+> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+- **Llegada y salida son VUELO/FERRY** (Nápoles→Catania/Palermo y Catania→Barcelona) → **0 días de Eurail**.
+- Trenes sicilianos = **regionales baratos** (Palermo↔Catania €13–20, etc.), no rinde gastar día de pase; la parte rural es **auto**.
+- **Días de Eurail en Sicilia: 0.**
 
 ## 🔗 Fuentes oficiales (links)
 - Trenitalia: `https://www.trenitalia.com/en.html`

@@ -1,5 +1,18 @@
 # 🚆 Transporte en Calabria
 
+**Fechas:** ~29 oct – 8 nov 2026 (parte de las 10 noches del Sur) · **Estado:** tentativo (post-Portugal; **opción** del Sur de Italia)
+**Llegada:** desde **Nápoles** en tren (Tropea ~4–5h c/cambio, o Reggio directo ~4h30) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Salida:** **vuelo** Lamezia → Barcelona (limitado) o, mejor, **cruzar a Sicilia y volar desde Catania/Palermo** (~8 nov) · ver Salida
+
+> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+
+## 🧭 Resumen rápido
+
+- **Auto imprescindible:** lo mejor de Calabria (Capo Vaticano, Sila, Aspromonte, interior) **requiere auto**; el tren solo cubre el eje costero tirreno.
+- **Llegada** desde Nápoles en tren (Tropea/Reggio); **salida** complicada por avión directo (Lamezia tiene pocas frecuencias a BCN) → **suele convenir cruzar el Estrecho a Sicilia y volar desde Catania/Palermo**.
+- ⚠️ **Cruce con auto a Sicilia:** muchos rentals **prohíben** cruzar el Estrecho — verificar; alternativa: devolver en Reggio, cruzar a pie, alquilar otro en Sicilia.
+- **Costo:** auto **€25–40/día** + nafta · ferry Estrecho **$3–5 a pie / $30–40 con auto**.
+
 ## ⚠️ Nota Importante
 
 **Auto confirmado.** La mayor parte de lo que vale la pena en Calabria (parques, interior, Capo Vaticano, pueblos de montaña) requiere auto.
@@ -78,8 +91,16 @@ El tren cubre solo el eje costero. Todo lo que vale la pena en Calabria (Capo Va
 
 ---
 
+## 🎟️ Eurail (este tramo)
+
+> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+- **Salida es VUELO** (Lamezia→BCN o, mejor, Catania/Palermo→BCN tras cruzar a Sicilia) → **0 días de Eurail**.
+- Dentro de Calabria: trenes **regionales baratos** sobre el eje costero; el resto es **auto**. No rinde gastar día de pase.
+- **Días de Eurail en Calabria: 0.**
+
 ## 🔗 Fuentes oficiales (links)
-- Trenitalia: `https://www.trenitalia.com/en.html`\n+- Caronte & Tourist (ferries Estrecho): `https://www.carontetourist.it/en/`
+- Trenitalia: `https://www.trenitalia.com/en.html`
+- Caronte & Tourist (ferries Estrecho): `https://www.carontetourist.it/en/`
 
 ## 🧠 Consenso Reddit/foros (resumen)
 - Con auto confirmado, Calabria se puede hacer completa. La pregunta es si encaja en los días totales del sur.

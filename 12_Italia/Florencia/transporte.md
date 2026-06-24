@@ -1,38 +1,126 @@
 # 🚆 Transporte en Florencia
 
-**Llegada 15 oct (borrador) — Liubliana → Trieste → Florencia (por tierra)**
-- FlixBus Liubliana→Trieste (1.5h, $11-22) + parada en Trieste + Italo/Trenitalia Trieste→Florencia (3.5-5h, $22-40)
-- Total: $33-62pp, 5-7h de viaje + parada en Trieste
-- Estación de llegada: **Firenze Santa Maria Novella (SMN)** (justo en el centro)
+**Fechas:** jue 15 – mar 20 oct 2026 (5 noches) · **Estado:** tentativo (post-Portugal)
+**Llegada:** tren **Trieste → Firenze SMN** (~4h, Italo/Frecce) → detalle en [`../../11_Eslovenia/Costa Eslovena y Trieste/transporte.md`](../../11_Eslovenia/Costa%20Eslovena%20y%20Trieste/transporte.md)
+**Salida:** **tren alta velocidad** Florencia → Roma (20 oct) · ver sección Salida
 
-**Para Cinque Terre / Siena / Pisa (Day trips):** 
-- A Siena: Buses (autolinee toscane) suelen ser mejor que el tren porque te dejan en la cima del pueblo histórico, el tren te deja abajo en el valle.
-- A Pisa/Cinque Terre: Tren regional 2-3h, $22-33pp.
-
-**Salida 20 oct (borrador) Florencia → Roma:** 
-- Tren de alta velocidad (Frecciarossa o Italo): 1.5h, $11-28pp comprando anticipado. Frecuencia excelente (cada media hora).
+> 📍 Tramo tentativo — re-verificar al confirmar fechas.
 
 ---
 
-## 💡 Logística Real y Etiqueta (Tips de Foros/Reddit)
+## 🧭 Resumen rápido
 
-### Moverse en la ciudad
-- **Todo a Pie:** Florencia NO tiene metro. El centro histórico (*Centro Storico*) es peato-amigable y muy compacto. Desde la estación SMN hasta el Duomo son 10 min caminando.
-- **Los Adoquines:** Las maletas con rueditas sufren y se rompen en el empedrado florentino (*pietra serena*). Si el alojamiento está a más de 15 minutos de la estación, los foros recomiendan tomar un taxi corto en vez de arrastrar las maletas, el esfuerzo y el ruido no lo valen.
-- **Taxis:** No puedes parar un taxi en la calle levantando la mano como en Nueva York. Tienes que ir a una parada oficial de taxis (*parcheggio taxi*) ubicadas cerca de las plazas principales o la estación, o pedirlo por la app "AppTaxi" o "Free Now".
-- **Buses Locales (AT):** Solo sirven si van a salir a zonas como Fiesole o Piazzale Michelangelo. Tengan cuidado: SIEMPRE validen el ticket en la máquina amarilla al subir. Si no, multas de €50 en el acto.
-
-### Trenes y Estaciones (Italo vs Trenitalia)
-- **Las Apps:** Descarga la app de *Trenitalia* y *Italo* antes de llegar. Comprar boletos ahí es infinitamente más fácil que lidiar con las máquinas en la estación y hacer fila.
-- **Validar Tickets Regionales:** Para trenes regionales de papel, debes validarlos en las maquinitas verdes/blancas antes de subir. Si compras por la app, haces "Check-in" desde el celular antes de que salga. Los trenes de alta velocidad (Frecciarossa/Italo) traen asiento asignado y no necesitan validación.
-- **Sciopero (Huelgas):** En Italia, los viernes son el día favorito para huelgas de trenes. Revisar siempre días antes.
+- **Florencia NO tiene metro y el centro es chico:** **casi todo a pie**. De **Firenze SMN al Duomo: ~10 min** caminando.
+- **Bus/tram (Autolinee Toscane):** single **€2.00** (subió el 1 ago 2026), válido **90 min**. Solo lo necesitás para **Piazzale Michelangelo, Fiesole** o el **tram al aeropuerto**.
+- **Adoquines (pietra serena):** las valijas con rueditas sufren — si el alojamiento está a >15 min de SMN, conviene un **taxi corto**.
+- **Costo transporte/día:** ~€0–4 (casi todo a pie).
+- **Apps de tren (Italo/Trenitalia) antes de llegar;** ojo **huelgas (sciopero)** los viernes.
 
 ---
 
-## 🔗 Fuentes oficiales (links)
-- Italo: `https://www.italotreno.it/en`
-- Trenitalia: `https://www.trenitalia.com/en.html`
+## 🎫 Tarjetas y tickets urbanos (Autolinee Toscane 2026)
 
-## 🧠 Consenso Reddit/foros (resumen)
-- Trieste→Florencia: conviene comprar **advance** (Italo/Trenitalia).
-- Florencia→Roma: Italo y Trenitalia de alta velocidad son casi idénticos en calidad. Compra el que tenga mejor precio para el horario que quieras.
+- **Single (urbano):** **€2.00** desde el **1 ago 2026** (antes €1.70), válido **90 min** con transbordos. `https://www.at-bus.it/en/ticket`
+- **Compra:** app **AT**, *tabacchi*, máquinas, o **contactless a bordo** (validadora). **Validar SIEMPRE** al subir (máquina amarilla) — multa **€50** en el acto si no.
+- **Tram:** líneas **T1/T2**; **T2 conecta SMN ↔ Aeropuerto (Peretola)**. Mismo ticket urbano.
+- Pases multi-viaje/carnet disponibles, pero con un centro tan caminable **no suelen justificarse**.
+
+---
+
+## 🚶 A pie / 🚊 Tram / 🚌 Bus
+
+- **Centro Storico peatonal y compacto:** Duomo, Uffizi, Ponte Vecchio, Santa Croce, Oltrarno — todo a pie.
+- **Tram T1/T2:** moderno y útil sobre todo para el **aeropuerto** (T2) y barrios externos.
+- **Bus AT:** para **Piazzale Michelangelo** (vistas) y **Fiesole** (mirador/etrusco).
+
+---
+
+## 🚕 Taxi / Apps
+
+- **No se paran taxis en la calle:** ir a una **parada oficial** (*parcheggio taxi*, cerca de plazas/SMN) o pedir por **AppTaxi** o **FREE NOW**. **Uber regular casi no opera.**
+- Útil con valijas (adoquines) o de noche.
+
+---
+
+## 🗺️ Cómo llegar a los day trips
+
+> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Toscana regional es **barata** — **no conviene gastar día de Eurail**.
+
+| Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
+|---------|-------|--------|------------------|----------|------|
+| **Siena** | **Bus AT (rapida)** desde Autostazione | ~1h15 | **~€9–18** | ❌ No (barato) | El bus te deja **arriba** en el casco; el tren te deja abajo en el valle |
+| **Pisa** | Tren regional (Trenitalia) | ~1h | **~€10–20** | ❌ No | Combinable con Lucca |
+| **Lucca** | Tren regional | ~1h20 | **~€10–16** | ❌ No | Murallas ciclables |
+| **Cinque Terre** | Tren regional vía La Spezia | ~2h30 | **~€22–33** | ❌ No (regional) | Día largo; Cinque Terre Card aparte |
+| **San Gimignano** | Bus AT vía Poggibonsi | ~1h30 | **~€12–18** | ❌ No | Combinable con Siena |
+
+---
+
+## 🚆 Salida hacia Roma (20 oct)
+
+- **Medio:** alta velocidad **Frecciarossa (Trenitalia)** o **Italo** desde **Firenze SMN** → **Roma Termini**.
+- **Duración:** **~1h25** · **frecuencia excelente** (cada ~30 min).
+- **Precio:** **advance desde €14.90** (sube cerca de la fecha); Italo y Trenitalia casi idénticos — comprar el más barato del horario que quieras. `https://www.italotreno.com/en/destinations-timetable/florence-rome-tickets`
+- **Reserva:** asiento asignado incluido (no se valida).
+- **Tip:** comprar en app Italo/Trenitalia con anticipación; evitar **viernes** por huelgas.
+
+> 📍 Tramo tentativo — re-verificar al confirmar fechas.
+
+---
+
+## 🎟️ Eurail (este tramo)
+
+> Tramo **Florencia → Roma** = **❌ NO, suelto Italo/Frecce advance (€14.90)**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+
+- Italia de alta velocidad es **barata comprada con antelación** y la reserva es obligatoria → gastar un día de pase **no rinde**.
+- Los day trips toscanos (bus/regional) tampoco justifican Eurail.
+- **Días de Eurail en Florencia: 0** (recomendado).
+
+---
+
+## 🧠 Consenso Reddit/Foros
+
+- **Todo a pie, no hay metro** [local] — el centro es chico; de SMN al Duomo 10 min; el bus solo para Michelangelo/Fiesole/aeropuerto `https://www.reddit.com/r/florence/`
+- **A Siena en bus, no en tren** [viajero] — el bus AT te deja arriba en el casco histórico; el tren te deja abajo en el valle y hay que subir `https://www.visitflorence.com/moving-around-florence/by-bus.html`
+- **Validá el ticket sí o sí** [local] — multas de €50 en el acto por viajar sin validar `https://www.at-bus.it/en/ticket`
+- **Comprá Italo/Trenitalia en la app** [viajero] — más fácil que las máquinas; Florencia→Roma desde €14.90 anticipado `https://www.italotreno.com/`
+- **Huelgas de tren los viernes** [local] — revisar antes; suelen anunciarse con días de anticipación `https://www.reddit.com/r/ItalyTravel/`
+
+---
+
+## 💡 Tips
+
+- **Validar** bus/tram al subir; alta velocidad NO se valida (asiento asignado).
+- **Apps Italo + Trenitalia** instaladas antes; comprar advance.
+- **Adoquines + valijas:** taxi corto desde SMN si el alojamiento está lejos.
+- **Sciopero:** chequear calendario de huelgas (viernes típico) antes de Roma.
+
+## 📱 Apps
+
+- **AT (Autolinee Toscane)** (bus/tram + tickets) · **Italo** / **Trenitalia** (trenes) · **Trainline / Omio** (comparar)
+- **AppTaxi / FREE NOW** (taxis) · **Google Maps**
+
+## 📝 Tickets a comprar (checklist local)
+
+- [ ] **Tren Florencia → Roma (20 oct)** — Italo/Frecce **advance desde €14.90** pp · hora [___] · confirmación #[___]
+- [ ] **(Day trips) Siena/Pisa/Lucca** — bus AT / regional, comprar en el momento
+- [ ] **Transporte urbano:** nada que reservar — single €2 (validar) o a pie
+
+## ⚠️ Costos de referencia (2026)
+
+| Concepto | Precio | Nota/Fuente |
+|----------|--------|-------------|
+| Bus/tram single AT | **€2.00** | desde 1 ago 2026; 90 min `at-bus.it` |
+| Tram T2 → Aeropuerto | **€2.00** | mismo ticket urbano |
+| Florencia → Roma (Italo/Frecce) | **desde €14.90** | ~1h25 advance `italotreno.com` |
+| Bus a Siena | **~€9–18** | te deja arriba en el casco |
+| Tren a Pisa/Lucca | **~€10–20** | regional |
+
+**Fuentes:** at-bus.it · italotreno.com · trenitalia.com
+
+## 🔗 Fuentes y links
+
+- **Autolinee Toscane (urbano/tarifas):** `https://www.at-bus.it/en/ticket`
+- **Italo (Florencia → Roma):** `https://www.italotreno.com/en/destinations-timetable/florence-rome-tickets`
+- **Trenitalia:** `https://www.trenitalia.com/en.html`
+- **Reddit r/florence:** `https://www.reddit.com/r/florence/`

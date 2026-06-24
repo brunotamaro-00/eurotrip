@@ -102,6 +102,21 @@
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** lun 14 – mié 16 sept (2 noches)
+
+- **⚠️ Conflicto de días con estas fechas:** **Musée Unterlinden cierra los MARTES** → con lun 14-mié 16, el Retablo de Isenheim solo se puede ver lun 14 (tarde de llegada) o mié 16 (mañana de salida) · **Kut'zig Bus opera mar-dom** (lunes NO) → la Route des Vins cae naturalmente el mar 15, mismo día que Unterlinden está cerrado — el plan se acomoda solo: mar 15 pueblos, lun/mié Unterlinden
+- **Eventos:** **plena vendimia** en la Route des Vins — viñedos activos, bodegas con cosecha; preguntar en oficinas de turismo por actividades de recogida · las **Journées du Patrimoine (18-20 sept)** quedan a días — mismo razonamiento que Estrasburgo si se reacomoda el tramo
+- **Feriados:** ninguno
+- **Buses locales a Eguisheim:** lun-vie con horarios de commuter (12:30, 14:30, 16:30...) — planificar la vuelta; o bici (6km llano)
+- **Renovaciones/cierres 2026:** sin cierres detectados
+- **Clima y luz:** 11-22°C; septiembre es el mejor mes de Alsacia (viñedos dorados, vendimia)
+
+---
+
 ## 💡 Tips
 
 ### Logística
@@ -131,7 +146,9 @@
 - **Retablo de Isenheim es el secreto de Colmar que pocos turistas conocen** — "nadie sabe que en Colmar hay una de las obras de arte medievales más impactantes del mundo; la crucifixión de Grünewald es aterradora y extraordinaria; nada que ver con lo que esperás del arte religioso del s. XVI" (r/art, r/travel)
 - **Eguisheim > Riquewihr para autenticidad** — debate eterno en foros; consenso general: "Riquewihr es la imagen perfecta pero los locales prefieren Eguisheim; los turistas menos si buscan foto de postal, los más si buscan atmósfera real del pueblo" (múltiples posts r/france)
 - **Kaysersberg > los demás para el viajero curioso** — "el puente, el castillo, la casa natal de Schweitzer y los viñedos; Kaysersberg tiene historia y belleza en un solo lugar" (Rick Steves forums)
-- **Kut'zig Bus es la revelación** — "no sabía que existía hasta que lo encontré en un foro; hace exactamente el recorrido que quería sin coche; no dejes de reservarlo online antes de llegar" (múltiples posts r/france, blogs de viaje)
+- **Kut'zig Bus es la revelación** [viajero] — hilo dedicado en el foro de Colmar: ~€29/día, salidas cada ~90min de 8:30 a 18:45 recorriendo Ribeauvillé, Riquewihr, Kaysersberg, Turckheim y Eguisheim; reservar online antes de llegar `https://www.tripadvisor.com/ShowTopic-g187073-i1705-k12692852-Alsace_wine_route_without_a_car_Kut_zig_hop_on_hop_off_bus-Colmar_Haut_Rhin_Grand_Est.html`
+- **Sin coche: qué se puede combinar** [viajero] — Riquewihr + Ribeauvillé van juntos en la misma línea de bus; Turckheim tiene tren frecuente; Kaysersberg bus lun-sáb; cada pueblo se camina en <1h `https://www.tripadvisor.co.uk/ShowTopic-g187073-i1705-k15528488-Definitive_advice_on_day_trips_from_Colmar_with_no_car-Colmar_Haut_Rhin_Grand_Est.html`
+- **Itinerario de 3 días sin coche** [viajero] — hilo con el armado día por día desde Colmar `https://www.tripadvisor.com/ShowTopic-g187073-i1705-k12527312-o20-3_Full_days_in_Colmar_Itinerary_help_no_car-Colmar_Haut_Rhin_Grand_Est.html`
 - **Septiembre = mejor mes para Alsacia** — "los viñedos dorados en vendimia, la temperatura perfecta, menos turistas que agosto; si podés elegir el mes para visitar Alsacia, es septiembre" (consenso en Lonely Planet Thorn Tree, r/france)
 
 ---

@@ -23,7 +23,7 @@
 
 ## 🏛️ Museos y Arte
 
-- [ ] **Galleria degli Uffizi** - La colección de arte renacentista más importante del mundo; Botticelli (Nacimiento de Venus, Primavera), Leonardo, Caravaggio, Rafael, Miguel Ángel; **€25** adulto en taquilla / **€29** comprando online con antelación (incluye suplemento de reserva); tarifa tarde (a partir de 16h): **€16**; reducido **€2** ciudadanos UE 18-25; gratis menores 18 y **primer domingo del mes** (18 oct = GRATIS pero muy lleno); **cerrado lunes** (19 oct cierra) — Tip Reddit: después de 2 horas el cerebro se satura ("Síndrome de Stendhal"); ir con plan concreto, priorizar Sala de Botticelli primero `https://www.uffizi.it/en/tickets`
+- [ ] **Galleria degli Uffizi** - La colección de arte renacentista más importante del mundo; Botticelli (Nacimiento de Venus, Primavera), Leonardo, Caravaggio, Rafael, Miguel Ángel; **€25** adulto en taquilla / **€29** comprando online con antelación (incluye suplemento de reserva); tarifa tarde (a partir de 16h): **€16**; reducido **€2** ciudadanos UE 18-25; gratis menores 18 y **primer domingo del mes** (⚠️ en oct 2026 es el día 4 — NO coincide con la estadía); **cerrado lunes** (19 oct cierra) — Tip Reddit: después de 2 horas el cerebro se satura ("Síndrome de Stendhal"); ir con plan concreto, priorizar Sala de Botticelli primero `https://www.uffizi.it/en/tickets`
 - [ ] **Galleria dell'Accademia (David)** - El David original de Miguel Ángel (5.17m de mármol blanco); **€16** adulto + **€4** suplemento reserva online = **€20** total; reducido **€2** ciudadanos UE 18-25; gratis menores 18 y primer domingo del mes; fila brutal sin reserva — **reservar siempre online** `https://www.galleriaaccademiafirenze.it/en/tickets/`
 - [ ] **Palazzo Vecchio (Museo Cívico)** - El palacio del gobierno medieval; el Salón de los Quinientos; **~€12-14** adulto (verificar en musefirenze.it); exterior e interior del patio gratis
 - [ ] **Museo del Bargello** - Esculturas del Renacimiento (Donatello, Michelangelo, Cellini) en un edificio medieval; menos saturado que los grandes; **~€10** adulto (verificar)
@@ -43,22 +43,8 @@
 
 ---
 
-## 🍕 Gastronomía Auténtica
-
-Florencia está llena de trampas turísticas alrededor del Duomo y Piazza della Signoria. Reddit es claro: **cruzar el Arno hacia el Oltrarno** para comer como local.
-
-### Lo que hay que comer
-- [ ] **Bistecca alla Fiorentina** - Se cobra por peso (mínimo 1-1.2kg para dos personas); se sirve muy jugosa/roja; **no pedir que la cocinen más** (insulto al chef) — *Recomendaciones Reddit:* **Trattoria Mario** (solo almuerzo, compartir mesa), **Trattoria Sergio Gozzi**, **Antico Ristoro di Cambi**
-- [ ] **Sándwiches / Schiacciata** - All'Antico Vinaio es el famoso (filas de 2h); alternativas Reddit sin fila: **Pino's Sandwiches** (Salumeria Verdi), **I' Girone De' Ghiotti**, **SandwiChic**; la schiacciata (pan toscano plano) es ideal para almuerzos rápidos y barata en cualquier panadería
-- [ ] **Gelato (Regla de Oro)** - Evitar montañas gigantes de colores flúor (usan polvos y aire); buscar heladerías con helado plano en cubetas de metal (*pozzetti*) o colores opacos/naturales — *Recomendaciones Reddit:* **Gelateria dei Neri**, **Perché no!...**, **Sbrino**, **Vivoli** (famoso y auténtico desde 1930)
-- [ ] **Trattoria dei 13 Gobbi** - Trattoria céntrica muy nombrada; reservar si se puede (Cande recomienda)
-- [ ] **Gostilna na Gradu** - ver también la lista de Cande para opciones de comida especial
-- [ ] **Caffè San Firenze** - Parada clásica en el entorno Duomo/Uffizi (precio "zona monumento": ojo); Cande la incluye en la lista
-
-### Trampas a Evitar
-- Restaurantes con "Menù Turistico" o alguien en la puerta invitando a pasar
-- Planta alta del Mercato Centrale (patio de comidas caro tipo mall; la planta baja de verduras es de los locales)
-- Cafés en Piazza del Duomo: un espresso al banco cuesta **€1.20-1.50** a dos cuadras; en la plaza cobran **€3-5** sentado o más
+## 🍕 Gastronomía
+> Detalle completo (platos toscanos, bistecca, lampredotto, schiacciata, regla del gelato, trattorias del Oltrarno, mercados y trampas a evitar) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -85,10 +71,7 @@ Para Cande, Florencia es la **ciudad favorita en Italia** hasta ahora: equilibri
 - **Mercado del cuero** (zona San Lorenzo / puestos alrededor del Mercato Centrale): carteras y marroquinería; **regatear** y revisar costuras y piel antes de comprar
 
 ### Gastronomía de Cande
-- **Trattoria dei 13 Gobbi** — trattoria céntrica muy nombrada; reservar si pueden
-- **All'Antico Vinaio** — lo mantiene en la lista; alternativas Reddit igual de buenas si no quieren cola
-- **Caffè San Firenze** — parada clásica en el entorno Duomo/Uffizi
-- **Café del museo en Piazza del Duomo** — tomar café con vista al entorno (pagarás la vista; coherente con tips de "al banco vs mesa")
+> Migrada a [`gastronomia.md`](gastronomia.md): Trattoria dei 13 Gobbi, All'Antico Vinaio (y alternativas sin cola), Caffè San Firenze y la nota de "café con vista" en Piazza del Duomo (pagás la vista; ver tip "al banco vs mesa").
 
 ---
 
@@ -99,11 +82,27 @@ Para Cande, Florencia es la **ciudad favorita en Italia** hasta ahora: equilibri
 | 15 oct | Jueves | Llegada desde Liubliana (vía Trieste) |
 | 16 oct | Viernes | |
 | 17 oct | Sábado | |
-| 18 oct | Domingo | **1er domingo del mes** → Uffizi + Accademia + museos estatales **GRATIS** (pero muy llenos; reservar slot igual) |
+| 18 oct | Domingo | Domingo normal (⚠️ NO es el 1er domingo del mes — la gratuidad fue el 4 oct) |
 | 19 oct | Lunes | **Atención:** Uffizi + Accademia **CIERRAN** los lunes |
 | 20 oct | Martes | Salida a Roma |
 
-**⚠️ Estrategia:** Usar el 18 oct (domingo) para Uffizi o Accademia en turno temprano (entrada gratis, pero reservar slot igual) y el lunes 19 para museos que sí abren (Bargello, Palazzo Vecchio, Santa Croce, Officina Profumo, Boboli/Bardini).
+**⚠️ Estrategia corregida:** El "primer domingo gratis" (Domenica al Museo) en octubre 2026 es el **4 oct** — no coincide con la estadía (15-20 oct). Pagar entradas normales con reserva: Uffizi y Accademia entre jue 16 y dom 18, y dejar el **lunes 19** para los que sí abren (Palazzo Vecchio, Santa Croce, Officina Profumo, Duomo/Cúpula — verificar Bargello y Boboli, que cierran algunos lunes).
+
+---
+
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** jue 15 – mar 20 oct (5 noches)
+
+- **Eventos:** sin eventos mayores detectados para 15-20 oct; verificar agenda en `https://www.feelflorence.it/`
+- **Feriados:** ninguno en Italia esas fechas (Ognissanti es el 1 nov)
+- **Cierres por día de semana:** **Uffizi y Accademia cierran los LUNES** (lun 19) · Boboli cierra 1er y último lunes del mes — el 19 podría ser el "último lunes"... no: el último lunes de oct 2026 es el 26 → Boboli abre el 19 ✓ · Bargello: verificar días de cierre (alterna)
+- **⚠️ Sin domingo gratis:** la Domenica al Museo es el 4 oct — pagar y reservar todo
+- **⏰ Reserva crítica:** **Cúpula del Duomo (Brunelleschi Pass) se agota 2-3 semanas antes** → reservar a fines de septiembre como tarde
+- **Renovaciones/cierres 2026:** sin cierres mayores detectados; nuevo combo Accademia+Bargello vigente desde mar 2026
+- **Clima y luz:** 11-20°C, ~11.25h de luz (anochecer ~18:05); posible lluvia — los museos como plan B encajan natural
 
 ---
 
@@ -130,10 +129,11 @@ Para Cande, Florencia es la **ciudad favorita en Italia** hasta ahora: equilibri
 ## 🧠 Consenso Reddit/Foros
 
 - **El Duomo es la reserva más urgente del viaje italiano** — los slots para la cúpula se agotan 2-3 semanas antes; reservar en tickets.duomo.firenze.it nada más se abra la ventana
-- **18 oct = primer domingo del mes = museos estatales gratis** — Uffizi y Accademia gratis ese día pero atiborrados; ir muy temprano o reservar slot igualmente; el lunes 19 ambos cierran → planificar actividades sin museos cerrados
+- **⚠️ Corrección de fechas:** la "Domenica al Museo" (museos estatales gratis) es el **primer** domingo del mes = 4 oct 2026, NO el 18 — no coincide con la estadía; reservar entradas pagas normales; el lunes 19 Uffizi y Accademia cierran → planificar ese día sin museos estatales
 - **Uffizi: los primeros 90 min son los mejores** — Sala de Botticelli primero (Nacimiento de Venus, Primavera), luego Leonardo y Miguel Ángel; el resto es bonus; tener claro qué ver antes de entrar para no agotarse
-- **Cruzar el Arno hacia Oltrarno** — el consejo más repetido en r/florence para comer bien y sin trampa turística; Santo Spirito + San Frediano son los barrios
-- **San Miniato al Monte** — la joya escondida más citada de Florencia; los cantos gregorianos a las 17:30 aparecen en casi todos los trip reports de otoño
+- **Cruzar el Arno hacia Oltrarno** [viajero] — el consejo más repetido para comer bien y sin trampa: "most first-time visitors never cross Ponte Vecchio — ahí están los talleres artesanos y los mejores restaurantes" `https://www.tripsfromflorence.com/florence-travel-tips/`
+- **San Miniato al Monte** — la joya escondida más citada de Florencia (vista superior a Piazzale Michelangelo, gratis, sin multitud); los cantos gregorianos a las 17:30 aparecen en casi todos los trip reports de otoño `https://sologuides.com/florence/`
+- **Reservar antes de llegar** [viajero] — hilo de Rick Steves sobre reservas anticipadas y multitudes en Florencia: Uffizi a primera hora con prebooking es otra experiencia `https://community.ricksteves.com/travel-forum/italy/advance-booking-in-florence-and-crowds`
 - **Bardini sobre Boboli** — foros de viajeros prefieren Bardini (menos gente, mejor vista, café); incluidos en el mismo ticket de €10
 - **Gelato en Gelateria dei Neri o Vivoli** — los más nombrados consistentemente en r/Florence para gelato auténtico
 - **5 noches permiten ritmo sin correr** — posibilidad de day trip a Siena/San Gimignano un día sin agotarse; Cinque Terre solo si quieren el trekking
@@ -154,7 +154,7 @@ Para Cande, Florencia es la **ciudad favorita en Italia** hasta ahora: equilibri
 ### Pases y Combos
 - **Brunelleschi Pass (€30)** cubre prácticamente todo el complejo del Duomo; es el ticket estándar, no hay alternativa
 - **Combo 3 días Uffizi + Pitti + Boboli (~€38)** conviene si se van a visitar los tres; verificar en web oficial al acercarse la fecha del viaje
-- **Primer domingo del mes (18 oct)**: museos estatales gratis — aprovechar pero llegar temprano
+- **Primer domingo del mes**: en oct 2026 cae el día 4 (NO durante la estadía) — no contar con museos gratis en Florencia
 
 ---
 

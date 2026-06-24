@@ -50,20 +50,8 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 
 ---
 
-## 🍽️ Gastronomía Tirolesa
-
-### Platos que pedir en cualquier Gasthaus del Tirol
-- [ ] **Innsbrucker Gröstl** - Patatas salteadas con carne de cerdo o ternera, cebolla y huevo frito encima; EL plato típico tirolés; contundente y perfecto para después de una subida a la montaña; **~€12-16**
-- [ ] **Käsespätzle** - Spätzle (pasta tirolesa tipo gnocchi) con queso y cebolla crujiente encima; el plato vegetariano más pedido en la región; **~€10-14**
-- [ ] **Tiroler Brettljause** - Tabla de picoteo fría: Speck tirolés, quesos del Tirol, cornichons, rábano picante, mantequilla y pan negro; perfecto como almuerzo ligero o snack; **~€10-14**
-- [ ] **Speck tirolés** - El jamón curado y ahumado del Tirol; se diferencia del italiano por el proceso de ahumado; se come en finas lonchas; pedirlo en cualquier taberna
-- [ ] **Apfelstrudel** - El strudel de manzana es omnipresente; el tirolés difiere del vienés en que lleva más especias y pasas; con Schlagobers (nata montada): **~€4-6**
-- [ ] **Tiroler Knödel** - Albóndigas de pan duro (Semmelknödel) o espinacas (Spinatknödel); servidas solas o en caldo; la guarnición más tirolesa
-
-### Dónde Comer
-- **Altstadt + Mariahilfstrasse**: las mejores concentraciones de Gasthäuser auténticos; alejarse 2 calles de la zona Golden Roof para precios más razonables
-- **Tip de presupuesto:** un plato principal en restaurante cuesta **€14-22**; buscar el "Mittagsmenü" (menú del mediodía, lun-vie) para una comida completa por **€10-14**
-- **Mercado del sábado (Markttag)**: el mercado de la Marktplatz con productores locales de la región; frutas, quesos, Speck artesanal; muy recomendado en foros locales
+## 🍽️ Gastronomía
+> Detalle completo (platos tiroleses, dónde comer barato, Markthalle, Mittagsmenü, comida para llevar y supermercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -94,6 +82,20 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 
 ---
 
+## 📅 Durante tus fechas (2026)
+
+> Fechas tentativas — re-verificar al confirmar
+
+**Estadía tentativa:** mié 23 sept (tránsito) o +1-2 noches
+
+- **Eventos:** sin eventos mayores detectados para fines de sept; verificar agenda local en `https://www.innsbruck.info/`
+- **Feriados:** ninguno en Austria (el nacional es el 26 oct, ya estarán en Roma)
+- **Cierres por día de semana:** miércoles todo abre; el mercado de la Marktplatz es los **sábados** (no coincide si es solo tránsito)
+- **Renovaciones/cierres 2026:** Castillo Ambras en temporada (abr-oct) ✓; Nordkette operativa todo el año — el precio reportado en foros subió a ~€61 i/v Hafelekar, verificar tarifa 2026 `https://nordkette.com/en/service/tariffs/`
+- **Clima y luz:** 6-16°C en valle, 0-8°C en Nordkette; ~12.5h de luz; chequear webcam de visibilidad ANTES de decidir subir `https://nordkette.com/`
+
+---
+
 ## 🚶 Free Walking Tour
 
 ### GuruWalk (EN)
@@ -111,9 +113,9 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 
 ## 🧠 Consenso Reddit/Foros
 
-- **Innsbruck es perfecta para 1-2 noches** — se agota con tranquilidad en ese tiempo; más es difícil de justificar salvo que se quiera hacer el Zirbenweg completo
-- **Nordkette es el highlight indiscutible** — la combinación de "salís del centro de la ciudad y en 20 min estás a 2.300m" no existe en ninguna otra ciudad alpina europea; ir aunque solo sea a Seegrube
-- **La Innsbruck Card se amortiza muy rápido** — Nordkette (~€44) + Ambras (~€16) + Alpenzoo (~€14) = €74 solo con 3 atracciones; la card de 24h a €49 ya paga; la de 48h a €59 es la que más recomienda Reddit para 2 días
+- **Innsbruck es perfecta para 1-2 noches** — se agota con tranquilidad en ese tiempo; más es difícil de justificar salvo que se quiera hacer el Zirbenweg completo `https://www.tripadvisor.com/ShowTopic-g190445-i792-k10621608-One_Day_in_Innsbruck-Innsbruck_Tirol_Austrian_Alps.html`
+- **Nordkette es el highlight indiscutible** [viajero] — "salís del centro y en 20-30 min estás a 2.300m"; subir a primera hora de la mañana y dejar Bergisel para la tarde; con niebla NO subir `https://www.tripadvisor.com/ShowTopic-g190445-i792-k11654642-Is_Nordkette_a_must_see-Innsbruck_Tirol_Austrian_Alps.html`
+- **La Innsbruck Card se amortiza casi sola** [viajero] — en foros 2025-2026 reportan el ida+vuelta a Hafelekar en ~**€61** (subió vs. los ~€44 históricos — verificar): "el ticket de Nordkette cuesta casi lo mismo que la card, comprá la card" `https://www.tripadvisor.com/ShowTopic-g190410-i146-k15331411-Buying_the_round_trip_ticket_to_visit_Nordkette-Austria.html`
 - **Bergisel es más interesante de lo que parece** — el mirador de Zaha Hadid más las vistas de la ciudad; citado en varios trip reports como "sorpresa agradable"
 - **Comer en la Altstadt es caro** — buscar el Mittagsmenü (menú del mediodía) para ahorrar; o alejarse a Mariahilfstrasse donde los precios bajan notablemente
 - **Septiembre = mejor época para Innsbruck** — verano sin calor extremo, menos turistas que julio-agosto, montañas todavía accesibles sin nieve, colores de otoño empezando
