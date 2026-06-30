@@ -10,6 +10,19 @@
 - **Romanticismo y turismo victoriano:** Walter Scott y la visita de Jorge IV “inventan” parte del tartán comercial y del icono highland; hoy el filme, la literatura de fantasía y *Outlander* continúan esa capa estética.
 - **Renacimiento gaélico y patrimonio vivo:** Señalética bilingüe, ceilidhs, destilerías y conservación ecológica conviven con tensiones sobre tierras, rewilding y segunda residencia. El ferrocarril West Highland y el viaducto de Glenfinnan son también patrimonio industrial imperial.
 
+## Vocabulario gaélico del paisaje
+
+Los topónimos de las Highlands describen literalmente la geografía; conocerlos cambia cómo se "lee" el mapa:
+
+- **glen** = valle → *Glencoe* = valle del río Coe
+- **loch** = lago (o brazo de mar) → *Loch Ness* = lago Ness
+- **ben** (*beinn*) = montaña → *Ben Nevis* = montaña Nevis
+- **strath** = valle ancho de río (más amplio que un *glen*) → *Strathpeffer*
+- **kyle** (*caol*) = estrecho de mar → *Kyle of Lochalsh* (acceso a Skye)
+- **inver** (*inbhir*) = desembocadura → *Inverness* = boca del río Ness
+- **dun** = fuerte/fortaleza → *Dunvegan*, *Duntulm*
+- **kil** (*cill*) = iglesia/celda monástica → *Kilmuir*
+
 ## Épocas Fundamentales
 
 | Época | Huella en el terreno |

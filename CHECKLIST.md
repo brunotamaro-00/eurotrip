@@ -4,24 +4,57 @@
 
 **Presupuesto:** rangos actualizados en [`PRESUPUESTO.md`](PRESUPUESTO.md) (~$24k-32k total viaje; ~$6,6k ya confirmados).
 
+## 🗓️ Calendario de acción (ordenado — de lo más urgente a lo más lejano)
+
+> **Cómo usarlo:** la fecha en negrita es **cuándo conviene reservar o entrar a chequear** (no la fecha de la visita). Trabajá de arriba (más urgente) hacia abajo, sacando las cosas "de atrás para adelante". Las ventanas (“abre X antes”) están explicadas en el detalle de cada reserva más abajo. **Hoy: 30-jun-2026.**
+
+### 🔴 Ya / esta semana (la ventana ya está abierta)
+- [ ] **Eurostar Ámsterdam→París (visita 29-ago):** cupo passholder ya abierto (sale ~3-4 meses antes, cupo limitado, **€22-25**). Reservar **YA**.
+- [ ] **Edinburgh Castle (visita 15-18 ago):** agosto se agota y ya está a la venta. Comprar **YA**.
+- [ ] **UK ETA (ambos) + ETIAS (Persona 2):** tramitar ya (procesan en días); necesarios antes del **5-ago**.
+- [ ] **Wise/Revolut:** abrir cuenta ya (la tarjeta tarda 1-2 semanas).
+- [ ] ⚠️ **Auschwitz (Cracovia, tentativo ~3-oct):** las entradas **individuales** salen **90 días antes** (~**5-jul**) y vuelan. Si vas a fijar Cracovia, definila pronto; si no, reservá **tour guiado** (tiene más holgura).
+
+### 🟠 Julio 2026 (fechas exactas)
+- [ ] **sáb 11-jul** — **Tren CP Lisboa→Porto (viaje ~9-sep):** abre la venta (~60 días antes); comprar para tarifa Promo (~€18 vs €35.70 walk-up).
+- [ ] **mar 14-jul · 10:00 CET** — **Anne Frank House (visita ~25-ago):** es el martes que libera el batch de ~6 semanas después. **Backup: mar 21-jul** para fechas 27-29 ago.
+
+### 🟡 Agosto 2026 (objetivo ~2-3 semanas antes de cada ciudad)
+- [ ] **~4-ago** — **Ámsterdam (visita 25-29 ago):** Van Gogh + Rijksmuseum (slots horarios).
+- [ ] **~8-ago** — **París (visita 29 ago-4 sep):** Louvre + Sainte-Chapelle + Versalles + **Catacumbas** (apenas abran las fechas).
+- [ ] **~17-ago** — **Portugal (visita ~5-7 sep):** Sintra (Pena + Regaleira con hora) + Porto (Lello + Clérigos).
+
+### 🟢 Post-Portugal (tentativo — NO fijar hasta confirmar el tramo)
+> Fechas tentativas: reservar **al confirmar ciudad y noches**. Ventanas de referencia para fijar "de atrás para adelante" cuando se cierre cada tramo:
+- **Coliseo + Foro (Roma ~20-oct):** entradas salen **~30 días antes** (~20-sep), 9:00 — vuelan.
+- **Museos Vaticanos (Roma):** disponibles con meses; reservar al confirmar.
+- **Galería Borghese (Roma):** slots de 2h, ~2-3 meses antes; obligatorio, no hay venta en puerta.
+- **Duomo Firenze – cúpula (~15-oct):** slots de subida (Brunelleschi Pass), reservar ~1-2 meses antes.
+- **Uffizi / Accademia (Florencia):** disponibles con meses; comprar al confirmar.
+- **Cappella Sansevero (Nápoles ~27-oct):** se agota semanas antes.
+- **Sagrada Familia + Park Güell (Barcelona ~8-nov):** se agotan con semanas; reservar al confirmar.
+- **Parlamento Budapest (~7-oct) + termas:** tour guiado se agota; reservar al confirmar.
+- **Castillo de Praga · Eslovenia (Škocjan/Postojna/Vintgar) · Suiza (pase + Oeschinensee):** reservar al confirmar noches.
+
+---
+
 ## 3 a 6 Meses Antes (Reservas Críticas)
-- [ ] **Anne Frank House (Ámsterdam):** Reservar apenas abran las fechas (se agotan MESES antes). **Recordatorio:** suelen abrir ~6 semanas antes, **martes 10:00 CET**.
-- [ ] **Coliseo + Foro / Vaticano (Roma):** Reservar online en web oficial (Parco Colosseo y Museos Vaticanos).
-- [ ] **Galería Borghese (Roma):** Obligatorio reservar, no venden en puerta.
-- [ ] **Sagrada Familia (Barcelona):** Reservar con meses de anticipación.
-- [ ] **Park Güell (Barcelona):** Reservar **slot horario** (zona monumental).
-- [ ] **Duomo Firenze (cúpula / Brunelleschi Pass):** Reservar **slot** con mucha anticipación (subida a la cúpula).
+- [ ] **Anne Frank House (Ámsterdam):** Reservar apenas abran las fechas (se agotan MESES antes). Abren ~6 semanas antes, **martes 10:00 CET**. **➡️ Fecha exacta para esta visita (~25-ago): martes 14-jul 10:00 CET** (backup mar 21-jul para 27-29 ago).
+- [ ] **Coliseo + Foro / Vaticano (Roma):** Reservar online en web oficial (Parco Colosseo y Museos Vaticanos). Ventana: **Coliseo abre ~30 días antes** (9:00, vuela); Vaticano disponible con meses.
+- [ ] **Galería Borghese (Roma):** Obligatorio reservar, no venden en puerta. Ventana: **slots de 2h, ~2-3 meses antes**.
+- [ ] **Sagrada Familia (Barcelona):** Reservar con meses de anticipación (se agota con semanas).
+- [ ] **Park Güell (Barcelona):** Reservar **slot horario** (zona monumental), ~1-2 meses antes.
+- [ ] **Duomo Firenze (cúpula / Brunelleschi Pass):** Reservar **slot** de subida con mucha anticipación (~1-2 meses).
 - [ ] **Cappella Sansevero (Nápoles):** Reservar online (se agota semanas antes).
-- [ ] **Auschwitz-Birkenau (Cracovia):** Tour guiado ($16) recomendado, reservar online sí o sí.
-- [ ] **Catacumbas de París:** Reservar online apenas abran las fechas.
-- [ ] **Edinburgh Castle (Edimburgo):** Comprar entrada online (agosto se agota).
-- [ ] **Harry Potter Studio Tour (Londres):** Reservar (se agota con meses).
+- [ ] **Auschwitz-Birkenau (Cracovia):** Tour guiado ($16) recomendado, reservar online sí o sí. ⚠️ **Entradas individuales salen 90 días antes** y vuelan; el tour guiado da más holgura.
+- [ ] **Catacumbas de París:** Reservar online apenas abran las fechas (cupo timed-entry limitado).
+- [ ] **Edinburgh Castle (Edimburgo):** Comprar entrada online (agosto se agota; **ya a la venta → comprar YA**).
+- [x] **Harry Potter Studio Tour (Londres):** Reservar (se agota con meses).
 - [x] **Alojamiento Agosto:** UK + Ámsterdam + París — **RESERVADO** (ver `PRESUPUESTO.md`).
 - [x] **Alojamiento Lisboa (4–9 sept):** Lisbon Destination Hostel — **USD 30/noche** (5 noches, 1 persona) — **RESERVADO**.
-- [ ] **Alojamiento Porto (9–12 sept):** Reservar (3 noches, 1 persona).
+- [x] **Alojamiento Porto (9–12 sept):** Reservar (3 noches, 1 persona).
 - [x] **Vuelos Internos:** Edimburgo → Ámsterdam (25 ago) — **COMPRADO** (**USD 184 total**, 2p). Pendiente: Sur de Italia → Barcelona (8 nov).
-- [ ] **Trenes Nocturnos:** Reservar asientos/camas (suelen abrir 2-3 meses antes).
-- [ ] **Auto Highlands:** Reservar auto (**retirar 18 ago en Edimburgo**, circuito 18-25 ago, **devolución en EDI aeropuerto** 25 a la mañana antes del vuelo a Ámsterdam). Empresas: Arnold Clark (local, más barato) / Enterprise / Hertz. Se agota en agosto.
+- [x] **Auto Highlands:** **RESERVADO** — Hertz (vía Rentalcars) · Ford Fiesta o similar · **USD 342.83 total (2p)** · retirar 18 ago Edimburgo · devolver 25 ago EDI aeropuerto.
 - [ ] **Decisión Sur de Italia:** Elegir entre Puglia/Bari, Calabria, Sicilia, etc. (borrador **29 oct - 8 nov**, 10 noches).
 
 ## 1 a 2 Meses Antes (Trámites y Logística)
@@ -45,6 +78,7 @@
 - [ ] **Praga (tickets/transporte):** Castillo de Praga (entradas) + app/tickets **Lítačka** (activar antes de subir) + chequear estado del funicular Petřín (obras/reapertura).
 - [ ] **Budapest (tickets):** Parlamento (tour guiado) + termas elegidas — reservar/comprar (tickets/horarios 2026).
 - [ ] **Eslovenia (tickets/slots):** Škocjan + Postojna/Predjama + Vintgar (si entran) — reservar con horario. **Si hay auto:** confirmar/comprar **e-vignette**.
+- [ ] **Alojamiento Alsacia + Selva Negra + Suiza (post-Portugal, tentativo):** Reservar **Estrasburgo (12-14 sept)** y **Colmar (14-16 sept)** al confirmar el tramo (zonas turísticas, se llenan en otoño). Tener **bien mapeadas** las opciones de **Friburgo (16-19 sept)** y **Suiza/Interlaken (19-23 sept)** para reservar apenas se cierren las noches. (ver carpetas `03_Francia/Estrasburgo`, `03_Francia/Colmar`, `05_Alemania/Friburgo`, `06_Suiza/Interlaken y alrededores`)
 - [ ] **Suiza Jungfrau (logística):** Reservar alojamiento cuando se confirmen noches; decidir pase (**Half Fare CHF 150** / **Jungfrau Pass CHF 210/3d** / tickets sueltos con −25% Eurail) y **Oeschinensee** (slot si aplica). **No comprar Swiss Travel Pass** (duplica Eurail). (ver `06_Suiza/.../transporte.md`)
 - [ ] **Portugal (tickets):** Sintra (Pena/Regaleira con hora) + Porto (Lello + Clérigos) — reservar online.
 - [ ] **Eurail (activación + reservas):** **Activar el pase ~7-8 ago** (inicio del viaje, primer day trip Londres). El Global Pass cubre Gran Bretaña, así que la ventana de 2 meses corre hasta ~7 oct y cubre UK + Ámsterdam→París + Suiza + Austria + Viena→Praga. Italia/España quedan fuera **a propósito** (más barato suelto). **Ámsterdam→París (Eurostar):** reservar cupo passholder **€22–25** apenas abra (~3 meses antes, cupo limitado) — con la ventana en agosto **conviene gastar el día de pase** acá. Railjet (Suiza→Austria, Viena→Praga): reserva **opcional** ~€3. Plan completo de los 15 días en `EURAIL.md`.

@@ -1,4 +1,4 @@
-# 🌸 Actividades en Colmar (y Route des Vins d'Alsace)
+ # 🌸 Actividades en Colmar (y Route des Vins d'Alsace)
 
 **Fechas tentativas:** 14-16 septiembre (2 noches, 3 días)
 **Categoría:** Pueblo medieval de cuento + Route des Vins + gastronomía alsaciana
@@ -17,31 +17,31 @@
 
 ## 🏘️ Casco Histórico de Colmar
 
-- [ ] **Petite Venise (Petite Venise)** ⭐ - El barrio de los curtidores y hortelanos del s. XV; canales del Lauch flanqueados por casas de colores con flores colgantes; las góndolas de barquero son el paseo más fotogénico de Alsacia (GRATIS) — mucho mejor antes de las 9am o en la golden hour; de 11am a 15h los grupos de tour tapan los canales
-- [ ] **Quai de la Poissonnerie** - El muelle de los pescadores; la fachada icónica de casas del s. XVI sobre el canal; el ángulo de foto más reproducido de Colmar (GRATIS)
-- [ ] **Maison Pfister** - La casa burguesa más bella de Colmar (1537); galería exterior pintada con retratos históricos y balcones de madera tallada en esquina; el ejemplo mejor conservado del Renacimiento alsaciano (GRATIS ver exterior)
+- [x] **Petite Venise** ⭐ - El barrio de los curtidores y hortelanos del s. XV; canales del Lauch flanqueados por casas de colores con flores colgantes; las góndolas de barquero son el paseo más fotogénico de Alsacia (GRATIS) — mucho mejor antes de las 9am o en la golden hour; de 11am a 15h los grupos de tour tapan los canales
+- [x] **Quai de la Poissonnerie** - El muelle de los pescadores; la fachada icónica de casas del s. XVI sobre el canal; el ángulo de foto más reproducido de Colmar (GRATIS)
+- [?] **Maison Pfister** - La casa burguesa más bella de Colmar (1537); galería exterior pintada con retratos históricos y balcones de madera tallada en esquina; el ejemplo mejor conservado del Renacimiento alsaciano (GRATIS ver exterior)
 - [ ] **Maison des Têtes** - La "Casa de las Cabezas" (1609); 106 cabezas esculpidas en la fachada; un detalle de humor y exuberancia arquitectónica única en Alsacia; hoy restaurante de alta gama en su interior (GRATIS ver exterior)
-- [ ] **Collégiale Saint-Martin** - La gran iglesia gótica del s. XIV en el corazón del casco viejo; interior simple pero bien conservado; campanario visible desde cualquier punto del pueblo (GRATIS)
-- [ ] **Ancien Corps de Garde** - El antiguo cuerpo de guardia del s. XVI; fachada de arcos y maderas frente a la Collégiale (GRATIS)
-- [ ] **Barrio de los Tanneurs (Quartier des Tanneurs)** - Las casas altas y estrechas de los curtidores del s. XVI con sus últimas plantas abiertas para secar los cueros; el encanto más genuino de Colmar más allá de la Petite Venise (GRATIS explorar)
-- [ ] **Barrio des Juifs** - La judería medieval de Colmar; callejuelas estrechas del s. XIII; historia de la comunidad judía en Alsacia (GRATIS explorar)
-- [ ] **Fontaine Roesselmann** - La fuente con el caballero medieval legendario de Colmar; en la Place de l'Ancienne Douane (GRATIS)
-- [ ] **Rue des Têtes + callejuelas sin nombre** - Las calles sin señalizar del casco viejo que los tours ignoran; las más fotogénicas son las perpendiculares a la Rue des Marchands (GRATIS)
+- [?] **Collégiale Saint-Martin** - La gran iglesia gótica del s. XIV en el corazón del casco viejo; interior simple pero bien conservado; campanario visible desde cualquier punto del pueblo (GRATIS)
+- [?] **Ancien Corps de Garde** - El antiguo cuerpo de guardia del s. XVI; fachada de arcos y maderas frente a la Collégiale (GRATIS)
+- [x] **Barrio de los Tanneurs (Quartier des Tanneurs)** - Las casas altas y estrechas de los curtidores del s. XVI con sus últimas plantas abiertas para secar los cueros; el encanto más genuino de Colmar más allá de la Petite Venise (GRATIS explorar)
+- [x] **Barrio des Juifs** - La judería medieval de Colmar; callejuelas estrechas del s. XIII; historia de la comunidad judía en Alsacia (GRATIS explorar)
+- [x] **Fontaine Roesselmann** - La fuente con el caballero medieval legendario de Colmar; en la Place de l'Ancienne Douane (GRATIS)
+- [x] **Rue des Têtes + callejuelas sin nombre** - Las calles sin señalizar del casco viejo que los tours ignoran; las más fotogénicas son las perpendiculares a la Rue des Marchands (GRATIS)
 
 ---
 
 ## 🏛️ Museos
 
-- [ ] **Musée Unterlinden** ⭐ - El museo más importante de Alsacia; la colección medieval más relevante de Francia; el **Retablo de Isenheim** de Matthias Grünewald (1512-1516) es una de las obras más perturbadoras y extraordinarias del arte europeo — la crucifixión que impactó a Francis Bacon y a generaciones de artistas; incluso para quien normalmente no visita museos, es una experiencia que no se olvida (**€14** adulto / **€17** con audioguía; martes cerrado) `https://www.musee-unterlinden.com/`
+- [?] **Musée Unterlinden** ⭐ - El museo más importante de Alsacia; la colección medieval más relevante de Francia; el **Retablo de Isenheim** de Matthias Grünewald (1512-1516) es una de las obras más perturbadoras y extraordinarias del arte europeo — la crucifixión que impactó a Francis Bacon y a generaciones de artistas; incluso para quien normalmente no visita museos, es una experiencia que no se olvida (**€14** adulto / **€17** con audioguía; martes cerrado) `https://www.musee-unterlinden.com/`
 - [ ] **Musée Bartholdi** - La casa natal del escultor Frédéric Auguste Bartholdi, creador de la Estatua de la Libertad; modelos originales, bocetos, historia de la construcción (**~€7** adulto) `https://www.musee-bartholdi.fr/`
 - [ ] **Musée du Jouet (Museo del Juguete)** - Colección de juguetes europeos del s. XIX-XX; más interesante de lo que parece; pequeño y bien curado (**~€5** adulto) `https://www.musee-du-jouet.com/`
-- [ ] **Musée d'Histoire Naturelle et d'Ethnographie** - El museo de historia natural regional con un jardín botánico oculto que casi nadie visita; las colecciones son secundarias pero el jardín es un secreto local (GRATIS el jardín; museo **~€3**)
+- [?] **Musée d'Histoire Naturelle et d'Ethnographie** - El museo de historia natural regional con un jardín botánico oculto que casi nadie visita; las colecciones son secundarias pero el jardín es un secreto local (GRATIS el jardín; museo **~€3**)
 
 ---
 
 ## 🛒 Mercados y Gastronomía
 
-- [ ] **Marché Couvert (Les Halles)** ⭐ - El mercado cubierto de Colmar; uno de los mejores de Alsacia; charcutería, queso munster de producción local, foie gras, vinos alsacianos, brezel fresco; almorzar de pie entre los puestos es lo más auténtico y barato de Colmar (~**€8-12** almuerzo) `https://www.marche-couvert-colmar.fr/`
+- [x] **Marché Couvert (Les Halles)** ⭐ - El mercado cubierto de Colmar; uno de los mejores de Alsacia; charcutería, queso munster de producción local, foie gras, vinos alsacianos, brezel fresco; almorzar de pie entre los puestos es lo más auténtico y barato de Colmar (~**€8-12** almuerzo) `https://www.marche-couvert-colmar.fr/`
 - [ ] **Tarte flambée / Flammekueche** - La "pizza alsaciana" de masa finísima; la versión clásica con crème fraîche, cebolla y lardons; la comida obligatoria de Colmar (~**€10-14**)
 - [ ] **Baeckeoffe** - El cassoulet de tres carnes marinadas en vino blanco con patatas; el plato de invierno/otoño de Alsacia; en winstub auténtica (~**€18-24**)
 - [ ] **Foie gras de Alsacia** - Alsacia es la capital del foie gras de pato; en cualquier charcutería del mercado cubierto o como entrante en restaurante (~**€12-18** entrante)
@@ -55,10 +55,10 @@
 
 **Cómo llegar sin coche:** El **Kut'zig Bus** (hop-on/hop-off) es la solución perfecta — opera en septiembre mar-dom, pasa cada 1h45, recorre todos los pueblos principales; reserva obligatoria online `https://www.colmar.fr/kutzig`
 
-- [ ] **Eguisheim** ⭐ - El pueblo circular medieval más bello de Francia (voto de los franceses, 2013); las calles siguen las murallas del s. IX en anillos concéntricos; casas de flores iguales por normativa; la Place des Trois Châteaux con los tres castillos arruinados en la colina (GRATIS explorar; bodegas de vino en el pueblo) — a 6km de Colmar; también accesible en bici desde Colmar
-- [ ] **Kaysersberg** ⭐ - El pueblo del Alzheimer de Albert Schweitzer (Premio Nobel de la Paz, nacido aquí); puente fortificado medieval sobre el río con casas del s. XVI colgando sobre el agua; castle en ruinas accesible a pie sobre el pueblo; el más "literario" de los pueblos alsacianos (GRATIS explorar; bodegas abiertas)
+- [x] **Eguisheim** ⭐ - El pueblo circular medieval más bello de Francia (voto de los franceses, 2013); las calles siguen las murallas del s. IX en anillos concéntricos; casas de flores iguales por normativa; la Place des Trois Châteaux con los tres castillos arruinados en la colina (GRATIS explorar; bodegas de vino en el pueblo) — a 6km de Colmar; también accesible en bici desde Colmar
+- [x] **Kaysersberg** ⭐ - El pueblo del Alzheimer de Albert Schweitzer (Premio Nobel de la Paz, nacido aquí); puente fortificado medieval sobre el río con casas del s. XVI colgando sobre el agua; castle en ruinas accesible a pie sobre el pueblo; el más "literario" de los pueblos alsacianos (GRATIS explorar; bodegas abiertas)
 - [ ] **Riquewihr** - El pueblo más fotografiado de Alsacia; totalmente amurallado, sin coches, con casas del s. XVI idénticas a como eran; el más turístico y también el más "postcard-perfect" (GRATIS explorar) — "si buscás la imagen de cuento de hadas perfecta, Riquewihr; si buscás autenticidad, preferí Eguisheim o Kaysersberg" (consenso Reddit)
-- [ ] **Turckheim** - El pequeño pueblo de los criaos nocturnos (el último veilleur de nuit de Alsacia hace su ronda en julio-agosto con antorcha y alabarda); menos conocido, más auténtico que Riquewihr (GRATIS explorar)
+- [?] **Turckheim** - El pequeño pueblo de los criaos nocturnos (el último veilleur de nuit de Alsacia hace su ronda en julio-agosto con antorcha y alabarda); menos conocido, más auténtico que Riquewihr (GRATIS explorar)
 - [ ] **Ribeauvillé** - El pueblo más al norte del recorrido en el Kut'zig; con su castillo al fondo, bodegas centenarias y el festival de los minnesingers en septiembre (verificar fechas) (GRATIS explorar)
 - [ ] **Château du Haut-Koenigsbourg** ⭐ - El castillo imperial del s. XII reconstruido por el Kaiser Guillermo II en 1901-1908; el mejor conservado de Alsacia y de los más visitados de Francia; vistas sobre la llanura del Rin hasta la Selva Negra en días claros (**€12** adulto; audiotour +**€4**) — requiere desvío específico; combinarlo con 1 pueblo del Kut'zig `https://www.haut-koenigsbourg.fr/`
 

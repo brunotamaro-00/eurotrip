@@ -79,7 +79,7 @@
 **🛍️ Comprar allá si hace falta (octubre-noviembre):** bufanda, gorro, guantes
 
 ### Ropa Interior
-- [ ] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
+- [x] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
   - *Icebreaker Anatomica (merino) · ExOfficio Give-N-Go · Saxx Kinetic*
 - [ ] 5-6 pares de calcetines: 3 finos de ciudad + 2-3 con acolchado para trekking
   - *Darn Tough (garantía de por vida) · Smartwool PhD · Icebreaker Hike*
@@ -88,7 +88,7 @@
 
 ### Calzado
 - [ ] 1 par **zapatillas deportivas con buena suela** — trekking y caminatas largas (se usan puestas en el avión)
-  - *Salomon X-Adventure · Merrell Moab Speed · On Cloudventure · Hoka Anacapa*
+  - *Salomon X-Adventure (o XT-6 EXPANSE) · Merrell Moab Speed · On Cloudventure · Hoka Anacapa*
 - [ ] 1 par **zapatilla de cuero o sneaker casual** — presentable para cenar y ciudad, cómoda para caminar
   - *Veja Campo (muy popular en Europa) · Adidas Stan Smith · Clarks Wallabee · Blundstone 063 (si querés tobillera)*
 

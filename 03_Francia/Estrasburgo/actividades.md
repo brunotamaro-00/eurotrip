@@ -8,36 +8,23 @@
 
 ---
 
-## ⚠️ Precio Verificados y Estado (2026)
-
-- **Plataforma Catedral (vistas 330 escalones):** **€8** normal / **€5** reducido `https://www.strasbourg.eu/lieu/-/entity/id/686030/plateforme-de-la-cathedrale-de-strasbourg`
-- **Reloj Astronómico (show 12:30h):** **€3** adulto — llegar antes de 11:30h; película histórica a las 12h; el show empieza 12:30h (excepto domingos)
-- **Batorama (barco por canales):** Short (Petite France) **€12.50** / Long (ciudad entera) **€16.20** (reducidos €7.20 / €8.90) `https://www.batorama.com/en/open-ticket`
-- **Parlamento Europeo:** GRATIS — requiere documento físico (DNI/pasaporte); no dejan entrar con equipaje grande `https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-outside-plenary-session`
-- **Museos Palais Rohan (3 museos):** **€7.50** adulto cada uno; gratis 1er domingo del mes `https://en.musees.strasbourg.eu/`
-- **Museo Alsaciano:** CERRADO por obras hasta junio 2028 `https://en.musees.strasbourg.eu/practical-informations-alsatian-museum`
-- **Strasbourg City Card (7 días, descuentos):** **€5** adulto online `https://shop.visitstrasbourg.fr/visite/strasbourg-city-card/`
-
----
-
 ## ⛪ Catedral Notre-Dame y Casco Histórico
 
-- [ ] **Catedral Notre-Dame de Strasbourg** ⭐ - La segunda catedral más visitada de Francia; fachada de arenisca roja del s. XIII con esculturas góticas de una densidad extraordinaria; una de las siete maravillas del mundo medieval según Víctor Hugo; interior con vitrales del s. XII-XIV (GRATIS interior) — la plataforma exterior son 330 escalones con vistas sobre los tejados de Alsacia (**€8** adulto) `https://www.cathedrale-strasbourg.fr/`
-- [ ] **Reloj Astronómico de la Catedral** - El reloj de 1838 que mide el tiempo astronómico, la precesión de los equinoccios y la posición de los planetas; el show de figuras mecánicas (los 12 Apóstoles y la Muerte) dura ~15min (**€3** adulto) — llegar antes de las 11:30h para asegurar lugar; película introductoria a las 12h; show comienza a las 12:30h exactas (no domingos)
-- [ ] **Grande Île (Isla Grande, UNESCO)** - El centro histórico de Estrasburgo completo; callejuelas medievales adoquinadas, plazas, edificios con entramado de madera del s. XV-XVII; caminar sin mapa es la actividad (GRATIS)
-- [ ] **Petite France** ⭐ - El barrio de los curtidores, pescadores y molineros del s. XVI; casas de entramado de madera con flores colgantes reflejadas en los canales del Ill; el spot más fotogénico de Alsacia (GRATIS) — mucho mejor temprano (antes de las 9am) o al atardecer; de 11am a 15h hay grupos de tour que dificultan las fotos
-- [ ] **Barrage Vauban + Ponts Couverts** - La terraza gratuita sobre la esclusa de Vauban con las mejores vistas de los tres Torres Medievales y Petite France reflejada en el agua (GRATIS) — la vista más icónica de Estrasburgo; se llega a pie desde Petite France en 5min
-- [ ] **Place Kléber** - La plaza central de Estrasburgo; siempre animada; el corazón social de la ciudad (GRATIS)
+- [x] **Catedral Notre-Dame de Strasbourg** ⭐ - La segunda catedral más visitada de Francia; fachada de arenisca roja del s. XIII con esculturas góticas de una densidad extraordinaria; una de las siete maravillas del mundo medieval según Víctor Hugo; interior con vitrales del s. XII-XIV (GRATIS interior) — la plataforma exterior son 330 escalones con vistas sobre los tejados de Alsacia (**€8** adulto) `https://www.cathedrale-strasbourg.fr/`
+- [ ] **Reloj Astronómico de la Catedral** - El reloj de 1838 que mide el tiempo astronómico, la precesión de los equinoccios y la posición de los planetas; el show de figuras mecánicas (los 12 Apóstoles y la Muerte) dura ~15min (**€3** adulto) — llegar antes de las 11:30h para asegurar lugar; película introductoria a las 12h; show comienza a las 12:30h exactas (no domingos). El sabado no llegamos y el lunes seguro salimosm temprano a Colmar asi que dificil...
+- [x] **Grande Île (Isla Grande, UNESCO)** - El centro histórico de Estrasburgo completo; callejuelas medievales adoquinadas, plazas, edificios con entramado de madera del s. XV-XVII; caminar sin mapa es la actividad (GRATIS)
+- [x] **Petite France** ⭐ - El barrio de los curtidores, pescadores y molineros del s. XVI; casas de entramado de madera con flores colgantes reflejadas en los canales del Ill; el spot más fotogénico de Alsacia (GRATIS) — mucho mejor temprano (antes de las 9am) o al atardecer; de 11am a 15h hay grupos de tour que dificultan las fotos
+- [x] **Barrage Vauban + Ponts Couverts** - La terraza gratuita sobre la esclusa de Vauban con las mejores vistas de los tres Torres Medievales y Petite France reflejada en el agua (GRATIS) — la vista más icónica de Estrasburgo; se llega a pie desde Petite France en 5min
+- [x] **Place Kléber** - La plaza central de Estrasburgo; siempre animada; el corazón social de la ciudad (GRATIS)
 - [ ] **Place Gutenberg** - La plaza dedicada al inventor de la imprenta moderna (nacido en Estrasburgo); estatua de Gutenberg y fachadas del s. XVI (GRATIS)
-- [ ] **Quai de la Poissonnerie** - El muelle de los pescadores; fachadas coloridas del s. XVI sobre el canal; el ángulo más fotogénico de la Petite France desde el agua (GRATIS)
 
 ---
 
 ## 🏛️ Museos
 
-- [ ] **Palais Rohan — 3 museos** - El palacio episcopal del s. XVIII alberga tres colecciones: Museo de Artes Decorativas (porcelana de Hannong, habitaciones del obispo intactas), Museo de Bellas Artes (Rubens, Raphael, El Greco, Goya), Museo Arqueológico (prehistoria y colección romana de Alsacia) (**€7.50** cada museo / gratis 1er domingo del mes) `https://en.musees.strasbourg.eu/`
+- [?] **Palais Rohan — 3 museos** - El palacio episcopal del s. XVIII alberga tres colecciones: Museo de Artes Decorativas (porcelana de Hannong, habitaciones del obispo intactas), Museo de Bellas Artes (Rubens, Raphael, El Greco, Goya), Museo Arqueológico (prehistoria y colección romana de Alsacia) (**€7.50** cada museo / gratis 1er domingo del mes) `https://en.musees.strasbourg.eu/`
 - [ ] **MAMCS — Musée d'Art Moderne et Contemporain** - El museo de arte moderno de Estrasburgo en un edificio espectacular de 1998 junto al río; colección desde 1870 hasta hoy; café con terraza sobre el agua (**€7.50** adulto) `https://en.musees.strasbourg.eu/museum-of-modern-and-contemporary-art`
-- [ ] **Château Vodou** - El museo privado y caritativo con la mayor colección de objetos de vodou africano occidental del mundo; en el barrio Krutenau; genuinamente sorprendente y diferente a todo (`https://www.chateauvodou.com/`)
+- [?] **Château Vodou** - El museo privado y caritativo con la mayor colección de objetos de vodou africano occidental del mundo; en el barrio Krutenau; genuinamente sorprendente y diferente a todo (`https://www.chateauvodou.com/`)
 - [ ] **Musée de l'Œuvre Notre-Dame** - La colección original de esculturas de la catedral (algunas reemplazadas por copias en la fachada); vitrales del s. XI-XIV; joya del arte medieval (**€7.50** adulto) `https://en.musees.strasbourg.eu/museum-of-the-work-of-notre-dame`
 - [ ] **Fort Poligone** - Fuerte militar del s. XIX en el extrarradio de Estrasburgo; voluntarios ofrecen tours completos de 2.5h todos los **jueves y sábados** (GRATIS o donación) — llegar en bus 73 desde el centro; un secreto auténtico de la ciudad
 
@@ -45,32 +32,32 @@
 
 ## 🏛️ Barrios y Zonas
 
-- [ ] **Barrio Krutenau** - El barrio estudiantil y alternativo de Estrasburgo; cafés bohemios, bares de barrio, galerías independientes; la versión "local" de la ciudad que los guías turísticos no muestran (GRATIS explorar) — mejor para tapas, copas y cenar fuera del circuito turístico
-- [ ] **Neustadt (Barrio Imperial / "La Nueva Ciudad")** - El barrio construido por el Imperio Alemán después de la anexión de 1871; arquitectura wilhelminiana imponente totalmente diferente al casco medieval; Patrimonio UNESCO desde 2017; la ruta de los grandes bulevares (GRATIS explorar)
-- [ ] **Barrio Europeo** - Las instituciones de la UE concentradas al norte de la ciudad; el Parlamento Europeo, el Consejo de Europa, el Tribunal Europeo de Derechos Humanos; arquitectura contemporánea junto al Parque de la Orangerie (GRATIS ver exterior)
-- [ ] **Quai des Bateliers** - La orilla del río en la zona de bares y vida nocturna; terrazas sobre el agua en verano/otoño (GRATIS explorar)
+- [x] **Barrio Krutenau** - El barrio estudiantil y alternativo de Estrasburgo; cafés bohemios, bares de barrio, galerías independientes; la versión "local" de la ciudad que los guías turísticos no muestran (GRATIS explorar) — mejor para tapas, copas y cenar fuera del circuito turístico
+- [x] **Neustadt (Barrio Imperial / "La Nueva Ciudad")** - El barrio construido por el Imperio Alemán después de la anexión de 1871; arquitectura wilhelminiana imponente totalmente diferente al casco medieval; Patrimonio UNESCO desde 2017; la ruta de los grandes bulevares (GRATIS explorar)
+- [?] **Barrio Europeo** - Las instituciones de la UE concentradas al norte de la ciudad; el Parlamento Europeo, el Consejo de Europa, el Tribunal Europeo de Derechos Humanos; arquitectura contemporánea junto al Parque de la Orangerie (GRATIS ver exterior)
+- [?] **Quai des Bateliers** - La orilla del río en la zona de bares y vida nocturna; terrazas sobre el agua en verano/otoño (GRATIS explorar)
 
 ---
 
 ## 🌳 Parques
 
-- [ ] **Parc de l'Orangerie** - El parque más grande de Estrasburgo; a pasos del Parlamento Europeo; lago con barcas, zoológico pequeño (gratis los jueves), rosaleda, el quiosco de música más antiguo de Alsacia (GRATIS) — el pulmón verde de la ciudad
+- [?] **Parc de l'Orangerie** - El parque más grande de Estrasburgo; a pasos del Parlamento Europeo; lago con barcas, zoológico pequeño (gratis los jueves), rosaleda, el quiosco de música más antiguo de Alsacia (GRATIS) — el pulmón verde de la ciudad
 - [ ] **Jardin des Deux Rives** - El parque binacional que cruza el Rin hacia Alemania; cruzar el puente pasarela a pie a Kehl es una experiencia curiosa (GRATIS)
 
 ---
 
 ## 🚢 Canales y Transporte
 
-- [ ] **Batorama — barco por los canales** - Recorrido por el Ill y los canales de Estrasburgo; la versión "desde el agua" de la Grande Île y Petite France; ideal si hay cansancio de caminar — Short (Petite France) **€12.50** / Long (ciudad entera, recomendado) **€16.20** `https://www.batorama.com/`
-- [ ] **Tranvía histórico (Tram A-F)** - La red de tranvías de Estrasburgo es considerada la mejor de Francia; usarla para llegar al Parlamento Europeo o al barrio Europeo (~**€1.80** billete)
+- [?] **Batorama — barco por los canales** - Recorrido por el Ill y los canales de Estrasburgo; la versión "desde el agua" de la Grande Île y Petite France; ideal si hay cansancio de caminar — Short (Petite France) **€12.50** / Long (ciudad entera, recomendado) **€16.20** `https://www.batorama.com/`
+- [?] **Tranvía histórico (Tram A-F)** - La red de tranvías de Estrasburgo es considerada la mejor de Francia; usarla para llegar al Parlamento Europeo o al barrio Europeo (~**€1.80** billete)
 
 ---
 
 ## 🏛️ Instituciones Europeas
 
-- [ ] **Parlamento Europeo** - El hemiciclo donde los 705 diputados europeos debaten; visita guiada de ~60min incluyendo el hemiciclo, la historia de la UE y las exposiciones permanentes (GRATIS) — reservar online con anticipación; llevar DNI/pasaporte físico; no dejan bolsas grandes ni mochilas `https://visiting.europarl.europa.eu/`
-- [ ] **Consejo de Europa** - El edificio del organismo de derechos humanos (distinto a la UE); arquitectura de los años 50 junto al Parlamento (GRATIS ver exterior)
-- [ ] **Palais des Droits de l'Homme** - El edificio del Tribunal Europeo de Derechos Humanos de Richard Rogers; arquitectura contemporánea esférica (GRATIS ver exterior)
+- [?] **Parlamento Europeo** - El hemiciclo donde los 705 diputados europeos debaten; visita guiada de ~60min incluyendo el hemiciclo, la historia de la UE y las exposiciones permanentes (GRATIS) — reservar online con anticipación; llevar DNI/pasaporte físico; no dejan bolsas grandes ni mochilas `https://visiting.europarl.europa.eu/`
+- [?] **Consejo de Europa** - El edificio del organismo de derechos humanos (distinto a la UE); arquitectura de los años 50 junto al Parlamento (GRATIS ver exterior)
+- [?] **Palais des Droits de l'Homme** - El edificio del Tribunal Europeo de Derechos Humanos de Richard Rogers; arquitectura contemporánea esférica (GRATIS ver exterior)
 
 ---
 
@@ -190,3 +177,15 @@
 - **Strasbourg City Card:** **€5** adulto (7 días de descuentos) `https://shop.visitstrasbourg.fr/`
 - **Tranvía:** ~**€1.80** billete / ~**€5** day pass
 - **Museo Alsaciano:** CERRADO hasta junio 2028
+
+---
+
+## ⚠️ Precio Verificados y Estado (2026)
+
+- **Plataforma Catedral (vistas 330 escalones):** **€8** normal / **€5** reducido `https://www.strasbourg.eu/lieu/-/entity/id/686030/plateforme-de-la-cathedrale-de-strasbourg`
+- **Reloj Astronómico (show 12:30h):** **€3** adulto — llegar antes de 11:30h; película histórica a las 12h; el show empieza 12:30h (excepto domingos)
+- **Batorama (barco por canales):** Short (Petite France) **€12.50** / Long (ciudad entera) **€16.20** (reducidos €7.20 / €8.90) `https://www.batorama.com/en/open-ticket`
+- **Parlamento Europeo:** GRATIS — requiere documento físico (DNI/pasaporte); no dejan entrar con equipaje grande `https://visiting.europarl.europa.eu/en/visitor-offer/strasbourg/hemicycle-outside-plenary-session`
+- **Museos Palais Rohan (3 museos):** **€7.50** adulto cada uno; gratis 1er domingo del mes `https://en.musees.strasbourg.eu/`
+- **Museo Alsaciano:** CERRADO por obras hasta junio 2028 `https://en.musees.strasbourg.eu/practical-informations-alsatian-museum`
+- **Strasbourg City Card (7 días, descuentos):** **€5** adulto online `https://shop.visitstrasbourg.fr/visite/strasbourg-city-card/`

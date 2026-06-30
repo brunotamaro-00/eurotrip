@@ -1,7 +1,7 @@
 # 🌷 Actividades en Ámsterdam
 
 **Fechas:** 25-29 agosto (4 noches, 5 días — martes a sábado)  
-**Hospedaje:** ClinkMama, Warmoesstraat — en el corazón del Red Light District / Centrum  
+**Hospedaje:** ClinkMama, Valkenburgerstraat 124, 1011 NA Amsterdam, Países Bajos 
 **Categoría:** Ciudad de canales + nightlife + cultura  
 **Price Level:** $$$  
 **Temperatura agosto:** 14-22°C (llevar siempre chaqueta ligera — llueve sin aviso)  
@@ -33,30 +33,8 @@
 - [ ] **Hortus Botanicus** - Jardín botánico desde 1638, uno de los más antiguos del mundo; mariposas tropicales en el invernadero; muy tranquilo (**€14.75 adulto**) `https://www.dehortus.nl/`
 - [ ] **Red Light Secrets (Museum of Prostitution)** - Museo dentro de una antigua vitrina del RLD; historia, contexto social y exhibiciones interactivas sobre el trabajo sexual en Ámsterdam (**~€15 adulto** standalone; **€22** combo con Hash Museum) `https://redlightsecrets.com/`
 - [ ] **Hash, Marihuana & Hemp Museum** - Historia del cannabis y el cáñamo en el mundo; colección en pleno De Wallen (**€9 adulto** / **€22** combo con Red Light Secrets) — pequeño pero bien curado; el **combo €22 con Red Light Secrets** es buen valor si se visitan los dos el mismo día `https://hashmuseum.com/`
-- [?] **Amsterdam Museum** - Historia de la ciudad desde la Edad Media hasta hoy; recomendado como **primer día** para entender el contexto de todo; consultar estado 2026 (estuvo en sede provisional) (**~€17 adulto**) `https://www.amsterdammuseum.nl/`
+- [?] **Amsterdam Museum** - Historia de la ciudad desde la Edad Media hasta hoy; recomendado como **primer día** para entender el contexto de todo (a Alan le gustó mucho hacerlo el primer día); no es de reserva obligatoria, pero en agosto conviene sacar slot con días para evitar fila; consultar estado 2026 (estuvo en sede provisional) (**~€17 adulto**) — ⚠️ **ojo con la repetición:** free walking tour + canal cruise + Amsterdam Museum cubren los tres lo mismo (historia de la ciudad y de los canales); **no encadenar los tres el mismo día** ni asumir que suman, elegir 1-2 `https://www.amsterdammuseum.nl/`
 - [ ] **Moco Museum** - Arte moderno (Banksy, Dali, obras de colección privada); muy fotogénico e instagrameable; en la misma zona que Rijksmuseum (**~€22 adulto**) `https://mocomuseum.com/`
-
----
-
-## 🎫 I Amsterdam City Card — ¿Vale la pena?
-
-**Precios 2026:** 24h €67 / 48h ~€90 / 72h €115 / 96h ~€130
-
-**El problema:** Anne Frank (**NO incluida**) y Van Gogh (**NO incluido** desde 2022) son los dos museos más caros del viaje. Solo incluye Rijksmuseum de los grandes.
-
-**Cálculo real para el perfil de este viaje:**
-| Qué usaríamos | Precio individual |
-|---|---|
-| Rijksmuseum | ~€22.50 |
-| Amsterdam Museum | ~€17 |
-| Hortus Botanicus | €14.75 |
-| Canal cruise (incluida) | ~€17.50 |
-| Bici 24h (incluida) | ~€17.50 |
-| **TOTAL** | **~€89** |
-
-La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo rendiría si se visitan 4+ museos adicionales por día.
-
-**Recomendación: entradas individuales + bici aparte.**
 
 ---
 
@@ -72,7 +50,7 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 - [?] **Canal cruise clásico 1h** - Recorrido por los canales históricos con audioguía; la perspectiva desde el agua de las casas de gábletes del s. XVII es completamente diferente a la de la bici (**desde €17.50 online / €20 en taquilla**) — el atardecer es el mejor horario; reservar online para ese slot `https://www.stromma.com/en-nl/amsterdam/`
 - [ ] **Ruta Singel → Herengracht → Jordaan** - Canales con las casas más señoriales; en bici es la ruta más bella de la ciudad; el Herengracht en el "Gouden Bocht" (curva dorada) es lo más elegante (GRATIS)
 - [ ] **Ruta Keizersgracht → Magere Brug (Puente Delgado)** - Puente levadizo de madera sobre el Amstel; se ilumina de noche con bombillas amarillas; una de las imágenes más icónicas de Ámsterdam (GRATIS)
-- [ ] **Ferry a Noord (NDSM)** - Ferry gratuito desde Centraal Station que cruza el IJ; 15min; vista del skyline de Ámsterdam desde el agua (GRATIS) `https://gvb.nl/`
+- [ ] **Ferry a Noord (NDSM)** - Ferry gratuito desde Centraal Station que cruza el IJ; 15min; vista del skyline de Ámsterdam desde el agua (GRATIS) — a Martu le gustó usarlo como "mini paseo" gratis por el agua, alternativa barata al canal cruise `https://gvb.nl/`
 
 ---
 
@@ -236,12 +214,15 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 ## 🆓 Cosas Gratis
 - [ ] **OBA (Biblioteca Central)** — Terraza en el piso 7 con vistas panorámicas; café y sillas; nadie lo sabe (GRATIS) `https://www.oba.nl/`
 - [ ] **Terraza NEMO** — Techo del museo de ciencias con vistas al puerto (GRATIS en verano, sin entrar al museo)
-- [ ] **Ferry al Noord** — Cruzar el IJ en ferry desde detrás de Centraal Station; vistas del skyline desde el agua (GRATIS)
+- [?] **Ferry al Noord** — Cruzar el IJ en ferry desde detrás de Centraal Station; vistas del skyline desde el agua (GRATIS)
 - [ ] **Begijnhof** — Patio medieval en pleno centro con casas del s. XIV y capilla; silencio absoluto a metros del caos turístico; entrada por Gedempte Begijnensloot (GRATIS)
-- [ ] **Canales en bici** — Recorrer los anillos de canales en bici es literalmente la mejor actividad de la ciudad; gratis con la bici alquilada
+- [?] **Nieuwmarkt** — Plaza histórica con ambiente medieval (la Waag, casa de pesaje del s. XV, en el centro); rodeada de cafés y terrazas con mucha vida; buen punto de pausa entre el RLD y el barrio judío (GRATIS)
+- [ ] **Beurspassage** — Pasaje peatonal corto entre Damrak y Nieuwendijk con techo, mosaicos y lámparas de estética marítima/acuática muy lindos; curiosidad visual de paso si se anda por la zona comercial central (GRATIS)
+- [ ] **Houses of the Seven Countries** — Hilera de 7 casas (Roemer Visscherstraat, cerca del Vondelpark) construidas en estilos arquitectónicos de distintos países europeos; curiosidad de 5 min más que atracción (GRATIS)
+- [x] **Canales en bici** — Recorrer los anillos de canales en bici es literalmente la mejor actividad de la ciudad; gratis con la bici alquilada
 - [ ] **NDSM Street Art** — Arte urbano en los galpones del astillero reconvertido; llegar en ferry GRATIS
-- [ ] **Tiendas de queso Jordaan** — Probar sin obligación de comprar (GRATIS)
-- [ ] **Sarphatipark (De Pijp)** — Parque pequeño e íntimo, local, sin turistas; picnic (GRATIS)
+- [x] **Tiendas de queso Jordaan** — Probar sin obligación de comprar (GRATIS)
+- [?] **Sarphatipark (De Pijp)** — Parque pequeño e íntimo, local, sin turistas; picnic (GRATIS)
 
 ---
 
@@ -255,11 +236,13 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 6. **Café 't Smalle desde el canal** — La terraza sobre el canal en Jordaan; luz de tarde
 7. **Centraal Station desde el IJ** — Vista del ferry de vuelta desde el norte
 8. **Begijnhof interior** — El patio silencioso rodeado de casas medievales; primera hora de la mañana sin nadie
+9. **Casas inclinadas del Damrak** — La hilera de casas de canal coloridas y torcidas sobre el agua del Damrak (entre Centraal y Dam Square); la postal clásica de las "dancing houses"; mejor de mañana con luz frontal
 
 ---
 
 ## 🎉 Eventos: 25-29 agosto 2026
 
+- [ ] **Uitmarkt (~28-30 ago)** ⭐ — El festival cultural más grande de los Países Bajos y la **apertura oficial de la temporada cultural** (*De Opening van het culturele seizoen*); último fin de semana de agosto, con música, teatro, danza, exhibiciones, talleres y actividades **gratuitas** repartidas por la ciudad (suele concentrarse en **Museumplein / Leidseplein**); sin reserva — mirar el cronograma el momento y acercarse a lo que interese; **coincide con el final de la estadía** `https://www.uitmarkt.nl/`
 - [ ] **Pluk de Nacht Film Festival (hasta 29 ago)** — Cine al aire libre gratuito, Het Stenen Hoofd, 19:00-00:00; verificar programa 2026 `https://www.pluknacht.nl/`
 - [ ] **Wooferland Festival (~28 ago)** — Festival de música electrónica oldschool (house, trance, techno), Deelplan Houtrak, +18; verificar fechas exactas 2026
 - [ ] **ZeeZout Festival (~28 ago)** — Electrónica al aire libre; verificar fechas 2026
@@ -274,7 +257,7 @@ La City Card de 48h cuesta ~€90 por ~€89 de valor — **no cierra**. Solo re
 
 **Estadía:** mar 25 – sáb 29 ago (4 noches)
 
-- **Eventos:** Pluk de Nacht (cine gratis al aire libre) hasta el 29 ago; festivales electrónicos el vie 28 (Wooferland/ZeeZout — verificar línea y fechas exactas); ver sección Eventos arriba
+- **Eventos:** **Uitmarkt (~28-30 ago)** — apertura de la temporada cultural, gratis, en Museumplein/Leidseplein, justo al cierre de la estadía; Pluk de Nacht (cine gratis al aire libre) hasta el 29 ago; festivales electrónicos el vie 28 (Wooferland/ZeeZout — verificar línea y fechas exactas); ver sección Eventos arriba
 - **Feriados:** ninguno en Países Bajos esas fechas
 - **Cierres por día de semana:** los museos grandes abren a diario; Anne Frank abre todos los días (horario extendido en verano)
 - **Solo esos días:** Noordermarkt e IJ-Hallen caen el **sáb 29** (día de salida — solo de mañana); Albert Cuypmarkt lun-sáb

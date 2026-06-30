@@ -20,14 +20,14 @@
 
 ## 🏛️ Monumentos Icónicos
 
-- [ ] **Torre Eiffel** - El símbolo de París; subir al 2° piso (vistas completas) o a la cima; de noche destella 5 min al inicio de cada hora en punto (desde las 21h hasta la medianoche) — escaleras al 2° piso **€14.80** / ascensor al 2° piso **€23.50** / cima (ascensor) **€36.70** adulto — reservar slot online; mejor al atardecer; el destello se ve gratis desde Trocadéro o Champ de Mars `https://ticket.toureiffel.paris/`
-- [ ] **Sainte-Chapelle** ⭐ - La capilla gótica del s. XIII con los vitrales más extraordinarios de Europa; 1.113 paneles de vidrio de 15m de alto; unánime en foros como "el interior más impresionante de París, más que Notre-Dame" (**€22** adulto non-EU desde enero 2026) — reservar online; ir entre 10:30-14:30 con sol; combo con Conciergerie disponible (**€30** non-EU) `https://www.sainte-chapelle.fr/`
-- [ ] **Notre-Dame** - Reabrió diciembre 2024 tras la restauración post-incendio 2019; nave interior reconstruida; ingreso gratuito pero aforo controlado (GRATIS exterior e interior) — madrugar antes de las 9:30am para entrar sin espera larga; el exterior de noche con iluminación es espectacular `https://www.notredamedeparis.fr/`
-- [ ] **Arco del Triunfo** - Vista 360° de los 12 bulevares que irradian hacia el exterior y los Champs-Élysées; mejor al atardecer con las luces encendiendo (**€22** adulto non-EU) `https://www.paris-arc-de-triomphe.fr/`
-- [ ] **Sacré-Cœur** - La basílica blanca en lo alto de Montmartre; mejores vistas de París desde la explanada; cúpula interior visitable (GRATIS exterior; cúpula **~€7**) — subir por Rue Lepic (la calle de Van Gogh) o calles traseras para la experiencia real del barrio; funicular incluido en ticket t+ del metro `https://www.sacre-coeur-montmartre.com/`
-- [ ] **Conciergerie** - La prisión medieval isleña donde esperó María Antonieta antes de la guillotina; a metros de Sainte-Chapelle; celdas reconstruidas y corte revolucionaria (**€13** adulto non-EU / **€30** combo con Sainte-Chapelle) `https://www.paris-conciergerie.fr/`
-- [ ] **Panthéon** - Cripta neoclásica donde reposan Victor Hugo, Marie Curie, Voltaire, Rousseau, Dumas y Alexandre Dumas hijo; péndulo de Foucault original balanceándose en la nave (**€16** adulto non-EU) `https://www.paris-pantheon.fr/`
-- [ ] **Palais Royal (jardines)** - Patio interior del s. XVIII a 200 metros del Louvre; galerías de pórticos, tiendas de antigüedades, los famosos discos rayados de Buren en el suelo; completamente desconocido para la mayoría de turistas (GRATIS) — "el secreto mejor guardado del centro" según múltiples hilos de r/paris
+- [x] **Torre Eiffel** - El símbolo de París; subir al 2° piso (vistas completas) o a la cima; de noche destella 5 min al inicio de cada hora en punto (desde las 21h hasta la medianoche) — escaleras al 2° piso **€14.80** / ascensor al 2° piso **€23.50** / cima (ascensor) **€36.70** adulto — reservar slot online; mejor al atardecer; el destello se ve gratis desde Trocadéro o Champ de Mars `https://ticket.toureiffel.paris/`
+- [x] **Sainte-Chapelle** ⭐ - La capilla gótica del s. XIII con los vitrales más extraordinarios de Europa; 1.113 paneles de vidrio de 15m de alto; unánime en foros como "el interior más impresionante de París, más que Notre-Dame" (**€22** adulto non-EU desde enero 2026) — reservar online; ir entre 10:30-14:30 con sol; combo con Conciergerie disponible (**€30** non-EU) `https://www.sainte-chapelle.fr/`
+- [x] **Notre-Dame** - Reabrió diciembre 2024 tras la restauración post-incendio 2019; nave interior reconstruida; ingreso gratuito pero aforo controlado (GRATIS exterior e interior) — madrugar antes de las 9:30am para entrar sin espera larga; el exterior de noche con iluminación es espectacular `https://www.notredamedeparis.fr/`
+- [x] **Arco del Triunfo** - Vista 360° de los 12 bulevares que irradian hacia el exterior y los Champs-Élysées; mejor al atardecer con las luces encendiendo (**€22** adulto non-EU) `https://www.paris-arc-de-triomphe.fr/`
+- [x] **Sacré-Cœur** - La basílica blanca en lo alto de Montmartre; mejores vistas de París desde la explanada; cúpula interior visitable (GRATIS exterior; cúpula **~€7**) — subir por Rue Lepic (la calle de Van Gogh) o calles traseras para la experiencia real del barrio; funicular incluido en ticket t+ del metro `https://www.sacre-coeur-montmartre.com/`
+- [?] **Conciergerie** - La prisión medieval isleña donde esperó María Antonieta antes de la guillotina; a metros de Sainte-Chapelle; celdas reconstruidas y corte revolucionaria (**€13** adulto non-EU / **€30** combo con Sainte-Chapelle) `https://www.paris-conciergerie.fr/`
+- [x] **Panthéon** - Cripta neoclásica donde reposan Victor Hugo, Marie Curie, Voltaire, Rousseau, Dumas y Alexandre Dumas hijo; péndulo de Foucault original balanceándose en la nave (**€16** adulto non-EU) `https://www.paris-pantheon.fr/`
+- [?] **Palais Royal (jardines)** - Patio interior del s. XVIII a 200 metros del Louvre; galerías de pórticos, tiendas de antigüedades, los famosos discos rayados de Buren en el suelo; completamente desconocido para la mayoría de turistas (GRATIS) — "el secreto mejor guardado del centro" según múltiples hilos de r/paris
 - [ ] **Tour Montparnasse** - La única torre de oficinas en el centro de París; las mejores vistas aéreas de la ciudad incluyendo la Torre Eiffel de frente (**~€20** adulto) — controversialmente fea por fuera, espectacular por dentro `https://www.tourmontparnasse56.com/`
 
 ---
@@ -35,9 +35,10 @@
 ## 🏛️ Museos
 
 - [ ] **Louvre** - El museo más visitado del mundo; Mona Lisa (pequeña y decepcionante según la mayoría, pero icónica), Victoria de Samotracia (impresionante en lo alto de las escaleras), Venus de Milo, antigüedades egipcias y grecolatinas; plan 2-3h enfocadas > 6h agotadoras (**€32** adulto non-EU desde enero 2026 +45% sobre precio anterior) — reservar slot online obligatorio; miércoles hasta 21:45 es el horario con menos gente `https://www.louvre.fr/`
-- [ ] **Catacumbas de París** - 1.5km de túneles subterráneos donde están apilados los huesos de 6 millones de parisinos; 131 escalones bajando, 112 subiendo; la experiencia más única y algo macabra del viaje (**€31** adulto con audioguía) — OBLIGATORIO reservar online; se agotan semanas antes; Mar-Dom 9:45-20:30 `https://www.catacombes.paris.fr/`
-- [ ] **Petit Palais** - Museo de bellas artes frente a los Champs-Élysées; colección de antigüedades, artes decorativas, pinturas del s. XVII-XVIII; el edificio Beaux-Arts con jardín interior cubierto es espectacular por sí solo (GRATIS) — muy poco conocido por turistas; uno de los mejores secretos del barrio 8ème `https://www.petitpalais.paris.fr/`
-- [ ] **Musée Carnavalet** - Historia de París desde la Prehistoria hasta hoy; el museo más subestimado de la ciudad; salas ambientadas con interiores originales del s. XVII-XVIII tal como estaban; colección de la Revolución Francesa sin paralelo (GRATIS) — "el museo que más me sorprendió en París; no hay nada igual para entender la ciudad" (r/paris, foros TripAdvisor) `https://www.carnavalet.paris.fr/`
+- [?] **Catacumbas de París** - 1.5km de túneles subterráneos donde están apilados los huesos de 6 millones de parisinos; 131 escalones bajando, 112 subiendo; la experiencia más única y algo macabra del viaje (**€31** adulto con audioguía) — OBLIGATORIO reservar online; se agotan semanas antes; Mar-Dom 9:45-20:30 `https://www.catacombes.paris.fr/`
+- [?] **Petit Palais** - Museo de bellas artes frente a los Champs-Élysées; colección de antigüedades, artes decorativas, pinturas del s. XVII-XVIII; el edificio Beaux-Arts con jardín interior cubierto es espectacular por sí solo (GRATIS) — muy poco conocido por turistas; uno de los mejores secretos del barrio 8ème `https://www.petitpalais.paris.fr/`
+- [x] **Musée Carnavalet** - Historia de París desde la Prehistoria hasta hoy; el museo más subestimado de la ciudad; salas ambientadas con interiores originales del s. XVII-XVIII tal como estaban; colección de la Revolución Francesa sin paralelo (GRATIS) — "el museo que más me sorprendió en París; no hay nada igual para entender la ciudad" (r/paris, foros TripAdvisor) `https://www.carnavalet.paris.fr/`
+- [x] **Musée de Cluny (Musée national du Moyen Âge)** - El gran museo medieval de París, en el Barrio Latino (5ème); famoso por la serie de tapices **"La Dama y el Unicornio"** (s. XV, los más célebres de la Edad Media), arte gótico, vitrales y esculturas; el edificio integra las **termas romanas (Thermes de Cluny) del s. I-III** y un hôtel particulier gótico del s. XV — reabrió en 2022 tras una gran renovación (**~€12** adulto; GRATIS menores 26 UE y 1er domingo de mes) — a pasos de Sainte-Chapelle y la Sorbona, combina perfecto con un día por la Île de la Cité / Quartier Latin `https://www.musee-moyenage.fr/`
 - [ ] **Musée d'Orsay** - Los impresionistas más importantes del mundo en la estación de tren más bella de Europa; Van Gogh, Monet, Renoir, Degas, Toulouse-Lautrec (**~€16** adulto) — solo para fans del impresionismo; si no, el Petit Palais cubre gratis un período similar `https://www.musee-orsay.fr/`
 - [ ] **Fondation Louis Vuitton** - El edificio de Frank Gehry más espectacular de París; colección de arte contemporáneo de alto nivel dentro; arquitectura imposible de ignorar (**~€20** adulto; incluye shuttle desde Sablons) `https://www.fondationlouisvuitton.fr/`
 - [ ] **Musée de l'Armée** - Historia militar de Francia desde la Edad Media hasta la II Guerra Mundial; la tumba de Napoleón en el interior (GRATIS para menores 26 UE; **~€15** adulto non-EU) `https://www.musee-armee.fr/`
@@ -47,27 +48,27 @@
 
 ## 🌿 Parques, Jardines y Espacios Libres
 
-- [ ] **Jardines de Luxemburgo** - El parque más lindo de París; estanque central con barquitos de madera de colores, sillas de metal al sol, fuente Médici; el picnic parisino clásico (GRATIS) — llegar con desayuno de boulangerie y quedarse 2h; entrada libre `https://www.senat.fr/visite/jardin/`
-- [ ] **Père Lachaise** - El cementerio más visitado del mundo; tumbas de Oscar Wilde (con lápiz labial de miles de visitantes), Jim Morrison, Édith Piaf, Chopin, Proust, Molière; recorrerlo es genuinamente bello y tranquilo (GRATIS) — descargar mapa de tumbas famosas antes de ir `https://www.pere-lachaise.com/`
-- [ ] **Canal Saint-Martin** - Canal con esclusas históricas, puentes de hierro cubiertos y orillas con terrazas; el plan parisino de aperitivo: vino del supermercado + queso + baguette sentado en la orilla (GRATIS) — barrio hipster del 10ème; Du Pain et des Idées está a 200m
-- [ ] **Parc de Belleville** - El mirador más ignorado de París; vista de toda la ciudad desde la colina del 20ème; casi sin turistas; mejor al atardecer (GRATIS)
-- [ ] **Promenade Plantée** - El primer parque elevado del mundo (15 años antes que el High Line de NY); 4.5km sobre las vías de un antiguo ferrocarril desde Bastille hacia el este; jardines en altura con vista sobre los tejados (GRATIS) `https://www.paris.fr/equipements/promenade-plantee-1692`
+- [x] **Jardines de Luxemburgo** - El parque más lindo de París; estanque central con barquitos de madera de colores, sillas de metal al sol, fuente Médici; el picnic parisino clásico (GRATIS) — llegar con desayuno de boulangerie y quedarse 2h; entrada libre `https://www.senat.fr/visite/jardin/`
+- [?] **Père Lachaise** - El cementerio más visitado del mundo; tumbas de Oscar Wilde (con lápiz labial de miles de visitantes), Jim Morrison, Édith Piaf, Chopin, Proust, Molière; recorrerlo es genuinamente bello y tranquilo (GRATIS) — descargar mapa de tumbas famosas antes de ir `https://www.pere-lachaise.com/`
+- [x] **Canal Saint-Martin** - Canal con esclusas históricas, puentes de hierro cubiertos y orillas con terrazas; el plan parisino de aperitivo: vino del supermercado + queso + baguette sentado en la orilla (GRATIS) — barrio hipster del 10ème; Du Pain et des Idées está a 200m
+- [x] **Parc de Belleville** - El mirador más ignorado de París; vista de toda la ciudad desde la colina del 20ème; casi sin turistas; mejor al atardecer (GRATIS)
+- [x] **Promenade Plantée** - El primer parque elevado del mundo (15 años antes que el High Line de NY); 4.5km sobre las vías de un antiguo ferrocarril desde Bastille hacia el este; jardines en altura con vista sobre los tejados (GRATIS) `https://www.paris.fr/equipements/promenade-plantee-1692`
 - [ ] **Bois de Boulogne** - El gran pulmón verde del oeste de París; lago con barcas para alquilar, jardín de Shakespeare, Fondation Louis Vuitton al borde (GRATIS entrar)
 - [ ] **Île aux Cygnes** - Isla artificial en el Sena con paseo arbolado; al extremo oeste una réplica reducida de la Estatua de la Libertad mirando hacia NY; tranquilo, sin turistas (GRATIS)
-- [ ] **Champ de Mars** - El prado verde frente a la Torre Eiffel; el lugar clásico para el destello nocturno y el picnic turístico (GRATIS) — más concurrido que los Jardines de Luxemburgo; igual de fotogénico de noche
+- [x] **Champ de Mars** - El prado verde frente a la Torre Eiffel; el lugar clásico para el destello nocturno y el picnic turístico (GRATIS) — más concurrido que los Jardines de Luxemburgo; igual de fotogénico de noche. Aunque en reddit y eso dicen que es mejor Trocadéro!
 
 ---
 
 ## 🗺️ Barrios para Explorar
 
-- [ ] **Le Marais (3ème/4ème)** - El barrio más trendy de París; calles medievales estrechas, tiendas vintage, galerías, Place des Vosges (la plaza más antigua, hermosa y con arcos para protegerse de la lluvia), barrio judío histórico (Rue des Rosiers), hoy también centro LGBTQ+ activo; Marché des Enfants Rouges dentro (GRATIS explorar)
-- [ ] **Montmartre (18ème sur)** - El barrio bohemio original; Sacré-Cœur en la cima, artistas pintando en Place du Tertre, viñedo de Montmartre, Rue de l'Abreuvoir (la calle más fotogénica de París), Rue Lepic donde vivió Van Gogh (GRATIS explorar) — ir temprano mañana o al atardecer para la experiencia sin masas
-- [ ] **Latin Quarter / Saint-Germain (5ème/6ème)** - Barrio universitario y literario; La Sorbonne, Shakespeare and Company (librería legendaria de Sylvia Beach, entrar gratis), Rue Mouffetard (mercado), cafés históricos (Café de Flore, Les Deux Magots) (GRATIS explorar)
-- [ ] **Canal Saint-Martin (10ème)** - El barrio hipster y más auténticamente cool de París; canal con esclusas, Du Pain et des Idées, tiendas de diseño independientes; pocas guías lo mencionan aún (GRATIS explorar)
-- [ ] **Oberkampf / Ménilmontant (11ème/20ème)** - La vida nocturna alternativa real; bares de todo tipo, street art, multicultural; Rue Oberkampf con bares alineados; Père Lachaise al lado (GRATIS explorar)
-- [ ] **Belleville (19ème/20ème)** - El barrio más multicultural de París; Chinatown + comunidad árabe + artistas; comida barata y auténtica (dim sum, couscous); Parc de Belleville con la mejor vista ignorada (GRATIS explorar)
-- [ ] **Île de la Cité + Île Saint-Louis** - Las dos islas del Sena; Sainte-Chapelle y Notre-Dame en la Cité; heladería Berthillon y calles del s. XVII en Saint-Louis (GRATIS explorar)
-- [ ] **Pigalle / SoPi (South Pigalle, 9ème)** - Barrio de cabarets históricos y hoy el área de bares de cocktails más chic; Moulin Rouge al borde; mezcla de sexy y elegante (GRATIS explorar)
+- [x] **Le Marais (3ème/4ème)** - El barrio más trendy de París; calles medievales estrechas, tiendas vintage, galerías, Place des Vosges (la plaza más antigua, hermosa y con arcos para protegerse de la lluvia), barrio judío histórico (Rue des Rosiers), hoy también centro LGBTQ+ activo; Marché des Enfants Rouges dentro (GRATIS explorar)
+- [x] **Montmartre (18ème sur)** - El barrio bohemio original; Sacré-Cœur en la cima, artistas pintando en Place du Tertre, viñedo de Montmartre, Rue de l'Abreuvoir (la calle más fotogénica de París), Rue Lepic donde vivió Van Gogh (GRATIS explorar) — ir temprano mañana o al atardecer para la experiencia sin masas
+- [x] **Latin Quarter / Saint-Germain (5ème/6ème)** - Barrio universitario y literario; La Sorbonne, Shakespeare and Company (librería legendaria de Sylvia Beach, entrar gratis), Rue Mouffetard (mercado), cafés históricos (Café de Flore, Les Deux Magots) (GRATIS explorar)
+- [x] **Canal Saint-Martin (10ème)** - El barrio hipster y más auténticamente cool de París; canal con esclusas, Du Pain et des Idées, tiendas de diseño independientes; pocas guías lo mencionan aún (GRATIS explorar)
+- [?] **Oberkampf / Ménilmontant (11ème/20ème)** - La vida nocturna alternativa real; bares de todo tipo, street art, multicultural; Rue Oberkampf con bares alineados; Père Lachaise al lado (GRATIS explorar)
+- [x] **Belleville (19ème/20ème)** - El barrio más multicultural de París; Chinatown + comunidad árabe + artistas; comida barata y auténtica (dim sum, couscous); Parc de Belleville con la mejor vista ignorada (GRATIS explorar)
+- [x] **Île de la Cité + Île Saint-Louis** - Las dos islas del Sena; Sainte-Chapelle y Notre-Dame en la Cité; heladería Berthillon y calles del s. XVII en Saint-Louis (GRATIS explorar)
+- [?] **Pigalle / SoPi (South Pigalle, 9ème)** - Barrio de cabarets históricos y hoy el área de bares de cocktails más chic; Moulin Rouge al borde; mezcla de sexy y elegante (GRATIS explorar)
 
 ---
 
@@ -80,8 +81,8 @@
 
 ## 🚢 Río Sena
 
-- [ ] **Crucero nocturno por el Sena** - Torre Eiffel, Notre-Dame y los puentes iluminados desde abajo; Bateaux Mouches o Vedettes du Pont Neuf (~**€15-17** adulto online) — reservar el slot de atardecer (21h en agosto = destello de la Torre Eiffel incluido en el crucero) `https://www.vedettesdupontneuf.com/`
-- [ ] **Bateaux Mouches clásico** - El más famoso; también el más turístico; 1h 15min con comentario (~**€17** adulto) `https://www.bateaux-mouches.fr/`
+- [?] **Crucero nocturno por el Sena** - Torre Eiffel, Notre-Dame y los puentes iluminados desde abajo; Bateaux Mouches o Vedettes du Pont Neuf (~**€15-17** adulto online) — reservar el slot de atardecer (21h en agosto = destello de la Torre Eiffel incluido en el crucero) `https://www.vedettesdupontneuf.com/`
+- [?] **Bateaux Mouches clásico** - El más famoso; también el más turístico; 1h 15min con comentario (~**€17** adulto) `https://www.bateaux-mouches.fr/`
 
 ---
 
@@ -271,6 +272,7 @@
 - **Sacré-Cœur (cúpula):** ~**€7** adulto; exterior y basílica GRATIS
 - **Petit Palais:** GRATIS `https://www.petitpalais.paris.fr/`
 - **Musée Carnavalet:** GRATIS `https://www.carnavalet.paris.fr/`
+- **Musée de Cluny (Moyen Âge):** ~**€12** adulto (GRATIS −26 UE y 1er domingo de mes) `https://www.musee-moyenage.fr/`
 - **Musée d'Orsay:** ~**€16** adulto `https://www.musee-orsay.fr/`
 - **Tour Montparnasse:** ~**€20** adulto `https://www.tourmontparnasse56.com/`
 - **Crucero Sena (~1h):** ~**€15-17** adulto online `https://www.vedettesdupontneuf.com/`

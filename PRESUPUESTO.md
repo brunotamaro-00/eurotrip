@@ -70,7 +70,7 @@
 | Bus/tren Praga → Cracovia (Leo Express/RegioJet, fuera del pase) | $17-28 |
 | Florencia → Roma → Nápoles (Italo, fuera del pase) | $22-45 |
 | Barcelona → Madrid (Ouigo/AVLO, fuera del pase) | $17-41 |
-| Auto Highlands (7 días, dividido en 2) | $150-220 |
+| Auto Highlands (7 días, Hertz/Rentalcars — COMPRADO USD 342.83 total, 2p) | **$171.42** |
 | Transporte local (metro, bus, etc.) | $550-850 |
 | **TOTAL TRANSPORTE** | **$2,276.5-2,760.5** |
 
@@ -113,7 +113,7 @@
 ### Portugal — Lisboa + Porto (8 noches: 4-12 sept) - 1 PERSONA
 
 **Transporte confirmado / estimado:**
-- Vuelo **París → Lisboa** (con equipaje): **$85**
+- Vuelo **París → Lisboa** (con equipaje): **$93.07 (COMPRADO — 82€)**
 - Tren **Lisboa → Porto** (CP, Alfa Pendular / Intercidades): **$12-40** (según compra/horario)
 - Vuelo **Porto → Estrasburgo** (Volotea, con equipaje): **$90 (COMPRADO)**
 - Alojamiento Lisboa: **Lisbon Destination Hostel** — pagado **130€ TOTAL** (≈ **$147.55**, $29.51/noche; 4–9 sept, 5 noches) — ✅ Reservado
@@ -124,8 +124,8 @@
 | Alojamiento (8n) — Lisboa $147.55 + Porto $110.10 | **$257.65 (real)** |
 | Comida (8d) | $200-304 |
 | Actividades | $70-130 |
-| Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$714.65-906.65** |
+| Transporte (vuelos + tren interno) | **$195-223** |
+| **Subtotal** | **$722.65-914.65** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: $274-405 (Estrasburgo 2n + Colmar 2n + Friburgo 3n)
@@ -209,16 +209,16 @@
 |-----------|----------------------------|
 | Alojamiento (real) + comida (est.) | $457.65-561.65 |
 | Actividades | $70-130 |
-| Transporte (vuelos + tren interno) | **$187-215** |
-| **Subtotal** | **$714.65-906.65** |
+| Transporte (vuelos + tren interno) | **$195-223** |
+| **Subtotal** | **$722.65-914.65** |
 
 ### Gran Total (2 personas + Portugal 1 persona)
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | **$12,234.2-16,471.2** |
+| Persona 1 (108 noches completas) | **$12,242.3-16,479.3** |
 | Persona 2 (100 noches, sin Portugal) | **$11,519.5-15,564.5** |
-| **TOTAL VIAJE** | **$23,753.7-32,035.7** |
+| **TOTAL VIAJE** | **$23,761.8-32,043.8** |
 
 ### Gastos Confirmados
 
@@ -241,8 +241,9 @@
 | Vuelo Porto (OPO) → Estrasburgo (SXB) — Volotea (1 persona) | $90.0 | $90.0 |
 | Vuelo Edimburgo (EDI) → Ámsterdam (AMS) | **$184.0** | **$92.0** |
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
-| Vuelo París (CDG/ORY) → Lisboa (LIS) — Persona 1 (1 persona) | $85.0 | $85.0 |
-| **TOTAL CONFIRMADO** | **$6,802.5** | **$3,617.6** |
+| Vuelo París (CDG/ORY) → Lisboa (LIS) — Persona 1 — **COMPRADO (82€)** | $93.07 | $93.07 |
+| Auto Highlands (7 días) — **Hertz vía Rentalcars · Ford Fiesta o similar** | **$342.83** | **$171.42** |
+| **TOTAL CONFIRMADO** | **$7,153.40** | **$3,797.09** |
 
 ---
 
@@ -324,4 +325,4 @@ Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financiera
 
 ---
 
-**Última actualización:** 24 junio 2026 (gastos reales de alojamiento Portugal: Lisboa 130€/$147.55 y Porto 97€/$110.10 — Onefam Ribeira confirmado)
+**Última actualización:** 29 junio 2026 (auto Highlands confirmado: Hertz/Rentalcars, Ford Fiesta o similar, USD 342.83 total)

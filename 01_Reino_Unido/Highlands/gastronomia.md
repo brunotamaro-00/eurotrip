@@ -11,7 +11,7 @@
 ## 🥘 Platos típicos para probar
 
 ### Salados
-- **Highland venison (venado)** - Carne estrella de las Highlands; en estofado o como steak. **The Mustard Seed** (Inverness) lo hace bien.
+- **Highland venison (venado) y game meats** - El venado es la carne estrella (estofado o steak); en general las carnes de caza (faisán, urogallo) son mucho más comunes acá que en ciudad. **The Mustard Seed** (Inverness) lo hace bien.
 - **Cullen Skink** - Sopa cremosa de haddock ahumado, papa y cebolla; originaria del NE escocés, imperdible en pub de la zona (**~£6-8**).
 - **Mariscos del oeste** - Langoustines (cigalas), mejillones, vieiras (scallops), ostras y salmón fresquísimos de los lochs. **Crannog** (Fort William), **Sea Breezes / Cuchullin** (Portree).
 - **Haggis, neeps & tatties** - El plato nacional; en cualquier pub de Portree o Fort William (**~£10-14**).
@@ -64,8 +64,9 @@
 
 - **Meal deals de supermercado** - Igual que en toda UK: **Tesco £3.85 con Clubcard**, **Morrisons ~£3.50** con cuenta, **Co-op £3.50 socios**. Hay Tesco/Morrisons en Fort William e Inverness, **Co-op en Portree** `https://www.savethestudent.org/save-money/food-drink/best-meal-deals.html`
 - **Greggs** - En Fort William e Inverness: pies, sausage rolls, café barato.
-- **Fish & chips para llevar** - ~£10 el "supper"; práctico para cenar barato volviendo de la ruta.
-- **Bakeries de pueblo** - Scotch pies, bridies y sándwiches recién hechos en Portree, Fort William, Inverness.
+- **Fish & chips para llevar** - ~£10 el "supper"; práctico para cenar barato volviendo de la ruta; los de **Fort William** suelen ser de los mejores y más auténticos del tramo.
+- **Seafood shacks / takeaway de mariscos** - Puestos y food trucks que aparecen en zonas turísticas y costeras (puerto de Portree, Mallaig, Oban): langoustines, vieiras y mejillones del día a precio bajo y para llevar; buscar "seafood shack" en Google Maps — barato y muy rico.
+- **Bakeries de pueblo** - Scotch pies, bridies, scones, tartas y sándwiches recién hechos en Portree, Fort William, Inverness; muy buenas para desayuno o almuerzo en ruta.
 - **Picnic de ruta** - Pan + queso escocés + oatcakes + frutas + agua: el almuerzo estándar entre miradores (no hay locales en los pasos de montaña).
 
 ---

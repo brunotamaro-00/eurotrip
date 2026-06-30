@@ -12,6 +12,7 @@
 - **Haring / Broodje haring** - Arenque crudo con pepinillo y cebolla, en sándwich o levantándolo de la cola; **Frens Haringhandel** (frente al Vondelpark) es el de referencia (**~€4-6**) — experiencia cultural obligatoria; mejor entre mayo-julio pero disponible siempre `https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/dutch-foods-to-try`
 - **Kibbeling** - Bocados de pescado blanco (bacalao) rebozados y fritos con salsa de hierbas; mejor fresco de puesto de mercado (Dappermarkt, Ten Katemarkt) (**~€6-8**) `https://www.secretfoodtours.com/blog/food-tour-in-amsterdam-herring-kibbeling-and-poffertjes/`
 - **Bitterballen** - Croquetas de carne frita con mostaza Dijon; el snack de cerveza por excelencia, en cualquier brown café (**~€5-7 ración**)
+- **Kroket / Bamischijf** - Más snacks fritos del *automat* (FEBO) o de bar: la *kroket* (croqueta alargada), y la *bamischijf*, un disco frito relleno de fideos indonesios (*bami*) — herencia colonial en versión fast food (**~€2-3 c/u**)
 - **Patat / Friet** - Papas fritas con mayo; "Oorlog" = mayo + salsa de maní + cebolla cruda. **Vlaams Friteshuis Vleminckx** (Voetboogstraat 31, off Spui) — las mejores, cola siempre (**~€4-6**) `https://www.tripadvisor.com/ShowTopic-g188590-i60-k14443453-Restaurants_cafes_on_a_budget-Amsterdam_North_Holland_Province.html`
 - **Rijsttafel (mesa de arroz indonesa)** - Herencia colonial: banquete de 10-20 platitos indonesios; en restaurantes de De Pijp/Oost (**~€25-35 pp**) — la mejor comida de relación calidad/precio para sentarse.
 - **Broodjes (sándwiches)** - El almuerzo holandés estándar; broodje kaas (queso), broodje haring, etc.
@@ -22,12 +23,12 @@
 - **Poffertjes** - Mini-panqueques esponjosos con manteca y azúcar glas; de puesto de mercado.
 
 ### Bebidas
-- **Jenever** - La ginebra holandesa original; jong (joven, suave) vs. oud (añejo); en **Wynand Fockink** o cualquier brown café (**~€4-6**)
-- **Cerveza local** - Heineken, Amstel, y craft (Brouwerij 't IJ junto al molino De Gooyer).
+- **Jenever** - La ginebra holandesa original, precursora del gin; jong (joven, suave) vs. oud (añejo); en **Wynand Fockink** o cualquier brown café (**~€4-6**) — el ritual clásico es el ***kopstootje*** ("cabezazo"): un vasito de jenever lleno hasta el borde **como complemento de una cerveza**; el primer sorbo se da sin levantar el vaso de la barra
+- **Cerveza local** - Heineken, Amstel, y craft (Brouwerij 't IJ junto al molino De Gooyer); en verano pedir una ***witbier*** (cerveza blanca de trigo), muy común y refrescante.
 
 ### Callejero / para picar
 - **FEBO** - Automat de comida rápida: moneda en la ranura, croqueta de la pared; icónico y barato (**~€2-3 pieza**) — el plan post-coffeeshop / late-night (abierto ~2am) `https://www.tripadvisor.com/ShowTopic-g188590-i60-k14443453-Restaurants_cafes_on_a_budget-Amsterdam_North_Holland_Province.html`
-- **Kaas (quesos)** - Gouda joven/curado, Boerenkaas, Geitenkaas; tiendas de Jordaan y de las 9 Calles dejan probar gratis.
+- **Kaas (quesos)** - Gouda joven/curado, Edam, Boerenkaas (más artesanal), Maasdam (de ojos, suave), Geitenkaas (de cabra); tiendas de Jordaan y de las 9 Calles dejan probar gratis.
 
 ---
 
@@ -107,6 +108,7 @@
 ## 💡 Tips
 
 - **Horarios de comida:** los holandeses cenan temprano (~18-19h); cocinas cierran 21-22h. Almuerzo ligero (broodje). Reservar cena los fines de semana.
+- **Borrel:** la costumbre social más típica (algo así como el "after office" o el pub en UK) — al caer la tarde, cerveza o vino con snacks fritos (bitterballen, queso) en un *brown café* o en una terraza al borde del canal; es **la** forma local de socializar, mejor que buscar restaurante elegante.
 - **Propina:** servicio incluido; redondear o dejar ~5-10% si el servicio fue bueno.
 - **Agua del grifo:** excelente y potable; pedir "kraanwater" (algunos cafés cobran un mínimo simbólico).
 - **Apps:** **Too Good To Go** (muy activo en Ámsterdam — packs de bakeries y restaurantes a bajo precio) `recursos/apps_utiles.md` · **Albert Heijn Bonus** (ofertas super) · **HappyCow** (veg) · Google Maps por rating.

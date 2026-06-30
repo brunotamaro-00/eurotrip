@@ -41,31 +41,33 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 - [ ] **West Highland Museum** - Pequeño museo gratuito sobre la historia jacobita y Bonnie Prince Charlie; tiene el famoso "Retrato Secreto" de Carlos Eduardo Stuart (GRATIS; voluntaria) `https://www.westhighlandmuseum.org.uk/`
 - [ ] **Nevis Range Mountain Gondola** - Telesilla a 650m sobre Aonach Mòr; vistas espectaculares hacia Ben Nevis y los valles; en agosto también operan las pistas de mountain bike (**~£20 adulto** ida y vuelta) `https://www.nevisrange.co.uk/`
+- [?] **Ben Nevis** - La montaña más alta del Reino Unido (1.345m; *ben* = montaña); ascenso por el Mountain Track ("Pony Track") desde Glen Nevis Visitor Centre; **7-9h ida y vuelta, exigente** — solo con buen clima, calzado de montaña y salida temprana; alternativa fácil para no escaladores: caminar el bajo Glen Nevis hasta Steall Falls (1.5-2h, mucho más accesible) (GRATIS) `https://www.walkhighlands.co.uk/fortwilliam/bennevis.shtml`. Creo que haria la opcion chill hasta las Steal Falls... Sino se pierde 1 dia entero en el Ben Navis. Ya vamos a ver mejores trekkings en Suiza/Eslovenia.
+- [x] **Glen Nevis & Steall Falls** - El valle a los pies del Ben Nevis; ruta usada en Harry Potter y Braveheart; caminata fácil hasta la cascada de Steall (120m, una de las más altas de Escocia) cruzando un puente colgante de cables; plan B ideal si el Ben Nevis está tapado de nubes (GRATIS; parking pequeño) `https://www.walkhighlands.co.uk/fortwilliam/steall-falls.shtml`
 - [ ] **Neptune's Staircase (Banavie)** - Serie de 8 esclusas consecutivas del Canal Caledoniano; la escalera de esclusas más larga de Gran Bretaña; gratis y muy fotogénica especialmente cuando pasan yates (GRATIS; 5 min de Fort William)
 - [ ] **Old Inverlochy Castle** - Ruinas del s. XIII de un castillo cuadrado con torres redondas en las esquinas; sin aglomeraciones ni entrada; histórico pero muy deteriorado (GRATIS)
-- [ ] **Loch Linnhe (paseo)** - El fiordo que rodea Fort William; paseo costero tranquilo con vistas a las colinas de Ardgour; muelles al atardecer
-- [ ] **Fort William Town** - Base práctica, no turística; Nevisport y otros outdoor stores para equipamiento y reparaciones; supermercados para provisiones para los días siguientes
+- [?] **Loch Linnhe (paseo)** - El fiordo que rodea Fort William; paseo costero tranquilo con vistas a las colinas de Ardgour; muelles al atardecer
+- [x] **Fort William Town** - Base práctica, no turística; Nevisport y otros outdoor stores para equipamiento y reparaciones; supermercados para provisiones para los días siguientes
 
 ### Glencoe y alrededores
 
-- [ ] **Glencoe Valley (The Three Sisters)** - Las tres laderas de Bidean nam Bian vistas desde la A82; uno de los valles más dramáticos del mundo; escenario de Highlander, Harry Potter y Skyfall de James Bond; solo la vista desde el auto es épica (GRATIS)
-- [ ] **Buachaille Etive Mòr** - El monte piramidal más icónico de Escocia; vista perfecta desde la A82 en Altnafeadh donde está el pub Kingshouse Hotel; 5 min de parada (GRATIS)
-- [ ] **Glen Etive** - Single-track road que baja 14km desde la A82 hacia el loch; completamente solitaria y donde se rodaron escenas de Skyfall (James Bond, 2012); sin turistas, sin servicios, solo naturaleza brutal (GRATIS; calcular tiempo de retorno)
-- [ ] **Lost Valley (Coire Gabhail)** - El valle oculto entre las Three Sisters donde el Clan MacDonald escondía el ganado robado; caminata moderada 2-3h ida y vuelta; se cruza un río por piedras y se asciende por una garganta angosta; impresionante y poco masificado (GRATIS; parking en la A82)
+- [x] **Glencoe Valley (The Three Sisters)** - Las tres laderas de Bidean nam Bian vistas desde la A82; uno de los valles más dramáticos del mundo; escenario de Highlander, Harry Potter y Skyfall de James Bond; solo la vista desde el auto es épica (GRATIS). Aunque sea pasar con el auto y frenar! Es camino a Fort William desde Edinburgo.
+- [?] **Buachaille Etive Mòr** - El monte piramidal más icónico de Escocia; vista perfecta desde la A82 en Altnafeadh donde está el pub Kingshouse Hotel; 5 min de parada (GRATIS)
+- [x] **Glen Etive** - Single-track road que baja 14km desde la A82 hacia el loch; completamente solitaria y donde se rodaron escenas de Skyfall (James Bond, 2012); sin turistas, sin servicios, solo naturaleza brutal (GRATIS; calcular tiempo de retorno)
+- [?] **Lost Valley (Coire Gabhail)** - El valle oculto entre las Three Sisters donde el Clan MacDonald escondía el ganado robado; caminata moderada 2-3h ida y vuelta; se cruza un río por piedras y se asciende por una garganta angosta; impresionante y poco masificado (GRATIS; parking en la A82)
 - [ ] **Signal Rock** - Roca desde donde el Clan Campbell supuestamente señalizó el inicio de la Masacre de Glencoe (1692); 30 min de caminata fácil en el bosque (GRATIS; NTS)
 - [ ] **Glencoe Lochan** - Pequeño lago artificial creado en 1890 por Lord Strathcona para su esposa canadiense; loop de 45 min por el bosque; habitualmente vacío y muy tranquilo (GRATIS)
-- [ ] **Glencoe Visitor Centre (NTS)** - Buena exposición sobre la masacre, el ecosistema y la historia jacobita; NTS (no Explorer Pass) (**~£5-8 adulto**; NTS members FREE) `https://www.nts.org.uk/visit/places/glencoe`
+- [?] **Glencoe Visitor Centre (NTS)** - Buena exposición sobre la masacre, el ecosistema y la historia jacobita; NTS (no Explorer Pass) (**~£5-8 adulto**; NTS members FREE) `https://www.nts.org.uk/visit/places/glencoe`
 - [ ] **Devil's Staircase** - El paso de montaña más dramático del West Highland Way; 2-3h subida desde Altnafeadh; vistas hacia Glencoe y Kinlochleven; solo para condición física razonable (GRATIS)
 
 ### Glenfinnan
 
-- [ ] **Glenfinnan Viaduct** - El viaducto de 21 arcos usado en Harry Potter como el Puente de Hogwarts; para la foto clásica subir el sendero ~15 min desde el parking hasta el mirador alto sobre el viaducto (GRATIS; parking de pago)
-- [ ] **Tren Jacobite (Harry Potter Express)** - El tren de vapor Fort William-Mallaig cruza el viaducto de Glenfinnan; **2026: 1 servicio diario, partida ~10:10 desde Fort William, retorno ~16:03**; NO hay compra online aún — intentar en taquilla de Fort William station el mismo día (**~£39 adulto ida y vuelta** — verificar precio 2026) `https://westcoastrailways.co.uk/jacobite/timetables`
+- [x] **Glenfinnan Viaduct** - El viaducto de 21 arcos usado en Harry Potter como el Puente de Hogwarts; para la foto clásica subir el sendero ~15 min desde el parking hasta el mirador alto sobre el viaducto; **llegar 45-60 min antes del paso del tren — el parking se llena** (GRATIS la vista; parking de pago). **Prioridad de parkings:** ① *Viewpoint East* (el mejor, sobre el viaducto) → ② *Viewpoint West* (~10 min caminando al mirador) → ③ *Visitor Centre / abajo* (último recurso). Incluso sin tren el paisaje sobre el Loch Shiel vale la pena
+- [x] **Tren Jacobite (Harry Potter Express)** - El tren de vapor Fort William→Mallaig cruza el viaducto de Glenfinnan (verificar dirección: **Fort William → Mallaig** es la pasada famosa); pasa por el viaducto **~30-40 min después de salir de Fort William**. Horarios típicos de verano: **Morning** sale FW 10:15 / llega Mallaig 12:25 · **Afternoon** sale FW 12:50 / llega Mallaig 15:06 (→ pasa el viaducto ~10:50 y ~13:25 aprox; **verificar timetable 2026**). El tren pasa rápido, dura segundos; NO hay compra online aún — intentar en taquilla de Fort William station el mismo día (**~£39 adulto ida y vuelta** — verificar precio 2026) `https://westcoastrailways.co.uk/jacobite/timetables`
 - [ ] **Glenfinnan Monument (NTS)** - Torre en el punto donde Bonnie Prince Charlie izó el estandarte jacobita en 1745 comenzando la última gran rebelión; vistas al Loch Shiel; NTS (no Explorer Pass) (**~£5-8 adulto**; NTS members FREE) `https://www.nts.org.uk/visit/places/glenfinnan-monument`
 
 ### Día de radio en auto desde Fort William
 
-- [ ] **Mallaig + Silver Sands of Morar** - ~1.5h oeste por la Road to the Isles (A830); las playas de arena blanca de Morar (Camusdarach) tienen agua color turquesa más impresionante que muchos destinos mediterráneos; Mallaig tiene puerto de pesca y el mejor marisco fresco del viaje (GRATIS playa)
+- [?] **Mallaig + Silver Sands of Morar** - ~1.5h oeste por la Road to the Isles (A830); las playas de arena blanca de Morar (Camusdarach) tienen agua color turquesa más impresionante que muchos destinos mediterráneos; Mallaig tiene puerto de pesca y el mejor marisco fresco del viaje (GRATIS playa)
 - [ ] **Castle Stalker (Portnacroish)** - ~45 min sur; castillo del s. XV en un islote en Loch Laich fotografiado desde la A828; usado en Monty Python y el Santo Grial; parada fotográfica de 10 min (GRATIS ver desde la carretera)
 - [ ] **Oban** - ~1h sur; "capital del marisco escocés"; el Seafood Shack en el muelle (£10-18 por bandeja de mariscos frescos en el puerto) + Oban Distillery para una cata; McCaig's Tower en la colina para vistas del puerto
 - [ ] **Loch Lomond** - Se pasa por su orilla norte en la A82 de camino desde Edimburgo; detener en Inverarnan o Ardlui para la foto del loch con montañas de fondo (GRATIS)
@@ -76,58 +78,66 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ### De Fort William a Skye — paradas en el camino (A87)
 
-- [ ] **Eilean Donan Castle (Dornie)** - El castillo más fotografiado de Escocia; siglo XIII, restaurado en 1920, en un islote con tres lochs a sus pies; privado (no Explorer Pass); **no vende tickets online** — comprar en el día en caja; llegar pronto (ABRE 9am) (**£13 adulto**, solo en caja el día) `https://www.eileandonancastle.com/`
+- [?] **Eilean Donan Castle (Dornie)** - El castillo más fotografiado de Escocia; siglo XIII, restaurado en 1920, en un islote con tres lochs a sus pies; privado (no Explorer Pass); **no vende tickets online** — comprar en el día en caja; llegar pronto (ABRE 9am) (**£13 adulto**, solo en caja el día) `https://www.eileandonancastle.com/`
 - [ ] **Plockton** - Pequeño pueblo de pescadores en Loch Carron con palmeras (Gulf Stream); increíblemente tranquilo, palmeras reales en la costa escocesa; posibles avistamientos de nutrias en el loch; 10 min desvío desde la A87
-- [ ] **Bealach na Bà / Applecross** - La carretera de montaña más dramática de Gran Bretaña; sube 626m con curvas cerradas y sin guardarraíles; la "alternativa" para llegar a Skye por el norte de la península de Applecross; requiere ~2h extra pero es una de las experiencias de conducción más épicas de Europa (GRATIS; solo para conductores confiables y tiempo sin niebla)
+- [ ] **Bealach na Bà / Applecross** - La carretera de montaña más dramática de Gran Bretaña; sube 626m con curvas cerradas y sin guardarraíles; la "alternativa" para llegar a Skye por el norte de la península de Applecross; requiere ~2h extra pero es una de las experiencias de conducción más épicas de Europa (GRATIS; solo para conductores confiables y tiempo sin niebla).
 
 ### Portree
 
-- [ ] **Puerto de Portree** - Las casas pintadas de colores reflejadas en el puerto; la foto icónica de Skye; mejor en la mañana con calma y luz; cafés y restaurantes de mariscos al borde del agua
-- [ ] **The Portree Inn / pubs locales** - Portree tiene un ambiente de pub genuinamente local; Camanachd (deporte local de Skye, tipo hockey gaélico) se juega en el prado junto al puerto; preguntar si hay partido
+- [x] **Puerto de Portree** - Las casas pintadas de colores reflejadas en el puerto; la foto icónica de Skye; mejor en la mañana con calma y luz; cafés y restaurantes de mariscos al borde del agua
+- [x] **The Portree Inn / pubs locales** - Portree tiene un ambiente de pub genuinamente local; Camanachd (deporte local de Skye, tipo hockey gaélico) se juega en el prado junto al puerto; preguntar si hay partido
 
 ### Norte de Skye — Trotternish (día completo)
 
 *(Salir a las 8am — los parkings se llenan antes de las 9am en agosto)*
 
-- [ ] **Old Man of Storr** - La formación rocosa más famosa de Skye; aguja de 50m de basalto negro; caminata moderada 2-3h; **parking £5-7** (pagar tarjeta/contactless) — llegar antes de las 8am para encontrar lugar `https://www.walkhighlands.co.uk/skye/old-man-of-storr.shtml`
-- [ ] **Quiraing** - Plateau de basalto con pináculos, agujas y prados en lo alto; uno de los paisajes más alienantes de Europa; loop completo 4-5h o solo mirador desde la carretera (30 min, gratis); **parking en la B-road sin cargo** (llegar temprano igual)
-- [ ] **Kilt Rock & Mealt Falls** - Acantilados de basalto hexagonal (las columnas simulan el plisado de un kilt) con una cascada que cae directamente al mar; parada de 30 min desde el aparcamiento (GRATIS) `https://www.walkhighlands.co.uk/skye/kilt-rock.shtml`
+- [?] **Old Man of Storr** - La formación rocosa más famosa de Skye; aguja de 50m de basalto negro; caminata moderada 2-3h; **parking £5-7** (pagar tarjeta/contactless) — llegar antes de las 8am para encontrar lugar `https://www.walkhighlands.co.uk/skye/old-man-of-storr.shtml`
+- [?] **Quiraing** - Plateau de basalto con pináculos, agujas y prados en lo alto; uno de los paisajes más alienantes de Europa; loop completo 4-5h o solo mirador desde la carretera (30 min, gratis); **parking en la B-road sin cargo** (llegar temprano igual)
+- [x] **Kilt Rock & Mealt Falls** - Acantilados de basalto hexagonal (las columnas simulan el plisado de un kilt) con una cascada que cae directamente al mar; parada de 30 min desde el aparcamiento (GRATIS) `https://www.walkhighlands.co.uk/skye/kilt-rock.shtml`
 - [ ] **Lealt Falls** - Serie de cascadas en una garganta estrecha; 20 min caminata desde la carretera; habitualmente poco transitado (GRATIS)
-- [ ] **Brothers' Point (Rubha nam Brathairean)** - Promontorio dramático sobre el mar; 2.5h caminata redonda; vistas sin igual hacia el mainland y Wester Ross; raramente lleno de turistas (GRATIS)
-- [ ] **Fairy Glen (near Uig)** - Paisaje en miniatura de colinas cónicas y formaciones circulares de piedra; muy fotogénico y surrealista; 15 min caminata desde el parking (GRATIS)
+- [?] **Brothers' Point (Rubha nam Brathairean)** - Promontorio dramático sobre el mar; 2.5h caminata redonda; vistas sin igual hacia el mainland y Wester Ross; raramente lleno de turistas (GRATIS)
+- [x] **Fairy Glen (near Uig)** - Paisaje en miniatura de colinas cónicas y formaciones circulares de piedra; muy fotogénico y surrealista; 15 min caminata desde el parking (GRATIS)
 - [ ] **Duntulm Castle (ruinas)** - Castillo en ruinas del s. XV en un acantilado en el extremo norte de Trotternish; historia de Clan Donald; poco visitado y muy atmosférico (GRATIS)
-- [ ] **Skye Museum of Island Life** - Conjunto de blackhouses (casas de turba tradicionales) en Kilmuir mostrando la vida crofter del s. XIX; el más auténtico de su tipo en Escocia (**~£5 adulto**) `https://www.skyemuseum.co.uk/`
+- [?] **Skye Museum of Island Life** - Conjunto de blackhouses (casas de turba tradicionales) en Kilmuir mostrando la vida crofter del s. XIX; el más auténtico de su tipo en Escocia (**~£5 adulto**) `https://www.skyemuseum.co.uk/`
 
 ### Oeste de Skye
 
 - [ ] **Neist Point Lighthouse** - El faro en el punto más occidental de Skye sobre acantilados dramáticos de basalto; los mejores atardeceres de Escocia desde acá; ~1h caminata redonda (**recomendado ir al atardecer**; GRATIS; parking gratuito) — si hay tiempo para un solo atardecer en el viaje, que sea este
-- [ ] **Dunvegan Castle & Gardens** - El castillo habitado más antiguo de Escocia (s. XIII, sede del Clan MacLeod sin interrupción); jardines, mirador sobre el lago y la leyenda del Fairy Flag; privado (no Explorer Pass) (**£17.50 adulto**) `https://www.dunvegancastle.com/`
+- [?] **Dunvegan Castle & Gardens** - El castillo habitado más antiguo de Escocia (s. XIII, sede del Clan MacLeod sin interrupción); jardines, mirador sobre el lago y la leyenda del Fairy Flag; privado (no Explorer Pass) (**£17.50 adulto**) `https://www.dunvegancastle.com/`
 - [ ] **Coral Beach (Claigan, near Dunvegan)** - Playa de "coral blanco" (en realidad algas calcificadas, maerl); color increíble; 30 min caminata desde el pequeño parking (GRATIS) — una de las playas más bonitas del viaje
 
 ### Centro y sur de Skye
 
-- [ ] **Fairy Pools (Glen Brittle)** - Las piscinas de montaña más famosas de Skye; cascadas encadenadas de agua cristalina azul al pie de las Cuillin Mountains; **parking £5** — llegar antes de las 9am en agosto; las piscinas más alejadas del parking son mejores y menos frecuentadas; el agua es muy fría pero en agosto aguanta `https://www.outdooraccesstrustforscotland.org.uk/`
-- [ ] **Sligachan Old Bridge** - Puente de piedra del s. XIX con las Black Cuillin de fondo; parada de 15 min para la foto clásica; Sligachan Hotel al lado tiene el pub más antiguo de Skye (GRATIS la parada)
-- [ ] **Glen Brittle** - El valle que lleva a las Fairy Pools y la base de las Cuillin; playa al final del glen sobre el Loch Brittle; dramático y mucho más tranquilo que los spots turísticos
-- [ ] **Talisker Distillery** - La única destilería de Skye; whisky ahumado con carácter marino; tours de 1h con degustación (**~£15-20 adulto**, reservar online) `https://www.malts.com/en-gb/distilleries/talisker/`
+- [x] **Fairy Pools (Glen Brittle)** - Las piscinas de montaña más famosas de Skye; cascadas encadenadas de agua cristalina azul al pie de las Cuillin Mountains; **parking £5** — llegar antes de las 9am en agosto; las piscinas más alejadas del parking son mejores y menos frecuentadas; el agua es muy fría pero en agosto aguanta `https://www.outdooraccesstrustforscotland.org.uk/`
+- [?] **Sligachan Old Bridge** - Puente de piedra del s. XIX con las Black Cuillin de fondo; parada de 15 min para la foto clásica; Sligachan Hotel al lado tiene el pub más antiguo de Skye (GRATIS la parada)
+- [?] **Glen Brittle** - El valle que lleva a las Fairy Pools y la base de las Cuillin; playa al final del glen sobre el Loch Brittle; dramático y mucho más tranquilo que los spots turísticos
+- [x] **Talisker Distillery** - La única destilería de Skye; whisky ahumado con carácter marino; tours de 1h con degustación (**~£15-20 adulto**, reservar online) `https://www.malts.com/en-gb/distilleries/talisker/`. Iría a UNA de estas aunque sea, sobre todo si el dia no está lindo.
 - [ ] **Talisker Bay** - Playa de arena negra con impresionantes columnas de roca y cascada lateral; 20 min caminata desde el pueblo de Talisker (no la destilería); habitualmente vacía (GRATIS)
 - [ ] **Elgol + bote a Loch Coruisk** - Elgol está al final de una single-track road en el sur; desde aquí salen botes a Loch Coruisk, el loch glaciar rodeado por el circo de las Cuillin Mountains desde el agua; **uno de los paisajes más salvajes de Escocia** (**~£20-25 pp en bote** ida y vuelta; reservar con mucha anticipación) `https://www.bellajane.co.uk/`
 
 ### Sur de Skye
 
-- [ ] **Armadale Castle (Clan Donald Centre)** - Castillo en ruinas del s. XIX con jardines en el sur de la isla; museo de la historia del Clan Donald; privado (no Explorer Pass); si se llega en el ferry desde Mallaig, se pasa por aquí (**~£8 adulto**) `https://www.clandonald.com/`
+- [ ] **Armadale Castle (Clan Donald Centre)** - Castillo en ruinas del s. XIX con jardines en el sur de la isla; museo de la historia del Clan Donald; privado (no Explorer Pass); si se llega en el ferry desde Mallaig, se pasa por aquí (**~£8 adulto**) `https://www.clandonald.com/`. Queda muy lejos esto.
 
 ---
 
 ## 📍 Base 3 — Inverness / Lago Ness (22-24 ago)
 
+### De Skye a Inverness — paradas en el camino (A87)
+
+*(Una de las rutas más lindas del viaje. Menos single-track que Skye y más fácil, pero igual lento — no confiarse: con el manejo acumulado, mucha gente termina cansada este día. Cargar combustible antes de salir de Skye.)*
+
+- [?] **Eilean Donan Castle (Dornie)** - El castillo más fotogénico de Escocia, en su islote con tres lochs; aunque no se entre, **parar a verlo desde fuera** (gratis); ya descrito en la ruta de ida si se visitó por dentro (**£13 adulto** interior) `https://www.eileandonancastle.com/`
+- [x] **Glen Shiel & Five Sisters of Kintail** - Valle dramático flanqueado por las "Cinco Hermanas de Kintail" (cinco picos sucesivos); la A87 lo atraviesa con miradores a pie de carretera; paisaje de montaña abierto, escenario de batalla jacobita de 1719 (GRATIS la parada)
+- [?] **Loch Cluanie** - Embalse alargado entre montañas peladas en lo alto del paso; parada fotográfica de carretera con reflejos cuando hay calma; el Cluanie Inn es el único punto de servicio en un tramo largo (GRATIS)
+
 ### Inverness ciudad
 
-- [ ] **Ness Islands** - Islotes en el río Ness conectados por puentes peatonales victorianos; caminata de 1h muy tranquila, con ardillas rojas y patos; frecuentada por locals pero casi sin turistas (GRATIS)
-- [ ] **Leakey's Bookshop** - Librería de segunda mano instalada en una iglesia del s. XVIII reconvertida; la chimenea más grande de Escocia, ambiente increíble y libros apilados hasta el techo; la librería más atmosférica del viaje (GRATIS entrar) `https://www.leakeysbookshop.com/`
-- [ ] **Inverness Castle (exterior)** - Castillo victoriano de piedra arenisca roja en lo alto de una colina; actualmente en conversión a visitor center; las vistas del río Ness desde los jardines del exterior son buenas (GRATIS exterior)
+- [?] **Ness Islands** - Islotes en el río Ness conectados por puentes peatonales victorianos; caminata de 1h muy tranquila, con ardillas rojas y patos; frecuentada por locals pero casi sin turistas (GRATIS)
+- [?] **Leakey's Bookshop** - Librería de segunda mano instalada en una iglesia del s. XVIII reconvertida; la chimenea más grande de Escocia, ambiente increíble y libros apilados hasta el techo; la librería más atmosférica del viaje (GRATIS entrar) `https://www.leakeysbookshop.com/`. Para vos!!!!
+- [x] **Inverness Castle (exterior)** - Castillo victoriano de piedra arenisca roja en lo alto de una colina; actualmente en conversión a visitor center; las vistas del río Ness desde los jardines del exterior son buenas (GRATIS exterior)
 - [ ] **Victorian Market** - Mercado cubierto del s. XIX; tiendas locales, cafés y algo de artesanía; por en medio del centro, buen punto de pausa (GRATIS acceder)
-- [ ] **Church Street y Academy Street** - Las calles más antiguas y con más carácter de Inverness; arquitectura georgiana y victoriana, librerías y cafés locales; caminar sin agenda
+- [x] **Church Street y Academy Street** - Las calles más antiguas y con más carácter de Inverness; arquitectura georgiana y victoriana, librerías y cafés locales; caminar sin agenda
 
 ### Lago Ness y alrededores
 
@@ -139,17 +149,17 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ### Cercanías de Inverness
 
-- [ ] **Culloden Battlefield (~8km este)** - El campo de batalla de 1746 donde el ejército jacobita de Bonnie Prince Charlie fue aplastado en 40 minutos; el centro de visitantes es muy bueno y muy emotivo; NTS (no Explorer Pass) (**~£14 adulto**) `https://www.nts.org.uk/visit/places/culloden`
+- [x] **Culloden Battlefield (~8km este)** - El campo de batalla de 1746 donde el ejército jacobita de Bonnie Prince Charlie fue aplastado en 40 minutos; el centro de visitantes es muy bueno y muy emotivo; NTS (no Explorer Pass) (**~£14 adulto**) `https://www.nts.org.uk/visit/places/culloden`
 - [ ] **Clava Cairns (~8km este, camino a Culloden)** ✅ HES — gratuito de todos modos - Círculos de cairns funerarios de ~4.000 años, perfectamente conservados en un claro boscoso; insp. del show Outlander (viaje en el tiempo a través de las piedras); habitualmente silencioso y sin colas (GRATIS) `https://www.historicenvironment.scot/visit-a-place/places/balnuaran-of-clava/`
 - [ ] **Fort George (~20km norte)** ✅ Explorer Pass - La fortaleza militar del s. XVIII mejor conservada de Europa; en un espolón en el Moray Firth; todavía en uso activo; HES; colección de armas y uniformes; las murallas con vistas al firth son espectaculares (**~£14 adulto**; gratis con Explorer Pass) `https://www.historicenvironment.scot/visit-a-place/places/fort-george/`
 - [ ] **Cawdor Castle (~25km este)** - El castillo de "Macbeth" (aunque Shakespeare exageró la conexión histórica); siglos XIV-XVII, todavía habitado por la familia Cawdor; privado (no Explorer Pass) (**~£16.50 adulto** — verificar web) `https://www.cawdorcastle.com/`
 
 ### Día de radio en auto desde Inverness
 
-- [ ] **Chanonry Point, Black Isle (~30km norte)** - El mejor punto del mainland para ver delfines nariz de botella desde la orilla; se congregan en la punta del espolón cuando la marea sube; llegar 1-2h antes de la marea alta; (GRATIS; hay tabla de mareas en el panel informativo) — avistamiento casi garantizado en agosto
-- [ ] **Glen Affric (~40km suroeste)** - Considerado uno de los valles más hermosos de Escocia; bosques de pinos caledonios (los más antiguos de Gran Bretaña), loch de espejo y silencio absoluto; parking pequeño al final de la single-track road; caminata 1-3h según distancia (GRATIS acceder; parking de pago)
-- [ ] **Cairngorms / Aviemore (~50km sur por la A9)** - El parque nacional más grande de Gran Bretaña; Cairngorm Mountain Gondola (~£20), Rothiemurchus Forest (red de senderos gratuita), Loch an Eilein (isla con castillo en ruinas en el loch, ~3km circuito, parking £4); rebaño de renos único en el UK; día completo
-- [ ] **Rogie Falls, near Strathpeffer (~35km oeste)** - Cascada de salmones en agosto: los salmones atlánticos saltan hacia arriba de las cataratas contra la corriente; espectáculo natural impresionante; 1h caminata fácil (GRATIS; parking pequeño)
+- [?] **Chanonry Point, Black Isle (~30km norte)** - El mejor punto del mainland para ver delfines nariz de botella desde la orilla; se congregan en la punta del espolón cuando la marea sube; llegar 1-2h antes de la marea alta; (GRATIS; hay tabla de mareas en el panel informativo) — avistamiento casi garantizado en agosto
+- [?] **Glen Affric (~40km suroeste)** - Considerado uno de los valles más hermosos de Escocia; bosques de pinos caledonios (los más antiguos de Gran Bretaña), loch de espejo y silencio absoluto; parking pequeño al final de la single-track road; caminata 1-3h según distancia (GRATIS acceder; parking de pago)
+- [?] **Cairngorms / Aviemore (~50km sur por la A9)** - El parque nacional más grande de Gran Bretaña; Cairngorm Mountain Gondola (~£20), Rothiemurchus Forest (red de senderos gratuita), Loch an Eilein (isla con castillo en ruinas en el loch, ~3km circuito, parking £4); rebaño de renos único en el UK; día completo
+- [?] **Rogie Falls, near Strathpeffer (~35km oeste)** - Cascada de salmones en agosto: los salmones atlánticos saltan hacia arriba de las cataratas contra la corriente; espectáculo natural impresionante; 1h caminata fácil (GRATIS; parking pequeño)
 - [ ] **Corrieshalloch Gorge (~85km norte de A9/A835)** - Garganta de 1km con las Falls of Measach (60m); puente colgante sobre el abismo; NTS; 1h visita; buena parada en ruta hacia Ullapool (GRATIS)
 
 ---
@@ -239,6 +249,9 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 - Calcular siempre 1.5x el tiempo estimado por Google Maps en rutas de Skye y zonas remotas — el GPS no conoce el tráfico real en estas rutas
 - Llevar el depósito de nafta SIEMPRE a más de la mitad; las gasolineras son escasas en Skye y en el norte de las Highlands; recargar en Fort William, Portree y Inverness
 - Descargarse los mapas offline de la zona en Google Maps/Maps.me antes de salir — la señal de celular es irregular (especialmente en Glen Etive, Applecross y partes del norte de Skye)
+- **Etiqueta de las single-track:** si el passing place está de tu lado y viene alguien de frente, te corrés vos; **nunca** estacionar ni sacar fotos desde un apartadero. Si vas lento disfrutando y se forma cola atrás, usá un passing place y dejá pasar — es etiqueta básica en Highlands
+- **Recargar combustible con el tanque a la mitad** (no esperar a la reserva); en muchas estaciones rurales primero se carga y después se paga
+- **Ordenar Skye por regiones, no por clima:** aunque todo parezca cerca, las rutas son lentas y con tráfico turístico; hacer el **norte (Trotternish)** y el **oeste (Dunvegan/Neist)** en **días separados**, y dejar centro y sur como paradas complementarias. Zigzaguear cansa muchísimo. Si el día está feo, replantear qué interesa de verdad en vez de cumplir el checklist a la fuerza
 
 **Clima:**
 - Impredecible incluso en agosto; plan A (hike de cima) + plan B (miradores desde la carretera) para cada día
@@ -259,6 +272,13 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 - Skye tiene señal en Portree y pueblos principales; sin señal en la mayor parte de las rutas secundarias
 - Descargar mapas offline de AllTrails o Mapy.cz antes de cada zona; no depender del GPS online en mitad de un hike
 - EE y Vodafone tienen la cobertura más amplia en las Highlands; verificar con el operador propio antes de salir de Edimburgo
+
+**Costumbres sociales y cultura local:**
+- **Ceilidh** (se pronuncia *kéili*): reuniones tradicionales con música y baile escocés; no son diarias pero siguen vivas, sobre todo en Inverness. Buscar en Google Maps "ceilidh Portree", "live folk music Fort William", "traditional music pub Inverness", revisar eventos de Facebook, y sobre todo **preguntar en el alojamiento**: *"Any ceilidhs or traditional music sessions happening this week?"*
+- **El pub como centro social:** en pueblos chicos el pub es literalmente el centro de la vida local, más marcado aún que en Edimburgo; gaitas y folk son mucho más naturales acá que en los festivales urbanos. En **Fort William**: *Ben Nevis Inn* (al pie del sendero del Ben Nevis, música folk/local) y *The Malt Man* (Highlands más tradicional) — ojo que las cocinas cierran 20:30-21:00. En **Portree**, el paseo por el Portree Harbour al atardecer
+- **Cocinas cierran temprano:** muchos lugares chicos dejan de servir comida a las **20:00-21:00 hs**; cenar temprano y, en Portree y Skye, **reservar mesa sí o sí** en agosto (hay mucha menos oferta que en una ciudad)
+- **Propina:** ~10-12,5% en restaurantes si no está incluida; en cafés, pubs o comida informal normalmente no hace falta
+- Es normal que la gente pare simplemente a mirar un loch o una montaña sin "hacer" nada, y que haya conversación casual con desconocidos — sensación más de pueblo que de ciudad
 
 **Reservas anticipadas:**
 - Alojamiento en agosto en Highlands (especialmente Skye) se agota meses antes; si no está reservado, hacerlo ahora

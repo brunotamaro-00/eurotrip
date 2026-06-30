@@ -145,7 +145,7 @@
 
 ## 📝 Tickets a comprar (checklist local)
 
-- [ ] **Auto rentado Highlands** — retirar 18 ago Edimburgo, devolver 25 ago EDI · empresa: [___] · millaje ilimitado: [sí/no] · precio total: £[___] · confirmación #[___]
+- [x] **Auto rentado Highlands** — **RESERVADO** · retirar 18 ago Edimburgo · devolver 25 ago EDI · **Hertz (vía Rentalcars)** · Ford Fiesta o similar · **USD 342.83 total (2p)**
 - [x] **Vuelo EDI → Ámsterdam (25 ago)** — **COMPRADO** · USD 184 total (2p) / 92 pp · aerolínea [___] · hora [___]
 - [ ] **(Opcional) Jacobite Steam Train** — £69 pp standard return; reservar apenas abra (~enero) o intentar cupos del día (efectivo)
 - [ ] **(Opcional) Ferry Mallaig–Armadale** — ~£17 auto+2 adultos ida; reservar auto con anticipación
@@ -154,7 +154,7 @@
 
 | Concepto | Precio | Nota/Fuente |
 |----------|--------|-------------|
-| Auto rentado (7 días) | **£280–420** | ~£40–60/día; Arnold Clark/Enterprise; ≥4 días millaje ilimitado |
+| Auto rentado (7 días) — **✅ RESERVADO** | **USD 342.83 total (2p)** | Hertz vía Rentalcars · Ford Fiesta o similar · retirar 18 ago Edimburgo · devolver 25 ago EDI |
 | Nafta (circuito ~900–1.000 km) | **~£100–150** | recargar Fort William/Portree/Inverness |
 | Vuelo EDI → Ámsterdam (2p) | **USD 184** | ✅ comprado / 92 pp |
 | Jacobite Steam Train (return) | **£69** | standard; £105 first; +booking fee `westcoastrailways.co.uk` |
