@@ -1,0 +1,352 @@
+<title>Colorimetría de la Mochila — Las 64 Combinaciones</title>
+<style>
+  :root{
+    --marino:#1B2A41;
+    --carbon:#3B3B3D;
+    --beige:#C9AF83;
+    --crudo:#F5F1E8;
+    --oliva:#5B6B45;
+    --marron:#6B4226;
+    --negro:#1C1C1C;
+    --piel:#C4875A;
+    --bg:#faf8f4;
+    --card:#ffffff;
+    --ink:#2b2620;
+    --muted:#726b60;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    background:var(--bg);
+    color:var(--ink);
+    padding:32px 20px 60px;
+  }
+  h1{font-size:1.5rem;margin:0 0 6px;}
+  p.sub{color:var(--muted);margin:0 0 24px;max-width:680px;line-height:1.45;}
+
+  .palette{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:24px;}
+  .swatch{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid #eae4d8;border-radius:999px;padding:6px 12px 6px 6px;font-size:0.8rem;}
+  .dot{width:18px;height:18px;border-radius:50%;flex:none;border:1px solid rgba(0,0,0,0.08);}
+
+  nav.index{
+    display:flex;flex-wrap:wrap;gap:8px;
+    margin-bottom:36px;
+    padding:14px;
+    background:var(--card);
+    border:1px solid #eae4d8;
+    border-radius:12px;
+    max-width:900px;
+  }
+  nav.index a{
+    font-size:0.78rem;
+    text-decoration:none;
+    color:var(--ink);
+    background:var(--bg);
+    border:1px solid #eae4d8;
+    border-radius:999px;
+    padding:5px 10px;
+    display:flex;align-items:center;gap:6px;
+  }
+  nav.index a:hover{border-color:var(--oliva);}
+  nav.index .idot{width:10px;height:10px;border-radius:50%;flex:none;border:1px solid rgba(0,0,0,0.1);}
+  nav.index .navgroup{flex-basis:100%;font-size:0.72rem;text-transform:uppercase;letter-spacing:0.04em;color:var(--muted);margin:6px 0 -2px;}
+  nav.index .navgroup:first-child{margin-top:0;}
+
+  h2.group-title{
+    max-width:1100px;
+    font-size:1.2rem;
+    margin:8px 0 4px;
+    padding-top:12px;
+    border-top:1px solid #eae4d8;
+  }
+  p.group-note{color:var(--muted);font-size:0.82rem;max-width:680px;margin:0 0 20px;line-height:1.4;}
+
+  section.top-section{
+    max-width:1100px;
+    margin-bottom:44px;
+    scroll-margin-top:20px;
+  }
+  .top-heading{
+    display:flex;align-items:center;gap:10px;
+    margin-bottom:14px;
+  }
+  .top-heading .dot{width:22px;height:22px;}
+  .top-heading h2{font-size:1.05rem;margin:0;}
+  .top-heading span.count{color:var(--muted);font-size:0.78rem;margin-left:auto;}
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(120px,1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--card);
+    border:1px solid #eae4d8;
+    border-radius:12px;
+    padding:8px 8px 10px;
+    text-align:center;
+  }
+  .card svg{width:100%;height:auto;max-width:110px;}
+  .card .cap{
+    margin-top:4px;
+    font-size:0.68rem;
+    color:var(--muted);
+    line-height:1.35;
+  }
+  .card .cap b{color:var(--ink);font-weight:600;}
+
+  footer{margin-top:20px;color:var(--muted);font-size:0.78rem;max-width:680px;line-height:1.5;}
+</style>
+
+<h1>Colorimetría de la Mochila — Combinaciones</h1>
+<p class="sub">Tres galerías: <b>tops</b> (remera visible), <b>capas medias</b> y <b>capas superiores</b> (en estas dos la remera queda tapada, así que no se dibuja — el torso muestra directamente el color de la capa). Todo armado con la paleta cápsula de <a href="packing_list.md">packing_list.md</a>.</p>
+
+<div class="palette">
+  <div class="swatch"><span class="dot" style="background:var(--marino)"></span>Azul marino</div>
+  <div class="swatch"><span class="dot" style="background:var(--carbon)"></span>Gris carbón</div>
+  <div class="swatch"><span class="dot" style="background:var(--beige)"></span>Beige / arena</div>
+  <div class="swatch"><span class="dot" style="background:var(--crudo);border-color:#ddd"></span>Blanco crudo</div>
+  <div class="swatch"><span class="dot" style="background:var(--oliva)"></span>Verde oliva (acento)</div>
+</div>
+
+<nav class="index" id="topNav"></nav>
+
+<h2 class="group-title">Tops (remera visible)</h2>
+<p class="group-note">8 tops × 4 bottoms × 2 calzados = 64 combinaciones base.</p>
+<div id="sections-tops"></div>
+
+<h2 class="group-title">Capas medias (remera tapada, no se dibuja)</h2>
+<p class="group-note">Capa técnica (gris carbón) o capa de ciudad (azul marino), ambas cerradas — la remera de abajo queda oculta. 2 capas × 4 bottoms × 2 calzados = 16 combinaciones.</p>
+<div id="sections-mid"></div>
+
+<h2 class="group-title">Capas superiores (remera y capa media tapadas, no se dibujan)</h2>
+<p class="group-note">Puff y rompevientos, ambos negros y cerrados. 2 capas × 4 bottoms × 2 calzados = 16 combinaciones.</p>
+<div id="sections-outer"></div>
+
+<h2 class="group-title">Prueba: capa superior negra abierta sobre capa media</h2>
+<p class="group-note">Como puff y rompevientos son iguales en negro, se prueba con una sola (da igual cuál). Las mangas quedan con el color de la capa superior (por encima, igual que antes) — al abrirla adelante, se ve la capa media en el centro del pecho. Bottom y calzado fijos solo para ver el layering.</p>
+<div class="grid" id="sections-open-test" style="max-width:400px;"></div>
+
+<h2 class="group-title">Prueba: camisa celeste abierta sobre remera</h2>
+<p class="group-note">Misma lógica que la capa superior: la camisa cubre hombros/mangas y queda abierta adelante, mostrando la remera de abajo en el centro del pecho. Probada sobre 4 remeras distintas (crudo, heather gris, marino, técnica oliva). Bottom y calzado fijos solo para ver el layering.</p>
+<div class="grid" id="sections-camisa-test" style="max-width:600px;"></div>
+
+<footer>
+  Ilustraciones vectoriales generadas por script (no fotos ni renders 3D reales), como referencia de color y silueta. Bottoms: bermuda beige, short deportivo negro, chino azul marino, pantalón de lino beige. Calzado: deportivas negras y zapatilla de cuero marrón. En las galerías de capas, la prenda de abajo (remera, o remera+capa media) no se dibuja porque queda completamente tapada.
+</footer>
+
+<script>
+(function(){
+  var MARINO='#1B2A41', CARBON='#3B3B3D', BEIGE='#C9AF83', CRUDO='#F5F1E8',
+      OLIVA='#5B6B45', MARRON='#6B4226', NEGRO='#1C1C1C',
+      SKIN='#C4875A', HAIR='#3a2c22', DEP_BLANCA='#EDEDED', CAMISA='#BFD6E3',
+      GRIS_SHELL='#6E6E6E', HEATHER_CALIDO='#8C8175';
+
+  var LEG_L='M59,178 L79,178 C78,215 76,255 73,290 L57,290 C56,252 57,213 59,178 Z';
+  var LEG_R='M101,178 L81,178 C82,215 84,255 87,290 L103,290 C104,252 103,213 101,178 Z';
+  var SHORTS_L='M59,178 L79,178 C78.5,196 78,210 76.5,222 C71,227 63,226 58.5,221 C57.5,205 58,190 59,178 Z';
+  var SHORTS_R='M101,178 L81,178 C81.5,196 82,210 83.5,222 C89,227 97,226 101.5,221 C102.5,205 102,190 101,178 Z';
+  var ARM_L='M50,56 C40,66 36,92 38,128 C39,150 42,166 47,176 C49,179 53,178 52,174 C48,162 46,145 46,118 C46,92 49,72 57,58 Z';
+  var ARM_R='M110,56 C120,66 124,92 122,128 C121,150 118,166 113,176 C111,179 107,178 108,174 C112,162 114,145 114,118 C114,92 111,72 103,58 Z';
+  var TORSO_SHORT='M58,50 C48,50 42,56 40,66 L34,98 C33,104 36,108 42,106 L58,98 L58,166 C58,173 63,178 70,178 L90,178 C97,178 102,173 102,166 L102,98 L118,106 C124,108 127,104 126,98 L120,66 C118,56 112,50 102,50 Z';
+  var TORSO_LONG='M58,50 C48,50 42,56 40,66 L34,140 C33,148 37,152 44,149 L58,140 L58,166 C58,173 63,178 70,178 L90,178 C97,178 102,173 102,166 L102,140 L116,149 C123,152 127,148 126,140 L120,66 C118,56 112,50 102,50 Z';
+  var NECK='M71,45 L89,45 L87,54 L73,54 Z';
+  var HAIR_D='M61,24 C61,10 99,10 99,24 C99,15 90,11 80,11 C70,11 61,15 61,24 Z';
+  var SHOE_L='M45,288 C45,283 50,280 59,280 C69,280 78,283 79,289 C80,294 75,298 65,298 L50,298 C45,298 43,294 45,288 Z';
+  var SHOE_R='M115,288 C115,283 110,280 101,280 C91,280 82,283 81,289 C80,294 85,298 95,298 L110,298 C115,298 117,294 115,288 Z';
+  var COLLAR='M62,52 L71,64 L80,53 L89,64 L98,52';
+  var JACKET_L='M44,52 C33,55 27,66 28,82 C29,112 31,142 33,170 C34,178 39,182 45,179 L54,174 L54,58 C51,54 47,52 44,52 Z';
+  var JACKET_R='M116,52 C127,55 133,66 132,82 C131,112 129,142 127,170 C126,178 121,182 115,179 L106,174 L106,58 C109,54 113,52 116,52 Z';
+  var LAPEL_L='M56,54 L70,66 L60,70 Z';
+  var LAPEL_R='M104,54 L90,66 L100,70 Z';
+
+  var TOPS=[
+    {name:'Remera algodón blanco crudo', color:CRUDO, sleeve:'short', collar:false, stroke:'#e5ddcd'},
+    {name:'Remera algodón azul marino', color:MARINO, sleeve:'short', collar:false},
+    {name:'Remera algodón verde oliva', color:OLIVA, sleeve:'short', collar:false},
+    {name:'Remera algodón heather gris cálido', color:HEATHER_CALIDO, sleeve:'short', collar:false},
+    {name:'Remera técnica gris carbón', color:CARBON, sleeve:'short', collar:false},
+    {name:'Remera técnica negra', color:NEGRO, sleeve:'short', collar:false},
+    {name:'Camisa de botones celeste clarito', color:CAMISA, sleeve:'short', collar:true, stroke:'#a9c5d6'},
+    {name:'Manga larga térmica negra', color:NEGRO, sleeve:'long', collar:false}
+  ];
+
+  var BOTTOMS=[
+    {name:'Bermuda beige', color:BEIGE, type:'shorts'},
+    {name:'Short deportivo negro', color:NEGRO, type:'shorts'},
+    {name:'Chino azul marino', color:MARINO, type:'pants'},
+    {name:'Pantalón lino beige', color:BEIGE, type:'pants'}
+  ];
+
+  var SHOES=[
+    {name:'Deportivas negras', color:NEGRO},
+    {name:'Zapatilla cuero marrón', color:MARRON}
+  ];
+
+  var MID_LAYERS=[
+    {name:'Capa técnica gris carbón (cerrada)', color:CARBON, sleeve:'long', collar:false},
+    {name:'Capa de ciudad azul marino (cerrada)', color:MARINO, sleeve:'long', collar:false}
+  ];
+
+  var OUTER_LAYERS=[
+    {name:'Puff negro (cerrado)', color:NEGRO, sleeve:'long', collar:false},
+    {name:'Rompevientos negro (cerrado)', color:NEGRO, sleeve:'long', collar:false}
+  ];
+
+  function doll(top, bottom, shoe){
+    var legOverlay = bottom.type==='shorts'
+      ? '<path d="'+SHORTS_L+'" fill="'+bottom.color+'"/><path d="'+SHORTS_R+'" fill="'+bottom.color+'"/>'
+      : '<path d="'+LEG_L+'" fill="'+bottom.color+'"/><path d="'+LEG_R+'" fill="'+bottom.color+'"/>';
+    var belt = bottom.type==='pants' ? '<rect x="58" y="175" width="44" height="6" rx="2" fill="'+MARRON+'"/>' : '';
+    var torsoD = top.sleeve==='long' ? TORSO_LONG : TORSO_SHORT;
+    var torsoStroke = top.stroke ? ' stroke="'+top.stroke+'" stroke-width="1"' : '';
+    var collar = top.collar ? '<path d="'+COLLAR+'" fill="none" stroke="#d8d8d8" stroke-width="2"/><line x1="80" y1="60" x2="80" y2="176" stroke="#d8d8d8" stroke-width="1.5"/>' : '';
+    var shoeStroke = shoe.stroke ? ' stroke="'+shoe.stroke+'" stroke-width="1"' : '';
+
+    return '<svg viewBox="0 0 160 316">' +
+      '<ellipse cx="80" cy="304" rx="42" ry="6" fill="#000" opacity="0.07"/>' +
+      '<path d="'+LEG_L+'" fill="'+SKIN+'"/><path d="'+LEG_R+'" fill="'+SKIN+'"/>' +
+      legOverlay +
+      '<path d="'+ARM_L+'" fill="'+SKIN+'"/><path d="'+ARM_R+'" fill="'+SKIN+'"/>' +
+      '<circle cx="47" cy="177" r="6" fill="'+SKIN+'"/><circle cx="113" cy="177" r="6" fill="'+SKIN+'"/>' +
+      '<path d="'+torsoD+'" fill="'+top.color+'"'+torsoStroke+'/>' +
+      collar +
+      belt +
+      '<path d="'+NECK+'" fill="'+SKIN+'"/>' +
+      '<path d="'+HAIR_D+'" fill="'+HAIR+'"/>' +
+      '<ellipse cx="80" cy="28" rx="19" ry="21" fill="'+SKIN+'"/>' +
+      '<path d="'+SHOE_L+'" fill="'+shoe.color+'"'+shoeStroke+'/>' +
+      '<path d="'+SHOE_R+'" fill="'+shoe.color+'"'+shoeStroke+'/>' +
+      '</svg>';
+  }
+
+  function dollLayered(mid, outerColor, bottom, shoe){
+    var legOverlay = bottom.type==='shorts'
+      ? '<path d="'+SHORTS_L+'" fill="'+bottom.color+'"/><path d="'+SHORTS_R+'" fill="'+bottom.color+'"/>'
+      : '<path d="'+LEG_L+'" fill="'+bottom.color+'"/><path d="'+LEG_R+'" fill="'+bottom.color+'"/>';
+    var belt = bottom.type==='pants' ? '<rect x="58" y="175" width="44" height="6" rx="2" fill="'+MARRON+'"/>' : '';
+    var shoeStroke = shoe.stroke ? ' stroke="'+shoe.stroke+'" stroke-width="1"' : '';
+
+    return '<svg viewBox="0 0 160 316">' +
+      '<ellipse cx="80" cy="304" rx="42" ry="6" fill="#000" opacity="0.07"/>' +
+      '<path d="'+LEG_L+'" fill="'+SKIN+'"/><path d="'+LEG_R+'" fill="'+SKIN+'"/>' +
+      legOverlay +
+      '<path d="'+ARM_L+'" fill="'+SKIN+'"/><path d="'+ARM_R+'" fill="'+SKIN+'"/>' +
+      '<circle cx="47" cy="177" r="6" fill="'+SKIN+'"/><circle cx="113" cy="177" r="6" fill="'+SKIN+'"/>' +
+      '<path d="'+TORSO_LONG+'" fill="'+mid.color+'"/>' +
+      '<path d="'+JACKET_L+'" fill="'+outerColor+'"/>' +
+      '<path d="'+LAPEL_L+'" fill="'+outerColor+'"/>' +
+      '<path d="'+JACKET_R+'" fill="'+outerColor+'"/>' +
+      '<path d="'+LAPEL_R+'" fill="'+outerColor+'"/>' +
+      belt +
+      '<path d="'+NECK+'" fill="'+SKIN+'"/>' +
+      '<path d="'+HAIR_D+'" fill="'+HAIR+'"/>' +
+      '<ellipse cx="80" cy="28" rx="19" ry="21" fill="'+SKIN+'"/>' +
+      '<path d="'+SHOE_L+'" fill="'+shoe.color+'"'+shoeStroke+'/>' +
+      '<path d="'+SHOE_R+'" fill="'+shoe.color+'"'+shoeStroke+'/>' +
+      '</svg>';
+  }
+
+  function dollTopOpen(base, outerColor, outerStroke, bottom, shoe){
+    var legOverlay = bottom.type==='shorts'
+      ? '<path d="'+SHORTS_L+'" fill="'+bottom.color+'"/><path d="'+SHORTS_R+'" fill="'+bottom.color+'"/>'
+      : '<path d="'+LEG_L+'" fill="'+bottom.color+'"/><path d="'+LEG_R+'" fill="'+bottom.color+'"/>';
+    var belt = bottom.type==='pants' ? '<rect x="58" y="175" width="44" height="6" rx="2" fill="'+MARRON+'"/>' : '';
+    var strokeAttr = outerStroke ? ' stroke="'+outerStroke+'" stroke-width="1"' : '';
+
+    return '<svg viewBox="0 0 160 316">' +
+      '<ellipse cx="80" cy="304" rx="42" ry="6" fill="#000" opacity="0.07"/>' +
+      '<path d="'+LEG_L+'" fill="'+SKIN+'"/><path d="'+LEG_R+'" fill="'+SKIN+'"/>' +
+      legOverlay +
+      '<path d="'+ARM_L+'" fill="'+SKIN+'"/><path d="'+ARM_R+'" fill="'+SKIN+'"/>' +
+      '<circle cx="47" cy="177" r="6" fill="'+SKIN+'"/><circle cx="113" cy="177" r="6" fill="'+SKIN+'"/>' +
+      '<path d="'+TORSO_SHORT+'" fill="'+base.color+'"'+(base.stroke?' stroke="'+base.stroke+'" stroke-width="1"':'')+'/>' +
+      '<path d="'+JACKET_L+'" fill="'+outerColor+'"'+strokeAttr+'/>' +
+      '<path d="'+LAPEL_L+'" fill="'+outerColor+'"'+strokeAttr+'/>' +
+      '<path d="'+JACKET_R+'" fill="'+outerColor+'"'+strokeAttr+'/>' +
+      '<path d="'+LAPEL_R+'" fill="'+outerColor+'"'+strokeAttr+'/>' +
+      belt +
+      '<path d="'+NECK+'" fill="'+SKIN+'"/>' +
+      '<path d="'+HAIR_D+'" fill="'+HAIR+'"/>' +
+      '<ellipse cx="80" cy="28" rx="19" ry="21" fill="'+SKIN+'"/>' +
+      '<path d="'+SHOE_L+'" fill="'+shoe.color+'"'+(shoe.stroke?' stroke="'+shoe.stroke+'" stroke-width="1"':'')+'/>' +
+      '<path d="'+SHOE_R+'" fill="'+shoe.color+'"'+(shoe.stroke?' stroke="'+shoe.stroke+'" stroke-width="1"':'')+'/>' +
+      '</svg>';
+  }
+
+  var nav = document.getElementById('topNav');
+
+  function buildGallery(items, containerId, idPrefix, navGroupLabel){
+    var container = document.getElementById(containerId);
+
+    var navGroup = document.createElement('span');
+    navGroup.className = 'navgroup';
+    navGroup.textContent = navGroupLabel;
+    nav.appendChild(navGroup);
+
+    items.forEach(function(item, i){
+      var sectionId = idPrefix + '-' + i;
+
+      var a = document.createElement('a');
+      a.href = '#' + sectionId;
+      a.innerHTML = '<span class="idot" style="background:'+item.color+'"></span>' + item.name;
+      nav.appendChild(a);
+
+      var section = document.createElement('section');
+      section.className = 'top-section';
+      section.id = sectionId;
+
+      var heading = document.createElement('div');
+      heading.className = 'top-heading';
+      heading.innerHTML = '<span class="dot" style="background:'+item.color+(item.stroke?';border-color:'+item.stroke:'')+'"></span><h2>'+item.name+'</h2><span class="count">8 combos</span>';
+      section.appendChild(heading);
+
+      var grid = document.createElement('div');
+      grid.className = 'grid';
+
+      BOTTOMS.forEach(function(bottom){
+        SHOES.forEach(function(shoe){
+          var card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = doll(item, bottom, shoe) +
+            '<div class="cap"><b>' + bottom.name + '</b><br>' + shoe.name + '</div>';
+          grid.appendChild(card);
+        });
+      });
+
+      section.appendChild(grid);
+      container.appendChild(section);
+    });
+  }
+
+  buildGallery(TOPS, 'sections-tops', 'top', 'Tops');
+  buildGallery(MID_LAYERS, 'sections-mid', 'mid', 'Capas medias');
+  buildGallery(OUTER_LAYERS, 'sections-outer', 'outer', 'Capas superiores');
+
+  // Prueba: capa superior negra ABIERTA sobre cada capa media (mangas = capa superior, centro del pecho = capa media)
+  var testBottom = {name:'Chino azul marino', color:MARINO, type:'pants'};
+  var testShoe = {name:'Zapatilla cuero marrón', color:MARRON};
+  var testGrid = document.getElementById('sections-open-test');
+  MID_LAYERS.forEach(function(mid){
+    var card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = dollLayered(mid, NEGRO, testBottom, testShoe) +
+      '<div class="cap"><b>Capa superior negra (abierta)</b><br>+ ' + mid.name.replace(' (cerrada)','') + '<br>' + testBottom.name + ' · ' + testShoe.name + '</div>';
+    testGrid.appendChild(card);
+  });
+
+  // Prueba: camisa celeste ABIERTA sobre distintas remeras
+  var camisaTestBottom = {name:'Chino azul marino', color:MARINO, type:'pants'};
+  var camisaTestShoe = {name:'Zapatilla cuero marrón', color:MARRON};
+  var camisaTestTops = [TOPS[0], TOPS[3], TOPS[1], TOPS[2]]; // crudo, heather gris, marino, oliva
+  var camisaGrid = document.getElementById('sections-camisa-test');
+  camisaTestTops.forEach(function(base){
+    var card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = dollTopOpen(base, CAMISA, '#a9c5d6', camisaTestBottom, camisaTestShoe) +
+      '<div class="cap"><b>Camisa celeste (abierta)</b><br>+ ' + base.name + '<br>' + camisaTestBottom.name + ' · ' + camisaTestShoe.name + '</div>';
+    camisaGrid.appendChild(card);
+  });
+})();
+</script>

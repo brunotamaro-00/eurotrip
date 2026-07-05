@@ -21,7 +21,7 @@
 - **En trenes/buses:** Se lleva puesta, sin restricción de peso
 
 ### Mochila Chica de Día
-- **Tipo:** Mochila compacta (~20-25L)
+- **Tipo:** Mochila compacta (18L)
 - **Uso diario:** Day trips, salidas, llevar cosas del día
 - **En vuelos:** Funciona como carry-on (documentos, electrónica, cambio de ropa)
 
@@ -33,17 +33,17 @@
 
 ## 👕 Ropa
 
-> **Prioridad: liviano, secado rápido y versátil.** Las remeras de ciudad pueden ser algodón de calidad (con lavandería semanal no hay problema de secado). Las de trekking sí deben ser sintéticas. Ropa de frío se compra allá sobre el final si es necesario.
+> **Prioridad: liviano, secado rápido y versátil.** Las remeras de ciudad pueden ser algodón de calidad (con lavandería semanal no hay problema de secado). Las técnicas deben poder cumplir doble función — trekking y ciudad — así que buscar tela mixta (performance con look/corte normal), no una remera 100% deportiva. Ropa de frío se compra allá sobre el final si es necesario.
 
-### Tops (6 prendas)
-- [ ] 2 remeras manga corta **algodón Supima o mezcla lino-algodón** — ciudad, cenar, uso general
+### Tops (8 prendas)
+- [ ] 4 remeras manga corta **algodón Supima o mezcla lino-algodón** — ciudad, cenar, uso general
   - *Uniqlo Supima Cotton Tee · Gap Favorite Tee · H&M Premium Cotton*
-- [ ] 2 remeras manga corta **técnicas/sintéticas** — trekking y días de mucho movimiento
-  - *Patagonia Capilene Cool Daily · Arc'teryx Motus SL · Decathlon Kalenji (opción económica)*
-- [ ] 1 **camisa de botones liviana** (lino o nylon blend) — enrollada ocupa mínimo; transforma cualquier look para cenar
+- [ ] 2 remeras manga corta **técnicas "mixtas"** — sirven para trekking, pero con corte y textura de remera normal para poder usarlas también recorriendo ciudad; nada de pinta 100% deportiva/running (evitar telas brillantes o cortes muy ajustados tipo atlético)
+  - *Vuori Strato Tech Tee · Rhone Composite Tee · Western Rise AirLoft Tee · Unbound Merino Tee (lana merino, tampoco huele) · Uniqlo AIRism Cotton*
+- [ ] 1 **camisa de botones liviana, celeste clarito (chambray)** (lino o nylon blend) — enrollada ocupa mínimo; transforma cualquier look para cenar, y funciona abierta sobre una remera como capa liviana de ciudad
   - *Uniqlo Premium Linen · Patagonia Go To Shirt · Bluffworks Ascender*
-- [ ] 1 remera manga larga **algodón ligero o sintética** — capa extra o días frescos
-  - *Uniqlo Supima Cotton LS · Patagonia Capilene Cool LS*
+- [ ] 1 remera manga larga **térmica/técnica** — base layer para capa extra o días frescos, también sirve de segunda piel bajo el puff en el frío
+  - *Uniqlo Heattech · Patagonia Capilene Thermal Weight · Icebreaker Merino 200 Oasis LS*
 
 ### Pantalones / Bottoms (4 prendas)
 
@@ -56,19 +56,19 @@
 **Pantalones largos (2)**
 - [ ] 1 **pantalón prolijo** (chino travel liviano, quick-dry) — para cenar, salidas más arregladas
   - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
-- [ ] 1 **pantalón para recorrer** (lino liviano) — cómodo para caminar todo el día, canchero, enrolla casi a nada
-  - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá)*
+- [ ] 1 **pantalón para recorrer** (lino-mezcla, no lino 100% — lino-algodón o lino-viscosa 60-70% lino) — cómodo para caminar todo el día, canchero, enrolla casi a nada; la mezcla arruga mucho menos que el lino puro y seca más rápido
+  - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá) · Bowen (Argentina)*
 
 ### Capas Externas
 
 **Capas medias (abrigo)**
-- [ ] 1 **sweater merino** — capa media prolija, usable sola en ciudad; no huele tras varios usos
-  - *Uniqlo Merino Crew Neck · Icebreaker Merino 260 · Zara lana merino*
-- [ ] 1 **buzo / hoodie liviano** — segunda capa media para frío más intenso o días casuales
-  - *Uniqlo Fleece Crewneck · Vuori Ponto Half Zip · Carhartt Chase Half-Zip*
+- [ ] 1 **capa técnica — liviana y muy abrigada**: para usar debajo del rompevientos/puff en los días de más frío; prioriza calor por peso sobre estética, va tapada
+  - *Patagonia R1 Air Zip-Neck (fleece técnico, muy abrigado y transpirable) · Uniqlo Ultra Light Down (pluma, comprime al mínimo) · Patagonia Micro Puff*
+- [ ] 1 **capa de ciudad, azul marino** — punto fino/liviana, no ocupa bulto; se usa **abierta** sobre remera para salir/lucirse, y **cerrada** cualquier otro día de frío moderado (cubre también el rol de "capa básica")
+  - *Cárdigan de punto fino en marino (COS, Uniqlo, J.Crew) · overshirt liviano tipo punto (no tejido plano)*
 
 **Capas externas (protección)**
-- [ ] 1 **puff sintético sin capucha** (Uniqlo PUFFTECH Jacket) — abrigo principal comprimible; sintético = abriga incluso húmedo
+- [ ] 1 **puff sintético** (Uniqlo PUFFTECH Jacket) — abrigo principal comprimible; sintético = abriga incluso húmedo
 - [ ] 1 **rompevientos impermeable packable** — protección lluvia/viento; va encima de todo cuando llueve *(a confirmar, ver opciones abajo)*
 
   **Opciones rompevientos — todas packable, impermeables y livianas:**
@@ -76,7 +76,7 @@
   - **The North Face Venture 2 (~$90)** — clásica, packable, totalmente impermeable, costuras selladas, muy probada
   - **Columbia Glennaker Lake II (~$70)** — la más económica; packable (capucha se guarda en el cuello); protección algo más limitada para lluvia intensa
 
-**🛍️ Comprar allá si hace falta (octubre-noviembre):** bufanda, gorro, guantes
+**🛍️ Comprar allá si hace falta (octubre-noviembre):** gorro, guantes
 
 ### Ropa Interior
 - [x] 5-6 pares de ropa interior (merino o sintética — se puede lavar a mano entre lavanderías)
@@ -119,10 +119,8 @@
 - [ ] 1 botella con filtro de agua — evita comprar botellas en todo el viaje, ahorra plata y espacio
   - *LifeStraw Go · Katadyn BeFree · GRAYL Geopress*
 - [ ] Candados de combinación (para lockers de hostels — los hostels cobran alquiler si no llevás el tuyo)
-- [ ] 1 bufanda / pañuelo liviano — triple uso: frío de noche, cubrir hombros en iglesias/museos, almohada en tren
-  - *Seda, algodón liviano o lana fina — comprar allá también es opción*
-- [ ] 1 **Buff / tube de cuello** — protección solar, abrigo de cuello, filtro de polvo, puede funcionar como gorro; viajeros de largo plazo lo mencionan como indispensable
-  - *Buff Original · Smartwool Neck Gaiter*
+- [ ] 1 **cuellito técnico (buff/neck gaiter)** — protección solar, abrigo de cuello para el frío, filtro de polvo, puede funcionar como gorro; técnico y sin bulto
+  - *Salomon RS Warm/Neck Warmer · Buff Original · Smartwool Neck Gaiter*
 - [ ] 2 **AirTags** — uno en la mochila grande, uno en la mochila de día; muy recomendados en viajes largos para localizar equipaje
 - [ ] 1 **bolígrafo** — para formularios en fronteras, aeropuertos y documentación; mencionado en casi todos los posts de viajeros experimentados
 
@@ -311,20 +309,20 @@
 
 ### Estrategia de Capas
 - **Agosto (verano):** Ropa ligera + cortavientos para lluvia
-- **Septiembre:** + Hoodie/buzo liviano
-- **Octubre-Noviembre:** Comprar ropa de frío allá (fleece, chaqueta, gorro, bufanda)
+- **Septiembre:** + capa técnica liviana (fleece/pluma)
+- **Octubre-Noviembre:** Comprar ropa de frío allá si hace falta (fleece, chaqueta, gorro, guantes)
 
 ### Regla de esta mochila
-- 6 tops: 2 algodón Supima (ciudad), 2 técnicas (trekking), 1 camisa de botones, 1 manga larga
+- 8 tops: 4 algodón (crudo, marino, oliva, heather gris cálido), 2 técnicas mixtas (gris carbón, negro), 1 camisa de botones, 1 manga larga térmica
 - 4 bottoms: bermuda prolija + short deportivo + chino travel (prolijo) + pantalón lino (recorrer)
-- 4 capas: sweater merino + buzo/hoodie + puff sintético (Powder Lite) + shell impermeable
-- 3 pares de calzado: deportivas con suela + zapatilla cuero/sneaker + ojotas
+- 4 capas: capa de ciudad marino (linda y liviana, abierta o cerrada — hace de básica también) + capa técnica (liviana y muy abrigada, va debajo) + puff sintético (Powder Lite) + shell impermeable
+- 2 pares de zapatillas (deportivas con suela + zapatilla cuero/sneaker) + ojotas
 - El board short hace de malla → una prenda menos
 
 ### Materiales
 - **Remeras de ciudad:** algodón Supima o lino-algodón — con lavandería semanal no hay problema de secado
-- **Remeras de trekking:** sintético/quick-dry obligatorio
-- **Pantalones:** nylon o mezcla para chino/bermuda; lino para el pant cómodo
+- **Remeras técnicas:** tela mixta quick-dry con look/corte de remera normal — sirven para trekking sin desentonar caminando por la ciudad, evitar sintético 100% brillante/atlético
+- **Pantalones:** nylon o mezcla para chino/bermuda; lino-mezcla (no lino 100%) para el pant cómodo — arruga menos y seca más rápido
 - **Evitar:** prendas que necesiten planchado, telas que tarden días en secar a mano
 
 ### ❌ Qué NO llevar (lecciones de la comunidad viajera)
@@ -346,13 +344,81 @@
 - **Mapas offline descargados antes de salir** — Google Maps o Organic Maps (gratis); no esperes a necesitarlos sin datos
 - **Ropa no necesita lavarse tras cada uso** — el algodón y especialmente el merino aguantan 2-3 usos; no todo va a la lavandería cada vez
 
-### Colores Neutros
-- Negro, gris, azul marino, beige
-- Todo combina con todo
-- Menos se nota la suciedad
-
 ### Usa lo que pesas más
 - En vuelos, usa las zapatillas más pesadas y la chaqueta/buzo
+
+---
+
+## 🎨 Colorimetría de la Mochila (Paleta Cápsula)
+
+> **Objetivo:** que cualquier top combine con cualquier bottom sin pensar. Se logra con una regla simple: **la mayoría de las prendas son neutros intercambiables, y solo 1-2 son "acento"** (llaman la atención pero solo necesitan combinar con los neutros, no entre sí).
+
+### La Paleta (6 colores, todo el guardarropa)
+
+**Neutros base (4) — combinan entre sí sin excepción**
+| Color | Rol |
+|---|---|
+| **Azul marino** | ancla fría — pantalones, capa de ciudad, calzado |
+| **Gris carbón / antracita** | ancla fría — tops técnicos, capa técnica, shell |
+| **Beige / arena (khaki)** | ancla cálida — bottoms de lino/algodón |
+| **Blanco crudo / off-white** | neutro claro — tops de algodón, contraste |
+
+**Acento (1) — combina con los 4 neutros**
+| Color | Rol |
+|---|---|
+| **Verde oliva** | acento "outdoor", disimula tierra/polvo en trekking |
+
+**Regla práctica:** si dudás, elegí un neutro. El acento es para cuando querés "un toque" en la remera.
+
+> **Historial del acento:** se probó terracota → mostaza → ladrillo apagado → bordó, ninguna terminó de convencer para una prenda "de vestir" dedicada. Se retiró el top opcional de color y se reemplazó por una 2da remera técnica (negro), así que ahora solo queda **verde oliva** como acento — ya no hace falta que combine con un segundo acento porque no hay otro. La oliva además se convirtió de técnica a algodón, así que el acento ya no vive en una prenda técnica sino en una remera de ciudad normal.
+
+### Asignación por Prenda
+
+| Prenda | Color sugerido |
+|---|---|
+| Remera algodón #1 | Blanco crudo |
+| Remera algodón #2 | Azul marino |
+| Remera algodón #3 | Verde oliva (convertida de técnica a algodón) |
+| Remera algodón #4 | Heather gris cálido (más cálido que el carbón puro, distinto de las técnicas) — va antes de las técnicas en el orden |
+| Remera técnica #1 (mixta: trekking + ciudad) | Gris carbón |
+| Remera técnica #2 (mixta: trekking + ciudad) | Negro — va después de la técnica gris carbón en el orden |
+| Camisa de botones | Celeste clarito (chambray) — pensada para usar abierta sobre remera |
+| Manga larga (térmica) | Negro |
+| Bermuda prolija | Beige / arena |
+| Short deportivo | Gris carbón o negro |
+| Pantalón chino (prolijo) | Azul marino o gris carbón |
+| Pantalón lino (recorrer) | Beige / arena |
+| Capa técnica (abrigada) | Gris carbón — va tapada, no importa que sea sobria |
+| Capa de ciudad (nueva compra) | Azul marino — abierta para lucirse, cerrada como capa básica de frío moderado |
+| Puff sintético | Negro |
+| Rompevientos | Negro |
+| Zapatillas deportivas | Negro |
+| Zapatilla cuero/sneaker casual | Marrón cuero |
+| Ojotas | Cualquiera — no se combinan con nada |
+| Cinturón | **Marrón**, a juego con la zapatilla de cuero |
+| Cuellito técnico (buff) | Negro o gris carbón — es técnico, va tapado bajo capas, no necesita seguir el acento |
+
+### Por qué funciona
+- **4 neutros + 1 acento = ~90% de combinaciones válidas** sin pensar cada mañana
+- El **acento (oliva) vive en una remera de algodón normal** — no hay ninguna prenda "de vestir" dedicada a un color, todo el guardarropa es neutro salvo esa remera
+- Los **neutros fríos (marino/carbón) y cálidos (beige/blanco)** conviven bien porque ninguno es demasiado saturado
+- El **calzado queda fijo:** deportivas negras + zapatilla de cuero marrón (+ cinturón marrón a juego) — ambos son neutros absolutos, van con todo lo de arriba sin excepción. Negro se eligió por practicidad (no muestra desgaste en 109 días de mochila) sin perder combinabilidad
+
+### Nota sobre tono de piel (tez mediterránea)
+Con tez mediterránea (subtono cálido, tipo sur de Italia) esta paleta ya funciona bien tal cual — no hace falta cambiarla, solo un par de matices:
+- El **acento cálido (verde oliva)** es justamente de los que más favorecen a subtonos cálidos — queda bien puesto.
+- Preferir **blanco crudo/off-white sobre blanco puro** — el blanco stark puede verse duro contra piel bronceada; el crudo ya es la opción por defecto en esta lista.
+- **Azul marino y gris carbón** (los neutros fríos) igual funcionan como contraste — dan profundidad sin competir con el tono de piel, no hace falta evitarlos.
+- El **dorado** (si llevás algún accesorio metálico — reloj, anteojos, hebilla) tiende a favorecer más que la plata con este subtono, pero es un detalle menor, no cambia la ropa.
+
+### Nota sobre prendas no básicas (estampadas / con textura)
+El sistema de arriba asume prendas lisas. Si alguna remera que termines comprando no es básica (rayas, print, textura marcada), tené en cuenta:
+- **Que el color dominante del estampado esté dentro de la paleta** (uno de los 6 colores) — así sigue leyendo como parte del sistema aunque no sea lisa.
+- **Máximo 1 prenda estampada en toda la mochila** — ya no hay un slot "opcional" dedicado, así que si aparece una estampada tendría que reemplazar a una de las 8 prendas fijas. Más de una estampada rompe el objetivo de no pensar combinaciones.
+- **Nunca combinar estampado con estampado** — estampada arriba siempre va con bottom liso (chino marino, lino beige, etc.).
+- **Si el print tiene más de un color, que al menos uno coincida con la paleta** — evita meter un 7mo color suelto que no combina con nada.
+- **Preferir estampado chico/sutil sobre gráfico grande** si querés que sirva tanto de día como para alguna cena — un gráfico muy fuerte la deja más limitada a looks casuales.
+- Plus práctico: una estampada disimula manchas y arrugas mejor que un color liso — buena candidata para los días de más uso/transporte.
 
 ---
 
@@ -393,7 +459,6 @@ No todo hay que llevarlo. Europa tiene tiendas baratas (Primark, Decathlon, H&M)
 ### Comprar si hace falta (octubre-noviembre)
 - Fleece / polar (capa media abrigada)
 - Chaqueta de otoño/invierno
-- Bufanda
 - Gorro para frío
 - Guantes
 
@@ -404,38 +469,6 @@ No todo hay que llevarlo. Europa tiene tiendas baratas (Primark, Decathlon, H&M)
 - Cualquier prenda que se rompa o haga falta
 
 **Llevar solo lo esencial y comprar sobre la marcha si es necesario.**
-
----
-
----
-
-## 🛒 Lista de Compras — Amazon US
-
-> Accesorios más recomendados por la comunidad viajera para viajes largos de este estilo. Muchos ya están mencionados en las secciones anteriores; acá están consolidados en un solo lugar para comprar todo junto.
-
-### ⚡ Carga y Energía
-
-- [x] **PowerCore Slim 10000**
-- [x] **Adaptador universal con puertos USB** — EPICKA TA-105 (cubre UK Tipo G + Europa + 23 países; tiene 4 puertos USB integrados) — reemplaza llevar adaptadores separados
-- [x] **Cable USB-C a USB-C** (extra, 1m) — para cargar laptop desde powerbank
-
-### 😴 Sueño y Comodidad
-
-- [x] **Tapones de oído de silicona** — moldeable, duran más y sellan mejor que los de espuma; *Mack's Pillow Soft* o *Hearos* (llevar 6–8 pares; se pierden)
-- [x] **Antifaz para dormir contorneado** — que no presione los ojos; *Alaska Bear* (seda natural, muy liviano) o *Mavogel Cotton*
-
-### 🔐 Seguridad
-
-- [x] **Candados TSA de combinación (x3)**
-
-### 🗂️ Organización
-
-- [x] **Packing cubes set (4–6 piezas)** — *BAGAIL Basic* · *AmazonBasics Packing Cubes* · *Gonex Packing Cubes* · *YAMIU Packing Cubes* — todas bajo $15–20 el set, buenas reseñas, funcionan igual que las de marca premium
-
-### ⚖️ Practicidad
-
-- [x] **Cubiertos de viaje ligeros (spork o set)** — para picnics y mercados;
-- [x] **Tuppers de silicona colapsables (x2, ~600–800ml)** — colapsan planos cuando están vacíos; para mercados, sobras y picnics; *SILIVO Collapsible Lunch Box* · *Collapse-it Silicone Food Storage* · *MAMI WATA Collapsible Containers* — buscar set de 2 del mismo tamaño mediano, +1000 reviews, bajo $20
 
 ---
 
