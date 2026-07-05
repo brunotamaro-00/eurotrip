@@ -13,7 +13,6 @@
 - **Torre Eiffel (cima)** — tickets con slot horario; en agosto-septiembre se agotan días/semanas antes; sin reserva solo se llega al 2° piso con escaleras `https://ticket.toureiffel.paris/`
 - **Sainte-Chapelle** — colas de 45min+ sin reserva; taquilla online lo evita; ir con sol (10:30-14:30) para las vitrales `https://www.sainte-chapelle.fr/`
 - **Catacumbas** — OBLIGATORIO reservar online; solo 200 personas simultáneas; se agotan con semanas de anticipación `https://www.catacombes.paris.fr/`
-- **Louvre** — ticket con slot horario obligatorio; no hay venta en puerta; el miércoles hasta 21:45 es el horario con menos turistas `https://www.louvre.fr/`
 - **Jazz à la Villette (28 ago - 6 sept)** — entradas para headliners; reservar con anticipación `https://jazzalavillette.com/`
 
 ---
@@ -158,6 +157,7 @@
 - [ ] **Jazz à la Villette** (28 ago - 6 sept 2026) — Festival de jazz, soul, funk, hip-hop en La Villette; conciertos pagos (~**€20-40**) y algunos gratuitos; Snarky Puppy, Selah Sue entre los artistas — reservar online con anticipación para headliners `https://jazzalavillette.com/`
 - [ ] **Marchés aux Puces de Saint-Ouen** — domingo 30 agosto (el día ideal del viaje; abren 10am)
 - [ ] **Marché Bastille** — jueves 3 septiembre; el mercado del barrio parisino en su mejor momento
+- [x] **Festival Silhouette** — festival de cortometrajes al aire libre, gratis. Cada noche: concierto + proyección de cortos. Pantalla gigante. Gente joven, local, ambiente relajado.
 
 ---
 

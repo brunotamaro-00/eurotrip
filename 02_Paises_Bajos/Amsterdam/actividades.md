@@ -12,8 +12,6 @@
 ## 🚨 RESERVAS URGENTES — Hacer YA (o en fecha exacta)
 
 - **Anne Frank House** — tickets se liberan **los martes a las 10:00 CET, 6 semanas antes**. Para visitar el 25-29 ago → **el martes de apertura es el 14 de julio a las 10:00 CET en punto**. Se agotan en minutos. Solo en annefrank.org. **No** está incluida en I Amsterdam City Card `https://www.annefrank.org/en/museum/tickets/`
-- **Van Gogh Museum** — **no hay tickets en puerta**; solo online con slot horario. Reservar lo antes posible (se agotan semanas antes en agosto). **No** incluido en I Amsterdam City Card `https://tickets.vangoghmuseum.com/`
-- **Rijksmuseum** — más flexible pero conviene reservar slot para evitar colas `https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices/ticket-info`
 
 ---
 
