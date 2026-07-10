@@ -1,7 +1,7 @@
 # 🚆 Transporte en Innsbruck
 
 **Fechas:** 23 septiembre — **tránsito** hacia Viena el mismo día (salvo que se sumen **1–2 noches**) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **SBB + Railjet vía Zürich** desde Interlaken (~5h30–6h) → detalle en [`../../06_Suiza/Interlaken y alrededores/transporte.md`](../../06_Suiza/Interlaken%20y%20alrededores/transporte.md). El Railjet llega a **Innsbruck Hbf**, a ~10 min a pie / 1 parada de tranvía del casco.
+**Llegada:** tren **SBB + Railjet vía Zürich** desde Interlaken (~5h30–6h) → detalle en [`../../06_Suiza/Interlaken/transporte.md`](../../06_Suiza/Interlaken/transporte.md). El Railjet llega a **Innsbruck Hbf**, a ~10 min a pie / 1 parada de tranvía del casco.
 **Salida:** tren **ÖBB Railjet** hacia **Viena** (~4h) — el mismo Railjet continúa Zürich–Innsbruck–**Wien** (ver sección Salida)
 
 > ⚠️ **Tramo tentativo (post-Portugal)** — re-verificar al confirmar fechas.

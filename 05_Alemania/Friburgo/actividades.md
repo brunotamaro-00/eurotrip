@@ -20,23 +20,26 @@
 
 ## ⛪ Ciudad de Friburgo
 
-- [ ] **Freiburger Münster (Catedral)** ⭐ - La catedral gótica del s. XIII con la torre más perfecta del mundo según Jacob Burckhardt; la "linterna" gótica calada en el campanario es única en Europa; reliquias medievales y vitrales del s. XIII-XIV en el interior; la **Münstermarkt** al pie cada mañana (GRATIS interior; torre **€5** adulto) `https://www.freiburgermuenster.info/`
-- [ ] **Altstadt (Casco Histórico) + Bächle** ⭐ - El centro medieval reconstruido tras la WWII; los **Bächle** son acequias de agua que corren por todas las calles desde la Edad Media (control de incendios y abastecimiento); la leyenda dice que si pisás uno por accidente, te casarás con alguien de Friburgo (GRATIS) — caminar de 2-3h cubriendo el casco viejo en detalle
-- [ ] **Schlossberg** - La colina boscosa sobre la ciudad; el mirador más accesible con vistas sobre los tejados y el campanario del Münster; subida a pie (20min) o en funicular (Schlossbergbahn); ruinas del antiguo castillo arriba; cafés en la cima (GRATIS subir a pie; funicular **€3.50** ida) `https://www.schlossberg-bahn.de/`
-- [ ] **Martinstor y Schwabentor** - Las dos puertas medievales del s. XIII que sobrevivieron las bombas de WWII; el Martinstor con McDonalds en el arco es el cruce más paradójico de la ciudad (GRATIS)
-- [ ] **Rathausplatz (Plaza del Ayuntamiento)** - El corazón administrativo de Friburgo; el Neues Rathaus y el Altes Rathaus conectados por un puente del s. XX; el tilo centenario en el centro (GRATIS)
-- [ ] **Colombischlössle / Porte de la vieille ville** - El pequeño castillo victoriano en el parque; el único edificio que no fue destruido en los bombardeos de WWII del barrio histórico (`https://museen.freiburg.de/your-visit`)
-- [ ] **Barrio Stühlinger** - El barrio alternativo al otro lado de la estación; murales, cafés de estudiantes, mercados de segunda mano; la versión underground de Friburgo (GRATIS explorar)
+- [?] **Freiburger Münster (Catedral)** ⭐ - La catedral gótica del s. XIII con la torre más perfecta del mundo según Jacob Burckhardt; la "linterna" gótica calada en el campanario es única en Europa; reliquias medievales y vitrales del s. XIII-XIV en el interior; la **Münstermarkt** al pie cada mañana (GRATIS interior; torre **€5** adulto) `https://www.freiburgermuenster.info/`
+- [x] **Altstadt (Casco Histórico) + Bächle** ⭐ - El centro medieval reconstruido tras la WWII; los **Bächle** son acequias de agua que corren por todas las calles desde la Edad Media (control de incendios y abastecimiento); la leyenda dice que si pisás uno por accidente, te casarás con alguien de Friburgo (GRATIS) — caminar de 2-3h cubriendo el casco viejo en detalle
+- [x] **Schlossberg** - La colina boscosa sobre la ciudad; el mirador más accesible con vistas sobre los tejados y el campanario del Münster; subida a pie (20min) o en funicular (Schlossbergbahn); ruinas del antiguo castillo arriba; cafés en la cima (GRATIS subir a pie; funicular **€3.50** ida) `https://www.schlossberg-bahn.de/`
+- [?] **Martinstor y Schwabentor** - Las dos puertas medievales del s. XIII que sobrevivieron las bombas de WWII; el Martinstor con McDonalds en el arco es el cruce más paradójico de la ciudad (GRATIS)
+- [?] **Rathausplatz (Plaza del Ayuntamiento)** - El corazón administrativo de Friburgo; el Neues Rathaus y el Altes Rathaus conectados por un puente del s. XX; el tilo centenario en el centro (GRATIS)
+- [ ] **Colombischlössle / Porte de la vieille ville** - El pequeño castillo victoriano en el parque; el único edificio que no fue destruido en los bombardeos de WWII del barrio histórico (`https://museen.freiburg.de/your-visit`). No lo encontré en maps
+- [?] **Barrio Stühlinger** - El barrio alternativo al otro lado de la estación; murales, cafés de estudiantes, mercados de segunda mano; la versión underground de Friburgo (GRATIS explorar)
 - [ ] **Barrio Vauban** - El barrio de urbanismo sostenible más famoso de Alemania; 5000 habitantes con energía pasiva o positiva; coches prohibidos en calles residenciales; los tejados cubiertos de paneles solares; visitarlo es entender el futuro de la ciudad europea (GRATIS; tranvía línea 3) `https://www.vauban.de/`
 - [ ] **Campus Universidad Albert-Ludwig** - Una de las universidades más antiguas de Alemania (1457); 25.000 estudiantes hacen de Friburgo una ciudad siempre joven; el campus histórico junto a la Altstadt vale un paseo (GRATIS)
+- [x] **Konviktstraße** - la calle más linda de la Altstadt; adoquines, cubierta de glicinas en primavera, cafés y ambiente pintoresco (GRATIS)
+- [ ] **Historisches Kaufhaus** - el edificio rojo de la Münsterplatz; una de las fachadas más famosas de Friburgo; antigua casa mercantil del s. XVI (GRATIS ver por afuera)
+- [?] **Seepark Freiburg** - parque con lago al oeste de la ciudad; no es "wow" pero lindo para descansar o hacer un picnic si sobra tiempo (GRATIS)
 
 ---
 
 ## 🏛️ Museos
 
-- [ ] **Augustinermuseum** ⭐ - El museo más importante de Friburgo; inauguró salas nuevas en febrero 2026 tras renovación; colección de arte del Alto Rin del s. XII-XIX; las esculturas originales del Münster (las copias están en la fachada) y los primitivos alemanes son lo más valioso (**€12** adulto; ticket válido todos los museos del día) `https://museen.freiburg.de/augustiner`
+- [ ] **Augustinermuseum** - El museo más importante de Friburgo; inauguró salas nuevas en febrero 2026 tras renovación; colección de arte del Alto Rin del s. XII-XIX; las esculturas originales del Münster (las copias están en la fachada) y los primitivos alemanes son lo más valioso (**€12** adulto; ticket válido todos los museos del día) `https://museen.freiburg.de/augustiner`
 - [ ] **Museum Natur und Mensch** - Historia natural y etnología; colecciones de ciencias naturales de la región y objetos de África, Asia y Oceanía; el museo de los escolares de Friburgo, sorprendentemente bien curado (**€5** adulto) `https://museen.freiburg.de/naturmensch`
-- [ ] **Uniseum** - La historia de la Universidad de Friburgo desde 1457; en el edificio histórico del rectorado; exposición muy completa sobre los orígenes del conocimiento en la región (GRATIS) `https://www.uniseum.uni-freiburg.de/`
+- [?] **Uniseum** - La historia de la Universidad de Friburgo desde 1457; en el edificio histórico del rectorado; exposición muy completa sobre los orígenes del conocimiento en la región (GRATIS) `https://www.uniseum.uni-freiburg.de/`
 - [ ] **Kunsthalle Freiburg** - El centro de arte contemporáneo de Friburgo; exposiciones temporales de artistas alemanes e internacionales (GRATIS las exposiciones del patio) `https://www.kunsthalle-freiburg.de/`
 - [ ] **Museum für Stadtgeschichte (Historia de la Ciudad)** - En el Wentzingerhaus del s. XVIII; historia de Friburgo desde la fundación hasta hoy (**~€3** adulto) `https://museen.freiburg.de/stadtgeschichte`
 
@@ -44,7 +47,7 @@
 
 ## 🛒 Mercados
 
-- [ ] **Münstermarkt** ⭐ - El mercado diario al pie de la catedral; productos de la Selva Negra (Schwarzwälder Kirschtorte, miel, jamón, quesos, vinos de Baden); el mercado más bonito de toda la región (GRATIS entrar) — lunes a sábado 7h-13:30h; los sábados son los más completos
+- [x] **Münstermarkt** ⭐ - El mercado diario al pie de la catedral; productos de la Selva Negra (Schwarzwälder Kirschtorte, miel, jamón, quesos, vinos de Baden); el mercado más bonito de toda la región (GRATIS entrar) — lunes a sábado 7h-13:30h; los sábados son los más completos
 - [ ] **Markt Stühlinger** - El mercado del barrio alternativo; más local y menos turístico que el Münstermarkt; martes y viernes (GRATIS)
 
 ---
@@ -85,17 +88,26 @@
 
 ### Día "fuerte" (naturaleza/trekking)
 
-- [ ] **Wutachschlucht (Garganta del Wutach)** ⭐ - La garganta más espectacular de Alemania; el "Gran Cañón" de la Selva Negra; 13km de trekking entre cascadas, paredes de roca y bosque primario; el recorrido clásico es de 4-5h; usar el **Wanderbus** para resolver la logística de punto a punto (sin necesidad de volver al inicio) — opera fines de semana y festivos de abril a principios de octubre `https://www.wutachschlucht.de/`
+- [?] **Wutachschlucht (Garganta del Wutach)** ⭐ - La garganta más espectacular de Alemania; el "Gran Cañón" de la Selva Negra; 13km de trekking entre cascadas, paredes de roca y bosque primario; el recorrido clásico es de 4-5h; usar el **Wanderbus** para resolver la logística de punto a punto (sin necesidad de volver al inicio) — opera fines de semana y festivos de abril a principios de octubre `https://www.wutachschlucht.de/` `https://www.youtube.com/watch?v=bKFoHRpsNsc`
 - [ ] **Feldberg + Feldsee** - El pico más alto de la Selva Negra (1493m); vistas hacia los Alpes en días claros; el Feldsee es el lago glaciar a los pies del pico; subida fácil desde el parking o en bus; en septiembre los arándanos están en sazón (GRATIS senderismo; bus desde Friburgo)
-- [ ] **Simonswälder Tal + Wasserfall Zweribach** - La alternativa menos masificada a Triberg para cascadas; valle tranquilo con sendero de 3-4h; muy recomendado en foros alemanes como alternativa a los puntos turísticos masivos
-- [ ] **Triberg (Cascadas)** - Las cascadas más famosas de Alemania y el origen del reloj cucú; turístico pero genuino (**~€5** acceso a las cascadas) — "si esperás naturaleza pura sin turistas, Triberg no es el lugar; si lo tomás como curiosidad cultural con las cascadas como bonus, cumple" (r/germany)
+- [?] **Simonswälder Tal + Wasserfall Zweribach** - La alternativa menos masificada a Triberg para cascadas; valle tranquilo con sendero de 3-4h; muy recomendado en foros alemanes como alternativa a los puntos turísticos masivos
+- [x] **Triberg (Cascadas)** - Las cascadas más famosas de Alemania y el origen del reloj cucú; turístico pero genuino (**~€5** acceso a las cascadas) — "si esperás naturaleza pura sin turistas, Triberg no es el lugar; si lo tomás como curiosidad cultural con las cascadas como bonus, cumple" (r/germany)
+- [ ] **Schauinsland** - la cumbre más cercana a Friburgo; se sube en teleférico (es un centro de esquí, **~€30** ida-vuelta) y se baja caminando (~2h); logística fácil y muy turística (bus frecuente hasta la base), puede ser medio día — nota: "vi un video y es medio meh", el teleférico es caro para lo que ofrece
+- [?] **Ravenna Schlucht** - garganta corta y escénica cerca del Höllental; alternativa "light" a Wutach (~2h); acceso fácil (tren + caminar hasta la base) — nota: quizás no suma mucho si ya se hace la bici por esa zona; buena si se quiere algo corto extra
+- [ ] **Westweg** - el sendero de larga distancia clásico de la Selva Negra (280 km); no se hace entero, sino **tramos de 1 día**; bosque muy profundo, pero puede ser algo repetitivo — "el más clásico de la región, pero no el mejor" (GRATIS)
 
 ### Día "suave" (lagos y pueblos)
 
-- [ ] **Titisee** - El lago más famoso de la Selva Negra; baño, barcas de alquiler y paseo por el borde; el pueblo junto al lago es turístico pero el lago en sí es bello; 30min desde Friburgo en tren directo — "ir temprano o fuera de hora pico para disfrutarlo; a mediodía en agosto es el peor; en septiembre más tranquilo" (r/germany)
+- [?] **Titisee** - El lago más famoso de la Selva Negra; baño, barcas de alquiler y paseo por el borde; el pueblo junto al lago es turístico pero el lago en sí es bello; 30min desde Friburgo en tren directo — "ir temprano o fuera de hora pico para disfrutarlo; a mediodía en agosto es el peor; en septiembre más tranquilo" (r/germany)
 - [ ] **Schluchsee** - El lago más grande y más tranquilo que Titisee; agua de montaña para nadar en verano; menos tiendas de recuerdos y más silencio; 40min en bus desde Friburgo — "si tuvieras que elegir entre Titisee y Schluchsee, los locales eligen siempre Schluchsee" (múltiples posts r/germany)
 - [ ] **Staufen im Breisgau** - El pueblo de los viñedos más cercano a Friburgo (15min en tren); calles medievales, bodegas abiertas para cata en septiembre (vendimia), el mejor paseo tranquilo si no se quiere naturaleza pero sí vino y pueblo (GRATIS; tren desde Friburgo ~€5)
 - [ ] **Breisach am Rhein** - El pueblo sobre el Rin con la catedral medieval en lo alto; desde Friburgo en 20min; cruzar el puente al lado alemán con vistas al viñedo del Kaiserstuhl (tren ~€5)
+
+### Día en bici — Titisee → Friburgo (downhill) 🚲
+
+- [x] **Ruta Titisee → Friburgo** ⭐ - subir en tren con la bici y bajar pedaleando: **31 km, casi todo cuesta abajo**, 3-4h, **medio día** (deja la tarde libre). Tren a Titisee (bici gratis saliendo ~9h), paseo por el lago y descenso por **Nessellachen → Dreisamtal → Friburgo** (evitar la B31). Alquiler **Frelo** (~€12/día).
+
+> 📄 Recorrido tramo por tramo, variantes del descenso, logística de tren/KONUS/Eurail, tips y **rutas alternativas (Plan B)** en [`Day_trips/Bici_Selva_Negra.md`](Day_trips/Bici_Selva_Negra.md).
 
 ---
 

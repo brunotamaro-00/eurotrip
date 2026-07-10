@@ -24,9 +24,9 @@
 | Países Bajos | 25-29 ago | 4 | $59.4 | $237.7 | ✅ Reservado |
 | Francia | 29 ago - 4 sept | 6 | $44.3 | $265.6 | ✅ Reservado |
 | **Portugal — Lisboa + Porto (1 persona)** | 4-12 sept | 8 | **$29.51 (Lisboa) + $36.70 (Porto)** | **$257.65** | ✅ Reservado (Lisboa + Porto) |
-| Francia — Estrasburgo | 12-14 sept | 2 | $40-60 | $80-120 | |
-| Francia — Colmar | 14-16 sept | 2 | $40-60 | $80-120 | |
-| Alemania — Friburgo | 16-19 sept | 3 | $38-55 | $114-165 | Selva Negra (base) |
+| Francia — Estrasburgo | 12-14 sept | 2 | $59.3 | $118.6 | ✅ Reservado (Airbnb) |
+| Francia — Colmar | 14-16 sept | 2 | $33.9 | $67.8 | ✅ Reservado (Airbnb) |
+| Alemania — Friburgo | 16-19 sept | 3 | $47.5 | $142.5 | ✅ Reservado (Black Forest Hostel) |
 | Suiza — Jungfrau Region | 19-23 sept | 4 | $72-90 | $288-360 | Interlaken/Lauterbrunnen/etc. |
 | Austria — Innsbruck | 23 sept (tránsito) | 0 | $50-70 | $0–140 | 0 noches en borrador; +1–2 si se confirman |
 | Austria — Viena | 23-28 sept | 5 | $52-62 | $260-310 | |
@@ -37,7 +37,7 @@
 | Italia | 15 oct - 8 nov | 24 | $40-56 | $960-1,344 | Florencia + Roma + Nápoles + Sur (10n) |
 | España | 8-18 nov | 10 | $35-48 | $350-480 | Barcelona + Madrid |
 | **Margen flex (ubicación TBD)** | a usar en el viaje | 3 | $35-48 | $105-144 | Colchón; sumar noches donde interese (no anclado al cierre) |
-| **TOTAL** | | **108** | | **$4,334.7-5,458.7** | |
+| **TOTAL** | | **108** | | **$4,389.6-5,382.6** | |
 
 ### Alimentación (por persona)
 
@@ -128,10 +128,10 @@
 | **Subtotal** | **$722.65-914.65** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
-- Alojamiento: $274-405 (Estrasburgo 2n + Colmar 2n + Friburgo 3n)
+- Alojamiento: $328.9 (✅ Reservado — Estrasburgo $59.3/n Airbnb 2n + Colmar $33.9/n Airbnb 2n + Friburgo $47.5/n Black Forest Hostel 3n)
 - Comida: $224-294
 - Actividades: $55-95
-- **Subtotal: ~$553-784**
+- **Subtotal: ~$607.9-717.9**
 
 ### Suiza (4 noches: 19-23 sept)
 - Alojamiento: $288-360
@@ -197,11 +197,11 @@
 
 | Categoría | Rango |
 |-----------|-------|
-| Alojamiento (100 noches, sin Portugal) | $4,000-4,945 |
+| Alojamiento (100 noches, sin Portugal) | $4,054.9-4,868.9 |
 | Alimentación (100 días, sin Portugal) | $3,040-4,256 |
 | Transporte (Eurail ya comprado) | $2,276.5-2,760.5 |
 | Otros | $2,203-3,603 |
-| **TOTAL pp (sin Portugal)** | **$11,519.5-15,564.5** |
+| **TOTAL pp (sin Portugal)** | **$11,574.4-15,488.4** |
 
 ### Portugal (1 persona, 8 noches)
 
@@ -216,9 +216,9 @@
 
 | Concepto | Rango |
 |----------|-------|
-| Persona 1 (108 noches completas) | **$12,242.3-16,479.3** |
-| Persona 2 (100 noches, sin Portugal) | **$11,519.5-15,564.5** |
-| **TOTAL VIAJE** | **$23,761.8-32,043.8** |
+| Persona 1 (108 noches completas) | **$12,297.2-16,403.2** |
+| Persona 2 (100 noches, sin Portugal) | **$11,574.4-15,488.4** |
+| **TOTAL VIAJE** | **$23,871.6-31,891.6** |
 
 ### Gastos Confirmados
 
@@ -243,7 +243,10 @@
 | Asistencia al viajero — **PAX Assistance (LS 4 meses BASIC)** | **$700.0** | **$350.0** |
 | Vuelo París (CDG/ORY) → Lisboa (LIS) — Persona 1 — **COMPRADO (82€)** | $93.07 | $93.07 |
 | Auto Highlands (7 días) — **Hertz vía Rentalcars · Ford Fiesta o similar** | **$342.83** | **$171.42** |
-| **TOTAL CONFIRMADO** | **$7,153.40** | **$3,797.09** |
+| Estrasburgo (2 noches) — Airbnb | $237.2 | $118.6 |
+| Colmar (2 noches) — Airbnb | $135.6 | $67.8 |
+| Friburgo (3 noches) — Black Forest Hostel | $285.0 | $142.5 |
+| **TOTAL CONFIRMADO** | **$7,811.20** | **$4,125.99** |
 
 ---
 
@@ -325,4 +328,4 @@ Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financiera
 
 ---
 
-**Última actualización:** 29 junio 2026 (auto Highlands confirmado: Hertz/Rentalcars, Ford Fiesta o similar, USD 342.83 total)
+**Última actualización:** 8 julio 2026 (Alojamiento Estrasburgo/Colmar/Friburgo confirmado: Airbnb Estrasburgo USD 59,3/n, Airbnb Colmar USD 33,9/n, Black Forest Hostel Friburgo USD 47,5/n, todo pp)

@@ -1,7 +1,7 @@
 # Alojamiento — Colmar
 
-**Fechas tentativas:** 14-16 septiembre (2 noches)  
-**Presupuesto objetivo:** **USD 40-60 pp/noche** (plan Alsacia; ver `PRESUPUESTO.md`)  
+**Fechas tentativas:** 14-16 septiembre (2 noches) · **Estado:** ✅ **Reservado (Airbnb)**
+**Reservado:** **USD 33,9 pp/noche** (Airbnb; ver `PRESUPUESTO.md`)  
 
 ---
 

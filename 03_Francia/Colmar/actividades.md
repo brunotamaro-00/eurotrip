@@ -55,6 +55,8 @@
 
 **Cómo llegar sin coche:** El **Kut'zig Bus** (hop-on/hop-off) es la solución perfecta — opera en septiembre mar-dom, pasa cada 1h45, recorre todos los pueblos principales; reserva obligatoria online `https://www.colmar.fr/kutzig`
 
+**🚲 En bici (recomendado):** los pueblos están a 5-13 km, conectados por la **Véloroute du Vignoble**. Loop desde Colmar por **Eguisheim + Kaysersberg + Riquewihr** (~40-45 km, e-bike ~€38/día). Recorrido tramo por tramo, alquiler, extensiones y variantes en [`Bici_Route_des_Vins.md`](Bici_Route_des_Vins.md).
+
 - [x] **Eguisheim** ⭐ - El pueblo circular medieval más bello de Francia (voto de los franceses, 2013); las calles siguen las murallas del s. IX en anillos concéntricos; casas de flores iguales por normativa; la Place des Trois Châteaux con los tres castillos arruinados en la colina (GRATIS explorar; bodegas de vino en el pueblo) — a 6km de Colmar; también accesible en bici desde Colmar
 - [x] **Kaysersberg** ⭐ - El pueblo del Alzheimer de Albert Schweitzer (Premio Nobel de la Paz, nacido aquí); puente fortificado medieval sobre el río con casas del s. XVI colgando sobre el agua; castle en ruinas accesible a pie sobre el pueblo; el más "literario" de los pueblos alsacianos (GRATIS explorar; bodegas abiertas)
 - [ ] **Riquewihr** - El pueblo más fotografiado de Alsacia; totalmente amurallado, sin coches, con casas del s. XVI idénticas a como eran; el más turístico y también el más "postcard-perfect" (GRATIS explorar) — "si buscás la imagen de cuento de hadas perfecta, Riquewihr; si buscás autenticidad, preferí Eguisheim o Kaysersberg" (consenso Reddit)

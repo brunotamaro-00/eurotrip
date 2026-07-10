@@ -1,5 +1,6 @@
-# 🍽️ Gastronomía en Interlaken y alrededores (Jungfrau)
+# 🍽️ Gastronomía — Región Jungfrau (Interlaken, Lauterbrunnen, Grindelwald y Lucerna)
 
+> **Archivo regional:** aplica a las 4 bases de Suiza. La estrategia (Coop/Migros + picnic) es idéntica en toda la región; los locales concretos que se nombran están sobre todo en Interlaken (hub con más oferta).
 > Fechas tentativas — re-verificar al confirmar
 
 **Tramo:** 19-23 sept (4 noches, región Interlaken/Jungfrau) · **Estado:** tentativo · **Moneda:** CHF (Franco suizo; **1 CHF ≈ €1.08**) · **Agua del grifo:** potable y excelente (fuentes públicas por todos lados — botella rellenable = ahorro real)
@@ -131,4 +132,3 @@
 | Café / cerveza | **CHF 4-5 / CHF 6-9** (~€4.50-5.50 / €6.50-10) | |
 
 **Fuentes:** Rick Steves Travel Forum, GSNSP (Coop budget), Balmers (cheap restaurants Interlaken), Things to do in Interlaken, TripAdvisor Switzerland. Re-chequear `r/Switzerland` a mano.
-</content>

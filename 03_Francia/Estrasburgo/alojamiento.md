@@ -1,8 +1,8 @@
 # 🏨 Alojamiento en Estrasburgo
 
-**Tramo:** 12-14 sept 2026 (sáb-lun, 2 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Presupuesto objetivo:** **USD 40-60 pp/noche** (plan Alsacia; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
-> Fechas y noches **tentativas** (post-Portugal) — re-verificar precios y disponibilidad al confirmar.
+**Tramo:** 12-14 sept 2026 (sáb-lun, 2 noches) · **Estado:** ✅ **Reservado (Airbnb)** · **Viajeros:** 2 · **Moneda:** EUR (€)
+**Reservado:** **USD 59,3 pp/noche** (Airbnb; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
+> Fechas del tramo **tentativas** (post-Portugal), pero el alojamiento ya está reservado.
 
 ---
 

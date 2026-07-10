@@ -11,23 +11,23 @@
 
 ### Palacios
 
-- [ ] **Palacio Schönbrunn** - "Versalles vienés"; 1676 habitaciones (solo ves 40); jardines gratuitos todo el año — **Imperial Tour** (22 salas): **€22** / **Grand Tour** (40 salas + audioguía): **~€28** / **Classic Pass** (Grand Tour + Gloriette + laberinto + jardines): **~€32** / **Gold Pass** (todo): **~€45**; reservar online para evitar filas; las vistas desde la Gloriette (gratis subir) valen el paseo aunque no pagues el palacio `https://www.schoenbrunn.at/en/all-tickets/palace-ticket`
-- [ ] **Palacio Belvedere (Upper Belvedere)** - **"El Beso" de Klimt** está aquí; jardines entre Upper y Lower gratuitos — **€19.50** online / **€21** taquilla; reducido **€15.50**; reserva con hora asignada obligatoria — los jardines barrocos entre los dos palacios son imprescindibles aunque no pagues `https://www.belvedere.at/en/go/tickets`
-- [ ] **Hofburg** - Palacio imperial en el centro; los patios (Burghof, Schweizerhof) y la Josefplatz son gratuitos; alas de pago: Apartamentos Imperiales + Museo Sisi + Colección Imperial de Plata (~**€19.50**, verificar en hofburg.at) — Reddit: si ya visitaron Schönbrunn y Belvedere, el Hofburg de pago es lo más prescindible; la fachada y el acceso a la Heldenplatz ya lo valen gratis
-- [ ] **Schönbrunn — jardines y Gloriette** - Jardines siempre gratis; la Gloriette (mirador en lo alto) tiene acceso libre; vista panorámica sobre Viena sin pagar un euro — imprescindible para cualquier presupuesto
+- [x] **Palacio Schönbrunn** - "Versalles vienés"; 1676 habitaciones (solo ves 40); jardines gratuitos todo el año — **Imperial Tour** (22 salas): **€22** / **Grand Tour** (40 salas + audioguía): **~€28** / **Classic Pass** (Grand Tour + Gloriette + laberinto + jardines): **~€32** / **Gold Pass** (todo): **~€45**; reservar online para evitar filas; las vistas desde la Gloriette (gratis subir) valen el paseo aunque no pagues el palacio `https://www.schoenbrunn.at/en/all-tickets/palace-ticket`
+- [x] **Palacio Belvedere (Upper Belvedere)** - **"El Beso" de Klimt** está aquí; jardines entre Upper y Lower gratuitos — **€19.50** online / **€21** taquilla; reducido **€15.50**; reserva con hora asignada obligatoria — los jardines barrocos entre los dos palacios son imprescindibles aunque no pagues `https://www.belvedere.at/en/go/tickets`
+- [x] **Hofburg** - Palacio imperial en el centro; los patios (Burghof, Schweizerhof) y la Josefplatz son gratuitos; alas de pago: Apartamentos Imperiales + Museo Sisi + Colección Imperial de Plata (~**€19.50**, verificar en hofburg.at) — Reddit: si ya visitaron Schönbrunn y Belvedere, el Hofburg de pago es lo más prescindible; la fachada y el acceso a la Heldenplatz ya lo valen gratis
+- [x] **Schönbrunn — jardines y Gloriette** - Jardines siempre gratis; la Gloriette (mirador en lo alto) tiene acceso libre; vista panorámica sobre Viena sin pagar un euro — imprescindible para cualquier presupuesto
 
 ### Centro Histórico
 
-- [ ] **Catedral San Esteban (Stephansdom)** - Interior gratis; **Torre Sur** (343 peldaños, mejores vistas de Viena): **€6** adulto; **Torre Norte** (ascensor, campana Pummerin): **€8**; catacumbas: **€7**; combo todo: **€20** con audioguía — llegar antes de las 9am para foto sin gente; el techo de azulejos es mejor desde el frente de la Stephansplatz `https://www.stephanskirche.at`
+- [x] **Catedral San Esteban (Stephansdom)** - Interior gratis; **Torre Sur** (343 peldaños, mejores vistas de Viena): **€6** adulto; **Torre Norte** (ascensor, campana Pummerin): **€8**; catacumbas: **€7**; combo todo: **€20** con audioguía — llegar antes de las 9am para foto sin gente; el techo de azulejos es mejor desde el frente de la Stephansplatz `https://www.stephanskirche.at`
 - [ ] **Ringstrasse** - Bulevar circular con arquitectura imperial del s. XIX (Ópera, Parlamento, Burgtheater, Rathaus); caminar o tomar el **tranvía 1/2** con ticket normal — el "tour más barato de Viena"; el loop completo a pie lleva 2h
-- [ ] **Graben & Kohlmarkt** - Calles peatonales elegantes del centro; la **Columna de la Peste (Pestsäule)** en Graben es una de las mejores esculturas barrocas al aire libre de Europa; gratis
+- [x] **Graben & Kohlmarkt** - Calles peatonales elegantes del centro; la **Columna de la Peste (Pestsäule)** en Graben es una de las mejores esculturas barrocas al aire libre de Europa; gratis
 - [ ] **Karlskirche** - Iglesia barroca más importante de Viena; el gran secreto es el **ascensor panorámico** que sube 32m hasta los frescos de la cúpula (cara a cara con los frescos de Rottmayr, experiencia única en Europa): **~€9** adulto incluye iglesia + panorama lift + Museo Borromeo — llegar antes de las 11am; jueves tarde suele ser más tranquilo `https://www.karlskirche.at`
 - [ ] **Secession** - Edificio clave del Jugendstil vienés (1897); en el sótano el **Beethoven Fries de Klimt** (35m de largo) es una obra maestra: **€13** adulto (incluye Beethovenfries) / **€7** solo exhibición temporal — gratis algunos miércoles según programación; verificar en secession.at `https://secession.at/information_tickets`
-- [ ] **Hofburg exterior + Heldenplatz** - Gratis; la plaza frente al Hofburg y el pasaje hasta la Michaelerplatz es uno de los paseos más impresionantes de Viena sin pagar nada; la estatua ecuestre de María Teresa en el eje Ringstrasse también
+- [x] **Hofburg exterior + Heldenplatz** - Gratis; la plaza frente al Hofburg y el pasaje hasta la Michaelerplatz es uno de los paseos más impresionantes de Viena sin pagar nada; la estatua ecuestre de María Teresa en el eje Ringstrasse también
 
 ### Mercados
 
-- [ ] **Naschmarkt** - El mercado más famoso de Viena; 120+ puestos; comida del mundo; **sábados: Flohmarkt** (mercado de pulgas) que es el mejor momento para ir — ver sección de hacks más abajo para no caer en trampas
+- [x] **Naschmarkt** - El mercado más famoso de Viena; 120+ puestos; comida del mundo; **sábados: Flohmarkt** (mercado de pulgas) que es el mejor momento para ir — ver sección de hacks más abajo para no caer en trampas
 
 ---
 
@@ -37,8 +37,8 @@
 
 ### Cafés Históricos Imprescindibles
 
-- [ ] **Café Central** - El más famoso; Freud, Trotsky y Schnitzler venían aquí; arquitectura neo-gótica impresionante; turístico pero vale la visita; café + pastel ~€8-12
-- [ ] **Café Sperl** - Menos turístico, más auténtico; favorito de los locales desde 1880; ambiente bohemio; **cerrado domingos**
+- [?] **Café Central** - El más famoso; Freud, Trotsky y Schnitzler venían aquí; arquitectura neo-gótica impresionante; turístico pero vale la visita; café + pastel ~€8-12
+- [?] **Café Sperl** - Menos turístico, más auténtico; favorito de los locales desde 1880; ambiente bohemio; **cerrado domingos**
 - [ ] **Café Hawelka** - Bohemio y de artistas; **Buchteln** (bollos dulces nocturnos) famosos; sin wifi a propósito; uno de los ambientes más únicos de la ciudad
 - [ ] **Café Sacher** - Famoso por la **Sachertorte original** (~€9 el trozo); turístico pero si querés la experiencia "Sacher" vale al menos una vez
 - [ ] **Demel** - Pastelería imperial cerca del Hofburg; menos saturada que Sacher; la vitrina de pasteles artesanales es un espectáculo en sí misma
@@ -88,7 +88,7 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 ## 🎶 Música Clásica (BARATO si sabes cómo)
 
 ### Ópera de Viena (Staatsoper)
-- [ ] **Standing room (Stehplatz) — Parterre:** **€18** — ópera de clase mundial por el precio de un café
+- [x] **Standing room (Stehplatz) — Parterre:** **€18** — ópera de clase mundial por el precio de un café
 - [ ] **Standing room — Balcón:** **€13**
 - [ ] **Standing room — Galería:** **€15**
 - **Cómo:** Comprar online desde las 10am del día de la función; o ir 80min antes a la ventanilla Stehplatz (entrada lateral Operngasse)
@@ -123,7 +123,7 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 - [ ] **Kunsthistorisches Museum (KHM)** - Arte clásico mundial: **Bruegel** (mejor colección del mundo), Vermeer, Rafael, Cellini; imprescindible si les interesa arte: **€22** online / **€24** taquilla; reducido **€19-20**; menores 19 gratis `https://www.khm.at`
 - [ ] **Albertina** - Impresionistas y modernos: Monet, Picasso, Klimt, Schiele juntos en el mismo edificio: **€19.90**; combo Albertina + Albertina Modern + Klosterneuburg **€24.90** `https://www.albertina.at`
 - [ ] **Leopold Museum (MuseumsQuartier)** - La mayor colección de **Egon Schiele** del mundo + Klimt; **€19**; reducido **€16**; combo MQ con MUMOK **€25** (3 días) `https://www.leopoldmuseum.org`
-- [ ] **Haus der Musik** - Museo interactivo de la música vienesa; podés "dirigir" a la Filarmónica con un sensor de movimientos; excelente para todos los niveles: **€19**; reducido **€15**; niños <12 **€8**; abierto hasta las 22h `https://www.hdm.at`
+- [?] **Haus der Musik** - Museo interactivo de la música vienesa; podés "dirigir" a la Filarmónica con un sensor de movimientos; excelente para todos los niveles: **€19**; reducido **€15**; niños <12 **€8**; abierto hasta las 22h `https://www.hdm.at`
 - [ ] **MUMOK (MuseumsQuartier)** - Arte moderno y contemporáneo; combo con Leopold **€25** (3 días)
 - [ ] **Kunsthalle Wien** - Arte contemporáneo en el MQ; más experimental y accesible; ~€10
 - [ ] **Naturhistorisches Museum** - Frente al KHM; la **Venus de Willendorf** (30.000 años) está aquí; colección de meteoritos; ~€15
@@ -182,15 +182,15 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 ### Viena "Roja" + Lugares Menos Turísticos
 - [ ] **Karl-Marx-Hof** - Vivienda social monumental (1930, "Viena Roja"); 1.1km de largo, el edificio residencial continuo más largo del mundo; fotogénico y con historia política fascinante: **GRATIS** exterior; U4 Heiligenstadt — literalmente al lado de Kahlenberg/Grinzing, se puede combinar
 - [ ] **Zentralfriedhof** - Cementerio central enorme; aquí están Beethoven, Brahms, Schubert, Strauss, Mahler; vibe muy vienesa; **GRATIS** — los vieneses lo visitan como parque; uno de los cementerios más grandes de Europa
-- [ ] **Spittelberg** - Barrio bohemio de callejuelas adoquinadas con bares, restaurantes y galerías alternativas; muy animado fines de semana; a 5min del KHM caminando
-- [ ] **Josefstadt (8º)** - El barrio más pequeño de Viena; Art Nouveau, librerías de segunda mano, teatros históricos (Theater in der Josefstadt), cafés sin turistas; paseo urbano auténtico
+- [x] **Spittelberg** - Barrio bohemio de callejuelas adoquinadas con bares, restaurantes y galerías alternativas; muy animado fines de semana; a 5min del KHM caminando
+- [?] **Josefstadt (8º)** - El barrio más pequeño de Viena; Art Nouveau, librerías de segunda mano, teatros históricos (Theater in der Josefstadt), cafés sin turistas; paseo urbano auténtico
 - [ ] **Ottakring (16º)** - Barrio multicultural y working-class; el Brunnenmarkt está aquí; donde "vive la gente real" de Viena
 - [ ] **Augarten (2º)** - Parque barroco con las **torres antiaéreas de la WWII** todavía en pie (no se pueden demoler por su tamaño y la Porzellanmanufaktur Augarten (porcelana imperial) más antigua del mundo: **GRATIS** el parque
 
 ### Naturaleza y Parques
 - [ ] **Donauinsel** - Isla artificial de 42km de largo en el Danubio; en septiembre todavía hay ambiente playero; perfecto para bici; **GRATIS**
-- [ ] **Stadtpark** - El parque más céntrico; estatua dorada de Johann Strauss (la foto icónica); patos, locales almorzando; **GRATIS**
-- [ ] **Burggarten** - Parque del Hofburg con la famosa **estatua de Mozart**; gratis; relajante al lado del caos del centro
+- [?] **Stadtpark** - El parque más céntrico; estatua dorada de Johann Strauss (la foto icónica); patos, locales almorzando; **GRATIS**
+- [?] **Burggarten** - Parque del Hofburg con la famosa **estatua de Mozart**; gratis; relajante al lado del caos del centro
 
 ---
 

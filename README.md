@@ -33,7 +33,7 @@
 | 8 | Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 2 | 12-14 sept * |
 | 9 | Francia | [Colmar](./03_Francia/Colmar/) | 2 | 14-16 sept * |
 | 10 | Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 3 | 16-19 sept * |
-| 11 | Suiza | [Interlaken](./06_Suiza/Interlaken%20y%20alrededores/) | 4 (→6?) | 19-23 sept * |
+| 11 | Suiza | [Región Jungfrau](./06_Suiza/) | 4 (→6?) | 19-23 sept * |
 | 12 | Austria | [Innsbruck](./07_Austria/Innsbruck/) | 0 (→2?) | 23-sept (tránsito) * |
 | 13 | Austria | [Viena](./07_Austria/Viena/) | 5 | 23-28 sept * |
 | 14 | Chequia | [Praga](./08_Chequia/Praga/) | 5 | 28 sept - 3 oct * |

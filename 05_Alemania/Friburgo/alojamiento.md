@@ -1,8 +1,8 @@
 # 🏨 Alojamiento en Friburgo (Freiburg im Breisgau)
 
-**Tramo:** 16-19 sept 2026 (3 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Presupuesto objetivo:** **USD 38-55 pp/noche** (plan Selva Negra; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
-> Fechas y noches **tentativas** (post-Portugal) — re-verificar precios y disponibilidad al confirmar.
+**Tramo:** 16-19 sept 2026 (3 noches) · **Estado:** ✅ **Reservado (Black Forest Hostel)** · **Viajeros:** 2 · **Moneda:** EUR (€)
+**Reservado:** **USD 47,5 pp/noche** (Black Forest Hostel; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
+> Fechas del tramo **tentativas** (post-Portugal), pero el alojamiento ya está reservado.
 
 ---
 

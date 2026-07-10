@@ -9,6 +9,58 @@
 
 ---
 
+## 📱 Guía de uso — Eurail Pass para principiantes
+
+Nunca usaron la app, así que esto va paso a paso: qué es, cuándo activarla, qué hacer antes de cada viaje y qué hacer arriba del tren.
+
+### 1. El pase es digital (Mobile Pass)
+
+- Todo vive en la app oficial **Eurail / Interrail Rail Planner** (buscarla como "Eurail Rail Planner" en la store — no es la app genérica de trenes).
+- Al comprar el pase, se vincula a una cuenta Eurail. Cada persona necesita **su propio pase y su propio celular con la app instalada** (no sirve mostrar un pase desde el celular de otro).
+- Descargar la app y loguearse **con anticipación**, no el día del viaje — a veces tarda en sincronizar el pase recién comprado.
+
+### 2. Activación — cuándo y cómo
+
+- El pase **no se activa solo**. Hay que activarlo manualmente en la app **antes de subir al primer tren**.
+- Se puede activar hasta **11 meses después de la compra**; una vez activado corre la ventana de validez (en este caso, **2 meses corridos**).
+- **Cómo activar:** en la app → sección del pase → botón "Activate pass" → elegir la fecha de inicio. Se puede activar **con hasta unos días de anticipación** para una fecha futura (no hace falta estar parado en la estación).
+- **Ojo:** una vez elegida la fecha de activación, **no se puede cambiar**. Por eso en este tracker la ventana está fijada a **~7-8 ago** — confirmarla unos días antes y activar ahí, no antes.
+- Activar **no gasta un día de viaje** — el contador de días de uso empieza recién cuando se marca el primer "travel day" (ver abajo).
+
+### 3. Antes de cada viaje: agregar el "Travel Day"
+
+Esto es lo que en la práctica más se olvida y es lo más importante:
+
+1. Abrir la app **la noche anterior o la mañana del viaje** (con internet, aunque sea una vez).
+2. Ir a "My Trip" / el pase activo → botón **"Add travel day"**.
+3. Seleccionar la fecha (tiene que coincidir con el día real del viaje) y el/los tramos de tren que se van a hacer ese día.
+4. Ese día queda marcado como usado — **un travel day cubre todos los trenes que se tomen ese mismo día calendario**, sin límite de tramos. Por eso en el tracker se agrupan varios trenes en un mismo día (ej. Interlaken→Lucerna→Interlaken como un solo día).
+5. **Hacer esto ANTES de subir al tren.** Si el revisor pide el pase y el travel day no está agregado, lo tratan como viajar sin billete.
+
+Consejo para principiantes: agregarlo la noche antes con wifi del alojamiento, así no depende de tener señal en el andén.
+
+### 4. Reservas — son un producto aparte del pase
+
+- El pase da derecho a viajar, pero en varios trenes de alta velocidad/nocturnos hay que sacar además una **reserva de asiento** (obligatoria u opcional según el tren, ver tabla de arriba).
+- Las reservas se compran en `eurail.com` → "Seat reservations" (o vía la app, redirige al sitio) — **son un PDF/QR aparte**, no viven "dentro" del pase.
+- Comprar Rail Planner ≠ comprar reserva. Hay que guardar el PDF de la reserva (descargarlo, no solo dejarlo en el mail) porque a veces no hay señal en la estación.
+- Las reservas con cupo passholder (como Ámsterdam→París, fila 4) tienen **cupo limitado y se agotan** — comprarlas apenas abra la venta (~3 meses antes), no dejarlas para último momento.
+
+### 5. Subiendo al tren — qué mostrar
+
+- Llevar SIEMPRE: **el pase abierto en la app** (con el travel day de ese día ya agregado) + **la reserva** (si el tren la exige) + **un documento de identidad** (pasaporte) — el pase está nominal a cada persona y a veces lo piden.
+- El revisor escanea el QR del pase en la app o simplemente lo mira. En UK usualmente no hay control de QR, pero puede pedir el pase igual.
+- Tener el celular con batería: conviene descargar screenshot del pase activado + reserva por si el celular se queda sin batería o sin señal, aunque la app funciona offline una vez sincronizada.
+
+### 6. Errores comunes a evitar
+
+- Olvidar agregar el travel day y subir "a confiar" → multa o tratado como sin billete.
+- Activar el pase antes de tiempo por las dudas → se pierden días de la ventana de 2 meses sin usar.
+- Confundir "comprar la reserva" con "el pase ya me cubre" en trenes de reserva obligatoria (TGV, Frecce, AVE, nocturnos) — para esos tramos el pase da el descuento/base pero **la reserva se paga y se gestiona aparte**, y en varios de los tramos post-Portugal (Italia, España) directamente conviene comprar el pasaje suelto y no gastar día de pase (ver tabla de arriba).
+- No chequear la app con anticipación por si hay obras/cambios de ruta (ej. obras Arlberg en el tramo Suiza→Austria, fila 8) — la reserva opcional ayuda a asegurar asiento en esos casos.
+
+---
+
 ## Conteo de días
 
 - **Firmes (alto valor, casi seguros): 9 / 15** — Bath, Londres→York, York→Edimburgo, Ámsterdam→París, Friburgo→Interlaken, 2 day trips suizos, Interlaken→Viena, Viena→Praga.

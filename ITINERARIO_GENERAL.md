@@ -24,7 +24,7 @@ Las fechas con * en la tabla son orientativas (post-Portugal).
 | 8 | 🇫🇷 Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 12-sept * | 14-sept * | 2 | Ciudad | $$ | 11-21 |
 | 9 | 🇫🇷 Francia | [Colmar](./03_Francia/Colmar/) | 14-sept * | 16-sept * | 2 | Ciudad | $$ | 11-22 |
 | 10 | 🇩🇪 Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 16-sept * | 19-sept * | 3 | Ciudad/Naturaleza | $$ | 10-21 |
-| 11 | 🇨🇭 Suiza | [Interlaken y alrededores (Jungfrau Region)](./06_Suiza/Interlaken%20y%20alrededores/) | 19-sept * | 23-sept * | 4 | Trekking | $$$ | 9-17 |
+| 11 | 🇨🇭 Suiza | [Región Jungfrau (Interlaken/Lauterbrunnen/Grindelwald)](./06_Suiza/) | 19-sept * | 23-sept * | 4 | Trekking | $$$ | 9-17 |
 | 12 | 🇦🇹 Austria | [Innsbruck](./07_Austria/Innsbruck/) | 23-sept * | 23-sept * | 0 | Tránsito (→1–2?) | $$$ | 6-16 |
 | 13 | 🇦🇹 Austria | [Viena](./07_Austria/Viena/) | 23-sept * | 28-sept * | 5 | Ciudad | $$$ | 8-18 |
 | 14 | 🇨🇿 Chequia | [Praga](./08_Chequia/Praga/) | 28-sept * | 3-oct * | 5 | Ciudad | $$ | 10-18 |
