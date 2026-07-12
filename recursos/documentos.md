@@ -5,7 +5,7 @@
 - **Duración:** 108 noches / 109 días (5 agosto - 21 noviembre 2026)
 - **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona)
 - **Itinerario:** Fechas **definidas hasta Portugal (12 sept)**; post Portugal son **tentativas** (pueden cambiar días por ciudad). Recalcular Schengen si se modifica el tramo Schengen.
-- **Presupuesto:** [`PRESUPUESTO.md`](../PRESUPUESTO.md) — ~$11,700-16,400 pp · ~$24,000-32,200 total (mayo 2026).
+- **Presupuesto:** ~$11,700-16,400 pp · ~$24,000-32,200 total (mayo 2026).
 
 ### Nacionalidad e Inmigración
 

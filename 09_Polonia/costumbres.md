@@ -27,7 +27,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer (pierogi, milk bars, zapiekanka) vive en [`Cracovia/gastronomia.md`](Cracovia/gastronomia.md).
 
 - **Milk bar (bar mleczny): protocolo propio** - Cantina subvencionada de la era comunista, baratísima. Se pide en la **caja** (menú en polaco — Google Lens ayuda), pagás, te dan un número o llamás tu plato, y a veces **devolvés la bandeja** al terminar. Comida casera honesta por €3-6; ir antes de las 14h.
 - **Agua** - Se pide embotellada (con o sin gas: *gazowana / niegazowana*); el agua del grifo es potable pero no es costumbre pedirla en restaurante.
@@ -38,11 +37,10 @@
 - **Inglés amplio en Cracovia** - Los jóvenes y el sector turístico lo manejan bien; menos en Nowa Huta y con mayores. *"Dzień dobry"* (buenos días) al entrar y *"Dziękuję"* (gracias, pero ojo con lo de la propina) son muy apreciados.
 - **⚠️ Memoria histórica: máximo respeto** ⭐ - En Auschwitz-Birkenau y memoriales del gueto: **nada de selfies sonrientes, poses ni ruido** (hay carteles pidiéndolo). No llamar "campos polacos" a los campos nazis —eran **campos alemanes en Polonia ocupada**— es un punto muy sensible (incluso hay ley al respecto). Evitar bromas sobre la WWII y el Holocausto.
 - **No es "ex-URSS" ni Rusia** - Polonia fue **ocupada**, no soviética por elección; el sentimiento anti-imposición rusa es fuerte y actual. Asumir cercanía con Rusia cae muy mal.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
-- **Validar/sellar el ticket** - En tranvía y bus de Cracovia (KMK) hay que **sellar el ticket al subir** (la validez por tiempo corre desde ahí); controles con multa. Detalle en [`Cracovia/transporte.md`](Cracovia/transporte.md).
+- **Validar/sellar el ticket** - En tranvía y bus de Cracovia (KMK) hay que **sellar el ticket al subir** (la validez por tiempo corre desde ahí); controles con multa.
 - **Alcohol en la calle prohibido** ⭐ - Beber alcohol en espacios públicos (plazas, parques, calle) está **prohibido y se multa**; se bebe en bares o en casa. Cracovia es de las ciudades más seguras de Europa, pero esta norma se aplica.
 - **Iglesias de culto activo** - En misas y templos, silencio y vestimenta discreta; muchos polacos son católicos practicantes y no es "atracción turística" en horario de misa.
 

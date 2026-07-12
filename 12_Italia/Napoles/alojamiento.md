@@ -23,7 +23,7 @@ Nápoles es intensa: caótica, ruidosa y auténtica. **Dónde dormís define tu 
 - **Chiaia / Santa Lucia / Mergellina**: franja costera al oeste (Lungomare, Castel dell'Ovo); la más *upscale* y tranquila.
 - **Napoli Centrale / Piazza Garibaldi**: al este, la estación de tren y bus; nudo logístico pero la zona más floja de noche.
 
-> Detalle de cómo moverse (metro Línea 1, funiculares, Circumvesuviana a Pompeya) en [`transporte.md`](transporte.md). Resumen: **el centro se camina**; el metro/funicular es sobre todo para subir a Vomero.
+> Detalle de cómo moverse (metro Línea 1, funiculares, Circumvesuviana a Pompeya). Resumen: **el centro se camina**; el metro/funicular es sobre todo para subir a Vomero.
 
 ---
 

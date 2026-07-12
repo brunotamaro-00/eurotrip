@@ -61,7 +61,6 @@ Barrio construido por los soviéticos en 1949 como "ciudad ideal comunista" con 
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos polacos, milk bars/bar mleczny, pierogarnias, street food de Plac Nowy, comida para llevar, supermercados y mercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

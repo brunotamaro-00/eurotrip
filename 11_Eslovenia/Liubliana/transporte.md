@@ -1,10 +1,10 @@
 # 🚆 Transporte en Liubliana (hub del loop esloveno)
 
 **Fechas:** dom 11 – jue 15 oct 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** desde **Budapest** en bus/tren (~6h) → detalle en [`../../10_Hungria/Budapest/transporte.md`](../../10_Hungria/Budapest/transporte.md)
-**Salida (fin del loop):** **Koper → Trieste → Florencia** (15 oct) → ver [`../Costa Eslovena y Trieste/transporte.md`](../Costa%20Eslovena%20y%20Trieste/transporte.md)
+**Llegada:** desde **Budapest** en bus/tren (~6h)
+**Salida (fin del loop):** **Koper → Trieste → Florencia** (15 oct)
 
-> 🚗 **Estrategia del tramo (ver [`../README.md`](../README.md)):** alquilar **auto en Liubliana**, hacer el **loop de 4 noches** (Lagos Alpinos → Soča → Karst/Costa), **devolver en Koper**, cruzar a **Trieste** en bus y **tren a Florencia**. Este archivo es el **hub**: cubre llegada, urbano de Liubliana y la **logística del auto (alquiler, viñeta, conducción)** que aplica a todas las regiones.
+> 🚗 **Estrategia del tramo:** alquilar **auto en Liubliana**, hacer el **loop de 4 noches** (Lagos Alpinos → Soča → Karst/Costa), **devolver en Koper**, cruzar a **Trieste** en bus y **tren a Florencia**. Este archivo es el **hub**: cubre llegada, urbano de Liubliana y la **logística del auto (alquiler, viñeta, conducción)** que aplica a todas las regiones.
 > 📍 Tramo tentativo — re-verificar al confirmar fechas.
 
 ---
@@ -60,16 +60,16 @@
 
 | Región (archivo) | Desde Liubliana | Base sugerida | Reserva clave |
 |------------------|-----------------|---------------|----------------|
-| [**Lagos Alpinos**](../Lagos%20Alpinos/transporte.md) (Bled/Bohinj) | ~1h a Bled | Bled/Bohinj | **Vintgar slot €15** |
-| [**Valle del Soča y Triglav**](../Valle%20del%20So%C4%8Da%20y%20Triglav/transporte.md) | ~1h30–2h | Kobarid/Tolmin/Bovec | rutas alpinas (promet.si) |
-| [**Karst y Cuevas**](../Karst%20y%20Cuevas/transporte.md) | ~45 min–1h | Postojna/Divača | **Škocjan/Postojna** reserva |
-| [**Costa Eslovena y Trieste**](../Costa%20Eslovena%20y%20Trieste/transporte.md) | ~1h–1h15 | Koper/Piran | parking Piran (car-free) |
+| **Lagos Alpinos** (Bled/Bohinj) | ~1h a Bled | Bled/Bohinj | **Vintgar slot €15** |
+| **Valle del Soča y Triglav** | ~1h30–2h | Kobarid/Tolmin/Bovec | rutas alpinas (promet.si) |
+| **Karst y Cuevas** | ~45 min–1h | Postojna/Divača | **Škocjan/Postojna** reserva |
+| **Costa Eslovena y Trieste** | ~1h–1h15 | Koper/Piran | parking Piran (car-free) |
 
 ---
 
 ## 🎟️ Eurail (este tramo)
 
-> **El loop esloveno se hace en AUTO** → **no se usa Eurail dentro de Eslovenia.** El único tramo de tren es la **salida Trieste → Florencia**, evaluada en [`../Costa Eslovena y Trieste/transporte.md`](../Costa%20Eslovena%20y%20Trieste/transporte.md) (veredicto: suelto Italo/Frecce advance). → ver [`../../EURAIL.md`](../../EURAIL.md)
+> **El loop esloveno se hace en AUTO** → **no se usa Eurail dentro de Eslovenia.** El único tramo de tren es la **salida Trieste → Florencia**, evaluada aparte (veredicto: suelto Italo/Frecce advance).
 - **Días de Eurail en Eslovenia: 0.**
 
 ---

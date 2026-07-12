@@ -60,7 +60,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Montserrat** es el desvío estrella. Todos son regionales baratos — **no conviene gastar día de Eurail**.
+> **Montserrat** es el desvío estrella. Todos son regionales baratos — **no conviene gastar día de Eurail**.
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
@@ -87,7 +87,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Barcelona → Madrid** = **❌ NO, suelto Ouigo/Iryo low-cost**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Barcelona → Madrid** = **❌ NO, suelto Ouigo/Iryo low-cost**.
 
 - **Ouigo desde €9 / Iryo desde €15** son **más baratos sueltos** que gastar un día de pase (+reserva obligatoria en AVE/Iryo). Coherente con la estrategia España.
 - **Montserrat/day trips** (regionales FGC/Rodalies) tampoco justifican Eurail.

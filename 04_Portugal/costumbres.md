@@ -25,7 +25,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`Lisboa/gastronomia.md`](Lisboa/gastronomia.md) y [`Porto/gastronomia.md`](Porto/gastronomia.md).
 
 - **Agua: te traen embotellada paga** - El default es mineral (*com/sem gás*); pedir del grifo (*"água da torneira"*) es posible pero a veces ponen mala cara.
 - **La cuenta se pide** - *"A conta, se faz favor"*.
@@ -36,7 +35,6 @@
 - **NO hablar español (ni asumir que es igual)** ⭐⭐ - El error más grande: **portugués ≠ español**, y arrancar en español puede ofender. Si no sabés portugués, **usar inglés**, no español `https://www.portugal.com/history-and-culture/25-things-not-to-do-in-portugal/`
 - **Inglés muy extendido** - Portugal tiene de los mejores niveles de Europa; en Lisboa/Porto se sobrevive perfecto, sobre todo con jóvenes.
 - **Saludar y ser cortés** - *"Bom dia / Boa tarde / Boa noite"* al entrar; agradecer *"Obrigado"* (hombre) / *"Obrigada"* (mujer) — la forma cambia según **quién habla**. La cortesía y la modestia pesan mucho; hablar bajo.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 

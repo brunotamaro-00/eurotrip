@@ -172,7 +172,6 @@
 
 ## 🍽️ Gastronomía
 
-> Detalle completo (platos típicos, dónde comer sentado por nivel de precio, comida barata para llevar, supermercados para cocinar, mercados y tips) en [`gastronomia.md`](gastronomia.md).
 >
 > Imperdibles: **Fish and Chips**, **Sunday Roast** (domingo 9 ago, reservar), Full English Breakfast, Sticky Toffee Pudding, real ale/cider. Comer barato: **meal deal de supermercado**, Pret A Manger, Greggs.
 

@@ -4,7 +4,7 @@
 
 **Tramo:** 16-19 sept 2026 (3 noches) · **Estado:** tentativo · **Realista:** ~2-3 day trips (acá los desvíos **son el plan**: Friburgo es la base de la Selva Negra)
 
-> 🎫 **La KONUS Gästekarte (GRATIS con el alojamiento) cubre bus/tren regional en toda la Selva Negra** — el motor de todos estos desvíos (no vale para ICE ni la salida internacional a Suiza). Costos autoritativos en [`transporte.md`](transporte.md). Único riesgo logístico: **baja frecuencia de buses de montaña** (Wutachschlucht) — planear el regreso de antemano.
+> 🎫 **La KONUS Gästekarte (GRATIS con el alojamiento) cubre bus/tren regional en toda la Selva Negra** — el motor de todos estos desvíos (no vale para ICE ni la salida internacional a Suiza). Único riesgo logístico: **baja frecuencia de buses de montaña** (Wutachschlucht) — planear el regreso de antemano.
 
 ## 🎯 Resumen
 | Destino | Prioridad | Tiempo (ida) | Medio | Categoría | ¿KONUS? |
@@ -24,7 +24,7 @@
 ## ⭐ Prioridad Alta
 
 ### Titisee (+ Feldberg / Feldsee)
-- **Tren Höllentalbahn ~40 min** (→ [`transporte.md`](transporte.md)) · medio/día completo. El lago glaciar más famoso de la Selva Negra; paseos en barca, comprar **relojes cucú** y **Schwarzwälder Kirschtorte** (torta selva negra). **Combinar con Feldberg** (la cima más alta, 1493 m, teleférico + caminata al **Feldsee**, lago escondido y precioso, spot local). **Por qué:** el combo lago + montaña accesible en tren. **Nota:** Titisee pueblo es turístico; el valor está en Feldberg/Feldsee. **¿KONUS?** sí
+- **Tren Höllentalbahn ~40 min** · medio/día completo. El lago glaciar más famoso de la Selva Negra; paseos en barca, comprar **relojes cucú** y **Schwarzwälder Kirschtorte** (torta selva negra). **Combinar con Feldberg** (la cima más alta, 1493 m, teleférico + caminata al **Feldsee**, lago escondido y precioso, spot local). **Por qué:** el combo lago + montaña accesible en tren. **Nota:** Titisee pueblo es turístico; el valor está en Feldberg/Feldsee. **¿KONUS?** sí
 
 ### Triberg
 - **Tren (Schwarzwaldbahn) ~1h** · día completo. Las **cascadas más altas de Alemania** (163 m en varios saltos, **~€8** entrada al parque), la capital del **reloj cucú** (los dos cucú-relojes más grandes del mundo), y la torta selva negra original. **Por qué:** el day trip clásico de postal de la Selva Negra; ruta de tren panorámica subiendo el Kinzig. **¿KONUS?** sí (cascadas aparte)

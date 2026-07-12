@@ -1,7 +1,7 @@
 # 🚆 Transporte en Budapest
 
 **Fechas:** mié 7 – dom 11 oct 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** desde **Cracovia** en tren/bus (~7–9h) → detalle en [`../../09_Polonia/Cracovia/transporte.md`](../../09_Polonia/Cracovia/transporte.md)
+**Llegada:** desde **Cracovia** en tren/bus (~7–9h)
 **Salida:** **bus/tren** Budapest → Liubliana (11 oct) · ver sección Salida
 
 > 📍 **Tramo tentativo — re-verificar al confirmar fechas post-Portugal.**
@@ -54,14 +54,14 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Con 4 noches, el consenso es exprimir Budapest** y no hacer desvíos. Si igual querés uno:
+> **Con 4 noches, el consenso es exprimir Budapest** y no hacer desvíos. Si igual querés uno:
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **[Szentendre](Day_trips/Szentendre.md)** | **HÉV H5** desde Batthyány tér | ~40 min | ticket suburbano | ❌ No | Pueblo de artistas sobre el Danubio |
-| **[Recodo del Danubio](Day_trips/Recodo_del_Danubio.md)** (Visegrád + Esztergom) | Tren MÁV (Nyugati) + ferry / barco estacional | ~1h-1h30 | trenes baratos + ferry ~€2 | ❌ No vale pase | Ciudadela + basílica + río |
-| **[Eger](Day_trips/Eger.md)** | Tren MÁV (Keleti) | ~2h | **~€20** | ❌ No | Vinos (Valle de las Bellas Mujeres) |
-| **[Gödöllő](Day_trips/Godollo.md)** | **HÉV H8** desde Örs vezér tere | ~45 min | ticket suburbano | ❌ No | Palacio de Sissi |
+| **Szentendre** | **HÉV H5** desde Batthyány tér | ~40 min | ticket suburbano | ❌ No | Pueblo de artistas sobre el Danubio |
+| **Recodo del Danubio** (Visegrád + Esztergom) | Tren MÁV (Nyugati) + ferry / barco estacional | ~1h-1h30 | trenes baratos + ferry ~€2 | ❌ No vale pase | Ciudadela + basílica + río |
+| **Eger** | Tren MÁV (Keleti) | ~2h | **~€20** | ❌ No | Vinos (Valle de las Bellas Mujeres) |
+| **Gödöllő** | **HÉV H8** desde Örs vezér tere | ~45 min | ticket suburbano | ❌ No | Palacio de Sissi |
 | **Bratislava** | Tren MÁV/ÖBB directo | ~2h30 | **~€15–30** | ⚠️ posible día de pase | **Mejor desde Viena** (EURegio €18) |
 | **Győr** | Tren MÁV (línea a Viena) | ~1h30 | **~€15** | ❌ No | Ciudad barroca (más tránsito que day trip) |
 
@@ -80,7 +80,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Budapest → Liubliana** = **❌ NO, mejor bus FlixBus**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Budapest → Liubliana** = **❌ NO, mejor bus FlixBus**.
 
 - El **bus directo (~6h, €19–45)** gana al tren (lento, con cambios). **No gastar día de pase.**
 - **Bratislava (day trip):** es **candidato a día de Eurail** (ida+vuelta + cubre el día), aunque el suelto es barato (~€15–30) y suele hacerse mejor desde Viena. **Marginal** — evaluar solo si el pase está activo y la fecha no rinde más en otro tramo.

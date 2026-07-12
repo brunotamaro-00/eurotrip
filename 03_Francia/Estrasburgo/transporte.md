@@ -12,7 +12,7 @@
 
 - **Estrasburgo (SXB):** **navette tren** SXB ↔ **Estrasburgo Gare Centrale**, **~15 min**, sale frecuente. Es la forma estándar y barata. Del aeropuerto sale a la estación central y de ahí el centro (Grande Île) está a pie o 1 parada de tram. `https://www.strasbourg.aeroport.fr/`
 - **Alternativa aeroportuaria:** **Basel-Mulhouse (BSL)** — 1h30 en tren a Estrasburgo (45 min a Friburgo); solo si el vuelo conviene por ahí.
-- **Detalle del vuelo Porto → SXB:** ver salida en [`../../04_Portugal/Porto/transporte.md`](../../04_Portugal/Porto/transporte.md).
+- **
 
 ---
 
@@ -58,7 +58,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Con 2 noches, Estrasburgo se disfruta a pie; el "tour de pueblitos" de la Route des Vins encaja mejor desde **Colmar** (siguiente parada). **Tramos regionales baratos — no conviene gastar día de Eurail.**
+> Con 2 noches, Estrasburgo se disfruta a pie; el "tour de pueblitos" de la Route des Vins encaja mejor desde **Colmar** (siguiente parada). **Tramos regionales baratos — no conviene gastar día de Eurail.**
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
@@ -83,7 +83,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Estrasburgo → Colmar** = **TER regional barato (€7–12)**. **No conviene gastar un día de pase** (hay solo 15, reservados para Suiza/larga distancia). Comprar **suelto**. → ver [`../../EURAIL.md`](../../EURAIL.md)
+> Tramo **Estrasburgo → Colmar** = **TER regional barato (€7–12)**. **No conviene gastar un día de pase** (hay solo 15, reservados para Suiza/larga distancia). Comprar **suelto**.
 
 - Un único día de Eurail **podría** cubrir Estrasburgo→Colmar→Friburgo si se hicieran **el mismo día**, pero acá están separados (14 y 16 sept) → no rinde. **Suelto.**
 - **Días de Eurail en Estrasburgo: 0.**

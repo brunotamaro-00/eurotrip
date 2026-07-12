@@ -3,8 +3,7 @@
 **Fechas tentativas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
 **Perfil de esta base:** el **pueblo alpino real** bajo la cara norte del **Eiger**. Acceso directo a **First** (Bachalpsee, Cliff Walk, adrenalina), a los **trails del Eiger** desde la puerta, y —vía **Grindelwald Terminal + Eiger Express**— al **Jungfraujoch**. **Moneda:** CHF (1 CHF ≈ €1.08).
 
-> Panorama regional y decisión de base en [`../README.md`](../README.md). Gastronomía y contexto en [`../gastronomia.md`](../gastronomia.md) / [`../contexto_historico.md`](../contexto_historico.md).
-> **Con Grindelwald como base**, este archivo cubre First, el Eiger y el Jungfraujoch. El Schilthorn y los pueblos de Lauterbrunnen se aprovechan más desde [`../Lauterbrunnen/actividades.md`](../Lauterbrunnen/actividades.md).
+> **Con Grindelwald como base**, este archivo cubre First, el Eiger y el Jungfraujoch. El Schilthorn y los pueblos de Lauterbrunnen se aprovechan mejor con base en Lauterbrunnen.
 
 ---
 
@@ -69,7 +68,7 @@ El teleférico First es el "caballo de batalla" del Grindelwald activo. **Return
 
 ## 💰 Actividades de pago — ranking regional
 
-> El ranking completo (Schynige, First, Schilthorn, Jungfraujoch) está centralizado en [`../README.md`](../README.md#-los-teleféricos-caros--ranking-regional-precioexperiencia). Desde Grindelwald, lo "propio" es **First + Bachalpsee** (el que mejor rinde) y el acceso directo al **Jungfraujoch**.
+> Desde Grindelwald, lo "propio" es **First + Bachalpsee** (el que mejor rinde) y el acceso directo al **Jungfraujoch**.
 
 ---
 
@@ -78,13 +77,13 @@ El teleférico First es el "caballo de batalla" del Grindelwald activo. **Return
 - [ ] **Jungfraujoch** - Paradójicamente, un plan de día nublado abajo puede tener sol arriba (verificar webcam de cima); pero es caro para arriesgar
 - [ ] **Trümmelbachfälle** (Lauterbrunnen) - Cascadas indoor; ~40 min vía tren; **CHF 16** `https://www.truemmelbachfaelle.ch/e/`
 - [ ] **Pfingstegg** - Teleférico corto y barato; si la niebla está alta, el balcón sobre el glaciar puede estar despejado
-- [ ] **Interlaken (St. Beatus-Höhlen, Ballenberg)** - Vía tren si Grindelwald está tapado → [`../Interlaken/actividades.md`](../Interlaken/actividades.md)
+- [ ] **Interlaken (St. Beatus-Höhlen, Ballenberg)** - Vía tren si Grindelwald está tapado
 
 ---
 
 ## 🚶 Free Walking Tour
 
-> **No hay free walking tours regulares en Grindelwald.** El operador local más cercano es **Free Walk Interlaken** (lun/mié/sáb 18h) → ver [`../Interlaken/actividades.md`](../Interlaken/actividades.md#-free-walking-tour). Grindelwald Tourism ofrece a veces paseos guiados de naturaleza en temporada — preguntar en la oficina de turismo.
+> **No hay free walking tours regulares en Grindelwald.** El operador local más cercano es **Free Walk Interlaken** (lun/mié/sáb 18h). Grindelwald Tourism ofrece a veces paseos guiados de naturaleza en temporada — preguntar en la oficina de turismo.
 
 ---
 

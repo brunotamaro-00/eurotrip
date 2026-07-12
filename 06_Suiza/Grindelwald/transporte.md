@@ -1,7 +1,7 @@
 # 🚆 Transporte — Grindelwald (base alpina, Región Jungfrau)
 
 **Fechas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** desde Friburgo hasta **Interlaken Ost** (tren ICE+SBB, ~2h53–4h) → detalle en [`../../05_Alemania/Friburgo/transporte.md`](../../05_Alemania/Friburgo/transporte.md). Luego **Interlaken Ost → Grindelwald** en tren BOB (~30 min, Eurail cubre).
+**Llegada:** desde Friburgo hasta **Interlaken Ost** (tren ICE+SBB, ~2h53–4h). Luego **Interlaken Ost → Grindelwald** en tren BOB (~30 min, Eurail cubre).
 **Salida:** el 23 sept, **Grindelwald → Interlaken Ost → Zürich → Innsbruck/Viena** (ver sección Salida).
 
 > ⚠️ **Tramo tentativo** — re-verificar tarifas, horarios y estado de teleféricos al confirmar.
@@ -10,7 +10,7 @@
 ## 🧭 Resumen rápido
 - **Base alpina:** el pueblo se camina, pero está **extendido en ladera** — a veces conviene el bus local entre el centro, First y Grindelwald Terminal.
 - **Dos nudos:** **Grindelwald Bahnhof** (trenes a Interlaken y Kleine Scheidegg) y **Grindelwald Terminal/Grund** (Eiger Express al Jungfraujoch + teleférico a Männlichen).
-- **Estrategia pase:** **Eurail** cubre el tren BOB Interlaken–Grindelwald; **First, Männlichen, Eiger Express y Jungfraujoch van aparte (−25% Eurail)**. Ver [`../README.md`](../README.md#-estrategia-de-transporte-y-pases-eurail--default).
+- **Estrategia pase:** **Eurail** cubre el tren BOB Interlaken–Grindelwald; **First, Männlichen, Eiger Express y Jungfraujoch van aparte (−25% Eurail)**.
 
 ## 🎫 Pases (resumen — detalle en README)
 - **✅ Eurail (ya comprado):** sin reserva; cubre BOB Interlaken–Grindelwald, tren a Kleine Scheidegg (verificar tramo), barcos de los lagos. **NO cubre** First, Männlichen, Eiger Express, Jungfraujoch (−25%).
@@ -32,7 +32,7 @@
 
 ## 🚶 A pie / 🚲 Bici
 - El centro (Dorfstrasse) se camina; el pueblo es **extendido en ladera**, así que para First/Terminal a veces conviene el bus local (Guest Card).
-- Mountain Cart / Trottibike / e-bike disponibles como actividad de bajada (ver [`actividades.md`](actividades.md)).
+- Mountain Cart / Trottibike / e-bike disponibles como actividad de bajada.
 
 ## 🚕 Taxi / Uber / Bolt
 - **Sin Uber/Bolt.** Bus local + teleféricos cubren todo; taxis caros.
@@ -49,7 +49,6 @@
 | **Schynige Platte** | Tren a Wilderswil (vía Interlaken) + cremallera | ~50–70 min | **CHF 72** cremallera aparte | No |
 | **Lucerna / Berna** | Tren vía Interlaken Ost | ~2h20 / ~1h | Eurail cubre | No |
 
-> El "qué hacer" en cada desvío vive en [`actividades.md`](actividades.md). No duplicar acá.
 
 ## 🚆 Salida hacia Innsbruck / Viena (23 sept)
 - **Ruta:** Grindelwald → **Interlaken Ost** (~30 min) → **Zürich HB** (~1h58) → **Railjet Zürich → Innsbruck** (~3h30). Total **~6h15** con 2 transbordos.
@@ -58,12 +57,12 @@
 - **Eurail:** cubre todo (SBB + ÖBB Railjet) sin reserva obligatoria; reserva opcional en tramos llenos.
 
 ### Stopover opcional en Lucerna (mismo día)
-- **Grindelwald → Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h) → **Luzern → Zürich → Innsbruck**. Detalle en [`../Lucerna/transporte.md`](../Lucerna/transporte.md).
+- **Grindelwald → Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h) → **Luzern → Zürich → Innsbruck**.
 
 ## 🎟️ Eurail (este tramo)
 - **Llegada y salida: ✅ usar día de pase** (larga distancia, caro, sin reserva).
 - **Dentro de Grindelwald:** el tren BOB está cubierto; **First, Männlichen, Eiger Express, Jungfraujoch sueltos (−25%)**. Si vas a full a la montaña, evaluar **Jungfrau Travel Pass**.
-- Estimación: **2–3 días de Eurail** en Suiza. → [`../../EURAIL.md`](../../EURAIL.md)
+- Estimación: **2–3 días de Eurail** en Suiza.
 
 ## 🧠 Consenso Reddit/Foros
 - **Grindelwald concentra los teleféricos caros** [viajero] — First + Männlichen + Eiger Express; acá el Jungfrau Travel Pass puede tener sentido `https://community.eurail.com/eurail-interrail-passes-41/eurail-pass-and-jungfrau-pass-in-switzerland-18806`

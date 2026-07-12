@@ -73,7 +73,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (francesinha, tascas, mariscos de Matosinhos, vino de Oporto, cafés icónicos como Majestic, comida para llevar, supermercados y Mercado do Bolhão) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

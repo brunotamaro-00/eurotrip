@@ -176,7 +176,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos típicos, street food, dónde comer barato, food courts, supermercados y mercados gastronómicos) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

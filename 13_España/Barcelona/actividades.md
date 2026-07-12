@@ -45,7 +45,6 @@
 ---
 
 ## 🍕 Gastronomía
-> Detalle completo (platos catalanes, menú del día, pintxos de Blai, vermut, bodegas de barrio, mercados y trampas a evitar) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -184,7 +183,6 @@ Barcelona es una de las ciudades con más carteristas de Europa. Tener esto pres
 - **A pie**: Barri Gòtic + El Born + Barceloneta se hacen completamente a pie desde el centro
 
 ### Gastronomía
-> Tips de menú del día y aperitivo vermut migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Idioma
 - **Catalán ≠ Castellano**: co-oficiales; los locales aprecian un "Gràcies" (gracias) o "Bon dia" (buenos días); en zonas turísticas todo el mundo habla castellano sin problema

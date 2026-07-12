@@ -50,7 +50,6 @@ Liubliana es la capital más pequeña de Europa (280,000 hab). Muy compacta y ca
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos eslovenos, burek, dónde comer barato, Mercado Central, Open Kitchen, comida para llevar y supermercados) en [`gastronomia.md`](gastronomia.md).
 >
 > Los **bares/cerveza** (Sir William's, Pritličje, Union/Laško) se mantienen arriba en este archivo como vida nocturna.
 

@@ -45,7 +45,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos típicos, Shambles Food Court, dónde comer barato, comida para llevar y supermercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

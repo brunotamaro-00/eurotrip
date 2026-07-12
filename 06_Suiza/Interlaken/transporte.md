@@ -1,7 +1,7 @@
 # 🚆 Transporte — Interlaken (base hub, Región Jungfrau)
 
 **Fechas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **ICE + SBB vía Basel/Bern** desde Friburgo (~2h53–4h) → detalle en [`../../05_Alemania/Friburgo/transporte.md`](../../05_Alemania/Friburgo/transporte.md). Bajás en **Interlaken Ost** o **West** según alojamiento.
+**Llegada:** tren **ICE + SBB vía Basel/Bern** desde Friburgo (~2h53–4h). Bajás en **Interlaken Ost** o **West** según alojamiento.
 **Salida:** tren **SBB + Railjet vía Zürich** hacia **Innsbruck → Viena** el 23 sept (ver sección Salida).
 
 > ⚠️ **Tramo tentativo** — re-verificar tarifas, horarios y estado de teleféricos al confirmar.
@@ -10,14 +10,14 @@
 ## 🧭 Resumen rápido
 - **Base de montaña, no de ciudad:** el motor son los **trenes/teleféricos de la Región Jungfrau**, no el transporte urbano. Interlaken se camina entero (dos estaciones a ~20 min a pie).
 - **Ventaja de Interlaken:** es el **nudo** — trenes BOB a Lauterbrunnen/Grindelwald desde **Ost**, barcos de los dos lagos, y salida directa a Zürich/Berna.
-- **Estrategia pase:** **Eurail** cubre trenes SBB/BOB y barcos sin reserva; teleféricos de montaña **aparte con −25% Eurail**. Ver [`../README.md`](../README.md#-estrategia-de-transporte-y-pases-eurail--default).
+- **Estrategia pase:** **Eurail** cubre trenes SBB/BOB y barcos sin reserva; teleféricos de montaña **aparte con −25% Eurail**.
 
 ## 🎫 Estrategia de pases (Eurail vs Half Fare vs Jungfrau)
 ### ✅ Eurail Global Pass (YA COMPRADO) — el default
 - **Sin reserva** en ningún tren suizo — subir con el pase activado.
 - **Cubre 100%:** trenes SBB, BOB (Interlaken–Lauterbrunnen/Grindelwald), **barcos lagos Thun y Brienz**, y **Lauterbrunnen–Wengen/Mürren**.
 - **NO cubre (da −25%):** Jungfraujoch, Schilthorn, First, Schynige Platte, Kleine Scheidegg y demás montaña privada.
-- **Veredicto:** usar **2 días** de Eurail (llegada + salida) y un **3º** si hay day trip grande (Lucerna/Oeschinensee). → [`../../EURAIL.md`](../../EURAIL.md)
+- **Veredicto:** usar **2 días** de Eurail (llegada + salida) y un **3º** si hay day trip grande (Lucerna/Oeschinensee).
 
 ### 🟡 Swiss Half Fare Card (plan B)
 - **CHF 150**, validez 1 mes; ~50% en tren/bus/barco + muchas montañas. Solo si decidís **NO gastar días de Eurail** en Suiza. `https://www.sbb.ch/en/offers/swiss-half-fare-card`
@@ -61,7 +61,7 @@
 | **Lucerna** | **Luzern–Interlaken Express** | ~2h | Eurail cubre (reserva opcional) `https://www.zentralbahn.ch/en/interlaken-express` | No |
 | **Berna** | Tren | ~40 min | Eurail cubre | No |
 
-> El "qué hacer" en cada desvío vive en [`actividades.md`](actividades.md). **Con 4 noches, no sobreplanificar day trips** — concentrarse en la región. Priorizar cuevas/cascadas indoor si el día pinta gris; reservar los miradores (Jungfraujoch/Schilthorn) para cielo azul.
+> **Con 4 noches, no sobreplanificar day trips** — concentrarse en la región. Priorizar cuevas/cascadas indoor si el día pinta gris; reservar los miradores (Jungfraujoch/Schilthorn) para cielo azul.
 
 ## 🚆 Salida hacia Innsbruck / Viena (23 sept)
 - **Ruta:** Interlaken Ost → **Zürich HB** (~1h58) + **Railjet Zürich → Innsbruck** (~3h30, vía Arlberg). Total **~5h30–6h** con 1 transbordo.
@@ -71,12 +71,12 @@
 - **Eurail:** cubre todo el recorrido (SBB + ÖBB Railjet) sin reserva obligatoria.
 
 ### Stopover opcional en Lucerna (mismo día)
-- **Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h, sin reserva) → **Luzern → Zürich → Innsbruck**. Detalle en [`../Lucerna/transporte.md`](../Lucerna/transporte.md).
+- **Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h, sin reserva) → **Luzern → Zürich → Innsbruck**.
 
 ## 🎟️ Eurail (este tramo)
 - **Llegada (Friburgo→Interlaken) y salida (Interlaken→Innsbruck/Viena): ✅ usar día de pase** — trenes suizos caros y larga distancia, sin reserva obligatoria.
 - **Dentro de Suiza:** trenes/barcos regionales con Eurail; teleféricos con **ticket suelto (−25% Eurail)**.
-- Estimación: **2–3 días de Eurail** en Suiza. → [`../../EURAIL.md`](../../EURAIL.md)
+- Estimación: **2–3 días de Eurail** en Suiza.
 
 ## 🧠 Consenso Reddit/Foros
 - **No metas 2 lugares grandes el mismo día "para optimizar el ticket"** [viajero] — elegí uno y disfrutalo. `https://www.reddit.com/r/askswitzerland/comments/1hot0cx/`

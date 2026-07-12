@@ -1,7 +1,7 @@
 # 🏨 Alojamiento en Estrasburgo
 
 **Tramo:** 12-14 sept 2026 (sáb-lun, 2 noches) · **Estado:** ✅ **Reservado (Airbnb)** · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Reservado:** **USD 59,3 pp/noche** (Airbnb; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
+**Reservado:** **USD 59,3 pp/noche** (Airbnb)
 > Fechas del tramo **tentativas** (post-Portugal), pero el alojamiento ya está reservado.
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🗺️ La ciudad y su geografía
 
-Estrasburgo es **compacta y muy caminable**. El corazón es la **Grande Île** ("isla grande"), rodeada por el río Ill y declarada Patrimonio UNESCO: ahí están la catedral, las plazas (Kléber, Gutenberg) y, en su extremo oeste, **Petite France** (el barrio de postales con casas de entramado y canales). Pegado al sureste de la isla está **Krutenau** (estudiantil, bares, comida). Al norte de la isla, la **Neustadt** ("ciudad nueva" imperial alemana, UNESCO 2017) es elegante y residencial. La **Gare Centrale** queda al oeste, a ~10-15 min a pie de Petite France. Casi todo se hace caminando; el tram CTS cubre lo que queda lejos (detalle en [`transporte.md`](transporte.md)).
+Estrasburgo es **compacta y muy caminable**. El corazón es la **Grande Île** ("isla grande"), rodeada por el río Ill y declarada Patrimonio UNESCO: ahí están la catedral, las plazas (Kléber, Gutenberg) y, en su extremo oeste, **Petite France** (el barrio de postales con casas de entramado y canales). Pegado al sureste de la isla está **Krutenau** (estudiantil, bares, comida). Al norte de la isla, la **Neustadt** ("ciudad nueva" imperial alemana, UNESCO 2017) es elegante y residencial. La **Gare Centrale** queda al oeste, a ~10-15 min a pie de Petite France. Casi todo se hace caminando; el tram CTS cubre lo que queda lejos.
 
 ---
 
@@ -131,7 +131,7 @@ Estrasburgo es **compacta y muy caminable**. El corazón es la **Grande Île** (
 
 - **Reservá con cancelación gratis:** el tramo es **tentativo** (post-Portugal); priorizá tarifas cancelables por si se mueven las fechas.
 - **Taxe de séjour:** Estrasburgo cobra **tasa turística** por persona/noche (CIARUS la lista aparte, ~€0,88/noche); súmala al precio.
-- **Cocina:** ningún hostel cocina de verdad → si quieren cocinar, **Airbnb**. Si no, planificar comida para llevar/super (ver [`gastronomia.md`](gastronomia.md)).
+- **Cocina:** ningún hostel cocina de verdad → si quieren cocinar, **Airbnb**. Si no, planificar comida para llevar/super.
 - **Petite France de noche:** dormir **en la isla** o en **Krutenau** te deja volver a pie sin tram tras cenar/salir.
 - **Privada en hostel** como punto medio precio/descanso si no van a cocinar.
 - **Eventos:** sesiones del Parlamento Europeo y ferias pueden disparar precios — chequear el calendario de esas fechas al reservar.

@@ -140,7 +140,6 @@ Antes de comprar entradas individuales a castillos/sitios HES, evaluar si convie
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos típicos, dónde comer barato, comida para llevar, supermercados y mercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

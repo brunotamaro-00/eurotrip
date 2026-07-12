@@ -44,7 +44,6 @@
 ---
 
 ## 🍕 Gastronomía
-> Detalle completo (platos toscanos, bistecca, lampredotto, schiacciata, regla del gelato, trattorias del Oltrarno, mercados y trampas a evitar) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -71,7 +70,6 @@ Para Cande, Florencia es la **ciudad favorita en Italia** hasta ahora: equilibri
 - **Mercado del cuero** (zona San Lorenzo / puestos alrededor del Mercato Centrale): carteras y marroquinería; **regatear** y revisar costuras y piel antes de comprar
 
 ### Gastronomía de Cande
-> Migrada a [`gastronomia.md`](gastronomia.md): Trattoria dei 13 Gobbi, All'Antico Vinaio (y alternativas sin cola), Caffè San Firenze y la nota de "café con vista" en Piazza del Duomo (pagás la vista; ver tip "al banco vs mesa").
 
 ---
 

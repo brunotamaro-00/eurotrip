@@ -38,14 +38,14 @@
 ## 🗺️ Cómo llegar a los day trips
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Reserva |
 |---------|-------|--------|------------------|----------|---------|
-| **[Sintra](Day_trips/Sintra.md)** ⭐ | Tren CP línea Sintra desde **Rossio** (o Oriente/Entrecampos) | ~40 min | **€2.45** ida / **€4.90** v.v. (más barato con Zapping) | Cubre CP, pero la línea es urbana barata → **no vale día de pase** | No (bus interno 434/435 aparte; **Pena/Regaleira por hora online**) |
-| **[Cascais + Cabo da Roca](Day_trips/Cascais.md)** | Tren CP desde **Cais do Sodré** + bus **403** (Scotturb) a Cabo da Roca | ~40 min | ~**€2.40** ida tren + ~**€4–5** bus | igual que Sintra → no vale pase | No |
-| **[Óbidos](Day_trips/Obidos.md)** | Bus **Rodoviária do Oeste / FlixBus** desde Campo Grande | ~1h | ~**€8–9** v.v. (verificar) | No (bus) | No |
-| **[Setúbal / Arrábida](Day_trips/Setubal_Arrabida.md)** | Tren+bus o bus directo (sin tren directo a las playas) | ~1h–1h30 | verificar en `rede-expressos.pt` | parcial | No |
+| **Sintra** ⭐ | Tren CP línea Sintra desde **Rossio** (o Oriente/Entrecampos) | ~40 min | **€2.45** ida / **€4.90** v.v. (más barato con Zapping) | Cubre CP, pero la línea es urbana barata → **no vale día de pase** | No (bus interno 434/435 aparte; **Pena/Regaleira por hora online**) |
+| **Cascais + Cabo da Roca** | Tren CP desde **Cais do Sodré** + bus **403** (Scotturb) a Cabo da Roca | ~40 min | ~**€2.40** ida tren + ~**€4–5** bus | igual que Sintra → no vale pase | No |
+| **Óbidos** | Bus **Rodoviária do Oeste / FlixBus** desde Campo Grande | ~1h | ~**€8–9** v.v. (verificar) | No (bus) | No |
+| **Setúbal / Arrábida** | Tren+bus o bus directo (sin tren directo a las playas) | ~1h–1h30 | verificar en `rede-expressos.pt` | parcial | No |
 | **Évora** | Tren/bus (Alentejo) | ~1h30 | verificar en `rede-expressos.pt` | parcial → no vale pase | No |
 | **Nazaré** | Bus desde Campo Grande | ~2h | verificar en `rede-expressos.pt` | No (bus) | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). **Sintra entre semana (mar–jue)** sí o sí; tickets de Pena/Regaleira con fecha y hora reservados online días antes.
+> **Sintra entre semana (mar–jue)** sí o sí; tickets de Pena/Regaleira con fecha y hora reservados online días antes.
 
 ## 🚆 Salida hacia Porto (9 sept)
 - **Medio:** tren **CP Alfa Pendular** (más rápido) o **Intercidades** (algo más lento y barato), Lisboa **Santa Apolónia / Oriente** → Porto **Campanhã**.
@@ -56,7 +56,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - Portugal **CP** entra técnicamente en el Global Pass, **pero**: (a) el Alfa Pendular exige **reserva de asiento** con coste extra para passholders, y (b) Portugal cae **fuera de la ventana central** de 2 meses que conviene reservar para Italia-sur/España.
-- El billete suelto Lisboa→Porto comprado con anticipación es **barato** (~€18–36). **Veredicto: NO gastar día de pase** — comprar suelto. → ver [`../../EURAIL.md`](../../EURAIL.md)
+- El billete suelto Lisboa→Porto comprado con anticipación es **barato** (~€18–36). **Veredicto: NO gastar día de pase** — comprar suelto.
 
 ## 🧠 Consenso Reddit/Foros
 - **Zapping > pases para uso moderado** [viajero] — la mayoría no amortiza el pase 24h salvo día de uso intensivo; cargar Zapping y listo. `https://www.tripadvisor.com/ShowTopic-g189158-i203-k14691368-Viva_Viagem_card_zapping_VS_daily_pass-Lisbon_Lisbon_District_Central_Portugal.html`

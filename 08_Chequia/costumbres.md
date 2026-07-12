@@ -27,7 +27,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`Praga/gastronomia.md`](Praga/gastronomia.md) y la cerveza en [`Praga/actividades.md`](Praga/actividades.md).
 
 - **Agua del grifo potable, pero empujan la embotellada** - Es potable; pedir *"voda z kohoutku"* funciona pero el default es agua mineral paga (la cerveza suele salir más barata que ambas).
 - **⚠️ Estafa del "couvert"/carta paralela** - En trampas turísticas del centro cobran couvert no anunciado o precios distintos a la carta (caso famoso del *Honest Guide*): **revisar precios y recibo**; evitar menús con fotos y locales con captador en la puerta.
@@ -37,11 +36,10 @@
 
 - **Inglés amplio en Praga** - En el centro turístico casi todos lo hablan; menos en barrios y pueblos. Un *"Dobrý den"* (buenos días) al entrar y *"Děkuju"* (gracias) caen muy bien.
 - **No es "Europa del Este" ni Rusia** ⭐ - Los checos se ven a sí mismos como **Europa Central**; asumir que "hablan ruso" o que "esto era la URSS" molesta. El checo no es el eslovaco (aunque se parezcan).
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
-- **Validar el ticket SIEMPRE** ⭐ - En el transporte de Praga (metro, tranvía, bus) hay que **validar/estampar el ticket** (o activar el de app PID Lítačka) al subir; sistema de confianza sin molinetes pero con inspectores de civil. **Las multas subieron en 2026** — llevar ticket válido y activado. Detalle en [`Praga/transporte.md`](Praga/transporte.md).
+- **Validar el ticket SIEMPRE** ⭐ - En el transporte de Praga (metro, tranvía, bus) hay que **validar/estampar el ticket** (o activar el de app PID Lítačka) al subir; sistema de confianza sin molinetes pero con inspectores de civil. **Las multas subieron en 2026** — llevar ticket válido y activado.
 - **Orden y silencio** - Trenes y metro callados; no cruzar en rojo; reciclaje en serio. Cero tolerancia con el alcohol al volante (0,0).
 - **Cerveza en la calle** - Tolerada con moderación, pero nada de escándalo: las despedidas de soltero ruidosas tienen mala fama entre los praguenses.
 

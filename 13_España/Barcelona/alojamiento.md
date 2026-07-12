@@ -12,7 +12,7 @@
 - **3 hostels TOP:** **Yeah Hostel** (9.4, cocina, Sant Antoni — el "todo junto"), **Black Swan** (9.6, Eixample izq., limpio/tranquilo), **Sant Jordi Rock Palace** (9.1, Eixample, cocina + social + rooftop).
 
 ## 🗺️ La ciudad y su geografía
-Barcelona baja del cerro de **Montjuïc** y la sierra de Collserola hasta el mar. El corazón histórico es **Ciutat Vella** (Gòtic + El Born + El Raval, alrededor de Las Ramblas), compacto y peatonal. Rodeándolo, el **Eixample** es la enorme cuadrícula modernista del s. XIX (chaflanes en cada esquina) que concentra Sagrada Família, Passeig de Gràcia y las casas de Gaudí; se divide en **Dreta** (derecha, más elegante/turística) y **Esquerra** (izquierda, más residencial). Arriba, **Gràcia** (ex-pueblo independiente, bohemio) y el **Park Güell**; al pie de Montjuïc, **Poble Sec** y **Sant Antoni** (borde suroeste del Eixample); junto al mar, **Barceloneta** y **Poblenou**. Casi todo el casco viejo se camina; para Sagrada Família, Park Güell y Montjuïc se usa metro (ver [`transporte.md`](transporte.md)).
+Barcelona baja del cerro de **Montjuïc** y la sierra de Collserola hasta el mar. El corazón histórico es **Ciutat Vella** (Gòtic + El Born + El Raval, alrededor de Las Ramblas), compacto y peatonal. Rodeándolo, el **Eixample** es la enorme cuadrícula modernista del s. XIX (chaflanes en cada esquina) que concentra Sagrada Família, Passeig de Gràcia y las casas de Gaudí; se divide en **Dreta** (derecha, más elegante/turística) y **Esquerra** (izquierda, más residencial). Arriba, **Gràcia** (ex-pueblo independiente, bohemio) y el **Park Güell**; al pie de Montjuïc, **Poble Sec** y **Sant Antoni** (borde suroeste del Eixample); junto al mar, **Barceloneta** y **Poblenou**. Casi todo el casco viejo se camina; para Sagrada Família, Park Güell y Montjuïc se usa metro.
 
 ## 🏘️ Barrios para hospedarse (trade-offs)
 
@@ -137,7 +137,7 @@ Leyenda: **Social** Alto/Medio/Bajo · **Cocina** Sí/Parcial/(verificar) · ojo
 - **⚠️ Airbnb legal en riesgo:** si igual buscás apartamento, exigí **número de licencia turística (HUTB-xxxx)** en el listing; sin licencia, alto riesgo de cancelación. Considerá aparthotel en Booking.
 - **Privada en hostel = punto medio** cocina + precio + descanso para 2 personas; entra en presupuesto.
 - **Carteristas:** al elegir barrio, sumá que Gòtic/Ramblas/Raval concentran el carterismo — otra razón para Poble Sec/Sant Antoni/Gràcia/Eixample (ver Anti-Scam en `actividades.md`).
-- **Conexión > estar en el centro:** el metro/bus resuelve; un barrio local bien conectado (Poble Sec, Gràcia) gana a dormir en la turística Gòtic (ver [`transporte.md`](transporte.md): T-casual €13 compartible).
+- **Conexión > estar en el centro:** el metro/bus resuelve; un barrio local bien conectado (Poble Sec, Gràcia) gana a dormir en la turística Gòtic (T-casual €13 compartible).
 - **Check-in/edad/lockers:** confirmá lockers, sábanas y política de edad al reservar (algunos party hostels tienen tope de edad).
 
 ## 🔗 Fuentes y links

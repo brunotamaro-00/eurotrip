@@ -1,6 +1,6 @@
 # 🚆 Transporte — Costa eslovena y Trieste (salida del loop → Florencia)
 
-**Fin del loop esloveno** (15 oct, tentativo) · **Koper** como noche logística → **devolución del auto** → **Trieste** (stopover) → **tren a Florencia**. Hub y logística del auto en [`../Liubliana/transporte.md`](../Liubliana/transporte.md)
+**Fin del loop esloveno** (15 oct, tentativo) · **Koper** como noche logística → **devolución del auto** → **Trieste** (stopover) → **tren a Florencia**.
 
 > 📍 Tramo tentativo — re-verificar horarios al confirmar fechas. Este archivo **posee la salida** del bloque Eslovenia hacia Italia.
 
@@ -23,7 +23,7 @@
 
 ## 🚗→🚌 Devolución del auto + Koper → Trieste
 
-- **Devolver el auto en Koper** (confirmar sucursal y horario; ver one-way en [`../Liubliana/transporte.md`](../Liubliana/transporte.md)).
+- **Devolver el auto en Koper** (confirmar sucursal y horario).
 - **Koper → Trieste — bus (recomendado):** **~30–50 min**, **€8–14**. Operan **FlixBus, Arriva y BlaBlaCar Bus** (según horario). La forma más simple y rápida del cruce. `https://www.flixbus.com/bus-routes/bus-koper-trieste`
 - **Tren:** normalmente **no conviene** (cambios, tiempos malos) — usar el bus.
 - **Alternativa:** si el rental no permite devolver en Koper sin recargo alto, devolver en Liubliana y llegar a Trieste por bus directo Liubliana→Trieste (FlixBus/Arriva).
@@ -50,7 +50,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Trieste → Florencia** = **❌ NO, mejor suelto Italo/Frecce advance**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Trieste → Florencia** = **❌ NO, mejor suelto Italo/Frecce advance**.
 
 - El **loop esloveno es en auto** (0 días de Eurail) y el **bus Koper→Trieste** está fuera del pase.
 - **Trieste → Florencia:** Italo/Frecce **advance desde ~€18** son **baratos sueltos**; gastar un día de pase (+reserva obligatoria) **no rinde**. Coherente con la estrategia "Italia barata suelta".

@@ -204,7 +204,7 @@ Ver detalle en `desvios_cercanos.md`.
 ---
 
 ## 🍞 Gastronomía
-> Detalle completo (platos pugliesos, burrata, focaccia barese, street food de Bari, orecchiette, dónde comer por zona, masserie, supermercados y mercados) en [`gastronomia.md`](gastronomia.md). Incluye lo del interior: pan IGP de Altamura, macellerie-ristoranti de Cisternino (bombette) y vino DOC de Locorotondo.
+> Incluye lo del interior: pan IGP de Altamura, macellerie-ristoranti de Cisternino (bombette) y vino DOC de Locorotondo.
 
 ---
 

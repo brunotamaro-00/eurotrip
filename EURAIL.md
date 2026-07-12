@@ -139,4 +139,4 @@ Consejo para principiantes: agregarlo la noche antes con wifi del alojamiento, a
 
 ---
 
-> Fuente base: sección Transporte de [`PRESUPUESTO.md`](PRESUPUESTO.md) + investigación Eurail (eurail.com, seat61.com, 2026). Actualizado por la skill `/transporte` (último: Lisboa, Porto, Friburgo, Interlaken, Innsbruck, Viena, Praga).
+> Fuente base: sección Transporte del presupuesto + investigación Eurail (eurail.com, seat61.com, 2026). Actualizado por la skill `/transporte` (último: Lisboa, Porto, Friburgo, Interlaken, Innsbruck, Viena, Praga).

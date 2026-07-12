@@ -48,7 +48,6 @@ Nápoles es **caótica, ruidosa, sucia en partes… y absolutamente auténtica**
 ---
 
 ## 🍕 Gastronomía
-> Detalle completo (pizza y pizzerías, street food — portafoglio/cuoppo/pizza fritta/sfogliatella, dónde comer barato, Mercato Pignasecca y trampas) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

@@ -182,7 +182,6 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (dónde comer por base, mariscos, comida para llevar, supermercados para cargar provisiones y reservas de cena) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

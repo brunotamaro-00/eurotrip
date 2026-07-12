@@ -1,7 +1,7 @@
 # 🏨 Alojamiento — Costa eslovena y Trieste
 
 **Tramo:** loop desde Liubliana (base 11-15 oct 2026) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Referencia de precios (plan 2026):** bloque Eslovenia **~USD 33-45 pp/noche** ([`../../PRESUPUESTO.md`](../../PRESUPUESTO.md)). **Trieste (Italia)** suele ser **~USD 40-65** según temporada y cercanía al centro.
+**Referencia de precios (plan 2026):** bloque Eslovenia **~USD 33-45 pp/noche**. **Trieste (Italia)** suele ser **~USD 40-65** según temporada y cercanía al centro.
 > Fechas y noches **tentativas** (post-Portugal). Esta zona es parte del **loop en auto** desde Liubliana: se duerme 0-1 noche según cómo se arme. **La clave real acá es parking + logística de auto**, no el "ambiente de hostel".
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🗺️ La zona y su geografía
 
-La **costa eslovena** es un tramo corto (~40 km) sobre el Adriático, entre Italia y Croacia. De norte a sur: **Koper** (ciudad-puerto, la más "funcional", buen parking y salida a Trieste), **Izola** (pueblo pesquero tranquilo), **Piran** (la joya veneciana **car-free** en una península — la postal, pero hay que dejar el auto en garage externo) y **Portorož** (balneario). Al otro lado de la frontera, a ~20 min de Koper, está **Trieste** (Italia): ciudad portuaria elegante, punto de salida en tren hacia Florencia. Todo se maneja en auto; Piran es el único con complicación de acceso. Ver [`transporte.md`](transporte.md).
+La **costa eslovena** es un tramo corto (~40 km) sobre el Adriático, entre Italia y Croacia. De norte a sur: **Koper** (ciudad-puerto, la más "funcional", buen parking y salida a Trieste), **Izola** (pueblo pesquero tranquilo), **Piran** (la joya veneciana **car-free** en una península — la postal, pero hay que dejar el auto en garage externo) y **Portorož** (balneario). Al otro lado de la frontera, a ~20 min de Koper, está **Trieste** (Italia): ciudad portuaria elegante, punto de salida en tren hacia Florencia. Todo se maneja en auto; Piran es el único con complicación de acceso.
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Tramo:** 20-27 oct 2026 (7 noches) · **Estado:** tentativo · **Realista:** ~1-2 day trips (Roma es intensa y da para 2 semanas; máximo 1-2 desvíos)
 
-> Costos autoritativos en [`transporte.md`](transporte.md). **Pompeya/Herculano: hacerlas desde Nápoles** (siguiente parada) — ver [`../Napoles/transporte.md`](../Napoles/transporte.md). **Eurail:** los desvíos de Roma son regionales y baratos → **no vale gastar día de pase**; ⚠️ **cambio de hora el dom 25 oct** (anochece ~17:15 después).
+> **Pompeya/Herculano: hacerlas desde Nápoles** (siguiente parada). **Eurail:** los desvíos de Roma son regionales y baratos → **no vale gastar día de pase**; ⚠️ **cambio de hora el dom 25 oct** (anochece ~17:15 después).
 
 ## 🎯 Resumen
 | Destino | Prioridad | Distancia | Tiempo (ida) | Medio | Categoría | ¿Sin auto? |
@@ -21,7 +21,7 @@
 ## ⭐ Prioridad Alta
 
 ### Ostia Antica
-- **Tren Roma-Lido (incluido en el urbano, €1.50 Tap&Go), ~40 min** (→ [`transporte.md`](transporte.md)) · medio día
+- **Tren Roma-Lido (incluido en el urbano, €1.50 Tap&Go), ~40 min** · medio día
 - **Qué ver:** la ciudad portuaria de la antigua Roma extraordinariamente conservada: el teatro romano, las termas de Neptuno con mosaicos, el foro, las "insulae" (edificios de departamentos), tabernas y mosaicos in situ (**~€18** entrada). **Por qué:** **"mejor que Pompeya" según muchos** — más auténtica, mucho menos turística, y a 40 min en tren urbano de Roma. **Tip:** llevar agua y picnic, casi sin servicios; medio día completo `https://www.ostiaantica.beniculturali.it/en/` · **Sin auto:** sí
 
 ### Tívoli (Villa d'Este + Villa Adriana)
@@ -47,7 +47,7 @@
 
 ## ❌ Descartados
 - **Perugia** — capital de Umbría pero "too many hordes, underwhelming" (u/consigliere47); preferir Orvieto o Spoleto.
-- **Pompeya / Herculano** — **se hacen desde Nápoles**, no desde Roma (2h+ cada lado desde Roma vs. 30 min desde Nápoles). Ver [`../Napoles/`](../Napoles/).
+- **Pompeya / Herculano** — **se hacen desde Nápoles**, no desde Roma (2h+ cada lado desde Roma vs. 30 min desde Nápoles).
 - **Venecia / Florencia** — ciudades por derecho propio (Florencia ya está en la ruta); no day trips desde Roma.
 - **Toulouse / Marseille / Arles / Avignon** — son del **trayecto Roma→Barcelona por el sur de Francia** (sugerencia de u/Any-Republic-4269), no day trips desde Roma; evaluar como ruta de tren si se descarta el vuelo.
 

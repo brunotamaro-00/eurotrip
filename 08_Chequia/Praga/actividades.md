@@ -93,7 +93,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos checos, hospodas/jídelny, dónde comer barato, trampas turísticas como el trdelník, comida para llevar, supermercados y mercados) en [`gastronomia.md`](gastronomia.md).
 >
 > La sección de **Cerveza Checa** (dónde tomarla) se mantiene arriba en este archivo como experiencia.
 

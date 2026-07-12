@@ -4,7 +4,7 @@
 
 **Tramo:** 23-28 sept 2026 (5 noches) · **Estado:** tentativo · **Realista:** ~1-2 day trips (con 5 noches Viena llena sola; un desvío de "aire" si querés)
 
-> Costos autoritativos en [`transporte.md`](transporte.md). **Eurail:** Bratislava → mejor el **EURegio Ticket €18** (con transporte urbano) que gastar día de pase; Wachau → tren con Eurail + **barco DDSG aparte** (estacional, verificar fines de septiembre).
+> **Eurail:** Bratislava → mejor el **EURegio Ticket €18** (con transporte urbano) que gastar día de pase; Wachau → tren con Eurail + **barco DDSG aparte** (estacional, verificar fines de septiembre).
 
 ## 🎯 Resumen
 | Destino | Prioridad | Distancia | Tiempo (ida) | Medio | Categoría | ¿Sin auto? |
@@ -21,7 +21,7 @@
 ## ⭐ Prioridad Alta
 
 ### Wachau (Melk + Dürnstein + Danubio)
-- **Tren a Melk ~1h + barco DDSG Melk→Krems + tren de vuelta** (→ [`transporte.md`](transporte.md)) · día completo
+- **Tren a Melk ~1h + barco DDSG Melk→Krems + tren de vuelta** · día completo
 - **Qué ver:** **Abadía de Melk** (monasterio benedictino barroco sobre el Danubio, biblioteca e iglesia espectaculares), **crucero por el valle del Wachau** (viñedos en terrazas, castillos, pueblos), **Dürnstein** (pueblo con la torre azul donde estuvo preso Ricardo Corazón de León). **Por qué:** el day trip "más redondo" de Viena — abadía + río + pueblos + vino en un loop. **Nota:** el **barco DDSG es estacional** — confirmar que opere a fines de septiembre `https://www.wachau.at/en` · **Sin auto:** sí
 
 ---

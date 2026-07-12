@@ -2,7 +2,7 @@
 
 **Fechas cerradas:** hasta fin del desvío Portugal (**12 sept**). **Post Portugal:** fechas tentativas — priorizar investigación; reservar alojamiento/traslados cuando se confirme tramo y noches. **3 noches de margen:** sin destino; no reservar hasta decidir si se usan y dónde.
 
-**Presupuesto:** rangos actualizados en [`PRESUPUESTO.md`](PRESUPUESTO.md) (~$24k-32k total viaje; ~$6,6k ya confirmados).
+**Presupuesto:** rangos actualizados (~$24k-32k total viaje; ~$6,6k ya confirmados).
 
 ## 🗓️ Calendario de acción (ordenado — de lo más urgente a lo más lejano)
 
@@ -89,8 +89,8 @@
 - [ ] **Portugal (transporte):** Comprar tren **CP Lisboa→Porto** (Alfa Pendular **€35.70** tourist / Intercidades) **anticipado** para tarifa Promo (desde ~€18). **Porto→Estrasburgo (12 sept):** vuelo Volotea **$90** — **COMPRADO**. Portugal va **fuera del Eurail** (suelto). (ver `04_Portugal/*/transporte.md`)
 - [ ] **City passes (si conviene):** Decidir Paris Museum Pass / Roma Pass / Budapest Card / Firenze Card según plan real de museos.
 - [ ] **Tecnología:** Comprar eSIM (Airalo o Holafly) y verificar que ambos teléfonos la soporten.
-- [ ] **Packing (ver lista completa):** Revisar y completar [`recursos/packing_list.md`](recursos/packing_list.md). Críticos por comprar: **mochila día**, **riñonera**, **candados** y **adaptadores** (Tipo G UK + Tipo C/F Europa).
-- [ ] **Apps (ver lista completa):** Instalar/configurar apps esenciales [`recursos/apps_utiles.md`](recursos/apps_utiles.md) (incl. Wise/Revolut, Trainline/Omio, Airalo, etc.).
+- [ ] **Packing (ver lista completa):** Revisar y completar la lista de packing. Críticos por comprar: **mochila día**, **riñonera**, **candados** y **adaptadores** (Tipo G UK + Tipo C/F Europa).
+- [ ] **Apps (ver lista completa):** Instalar/configurar apps esenciales (incl. Wise/Revolut, Trainline/Omio, Airalo, etc.).
 
 ## 1 Semana Antes (Preparativos Finales)
 - [ ] Avisar a bancos de fechas de viaje.

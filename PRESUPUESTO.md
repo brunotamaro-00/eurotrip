@@ -5,7 +5,7 @@
 **Duración total:** 108 noches (5 agosto - 21 noviembre 2026)
 **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona)
 
-**Planificación:** Fechas y noches **cerradas hasta fin de Portugal (12 sept)**. Del Estrasburgo en adelante, las fechas por ciudad son **tentativas** (ver [`README.md`](README.md)). Las **3 noches de margen** no tienen destino fijo: presupuesto reservado para alargar estancia donde haga falta.
+**Planificación:** Fechas y noches **cerradas hasta fin de Portugal (12 sept)**. Del Estrasburgo en adelante, las fechas por ciudad son **tentativas**. Las **3 noches de margen** no tienen destino fijo: presupuesto reservado para alargar estancia donde haga falta.
 
 ---
 
@@ -74,7 +74,7 @@
 | Transporte local (metro, bus, etc.) | $550-850 |
 | **TOTAL TRANSPORTE** | **$2,276.5-2,760.5** |
 
-**Nota:** El Eurail (15 días/2 meses, ya comprado) se activa al inicio del viaje (~7-8 ago) y cubre los tramos **más caros**: el **bloque UK** (Londres→York, York→Edimburgo + day trips Bath/Oxford/Cambridge) y **Suiza** (Friburgo→Interlaken + day trips internos + Interlaken→Viena). Los trenes UK y el Eurostar **ya van dentro del pase** (no se compran aparte). Lo barato o de operador privado (Italia, España, Praga→Cracovia, buses) se compra suelto y queda fuera de la ventana de 2 meses (Italia/España). Plan de los 15 días en [`EURAIL.md`](EURAIL.md).
+**Nota:** El Eurail (15 días/2 meses, ya comprado) se activa al inicio del viaje (~7-8 ago) y cubre los tramos **más caros**: el **bloque UK** (Londres→York, York→Edimburgo + day trips Bath/Oxford/Cambridge) y **Suiza** (Friburgo→Interlaken + day trips internos + Interlaken→Viena). Los trenes UK y el Eurostar **ya van dentro del pase** (no se compran aparte). Lo barato o de operador privado (Italia, España, Praga→Cracovia, buses) se compra suelto y queda fuera de la ventana de 2 meses (Italia/España).
 
 ### Otros Gastos (por persona)
 
@@ -324,7 +324,6 @@ Resumen rápido de cuáles convienen (verificar precios actuales antes de compra
 
 ## Checklist Financiero
 
-Ver el **[CHECKLIST.md](CHECKLIST.md)** para el seguimiento de tareas financieras.
 
 ---
 

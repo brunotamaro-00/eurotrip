@@ -1,7 +1,7 @@
 # 🚆 Transporte en Praga
 
 **Fechas:** 28 sept – 3 octubre (5 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **Railjet (ÖBB/ČD) / RegioJet** desde Viena (~4h, llega a **Praha hl.n.**) → detalle en [`../../07_Austria/Viena/transporte.md`](../../07_Austria/Viena/transporte.md). De la estación central al centro: a pie (~10 min) o metro C.
+**Llegada:** tren **Railjet (ÖBB/ČD) / RegioJet** desde Viena (~4h, llega a **Praha hl.n.**). De la estación central al centro: a pie (~10 min) o metro C.
 **Salida:** **tren o bus (Leo Express / RegioJet / EC)** hacia **Cracovia** el 3 oct (~7h, ver sección Salida)
 
 > ⚠️ **Tramo tentativo (post-Portugal)** — re-verificar al confirmar fechas.
@@ -36,14 +36,14 @@
 ## 🗺️ Cómo llegar a los day trips
 | Destino | Medio | Tiempo ida | Costo / Eurail | Reserva |
 |---------|-------|-----------|----------------|---------|
-| **[Kutná Hora](Day_trips/Kutna_Hora.md)** ⭐ (osario Sedlec) | Tren directo ČD desde Praha hl.n. | ~60–70 min | **€6.50 ida / €13 v.v.** — Eurail cubre (barato) | No |
-| **[Český Krumlov](Day_trips/Cesky_Krumlov.md)** | Tren IC directo (~3h) o bus | ~3h | tren **€16** 2ª / bus ~$11–16; Eurail cubre tren | mejor dormir 1 noche; castillo con tour |
+| **Kutná Hora** ⭐ (osario Sedlec) | Tren directo ČD desde Praha hl.n. | ~60–70 min | **€6.50 ida / €13 v.v.** — Eurail cubre (barato) | No |
+| **Český Krumlov** | Tren IC directo (~3h) o bus | ~3h | tren **€16** 2ª / bus ~$11–16; Eurail cubre tren | mejor dormir 1 noche; castillo con tour |
 | **Karlštejn** (castillo) | Tren ČD (dirección Beroun) | ~40–60 min | barato; Eurail cubre + 1 km a pie al castillo | Castillo: tour, algunos circuitos con reserva |
 | **Terezín** (memorial) | Bus | ~1h | ~€6–9; bus no Eurail | No |
 | **Dresden** (Alemania) | Tren EC | ~2h–2h15 | Eurail cubre (EC) | No |
 | **Karlovy Vary** (spa town) | Bus (RegioJet/FlixBus) ~2h | ~2h | ~€8–12; bus no Eurail | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). Con 5 noches, Praga llena sola; **Kutná Hora** es el day trip en tren más fácil (osario + catedral). Český Krumlov rinde más con noche.
+> Con 5 noches, Praga llena sola; **Kutná Hora** es el day trip en tren más fácil (osario + catedral). Český Krumlov rinde más con noche.
 
 ## 🚆 Salida hacia Cracovia (3 oct)
 - **Medio:** **tren directo** (Leo Express / RegioJet / ČD / EC) Praha → **Kraków Główny**, ~**7h** (los más rápidos ~5h15 con conexión). También **bus** (RegioJet/FlixBus) nocturno o diurno.
@@ -55,7 +55,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - **Praga → Cracovia:** Eurail cubre los tramos **ČD/EC/DB/ÖBB**, pero los **operadores privados baratos (Leo Express, RegioJet) NO entran en Eurail**.
-- Como el suelto anticipado es **muy barato (€13–16)**, **NO conviene gastar día de pase** → comprar suelto (Leo Express/RegioJet). Consistente con [`../../EURAIL.md`](../../EURAIL.md) (este tramo marcado como **suelto/bus barato**).
+- Como el suelto anticipado es **muy barato (€13–16)**, **NO conviene gastar día de pase** → comprar suelto (Leo Express/RegioJet).
 
 ## 🧠 Consenso Reddit/Foros
 - **Centro 100% caminable; transporte solo para distancias/lluvia** [local] — usar tranvía 22 para subir al Castillo y ahorrar la cuesta. `https://old.reddit.com/r/Prague/comments/1n3igos/prague_top_travel_tips_list_whats_missing_whats/`

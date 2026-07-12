@@ -18,14 +18,14 @@
 
 ### Auschwitz-Birkenau (Oświęcim) — MUST
 - **Bus directo** desde Cracovia (~1.5h) o tour organizado · día completo (salir ~7-8am)
-- **Qué ver:** campo de concentración y exterminio + memorial del Holocausto (→ detalle en [`Day_trips/Auschwitz.md`](Day_trips/Auschwitz.md))
+- **Qué ver:** campo de concentración y exterminio + memorial del Holocausto
 - **Por qué:** unánime en foros como imprescindible aunque emocionalmente durísimo `https://afar.com/travel-tips/the-best-day-trips-from-krakow`
 - **Reserva:** **obligatoria y anticipada** en web oficial; los slots con guía se agotan semanas antes
 - **Mejor día:** entre semana temprano · **Sin auto:** ✅ sí
 
 ### Wieliczka (Mina de Sal) — medio día
 - **Tren o bus** 30-45 min (14 km) · medio día (~3h con el tour de 2.5h)
-- **Qué ver:** capilla de Santa Kinga y cámaras talladas en sal a 135m bajo tierra (→ [`Day_trips/Wieliczka.md`](Day_trips/Wieliczka.md))
+- **Qué ver:** capilla de Santa Kinga y cámaras talladas en sal a 135m bajo tierra
 - **Por qué:** una de las atracciones más populares de Polonia; foros la marcan como "vale la pena pero reservar y evitar horas pico" `https://old.reddit.com/r/krakow/comments/1ajecud/is_the_wieliczka_salt_mine_worth_visiting/`
 - **Reserva:** online con días de anticipación (slots 10-14h se agotan) · **Sin auto:** ✅ sí
 - *Nota: por cercanía es casi un half-day urbano; también figura en `actividades.md`.*

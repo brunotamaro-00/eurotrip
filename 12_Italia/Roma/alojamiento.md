@@ -20,7 +20,7 @@
 
 ## 🗺️ La ciudad y su geografía
 
-Roma se organiza alrededor del **Centro Storico** (Panteón, Navona, Campo de' Fiori) sobre la margen este del **Tíber**; al oeste del río están **Trastevere** (abajo) y **Prati/Vaticano** (arriba, con la Ciudad del Vaticano). Al sureste del centro, entre el **Coliseo** y la estación **Termini**, está **Monti**; más al sur, **Testaccio** y **Aventino** (foodie/tranquilo). Termini es el hub de trenes al noreste — práctico pero feo en sus calles perimetrales. **Roma se camina** (el centro histórico casi no tiene metro cerca); el metro (líneas A/B) solo sirve para tramos largos — Coliseo (B), Vaticano/Spagna (A). Detalle en [`transporte.md`](transporte.md).
+Roma se organiza alrededor del **Centro Storico** (Panteón, Navona, Campo de' Fiori) sobre la margen este del **Tíber**; al oeste del río están **Trastevere** (abajo) y **Prati/Vaticano** (arriba, con la Ciudad del Vaticano). Al sureste del centro, entre el **Coliseo** y la estación **Termini**, está **Monti**; más al sur, **Testaccio** y **Aventino** (foodie/tranquilo). Termini es el hub de trenes al noreste — práctico pero feo en sus calles perimetrales. **Roma se camina** (el centro histórico casi no tiene metro cerca); el metro (líneas A/B) solo sirve para tramos largos — Coliseo (B), Vaticano/Spagna (A).
 
 ---
 
@@ -41,7 +41,7 @@ Roma se organiza alrededor del **Centro Storico** (Panteón, Navona, Campo de' F
 
 ## 🆚 ¿Hostel o Airbnb? (2 personas, 7 noches, oct 2026)
 
-Con **7 noches y de a 2**, la balanza se inclina a **apartamento/Airbnb** por tres motivos: (1) **cocina** propia (fuente principal de comidas — ver [`gastronomia.md`](gastronomia.md)); (2) **descanso** tras días de 15–25 mil pasos; (3) poder **"vivir" el barrio** (café de la mañana, rutina en Monti/Testaccio). El cruce de precios:
+Con **7 noches y de a 2**, la balanza se inclina a **apartamento/Airbnb** por tres motivos: (1) **cocina** propia (fuente principal de comidas); (2) **descanso** tras días de 15–25 mil pasos; (3) poder **"vivir" el barrio** (café de la mañana, rutina en Monti/Testaccio). El cruce de precios:
 
 - **Dorm en hostel:** desde **~€28–35 pp/noche** en las opciones sólidas (los baratos desde ~€26). Para 2 = **~€56–70/noche la habitación equivalente**.
 - **Privada en hostel (÷2):** típicamente **~€40–60 pp/noche**.
@@ -335,7 +335,7 @@ Referencia: octubre es **temporada media** (post-verano); tras el impulso del Ju
 - **Check-in tardío:** ojo con recepciones limitadas — **The Beehive** (14–21), **Comics** (13–19), **Funny Palace** (fee) no sirven si llegan tarde (llegada 20 oct desde Florencia).
 - **Edad:** **YellowSquare** (18–45), **JO&JOE** (+18), **Funny Palace** dorms (<40) — verificar si aplica.
 - **"Privada en hostel" como punto medio:** cocina + precio + descanso sin resignar del todo lo social (Ostello Bello, The Beehive, Freedom Traveller).
-- **Carteristas:** máximo cuidado en Termini y Metro Línea A; mochila adelante (ver [`transporte.md`](transporte.md)).
+- **Carteristas:** máximo cuidado en Termini y Metro Línea A; mochila adelante.
 
 ---
 

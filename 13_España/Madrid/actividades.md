@@ -57,7 +57,6 @@
 ---
 
 ## 🍕 Gastronomía
-> Detalle completo (platos madrileños, bocadillo de calamares, cocido, menú del día, vermut, tapeo de La Latina/Lavapiés, mercados y trampas) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -107,7 +106,6 @@
 ---
 
 ## 👯 Bares y noche de Cande / Notas
-> Qué tomar (vermut Yzaguirre/Lustau, gin-tonic madrileño) migrado a [`gastronomia.md`](gastronomia.md).
 - Vida nocturna hasta las 6am — Madrid tiene la noche más larga de Europa (sin hipérbole)
 
 ---
@@ -194,7 +192,6 @@
 - **Carteristas**: como en toda capital grande; máximo cuidado en el Metro y alrededores de Sol/Gran Vía; mochila al frente en las aglomeraciones
 
 ### Gastronomía
-> Tips de menú del día, tapa gratis y agua del grifo migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Transporte
 - **Abono Turístico (1-7 días)**: para 5 días en Madrid vale la pena; zona A cubre todo el centro; verificar precios actuales en crtm.es

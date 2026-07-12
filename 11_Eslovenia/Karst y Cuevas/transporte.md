@@ -1,6 +1,6 @@
 # 🚗 Transporte — Karst y Cuevas (Škocjan / Postojna / Predjama)
 
-**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Postojna / Divača** o de paso hacia la costa · hub y logística del auto/viñeta en [`../Liubliana/transporte.md`](../Liubliana/transporte.md)
+**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Postojna / Divača** o de paso hacia la costa
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas. **Es el gran "plan B" climático:** las cuevas rinden igual con lluvia.
 
@@ -40,7 +40,7 @@
 
 ## 🎟️ Eurail
 
-> **Día en auto — no usa Eurail.** Las cuevas/castillo son entradas sueltas con reserva. → ver [`../Liubliana/transporte.md`](../Liubliana/transporte.md) y [`../../EURAIL.md`](../../EURAIL.md).
+> **Día en auto — no usa Eurail.** Las cuevas/castillo son entradas sueltas con reserva.
 
 ---
 

@@ -1,7 +1,7 @@
 # 🏨 Alojamiento en Innsbruck
 
 **Tramo:** 23 sept 2026 — **0 noches en el borrador** (evaluar **1-2 noches** si conviene) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Referencia de precios (plan 2026):** **~USD 50-70 pp/noche** ([`../../PRESUPUESTO.md`](../../PRESUPUESTO.md), Austria). Innsbruck suele ser algo más barata que Viena; privada en Airbnb ronda **~USD 70-110 pp/noche** si se cotiza con anticipación.
+**Referencia de precios (plan 2026):** **~USD 50-70 pp/noche** (Austria). Innsbruck suele ser algo más barata que Viena; privada en Airbnb ronda **~USD 70-110 pp/noche** si se cotiza con anticipación.
 > Fechas y noches **tentativas** (post-Portugal). Innsbruck figura como **tránsito** (0 noches); esto aplica solo si sumás 1-2 noches — re-verificar al confirmar.
 
 ---
@@ -18,7 +18,7 @@
 
 ## 🗺️ La ciudad y su geografía
 
-Innsbruck es **chica y muy caminable**, encajada en el valle del Inn con los Alpes justo encima (el Nordkette se ve desde el centro). El corazón es la **Altstadt** medieval alrededor del **Goldenes Dachl** (Tejadito de Oro), peatonal y compacta. Al sur, cruzando las vías, está **Wilten** (buena mezcla precio/cercanía) y **Pradl** (residencial, más barato). La **Hauptbahnhof** queda al este del casco, a ~10 min a pie. Al norte del río, **Hötting** trepa la ladera (tranquilo, vistas, revisar conexión). Todo el centro se hace a pie; el tranvía/bus IVB cubre el resto (detalle en [`transporte.md`](transporte.md)).
+Innsbruck es **chica y muy caminable**, encajada en el valle del Inn con los Alpes justo encima (el Nordkette se ve desde el centro). El corazón es la **Altstadt** medieval alrededor del **Goldenes Dachl** (Tejadito de Oro), peatonal y compacta. Al sur, cruzando las vías, está **Wilten** (buena mezcla precio/cercanía) y **Pradl** (residencial, más barato). La **Hauptbahnhof** queda al este del casco, a ~10 min a pie. Al norte del río, **Hötting** trepa la ladera (tranquilo, vistas, revisar conexión). Todo el centro se hace a pie; el tranvía/bus IVB cubre el resto.
 
 ---
 
@@ -89,7 +89,7 @@ Innsbruck es **chica y muy caminable**, encajada en el valle del Inn con los Alp
 - **Reservá con cancelación gratis** — Innsbruck es **tránsito** (0 noches en el borrador); solo sumás noche si conviene.
 - **Calefacción:** fines de septiembre puede refrescar (6-16°C) → verificar que el alojamiento caliente bien.
 - Si venís **de Interlaken y seguís a Viena**, dormir cerca de **Hauptbahnhof** simplifica la logística con equipaje.
-- **Nepomuks/MEININGER** dan cocina (clave para cocinar; ver [`gastronomia.md`](gastronomia.md)).
+- **Nepomuks/MEININGER** dan cocina (clave para cocinar).
 - **Privada en hostel** = punto medio precio/descanso ideal para 1-2 noches.
 
 ---

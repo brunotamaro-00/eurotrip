@@ -24,7 +24,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`Amsterdam/gastronomia.md`](Amsterdam/gastronomia.md).
 
 - **Agua del grifo** - Pedir *"tap water / kraanwater"* es normal y suele ser gratis.
 - **La cuenta se pide y se divide** - *"Mag ik afrekenen?"*; separar (*"apart betalen"*) y que cada uno pague lo suyo es la norma cultural ("going Dutch"), no tacañería — no esperar que "inviten".
@@ -33,14 +32,13 @@
 
 - **Inglés casi universal** ⭐ - El mejor de Europa continental; en Ámsterdam todos lo hablan con fluidez. Un *"dank je wel"* (gracias) o *"goedemorgen"* cae simpático `https://www.viator.com/blog/Amsterdam-Dos-and-Donts-10-Unwritten-Rules-That-Every-Amsterdammer-Knows/l114195`
 - **Franqueza directa** ⭐ - Dicen lo que piensan sin rodeos; suena brusco pero **es honestidad valorada, no grosería**. No tomarlo personal. Trato horizontal e igualitario; presumir plata/estatus cae mal (sobriedad calvinista).
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
 - **⚠️ El carril bici (fietspad) es sagrado** ⭐⭐ - Las franjas **rojizas** son **solo bicis**, no vereda. Caminar, pararse o —el clásico— **frenar en seco a sacar una foto** ahí provoca timbrazos furiosos; es el error #1 del turista. Las bicis van rápido, en silencio y **tienen prioridad** `https://www.yellowbike.nl/en/cycling-rules-in-the-netherlands/`
 - **⚠️ Barrio Rojo (De Wallen): PROHIBIDO fotografiar** ⭐ - Fotografiar trabajadoras o ventanas es gravísimo; guardá el teléfono y comportate con respeto.
 - **Coffeeshops** - La marihuana se tolera solo dentro (no en la calle del centro, multable); no confundir "coffeeshop" (cannabis) con "café/koffiehuis" (café normal). Consumir con moderación.
-- **Transporte: fichar al entrar Y al salir** - Tarjeta OV/contactless: olvidar el *uitchecken* cobra tarifa máxima. Detalle en [`Amsterdam/transporte.md`](Amsterdam/transporte.md).
+- **Transporte: fichar al entrar Y al salir** - Tarjeta OV/contactless: olvidar el *uitchecken* cobra tarifa máxima.
 - **Canales: peligro real** - No trepar barandas ni sentarse al borde para fotos (agua fría y profunda, más con alcohol).
 
 ## 🏠 Vida cotidiana y costumbres

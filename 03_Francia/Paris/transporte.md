@@ -1,7 +1,7 @@
 # 🚆 Transporte en París
 
 **Fechas:** sáb 29 ago – jue 4 sept 2026 (6 noches) · **Estado:** fijo
-**Llegada:** **tren Eurostar** desde Ámsterdam → **París Gare du Nord** (~3h20) → detalle en [`../../02_Paises_Bajos/Amsterdam/transporte.md`](../../02_Paises_Bajos/Amsterdam/transporte.md)
+**Llegada:** **tren Eurostar** desde Ámsterdam → **París Gare du Nord** (~3h20)
 **Salida:** **vuelo** París → Lisboa (4 sept) ✅ comprado · ver sección Salida
 
 > ⚠️ **Reforma tarifaria IDF (2025):** el **carnet de 10 ya no existe**; ahora es **tarifa plana** (single €2.55) o pase. Tickets t+ de papel descontinuados — todo va en **Navigo Easy** o Navigo Semaine.
@@ -62,12 +62,12 @@
 
 ## 🗺️ Cómo llegar a los day trips y puntos clave
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Versalles** es el único desvío confirmado. Todo cubierto por **Navigo Semaine** (no requiere Eurail; París es pre-Portugal y la salida es en avión).
+> **Versalles** es el único desvío confirmado. Todo cubierto por **Navigo Semaine** (no requiere Eurail; París es pre-Portugal y la salida es en avión).
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **[Versalles](Day_trips/Versalles.md)** ✅ | **RER C** → *Versailles Château Rive Gauche* | 35–45 min | €4/tramo · **incluido en Navigo Semaine** | ❌ N/A (avión) | NO bajarse en "Versailles Chantiers"; mar–jue, llegar 9:00; reservar slot |
-| **[Fontainebleau](Day_trips/Fontainebleau.md)** | Tren Gare de Lyon → Fontainebleau-Avon + bus 1 | 40 min + bus | **~€18 return** (Transilien, fuera de Navigo) | ❌ N/A (avión) | Château cerrado **martes**; park y bosque gratis |
+| **Versalles** ✅ | **RER C** → *Versailles Château Rive Gauche* | 35–45 min | €4/tramo · **incluido en Navigo Semaine** | ❌ N/A (avión) | NO bajarse en "Versailles Chantiers"; mar–jue, llegar 9:00; reservar slot |
+| **Fontainebleau** | Tren Gare de Lyon → Fontainebleau-Avon + bus 1 | 40 min + bus | **~€18 return** (Transilien, fuera de Navigo) | ❌ N/A (avión) | Château cerrado **martes**; park y bosque gratis |
 | **Chantilly** | Tren Gare du Nord | 25–45 min | **~€16–18 return** (fuera de Navigo) | ❌ N/A (avión) | Château + museo + crème; 10-15 min a pie de la estación |
 | **Giverny** | Tren Gare Saint-Lazare → Vernon + shuttle | 45 min + shuttle | **~€30 return** | ❌ N/A (avión) | Casa de Monet; abr-nov; solo fans del impresionismo |
 | **Marché aux Puces (Saint-Ouen)** | Metro L4 → Porte de Clignancourt | 20–25 min | single/Navigo | — | 5 min a pie desde el metro (urbano, no day trip) |
@@ -89,7 +89,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> **París es pre-Portugal y la salida es en avión** → **no se usa Eurail acá. Días de Eurail en París: 0.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+> **París es pre-Portugal y la salida es en avión** → **no se usa Eurail acá. Días de Eurail en París: 0.**
 
 - 🪟 **Activación del pase:** se recomienda **activar el Eurail ~12 sept** (llegada a Estrasburgo, ya post-Portugal) para **maximizar la ventana de 2 meses** y no desperdiciarla en el bloque UK/Ámsterdam/París/Portugal (todo vuelo/suelto). Decisión a confirmar al cerrar fechas.
 

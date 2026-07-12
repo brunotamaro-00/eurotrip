@@ -126,7 +126,7 @@ Es el **cierre de 100+ días de viaje**, en el tramo **más frío** (6-14°C, pu
 - **Edad:** los **Onefam** suelen tener tope de edad — verificar al reservar.
 - **Frío/ruido:** noviembre puede helar de noche (pedir cuarto no sobre la calle en zonas de bar); llevar tapones si van a Cat's/party hostels.
 - **Carteristas:** en Sol/Gran Vía/Metro; mochila al frente en aglomeraciones.
-- **Ubicación práctica:** dormir cerca de una **línea de metro** ayuda el día del vuelo (L8 a Barajas) — ver [`transporte.md`](transporte.md).
+- **Ubicación práctica:** dormir cerca de una **línea de metro** ayuda el día del vuelo (L8 a Barajas)
 
 ## 🔗 Fuentes y links
 - **Hostelworld — hostels de Madrid:** `https://www.hostelworld.com/hostels/europe/spain/madrid/`

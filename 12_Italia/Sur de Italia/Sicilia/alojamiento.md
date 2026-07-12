@@ -2,7 +2,7 @@
 
 **Tramo:** bloque Sur de Italia (29 oct - 8 nov 2026, hasta 10 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
 **Presupuesto:** ~$18-30 pp/noche
-> Fechas y noches **tentativas** (post-Portugal). **Opción recomendada del Sur para noviembre** (mejor clima, todo abierto, vuelos baratísimos a BCN); ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> Fechas y noches **tentativas** (post-Portugal). **Opción recomendada del Sur para noviembre** (mejor clima, todo abierto, vuelos baratísimos a BCN);
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🗺️ La isla y su geografía
 
-Sicilia es grande: conviene pensar en **Oeste** (Palermo, Trapani, Agrigento) y **Este** (Catania, Siracusa, Taormina, Etna), conectados por buen tren Palermo-Catania y autopistas. **Palermo** (NO) es caótica y vibrante, con los mejores mercados callejeros (Ballarò, Vucciria). **Catania** (E), a los pies del **Etna**, es la puerta aérea barata. Al SE, la barroca **Val di Noto** (Noto, Ragusa Ibla, Modica, Scicli) y **Siracusa** con su casco insular **Ortigia**. **Taormina** (NE) es la cara/turística; **Giardini-Naxos** abajo es su alternativa barata. Con auto se desbloquean 2 ventanas cortas (~5 días). Ver [`transporte.md`](transporte.md).
+Sicilia es grande: conviene pensar en **Oeste** (Palermo, Trapani, Agrigento) y **Este** (Catania, Siracusa, Taormina, Etna), conectados por buen tren Palermo-Catania y autopistas. **Palermo** (NO) es caótica y vibrante, con los mejores mercados callejeros (Ballarò, Vucciria). **Catania** (E), a los pies del **Etna**, es la puerta aérea barata. Al SE, la barroca **Val di Noto** (Noto, Ragusa Ibla, Modica, Scicli) y **Siracusa** con su casco insular **Ortigia**. **Taormina** (NE) es la cara/turística; **Giardini-Naxos** abajo es su alternativa barata. Con auto se desbloquean 2 ventanas cortas (~5 días).
 
 ---
 
@@ -111,4 +111,3 @@ Sicilia es grande: conviene pensar en **Oeste** (Palermo, Trapani, Agrigento) y 
 - A Casa di Amici (Hostelworld): `https://www.hostelworld.com/hostels/p/81938/a-casa-di-amici/`
 - Ostello degli Elefanti (Hostelworld): `https://www.hostelworld.com/hostels/p/83417/ostello-degli-elefanti/`
 - Hostels Sicilia (Hostelworld): `https://www.hostelworld.com/hostels/europe/italy/a/sicily/`
-- Comparativa Sur de Italia: [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md)

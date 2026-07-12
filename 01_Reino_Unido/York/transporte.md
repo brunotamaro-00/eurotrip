@@ -1,10 +1,10 @@
 # 🚆 Transporte en York
 
 **Fechas:** jue 13 – sáb 15 ago 2026 (2 noches) · **Estado:** fijo
-**Llegada:** tren LNER desde Londres King's Cross → **York Station** (~2h) → detalle en [`../Londres/transporte.md`](../Londres/transporte.md)
+**Llegada:** tren LNER desde Londres King's Cross → **York Station** (~2h)
 **Salida:** **tren LNER** York → Edimburgo Waverley (15 ago) · ver sección Salida
 
-> 🇬🇧 **Gran Bretaña está cubierta por el Eurail.** El tren **York→Edimburgo** (con parada opcional en Durham, mismo día = mismo día de pase) es un buen **candidato a día de pase** (walk-up ~£70). UK sin reserva. → ver [`../../EURAIL.md`](../../EURAIL.md)
+> 🇬🇧 **Gran Bretaña está cubierta por el Eurail.** El tren **York→Edimburgo** (con parada opcional en Durham, mismo día = mismo día de pase) es un buen **candidato a día de pase** (walk-up ~£70). UK sin reserva.
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Con 2 noches York alcanza solo; el único desvío realmente práctico es **Durham, combinado con la salida a Edimburgo**. **UK entra en Eurail:** York→Edimburgo (con Durham en el camino el mismo día) puede gastar **1 día de pase**.
+> Con 2 noches York alcanza solo; el único desvío realmente práctico es **Durham, combinado con la salida a Edimburgo**. **UK entra en Eurail:** York→Edimburgo (con Durham en el camino el mismo día) puede gastar **1 día de pase**.
 
 | Destino | Medio | Tiempo | Costo ida/vuelta aprox | ¿Eurail? | Nota |
 |---------|-------|--------|------------------------|----------|------|
@@ -63,7 +63,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> ✅ **El Eurail Global Pass cubre Gran Bretaña.** **York → Edimburgo** (con Durham en el mismo día) gasta **1 día de pase** — walk-up ~£70, rinde. UK no exige reserva. **Días de Eurail estimados en York: 1.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+> ✅ **El Eurail Global Pass cubre Gran Bretaña.** **York → Edimburgo** (con Durham en el mismo día) gasta **1 día de pase** — walk-up ~£70, rinde. UK no exige reserva. **Días de Eurail estimados en York: 1.**
 
 ---
 

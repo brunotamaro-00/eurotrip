@@ -4,7 +4,7 @@
 
 **Tramo:** 7-11 oct 2026 (4 noches) · **Estado:** tentativo · **Realista:** ~1 day trip (con 4 noches el consenso es **exprimir Budapest**; los baños y la ciudad llenan solos)
 
-> Costos autoritativos en [`transporte.md`](transporte.md). **Eurail:** Szentendre va en HÉV suburbano (no Eurail); Esztergom/Eger en tren MÁV barato (no vale día de pase); Bratislava es candidato marginal a día de pase pero **rinde más desde Viena**.
+> **Eurail:** Szentendre va en HÉV suburbano (no Eurail); Esztergom/Eger en tren MÁV barato (no vale día de pase); Bratislava es candidato marginal a día de pase pero **rinde más desde Viena**.
 
 ## 🎯 Resumen
 | Destino | Prioridad | Distancia | Tiempo (ida) | Medio | Categoría | ¿Sin auto? |
@@ -21,7 +21,7 @@
 ## ⭐ Prioridad Alta
 
 ### Szentendre
-- **HÉV H5 desde Batthyány tér, ~40 min, ticket suburbano** (→ [`transporte.md`](transporte.md)) · medio día
+- **HÉV H5 desde Batthyány tér, ~40 min, ticket suburbano** · medio día
 - **Qué ver:** pueblo barroco de calles empedradas y casas de colores sobre el Danubio; galerías de arte, el Museo de Mazapán (Szamos), iglesias serbias ortodoxas, el museo etnográfico al aire libre **Skanzen** (a las afueras). **Por qué:** el escape más fácil de Budapest, mitad día relajado; pueblo de artistas muy pintoresco. **Nota:** turístico pero encantador `https://www.budapestbylocals.com/budapest-day-trips/` · **Sin auto:** sí
 
 ### Recodo del Danubio (Visegrád + Esztergom ± Szentendre)
@@ -40,7 +40,7 @@
 ## 💭 Prioridad Baja
 - **Gödöllő** — HÉV H8 ~45 min. El palacio barroco de la emperatriz **Sissi** (Isabel de Baviera), su residencia favorita; medio día fácil.
 - **Hollókő** — bus ~2h-2h30. Pueblo UNESCO de la etnia Palóc, casas tradicionales de adobe perfectamente conservadas; de nicho etnográfico, mejor con auto.
-- **Bratislava** — tren ~2h30. Candidato marginal; **rinde más hacerla desde Viena** (más cerca y con el EURegio Ticket). Ver [`../../07_Austria/Viena/Day_trips/Bratislava.md`](../../07_Austria/Viena/Day_trips/Bratislava.md).
+- **Bratislava** — tren ~2h30. Candidato marginal; **rinde más hacerla desde Viena** (más cerca y con el EURegio Ticket).
 - **Győr** — tren ~1.5h. Ciudad barroca entre Budapest y Viena; pasable como parada de tránsito más que day trip.
 
 ## ❌ Descartados

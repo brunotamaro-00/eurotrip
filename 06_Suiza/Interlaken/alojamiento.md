@@ -2,14 +2,13 @@
 
 **Tramo:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** CHF (1 CHF ≈ €1.08 · ≈ USD 1,12–1,18)
 > Fechas y noches **tentativas** (post-Portugal) — re-verificar precios y disponibilidad al confirmar. **Reservar temprano:** los buenos hostels de la región se llenan para septiembre.
-> Comparativa entre bases (Interlaken vs Lauterbrunnen vs Grindelwald) en [`../README.md`](../README.md#-dónde-hospedarse--la-decisión-central).
 
 ---
 
 ## 🧭 Recomendación rápida
 
 - **Por qué Interlaken:** es la **base más barata y mejor conectada** (mayor oferta de hostels, dos estaciones, todos los operadores de aventura). El costo: es un pueblo turístico "de paso", no estás dentro de los Alpes.
-- **Hostel o Airbnb:** con 2 personas y 4 noches, priorizá **lo que tenga cocina** (cocinar es la clave anti-presupuesto en Suiza — ver [`../gastronomia.md`](../gastronomia.md)). Dorm si buscás precio/social; privada/Airbnb si querés cocinar cómodos.
+- **Hostel o Airbnb:** con 2 personas y 4 noches, priorizá **lo que tenga cocina** (cocinar es la clave anti-presupuesto en Suiza). Dorm si buscás precio/social; privada/Airbnb si querés cocinar cómodos.
 - **TOP 3:** **Balmers** (el social/party histórico), **Funny Farm** (más tranqui, buena cocina), **Interlaken Youth Hostel** (limpio, bien ubicado, familiar).
 - **Ubicación dentro de Interlaken:** cerca de **Interlaken Ost** si vas a subir a Lauterbrunnen/Grindelwald a diario (la mayoría de los días).
 
@@ -90,7 +89,7 @@ El **Höheweg** (avenida central) y el prado **Höhematte** están entre ambas, 
 ## 💡 Tips alojamiento
 
 - **Reservá con cancelación gratis** (el plan puede cambiar; tramo tentativo).
-- **Cocina propia clave:** un plato en restaurante = CHF 25–40; cocinar = CHF 10–15 (ver [`../gastronomia.md`](../gastronomia.md)).
+- **Cocina propia clave:** un plato en restaurante = CHF 25–40; cocinar = CHF 10–15.
 - **Desayuno incluido** ahorra mucho — verificar al reservar.
 - **Guest Card:** muchos alojamientos dan **Interlaken Guest Card** (buses + descuentos) — confirmar al reservar `https://www.interlaken.swiss/en/info-service/gaestekarten/interlaken-guest-card`
 - **Hostelworld + Booking:** comparar ambos; a veces varían los precios.

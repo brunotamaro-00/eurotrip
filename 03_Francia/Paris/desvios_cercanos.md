@@ -21,7 +21,7 @@
 ## ✅ Confirmado
 
 ### Versalles — día completo (mié 2 o jue 3 sept)
-- **RER C → *Versailles Château Rive Gauche*, 35-45 min, ~€4/tramo · incluido en Navigo Semaine** (→ detalle en [`transporte.md`](transporte.md)) · medio día mínimo, día completo ideal
+- **RER C → *Versailles Château Rive Gauche*, 35-45 min, ~€4/tramo · incluido en Navigo Semaine** · medio día mínimo, día completo ideal
 - **Qué ver:** Palacio (Salón de los Espejos, aposentos reales, Galería de Batallas; 2-3h), Jardines de Le Nôtre (800 ha, picnic junto al Gran Canal; 2-3h), Trianon + aldea de María Antonieta (**+€13**, solo si sobra tiempo). **Por qué:** símbolo del absolutismo, Tratado de Versalles (1919), UNESCO; entender la Revolución Francesa.
 - **Tips:** reservar online **sí o sí** (sin reserva = 1-2h de cola); ir **mar-jue** (fin de semana saturado; **lunes cerrado** el palacio, jardines abiertos); llegar 9:00; picnic propio (restos internos caros y mediocres); jardines **gratis entre semana** (fuentes musicales solo fines de semana, €9-11) `https://www.chateauversailles.fr/`
 

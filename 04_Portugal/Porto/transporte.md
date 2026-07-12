@@ -1,7 +1,7 @@
 # 🚆 Transporte en Porto
 
 **Fechas:** 9–12 septiembre (3 noches, 1 persona) · **Estado:** fijo
-**Llegada:** tren **CP Alfa Pendular / Intercidades** desde Lisboa (~3h, llega a **Porto Campanhã**) → detalle en [`../Lisboa/transporte.md`](../Lisboa/transporte.md). De Campanhã al centro: Metro (1 parada a São Bento) o tren urbano.
+**Llegada:** tren **CP Alfa Pendular / Intercidades** desde Lisboa (~3h, llega a **Porto Campanhã**). De Campanhã al centro: Metro (1 parada a São Bento) o tren urbano.
 **Salida:** ✈️ **vuelo Porto → Estrasburgo** (Volotea, **$90** con equipaje) — **COMPRADO** (ver sección Salida)
 
 ## 🧭 Resumen rápido
@@ -41,7 +41,7 @@
 | **Régua** | Tren línea do Douro | ~1h50 | ~**€10** ida (verificar) | igual | No |
 | **Matosinhos / Foz** | Metro (Matosinhos) / tranvía 1 (Foz) | ~20–30 min | Z2 **€1.40** / tranvía aparte | No | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). El tramo **Douro** es el más escénico (sentarse a la **derecha** saliendo de Porto para ver el río). Tickets de tren se liberan con poca antelación (~2 meses) — ver r/porto.
+> El tramo **Douro** es el más escénico (sentarse a la **derecha** saliendo de Porto para ver el río). Tickets de tren se liberan con poca antelación (~2 meses) — ver r/porto.
 
 ## ✈️ Salida hacia Estrasburgo (12 sept)
 - **Medio:** **vuelo Porto (OPO) → Estrasburgo (SXB)** con **Volotea** — **$90** con equipaje, **YA COMPRADO**.
@@ -50,7 +50,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - La **salida es un vuelo** → no aplica Eurail.
-- Los day trips por **tren urbano CP** (Braga/Guimarães/Aveiro) son **baratos** y la línea do Douro cae **fuera de la ventana** central de 2 meses del pase → **comprar todo suelto**. **No gastar día de pase en Porto.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+- Los day trips por **tren urbano CP** (Braga/Guimarães/Aveiro) son **baratos** y la línea do Douro cae **fuera de la ventana** central de 2 meses del pase → **comprar todo suelto**. **No gastar día de pase en Porto.**
 
 ## 🧠 Consenso Reddit/Foros
 - **Porto se camina** [local] — la mayoría de los locales recomienda andar el casco y usar metro solo para aeropuerto/Gaia/costa. `https://portoporfavor.com/getting-around-porto/`

@@ -1,8 +1,8 @@
 # 🚆 Transporte en Nápoles y alrededores
 
 **Fechas:** mar 27 – jue 29 oct 2026 (2 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren alta velocidad **Roma → Napoli Centrale** (~1h) → detalle en [`../Roma/transporte.md`](../Roma/transporte.md)
-**Salida:** **vuelo/tren/ferry** Nápoles → Sur de Italia (29 oct), según opción elegida · ver sección Salida y [`../Sur de Italia/`](../Sur%20de%20Italia/)
+**Llegada:** tren alta velocidad **Roma → Napoli Centrale** (~1h)
+**Salida:** **vuelo/tren/ferry** Nápoles → Sur de Italia (29 oct), según opción elegida · ver sección Salida
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas.
 
@@ -62,14 +62,14 @@
 | **Pompeya** | Circumvesuviana (o Campania Express si abre) | ~35 min | **€3.30** (o €6) | ❌ No conviene (barato) | Bajar en "Pompei Scavi" |
 | **Herculano (Ercolano)** | Circumvesuviana | ~20 min | **~€2.50** | ❌ No | Más chico y mejor conservado |
 | **Vesubio (cráter)** | Circumvesuviana a Ercolano + bus EAV/shuttle | ~1h total | bus **~€10** + entrada | ❌ No | Reservar entrada al cráter |
-| **Sorrento / Costa Amalfitana** | Circumvesuviana a Sorrento + SITA bus | ~1h10 + bus | tren €4–6 + bus | ❌ No | Ver opción [`../Sur de Italia/Costa Amalfitana/`](../Sur%20de%20Italia/Costa%20Amalfitana/) |
+| **Sorrento / Costa Amalfitana** | Circumvesuviana a Sorrento + SITA bus | ~1h10 + bus | tren €4–6 + bus | ❌ No | Ver opción Costa Amalfitana |
 | **Capri** | Ferry desde Molo Beverello | ~50 min | **~€22–25** ida | ❌ No | Día completo |
 
 ---
 
 ## ✈️🚆⛴️ Salida hacia el Sur de Italia (29 oct)
 
-- **Depende de la opción elegida** del bloque Sur (29 oct – 8 nov, 10 noches) — ver [`../Sur de Italia/SUR_DE_ITALIA_OPCIONES.md`](../Sur%20de%20Italia/SUR_DE_ITALIA_OPCIONES.md):
+- **Depende de la opción elegida** del bloque Sur (29 oct – 8 nov, 10 noches):
   - **Puglia (Bari/Lecce):** tren Frecce/IC Nápoles→Bari (~3h30–4h) o vuelo.
   - **Calabria:** tren/auto por la costa tirrena.
   - **Sicilia:** **vuelo** Nápoles→Catania/Palermo (~1h) o **ferry nocturno** (ahorra noche).
@@ -82,7 +82,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+>
 
 - **Pompeya/Herculano** van por **Circumvesuviana (EAV), que NO está en Eurail** y es **baratísima (€3.30)** → **no es un día de pase**. (Hay una línea Trenitalia regional a Pompeya, también barata.)
 - **Salida al Sur:** si es **Sicilia**, el **vuelo** (Nápoles→Catania/Palermo ~€30–60) suele ganar al tren+ferry; si es **Puglia**, el tren Frecce es barato suelto. **No gastar día de pase.**
@@ -134,5 +134,4 @@
 
 - **UnicoCampania/ANM (tarifas):** `https://www.infopoint.napoli.it/ticket-e-abbonamenti-prezzi/`
 - **EAV (Circumvesuviana / Campania Express):** `https://www.eavsrl.it/web/campania-express`
-- **Sur de Italia (opciones):** [`../Sur de Italia/SUR_DE_ITALIA_OPCIONES.md`](../Sur%20de%20Italia/SUR_DE_ITALIA_OPCIONES.md)
 - **Reddit r/Naples:** `https://www.reddit.com/r/Naples/`

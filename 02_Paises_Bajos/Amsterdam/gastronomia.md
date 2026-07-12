@@ -81,7 +81,7 @@
 
 ## 🏪 Mercados y food halls
 
-> La tabla completa de mercados (incluye pulgas/vintage) está en [`actividades.md`](actividades.md). Lo gastronómico:
+> Los mercados (pulgas/vintage) tienen su tabla completa en la sección de actividades. Lo gastronómico:
 
 - **Albert Cuypmarkt** (Lun-Sáb, De Pijp) - EL mercado de Ámsterdam: stroopwafels frescos (~€2), kibbeling, comida multicultural; el mejor punto único para street food holandés `https://www.iamsterdam.com/en/see-and-do/restaurant-and-bars/dutch-foods-to-try`
 - **Foodhallen** (Oud-West, a diario) - Food court cubierto, 20+ puestos; cena/almuerzo variado ~€10-15 `https://www.foodhallen.nl/`

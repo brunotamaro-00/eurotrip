@@ -1,6 +1,6 @@
 # 🚗 Transporte — Valle del Soča y Triglav
 
-**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Kobarid / Tolmin / Bovec** · hub y logística del auto/viñeta en [`../Liubliana/transporte.md`](../Liubliana/transporte.md)
+**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Kobarid / Tolmin / Bovec**
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas. **Octubre:** revisar `promet.si` antes de pasos alpinos (Vršič puede tener obras/nieve temprana).
 
@@ -37,7 +37,7 @@
 
 ## 🎟️ Eurail
 
-> **Día en auto — no usa Eurail.** Las gargantas/museos son entradas sueltas. → ver [`../Liubliana/transporte.md`](../Liubliana/transporte.md) y [`../../EURAIL.md`](../../EURAIL.md).
+> **Día en auto — no usa Eurail.** Las gargantas/museos son entradas sueltas.
 
 ---
 

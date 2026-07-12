@@ -1,6 +1,6 @@
 # 🚗 Transporte — Lagos Alpinos (Bled / Bohinj / Vintgar)
 
-**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Bled o Bohinj** · hub y logística del auto/viñeta en [`../Liubliana/transporte.md`](../Liubliana/transporte.md)
+**Parte del loop esloveno en auto** (11–15 oct, tentativo) · base sugerida: **Bled o Bohinj**
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas. **Octubre = días cortos:** miradores temprano.
 
@@ -41,7 +41,7 @@
 
 ## 🎟️ Eurail
 
-> **Día en auto — no usa Eurail.** Vintgar/Bled/Bohinj son entradas/parking sueltos. → ver [`../Liubliana/transporte.md`](../Liubliana/transporte.md) y [`../../EURAIL.md`](../../EURAIL.md).
+> **Día en auto — no usa Eurail.** Vintgar/Bled/Bohinj son entradas/parking sueltos.
 
 ---
 

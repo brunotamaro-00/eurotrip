@@ -261,7 +261,6 @@ El **Val di Noto** es la zona barroca del sureste de Sicilia: siete ciudades rec
 ---
 
 ## 🍝 Gastronomía
-> Detalle completo (street food por zona, platos por ciudad, dónde comer barato, mercados Ballarò/Capo/Vucciria/Pescheria/Ortigia, vinos y pistacho de Bronte) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

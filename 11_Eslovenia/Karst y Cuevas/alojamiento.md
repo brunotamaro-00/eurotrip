@@ -1,7 +1,7 @@
 # 🏨 Alojamiento — Karst y Cuevas
 
 **Tramo:** loop desde Liubliana (base 11-15 oct 2026) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Referencia de precios (plan 2026):** mismo orden que el bloque Eslovenia (**~USD 33-55 pp/noche** en guesthouses/apartamentos rurales; [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md)).
+**Referencia de precios (plan 2026):** mismo orden que el bloque Eslovenia (**~USD 33-55 pp/noche** en guesthouses/apartamentos rurales).
 > Fechas y noches **tentativas** (post-Portugal). En el loop, esta zona suele funcionar como **día de paso** (no pernocte). Si se duerme, es **1 noche** con base en Postojna/Divača. **Clave: parking + check-in flexible** (los tours tienen horario fijo).
 
 ---
@@ -21,7 +21,7 @@ En tu loop, esta zona suele funcionar mejor como **día de paso** (entre Soča/L
 
 ## 🗺️ La zona y su geografía
 
-El **Karst** (Kras) es la meseta caliza entre Liubliana y la costa/Trieste — el lugar que le dio nombre al fenómeno "kárstico" en el mundo. Acá están las dos grandes cuevas: **Postojna** (la turística, con trencito) y su castillo en la roca **Predjama** a 10 min; y **Škocjan** (UNESCO, cañón subterráneo, más salvaje) cerca de **Divača**. Es zona rural de pueblos chicos, viñedos de Teran y bosque; todo se maneja en auto y las distancias son cortas. Ver [`transporte.md`](transporte.md).
+El **Karst** (Kras) es la meseta caliza entre Liubliana y la costa/Trieste — el lugar que le dio nombre al fenómeno "kárstico" en el mundo. Acá están las dos grandes cuevas: **Postojna** (la turística, con trencito) y su castillo en la roca **Predjama** a 10 min; y **Škocjan** (UNESCO, cañón subterráneo, más salvaje) cerca de **Divača**. Es zona rural de pueblos chicos, viñedos de Teran y bosque; todo se maneja en auto y las distancias son cortas.
 
 ---
 

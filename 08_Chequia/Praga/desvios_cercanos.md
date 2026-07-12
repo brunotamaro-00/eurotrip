@@ -4,7 +4,7 @@
 
 **Tramo:** 28 sept – 3 oct 2026 (5 noches) · **Estado:** tentativo · **Realista:** ~1-2 day trips (con 5 noches Praga llena sola)
 
-> Costos autoritativos en [`transporte.md`](transporte.md). **Eurail:** los trenes ČD/EC cubren los desvíos (baratos, no vale gastar día de pase salvo Krumlov); los buses (RegioJet/FlixBus a Karlovy Vary/Krumlov) **no** son Eurail.
+> **Eurail:** los trenes ČD/EC cubren los desvíos (baratos, no vale gastar día de pase salvo Krumlov); los buses (RegioJet/FlixBus a Karlovy Vary/Krumlov) **no** son Eurail.
 
 ## 🎯 Resumen
 | Destino | Prioridad | Distancia | Tiempo (ida) | Medio | Categoría | ¿Sin auto? |
@@ -21,7 +21,7 @@
 ## ⭐ Prioridad Alta
 
 ### Kutná Hora
-- **Tren ČD directo ~1h, €6.50 ida / €13 v.v. (Eurail cubre)** (→ [`transporte.md`](transporte.md)) · medio/día completo
+- **Tren ČD directo ~1h, €6.50 ida / €13 v.v. (Eurail cubre)** · medio/día completo
 - **Qué ver:** **Osario de Sedlec** (la "iglesia de los huesos": decoración macabra con ~40.000 esqueletos, una lámpara de huesos humanos), **Catedral de Santa Bárbara** (gótica, una de las más bellas de Chequia), antiguas minas de plata. **Por qué:** el day trip en tren más fácil de Praga, combina UNESCO + gótico raro en un día. **Tip:** la estación de Sedlec (osario) está antes que el centro; bajar ahí primero `https://destinace.kutnahora.cz/` · **Sin auto:** sí
 
 ---

@@ -39,11 +39,7 @@ Liubliana es chica: lo que más te cambia la experiencia es **ubicación + parki
 - Si tu objetivo es “caminar y cenar”, que esté a **≤15 min** a pie del centro.
 
 ## 🧭 Si hacen el loop por regiones en auto (borrador **11–15 oct**, 4 noches totales)
-Pueden dormir **1 noche en Liubliana** y repartir el resto por lagos/Soča/costa (ver [`../README.md`](../README.md)). Alojamientos por región:
-- Lagos alpinos: [`../Lagos Alpinos/alojamiento.md`](../Lagos%20Alpinos/alojamiento.md)
-- Soča + Triglav: [`../Valle del Soča y Triglav/alojamiento.md`](../Valle%20del%20So%C4%8Da%20y%20Triglav/alojamiento.md)
-- Karst y cuevas: [`../Karst y Cuevas/alojamiento.md`](../Karst%20y%20Cuevas/alojamiento.md)
-- Costa + Trieste: [`../Costa Eslovena y Trieste/alojamiento.md`](../Costa%20Eslovena%20y%20Trieste/alojamiento.md)
+Pueden dormir **1 noche en Liubliana** y repartir el resto por lagos/Soča/costa. Alojamientos por región:
 
 ---
 

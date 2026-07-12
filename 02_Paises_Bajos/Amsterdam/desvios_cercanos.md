@@ -22,7 +22,7 @@
 ## ⭐ Prioridad Alta
 
 ### Haarlem
-- **Tren NS directo 15 min, ~€8 return** (→ detalle en [`transporte.md`](transporte.md)) · medio día (3-4h)
+- **Tren NS directo 15 min, ~€8 return** · medio día (3-4h)
 - **Qué ver:** Grote Markt, Grote Kerk (Sint-Bavo, órgano que tocó Mozart), Frans Hals Museum, calles medievales compactas. **Por qué:** "de elegir un solo day trip, este" — mini Ámsterdam sin las masas, la más fácil y gratificante (consenso unánime de viajeros + locales) `https://www.reddit.com/r/Netherlands/` · **Mejor día:** cualquiera, abre todo · **Sin auto:** sí
 
 ---

@@ -1,7 +1,7 @@
 # 🚆 Transporte en Madrid
 
 **Fechas:** vie 13 – mié 18 nov 2026 (5 noches) · **Estado:** tentativo (post-Portugal) · **última ciudad del viaje**
-**Llegada:** tren alta velocidad **Barcelona Sants → Madrid Atocha** (~2h30) → detalle en [`../Barcelona/transporte.md`](../Barcelona/transporte.md)
+**Llegada:** tren alta velocidad **Barcelona Sants → Madrid Atocha** (~2h30)
 **Salida:** **vuelo internacional de regreso** desde **Madrid-Barajas (MAD)** (~21 nov, con las 3 noches de margen) · ver sección Salida
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas. Las **3 noches de margen** pueden ubicarse acá u otro tramo: la salida internacional es **~21 nov** (no necesariamente 18).
@@ -51,7 +51,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Regionales/AVE-corto baratos — **no conviene gastar día de Eurail**. (Siendo el final del viaje, quizá no haya energía: opcional.)
+> Regionales/AVE-corto baratos — **no conviene gastar día de Eurail**. (Siendo el final del viaje, quizá no haya energía: opcional.)
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
@@ -60,7 +60,7 @@
 | **Ávila** | Cercanías/regional | ~1h–1h30 | **~€10–18** | ❌ No | Murallas medievales |
 | **El Escorial** | Cercanías C-3 / C-8 | ~1h | **~€6–8** | ❌ No | Monasterio |
 
-- **Andalucía (Toledo/Córdoba/Granada)** son extensiones grandes (AVE 1h45–3h30) — solo si se reasignan noches de margen (ver [`desvios_cercanos.md`](desvios_cercanos.md)).
+- **Andalucía (Toledo/Córdoba/Granada)** son extensiones grandes (AVE 1h45–3h30) — solo si se reasignan noches de margen.
 
 ---
 
@@ -81,7 +81,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> **Madrid es la última ciudad y la salida es un VUELO internacional** → **no se usa Eurail.** Los day trips (AVANT/Cercanías) son baratos sueltos. → ver [`../../EURAIL.md`](../../EURAIL.md)
+> **Madrid es la última ciudad y la salida es un VUELO internacional** → **no se usa Eurail.** Los day trips (AVANT/Cercanías) son baratos sueltos.
 - **Días de Eurail en Madrid: 0.** (Para entonces el pase de 2 meses probablemente ya esté **fuera de ventana** — ver nota de activación en `EURAIL.md`.)
 
 ---

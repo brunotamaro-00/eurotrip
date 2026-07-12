@@ -2,7 +2,6 @@
 
 **Tramo:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** CHF (1 CHF ≈ €1.08 · ≈ USD 1,12–1,18)
 > Fechas y noches **tentativas** (post-Portugal) — re-verificar precios y disponibilidad al confirmar. Grindelwald tiene **menos hostels y precios más altos**: reservar temprano.
-> Comparativa entre bases en [`../README.md`](../README.md#-dónde-hospedarse--la-decisión-central).
 
 ---
 
@@ -84,7 +83,7 @@ Grindelwald es un pueblo alpino grande, extendido en la ladera bajo el **Eiger**
 ## 💡 Tips alojamiento
 
 - **Reservá YA con cancelación gratis** — poca oferta + base cara + tramo tentativo.
-- **Cocina propia clave:** cocinar CHF 10–15 vs plato CHF 25–40 (ver [`../gastronomia.md`](../gastronomia.md)); en Grindelwald el Airbnb suele ser la mejor vía a cocina.
+- **Cocina propia clave:** cocinar CHF 10–15 vs plato CHF 25–40; en Grindelwald el Airbnb suele ser la mejor vía a cocina.
 - **Ubicación:** confirmá si tu alojamiento está cerca de la **estación del pueblo** (First) o de **Grindelwald Terminal** (Eiger Express/Männlichen) según tu plan.
 - **Desayuno incluido** ahorra mucho en una base cara.
 - **Guest Card:** muchos alojamientos dan la Jungfrau/Grindelwald Guest Card (buses + descuentos) — confirmar al reservar.

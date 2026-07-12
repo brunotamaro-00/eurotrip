@@ -2,7 +2,6 @@
 
 **Tramo:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** CHF (1 CHF ≈ €1.08 · ≈ USD 1,12–1,18)
 > Fechas y noches **tentativas** (post-Portugal) — re-verificar precios y disponibilidad al confirmar. **Reservar YA:** los buenos alojamientos del valle (Valley Hostel, Camping Jungfrau) se llenan para septiembre.
-> Comparativa entre bases en [`../README.md`](../README.md#-dónde-hospedarse--la-decisión-central).
 
 ---
 
@@ -36,7 +35,7 @@
 
 **Contexto:** 2 personas, 4 noches, valle caro.
 
-- **Dorm (Valley Hostel / Camping Jungfrau):** lo más barato + algo social; **con cocina** — clave para no fundirse (ver [`../gastronomia.md`](../gastronomia.md)).
+- **Dorm (Valley Hostel / Camping Jungfrau):** lo más barato + algo social; **con cocina** — clave para no fundirse.
 - **Airbnb/apartamento (2p):** el valle tiene chalets y estudios; suma cocina propia y privacidad para 4 noches, pero se agota rápido.
 - **Veredicto:** para la **postal + presupuesto**, **Valley Hostel** (dorm o privada) es la apuesta segura. Si querés cocinar y descansar tranquilos y aparece un Airbnb con cancelación gratis, también.
 
@@ -94,7 +93,7 @@
 ## 💡 Tips alojamiento
 
 - **Reservá YA con cancelación gratis** — oferta limitada + tramo tentativo.
-- **Cocina propia clave:** cocinar CHF 10–15 vs plato CHF 25–40 (ver [`../gastronomia.md`](../gastronomia.md)).
+- **Cocina propia clave:** cocinar CHF 10–15 vs plato CHF 25–40.
 - **Berggasthäuser / refugios:** si querés dormir "arriba" (Obersteinberg, refugios de montaña), reservar con mucha anticipación (pocas camas).
 - **Gimmelwald sin autos:** llegás con teleférico desde Stechelberg; contá el último ascenso del día.
 - **Guest Card local:** preguntar al alojamiento (buses + descuentos).

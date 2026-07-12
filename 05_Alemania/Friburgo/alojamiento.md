@@ -1,7 +1,7 @@
 # 🏨 Alojamiento en Friburgo (Freiburg im Breisgau)
 
 **Tramo:** 16-19 sept 2026 (3 noches) · **Estado:** ✅ **Reservado (Black Forest Hostel)** · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Reservado:** **USD 47,5 pp/noche** (Black Forest Hostel; ver [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md))
+**Reservado:** **USD 47,5 pp/noche** (Black Forest Hostel)
 > Fechas del tramo **tentativas** (post-Portugal), pero el alojamiento ya está reservado.
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🗺️ La ciudad y su geografía
 
-Friburgo es la "capital" de la Selva Negra: **compacta, universitaria y muy caminable**, con sus famosos *Bächle* (canalitos de agua en las calles). El corazón es la **Altstadt** (casco medieval peatonal) alrededor de la **Münster** (catedral gótica) y su mercado diario. Al sur del río Dreisam está **Wiehre** (residencial, elegante, verde) y el **Vauban** (eco-barrio car-free sobre una antigua base militar, con tranvía al centro). Al oeste, junto a la **Hauptbahnhof**, está **Stühlinger** (más movido/barato). Todo el centro se hace a pie; el tranvía VAG cubre el resto (detalle en [`transporte.md`](transporte.md)).
+Friburgo es la "capital" de la Selva Negra: **compacta, universitaria y muy caminable**, con sus famosos *Bächle* (canalitos de agua en las calles). El corazón es la **Altstadt** (casco medieval peatonal) alrededor de la **Münster** (catedral gótica) y su mercado diario. Al sur del río Dreisam está **Wiehre** (residencial, elegante, verde) y el **Vauban** (eco-barrio car-free sobre una antigua base militar, con tranvía al centro). Al oeste, junto a la **Hauptbahnhof**, está **Stühlinger** (más movido/barato). Todo el centro se hace a pie; el tranvía VAG cubre el resto.
 
 ---
 

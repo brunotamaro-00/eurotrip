@@ -87,7 +87,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos típicos, tascas, dónde comer barato, comida para llevar, supermercados y food halls) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

@@ -53,7 +53,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos de la Selva Negra, Lange Rote, mensas, dónde comer barato, vinos de Baden, comida para llevar, supermercados y Münstermarkt) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -107,7 +106,6 @@
 
 - [x] **Ruta Titisee → Friburgo** ⭐ - subir en tren con la bici y bajar pedaleando: **31 km, casi todo cuesta abajo**, 3-4h, **medio día** (deja la tarde libre). Tren a Titisee (bici gratis saliendo ~9h), paseo por el lago y descenso por **Nessellachen → Dreisamtal → Friburgo** (evitar la B31). Alquiler **Frelo** (~€12/día).
 
-> 📄 Recorrido tramo por tramo, variantes del descenso, logística de tren/KONUS/Eurail, tips y **rutas alternativas (Plan B)** en [`Day_trips/Bici_Selva_Negra.md`](Day_trips/Bici_Selva_Negra.md).
 
 ---
 

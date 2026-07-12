@@ -1,7 +1,7 @@
 # 🚆 Transporte en Viena
 
 **Fechas:** 23–28 septiembre (5 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **ÖBB Railjet** desde Innsbruck (~4h, llega a **Wien Hbf**) → detalle en [`../Innsbruck/transporte.md`](../Innsbruck/transporte.md). De Wien Hbf al alojamiento: U-Bahn (U1) directo al centro.
+**Llegada:** tren **ÖBB Railjet** desde Innsbruck (~4h, llega a **Wien Hbf**). De Wien Hbf al alojamiento: U-Bahn (U1) directo al centro.
 **Salida:** tren **Railjet (ÖBB/ČD) o RegioJet** hacia **Praga** el 28 sept (~4h, ver sección Salida)
 
 > ⚠️ **Tramo tentativo (post-Portugal)** — re-verificar al confirmar fechas.
@@ -37,13 +37,13 @@
 ## 🗺️ Cómo llegar a los day trips
 | Destino | Medio | Tiempo ida | Costo / Eurail | Reserva |
 |---------|-------|-----------|----------------|---------|
-| **[Bratislava](Day_trips/Bratislava.md)** | Tren **REX (ÖBB)** desde Hbf | ~1h | **EURegio "Bratislava Ticket" €18 ida/vuelta** (incl. buses/tranvías de Bratislava día 1, vuelta hasta 4 días) — Eurail cubre pero el EURegio es **mejor valor** | No |
-| **[Bratislava (escénico)](Day_trips/Bratislava.md)** | **Twin City Liner** (barco por el Danubio) | ~1h15 | ~**€19–29** ida (no Eurail) `https://www.twincityliner.com/en/` | Sí (barco) |
-| **[Wachau (Melk + Dürnstein)](Day_trips/Wachau.md)** ⭐ | Tren a **Melk** + **barco DDSG** Melk→Krems + tren de vuelta | ~1h a Melk | tren Eurail; **barco DDSG aparte** (estacional) `https://ddsg-blue-danube.at/cruises-wachau/?lang=en` | barco recomendado |
+| **Bratislava** | Tren **REX (ÖBB)** desde Hbf | ~1h | **EURegio "Bratislava Ticket" €18 ida/vuelta** (incl. buses/tranvías de Bratislava día 1, vuelta hasta 4 días) — Eurail cubre pero el EURegio es **mejor valor** | No |
+| **Bratislava (escénico)** | **Twin City Liner** (barco por el Danubio) | ~1h15 | ~**€19–29** ida (no Eurail) `https://www.twincityliner.com/en/` | Sí (barco) |
+| **Wachau (Melk + Dürnstein)** ⭐ | Tren a **Melk** + **barco DDSG** Melk→Krems + tren de vuelta | ~1h a Melk | tren Eurail; **barco DDSG aparte** (estacional) `https://ddsg-blue-danube.at/cruises-wachau/?lang=en` | barco recomendado |
 | **Baden bei Wien** | **Badner Bahn** (tranvía interurbano desde Oper) | ~45 min | ticket interurbano (no Wiener Linien estándar) | No |
 | **Neusiedlersee / Burgenland** | Tren a Neusiedl + bus, o **mejor con coche** | ~1h | tren Eurail; zona ideal con auto | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). Con 5 noches, Viena "llena" sola; **Wachau** es el day trip más redondo (abadía de Melk + Danubio + pueblos); **Bratislava** solo si tienta "otro país".
+> Con 5 noches, Viena "llena" sola; **Wachau** es el day trip más redondo (abadía de Melk + Danubio + pueblos); **Bratislava** solo si tienta "otro país".
 
 ## 🚆 Salida hacia Praga (28 sept)
 - **Medio:** **Railjet (ÖBB/ČD)** directo Wien Hbf → Praha hl.n., ~**4h sin transbordos**. Alternativa privada **RegioJet** (cómodo y barato, **no acepta Eurail**).
@@ -55,7 +55,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - **Viena → Praga:** Eurail cubre **Railjet (ÖBB/ČD)** pero **NO RegioJet**. El billete suelto anticipado (€14.90) es **barato** → **marginal/NO** gastar día de pase salvo que sobren días; si se usa pase, **reservar asiento (~€3) con antelación**.
-- **Bratislava (day trip):** aunque es candidato a día de pase, el **EURegio Ticket €18** (con transporte local incluido) **gana** a gastar un día de Eurail → comprar EURegio. → ver [`../../EURAIL.md`](../../EURAIL.md)
+- **Bratislava (day trip):** aunque es candidato a día de pase, el **EURegio Ticket €18** (con transporte local incluido) **gana** a gastar un día de Eurail → comprar EURegio.
 
 ## 🧠 Consenso Reddit/Foros
 - **24h si te movés bastante; suelto si el día es a pie** [viajero] — con 5 noches caminando el centro, el 24h solo en los días de palacios. `https://old.reddit.com/r/wien/`

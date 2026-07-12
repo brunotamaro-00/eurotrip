@@ -1,7 +1,7 @@
 # 🚆 Transporte en Cracovia
 
 **Fechas:** sáb 3 – mié 7 oct 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** desde **Praga** en bus/tren RegioJet (~7h) → detalle en [`../../08_Chequia/Praga/transporte.md`](../../08_Chequia/Praga/transporte.md)
+**Llegada:** desde **Praga** en bus/tren RegioJet (~7h)
 **Salida:** **tren/bus** Cracovia → Budapest (7 oct) · ver sección Salida
 
 > 📍 **Tramo tentativo — re-verificar al confirmar fechas post-Portugal.** Tarifas KMK y horarios internacionales pueden cambiar.
@@ -53,13 +53,13 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Reservar Auschwitz antes que nada.** Los desvíos son baratos en bus/tren — **no conviene gastar día de Eurail**.
+> **Reservar Auschwitz antes que nada.** Los desvíos son baratos en bus/tren — **no conviene gastar día de Eurail**.
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Reserva |
 |---------|-------|--------|------------------|----------|---------|
-| **[Auschwitz-Birkenau](Day_trips/Auschwitz.md)** ⭐ | Minibús/bus desde MDA (al lado de Główny) o tour | ~1h30 | bus **~30–40 PLN** ida/vuelta · tour más | ❌ No (barato) | **Entrada con slot OBLIGATORIA** `https://visit.auschwitz.org/` |
-| **[Wieliczka (mina de sal)](Day_trips/Wieliczka.md)** | **Tren SKA1** o bus 304 desde Główny | 20–30 min | tren **~8 PLN** o ticket aglomeración | ❌ No | Reservar entrada online |
-| **[Zakopane (Tatras)](Day_trips/Zakopane.md)** | Bus FlixBus/minibus desde MDA | ~2h | **~30–50 PLN** | ❌ No | Media prioridad — solo con buen tiempo |
+| **Auschwitz-Birkenau** ⭐ | Minibús/bus desde MDA (al lado de Główny) o tour | ~1h30 | bus **~30–40 PLN** ida/vuelta · tour más | ❌ No (barato) | **Entrada con slot OBLIGATORIA** `https://visit.auschwitz.org/` |
+| **Wieliczka (mina de sal)** | **Tren SKA1** o bus 304 desde Główny | 20–30 min | tren **~8 PLN** o ticket aglomeración | ❌ No | Reservar entrada online |
+| **Zakopane (Tatras)** | Bus FlixBus/minibus desde MDA | ~2h | **~30–50 PLN** | ❌ No | Media prioridad — solo con buen tiempo |
 | **Ojców NP + Pieskowa Skała** | Bus UNIBUS / línea recreativa LR0 (estacional) | ~1h | **~10–16 PLN** | ❌ No | Verificar horarios (temporada) |
 
 - **Auschwitz:** entrada con **guía ~150 PLN** (o slots "PLN 0" limitados, igual con reserva). Ir **temprano**; reservar **antes** que cualquier otra cosa del día.
@@ -81,7 +81,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Cracovia → Budapest** = **marginal, lean suelto**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Cracovia → Budapest** = **marginal, lean suelto**.
 
 - Es un leg internacional largo (~7–9h) **sin reserva obligatoria** en tren; un día de Eurail **podría** cubrirlo, pero el suelto es **barato (€19–35)** y **RegioJet/FlixBus** suelen ganar.
 - **Veredicto:** comprar **suelto** (RegioJet/FlixBus) y **guardar el día de pase**, salvo que el pase esté activo y no haya mejor uso ese día.

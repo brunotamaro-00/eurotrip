@@ -13,7 +13,7 @@
 
 ## 🗓️ Horarios y días muertos
 
-- **Domingo: mucho cerrado, con matices** ⭐ - Regla general cerrado, pero abren **panaderías** (¡su día pico!), **súper chicos hasta ~13h** y las **zonas turísticas de París** (Champs-Élysées, Rivoli, Marais, Montmartre) `https://about-france.com/holidays-sundays`. **En Alsacia el domingo es más estricto**: comprar el **sábado** (ya en [`Estrasburgo/gastronomia.md`](Estrasburgo/gastronomia.md)).
+- **Domingo: mucho cerrado, con matices** ⭐ - Regla general cerrado, pero abren **panaderías** (¡su día pico!), **súper chicos hasta ~13h** y las **zonas turísticas de París** (Champs-Élysées, Rivoli, Marais, Montmartre) `https://about-france.com/holidays-sundays`. **En Alsacia el domingo es más estricto**: comprar el **sábado**.
 - **Cocinas con horario rígido** ⭐ - Los restaurantes **no sirven a cualquier hora**: almuerzo **12-14h**, cena **19:30-22h**; fuera de eso solo cafés. Muchas winstubs de Alsacia cierran domingo/lunes.
 - **Pausa del mediodía** (fuera de París) - Comercios y farmacias de pueblo cierran ~12-14h.
 - **Feriados del tramo** - **Ninguno** cae 29 ago–4 sept ni 12–16 sept 2026 ✓ (la Asunción del 15-ago es previa a la llegada).
@@ -25,7 +25,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`Paris/gastronomia.md`](Paris/gastronomia.md) y [`Estrasburgo/gastronomia.md`](Estrasburgo/gastronomia.md).
 
 - **Agua del grifo: gratis y normal** ⭐ - Pedir **"une carafe d'eau, s'il vous plaît"** es totalmente aceptable; no hace falta comprar mineral.
 - **La cuenta se pide** - No la traen sola: **"L'addition, s'il vous plaît"**.
@@ -37,12 +36,11 @@
 - **Empezar en francés, aunque sean 4 palabras** - Abrir con *"Bonjour, parlez-vous anglais?"* cambia todo el trato; asumir inglés de entrada molesta. Inglés funciona en París turístico; menos en pueblos de Alsacia y con mayores (que hablan alemán).
 - **Vous vs tu** - Con desconocidos, mayores y comercios: **vous** siempre; tutear de entrada es una falta de respeto.
 - **Volumen bajo y no criticar Francia** - Hablar fuerte (sobre todo en inglés) delata y molesta; los franceses critican Francia, pero no les gusta que lo haga un extranjero.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
 - **Silencio en el transporte** - Metro/RER/TGV callados; sin llamadas a los gritos ni música sin auriculares.
-- **Validar el ticket** - Metro y TER: validar siempre; multa por viajar sin (**€35-50+**). Detalle en [`Paris/transporte.md`](Paris/transporte.md).
+- **Validar el ticket** - Metro y TER: validar siempre; multa por viajar sin (**€35-50+**).
 - **No comer caminando** ni en el transporte (mal visto); el picnic en parque/orilla sí es aceptado y muy francés.
 - **Fumar y vestimenta** - Prohibido en interiores y (desde 2025) en parques/playas — multa €135. Los franceses van más arreglados; ropa deportiva para pasear/cenar se nota (sobre todo París).
 
@@ -58,7 +56,7 @@
 - Ritmo rápido y directo; el "antipático" suele ser prisa + bonjour olvidado. Domingo activo en zonas turísticas; más inglés y turistas. Fin de agosto = *la rentrée* (comercios de barrio reabren tras cerrar en agosto).
 
 ### Alsacia — Estrasburgo y Colmar (tentativo, 12–16 sept)
-- **Francia con alma alemana:** región disputada 4 veces en 75 años; se habla *alsacien* (germánico), apellidos alemanes, casas *fachwerk*. Domingo **muy estricto** (comprar sábado), puntualidad más "alemana", mayores hablan alemán antes que inglés. **Winstub** (taberna, tarte flambée al centro para compartir, ver [`Colmar/gastronomia.md`](Colmar/gastronomia.md)); vendimia en septiembre (vino blanco protagonista).
+- **Francia con alma alemana:** región disputada 4 veces en 75 años; se habla *alsacien* (germánico), apellidos alemanes, casas *fachwerk*. Domingo **muy estricto** (comprar sábado), puntualidad más "alemana", mayores hablan alemán antes que inglés. **Winstub** (taberna, tarte flambée al centro para compartir); vendimia en septiembre (vino blanco protagonista).
 
 ## 🧠 Consenso de foros (viajeros/locales)
 

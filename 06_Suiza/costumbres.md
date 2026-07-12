@@ -4,7 +4,7 @@
 
 **Tramo:** Región Jungfrau (Interlaken / Lauterbrunnen / Grindelwald / Lucerna), 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal) · **Moneda:** Franco suizo (**CHF; CHF 1 ≈ €1,08**) · **Idioma:** alemán suizo (*Schweizerdeutsch*; se escribe en *Hochdeutsch*)
 
-> Briefing de aterrizaje para Suiza. El tramo es la Suiza **germanoparlante** (Deutschschweiz): la más ordenada, puntual y silenciosa del país; mucho de lo alemán aplica intensificado. Lo que define la experiencia: **la puntualidad es religión** (el tren sale al segundo) y **es carísimo** (presupuestar el doble). Se complementa con [`gastronomia.md`](gastronomia.md) y [`contexto_historico.md`](contexto_historico.md).
+> Briefing de aterrizaje para Suiza. El tramo es la Suiza **germanoparlante** (Deutschschweiz): la más ordenada, puntual y silenciosa del país; mucho de lo alemán aplica intensificado. Lo que define la experiencia: **la puntualidad es religión** (el tren sale al segundo) y **es carísimo** (presupuestar el doble).
 
 ---
 
@@ -22,13 +22,12 @@
 
 ## 💶 Dinero
 
-- **País carísimo** ⭐ - De los más caros del mundo; comida, café y tickets sorprenden. Presupuestar el doble (ver [`gastronomia.md`](gastronomia.md) y `PRESUPUESTO.md`).
+- **País carísimo** ⭐ - De los más caros del mundo; comida, café y tickets sorprenden. Presupuestar el doble.
 - **Franco, no euro** - Muchos lugares aceptan euros pero **dan el vuelto en francos con mal cambio**: pagar en CHF o tarjeta. Tarjeta/contactless casi en todo; llevar **CHF 30-50** para kioscos de montaña, refugios y baños (CHF 1-2).
 - **Propina: redondear, servicio incluido** ⭐ - Por ley va incluida desde 1974; no se espera. Lo local: **redondear** (CHF 47,50 → 50) o 5-10% en efectivo solo por servicio excelente. Con tarjeta, decir el total ANTES de que la pasen. Nada de 15-20% estilo EEUU `https://www.ubs.com/ch/en/services/guide/accounts-and-cards/articles/tipping-culture-switzerland.html`
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`gastronomia.md`](gastronomia.md).
 
 - **Agua: te traen mineral paga** - Pedir del grifo (*"Hahnenwasser, bitte"*) es posible y potable, pero menos automático que en Francia; a veces cobran servicio.
 - **La cuenta se pide** - *"Zahlen, bitte"*. Separar la cuenta (*"getrennt"*) es normal.
@@ -39,7 +38,6 @@
 - **Alemán suizo** - En la región Jungfrau se habla **Schweizerdeutsch** (dialecto muy distinto del estándar — no es tu oído); todos entienden y escriben *Hochdeutsch*. Saludo: **"Grüezi"** al entrar, *"Merci"* (¡en francés!) para gracias, *"Adieu"* al salir `https://studyinginswitzerland.com/swiss-etiquette/`
 - **No asumir inglés sin saludar** - En zona turística el inglés funciona bien, pero abrir con *"Grüezi, sprechen Sie Englisch?"* es lo correcto; asumirlo de entrada se ve descortés.
 - **Formalidad y reserva** - Trato correcto y algo formal (*Sie* con desconocidos); corteses pero no efusivos, la privacidad se respeta. Si un local te corrige (ruido, reciclaje, cola), es información útil, no agresión.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 

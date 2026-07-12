@@ -1,7 +1,7 @@
 # 🚆 Transporte en Edimburgo
 
 **Fechas:** sáb 15 – mar 18 ago 2026 (3 noches) · **Estado:** fijo
-**Llegada:** tren LNER desde York a **Edinburgh Waverley** (estación céntrica) → detalle en [`../York/transporte.md`](../York/transporte.md)
+**Llegada:** tren LNER desde York a **Edinburgh Waverley** (estación céntrica)
 **Salida:** **auto rentado** hacia Highlands (Fort William, A82) el 18 ago — ver sección Salida
 
 ---
@@ -59,7 +59,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" en cada uno está en [`desvios_cercanos.md`](desvios_cercanos.md). Acá solo el cómo llegar. **Todos entran en Eurail** (UK cubierto). Son baratos (£12–17), así que solo conviene gastar día de pase si te faltan días para llegar a 15 (uso **flex**) — ver sección Eurail.
+> Acá solo el cómo llegar. **Todos entran en Eurail** (UK cubierto). Son baratos (£12–17), así que solo conviene gastar día de pase si te faltan días para llegar a 15 (uso **flex**) — ver sección Eurail.
 
 | Destino | Medio | Tiempo | Costo ida/vuelta aprox | ¿Eurail? | Reserva |
 |---------|-------|--------|------------------------|----------|---------|
@@ -78,7 +78,7 @@
 - **Empresas:** **Arnold Clark** (local, suele ser más barato), Enterprise, Hertz `https://www.arnoldclark.com/`
 - **Devolución:** el auto se usa todo el circuito Highlands (18-25 ago) y se devuelve en el **Aeropuerto de Edimburgo (EDI)** el 25 a la mañana (antes del vuelo a Ámsterdam, ya comprado).
 - **Reservar con anticipación:** agosto es temporada alta; los autos económicos se agotan.
-- Detalle del circuito y conducción en Escocia (volante a la derecha, single-track roads): ver [`../Highlands/transporte.md`](../Highlands/transporte.md).
+- Detalle del circuito y conducción en Escocia (volante a la derecha, single-track roads):
 
 ---
 
@@ -87,7 +87,7 @@
 > ✅ **El Eurail Global Pass cubre Gran Bretaña.** Los day trips a Glasgow/Stirling/St Andrews **pueden usar día de pase**, pero son **baratos** (£12–17): conviene gastar día acá **solo si te faltan días** para llegar a 15 (uso **flex**). UK no exige reserva.
 
 - **Tramo de salida (Edimburgo → Highlands):** es en **auto**, no usa tren ni Eurail.
-- **Días de Eurail estimados en Edimburgo: 0-1** (1 solo si usás un day trip como comodín para llegar a 15). → ver [`../../EURAIL.md`](../../EURAIL.md)
+- **Días de Eurail estimados en Edimburgo: 0-1** (1 solo si usás un day trip como comodín para llegar a 15).
 
 ---
 

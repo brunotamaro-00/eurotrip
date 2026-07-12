@@ -36,7 +36,7 @@
 - **GVB day passes:** **24h ~€9.50** · multi-día 48h/72h/96h escalonado (comprar solo si vas a usar mucho el público; con bici no conviene).
 - **Night bus single:** **€5.70**.
 - **OV-chipkaart:** solo necesaria para trenes NS si no usás OVpay; **para el urbano no hace falta** con contactless.
-- **I Amsterdam City Card: NO recomendada** — Anne Frank y Van Gogh (los 2 museos más caros) **no** están incluidos; con bici de transporte, no cierra la cuenta (análisis en [`actividades.md`](actividades.md)).
+- **I Amsterdam City Card: NO recomendada** — Anne Frank y Van Gogh (los 2 museos más caros) **no** están incluidos; con bici de transporte, no cierra la cuenta.
 
 ---
 
@@ -69,12 +69,12 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Con 4 noches, **lo ideal es no hacer desvíos**; si sobra medio día, Haarlem es lo más fácil. Trenes NS **sin reserva, se compran en el momento** (o cuentan para Eurail si se quisiera gastar un día — no conviene, son baratos).
+> Con 4 noches, **lo ideal es no hacer desvíos**; si sobra medio día, Haarlem es lo más fácil. Trenes NS **sin reserva, se compran en el momento** (o cuentan para Eurail si se quisiera gastar un día — no conviene, son baratos).
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Reserva |
 |---------|-------|--------|------------------|----------|---------|
-| **[Haarlem](Day_trips/Haarlem.md)** ⭐ | Tren NS directo | 15 min | **~€8 return** | ❌ No conviene (barato suelto) | No |
-| **[Utrecht](Day_trips/Utrecht.md)** | Tren NS directo, cada 15 min | 30 min | **~€16–22 return** | ❌ No conviene | No (Domtoren slot online) |
+| **Haarlem** ⭐ | Tren NS directo | 15 min | **~€8 return** | ❌ No conviene (barato suelto) | No |
+| **Utrecht** | Tren NS directo, cada 15 min | 30 min | **~€16–22 return** | ❌ No conviene | No (Domtoren slot online) |
 | **Zandvoort / Bloemendaal** | Tren NS directo | 30 min | **~€11–12 return** | ❌ No conviene | No — playa, solo si hace calor |
 | **Delft** | Tren NS | ~1h | **~€22–28 return** | ❌ No conviene | No |
 | **Zaanse Schans** | Tren a Zaandam + 10 min a pie | 20 min | **~€7 return** | ❌ No conviene | No |
@@ -101,7 +101,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Ámsterdam → París (Eurostar)** = **marginal, lean NO**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Ámsterdam → París (Eurostar)** = **marginal, lean NO**.
 
 - **Reserva passholder Eurostar:** **€22–25** en 2ª clase (cupo **limitado**, se agota — reservar apenas abra si se opta por el pase).
 - **El problema:** la reserva passholder (~€22–25) cuesta **casi lo mismo que un billete suelto advance (~€35)**, pero además **quema un día de pase** (solo hay 15) y la ventana de 2 meses está en discusión.

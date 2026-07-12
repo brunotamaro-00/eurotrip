@@ -1,10 +1,10 @@
 # 🚆 Transporte en Calabria
 
 **Fechas:** ~29 oct – 8 nov 2026 (parte de las 10 noches del Sur) · **Estado:** tentativo (post-Portugal; **opción** del Sur de Italia)
-**Llegada:** desde **Nápoles** en tren (Tropea ~4–5h c/cambio, o Reggio directo ~4h30) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Llegada:** desde **Nápoles** en tren (Tropea ~4–5h c/cambio, o Reggio directo ~4h30)
 **Salida:** **vuelo** Lamezia → Barcelona (limitado) o, mejor, **cruzar a Sicilia y volar desde Catania/Palermo** (~8 nov) · ver Salida
 
-> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas.
 
 ## 🧭 Resumen rápido
 
@@ -93,7 +93,7 @@ El tren cubre solo el eje costero. Todo lo que vale la pena en Calabria (Capo Va
 
 ## 🎟️ Eurail (este tramo)
 
-> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+>
 - **Salida es VUELO** (Lamezia→BCN o, mejor, Catania/Palermo→BCN tras cruzar a Sicilia) → **0 días de Eurail**.
 - Dentro de Calabria: trenes **regionales baratos** sobre el eje costero; el resto es **auto**. No rinde gastar día de pase.
 - **Días de Eurail en Calabria: 0.**

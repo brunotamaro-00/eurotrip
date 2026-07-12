@@ -3,14 +3,13 @@
 **Fechas tentativas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
 **Perfil de esta base:** **dentro del valle glaciar** de las 72 cascadas (el que inspiró Rivendell). La base más **inmersiva y fotogénica**, y el trampolín directo a los pueblos sin autos (**Mürren, Gimmelwald, Wengen**) y al **Schilthorn**. **Moneda:** CHF (1 CHF ≈ €1.08).
 
-> Panorama regional y decisión de base en [`../README.md`](../README.md). Gastronomía y contexto en [`../gastronomia.md`](../gastronomia.md) / [`../contexto_historico.md`](../contexto_historico.md).
-> **Con Lauterbrunnen como base**, este archivo cubre el valle + los trekkings y pueblos que se atacan mejor desde acá. First/Bachalpsee se aprovecha más desde Grindelwald → ver [`../Grindelwald/actividades.md`](../Grindelwald/actividades.md).
+> **Con Lauterbrunnen como base**, este archivo cubre el valle + los trekkings y pueblos que se atacan mejor desde acá. First/Bachalpsee se aprovecha más desde Grindelwald
 
 ---
 
 ## 📍 El valle de Lauterbrunnen (desde la puerta, gratis)
 
-- [x] **El valle en sí** - "El valle de las 72 cascadas"; paredes verticales de 300 m con agua cayendo; el modelo que inspiró el **Valle de Rivendell** a Tolkien (folclore literario, no cita textual probada — ver [`../contexto_historico.md`](../contexto_historico.md)); **GRATIS** recorrerlo a pie o en bici
+- [x] **El valle en sí** - "El valle de las 72 cascadas"; paredes verticales de 300 m con agua cayendo; el modelo que inspiró el **Valle de Rivendell** a Tolkien (folclore literario, no cita textual probada); **GRATIS** recorrerlo a pie o en bici
 - [x] **Staubbach Falls** - La cascada de **297 m de caída libre** que cae sobre el pueblo; se camina hasta el pie y se sube a una galería/cueva detrás del agua (abierta en temporada); **GRATIS**
 - [?] **Trümmelbachfälle** - Cascadas glaciares **DENTRO** de la montaña (drena el agua del Eiger, Mönch y Jungfrau); 10 cataratas interiores hasta 20.000 l/s; **el mejor plan si llueve** (100% interior); **CHF 16 (~€17)**; bus ~10–15 min desde Lauterbrunnen `https://www.truemmelbachfaelle.ch/e/`
 - [?] **Paseo del valle Lauterbrunnen → Trümmelbach → Stechelberg** - Sendero llano por prados y cascadas hasta el fondo del valle; suave y espectacular; **GRATIS**
@@ -52,7 +51,7 @@ De mejor a peor ratio esfuerzo/vistas, priorizando lo accesible desde esta base:
 
 ## 💰 Actividades de pago — ranking regional
 
-> El ranking completo (Schynige, First, Schilthorn, Jungfraujoch) está centralizado en [`../README.md`](../README.md#-los-teleféricos-caros--ranking-regional-precioexperiencia). Desde Lauterbrunnen, lo "propio" es **Schilthorn** y los pueblos sin autos (transporte hasta Mürren/Wengen cubierto por Eurail).
+> Desde Lauterbrunnen, lo "propio" es **Schilthorn** y los pueblos sin autos (transporte hasta Mürren/Wengen cubierto por Eurail).
 
 ---
 
@@ -61,7 +60,7 @@ De mejor a peor ratio esfuerzo/vistas, priorizando lo accesible desde esta base:
 - [ ] **Trümmelbachfälle** - 100% interior; el mejor plan de lluvia de toda la región; **CHF 16**
 - [ ] **Café en Mürren/Gimmelwald** - Subir igual: la niebla entre las paredes del valle tiene su propia belleza
 - [ ] **Museo del Valle de Lauterbrunnen (Talmuseum)** - Pequeño, sobre la vida alpina del valle (verificar horario de temporada)
-- [ ] **Ballenberg / St. Beatus-Höhlen** - Vía Interlaken si el valle está tapado → ver [`../Interlaken/actividades.md`](../Interlaken/actividades.md)
+- [ ] **Ballenberg / St. Beatus-Höhlen** - Vía Interlaken si el valle está tapado
 
 ---
 

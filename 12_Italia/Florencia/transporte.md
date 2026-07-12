@@ -1,7 +1,7 @@
 # 🚆 Transporte en Florencia
 
 **Fechas:** jue 15 – mar 20 oct 2026 (5 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **Trieste → Firenze SMN** (~4h, Italo/Frecce) → detalle en [`../../11_Eslovenia/Costa Eslovena y Trieste/transporte.md`](../../11_Eslovenia/Costa%20Eslovena%20y%20Trieste/transporte.md)
+**Llegada:** tren **Trieste → Firenze SMN** (~4h, Italo/Frecce)
 **Salida:** **tren alta velocidad** Florencia → Roma (20 oct) · ver sección Salida
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas.
@@ -44,7 +44,7 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). Toscana regional es **barata** — **no conviene gastar día de Eurail**.
+> Toscana regional es **barata** — **no conviene gastar día de Eurail**.
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
@@ -70,7 +70,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Florencia → Roma** = **❌ NO, suelto Italo/Frecce advance (€14.90)**. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Florencia → Roma** = **❌ NO, suelto Italo/Frecce advance (€14.90)**.
 
 - Italia de alta velocidad es **barata comprada con antelación** y la reserva es obligatoria → gastar un día de pase **no rinde**.
 - Los day trips toscanos (bus/regional) tampoco justifican Eurail.

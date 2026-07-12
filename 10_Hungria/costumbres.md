@@ -27,7 +27,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer (gulyás, lángos, kifőzde, ruin bars) vive en [`Budapest/gastronomia.md`](Budapest/gastronomia.md).
 
 - **⚠️ No brindar con cerveza** ⭐⭐ - **No se chocan los vasos de cerveza.** La leyenda viene de 1849: tras aplastar la revolución húngara, los generales austríacos brindaron con cerveza mientras ejecutaban a 13 líderes húngaros (los Mártires de Arad). Con **vino, pálinka o cualquier otra bebida sí se brinda** (*"Egészségedre!"*) — y ahí **hay que mirar a los ojos**, no hacerlo es descortés. Con cerveza: se levanta el vaso y se dice el brindis, sin chocar. (Las generaciones jóvenes lo relajan, pero quedar bien es fácil.)
 - **Agua** - Se pide embotellada por defecto; el agua del grifo es potable (*csapvíz*).
@@ -38,17 +37,16 @@
 - **Inglés amplio en Budapest** - El turismo y los jóvenes lo manejan; el húngaro es una lengua ugrofinesa que no se parece a nada del entorno (no intentes deducirlo). *"Jó napot"* (buenos días) y *"Köszönöm"* (gracias) suman puntos.
 - **Apellido primero** - En húngaro el orden es apellido + nombre; no es error si un cartel o entrada lo muestra "al revés".
 - **Temas sensibles** - El comunismo y la historia reciente (Trianon, 1956, la ocupación) son delicados; escuchar más que opinar. La Casa del Terror ayuda a entender el peso de esos años.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
-- **Validar el ticket** - En el transporte BKK (metro, tranvía, bus) hay que **validar el single al subir**; el *travelcard* (24/72h) no se valida pero hay que **mostrarlo** ante inspectores, que son frecuentes y multan. El bus **100E** al aeropuerto **no** acepta el travelcard (ticket aparte). Detalle en [`Budapest/transporte.md`](Budapest/transporte.md).
+- **Validar el ticket** - En el transporte BKK (metro, tranvía, bus) hay que **validar el single al subir**; el *travelcard* (24/72h) no se valida pero hay que **mostrarlo** ante inspectores, que son frecuentes y multan. El bus **100E** al aeropuerto **no** acepta el travelcard (ticket aparte).
 - **Orden y silencio** - Metro y tranvías callados; no cruzar en rojo. Cero alcohol al volante (0,0).
 - **Termas: reglas propias** (ver abajo) - Gorro obligatorio en algunas piscinas de natación, chanclas en muchas.
 
 ## 🏠 Vida cotidiana y costumbres
 
-- **Los baños termales (fürdő)** ⭐⭐ - La experiencia más "Budapest": 123 fuentes termales y siglos de cultura de baños. El ritual local: pasar la tarde entre piscinas de distintas temperaturas, sauna y, en las otomanas (Rudas, Király), la cúpula de luz. **Széchenyi** para la foto, **Rudas/Lukács** para la experiencia real; **Dandár** para cero turistas. Llevar traje (obligatorio) y chanclas. Detalle y precios en [`Budapest/actividades.md`](Budapest/actividades.md).
+- **Los baños termales (fürdő)** ⭐⭐ - La experiencia más "Budapest": 123 fuentes termales y siglos de cultura de baños. El ritual local: pasar la tarde entre piscinas de distintas temperaturas, sauna y, en las otomanas (Rudas, Király), la cúpula de luz. **Széchenyi** para la foto, **Rudas/Lukács** para la experiencia real; **Dandár** para cero turistas. Llevar traje (obligatorio) y chanclas.
 - **Ruin bars (romkocsma)** - Fenómeno nacido en Budapest: bares en edificios en ruinas del barrio judío (Szimpla Kert el pionero). Cultura de juntarse sin código de vestimenta, cerveza barata y patios de street food (Karaván). Geniales para beber; la comida, mejor en kifőzde.
 - **Pálinka y sobremesa** - El aguardiente de frutas (*pálinka*) es el orgullo nacional; se ofrece como bienvenida o digestivo, de un trago y con brindis mirándose a los ojos.
 

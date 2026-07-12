@@ -2,7 +2,7 @@
 
 **Tramo:** Londres 5–13 ago + York 13–15 ago 2026 (10 noches, **fijas**) · **Estado:** fijo · **Moneda:** Libra esterlina (£; **£1 ≈ €1,15**) · **Idioma:** inglés (en York, acento *Yorkshire*)
 
-> Briefing de aterrizaje para Inglaterra — el arranque del viaje. Este archivo lleva **la base común a todo Reino Unido**; para Escocia (Edimburgo/Highlands, 15–25 ago) ver [`costumbres_escocia.md`](costumbres_escocia.md), que solo cubre lo que cambia. Tres reflejos: **hacé la cola** (religión nacional), **please/thank you/sorry** cada dos frases, y **mirá a la DERECHA antes de cruzar** (manejan por la izquierda).
+> Briefing de aterrizaje para Inglaterra — el arranque del viaje. Este archivo lleva **la base común a todo Reino Unido**; para Escocia (Edimburgo/Highlands, 15–25 ago) hay un briefing aparte que solo cubre lo que cambia. Tres reflejos: **hacé la cola** (religión nacional), **please/thank you/sorry** cada dos frases, y **mirá a la DERECHA antes de cruzar** (manejan por la izquierda).
 
 ---
 
@@ -35,8 +35,7 @@
 - **Please / thank you / sorry sin parar** ⭐ - Cortesía verbal constante (hasta al chofer del bus al bajar); omitirlo suena brusco.
 - **Understatement e indirecta** - No dicen las cosas de frente: *"not bad"* es elogio, *"that's interesting"* puede ser desacuerdo. No tomar todo literal; nada de fanfarronería. Humor de sarcasmo y autodesprecio, no ofenderse.
 - **Acentos** - Cambian mucho (cockney/multicultural en Londres, **Yorkshire** cálido en York — *"love"/"pet"* como muletilla afectuosa, no confianza excesiva); pedir que repitan (*"sorry, could you say that again?"*) es normal.
-- **⚠️ No llamar "England" a todo el UK** ⭐ - Aunque estés en Inglaterra: decirle "Inglaterra" a Escocia (o "inglés" a un escocés) molesta de verdad; es **Reino Unido**, naciones distintas. Clave al cruzar a Escocia (ver [`costumbres_escocia.md`](costumbres_escocia.md)).
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
+- **⚠️ No llamar "England" a todo el UK** ⭐ - Aunque estés en Inglaterra: decirle "Inglaterra" a Escocia (o "inglés" a un escocés) molesta de verdad; es **Reino Unido**, naciones distintas. Clave al cruzar a Escocia.
 
 ## 🚶 Espacio público y normas
 

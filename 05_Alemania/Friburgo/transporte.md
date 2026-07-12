@@ -1,7 +1,7 @@
 # 🚆 Transporte en Friburgo (Selva Negra)
 
 **Fechas:** 16–19 septiembre (3 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren regional **TER/RE** desde Colmar (~45–50 min, €10–18) → detalle en [`../../03_Francia/Colmar/transporte.md`](../../03_Francia/Colmar/transporte.md)
+**Llegada:** tren regional **TER/RE** desde Colmar (~45–50 min, €10–18)
 **Salida:** tren **ICE + SBB vía Basel** hacia **Interlaken** el 19 sept (ver sección Salida)
 
 > ⚠️ **Tramo tentativo (post-Portugal)** — re-verificar tarifas y horarios al confirmar fechas.
@@ -37,16 +37,16 @@
 ## 🗺️ Cómo llegar a los day trips
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿KONUS? | Reserva |
 |---------|-------|--------|------------------|---------|---------|
-| **[Titisee + Feldberg/Feldsee](Day_trips/Titisee_Feldberg.md)** ⭐ | Tren (Höllentalbahn) + bus | ~40 min-1h | **GRATIS** con KONUS (teleférico Feldberg aparte) | ✅ sí | No (mirar horarios de bus) |
-| **[Triberg + Gengenbach](Day_trips/Triberg_Gengenbach.md)** ⭐ | Tren (Schwarzwaldbahn) | ~1h | **GRATIS** con KONUS (cascadas aparte) | ✅ sí | No |
-| **[Belchen / Wutachschlucht](Day_trips/Belchen_Wutachschlucht.md)** | Tren + bus (+teleférico Belchen aparte) | ~30-60 min / ~1h+ | **GRATIS** con KONUS | ✅ sí | No — Wutach: **buses de regreso poco frecuentes**, ver horario el día anterior |
+| **Titisee + Feldberg/Feldsee** ⭐ | Tren (Höllentalbahn) + bus | ~40 min-1h | **GRATIS** con KONUS (teleférico Feldberg aparte) | ✅ sí | No (mirar horarios de bus) |
+| **Triberg + Gengenbach** ⭐ | Tren (Schwarzwaldbahn) | ~1h | **GRATIS** con KONUS (cascadas aparte) | ✅ sí | No |
+| **Belchen / Wutachschlucht** | Tren + bus (+teleférico Belchen aparte) | ~30-60 min / ~1h+ | **GRATIS** con KONUS | ✅ sí | No — Wutach: **buses de regreso poco frecuentes**, ver horario el día anterior |
 | **Simonswälder Tal + Zweribachfälle** | Bus regional | ~45–90 min | **GRATIS** con KONUS | ✅ sí | No |
 | **Buchholz + Waldkirch** | Tren | ~12 min | **GRATIS** con KONUS | ✅ sí | No |
 | **Staufen im Breisgau** | Tren | ~20–30 min | **GRATIS** con KONUS | ✅ sí | No |
 | **Baden-Baden** | Tren regional (RE) ~1h30 / ICE ~45 min (ICE no KONUS) | 1h30 regional | regional GRATIS con KONUS; ICE de pago | ✅ solo regional | No |
 | **Sasbachwalden** | Tren + bus | ~1h | **GRATIS** con KONUS | ✅ sí | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). **La KONUS es el motor de los day trips** — todos en tren/bus regional. El único riesgo logístico real es la **baja frecuencia de buses de montaña** (Wutachschlucht): planear el regreso de antemano.
+> **La KONUS es el motor de los day trips** — todos en tren/bus regional. El único riesgo logístico real es la **baja frecuencia de buses de montaña** (Wutachschlucht): planear el regreso de antemano.
 
 ## 🚆 Salida hacia Interlaken (19 sept)
 - **Medio:** **ICE Freiburg → Basel SBB** (~45 min) + **IC/IR SBB Basel → Interlaken Ost** (~1h50). Total **~2h53**, 1 transbordo en Basel.
@@ -58,7 +58,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - **Friburgo → Interlaken entra en el Global Pass** (tramos alemán y suizo), **sin reservas obligatorias**.
-- **Veredicto: ✅ SÍ usar día de pase** — es la **entrada a Suiza** (trenes carísimos) y **el mismo día de pase cubre también el traslado interno** Interlaken → Lauterbrunnen/Grindelwald. El SuperSparpreis suelto (€19.99) es barato, pero el valor real del día de pase está en encadenar la llegada con los trenes suizos del mismo día. → ver [`../../EURAIL.md`](../../EURAIL.md)
+- **Veredicto: ✅ SÍ usar día de pase** — es la **entrada a Suiza** (trenes carísimos) y **el mismo día de pase cubre también el traslado interno** Interlaken → Lauterbrunnen/Grindelwald. El SuperSparpreis suelto (€19.99) es barato, pero el valor real del día de pase está en encadenar la llegada con los trenes suizos del mismo día.
 
 ## 🧠 Consenso Reddit/Foros
 - **KONUS = el mejor truco de la Selva Negra** [viajero] — transporte regional gratis todos los días de la estadía; confirmar que el alojamiento la emite al reservar. `https://community.ricksteves.com/travel-forum/germany/black-forest-konus-card`

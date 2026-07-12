@@ -51,7 +51,6 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos tiroleses, dónde comer barato, Markthalle, Mittagsmenü, comida para llevar y supermercados) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

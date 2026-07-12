@@ -6,7 +6,7 @@
 - **Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: 1 persona, 8 noches)
 - **Países:** 13 países (incluye Portugal)
 - **Ciudades/Bases:** 23 paradas + **3 noches de margen flex** (sin asignar aún)
-- **Presupuesto estimado:** ~$11,700-16,400 pp · Ver [PRESUPUESTO.md](PRESUPUESTO.md).
+- **Presupuesto estimado:** ~$11,700-16,400 pp
 
 ## Planificación: fechas fijas vs. tentativas
 
@@ -23,29 +23,29 @@
 
 | # | País | Ciudad | Noches | Fechas |
 |---|------|--------|--------|--------|
-| 1 | Reino Unido | [Londres](./01_Reino_Unido/Londres/) | 8 | 5-13 ago |
-| 2 | Reino Unido | [York](./01_Reino_Unido/York/) | 2 | 13-15 ago |
-| 3 | Reino Unido | [Edimburgo](./01_Reino_Unido/Edimburgo/) | 3 | 15-18 ago |
-| 4 | Reino Unido | [Highlands](./01_Reino_Unido/Highlands/) | 7 | 18-25 ago |
-| 5 | Países Bajos | [Ámsterdam](./02_Paises_Bajos/Amsterdam/) | 4 | 25-29 ago |
-| 6 | Francia | [París](./03_Francia/Paris/) | 6 | 29 ago - 4 sept |
-| 7 | Portugal | [Lisboa](./04_Portugal/Lisboa/) + [Porto](./04_Portugal/Porto/) | 8 | 4-12 sept |
-| 8 | Francia | [Estrasburgo](./03_Francia/Estrasburgo/) | 2 | 12-14 sept * |
-| 9 | Francia | [Colmar](./03_Francia/Colmar/) | 2 | 14-16 sept * |
-| 10 | Alemania | [Friburgo (Selva Negra)](./05_Alemania/Friburgo/) | 3 | 16-19 sept * |
-| 11 | Suiza | [Región Jungfrau](./06_Suiza/) | 4 (→6?) | 19-23 sept * |
-| 12 | Austria | [Innsbruck](./07_Austria/Innsbruck/) | 0 (→2?) | 23-sept (tránsito) * |
-| 13 | Austria | [Viena](./07_Austria/Viena/) | 5 | 23-28 sept * |
-| 14 | Chequia | [Praga](./08_Chequia/Praga/) | 5 | 28 sept - 3 oct * |
-| 15 | Polonia | [Cracovia](./09_Polonia/Cracovia/) | 4 | 3-7 oct * |
-| 16 | Hungría | [Budapest](./10_Hungria/Budapest/) | 4 | 7-11 oct * |
-| 17 | Eslovenia | [Liubliana](./11_Eslovenia/Liubliana/) | 4 | 11-15 oct * |
-| 18 | Italia | [Florencia](./12_Italia/Florencia/) | 5 | 15-20 oct * |
-| 19 | Italia | [Roma](./12_Italia/Roma/) | 7 | 20-27 oct * |
-| 20 | Italia | [Nápoles](./12_Italia/Napoles/) | 2 | 27-29 oct * |
-| 21 | Italia | [Sur de Italia (por definir)](./12_Italia/Sur%20de%20Italia/) | 10 | 29 oct - 8 nov * |
-| 22 | España | [Barcelona](./13_España/Barcelona/) | 5 | 8-13 nov * |
-| 23 | España | [Madrid](./13_España/Madrid/) | 5 | 13-18 nov * |
+| 1 | Reino Unido | Londres | 8 | 5-13 ago |
+| 2 | Reino Unido | York | 2 | 13-15 ago |
+| 3 | Reino Unido | Edimburgo | 3 | 15-18 ago |
+| 4 | Reino Unido | Highlands | 7 | 18-25 ago |
+| 5 | Países Bajos | Ámsterdam | 4 | 25-29 ago |
+| 6 | Francia | París | 6 | 29 ago - 4 sept |
+| 7 | Portugal | Lisboa + Porto | 8 | 4-12 sept |
+| 8 | Francia | Estrasburgo | 2 | 12-14 sept * |
+| 9 | Francia | Colmar | 2 | 14-16 sept * |
+| 10 | Alemania | Friburgo (Selva Negra) | 3 | 16-19 sept * |
+| 11 | Suiza | Región Jungfrau | 4 (→6?) | 19-23 sept * |
+| 12 | Austria | Innsbruck | 0 (→2?) | 23-sept (tránsito) * |
+| 13 | Austria | Viena | 5 | 23-28 sept * |
+| 14 | Chequia | Praga | 5 | 28 sept - 3 oct * |
+| 15 | Polonia | Cracovia | 4 | 3-7 oct * |
+| 16 | Hungría | Budapest | 4 | 7-11 oct * |
+| 17 | Eslovenia | Liubliana | 4 | 11-15 oct * |
+| 18 | Italia | Florencia | 5 | 15-20 oct * |
+| 19 | Italia | Roma | 7 | 20-27 oct * |
+| 20 | Italia | Nápoles | 2 | 27-29 oct * |
+| 21 | Italia | Sur de Italia (por definir) | 10 | 29 oct - 8 nov * |
+| 22 | España | Barcelona | 5 | 8-13 nov * |
+| 23 | España | Madrid | 5 | 13-18 nov * |
 | — | — | **Margen flex (3 noches, ubicación TBD)** | 3 | por usar en el viaje * |
 
 \* Fechas tentativas post-Portugal. **Suiza:** opción P2 = 6n (Interlaken 3 + Lucerna 2 + Berna day). **Innsbruck:** opción P2 = 2n (hoy 0 en tránsito). Ver detalles en `06_Suiza/` y `07_Austria/Innsbruck/`.
@@ -58,9 +58,9 @@
 
 | Archivo | Contenido |
 |---------|-----------|
-| [ITINERARIO_GENERAL.md](ITINERARIO_GENERAL.md) | Cronograma con fechas (fijas hasta Portugal; tentativas después) |
-| [PRESUPUESTO.md](PRESUPUESTO.md) | Estimaciones de gasto por país y categoría (alojamiento, comida, transporte, actividades, extras) |
-| [CHECKLIST.md](CHECKLIST.md) | Panel de control de reservas y tareas pendientes |
+| `ITINERARIO_GENERAL.md` | Cronograma con fechas (fijas hasta Portugal; tentativas después) |
+| `PRESUPUESTO.md` | Estimaciones de gasto por país y categoría (alojamiento, comida, transporte, actividades, extras) |
+| `CHECKLIST.md` | Panel de control de reservas y tareas pendientes |
 
 ### Carpetas por país/ciudad
 
@@ -80,10 +80,10 @@ Algunas bases tienen subcarpetas (ej. regiones de Eslovenia o opciones del Sur d
 
 | Archivo | Contenido |
 |---------|-----------|
-| [recursos/apps_utiles.md](recursos/apps_utiles.md) | Apps esenciales (Wise, Trainline, Citymapper, etc.) |
-| [recursos/documentos.md](recursos/documentos.md) | ETIAS, seguro (Pax Assistance comprado), visas, vuelos |
-| [recursos/packing_list.md](recursos/packing_list.md) | Qué llevar |
-| [recursos/frases_utiles.md](recursos/frases_utiles.md) | Frases por idioma |
+| `recursos/apps_utiles.md` | Apps esenciales (Wise, Trainline, Citymapper, etc.) |
+| `recursos/documentos.md` | ETIAS, seguro (Pax Assistance comprado), visas, vuelos |
+| `recursos/packing_list.md` | Qué llevar |
+| `recursos/frases_utiles.md` | Frases por idioma |
 
 ## Estado del Proyecto
 
@@ -97,7 +97,7 @@ Algunas bases tienen subcarpetas (ej. regiones de Eslovenia o opciones del Sur d
 
 ### Pendiente
 
-Todos los pendientes y tareas de reservas se han centralizado en el archivo maestro: **[CHECKLIST.md](CHECKLIST.md)**.
+Todos los pendientes y tareas de reservas se han centralizado en el archivo maestro **`CHECKLIST.md`**.
 
 ---
 

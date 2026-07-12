@@ -1,7 +1,7 @@
 # 🏨 Alojamiento — Valle del Soča y Triglav
 
 **Tramo:** loop desde Liubliana (base 11-15 oct 2026) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Referencia de precios (plan 2026):** pensiones y hostels de montaña **~USD 40-60 pp/noche** (jul-ago más caro; octubre algo más bajo). Alinear con bloque Eslovenia en [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md).
+**Referencia de precios (plan 2026):** pensiones y hostels de montaña **~USD 40-60 pp/noche** (jul-ago más caro; octubre algo más bajo).
 > Fechas y noches **tentativas** (post-Portugal). Parte del **loop en auto** desde Liubliana: 1 noche en el valle si se arma. **Clave: parking en propiedad + calefacción + self check-in** (octubre, días cortos, clima cambiante).
 
 ---
@@ -17,7 +17,7 @@
 
 ## 🗺️ La zona y su geografía
 
-El **Valle del Soča** (Alpes Julianos, lado oeste del **Parque Nacional Triglav**) sigue el río de color turquesa imposible. De norte/alto a sur/bajo: **Bovec** (capital del outdoor: rafting, kayak, Kanin), luego **Kobarid** (pueblo lindo y caminable, historia de la 1ª Guerra — Caporetto/Hemingway, cascada Kozjak cerca) y **Tolmin** (más funcional, puerta a las Tolmin Gorges, el punto más bajo del PN Triglav). Es una carretera de montaña (el paso Vršič conecta con Kranjska Gora al norte, espectacular pero lento). Pueblitos como **Trenta/Soča** tienen vibe pero pocos servicios. Todo en auto. Ver [`transporte.md`](transporte.md).
+El **Valle del Soča** (Alpes Julianos, lado oeste del **Parque Nacional Triglav**) sigue el río de color turquesa imposible. De norte/alto a sur/bajo: **Bovec** (capital del outdoor: rafting, kayak, Kanin), luego **Kobarid** (pueblo lindo y caminable, historia de la 1ª Guerra — Caporetto/Hemingway, cascada Kozjak cerca) y **Tolmin** (más funcional, puerta a las Tolmin Gorges, el punto más bajo del PN Triglav). Es una carretera de montaña (el paso Vršič conecta con Kranjska Gora al norte, espectacular pero lento). Pueblitos como **Trenta/Soča** tienen vibe pero pocos servicios. Todo en auto.
 
 ---
 

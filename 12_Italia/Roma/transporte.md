@@ -1,7 +1,7 @@
 # 🚆 Transporte en Roma
 
 **Fechas:** mar 20 – mar 27 oct 2026 (7 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren alta velocidad **Florencia → Roma Termini** (~1h25) → detalle en [`../Florencia/transporte.md`](../Florencia/transporte.md)
+**Llegada:** tren alta velocidad **Florencia → Roma Termini** (~1h25)
 **Salida:** **tren alta velocidad** Roma → Nápoles (27 oct) · ver sección Salida
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas.
@@ -44,15 +44,15 @@
 
 ## 🗺️ Cómo llegar a los day trips
 
-> El "qué hacer" está en [`desvios_cercanos.md`](desvios_cercanos.md). **Pompeya conviene hacerla desde Nápoles** (siguiente parada). Algunos desvíos son regionales (Cotral/Trenitalia, fuera de Tap&Go).
+> **Pompeya conviene hacerla desde Nápoles** (siguiente parada). Algunos desvíos son regionales (Cotral/Trenitalia, fuera de Tap&Go).
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **[Ostia Antica](Day_trips/Ostia_Antica.md)** ⭐ | Tren Roma-Lido (incluido en urbano) | ~40 min | **€1.50** (Tap&Go) | ❌ No | Ruinas portuarias, "mejor que Pompeya" |
-| **[Tívoli (Villa d'Este/Adriana)](Day_trips/Tivoli.md)** | Tren regional o Cotral | ~1h | **~€6–10** | ❌ No (barato) | Fuera de Tap&Go; ambas cierran lunes |
-| **[Orvieto](Day_trips/Orvieto.md)** | Tren regional/IC | ~1h-1h20 | **~€16–24** | ❌ No (regional barato) | Catedral gótica + Umbría; funicular al casco |
-| **[Castelli Romani (Frascati)](Day_trips/Castelli_Romani.md)** | Tren regional | ~30–40 min | **~€5–8** | ❌ No | Vino + fraschette + vistas |
-| **Pompeya/Herculano** | (mejor desde Nápoles) | — | — | ⚠️ candidato Eurail desde Nápoles | ver [`../Napoles/transporte.md`](../Napoles/transporte.md) |
+| **Ostia Antica** ⭐ | Tren Roma-Lido (incluido en urbano) | ~40 min | **€1.50** (Tap&Go) | ❌ No | Ruinas portuarias, "mejor que Pompeya" |
+| **Tívoli (Villa d'Este/Adriana)** | Tren regional o Cotral | ~1h | **~€6–10** | ❌ No (barato) | Fuera de Tap&Go; ambas cierran lunes |
+| **Orvieto** | Tren regional/IC | ~1h-1h20 | **~€16–24** | ❌ No (regional barato) | Catedral gótica + Umbría; funicular al casco |
+| **Castelli Romani (Frascati)** | Tren regional | ~30–40 min | **~€5–8** | ❌ No | Vino + fraschette + vistas |
+| **Pompeya/Herculano** | (mejor desde Nápoles) | — | — | ⚠️ candidato Eurail desde Nápoles | hacerlas desde Nápoles |
 
 ---
 
@@ -70,7 +70,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Roma → Nápoles** = **❌ NO, suelto Italo/Frecce advance (€14.90)** o IC barato. Detalle en [`../../EURAIL.md`](../../EURAIL.md).
+> Tramo **Roma → Nápoles** = **❌ NO, suelto Italo/Frecce advance (€14.90)** o IC barato.
 
 - Alta velocidad italiana **barata con antelación** + reserva obligatoria → no rinde gastar día de pase.
 - **Pompeya** (desde Nápoles/Roma) sí es un **day trip candidato a día de Eurail** — evaluado en el archivo de Nápoles.

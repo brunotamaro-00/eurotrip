@@ -102,7 +102,6 @@ Bares construidos en edificios en ruinas y abandonados del barrio judío (Distri
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos húngaros, kifőzde/étkezde y napi menü, lángos, dónde comer barato, ruin bar food, comida para llevar, supermercados y Gran Mercado Central) en [`gastronomia.md`](gastronomia.md).
 >
 > Los **ruin bars** (dónde beber) se mantienen arriba en este archivo como experiencia.
 

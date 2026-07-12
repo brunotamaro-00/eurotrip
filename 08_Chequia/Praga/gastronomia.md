@@ -4,7 +4,7 @@
 
 **Tramo:** 28 sept - 3 oct (5 noches, 6 días) · **Estado:** tentativo · **Moneda:** Corona checa (CZK; **1 € ≈ 25 CZK**) · **Agua del grifo:** potable
 
-> Praga es **barata ($$)** y la **cerveza suele costar menos que el agua**. Estrategia: **hospoda** (pub-cantina con menú de almuerzo barato), **jídelna** (cantina autoservicio), street food checo real y cerveza de tanque. Regla #1 de foros: **salir 10-15 min del "tourist highway"** y todo mejora. La sección de **cerveza** (dónde tomar) está en [`actividades.md`](actividades.md).
+> Praga es **barata ($$)** y la **cerveza suele costar menos que el agua**. Estrategia: **hospoda** (pub-cantina con menú de almuerzo barato), **jídelna** (cantina autoservicio), street food checo real y cerveza de tanque. Regla #1 de foros: **salir 10-15 min del "tourist highway"** y todo mejora.
 
 ---
 

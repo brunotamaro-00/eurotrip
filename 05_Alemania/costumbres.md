@@ -20,7 +20,7 @@
 - **Domingo TODO cerrado** ⭐ - Ley estricta (*Sonntagsruhe*): supermercados y tiendas cierran; solo abren panaderías (pocas horas), restaurantes/cafés y los súper de estaciones grandes. **Comprar el sábado sí o sí** `https://simple-moving-abroad.com/en/germany/groceries`
   - En este tramo (mié 16 – sáb 19) **no cae domingo**, pero el sábado los súper cierran ~20h y la salida es ese día: comprar snacks para el tren a Suiza antes.
 - **Horarios de súper** - Lun-sáb hasta ~20-22h. Nada de 24hs.
-- **Cocinas que cierran temprano** - Muchos restaurantes cierran la cocina **21h o antes**, sobre todo fuera de las grandes ciudades. Cenar temprano (18-21h es el horario alemán normal; detalle en [`Friburgo/gastronomia.md`](Friburgo/gastronomia.md)).
+- **Cocinas que cierran temprano** - Muchos restaurantes cierran la cocina **21h o antes**, sobre todo fuera de las grandes ciudades. Cenar temprano (18-21h es el horario alemán normal).
 - **Münstermarkt es de mañana** - Lun-sáb 7-13:30h; es almuerzo, no cena.
 - **Ruhezeit (horas de silencio)** - 22h-7h, mediodía y domingos/feriados: no hacer ruido en el alojamiento (música, lavarropas, gritar en el pasillo) `https://www.deutschland.de/en/topic/life/dos-and-donts-in-germany-just-make-sure-you-avoid-these-mistakes`
 - **Feriados del tramo** - Ninguno en Baden-Württemberg el 16-19 sept 2026 ✓ (ya verificado en `Friburgo/actividades.md`).
@@ -36,7 +36,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en [`Friburgo/gastronomia.md`](Friburgo/gastronomia.md).
 
 - **Agua: te traen mineral paga** - Lo default es agua embotellada con o sin gas (~€3). El agua del grifo es potable pero hay que pedir **"Leitungswasser"** explícito; a veces lo niegan o miran raro. No existe la jarra gratis automática.
 - **La cuenta se pide** - No la traen sola; hacer contacto visual y decir *"Zahlen, bitte"* o *"Die Rechnung, bitte"*. Suelen preguntar *"Zusammen oder getrennt?"* (¿juntos o separado?) — separar la cuenta es totalmente normal y nadie se ofende.
@@ -51,14 +50,13 @@
 - **Formalidad Sie/du** - Con desconocidos y gente mayor, *Sie* (usted); el *du* es para jóvenes/ambiente estudiantil. Ante la duda, Sie.
 - **Small talk mínimo** - Los alemanes van al grano; el "¿cómo estás?" de cortesía no existe — si preguntás, esperá una respuesta real. No es frialdad, es estilo.
 - **Temas sensibles** - Nada de chistes sobre nazismo o la guerra; es un tema serio hasta hoy `https://theculturetrip.com/europe/germany/articles/15-things-tourists-should-never-do-in-germany-ever`
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md) (sección Alemán).
 
 ## 🚶 Espacio público y normas
 
 - **Semáforos peatonales se respetan** ⭐ - Los alemanes NO cruzan en rojo aunque no venga nadie, y cruzar vos genera miradas fulminantes, retos ("¡hay niños mirando!") y multa posible de **€5-10** `https://www.explore.com/1765959/traffic-rule-germans-follow-religiously-despite-tiny-fine-jaywalking/`
 - **NO caminar por el carril bici** ⭐ - Franja rojiza/marcada de la vereda = territorio de bicis y lo toman en serio; timbrazos furiosos y gritos garantizados. En Friburgo (la ciudad más ciclista de Alemania) esto es regla número uno `https://germanculture.com.ua/travel-to-germany/what-not-to-do-in-germany/`
 - **Silencio en trenes** - Se habla notoriamente más bajo que en otros países; en ICE hay vagones **Ruhebereich** (zona de silencio) donde ni llamadas ni conversación fuerte — si te toca ahí sin querer, mover o susurrar `https://www.tripadvisor.com/ShowTopic-g187275-i116-k10724345-Quiet_Zones_on_Trains-Germany.html`
-- **Validar tickets** - En transporte regional/tranvía, validar si el ticket lo requiere; controles vestidos de civil frecuentes y multa por *Schwarzfahren* (**€60**). Detalle KONUS/VAG en [`Friburgo/transporte.md`](Friburgo/transporte.md).
+- **Validar tickets** - En transporte regional/tranvía, validar si el ticket lo requiere; controles vestidos de civil frecuentes y multa por *Schwarzfahren* (**€60**).
 - **Basura separada** - El reciclaje es religión: papel, envases (amarillo), vidrio por color, orgánico, resto. En hostel/depto respetar los tachos; tirar cualquier cosa en cualquier lado molesta de verdad.
 - **Alcohol en la calle: legal y normal** - Tomar una cerveza caminando o en el parque es legal y socialmente aceptado (a diferencia de UK/España); el límite es el escándalo, no la birra.
 - **Colas y orden** - Respetar filas y el orden de llegada; colarse es grave. En paradas y andenes, dejar bajar antes de subir.

@@ -2,13 +2,13 @@
 
 **Tramo:** bloque Sur de Italia (29 oct - 8 nov 2026, 10 noches a repartir) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
 **Presupuesto:** ~$22-40 pp/noche · **Noches sugeridas:** 2-3 (base en Sorrento)
-> Fechas y noches **tentativas** (post-Portugal). Esta es **una de las opciones** del Sur; ver comparativa en [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> Fechas y noches **tentativas** (post-Portugal). Esta es **una de las opciones** del Sur.
 
 ---
 
 ## ⚠️ Aviso crítico: Amalfi en noviembre
 
-> Consenso rotundo de foros de viajeros: **NO ir a la Costa Amalfitana en noviembre.** *"It's a ghost town. The ferries stop running, the weather turns rainy/cold, and 70% of restaurants and hotels board up until April."* Los **ferries se cancelan**, muchos pueblos (Positano, Praiano) cierran y el clima es lluvioso. **Sicilia o Puglia son mejores opciones para estas fechas** (ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md)).
+> Consenso rotundo de foros de viajeros: **NO ir a la Costa Amalfitana en noviembre.** *"It's a ghost town. The ferries stop running, the weather turns rainy/cold, and 70% of restaurants and hotels board up until April."* Los **ferries se cancelan**, muchos pueblos (Positano, Praiano) cierran y el clima es lluvioso. **Sicilia o Puglia son mejores opciones para estas fechas**.
 
 **Si igual se hace la costa:** dormir **solo en Sorrento** (ciudad real, abierta todo el año, bien conectada por tren Circumvesuviana) y hacer los pueblos como day trip **en bus** (no ferry). Este archivo asume ese escenario.
 
@@ -24,7 +24,7 @@
 
 ## 🗺️ La zona y su geografía
 
-La Costa Amalfitana es un tramo de acantilados sobre la SS163, una carretera **estrecha y sinuosa** (parking imposible → **no conviene auto**). De oeste a este: la península de Sorrento (**Sorrento**, la base grande y conectada), luego **Positano** (el pueblo-postal más caro), **Praiano** (intermedio, tranquilo), **Amalfi** (el pueblo histórico central) y arriba **Ravello** (jardines y vistas). En verano se une todo por **ferry**; en noviembre **solo quedan los buses SITA**. Sorrento no es técnicamente "Amalfi" pero es la puerta lógica. Ver [`transporte.md`](transporte.md).
+La Costa Amalfitana es un tramo de acantilados sobre la SS163, una carretera **estrecha y sinuosa** (parking imposible → **no conviene auto**). De oeste a este: la península de Sorrento (**Sorrento**, la base grande y conectada), luego **Positano** (el pueblo-postal más caro), **Praiano** (intermedio, tranquilo), **Amalfi** (el pueblo histórico central) y arriba **Ravello** (jardines y vistas). En verano se une todo por **ferry**; en noviembre **solo quedan los buses SITA**. Sorrento no es técnicamente "Amalfi" pero es la puerta lógica.
 
 ---
 
@@ -98,7 +98,7 @@ La Costa Amalfitana es un tramo de acantilados sobre la SS163, una carretera **e
 > ⚠️ Reddit no verificable automáticamente; consenso vía foros de viajeros y guías. Re-chequear `r/ItalyTravel` a mano.
 
 - **Evitar Amalfi en noviembre [viajero]:** ferries cancelados + pueblos fantasma; ir en mayo/septiembre. `https://www.reddit.com/r/ItalyTravel/`
-- **Sorrento = base más segura en off-season [viajero]:** más oferta abierta + conexión de tren. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+- **Sorrento = base más segura en off-season [viajero]:** más oferta abierta + conexión de tren.
 - **Positano el más caro aun en octubre [viajero]:** Praiano da mejor balance costa/precio cuando está abierto.
 
 ---
@@ -108,4 +108,3 @@ La Costa Amalfitana es un tramo de acantilados sobre la SS163, una carretera **e
 - Seven Hostel (Hostelworld): `https://www.hostelworld.com/hostels/p/26673/seven-hostel/`
 - Ulisse Deluxe (Hostelworld): `https://www.hostelworld.com/hostels/p/24470/ulisse-deluxe/`
 - Hostels Sorrento (Hostelworld): `https://www.hostelworld.com/hostels/europe/italy/sorrento/`
-- Comparativa Sur de Italia: [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md)

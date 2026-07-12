@@ -1,7 +1,7 @@
 # 🚆 Transporte en Highlands
 
 **Fechas:** mar 18 – mar 25 ago 2026 (7 noches) · **Estado:** fijo
-**Llegada:** **auto rentado** retirado en Edimburgo (18 ago) → detalle del retiro en [`../Edimburgo/transporte.md`](../Edimburgo/transporte.md)
+**Llegada:** **auto rentado** retirado en Edimburgo (18 ago)
 **Salida:** **vuelo EDI → Ámsterdam (25 ago)** — ✅ comprado (USD 184 total / 92 pp) · ver sección Salida
 
 > 🚗 **Base de naturaleza = auto, no transporte público.** Sin auto, Skye y los valles son casi inaccesibles. Este archivo cubre el alquiler, la conducción en single-track, parking, ferries y la salida en vuelo. Las tarjetas urbanas no aplican.
@@ -83,7 +83,7 @@
 
 ## 🗺️ Cómo llegar a los desvíos del circuito
 
-> Todo se hace **en auto** (es la única forma realista). El "qué hacer" está en [`actividades.md`](actividades.md) y [`desvios_cercanos.md`](desvios_cercanos.md). **Acá no se usa Eurail:** las Highlands se recorren **en auto** y la salida a Ámsterdam es en **vuelo**.
+> Todo se hace **en auto** (es la única forma realista). **Acá no se usa Eurail:** las Highlands se recorren **en auto** y la salida a Ámsterdam es en **vuelo**.
 
 | Destino | Medio | Tiempo (ida) | Costo | ¿Eurail? | Nota |
 |---------|-------|--------------|-------|----------|------|
@@ -106,13 +106,13 @@
 - **25 ago:** **devolver el auto en EDI** por la mañana + **vuelo EDI → Ámsterdam (AMS)**.
 - **Vuelo:** directo ~1h30 (KLM / easyJet / Ryanair). **Precio: USD 184 total (2p) / 92 pp — ✅ COMPRADO.**
 - **Tip:** vuelo temprano para aprovechar el día de llegada a Ámsterdam; coordinar horario de devolución del auto con la hora del vuelo.
-- **Paradas posibles en la A9 el 24 ago** (elegir 1–2): Aviemore/Cairngorms, Killiecrankie, Pitlochry, Dunkeld, Stirling Castle, The Kelpies (Falkirk) — detalle en [`actividades.md`](actividades.md).
+- **Paradas posibles en la A9 el 24 ago** (elegir 1–2): Aviemore/Cairngorms, Killiecrankie, Pitlochry, Dunkeld, Stirling Castle, The Kelpies (Falkirk)
 
 ---
 
 ## 🎟️ Eurail (este tramo)
 
-> ℹ️ **En las Highlands no se usa el Eurail:** el circuito es en **auto** (18-25 ago) y la salida a Ámsterdam es en **vuelo**. **Días de Eurail usados acá: 0.** → ver [`../../EURAIL.md`](../../EURAIL.md)
+> ℹ️ **En las Highlands no se usa el Eurail:** el circuito es en **auto** (18-25 ago) y la salida a Ámsterdam es en **vuelo**. **Días de Eurail usados acá: 0.**
 
 ---
 

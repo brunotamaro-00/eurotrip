@@ -1,15 +1,15 @@
 ## 🇸🇮 Eslovenia (11–15 oct, borrador) — base Liubliana + roadtrip en auto
 
-**Fechas tentativas** (tramo post-Portugal; ver [`ITINERARIO_GENERAL.md`](../ITINERARIO_GENERAL.md)).
+**Fechas tentativas** (tramo post-Portugal).
 
 **Idea fuerza (consenso viajeros):** Eslovenia rinde como “base + excursiones” o como **mini-loop en auto**. Liubliana es chica (1 día), y lo mejor está en lagos, valle del Soča, cuevas y costa.
 
 ### 🧭 Estructura por regiones (esta carpeta)
-- **Capital**: [`Liubliana/`](./Liubliana/)
-- **Lagos alpinos (postal + Triglav “suave”)**: [`Lagos Alpinos/`](./Lagos%20Alpinos/)
-- **Soča + Triglav NP (turquesa + montaña)**: [`Valle del Soča y Triglav/`](./Valle%20del%20So%C4%8Da%20y%20Triglav/)
-- **Karst y cuevas (clima-proof)**: [`Karst y Cuevas/`](./Karst%20y%20Cuevas/)
-- **Costa + salida por Trieste**: [`Costa Eslovena y Trieste/`](./Costa%20Eslovena%20y%20Trieste/)
+- **Capital**: Liubliana
+- **Lagos alpinos (postal + Triglav “suave”)**: Lagos Alpinos (Bled/Bohinj)
+- **Soča + Triglav NP (turquesa + montaña)**: Valle del Soča y Triglav
+- **Karst y cuevas (clima-proof)**: Karst y Cuevas
+- **Costa + salida por Trieste**: Costa Eslovena y Trieste
 
 ---
 
@@ -38,30 +38,23 @@ Es una estrategia muy lógica porque:
 
 ### Noche 1 — Liubliana (base urbana)
 - Ciudad + walking tour + castillo + **Metelkova** de noche.
-- Link: [`Liubliana/actividades.md`](./Liubliana/actividades.md)
 
 ### Noche 2 — Lagos alpinos (Bled/Bohinj)
 - Día “postal”: Bled (vuelta + miradores Ojstrica/Mala Osojnica) + opcional Vintgar (slot).
-- Link: [`Lagos Alpinos/actividades.md`](./Lagos%20Alpinos/actividades.md)
 
 ### Noche 3 — Valle del Soča (base recomendada: Kobarid o Tolmin)
 - Día “wow turquesa”: gargantas + cascadas (Kozjak si está en temporada) + puntos de río.
 - Bonus: historia WWI (Caporetto/Kobarid).
-- Link: [`Valle del Soča y Triglav/actividades.md`](./Valle%20del%20So%C4%8Da%20y%20Triglav/actividades.md)
 
 ### Noche 4 — Koper (logística) o costa (si quieren más vibe)
 - Día “clima-proof” o “reset Adriático”:
   - **Opción A (lluvia/nubes):** **Škocjan** (UNESCO) o Postojna+Predjama.
   - **Opción B (cielo ok):** **Piran** + atardecer.
 - Dormir en **Koper** simplifica devolución del auto y salida.
-- Links:
-  - [`Karst y Cuevas/actividades.md`](./Karst%20y%20Cuevas/actividades.md)
-  - [`Costa Eslovena y Trieste/actividades.md`](./Costa%20Eslovena%20y%20Trieste/actividades.md)
 
 ### Salida (15 oct, borrador) — Koper → Trieste (stopover) → Florencia
 - Bus Koper→Trieste suele ser ~40–50 min (FlixBus/Arriva según horario).
 - Trieste: consigna + 3–6h de paseo + tren a Florencia.
-- Link: [`Costa Eslovena y Trieste/transporte.md`](./Costa%20Eslovena%20y%20Trieste/transporte.md)
 
 ---
 

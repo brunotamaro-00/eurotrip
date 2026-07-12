@@ -60,7 +60,6 @@
 ---
 
 ## 🍕 Gastronomía
-> Detalle completo (las 4 pastas romanas, street food — supplì/pizza al taglio/trapizzino/maritozzo, dónde comer por zona, Mercato di Testaccio, regla del gelato y trampas) en [`gastronomia.md`](gastronomia.md).
 
 ---
 
@@ -210,7 +209,6 @@ Para Cande: Roma tiene **mucha agitación y turistas**; no es la Italia favorita
 - **Seguridad:** Evitar taxistas sin taxímetro visible; aplicar el mismo sentido común que en cualquier capital europea grande; los robos en Roma son por distracción, no violentos
 
 ### Gastronomía
-> Tips de coperto, presupuesto por persona en trattoria y aperitivo migrados a [`gastronomia.md`](gastronomia.md).
 
 ### Transporte
 - **Metro:** líneas A y B; útil para Vaticano (Ottaviano en la A), Coliseo (Colosseo en la B), Borghese (Spagna en la A); evitar Metro en hora punta con mochila

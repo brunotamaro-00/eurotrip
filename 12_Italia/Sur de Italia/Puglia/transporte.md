@@ -1,10 +1,10 @@
 # 🚆 Transporte en Puglia
 
 **Fechas:** ~29 oct – 8 nov 2026 (parte de las 10 noches del Sur) · **Estado:** tentativo (post-Portugal; **opción** del Sur de Italia)
-**Llegada:** desde **Nápoles** en tren Frecce/Italo a Bari (~3h30–4h) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Llegada:** desde **Nápoles** en tren Frecce/Italo a Bari (~3h30–4h)
 **Salida:** **vuelo** Bari → Barcelona (~8 nov) · ver sección Salida
 
-> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> 📍 Tramo tentativo y **opción alternativa** del Sur (Puglia / Calabria / Sicilia / Costa Amalfitana — se elige una). Re-verificar al confirmar fechas.
 
 ## 🧭 Resumen rápido
 
@@ -90,7 +90,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+>
 - **Salida Puglia → Barcelona es un VUELO** (Ryanair Bari→BCN ~€30–80) → **0 días de Eurail**.
 - Dentro de Puglia: trenes **regionales baratos** (Bari↔Lecce €10–18, FSE) — no rinde gastar día de pase; lo demás es **auto**.
 - **Días de Eurail en Puglia: 0.**

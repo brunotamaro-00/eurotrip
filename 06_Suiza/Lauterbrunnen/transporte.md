@@ -1,7 +1,7 @@
 # 🚆 Transporte — Lauterbrunnen (base valle, Región Jungfrau)
 
 **Fechas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** desde Friburgo hasta **Interlaken Ost** (tren ICE+SBB, ~2h53–4h) → detalle en [`../../05_Alemania/Friburgo/transporte.md`](../../05_Alemania/Friburgo/transporte.md). Luego **Interlaken Ost → Lauterbrunnen** en tren BOB (~20 min, Eurail cubre).
+**Llegada:** desde Friburgo hasta **Interlaken Ost** (tren ICE+SBB, ~2h53–4h). Luego **Interlaken Ost → Lauterbrunnen** en tren BOB (~20 min, Eurail cubre).
 **Salida:** el 23 sept, **Lauterbrunnen → Interlaken Ost → Zürich → Innsbruck/Viena** (ver sección Salida).
 
 > ⚠️ **Tramo tentativo** — re-verificar tarifas, horarios y estado de teleféricos al confirmar.
@@ -10,7 +10,7 @@
 ## 🧭 Resumen rápido
 - **Base de valle sin autos alrededor:** todo se mueve en **tren cremallera + teleférico**. Lauterbrunnen pueblo se camina; la estación es el centro de todo.
 - **Ventaja de esta base:** salida **directa** a Wengen (cremallera) y a Mürren/Gimmelwald (Grütschalp+tren o Stechelberg+teleférico), ambos **cubiertos por Eurail hasta Mürren/Wengen**.
-- **Estrategia pase:** **Eurail** cubre BOB + cremalleras hasta Wengen/Mürren + barcos; el **Schilthorn y todo lo alto va aparte (−25% Eurail)**. Ver [`../README.md`](../README.md#-estrategia-de-transporte-y-pases-eurail--default).
+- **Estrategia pase:** **Eurail** cubre BOB + cremalleras hasta Wengen/Mürren + barcos; el **Schilthorn y todo lo alto va aparte (−25% Eurail)**.
 
 ## 🎫 Pases (resumen — detalle en README)
 - **✅ Eurail (ya comprado):** sin reserva; cubre BOB Interlaken–Lauterbrunnen, cremallera a **Wengen**, teleférico+tren a **Mürren**, barcos de los lagos. **NO cubre** Schilthorn, Schynige Platte, Männlichen, Jungfraujoch (−25%).
@@ -47,7 +47,6 @@
 | **Grindelwald / First** | Tren vía Interlaken Ost o Zweilütschinen | ~40–50 min | tren Eurail; First aparte | No |
 | **Lucerna / Berna** | Tren vía Interlaken Ost | ~2h / ~55 min | Eurail cubre | No |
 
-> El "qué hacer" en cada desvío vive en [`actividades.md`](actividades.md). No duplicar acá.
 
 ## 🚆 Salida hacia Innsbruck / Viena (23 sept)
 - **Ruta:** Lauterbrunnen → **Interlaken Ost** (~20 min) → **Zürich HB** (~1h58) → **Railjet Zürich → Innsbruck** (~3h30). Total **~6h** con 2 transbordos.
@@ -56,12 +55,12 @@
 - **Eurail:** cubre todo (SBB + ÖBB Railjet) sin reserva obligatoria; reserva opcional en tramos llenos.
 
 ### Stopover opcional en Lucerna (mismo día)
-- **Lauterbrunnen → Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h) → **Luzern → Zürich → Innsbruck**. Detalle en [`../Lucerna/transporte.md`](../Lucerna/transporte.md).
+- **Lauterbrunnen → Interlaken Ost → Luzern** (Luzern–Interlaken Express, ~2h) → **Luzern → Zürich → Innsbruck**.
 
 ## 🎟️ Eurail (este tramo)
 - **Llegada y salida: ✅ usar día de pase** (larga distancia, caro, sin reserva).
 - **Dentro del valle:** cremalleras a Wengen/Mürren **incluidas**; Schilthorn/Schynige/Männlichen **sueltos (−25%)**.
-- Estimación: **2–3 días de Eurail** en Suiza. → [`../../EURAIL.md`](../../EURAIL.md)
+- Estimación: **2–3 días de Eurail** en Suiza.
 
 ## 🧠 Consenso Reddit/Foros
 - **Las cremalleras a Wengen/Mürren ya están en Eurail** [viajero] — aprovechar; solo lo "alto" (Schilthorn) se paga. `https://community.eurail.com/eurail-interrail-passes-41/eurail-pass-and-jungfrau-pass-in-switzerland-18806`

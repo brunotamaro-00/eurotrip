@@ -1,7 +1,7 @@
 # 🚆 Transporte en Colmar
 
 **Fechas:** lun 14 – mié 16 sept 2026 (2 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren TER desde Estrasburgo (~30–35 min) → detalle en [`../Estrasburgo/transporte.md`](../Estrasburgo/transporte.md)
+**Llegada:** tren TER desde Estrasburgo (~30–35 min)
 **Salida:** **tren TER/bus** Colmar → Friburgo (Alemania) (16 sept) · ver sección Salida
 
 > 📍 **Tramo tentativo — re-verificar al confirmar fechas post-Portugal.** Horarios de TER, Kut'zig y conexiones transfronterizas pueden cambiar.
@@ -39,7 +39,7 @@
 
 ## 🗺️ Cómo llegar a los day trips (Route des Vins sin auto)
 
-> El "qué hacer" en cada pueblo está en [`desvios_cercanos.md`](desvios_cercanos.md). Acá el **cómo llegar**. **Ninguno conviene a Eurail** (regional barato / bus turístico).
+> Acá el **cómo llegar**. **Ninguno conviene a Eurail** (regional barato / bus turístico).
 
 ### Opción A — Kut'zig (bus turístico hop-on/hop-off) ⭐ la más simple
 
@@ -82,7 +82,7 @@
 
 ## 🎟️ Eurail (este tramo)
 
-> Tramo **Colmar → Friburgo** = **regional/bus barato (€3–40)**. **No conviene gastar día de pase.** El **Regio-Elsass-Ticket (€37/2–5p)** o el bus low-cost ganan al pase. → ver [`../../EURAIL.md`](../../EURAIL.md)
+> Tramo **Colmar → Friburgo** = **regional/bus barato (€3–40)**. **No conviene gastar día de pase.** El **Regio-Elsass-Ticket (€37/2–5p)** o el bus low-cost ganan al pase.
 
 - Si se quisiera encadenar Estrasburgo→Colmar→Friburgo **en un solo día**, un día de Eurail los cubriría; pero el plan los reparte en días distintos → **suelto**.
 - **Días de Eurail en Colmar: 0.**

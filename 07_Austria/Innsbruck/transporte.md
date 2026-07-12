@@ -1,7 +1,7 @@
 # 🚆 Transporte en Innsbruck
 
 **Fechas:** 23 septiembre — **tránsito** hacia Viena el mismo día (salvo que se sumen **1–2 noches**) · **Estado:** tentativo (post-Portugal)
-**Llegada:** tren **SBB + Railjet vía Zürich** desde Interlaken (~5h30–6h) → detalle en [`../../06_Suiza/Interlaken/transporte.md`](../../06_Suiza/Interlaken/transporte.md). El Railjet llega a **Innsbruck Hbf**, a ~10 min a pie / 1 parada de tranvía del casco.
+**Llegada:** tren **SBB + Railjet vía Zürich** desde Interlaken (~5h30–6h). El Railjet llega a **Innsbruck Hbf**, a ~10 min a pie / 1 parada de tranvía del casco.
 **Salida:** tren **ÖBB Railjet** hacia **Viena** (~4h) — el mismo Railjet continúa Zürich–Innsbruck–**Wien** (ver sección Salida)
 
 > ⚠️ **Tramo tentativo (post-Portugal)** — re-verificar al confirmar fechas.
@@ -44,7 +44,7 @@
 | **Bergisel (trampolín + mirador)** | Tranvía 1 / STB + funicular | ~15–20 min | ticket IVB + entrada | No |
 | **Alpenzoo** | Hungerburgbahn (parada intermedia) | ~15 min | funicular + entrada (incl. Innsbruck Card) | No |
 
-> El "qué hacer" en cada desvío vive en [`desvios_cercanos.md`](desvios_cercanos.md). Con pocas horas/noches, los desvíos solo valen si son **cero fricción** (Hall in Tirol a 10 min) o el highlight (**Nordkette** con cielo despejado).
+> Con pocas horas/noches, los desvíos solo valen si son **cero fricción** (Hall in Tirol a 10 min) o el highlight (**Nordkette** con cielo despejado).
 
 ## 🚆 Salida hacia Viena (23 sept o tras 1–2 noches)
 - **Medio:** **ÖBB Railjet** Innsbruck Hbf → Wien (vía Salzburg–Linz), ~**4h**. Hasta 5 **Westbahn** diarios como alternativa.
@@ -56,7 +56,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - **Si es tránsito el mismo día:** Interlaken→Innsbruck→Viena puede ser **un solo día de Eurail** (cubierto en la salida de Interlaken) → no duplicar.
-- **Si se duerme en Innsbruck:** Innsbruck→Viena queda como tramo aparte. El **Sparschiene suelto (€9.90)** es **muy barato** → **marginal/NO** gastar un día de pase; conviene comprar suelto anticipado y reservar Eurail para tramos más caros. → ver [`../../EURAIL.md`](../../EURAIL.md)
+- **Si se duerme en Innsbruck:** Innsbruck→Viena queda como tramo aparte. El **Sparschiene suelto (€9.90)** es **muy barato** → **marginal/NO** gastar un día de pase; conviene comprar suelto anticipado y reservar Eurail para tramos más caros.
 
 ## 🧠 Consenso Reddit/Foros
 - **Centro caminable; IVB solo si dormís lejos** [viajero] — el casco se hace a pie; el tranvía sirve para Bergisel/Ambras o alojamiento periférico. `https://www.ivb.at/en/passenger/tickets/overview-of-tickets-2026/`

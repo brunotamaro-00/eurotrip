@@ -2,7 +2,7 @@
 
 **Tramo:** bloque Sur de Italia (29 oct - 8 nov 2026, hasta 10 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
 **Presupuesto:** ~$15-30 pp/noche · **Noches sugeridas:** 3-5
-> Fechas y noches **tentativas** (post-Portugal). **Opción "solo para muy aventureros"** en noviembre (muy local y solitario, playa cerrada, **auto casi obligatorio**); Sicilia/Puglia son las recomendadas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> Fechas y noches **tentativas** (post-Portugal). **Opción "solo para muy aventureros"** en noviembre (muy local y solitario, playa cerrada, **auto casi obligatorio**); Sicilia/Puglia son las recomendadas.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🗺️ La región y su geografía
 
-Calabria es la "punta de la bota", montañosa y con dos costas. En la **costa tirrena (oeste)** están los pueblos lindos: **Tropea** (sobre un acantilado, la joya, con su playa y el santuario), **Pizzo** (del *tartufo* helado) y **Capo Vaticano** (miradores). Más al sur, **Scilla** (con el barrio de pescadores **Chianalea**, "casas sobre el agua") y **Reggio Calabria** (ciudad grande, museo de los Bronces de Riace, cruce a Sicilia por ferry). En el interior, los parques nacionales de montaña (**Sila**, **Aspromonte**). **Auto casi obligatorio** — el transporte público es muy limitado. Ver [`transporte.md`](transporte.md).
+Calabria es la "punta de la bota", montañosa y con dos costas. En la **costa tirrena (oeste)** están los pueblos lindos: **Tropea** (sobre un acantilado, la joya, con su playa y el santuario), **Pizzo** (del *tartufo* helado) y **Capo Vaticano** (miradores). Más al sur, **Scilla** (con el barrio de pescadores **Chianalea**, "casas sobre el agua") y **Reggio Calabria** (ciudad grande, museo de los Bronces de Riace, cruce a Sicilia por ferry). En el interior, los parques nacionales de montaña (**Sila**, **Aspromonte**). **Auto casi obligatorio** — el transporte público es muy limitado.
 
 ---
 
@@ -86,4 +86,3 @@ Calabria es la "punta de la bota", montañosa y con dos costas. En la **costa ti
 
 ## 🔗 Fuentes y links
 - Turismo Calabria: `https://www.calabriatourism.it/`
-- Comparativa Sur de Italia: [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md)

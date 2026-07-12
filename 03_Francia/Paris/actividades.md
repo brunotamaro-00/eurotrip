@@ -72,7 +72,6 @@
 ---
 
 ## 🍞 Gastronomía
-> Detalle completo (platos típicos, boulangeries, bouillons, street food, picnic, supermercados y mercados gastronómicos) en [`gastronomia.md`](gastronomia.md).
 >
 > Nota: el **Marché aux Puces de Saint-Ouen** (mercado de pulgas, **dom 30 ago** ideal) es atracción, no comida — se mantiene su tratamiento en la sección de mercados/barrios de este archivo.
 

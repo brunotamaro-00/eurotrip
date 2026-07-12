@@ -26,7 +26,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer vive en las carpetas de ciudad ([`Viena/gastronomia.md`](Viena/gastronomia.md), [`Innsbruck/`](Innsbruck/)).
 
 - **Agua: te traen mineral paga** - El agua del grifo vienesa es excelente (viene de los Alpes); pedir *"Leitungswasser"* es posible, pero el default es mineral.
 - **La cuenta se pide con calma** - Nada de chasquear dedos ni gritar al mozo (mal visto): contacto visual + **"Zahlen, bitte"**. Separar la cuenta es normal.
@@ -38,11 +37,10 @@
 - **Formalidad** - Más formal que Alemania: *Sie* con desconocidos, y en ámbitos formales aún se usan **títulos** (Herr Doktor). Inglés funciona en Viena e Innsbruck turístico; menos en pueblos de Tirol.
 - **⚠️ Austria NO es Alemania** ⭐ - No llamar "alemanes" a los austríacos ni asumir que "es lo mismo"; identidad, acento e historia propios (*Sackerl* no *Tüte*, *Paradeiser* no *Tomate*).
 - **⚠️ Tema WWII/nazismo: prohibido bromear** ⭐ - Chistes, gestos o comentarios ligeros son **ilegales** (los gestos nazis se penan) y profundamente ofensivos `https://www.europaadventure.com/en/austria/dos-and-donts-in-austria-what-to-know-before-you-go/`
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
-- **Validar el ticket SIEMPRE** ⭐ - En Viena (U-Bahn, tranvía, bus) hay que **estampar/validar antes de subir**; sistema de "confianza" sin molinetes, pero controles de civil frecuentes y multa por *Schwarzfahren* **~€105**. Detalle en [`Viena/transporte.md`](Viena/transporte.md).
+- **Validar el ticket SIEMPRE** ⭐ - En Viena (U-Bahn, tranvía, bus) hay que **estampar/validar antes de subir**; sistema de "confianza" sin molinetes, pero controles de civil frecuentes y multa por *Schwarzfahren* **~€105**.
 - **Silencio y orden** - Trenes/U-Bahn callados; no cruzar en rojo (multable ~€50, mal visto con niños presentes); reciclaje en serio; el carril bici no es vereda (mucho ciclista en Viena).
 - **Vestimenta** - Los vieneses van algo más arreglados; para ópera/conciertos y cenas, "smart casual"; ropa muy deportiva desentona.
 

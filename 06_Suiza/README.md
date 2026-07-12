@@ -57,7 +57,7 @@ Las cuatro bases (Interlaken, Lauterbrunnen, Grindelwald + la opción Mürren/Gi
 
 ## 🎫 Estrategia de transporte y pases (Eurail = default)
 
-Ya tenés **Eurail Global Pass** → es la columna vertebral del tramo. Detalle completo por base en cada `transporte.md` y en [`../EURAIL.md`](../EURAIL.md).
+Ya tenés **Eurail Global Pass** → es la columna vertebral del tramo. Detalle completo por base en cada `transporte.md`.
 
 - **Eurail cubre sin reserva:** trenes SBB/BOB (Interlaken ↔ Lauterbrunnen/Grindelwald), **barcos** de los lagos Thun y Brienz, y **Lauterbrunnen ↔ Wengen/Mürren 100%**.
 - **Eurail NO cubre (pero da −25%):** los teleféricos/trenes de montaña privados por encima de Wengen/Grindelwald/Lauterbrunnen: **Jungfraujoch, Schilthorn, First, Schynige Platte, Kleine Scheidegg**.
@@ -103,11 +103,11 @@ Consenso de foros sobre cuáles valen de mejor a peor. Precios 2026 verificados 
 
 | Archivo | Qué contiene |
 |---------|--------------|
-| [`Interlaken/actividades.md`](Interlaken/actividades.md) · [`alojamiento.md`](Interlaken/alojamiento.md) · [`transporte.md`](Interlaken/transporte.md) | Base hub: aventura, lagos, Harder Kulm, conexión total |
-| [`Lauterbrunnen/actividades.md`](Lauterbrunnen/actividades.md) · [`alojamiento.md`](Lauterbrunnen/alojamiento.md) · [`transporte.md`](Lauterbrunnen/transporte.md) | Base valle: cascadas, Mürren/Gimmelwald, Schilthorn, Via Ferrata |
-| [`Grindelwald/actividades.md`](Grindelwald/actividades.md) · [`alojamiento.md`](Grindelwald/alojamiento.md) · [`transporte.md`](Grindelwald/transporte.md) | Base alpina: First, Bachalpsee, Eiger, Jungfraujoch |
-| [`Lucerna/actividades.md`](Lucerna/actividades.md) · [`transporte.md`](Lucerna/transporte.md) | Stopover de medio día camino a Austria |
-| [`gastronomia.md`](gastronomia.md) · [`contexto_historico.md`](contexto_historico.md) | Regionales (aplican a las 4 bases) |
+| **Interlaken** (`actividades` · `alojamiento` · `transporte`) | Base hub: aventura, lagos, Harder Kulm, conexión total |
+| **Lauterbrunnen** (`actividades` · `alojamiento` · `transporte`) | Base valle: cascadas, Mürren/Gimmelwald, Schilthorn, Via Ferrata |
+| **Grindelwald** (`actividades` · `alojamiento` · `transporte`) | Base alpina: First, Bachalpsee, Eiger, Jungfraujoch |
+| **Lucerna** (`actividades` · `transporte`) | Stopover de medio día camino a Austria |
+| **Regionales** (`gastronomia` · `contexto_historico`) | Aplican a las 4 bases |
 
 **Fuentes oficiales:** SBB `https://www.sbb.ch/en` · Jungfrau Region `https://www.jungfrau.ch/en-gb/` · Webcams `https://www.jungfrau.ch/en-gb/live/webcams/`
 

@@ -133,7 +133,6 @@ Tabernas de vino en las afueras de Viena donde los viticultores venden su propio
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos vieneses, Würstelstand, Beisl, Naschmarkt y hacks de mercados, comida para llevar, supermercados y precios) en [`gastronomia.md`](gastronomia.md).
 >
 > La **cultura del café vienés** y el **Heuriger** mantienen su tratamiento experiencial arriba en este archivo; el ángulo gastronómico (qué pedir, precios) está en `gastronomia.md`.
 

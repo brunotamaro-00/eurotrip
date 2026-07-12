@@ -62,7 +62,6 @@
 ---
 
 ## 🍽️ Gastronomía
-> Detalle completo (platos alsacianos, winstubs, tarte flambée, menú du jour, comida para llevar, supermercados y Marché Couvert) en [`gastronomia.md`](gastronomia.md).
 
 ---
 

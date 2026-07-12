@@ -2,7 +2,7 @@
 
 **Tramo:** bloque Sur de Italia (29 oct - 8 nov 2026, hasta 10 noches) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
 **Presupuesto:** ~$16-30 pp/noche · **Noches sugeridas:** 5-7
-> Fechas y noches **tentativas** (post-Portugal). **Opción recomendada del Sur para noviembre** (clima agradable, todo abierto, muy barato); ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> Fechas y noches **tentativas** (post-Portugal). **Opción recomendada del Sur para noviembre** (clima agradable, todo abierto, muy barato);
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## 🗺️ La región y su geografía
 
-Puglia es el "tacón" de Italia: llana, agrícola, con pueblos blancos y mar a ambos lados. **Bari** (capital, costa Adriática) es el hub de transporte con su casco **Bari Vecchia**. Al sur por el tren: **Polignano a Mare** y **Monopoli** (costa), el **Valle d'Itria** con **Alberobello** (los *trulli*), **Ostuni** (la ciudad blanca) y **Cisternino**. Más al sur, **Lecce** (la "Florencia barroca") y el **Salento** (Otranto, Gallipoli). **Matera** (técnicamente en Basilicata, pero se visita desde Puglia) tiene los **Sassi**, barrios de casas-cueva. Auto recomendado para el Valle d'Itria; Bari-Lecce se hace en tren. Ver [`transporte.md`](transporte.md).
+Puglia es el "tacón" de Italia: llana, agrícola, con pueblos blancos y mar a ambos lados. **Bari** (capital, costa Adriática) es el hub de transporte con su casco **Bari Vecchia**. Al sur por el tren: **Polignano a Mare** y **Monopoli** (costa), el **Valle d'Itria** con **Alberobello** (los *trulli*), **Ostuni** (la ciudad blanca) y **Cisternino**. Más al sur, **Lecce** (la "Florencia barroca") y el **Salento** (Otranto, Gallipoli). **Matera** (técnicamente en Basilicata, pero se visita desde Puglia) tiene los **Sassi**, barrios de casas-cueva. Auto recomendado para el Valle d'Itria; Bari-Lecce se hace en tren.
 
 ---
 
@@ -104,4 +104,3 @@ Puglia es el "tacón" de Italia: llana, agrícola, con pueblos blancos y mar a a
 - Hostels Bari (Hostelworld): `https://www.hostelworld.com/hostels/europe/italy/bari/`
 - Hostels Lecce (Hostelworld): `https://www.hostelworld.com/hostels/europe/italy/lecce/`
 - Hostels Matera (Hostelworld): `https://www.hostelworld.com/hostels/europe/italy/matera/`
-- Comparativa Sur de Italia: [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md)

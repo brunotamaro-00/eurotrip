@@ -1,7 +1,7 @@
 # 🏨 Alojamiento — Lagos Alpinos (Bled / Bohinj)
 
 **Tramo:** loop desde Liubliana (base 11-15 oct 2026) · **Estado:** tentativo · **Viajeros:** 2 · **Moneda:** EUR (€)
-**Referencia de precios (plan 2026):** **~USD 38-55 pp/noche** en Bled (temporada media-alta); Bohinj a veces **~USD 35-48** en habitaciones simples. Ver bloque Eslovenia en [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md).
+**Referencia de precios (plan 2026):** **~USD 38-55 pp/noche** en Bled (temporada media-alta); Bohinj a veces **~USD 35-48** en habitaciones simples.
 > Fechas y noches **tentativas** (post-Portugal). Parte del **loop en auto** desde Liubliana: 0-2 noches según se arme. **Clave: parking incluido + calefacción** (octubre) y salida rápida para miradores.
 
 ---
@@ -16,7 +16,7 @@
 
 ## 🗺️ La zona y su geografía
 
-Dos lagos glaciares en los **Alpes Julianos**, a ~30 min entre sí. **Bled** es el famoso: lago con **isla + iglesia** y un **castillo** en el acantilado; pueblo turístico con todo a mano, paseo peatonal alrededor del lago. **Bohinj** (dentro del **Parque Nacional Triglav**) es más grande, salvaje y tranquilo: base outdoor para Mostnica, la cascada Savica y el teleférico Vogel. La zona de alojamiento en Bohinj se concentra en **Ribčev Laz** y **Stara Fužina** (junto al lago). Cerca de Bled está la garganta **Vintgar** (madrugar conviene). Todo en auto. Ver [`transporte.md`](transporte.md).
+Dos lagos glaciares en los **Alpes Julianos**, a ~30 min entre sí. **Bled** es el famoso: lago con **isla + iglesia** y un **castillo** en el acantilado; pueblo turístico con todo a mano, paseo peatonal alrededor del lago. **Bohinj** (dentro del **Parque Nacional Triglav**) es más grande, salvaje y tranquilo: base outdoor para Mostnica, la cascada Savica y el teleférico Vogel. La zona de alojamiento en Bohinj se concentra en **Ribčev Laz** y **Stara Fužina** (junto al lago). Cerca de Bled está la garganta **Vintgar** (madrugar conviene). Todo en auto.
 
 ---
 

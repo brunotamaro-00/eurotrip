@@ -2,7 +2,7 @@
 
 **Tramo:** Edimburgo 15–18 ago + Highlands 18–25 ago 2026 (10 noches, **fijas**) · **Estado:** fijo · **Moneda:** Libra esterlina (£; **£1 ≈ €1,15**) · **Idioma:** inglés (además *scots* y *gaélico*; acento marcado, sobre todo en Highlands e islas)
 
-> Briefing de Escocia. **La base común a todo Reino Unido** (colas, please/thank you/sorry, manejar por la izquierda → mirar a la derecha, contactless, pub y *round system*, service charge 12,5%, understatement) está en [`costumbres_inglaterra.md`](costumbres_inglaterra.md) — no se repite acá. Este archivo cubre **solo lo que cambia o se suma en Escocia**. Regla de oro: **Escocia NO es Inglaterra**.
+> Briefing de Escocia. **La base común a todo Reino Unido** (colas, please/thank you/sorry, manejar por la izquierda → mirar a la derecha, contactless, pub y *round system*, service charge 12,5%, understatement) está en el briefing de Inglaterra — no se repite acá. Este archivo cubre **solo lo que cambia o se suma en Escocia**. Regla de oro: **Escocia NO es Inglaterra**.
 
 ---
 
@@ -30,12 +30,12 @@
 - **Ceilidh** ⭐ - Baile folk gaélico con música en vivo; si aparece uno, sumarse: es participativo, te enseñan los pasos, nadie juzga. La forma más auténtica de vivir la cultura escocesa.
 - **Whisky (*"a wee dram"*)** ⭐ - Parte del trato social. Lo local: pedir un single malt **sin hielo** o con un chorrito de agua (nunca con Coca — no cae bien). Preguntar la recomendación de la casa es bien visto.
 - **Kilt y Tartan** - El kilt se usa en ocasiones formales (bodas, ceilidhs), no es disfraz; respetarlo. Cada clan tiene su tartán.
-- **Pub como en el resto de UK** - Mismo funcionamiento (barra, cola invisible, round system → ver [`costumbres_inglaterra.md`](costumbres_inglaterra.md)); en Highlands los pubs de pueblo cierran temprano y a veces son el único punto de comida caliente: reservar/llegar con margen.
+- **Pub como en el resto de UK** - Mismo funcionamiento (barra, cola invisible, round system); en Highlands los pubs de pueblo cierran temprano y a veces son el único punto de comida caliente: reservar/llegar con margen.
 
 ## 🗓️ Horarios y feriados — lo que cambia
 
 - **Feriados del tramo** - **Ninguno** cae 15–25 ago 2026 ✓ (el *Summer Bank Holiday* escocés fue el 3-ago, antes de llegar; el inglés del 31-ago es posterior).
-- **⭐ Edimburgo en agosto = Festival Fringe** - El 15-18 ago Edimburgo está en pleno **Fringe / Edinburgh Festival** (el festival de artes más grande del mundo): ciudad desbordada, alojamiento carísimo y lleno, calles tomadas por shows y flyers. Espectacular pero caótico — reservar todo con mucha anticipación (ya en [`Edimburgo/`](Edimburgo/)).
+- **⭐ Edimburgo en agosto = Festival Fringe** - El 15-18 ago Edimburgo está en pleno **Fringe / Edinburgh Festival** (el festival de artes más grande del mundo): ciudad desbordada, alojamiento carísimo y lleno, calles tomadas por shows y flyers. Espectacular pero caótico — reservar todo con mucha anticipación.
 - **Highlands: horarios cortos** - Pueblos con servicios limitados y cocinas que cierran temprano; cargar nafta, efectivo y comida con margen.
 
 ## 🗺️ Diferencias internas
@@ -55,7 +55,7 @@
 
 ## 💡 Cheat sheet
 
-> Lo común a UK (colas, manejar por la izquierda, please/thank you, contactless, pub/round system, 12,5% service charge) → [`costumbres_inglaterra.md`](costumbres_inglaterra.md).
+> Lo común a UK (colas, manejar por la izquierda, please/thank you, contactless, pub/round system, 12,5% service charge)
 
 - **Escocia ≠ Inglaterra:** no decir "England" ni "inglés"; es el error #1.
 - **Billetes escoceses** propios: válidos en toda UK pero a veces rechazados en el sur → gastarlos antes de volver o pagar con tarjeta.

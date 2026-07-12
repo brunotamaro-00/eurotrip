@@ -3,7 +3,6 @@
 **Fechas tentativas:** 19–23 sept 2026 (4 noches) · **Estado:** tentativo (post-Portugal)
 **Perfil de esta base:** el **hub** del valle, entre los lagos Thun y Brienz. No estás "en" los Alpes, pero es la **capital de los deportes de aventura** y el punto desde el que **todo** el resto de la región queda a 20–30 min de tren. **Moneda:** CHF (1 CHF ≈ €1.08).
 
-> Panorama regional y decisión de base en [`../README.md`](../README.md). Gastronomía y contexto en [`../gastronomia.md`](../gastronomia.md) / [`../contexto_historico.md`](../contexto_historico.md).
 > **Con Interlaken como base**, este archivo cubre lo que hay EN Interlaken + los day-trips que más convienen desde acá (los pueblos altos se atacan mejor desde Lauterbrunnen/Grindelwald — ver esas carpetas).
 
 ---
@@ -39,7 +38,7 @@ Interlaken es **la capital europea del deporte de aventura**; esto es lo que la 
 
 ## 🗺️ Day-trips desde Interlaken (lo que esta base hace mejor)
 
-Interlaken es el **nudo de trenes y barcos**: los lagos y los pueblos-museo se atacan mejor desde acá que desde los valles altos. Todo lo de abajo lo cubre Eurail (tren + barco); el "cómo llegar" está en [`transporte.md`](transporte.md).
+Interlaken es el **nudo de trenes y barcos**: los lagos y los pueblos-museo se atacan mejor desde acá que desde los valles altos. Todo lo de abajo lo cubre Eurail (tren + barco).
 
 ### Lagos (la ventaja de Interlaken)
 - [ ] **Lago de Brienz + Iseltwald** - Lago turquesa eléctrico al este; **Iseltwald** (el muelle famoso de la serie coreana *Crash Landing on You*) y **Giessbachfälle** (cascada con funicular histórico y Grandhotel); barco Eurail; **GRATIS** el paseo (funicular Giessbach aparte)
@@ -53,14 +52,14 @@ Interlaken es el **nudo de trenes y barcos**: los lagos y los pueblos-museo se a
 ### Miradores y lagos alpinos (accesibles pero mejor desde otra base)
 - [?] **Schynige Platte → Faulhorn → First** ⭐ - **El trekking 10/10 de la región** (6–7h); el tren de subida sale de **Wilderswil**, a un paso de Interlaken → esta base es **excelente punto de partida**; **CHF 72 (~€78)** tren subida; abierto hasta 25 oct 2026; no hacer con clima incierto
 - [?] **Oeschinensee (Kandersteg)** - El lago alpino más azul de los Berneses; ~1h–1h20 en tren + góndola; **ir solo con cielo azul** (el color cambia radicalmente); desde 2026 suele pedir **reserva de franja horaria** para la góndola `https://oeschinensee.ch/reservation` · webcam `https://www.oeschinensee.ch/en/live/`
-- [ ] **Grindelwald First / Bachalpsee** y **Lauterbrunnen / Mürren / Schilthorn** - Alcanzables en el día desde Interlaken, pero con base propia ahí se aprovechan más → ver [`../Grindelwald/actividades.md`](../Grindelwald/actividades.md) y [`../Lauterbrunnen/actividades.md`](../Lauterbrunnen/actividades.md)
+- [ ] **Grindelwald First / Bachalpsee** y **Lauterbrunnen / Mürren / Schilthorn** - Alcanzables en el día desde Interlaken, pero con base propia ahí se aprovechan más
 - [?] **Berna** - Capital medieval a ~40 min en tren; Zytglogge, las Lauben (6 km de arcadas), foso de los osos; parada de 3–4h sin dormir; Eurail cubre
 
 ---
 
 ## 💰 Actividades de pago — ranking regional
 
-> El ranking completo de teleféricos "caros" (Schynige, First, Schilthorn, Jungfraujoch) está centralizado en [`../README.md`](../README.md#-los-teleféricos-caros--ranking-regional-precioexperiencia). Desde Interlaken, lo más "propio" son los **deportes de aventura** y el **Harder Kulm**.
+> Desde Interlaken, lo más "propio" son los **deportes de aventura** y el **Harder Kulm**.
 
 ---
 

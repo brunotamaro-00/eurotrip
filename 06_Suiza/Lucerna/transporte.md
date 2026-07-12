@@ -3,7 +3,7 @@
 **Cuándo:** 23 sept 2026 (tentativo) · **Estado:** tentativo (post-Portugal) · **Rol:** parada de 3–5h entre trenes, **sin noche**.
 **Encaje:** en vez de ir directo Interlaken → Zürich → Innsbruck, se desvía por Lucerna aprovechando el tren panorámico. **Moneda:** CHF (1 CHF ≈ €1.08).
 
-> El "qué ver" en el stopover está en [`actividades.md`](actividades.md). La logística de salida "base directa" (sin Lucerna) vive en el `transporte.md` de tu base → [`../Interlaken/transporte.md`](../Interlaken/transporte.md) · [`../Lauterbrunnen/transporte.md`](../Lauterbrunnen/transporte.md) · [`../Grindelwald/transporte.md`](../Grindelwald/transporte.md).
+> La logística de salida "base directa" (sin Lucerna) vive en el `transporte.md` de tu base (Interlaken, Lauterbrunnen o Grindelwald).
 > 🛠️ **Obras 2026 Arlberg** (14 jun–14 oct): Railjet Zürich↔Innsbruck **vía St. Gallen**, más lento → chequear el día previo. `https://www.seat61.com/trains-and-routes/zurich-to-innsbruck-via-the-arlberg-railway.htm`
 
 ## 🧭 Resumen rápido
@@ -33,7 +33,7 @@
 
 ## 🎟️ Eurail (este tramo)
 - El **día de salida** ya cuenta como día de pase (lo usás igual para llegar a Innsbruck). Desviarse por Lucerna **no consume un día extra** — es el mismo día de viaje.
-- Ningún tramo del stopover exige reserva obligatoria. → [`../../EURAIL.md`](../../EURAIL.md)
+- Ningún tramo del stopover exige reserva obligatoria.
 
 ## 🧠 Consenso Reddit/Foros
 - **Lockers en la estación = clave del stopover** [viajero] — dejás las maletas y caminás liviano `https://community.ricksteves.com/travel-forum/switzerland/half-day-lucerne-or-zurich`

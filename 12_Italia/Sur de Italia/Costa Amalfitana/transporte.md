@@ -1,10 +1,10 @@
 # 🚆 Transporte en la Costa Amalfitana
 
 **Fechas:** dentro de las 10 noches del Sur (~29 oct – 8 nov 2026) · **Estado:** tentativo (post-Portugal; **opción/desvío** del Sur de Italia)
-**Llegada:** desde **Nápoles** en **Circumvesuviana a Sorrento** (~1h10, €4.40) → detalle en [`../../Napoles/transporte.md`](../../Napoles/transporte.md)
+**Llegada:** desde **Nápoles** en **Circumvesuviana a Sorrento** (~1h10, €4.40)
 **Salida:** volver a **Nápoles** (Circumvesuviana) o seguir a **Puglia** (Bari) según ruta · ver Salida
 
-> 📍 Tramo tentativo y **opción/desvío** del Sur (más corto que Puglia/Sicilia/Calabria; suele combinarse con Nápoles). Re-verificar al confirmar fechas. Ver [`../SUR_DE_ITALIA_OPCIONES.md`](../SUR_DE_ITALIA_OPCIONES.md).
+> 📍 Tramo tentativo y **opción/desvío** del Sur (más corto que Puglia/Sicilia/Calabria; suele combinarse con Nápoles). Re-verificar al confirmar fechas.
 
 ## 🧭 Resumen rápido
 
@@ -89,7 +89,7 @@ La Costa Amalfitana es una de las pocas zonas de Italia donde el auto **juega en
 
 ## 🎟️ Eurail (este tramo)
 
-> Detalle en [`../../../EURAIL.md`](../../../EURAIL.md).
+>
 - La Costa Amalfitana se mueve con **Circumvesuviana (EAV, fuera de Eurail) + buses SITA + ferries** → **0 días de Eurail**.
 - **Días de Eurail en la Costa Amalfitana: 0.**
 

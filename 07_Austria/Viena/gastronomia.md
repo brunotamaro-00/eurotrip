@@ -6,7 +6,7 @@
 
 > Viena es **cara ($$$)** pero tiene trucos: **Würstelstand** (salchichas, patrimonio UNESCO, ~€5), **Beisl** (taberna vienesa con Tagesteller/Mittagsmenü €8-12), **Naschmarkt** entre semana y panaderías. La experiencia gastronómica top del viaje es el **Heuriger** (taberna de vino) — ver actividades.
 
-> Café vienés y Heuriger tienen su tratamiento experiencial en [`actividades.md`](actividades.md); acá va el ángulo gastronómico (qué pedir, precios).
+> Café vienés y Heuriger tienen su tratamiento experiencial aparte; acá va el ángulo gastronómico (qué pedir, precios).
 
 ---
 

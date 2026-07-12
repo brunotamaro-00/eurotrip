@@ -26,7 +26,6 @@
 
 ## 🍽️ Etiqueta en la mesa
 
-> Solo etiqueta — el qué/dónde comer (burek, potica, gostilne, Mercado de Plečnik) vive en [`Liubliana/gastronomia.md`](Liubliana/gastronomia.md).
 
 - **Agua del grifo excelente** - Liubliana es famosa por su agua; las fuentes públicas son potables y seguras. Pedir agua del grifo en restaurante es aceptable (aunque puede que traigan embotellada por defecto).
 - **La cuenta se pide** - No la traen sola; contacto visual y *"Račun, prosim"*. Separar la cuenta es normal.
@@ -37,11 +36,10 @@
 - **Inglés muy extendido** - Sobre todo entre jóvenes y en el turismo; los eslovenos suelen hablar además italiano, alemán o croata según la zona. Valoran mucho el intento con su idioma: *"Dober dan"* (buenos días), *"Hvala"* (gracias), *"Prosim"* (por favor).
 - **Trato formal al saludar** - Apretón de manos firme con **contacto visual** y una sonrisa; se usa **"Gospa"** (señora) / **"Gospod"** (señor) y se espera invitación antes de tutear. Espacio personal amplio; poco contacto físico con desconocidos.
 - **⚠️ No es Eslovaquia ni "los Balcanes en guerra"** ⭐ - Confundir Eslovenia (*Slovenia*) con Eslovaquia (*Slovakia*) es el clásico que fastidia. Y aunque fue parte de Yugoslavia, se independizó en 1991 con una guerra de **10 días** (casi sin combate en su suelo): asociarla a la guerra de los Balcanes de los 90 es un error. Es alpina, de la UE y la eurozona, próspera.
-- **Frases básicas** → [`../recursos/frases_utiles.md`](../recursos/frases_utiles.md).
 
 ## 🚶 Espacio público y normas
 
-- **⚠️ Viñeta (e-vinjeta) obligatoria si alquilás auto** ⭐ - Para circular por autopistas hace falta la **viñeta electrónica**; muchos rentals la incluyen, pero **confirmar la patente al retirar** (`evinjeta.dars.si`). Multa **€300-800** por circular sin ella. Detalle en [`Liubliana/transporte.md`](Liubliana/transporte.md).
+- **⚠️ Viñeta (e-vinjeta) obligatoria si alquilás auto** ⭐ - Para circular por autopistas hace falta la **viñeta electrónica**; muchos rentals la incluyen, pero **confirmar la patente al retirar** (`evinjeta.dars.si`). Multa **€300-800** por circular sin ella.
 - **Bus urbano con tarjeta Urbana** - En Liubliana los buses LPP se pagan con la tarjeta prepaga **Urbana** (o app), con transbordos gratis en 90 min; ⚠️ pagando con tarjeta bancaria a bordo **se pierde el transbordo gratis**.
 - **Naturaleza intocable** - Cultura ambiental fuerte: no dejar basura, respetar senderos, reciclaje en serio. Muchos cascos (Piran, cuevas) son *car-free*: se estaciona fuera y se entra a pie o en shuttle.
 - **Orden y silencio** - Trenes/buses callados; no cruzar en rojo. Alcohol al volante: límite bajísimo (0,0 para noveles).
