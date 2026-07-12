@@ -98,7 +98,7 @@
 
 ### Día "suave" (lagos y pueblos)
 
-- [?] **Titisee** - El lago más famoso de la Selva Negra; baño, barcas de alquiler y paseo por el borde; el pueblo junto al lago es turístico pero el lago en sí es bello; 30min desde Friburgo en tren directo — "ir temprano o fuera de hora pico para disfrutarlo; a mediodía en agosto es el peor; en septiembre más tranquilo" (r/germany)
+- [x] **Titisee** - El lago más famoso de la Selva Negra; baño, barcas de alquiler y paseo por el borde; el pueblo junto al lago es turístico pero el lago en sí es bello; 30min desde Friburgo en tren directo — "ir temprano o fuera de hora pico para disfrutarlo; a mediodía en agosto es el peor; en septiembre más tranquilo" (r/germany)
 - [ ] **Schluchsee** - El lago más grande y más tranquilo que Titisee; agua de montaña para nadar en verano; menos tiendas de recuerdos y más silencio; 40min en bus desde Friburgo — "si tuvieras que elegir entre Titisee y Schluchsee, los locales eligen siempre Schluchsee" (múltiples posts r/germany)
 - [ ] **Staufen im Breisgau** - El pueblo de los viñedos más cercano a Friburgo (15min en tren); calles medievales, bodegas abiertas para cata en septiembre (vendimia), el mejor paseo tranquilo si no se quiere naturaleza pero sí vino y pueblo (GRATIS; tren desde Friburgo ~€5)
 - [ ] **Breisach am Rhein** - El pueblo sobre el Rin con la catedral medieval en lo alto; desde Friburgo en 20min; cruzar el puente al lado alemán con vistas al viñedo del Kaiserstuhl (tren ~€5)

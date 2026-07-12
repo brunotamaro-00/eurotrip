@@ -9,27 +9,15 @@
 
 ---
 
-## ⚠️ Precios Oficiales Verificados (2026)
-
-- **Livraria Lello** — ticket Silver **€10** (voucher canjeable por libro); Gold **€15.95** (incluye 1 libro Livraria Lello Edition) — en temporada alta las filas son largas; ir al abrir (9:30am) o después de las 17h `https://www.livrarialello.pt/en/store/ticket-voucher`
-- **Torre dos Clérigos (Tower + Museum)** — Day Ticket **€10** adulto (estudiantes €7; menores 10 gratis) `https://www.torredosclerigos.pt/en/ticket-office/`
-- **Palácio da Bolsa (visita guiada ~45min)** — **€10** adulto (student/senior €6.50; <12 gratis) — visita guiada obligatoria; en inglés, portugués, español y francés; grupos según idioma y orden de llegada `https://palaciodabolsa.com/en/tourism/`
-- **Sandeman (Gaia)** — visita básica **€23** (50min, 3 vinos); experiencias premium €32-€53+ `https://www.sandeman.com/port-wine/visit/cellars-porto/`
-- **Graham's (1890 Lodge, Gaia)** — visita+tasting desde **€30** (premium €40-45; Vintage Room desde €60) `https://www.grahams-port.com/`
-- **Igreja/Museu de São Francisco** — precio no publicado en web; confirmar en bilheteira `https://ordemsaofranciscoporto.pt/igrejas/`
-- **Crucero "6 puentes" Douro (50min)** — **~€15** adulto online `https://www.cruzeiros-douro.pt/`
-
----
-
 ## 🏛️ Monumentos y Patrimonio
 
-- [ ] **Estação de São Bento** ⭐ - La estación de tren más hermosa del mundo; 20.000 paneles de azulejo que narran escenas históricas de Portugal pintados por Jorge Colaço (1900-1916); visitar aunque no se tome ningún tren (GRATIS) — "entrar a São Bento es obligatorio y es gratis; es uno de los mejores 15 minutos de Porto" (r/TravelPortugal)
+- [x] **Estação de São Bento** ⭐ - La estación de tren más hermosa del mundo; 20.000 paneles de azulejo que narran escenas históricas de Portugal pintados por Jorge Colaço (1900-1916); visitar aunque no se tome ningún tren (GRATIS) — "entrar a São Bento es obligatorio y es gratis; es uno de los mejores 15 minutos de Porto" (r/TravelPortugal)
 - [ ] **Livraria Lello** - La librería más bella del mundo; escalera central de madera tallada en rojo carmesí, techo de cristal emplomado, balcones de hierro forjado; inspiración parcial de Hogwarts según algunos autores (**€10** Silver o **€15.95** Gold, descontable en libros) — ir al abrir (9:30am) o después de las 17h para evitar el pico 11am-15pm `https://www.livrarialello.pt/`
 - [ ] **Torre dos Clérigos** - La torre barroca de 76m del s. XVIII; símbolo del skyline de Porto; vistas sobre los tejados de tejas naranjas y el Douro desde arriba (**€10** adulto) — subida por escalera en espiral estrecha; las vistas desde el exterior del campanario son para los que no sufren vértigo `https://www.torredosclerigos.pt/`
 - [ ] **Palácio da Bolsa (Bolsa Palace)** - El Palacio de la Bolsa del s. XIX de la Asociación Comercial de Porto; la Sala Árabe (inspirada en la Alhambra, con inscripciones árabes que dicen "Gloria a Alá" en un edificio cristiano) es absolutamente impresionante (**€10** adulto; visita guiada obligatoria ~45min) `https://palaciodabolsa.com/`
-- [ ] **Igreja de São Francisco** - La iglesia gótica del s. XIV con el interior dorado más impactante de Portugal; 200kg de oro en talla barroca del s. XVIII; cripta y ossario (precio a confirmar en bilheteira) `https://ordemsaofranciscoporto.pt/igrejas/`
-- [ ] **Sé do Porto (Catedral)** - La catedral románica del s. XII en la cima de la colina; claustro con azulejos del s. XVIII; altar barroco de plata; terraza con vistas (GRATIS exterior; claustro **~€3**) `https://www.diocese-porto.pt/`
-- [ ] **Ponte Dom Luís I** - El puente de hierro doble de Eiffel sobre el Douro (1886); el nivel superior es peatonal con vistas incomparables a la Ribeira y las bodegas de Gaia; el nivel inferior tiene el tranvía y más tráfico — cruzar por el nivel superior para la vista (GRATIS)
+- [?] **Igreja de São Francisco** - La iglesia gótica del s. XIV con el interior dorado más impactante de Portugal; 200kg de oro en talla barroca del s. XVIII; cripta y ossario (precio a confirmar en bilheteira) `https://ordemsaofranciscoporto.pt/igrejas/`
+- [x] **Sé do Porto (Catedral)** - La catedral románica del s. XII en la cima de la colina; claustro con azulejos del s. XVIII; altar barroco de plata; terraza con vistas (GRATIS exterior; claustro **~€3**) `https://www.diocese-porto.pt/`
+- [x] **Ponte Dom Luís I** - El puente de hierro doble de Eiffel sobre el Douro (1886); el nivel superior es peatonal con vistas incomparables a la Ribeira y las bodegas de Gaia; el nivel inferior tiene el tranvía y más tráfico — cruzar por el nivel superior para la vista (GRATIS)
 - [ ] **Alfândega do Porto (Museu do Douro)** - El edificio aduanero neoclásico reconvertido en museo y centro de convenciones; fachada impresionante sobre el río (GRATIS ver exterior)
 - [ ] **Igreja do Carmo + Carmelitas** - Las dos iglesias gemelas del s. XVIII separadas por la casa más estrecha de Porto (1.30m de ancho); azulejos azules en la fachada de do Carmo son icónicos (GRATIS ver exterior; visita interior sin costo fijo)
 
@@ -55,9 +43,9 @@
 
 ## 🗺️ Barrios para Explorar
 
-- [ ] **Ribeira** ⭐ - El corazón histórico de Porto; callejuelas medievales que bajan al río, azulejos en las fachadas, el paseo del Cais da Ribeira; Patrimonio UNESCO; mejor temprano mañana (antes de 9am) para las fotos sin multitudes (GRATIS explorar)
+- [x] **Ribeira** ⭐ - El corazón histórico de Porto; callejuelas medievales que bajan al río, azulejos en las fachadas, el paseo del Cais da Ribeira; Patrimonio UNESCO; mejor temprano mañana (antes de 9am) para las fotos sin multitudes (GRATIS explorar)
 - [ ] **Bonfim** - El barrio de moda de Porto; antiguas fábricas reconvertidas en restaurantes, tiendas de diseño, galerías; el Brooklyn de Porto; sin turistas masivos (GRATIS explorar)
-- [ ] **Cedofeita** - El barrio de las librerías y las tiendas independientes de Porto; cafés artesanales, anticuarios, museos pequeños; el corazón cultural alternativo de la ciudad (GRATIS explorar)
+- [x] **Cedofeita** - El barrio de las librerías y las tiendas independientes de Porto; cafés artesanales, anticuarios, museos pequeños; el corazón cultural alternativo de la ciudad (GRATIS explorar)
 - [ ] **Foz do Douro** - La desembocadura del Douro en el océano Atlántico; costa rocosa, faro, el Jardim da Sereia; el paseo de los portenses los domingos; excelente para cenar mariscos (GRATIS explorar; metro o bus desde el centro)
 - [ ] **Matosinhos** - El pueblo pesquero a 15min en metro; la playa de surf, la Mercado Municipal, los mejores restaurantes de mariscos de Porto (a mejor precio que la Ribeira) (GRATIS explorar; metro línea A)
 - [ ] **Gaia (Vila Nova de Gaia)** - El barrio de las bodegas al otro lado del Douro; miradores sobre Porto desde la ribera norte de Gaia; el teleférico de Gaia opcional (GRATIS explorar; bodegas con precio aparte)
@@ -66,11 +54,11 @@
 
 ## 🌿 Parques y Miradores
 
-- [ ] **Jardim das Virtudes** ⭐ - El parque favorito de los estudiantes de Porto; terraza en pendiente con vistas al Douro y la Ribeira; llegada de universitarios al atardecer con mantas, cervezas y guitarras — "el lugar donde vas a entender cómo vive realmente Porto" (r/TravelPortugal) (GRATIS) — llegar antes de las 18h para conseguir sitio en la hierba
-- [ ] **Jardins do Palácio de Cristal** - Jardines del s. XIX con pabellón sobre la colina y vistas al Douro; pavos reales sueltos; tranquilo y sin turistas (GRATIS)
+- [?] **Jardim das Virtudes** ⭐ - El parque favorito de los estudiantes de Porto; terraza en pendiente con vistas al Douro y la Ribeira; llegada de universitarios al atardecer con mantas, cervezas y guitarras — "el lugar donde vas a entender cómo vive realmente Porto" (r/TravelPortugal) (GRATIS) — llegar antes de las 18h para conseguir sitio en la hierba
+- [?] **Jardins do Palácio de Cristal** - Jardines del s. XIX con pabellón sobre la colina y vistas al Douro; pavos reales sueltos; tranquilo y sin turistas (GRATIS)
 - [ ] **Miradouro da Serra do Pilar (Gaia)** - El mirador desde el otro lado del Douro; circular, sobre el convento; la panorámica más completa de Porto (GRATIS desde el exterior; interior del convento a veces visitable)
 - [ ] **Teleférico de Gaia** - Cabina aérea que baja desde Serra do Pilar hasta el río en Gaia; vistas del Douro en cámara lenta (**~€6** adulto one-way / **~€9** ida-vuelta) `https://www.gaiateleférico.pt/`
-- [ ] **Jardim do Morro (Gaia)** - El parque elevado al pie del teleférico con vistas a Porto (GRATIS)
+- [?] **Jardim do Morro (Gaia)** - El parque elevado al pie del teleférico con vistas a Porto (GRATIS)
 
 ---
 
@@ -210,6 +198,18 @@
 - **Matosinhos > Ribeira para mariscos** — "el 80% de los turistas come mariscos en la Ribeira pagando el doble; los que investigan van a Matosinhos donde comen los locales y es otra experiencia" (r/TravelPortugal, blogs de viaje)
 - **Vila Nova de Gaia desde el otro lado** — "cruzar el Dom Luís I a pie por el nivel superior y ver Porto desde Gaia es una de las mejores perspectivas de viaje de Portugal" (r/solotravel, r/travel)
 - **"Porto en 3 días es suficiente, en 4 es perfecto"** — consenso general en r/TravelPortugal: la ciudad es compacta pero densa en calidad; 3 días cubre lo esencial sin correr
+
+---
+
+## ⚠️ Precios Oficiales Verificados (2026)
+
+- **Livraria Lello** — ticket Silver **€10** (voucher canjeable por libro); Gold **€15.95** (incluye 1 libro Livraria Lello Edition) — en temporada alta las filas son largas; ir al abrir (9:30am) o después de las 17h `https://www.livrarialello.pt/en/store/ticket-voucher`
+- **Torre dos Clérigos (Tower + Museum)** — Day Ticket **€10** adulto (estudiantes €7; menores 10 gratis) `https://www.torredosclerigos.pt/en/ticket-office/`
+- **Palácio da Bolsa (visita guiada ~45min)** — **€10** adulto (student/senior €6.50; <12 gratis) — visita guiada obligatoria; en inglés, portugués, español y francés; grupos según idioma y orden de llegada `https://palaciodabolsa.com/en/tourism/`
+- **Sandeman (Gaia)** — visita básica **€23** (50min, 3 vinos); experiencias premium €32-€53+ `https://www.sandeman.com/port-wine/visit/cellars-porto/`
+- **Graham's (1890 Lodge, Gaia)** — visita+tasting desde **€30** (premium €40-45; Vintage Room desde €60) `https://www.grahams-port.com/`
+- **Igreja/Museu de São Francisco** — precio no publicado en web; confirmar en bilheteira `https://ordemsaofranciscoporto.pt/igrejas/`
+- **Crucero "6 puentes" Douro (50min)** — **~€15** adulto online `https://www.cruzeiros-douro.pt/`
 
 ---
 

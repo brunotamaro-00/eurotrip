@@ -21,15 +21,14 @@
 
 ## 🏰 Monumentos y Patrimonio
 
-- [ ] **Mosteiro dos Jerónimos** ⭐ - La obra maestra del estilo manuelino (arquitectura única del s. XVI que fusiona gótico con motivos náuticos y orientales); claustro de dos plantas que es uno de los más bellos de Europa; sepulcros de Vasco da Gama y Luís de Camões; iglesia GRATIS — **€18** adulto (claustros y exposición) / iglesia GRATIS — reservar online obligatorio desde junio 2026; llegar en apertura para el claustro sin masas `https://www.jeronimosmonastery.com/`
-- [ ] **Torre de Belém** - La torre del s. XVI que vigilaba la entrada del Tajo; símbolo de Lisboa; arquitectura manuelina en la orilla del río; reabrió mayo 2026 con entrada controlada (**€15** adulto) — reservar online con anticipación; tope de 60 personas por franja de 30min `https://torrebelem.com/en/`
+- [x] **Mosteiro dos Jerónimos** ⭐ - La obra maestra del estilo manuelino (arquitectura única del s. XVI que fusiona gótico con motivos náuticos y orientales); claustro de dos plantas que es uno de los más bellos de Europa; sepulcros de Vasco da Gama y Luís de Camões; iglesia GRATIS — **€18** adulto (claustros y exposición) / iglesia GRATIS — reservar online obligatorio desde junio 2026; llegar en apertura para el claustro sin masas `https://www.jeronimosmonastery.com/`
+- [?] **Torre de Belém** - La torre del s. XVI que vigilaba la entrada del Tajo; símbolo de Lisboa; arquitectura manuelina en la orilla del río; reabrió mayo 2026 con entrada controlada (**€15** adulto) — reservar online con anticipación; tope de 60 personas por franja de 30min `https://torrebelem.com/en/`
 - [ ] **Padrão dos Descobrimentos** - El monumento de 1960 en forma de proa de barco conmemorando los navegantes portugueses; subida a la plataforma con vistas a Belém, el Tajo y el Jerónimos (**~€10** adulto) `https://www.padraodosdescobrimentos.pt/`
-- [ ] **Castelo de São Jorge** - El castillo morisco-medieval en la cima de la colina de Alfama; vistas panorámicas de Lisboa; exposición arqueológica con hallazgos del s. I-XI (**€15** adulto; 13-25 años €7.50) — reservar online en BOL `https://castelodesaojorge.pt/`
-- [ ] **Arco da Rua Augusta** - El arco neoclásico del s. XIX que da acceso a la Praça do Comércio; subida a la plataforma con vistas de los tejados de la Baixa (~**€2.50** adulto) `https://www.arcadaruaaugusta.com/`
-- [ ] **Convento do Carmo** - Las ruinas de la nave del s. XV abiertas al cielo tras el terremoto de 1755; esqueletos y momias en el interior; uno de los lugares más únicos de la ciudad (**~€5** adulto) `https://www.museuarqueologicodocarmo.pt/`
-- [ ] **Igreja de São Roque** - La iglesia jesuita del s. XVI con el interior barroco más dorado y elaborado de Lisboa; la Capilla de São João Baptista es un prodigio de lapislázuli, ágata y mármol (GRATIS) — desconocida por la mayoría de turistas; está en el Bairro Alto
-- [ ] **Igreja de São Francisco (Porto Ref.)** - Ver Porto actividades.md
-- [ ] **Sé de Lisboa** - La catedral románica más antigua de la ciudad (s. XII); exterior imponente en la colina de Alfama; claustro y tesouro opcionales (GRATIS exterior; **~€3** claustro) `https://www.sedelisboa.pt/`
+- [?] **Castelo de São Jorge** - El castillo morisco-medieval en la cima de la colina de Alfama; vistas panorámicas de Lisboa; exposición arqueológica con hallazgos del s. I-XI (**€15** adulto; 13-25 años €7.50) — reservar online en BOL `https://castelodesaojorge.pt/`
+- [x] **Arco da Rua Augusta** - El arco neoclásico del s. XIX que da acceso a la Praça do Comércio; subida a la plataforma con vistas de los tejados de la Baixa (~**€2.50** adulto) `https://www.arcadaruaaugusta.com/`
+- [?] **Convento do Carmo** - Las ruinas de la nave del s. XV abiertas al cielo tras el terremoto de 1755; esqueletos y momias en el interior; uno de los lugares más únicos de la ciudad (**~€5** adulto) `https://www.museuarqueologicodocarmo.pt/`
+- [?] **Igreja de São Roque** - La iglesia jesuita del s. XVI con el interior barroco más dorado y elaborado de Lisboa; la Capilla de São João Baptista es un prodigio de lapislázuli, ágata y mármol (GRATIS) — desconocida por la mayoría de turistas; está en el Bairro Alto
+- [x] **Sé de Lisboa** - La catedral románica más antigua de la ciudad (s. XII); exterior imponente en la colina de Alfama; claustro y tesouro opcionales (GRATIS exterior; **~€3** claustro) `https://www.sedelisboa.pt/`
 
 ---
 
@@ -59,12 +58,12 @@
 
 ## 🗺️ Barrios para Explorar
 
-- [ ] **Alfama** ⭐ - El barrio más auténtico de Lisboa; laberinto de callejuelas moriscas del s. VIII, ropa tendida entre casas, gatos durmiendo en escalones; mejor muy temprano (antes de las 8am) o tarde (después de las 18h) para vivir el barrio sin masas — "Alfama a las 7am es otra ciudad; los locales pasean, los gatos duermen en la puerta, las viejitas charlan en las ventanas" (r/LisbonPortugalTravel) (GRATIS)
-- [ ] **Baixa / Chiado** - El centro monumental reconstruido tras el terremoto de 1755; Praça do Comércio al río, Rossio en el centro, el Chiado como zona de cafés y boutiques; la columna vertebral turística de Lisboa (GRATIS explorar)
-- [ ] **Mouraria** - El barrio morisco original, más auténtico que Alfama con la mitad de turistas; multicultural, con restaurantes de todo el mundo, la escena de fado más genuina (GRATIS explorar)
-- [ ] **Bairro Alto** - El barrio de los bares; cientos de bares en calles estrechas, animado de noche; de día es silencioso y con algunas de las mejores tiendas vintage; junto a la Igreja de São Roque (GRATIS explorar)
+- [x] **Alfama** ⭐ - El barrio más auténtico de Lisboa; laberinto de callejuelas moriscas del s. VIII, ropa tendida entre casas, gatos durmiendo en escalones; mejor muy temprano (antes de las 8am) o tarde (después de las 18h) para vivir el barrio sin masas — "Alfama a las 7am es otra ciudad; los locales pasean, los gatos duermen en la puerta, las viejitas charlan en las ventanas" (r/LisbonPortugalTravel) (GRATIS)
+- [x] **Baixa / Chiado** - El centro monumental reconstruido tras el terremoto de 1755; Praça do Comércio al río, Rossio en el centro, el Chiado como zona de cafés y boutiques; la columna vertebral turística de Lisboa (GRATIS explorar)
+- [?] **Mouraria** - El barrio morisco original, más auténtico que Alfama con la mitad de turistas; multicultural, con restaurantes de todo el mundo, la escena de fado más genuina (GRATIS explorar)
+- [x] **Bairro Alto** - El barrio de los bares; cientos de bares en calles estrechas, animado de noche; de día es silencioso y con algunas de las mejores tiendas vintage; junto a la Igreja de São Roque (GRATIS explorar)
 - [ ] **Príncipe Real** - El barrio más elegante de Lisboa; plazas arboladas, cafés artesanales de especialidad, tiendas de diseño independiente, el mejor mercado orgánico (Sábado) (GRATIS explorar)
-- [ ] **Belém** - La zona monumental junto al río; Jerónimos, Torre de Belém, MAAT, los Pastéis originales; medio día para verlo todo (GRATIS explorar; entradas aparte)
+- [?] **Belém** - La zona monumental junto al río; Jerónimos, Torre de Belém, MAAT, los Pastéis originales; medio día para verlo todo (GRATIS explorar; entradas aparte)
 - [ ] **Cais do Sodré** - La zona nocturna de Lisboa; Mercado da Ribeira (Time Out Market) + la Pink Street (Rua Nova do Carvalho) con bares pintados de rosa; el Martim Moniz del turismo gentrificado (GRATIS explorar)
 - [ ] **Campo de Ourique** - El barrio residencial más querido por los locales; sin turistas, con el Mercado de Campo de Ourique (alternativa más auténtica al Time Out), cafés de barrio y el tranvía 25E (GRATIS explorar)
 - [ ] **LX Factory** - Complejo de fábricas reconvertidas bajo el Puente 25 de Abril; tiendas independientes, restaurantes, galería; **mejor el domingo** cuando hay feria de segunda mano (GRATIS entrar) `https://www.lxfactory.com/`
@@ -121,7 +120,7 @@
 - **Solo/seguridad (importante este tramo):** Lisboa es de las capitales más seguras para salir; aun así, de madrugada usar **Bolt/Uber** para volver (no taxis de calle, ver Tips), y cuidar el celular en la multitud de Pink Street
 - **Día fuerte:** vie-sáb; Bairro Alto late todas las noches en temporada
 
-- [ ] **Sintra** ⭐ - Los palacios de cuento de hadas entre pinos y niebla a 40min en tren; Palácio da Pena (amarillo y rojo, obligatorio), Castelo dos Mouros (ruinas medievales con vistas), Palácio Nacional de Sintra (en el pueblo) — **ir entre semana** (mar-jue); en fin de semana es caótico incluso en sept; comprar tickets online días antes; tren desde Rossio o Oriente `https://www.parquesdesintra.pt/`
+- [x] **Sintra** ⭐ - Los palacios de cuento de hadas entre pinos y niebla a 40min en tren; Palácio da Pena (amarillo y rojo, obligatorio), Castelo dos Mouros (ruinas medievales con vistas), Palácio Nacional de Sintra (en el pueblo) — **ir entre semana** (mar-jue); en fin de semana es caótico incluso en sept; comprar tickets online días antes; tren desde Rossio o Oriente `https://www.parquesdesintra.pt/`
 - [ ] **Cascais + Costa de Estoril** - El pueblo costero elegante a 40min en tren; playa, centro histórico, fortaleza; la línea de Cascais desde Cais do Sodré es uno de los recorridos en tren más bonitos de Europa (tren incluido en Lisboa Card o ~€2.40 con Viva Viagem)
 - [ ] **Sesimbra / Arrábida** - Las playas de agua azul-verde más impresionantes cerca de Lisboa; acantilados del Parque Natural; requiere bus o coche (sin tren directo) — opción si el tiempo está bueno
 - [ ] **Setúbal** - Puerto pesquero con buena gastronomía y acceso al Parque Natural da Arrábida

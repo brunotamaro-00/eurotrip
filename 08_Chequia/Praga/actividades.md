@@ -9,18 +9,18 @@
 
 ## 📍 Imprescindibles (mayoría gratis)
 
-- [ ] **Puente de Carlos (Karlův most)** - Gratis; 30 estatuas barrocas; construido en 1357; **ir al amanecer (5:30-7am)** para fotos sin turistas y con niebla sobre el Moldava — de día es literalmente un mercado ambulante de vendedores; por la noche tiene magia pero también músicos y vendedores; el amanecer es el dato más repetido en r/prague sin excepción
-- [ ] **Castillo de Praga (Hradčany)** - El castillo habitado más grande del mundo por área; los **patios y jardines son GRATIS** (acceso directo desde la calle, siempre abiertos); los interiores requieren ticket:
+- [x] **Puente de Carlos (Karlův most)** - Gratis; 30 estatuas barrocas; construido en 1357; **ir al amanecer (5:30-7am)** para fotos sin turistas y con niebla sobre el Moldava — de día es literalmente un mercado ambulante de vendedores; por la noche tiene magia pero también músicos y vendedores; el amanecer es el dato más repetido en r/prague sin excepción
+- [x] **Castillo de Praga (Hradčany)** - El castillo habitado más grande del mundo por área; los **patios y jardines son GRATIS** (acceso directo desde la calle, siempre abiertos); los interiores requieren ticket:
   - **Circuito B** (Catedral San Vito + Palacio Real Viejo + Basílica San Jorge + Callejón del Oro): **~350 CZK** adultos; válido 2 días consecutivos
   - **Circuito A** (incluye además Treasury + Torre de la Pólvora del Castillo): **~450 CZK** adultos
   - Verificar precios actualizados en hrad.cz (cambian regularmente)
   - Si el presupuesto aprieta: los patios y la vista desde la colina sobre la ciudad valen sin pagar nada
   `https://www.hrad.cz/en/prague-castle-for-visitors/tickets`
 - [ ] **Reloj Astronómico (Orloj)** - Gratis exterior; el desfile de figuras ocurre cada hora en punto (9am-11pm) — el consenso de r/prague es que el "show" del Orloj es uno de los grandes chascos turísticos (las figuras son pequeñas y lentas); más interesante subir la **torre del Ayuntamiento** (del mismo edificio) para vistas 360° sobre la Plaza Vieja: **~250 CZK**
-- [ ] **Plaza de la Ciudad Vieja (Staroměstské náměstí)** - Gratis; corazón medieval de Praga con arquitecturas del s. XII-XVIII lado a lado; imprescindible aunque sea turístico — pisar el adoquín temprano (7-8am) o muy tarde (22h+) para vivirlo sin multitudes; de día en hora punta es difícil moverse
-- [ ] **Barrio Judío (Josefov)** - El barrio judío mejor conservado de Europa Central; combo (4 sinagogas: Maisel, Pinkas, Española, Staronová + Cementerio Judío Viejo): **700 CZK** (~€28); audioguía +**250 CZK**; válido 3 días; **cerrado sábados** — el **Cementerio Viejo** es uno de los lugares más sobrecogedores de toda Europa: 12 capas de enterramientos superpuestas a lo largo de 300 años; el Josefov vale el precio según prácticamente todo r/prague `https://www.jewishmuseum.cz/en/info/visit/admission/`
+- [x] **Plaza de la Ciudad Vieja (Staroměstské náměstí)** - Gratis; corazón medieval de Praga con arquitecturas del s. XII-XVIII lado a lado; imprescindible aunque sea turístico — pisar el adoquín temprano (7-8am) o muy tarde (22h+) para vivirlo sin multitudes; de día en hora punta es difícil moverse
+- [x] **Barrio Judío (Josefov)** - El barrio judío mejor conservado de Europa Central; combo (4 sinagogas: Maisel, Pinkas, Española, Staronová + Cementerio Judío Viejo): **700 CZK** (~€28); audioguía +**250 CZK**; válido 3 días; **cerrado sábados** — el **Cementerio Viejo** es uno de los lugares más sobrecogedores de toda Europa: 12 capas de enterramientos superpuestas a lo largo de 300 años; el Josefov vale el precio según prácticamente todo r/prague `https://www.jewishmuseum.cz/en/info/visit/admission/`
 - [ ] **Muro de John Lennon** - Gratis; grafitis y mensajes de paz que cubren un muro de 5m de alto en Malá Strana; está a 5min del Puente de Carlos; cambia constantemente (cualquiera puede pintar)
-- [ ] **Colina Petřín** - Los jardines de la colina más verde de Praga; vistas panorámicas sobre la ciudad
+- [?] **Colina Petřín** - Los jardines de la colina más verde de Praga; vistas panorámicas sobre la ciudad
   - **Torre Petřín (Rozhledna):** minirréplica de la Torre Eiffel a escala 1:5; **250 CZK** subir a pie / **400 CZK** con el ascensor interior; las vistas son probablemente las mejores de Praga
   - **Funicular (Lanová dráha):** estaba en reconstrucción hasta spring 2026; verificar estado actualizado en dpp.cz antes de ir — si reabrió ya puede que funcione en octubre; si no, subir a pie desde el Jardín Kinský (30-40min, agradable)
   `https://www.dpp.cz/en/restrictions-and-emergencies/detail/24428`
@@ -29,18 +29,18 @@
 
 ## 🌇 Barrios y Vistas Locales (más allá del centro)
 
-- [ ] **Malá Strana (Ciudad Pequeña)** - El barrio más bohemio y fotogénico de Praga; calles adoquinadas bajo el Castillo; muchos jardines barrocos privados abiertos al público en verano; mucho más tranquilo que la Ciudad Vieja; base ideal para subir al Castillo a pie; Kampa Island y el Moldava desde el parque adyacente al Puente de Carlos
-- [ ] **Vinohrady** - El mejor barrio para vivir Praga "como un local": Art Nouveau, restaurantes y cafés de calidad, sin turistas, parques preciosos
-  - [ ] **Riegrovy Sady:** el beer garden del parque con **vistas al Castillo** desde la terraza occidental; "el plan favorito de los locales para después del trabajo"; atardecer espectacular; **GRATIS** entrar; cerveza a precio local
+- [x] **Malá Strana (Ciudad Pequeña)** - El barrio más bohemio y fotogénico de Praga; calles adoquinadas bajo el Castillo; muchos jardines barrocos privados abiertos al público en verano; mucho más tranquilo que la Ciudad Vieja; base ideal para subir al Castillo a pie; Kampa Island y el Moldava desde el parque adyacente al Puente de Carlos
+- [?] **Vinohrady** - El mejor barrio para vivir Praga "como un local": Art Nouveau, restaurantes y cafés de calidad, sin turistas, parques preciosos
+  - [x] **Riegrovy Sady:** el beer garden del parque con **vistas al Castillo** desde la terraza occidental; "el plan favorito de los locales para después del trabajo"; atardecer espectacular; **GRATIS** entrar; cerveza a precio local
   - [ ] **Náměstí Míru:** la plaza central del barrio con la Iglesia de San Ludmila (Neo-gótica, s. XIX); ambiente de barrio sin turistas; varios de los mejores restaurantes de Praga alrededor
-- [ ] **Žižkov** - Barrio obrero tradicional; "más pubs per cápita que cualquier otro lugar de Europa"; auténtico, gritty y fascinante
+- [x] **Žižkov** - Barrio obrero tradicional; "más pubs per cápita que cualquier otro lugar de Europa"; auténtico, gritty y fascinante
   - [ ] **Torre de TV de Žižkov (TV Tower):** 216m de alto; los **bebés gigantes de David Černý** trepando por el exterior son icónicos y fotogénicos desde lejos; se puede subir al bar/restaurante con vistas (precios en CZK, llevar efectivo si comprás en taquilla)
   - Los pubs de Žižkov son donde los praguenses que no son turistas toman su cerveza; los precios son los más bajos de la ciudad
-- [ ] **Letná (Letenské sady)** - Parque amplio sobre el Moldava con la **mejor vista panorámica sobre el río y los puentes** de toda Praga; ideal para atardecer
+- [?] **Letná (Letenské sady)** - Parque amplio sobre el Moldava con la **mejor vista panorámica sobre el río y los puentes** de toda Praga; ideal para atardecer
   - [ ] **Letenský zámeček:** beer garden al aire libre enorme; cerveza Pilsner a precio local y vistas al Castillo; uno de los mejores atardeceres de la ciudad; **GRATIS** entrar
   `https://prague.eu/en/object/places/488/letna-parks-letenske-sady`
-- [ ] **Vyšehrad** - Fortaleza medieval/parque con vistas al Moldava; mucho menos turístico que el Castillo de Praga; cementerio con artistas y personajes históricos checos (Dvořák, Mucha); basílica románica de San Pedro y San Pablo; excelente para caminar sin multitudes `https://www.praha-vysehrad.cz/en/`
-- [ ] **Karlín** - El barrio más "gentrificado" de los últimos años; restaurantes de calidad, cafeterías de especialidad, mercado Manifesto; ambiente joven y cosmopolita a 15min del centro
+- [?] **Vyšehrad** - Fortaleza medieval/parque con vistas al Moldava; mucho menos turístico que el Castillo de Praga; cementerio con artistas y personajes históricos checos (Dvořák, Mucha); basílica románica de San Pedro y San Pablo; excelente para caminar sin multitudes `https://www.praha-vysehrad.cz/en/`
+- [x] **Karlín** - El barrio más "gentrificado" de los últimos años; restaurantes de calidad, cafeterías de especialidad, mercado Manifesto; ambiente joven y cosmopolita a 15min del centro
 - [ ] **Holešovice** - Barrio emergente; Národní Galerie (sede del arte moderno en Praha), mercado Farmer's Market los sábados, el club Cross Club está aquí; industrial y lleno de vida local
 
 ---
@@ -49,7 +49,7 @@
 
 - [ ] **Lokál** - La opción "segura" número 1 según r/prague: Pilsner Urquell servida perfectamente (sistema Tankovna), svíčková, guláš; varias ubicaciones; ninguna trampa; reservar en fin de semana
 - [ ] **Prague Beer Museum** - 30+ cervezas on tap de todo tipo; precio razonable; buena para probar variedades; sin trampa turística
-- [ ] **U Fleků** - Cervecería más antigua de Praga (fundada 1499); su cerveza oscura de 15 grados es única y no se consigue en otro lado; turístico pero genuino; no "barato" pero vale la experiencia
+- [x] **U Fleků** - Cervecería más antigua de Praga (fundada 1499); su cerveza oscura de 15 grados es única y no se consigue en otro lado; turístico pero genuino; no "barato" pero vale la experiencia
 - [ ] **Zly Casy** - El paraíso craft beer de los locales; +100 marcas checas de pequeños productores; en Nusle/Vinohrady; muy lejos del circuito turístico
 - [ ] **Letenský zámeček** - Beer garden en Letná con vista panorámica al Castillo; Pilsner a precio local (~50-70 CZK); imprescindible si hace buen tiempo
 - [ ] **Riegrovy Sady beer garden (Vinohrady)** - Atardecer + Pilsner + vista al Castillo; el spot preferido de los praguenses; abierto mientras hace buen tiempo

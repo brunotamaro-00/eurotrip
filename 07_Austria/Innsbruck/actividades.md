@@ -17,21 +17,21 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 ## 📍 Altstadt (Centro Histórico) — Todo GRATIS
 
 - [ ] **Goldenes Dachl (Tejadillo de Oro)** - El símbolo de Innsbruck; balcón cubierto con 2.657 tejas de cobre dorado mandado construir por el Emperador Maximiliano I en el s. XV; las fachadas pintadas de **Helblinghaus** y **Katzunghaus** justo al frente son lo más fotogénico de la ciudad: **GRATIS** (ver desde la plaza)
-- [ ] **Altstadt (callejeo)** - El casco medieval es pequeño y muy caminable; las arcadas (Lauben) recuerdan a Berna; Hofgasse, Herzog-Friedrich-Strasse y Kiebachgasse son las calles principales: **GRATIS**
-- [ ] **Catedral de Santiago (Dom zu St. Jakob)** - Principal iglesia de Innsbruck; interior barroco de Asam con un fresco del techo extraordinario; una de las cúpulas pintadas más bonitas del Tirol: **GRATIS**
-- [ ] **María-Theresien-Strasse** - La arteria peatonal principal de la ciudad moderna; la **Annasäule** (columna de la Virgen, 1706) en el centro; con las montañas al fondo es la foto más "Innsbruck": **GRATIS**
-- [ ] **Arco del Triunfo (Triumphpforte)** - Arco del s. XVIII al sur del centro; tiene dos caras con simbolismo opuesto (boda real / muerte del Emperador); fácil de ver al pasar: **GRATIS**
+- [x] **Altstadt (callejeo)** - El casco medieval es pequeño y muy caminable; las arcadas (Lauben) recuerdan a Berna; Hofgasse, Herzog-Friedrich-Strasse y Kiebachgasse son las calles principales: **GRATIS**
+- [x] **Catedral de Santiago (Dom zu St. Jakob)** - Principal iglesia de Innsbruck; interior barroco de Asam con un fresco del techo extraordinario; una de las cúpulas pintadas más bonitas del Tirol: **GRATIS**
+- [x] **María-Theresien-Strasse** - La arteria peatonal principal de la ciudad moderna; la **Annasäule** (columna de la Virgen, 1706) en el centro; con las montañas al fondo es la foto más "Innsbruck": **GRATIS**
+- [x] **Arco del Triunfo (Triumphpforte)** - Arco del s. XVIII al sur del centro; tiene dos caras con simbolismo opuesto (boda real / muerte del Emperador); fácil de ver al pasar: **GRATIS**
 - [ ] **Río Inn + Paseo Innkai** - Las vistas del río verde con las montañas nevadas al fondo y las casas de colores son la fotografía clásica de Innsbruck; el puente de la Innbrücke da el mejor ángulo: **GRATIS**
 - [ ] **Hofkirche (Iglesia de la Corte)** - La tumba vacía de Maximiliano I rodeada de 28 estatuas de bronce de tamaño natural (las "figuras negras") — algunas de las mejores esculturas del Renacimiento alemán; **~€8-10** adulto (verificar en hofkirche.at)
-- [ ] **Hofburg Innsbruck** - El palacio imperial de los Habsburgo en Innsbruck; la Sala de los Gigantes (Riesensaal) con los retratos de la familia de María Teresa; **~€9-12** adulto (verificar en hofburg-innsbruck.at)
+- [?] **Hofburg Innsbruck** - El palacio imperial de los Habsburgo en Innsbruck; la Sala de los Gigantes (Riesensaal) con los retratos de la familia de María Teresa; **~€9-12** adulto (verificar en hofburg-innsbruck.at)
 
 ---
 
 ## 🏔️ Montaña (elegir 1 según clima y tiempo)
 
-- [ ] **Nordkette — Top of Innsbruck** [prioridad] - El sistema de teleférico/funicular que sale literalmente del centro de la ciudad y sube a 2.334m (Hafelekar); vistas de 360° sobre Innsbruck y los Alpes desde la cumbre; el panorama ciudad-montaña es de los más únicos de Europa; **~€39.50-44** adulto ida+vuelta hasta Hafelekar; solo hasta Seegrube (1.905m): **~€31** ida+vuelta; descuento 20% si subes después de las 15h `https://nordkette.com/en/service/tariffs/`
-- [ ] **Nordkette — Seegrube Hike** - Desde Seegrube (1.905m) hay senderos fáciles de 1-2h con vistas continuas; mucho menos turístico que estar solo en la plataforma de Hafelekar; incluido en el ticket de Seegrube
-- [ ] **Patscherkofel + Zirbenweg** - La alternativa para quienes prefieren **trekking tranquilo** sobre miradores; el Zirbenweg es un sendero panorámico a ~2.000m, "fácil" y muy escénico; menos masificado que la Nordkette; requiere bus + teleférico (logística extra); verificar precio en patscherkofelbahn.at `https://www.patscherkofelbahn.at/zirbenweg/`
+- [?] **Nordkette — Top of Innsbruck** [prioridad] - El sistema de teleférico/funicular que sale literalmente del centro de la ciudad y sube a 2.334m (Hafelekar); vistas de 360° sobre Innsbruck y los Alpes desde la cumbre; el panorama ciudad-montaña es de los más únicos de Europa; **~€39.50-44** adulto ida+vuelta hasta Hafelekar; solo hasta Seegrube (1.905m): **~€31** ida+vuelta; descuento 20% si subes después de las 15h `https://nordkette.com/en/service/tariffs/`
+- [?] **Nordkette — Seegrube Hike** - Desde Seegrube (1.905m) hay senderos fáciles de 1-2h con vistas continuas; mucho menos turístico que estar solo en la plataforma de Hafelekar; incluido en el ticket de Seegrube
+- [?] **Patscherkofel + Zirbenweg** - La alternativa para quienes prefieren **trekking tranquilo** sobre miradores; el Zirbenweg es un sendero panorámico a ~2.000m, "fácil" y muy escénico; menos masificado que la Nordkette; requiere bus + teleférico (logística extra); verificar precio en patscherkofelbahn.at `https://www.patscherkofelbahn.at/zirbenweg/`
 
 **Regla práctica de Reddit:**
 - Cielo claro → **Nordkette** (impacto inmediato, vistas brutales desde la ciudad)
@@ -43,7 +43,7 @@ Innsbruck figura como tránsito en el itinerario base (23 sept) pero P2 propone 
 ## 🏛️ Museos y Atracciones
 
 - [ ] **Bergisel Ski Jump** - El trampolín de salto de esquí diseñado por **Zaha Hadid** (2002); la arquitectura ya vale la visita; el mirador en la cima da vistas únicas sobre Innsbruck; usado en 4 Juegos Olímpicos; **~€12** adulto `https://www.bergisel.info/`
-- [ ] **Alpenzoo (Alpenzoo Innsbruck)** - El zoológico de animales alpinos más alto del mundo (750m); osos, linces, ciervos, buitres, águilas; muy bien curado y tranquilo; **~€14** adulto / **~€7** niños `https://www.alpenzoo.at/`
+- [?] **Alpenzoo (Alpenzoo Innsbruck)** - El zoológico de animales alpinos más alto del mundo (750m); osos, linces, ciervos, buitres, águilas; muy bien curado y tranquilo; **~€14** adulto / **~€7** niños `https://www.alpenzoo.at/`
 - [ ] **Castillo Ambras (Schloss Ambras)** - El castillo renacentista del Archiduque Fernando II (s. XVI) en las afueras de la ciudad; la Kammergalerie con armas y armaduras es espectacular; la colección de retratos de los Habsburgo; **€16** online / **€18** taquilla (temporada abr-oct); menores 19 gratis `https://www.schlossambras-innsbruck.at/en/visit-tickets`
 - [ ] **Tirol Panorama + Kaiserjäger Museum** - El museo panorámico de la historia tirolesa con una pintura circular de 1.000m² de la Batalla de 1809; en el Bergisel (misma colina que el ski jump); **~€12** adulto (verificar)
 - [ ] **Swarovski Kristallwelten (Wattens)** - El "mundo de cristal" de Swarovski a 20 min en bus desde Innsbruck; más parque temático/instalación artística que museo; **~€22** adulto — para quienes les llama (verificar en kristallwelten.com)

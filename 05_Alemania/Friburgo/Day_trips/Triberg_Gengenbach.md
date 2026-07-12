@@ -9,12 +9,12 @@
 ---
 
 ## ⭐ Imprescindibles
-- [ ] **Cascadas de Triberg** - las más altas de Alemania (163 m en 7 saltos); sendero entre el bosque junto al agua; ardillas que comen de la mano (**~€8** entrada al parque) `https://www.triberg.de/`
-- [ ] **Reloj cucú más grande del mundo** - hay **dos** que se disputan el título (Eble Uhren-Park y Schonach); un cucú gigante caminable (**~€2-3**)
-- [ ] **Schwarzwälder Kirschtorte original** - Triberg/la zona reclama el origen de la torta selva negra; probarla acá (~€5)
-- [ ] **Casa de relojes cucú (compra)** - el mejor lugar para comprar un cucú auténtico tallado a mano (desde ~€80 los simples)
-- [ ] **Gengenbach (centro entramado)** - uno de los pueblos Fachwerk más bonitos de la Selva Negra; la Engelgasse y la plaza del mercado son de postal (GRATIS pasear)
-- [ ] **Mirador sobre Gengenbach** - subida corta a los viñedos sobre el pueblo para la vista de los tejados rojos (GRATIS)
+- [x] **Cascadas de Triberg** - las más altas de Alemania (163 m en 7 saltos); sendero entre el bosque junto al agua; ardillas que comen de la mano (**~€8** entrada al parque) `https://www.triberg.de/`
+- [x] **Reloj cucú más grande del mundo** - hay **dos** que se disputan el título (Eble Uhren-Park y Schonach); un cucú gigante caminable (**~€2-3**)
+- [x] **Schwarzwälder Kirschtorte original** - Triberg/la zona reclama el origen de la torta selva negra; probarla acá (~€5)
+- [?] **Casa de relojes cucú (compra)** - el mejor lugar para comprar un cucú auténtico tallado a mano (desde ~€80 los simples)
+- [x] **Gengenbach (centro entramado)** - uno de los pueblos Fachwerk más bonitos de la Selva Negra; la Engelgasse y la plaza del mercado son de postal (GRATIS pasear)
+- [?] **Mirador sobre Gengenbach** - subida corta a los viñedos sobre el pueblo para la vista de los tejados rojos (GRATIS)
 
 ## 💡 Tips
 - **Orden:** Triberg de mañana (cascadas + cucú, 3-4h) → bajar a Gengenbach de tarde (pueblo, 1.5-2h); ambos en la línea Schwarzwaldbahn
