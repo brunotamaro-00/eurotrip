@@ -104,7 +104,7 @@
 ## 💡 Tips
 
 - **Horarios de comida:** almuerzo 12-15h (milk bars antes de 14h), cena 18-21h; muchos sitios abiertos todo el día.
-- **Propina:** ~10% si gustó; decir el total al mozo o dejar en efectivo; "dziękuję" al pagar NO significa "quedate el cambio" como en algunos países — aclarar.
+- **Propina:** ~10% si gustó; decir el total al mozo o dejar en efectivo; ⚠️ ojo: decir "dziękuję" al entregar el dinero SÍ se toma como "quedate el cambio" — no lo digas hasta recibir el vuelto (ver costumbres de Polonia).
 - **Agua del grifo:** potable; pedir agua del grifo o comprar (barata).
 - **Apps:** **Too Good To Go** (activo en Cracovia) `recursos/apps_utiles.md` · **HappyCow** (veg) · Google Lens (traducir menús) · Google Maps por rating.
 - **Ahorro:** milk bar, street food, Biedronka/Lidl; todo es barato igual.
