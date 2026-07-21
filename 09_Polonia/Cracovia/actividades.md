@@ -9,17 +9,17 @@
 
 ## 📍 Imprescindibles
 
-- [ ] **Plaza del Mercado (Rynek Główny)** - La plaza medieval más grande de Europa; el **Cloth Hall (Sukiennice)** en el centro tiene artesanías en la planta baja y galería de arte arriba; la **Torre del Ayuntamiento** da vistas sobre la plaza; gratis caminar — rodearla a primera hora de la mañana (7-8am) para fotos sin gente
-- [ ] **Castillo Wawel** - Colina real con vistas espectaculares del Vístula; se puede entrar al patio libremente (gratis); los interiores tienen 5 exhibiciones separadas con tickets propios:
+- [x] **Plaza del Mercado (Rynek Główny)** - La plaza medieval más grande de Europa; el **Cloth Hall (Sukiennice)** en el centro tiene artesanías en la planta baja y galería de arte arriba; la **Torre del Ayuntamiento** da vistas sobre la plaza; gratis caminar — rodearla a primera hora de la mañana (7-8am) para fotos sin gente
+- [x] **Castillo Wawel** - Colina real con vistas espectaculares del Vístula; se puede entrar al patio libremente (gratis); los interiores tienen 5 exhibiciones separadas con tickets propios:
   - **Salas de Estado Reales (Royal State Rooms):** **49 PLN** / **30 PLN** reducido — las más icónicas
   - **Tesoro y Armería (Crown Treasury & Armoury):** **35 PLN** / **25 PLN**
   - **Cueva del Dragón (Dragon's Den):** **12 PLN** (máquina automática cerca de la entrada; no necesita reserva)
   - **Catedral de Wawel:** se vende por separado en bilety.wawel.krakow.pl (~20-25 PLN, verificar precio actual)
   - Reservar online para las salas principales — los slots de mañana se agotan
   `https://bilety.wawel.krakow.pl/index.php/?culture=en`
-- [ ] **Barrio Judío (Kazimierz)** - Ex barrio judío histórico; ahora el barrio más bohemio de Cracovia; historia profunda + vida nocturna + mejores bares de la ciudad; ver sección dedicada más abajo
-- [ ] **Mina de Sal de Wieliczka** - Capilla de sal a 135m bajo tierra; impresionante y única en el mundo: **143 PLN** adulto (~€33) / **121 PLN** reducido; tours en inglés cada 30 min (9:00-15:00); duración 2.5h; **reservar online con días de anticipación** (los slots de 10am-14pm se agotan 3-5 días antes) `https://www.wieliczka-saltmine.com/individual-tourist/useful-information/ticket-prices-and-visiting-hours`
-- [ ] **Auschwitz-Birkenau** - Día completo imprescindible (ver sección dedicada y `desvios_cercanos.md`)
+- [x] **Barrio Judío (Kazimierz)** - Ex barrio judío histórico; ahora el barrio más bohemio de Cracovia; historia profunda + vida nocturna + mejores bares de la ciudad; ver sección dedicada más abajo
+- [?] **Mina de Sal de Wieliczka** - Capilla de sal a 135m bajo tierra; impresionante y única en el mundo: **143 PLN** adulto (~€33) / **121 PLN** reducido; tours en inglés cada 30 min (9:00-15:00); duración 2.5h; **reservar online con días de anticipación** (los slots de 10am-14pm se agotan 3-5 días antes) `https://www.wieliczka-saltmine.com/individual-tourist/useful-information/ticket-prices-and-visiting-hours`
+- [x] **Auschwitz-Birkenau** - Día completo imprescindible (ver sección dedicada y `desvios_cercanos.md`)
 - [ ] **Fábrica de Schindler (Muzeum Krakowa)** - Museo excelente sobre la ocupación nazi de Cracovia; muy bien hecho, no solo sobre Schindler; en Podgórze: **~35-45 PLN** adulto (verificar en muzeumkrakowa.pl); **funciona por slots horarios** y se agota — reservar con anticipación; **cerrado lunes** `https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory`
 
 ---
@@ -32,7 +32,7 @@ Kazimierz fue el barrio judío de Cracovia durante 500 años hasta la WWII. Hoy 
 - [ ] **Sinagoga Vieja (Stara Synagoga)** - La sinagoga más antigua de Polonia (s. XV); ahora museo de historia judía: **~18 PLN** adulto (verificar en muzeumkrakowa.pl); cerrado sábados
 - [ ] **Sinagoga Remuh y Cementerio Remuh** - La única sinagoga activa de Kazimierz; el cementerio es sobrecogedor: **15 PLN** entrada
 - [ ] **Plac Nowy** - La plaza central de Kazimierz; por el día mercado de pulgas; por la noche epicentro de la vida local; aquí están los puestos de **zapiekanka** más famosos de la ciudad — hay una rotonda circular (los "budki") donde se arman los rollos
-- [ ] **Ulica Szeroka** - La calle principal del barrio judío histórico; café Alchemia en la esquina, bares con historia en cada número
+- [?] **Ulica Szeroka** - La calle principal del barrio judío histórico; café Alchemia en la esquina, bares con historia en cada número
 
 ### Podgórze (adyacente a Kazimierz)
 - [ ] **Plaza de los Héroes del Gueto (Plac Bohaterów Getta)** - Memorial con 70 sillas de metal vacías que representan a los judíos deportados desde aquí al campo de exterminio de Bełżec y Auschwitz; uno de los memoriales más poderosos de Europa; **GRATIS**
@@ -57,10 +57,6 @@ Barrio construido por los soviéticos en 1949 como "ciudad ideal comunista" con 
 - [ ] **Avenida Solidarności** - El eje principal con bloques de apartamentos monumentales
 - [ ] **Arka Pana (Iglesia del Arca)** - Construida clandestinamente contra la voluntad del gobierno comunista; símbolo de resistencia polaca
 - [ ] **Bar Mleczny Centralny** - El milk bar más conocido de Nowa Huta (ver sección milk bars abajo); ir antes de las 14:00
-
----
-
-## 🍽️ Gastronomía
 
 ---
 
@@ -102,9 +98,9 @@ Barrio construido por los soviéticos en 1949 como "ciudad ideal comunista" con 
 ## 🏛️ Otros Imprescindibles
 
 ### Casco Histórico (Stare Miasto)
-- [ ] **Planty** - El anillo de jardines que rodea todo el casco histórico (donde estaban las murallas medievales derribadas en s. XIX); paseo de 4km imprescindible; **GRATIS** — conecta todos los barrios del centro
-- [ ] **Barrio Universitario (Collegium Maius)** - La Universidad Jaguelónica (1364), la segunda más antigua de Europa Central; Copérnico estudió aquí; el patio del Collegium Maius se puede visitar: **GRATIS** exterior; museo interior con visitas guiadas (~30 PLN)
-- [ ] **Kościół Mariacki (Basílica de Santa María)** - El retablo gótico de madera más grande del mundo (Veit Stoss, s. XV); **15 PLN** entrar al interior; el **trompetista toca el hejnał** desde la torre cada hora (anécdota histórica: se interrumpe abruptamente en memoria del trompetista medieval flechado por los mongoles)
+- [x] **Planty** - El anillo de jardines que rodea todo el casco histórico (donde estaban las murallas medievales derribadas en s. XIX); paseo de 4km imprescindible; **GRATIS** — conecta todos los barrios del centro
+- [?] **Barrio Universitario (Collegium Maius)** - La Universidad Jaguelónica (1364), la segunda más antigua de Europa Central; Copérnico estudió aquí; el patio del Collegium Maius se puede visitar: **GRATIS** exterior; museo interior con visitas guiadas (~30 PLN)
+- [?] **Kościół Mariacki (Basílica de Santa María)** - El retablo gótico de madera más grande del mundo (Veit Stoss, s. XV); **15 PLN** entrar al interior; el **trompetista toca el hejnał** desde la torre cada hora (anécdota histórica: se interrumpe abruptamente en memoria del trompetista medieval flechado por los mongoles)
 - [ ] **Galería de Arte Polaco del s. XIX (Sukiennice, planta alta)** - Dentro del Cloth Hall; cuadros históricos monumentales de la escuela polaca; **~15 PLN** (verificar); sorprende a muchos que no lo esperaban
 - [ ] **Floriańska Gate y Barbican** - Las puertas medievales de la ciudad, las únicas que quedan; **~10 PLN** para las torres; el Barbican es una de las fortalezas medievales mejor conservadas de Europa
 

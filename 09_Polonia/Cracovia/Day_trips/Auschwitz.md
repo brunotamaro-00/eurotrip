@@ -10,8 +10,8 @@
 
 ## ⭐ Imprescindibles
 
-- [ ] **Auschwitz I** - campo original; bloques-museo, la puerta "Arbeit Macht Frei", el Bloque 11 y el muro de fusilamiento; se recorre con guía (**tour general desde ~150 PLN / ~€35**; en polaco ~140 PLN) `https://visit.auschwitz.org/`
-- [ ] **Auschwitz II-Birkenau** - el campo de exterminio, mucho más grande; la rampa de selección, las ruinas de las cámaras de gas y los barracones; shuttle gratuito conecta ambos sitios
+- [x] **Auschwitz I** - campo original; bloques-museo, la puerta "Arbeit Macht Frei", el Bloque 11 y el muro de fusilamiento; se recorre con guía (**tour general desde ~150 PLN / ~€35**; en polaco ~140 PLN) `https://visit.auschwitz.org/`
+- [?] **Auschwitz II-Birkenau** - el campo de exterminio, mucho más grande; la rampa de selección, las ruinas de las cámaras de gas y los barracones; shuttle gratuito conecta ambos sitios
 - [ ] **Entrada sin guía (slot "PLN 0")** - en ciertas franjas (normalmente primeras horas o fin de tarde) se puede entrar **gratis sin guía** reservando slot; igual requiere reserva online — ideal si preferís recorrer a tu ritmo `https://visit.auschwitz.org/`
 - [ ] **Exposiciones nacionales** - pabellones temáticos por país; el "Shoah" (Bloque 27) es de los más impactantes
 

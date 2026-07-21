@@ -16,6 +16,30 @@
 
 ---
 
+## 🚶 En el pueblo (bajo tono, sin subir a la montaña)
+
+Lauterbrunnen es **chico**: se recorre entero en 20 min. Estas son las cositas para un rato tranquilo entre trekkings:
+
+- [x] **Callejear la Dorfstrasse** - La única calle principal, con la **Staubbach** de fondo permanente; chalets, tiendas de deporte y la iglesia reformada; **GRATIS**
+- [?] **Alquilar bici y pedalear el valle** - Lo llano del valle (Lauterbrunnen → Stechelberg) se hace ideal en bici; varias tiendas alquilan por horas/día; la forma más linda de ver las cascadas sin caminar
+- [ ] **Museo del Valle (Talmuseum)** - Pequeño museo sobre la vida alpina del valle; para un rato de lluvia (verificar horario de temporada)
+- [ ] **Ver parapentes caer sobre el pueblo** - Lauterbrunnen es meca mundial del **wingsuit/parapente**; sentarse en una terraza a verlos aterrizar en los prados es un espectáculo gratis en sí mismo
+
+---
+
+## 🍽️ Comer / tomar algo (en el pueblo)
+
+> Todo a pie en el pueblo. Precios suizos altos: un plato principal ronda **CHF 25–40**, café **CHF 4–6**. El Coop es la opción barata para armar picnic.
+
+- [ ] **Airtime Café** ⭐ - El café más querido del pueblo (4.6★, 400+ reseñas); coffee & pastries, sándwiches y **cinnamon rolls legendarios**; también hacen de agencia/info; el spot ideal para un desayuno antes de subir
+- [ ] **Hotel Restaurant Oberland** - De los mejor puntuados; **fondue y raclette** en ambiente de chalet de madera; reservar para cena (se llena con huéspedes)
+- [ ] **Restaurant Weidstübli** - El más popular del pueblo, junto al camping y **de frente a la Staubbach**; clásicos suizos e internacionales (fondue, rösti, pizza, pasta) con opciones veggie/vegan/sin gluten
+- [ ] **Restaurant Schützen** - Comida rica **con vista a la Staubbach** desde algunas mesas; **no toma reservas** → útil para caer sin plan
+- [ ] **Hotel Hornerpub** - Pub tradicional en el centro; cervezas locales y cocina suiza; **abierto hasta pasada la medianoche** (cocina hasta las 24h) → el mejor para picar tarde
+- [ ] **Skibar Schreinerei** - Ambiente relajado en una antigua carpintería del tren Jungfrau; **loaded fries** y porciones generosas a precio (relativamente) razonable; terraza al sol
+
+---
+
 ## 🏔️ Los pueblos sin autos (el fuerte de esta base)
 
 Colgados sobre el valle, se llegan por teleférico/tren en 15–25 min. Todo esto es **directo desde Lauterbrunnen**:
@@ -39,6 +63,8 @@ De mejor a peor ratio esfuerzo/vistas, priorizando lo accesible desde esta base:
 | **Gimmelwald → Obersteinberg** | Moderado | 3–4h / +500 m | Gratis | 9/10 | Valle glaciar remoto, mínimos turistas |
 | **Panoramaweg: Männlichen → Kleine Scheidegg** | Fácil | ~1.5h | Wengen + teleférico Männlichen (aparte) | 10/10 | Sendero icónico con Eiger/Mönch/Jungfrau enfrente; también accesible desde Grindelwald |
 | **Schynige Platte → Faulhorn → First** | Intenso | 6–7h | Tren desde Wilderswil **CHF 72** | 10/10 | El trekking top de la región; llegar a Wilderswil en tren (Eurail); no con clima incierto |
+
+> ⭐ **Nuestros favoritos:** **Schynige Platte → Faulhorn → First** y el **North Face of the Eiger (Eiger-Trail)**. Detalle completo (tiempos, agua, teleféricos, reseñas) en `trekkings.md`.
 
 ---
 

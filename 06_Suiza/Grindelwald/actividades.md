@@ -48,6 +48,8 @@ El teleférico First es el "caballo de batalla" del Grindelwald activo. **Return
 | **Pfingstegg → Bäregg / Stieregg** | Moderado | 2–3h | Teleférico Pfingstegg (barato, aparte) | 8/10 | Balcón sobre el glaciar inferior de Grindelwald; menos concurrido |
 | **Grindelwald → Grosse Scheidegg** (o en PostBus) | Mod-Intenso | 3–4h a pie | Gratis a pie / PostBus | 8/10 | Paso alpino clásico entre Grindelwald y Meiringen |
 
+> ⭐ **Nuestros favoritos:** el **Eiger Trail (North Face of the Eiger)** y **First → Faulhorn → Schynige Platte**. Detalle completo (tiempos, agua, teleféricos, reseñas) en `trekkings.md`.
+
 ---
 
 ## 🏔️ Jungfraujoch — "Top of Europe" (el "caro" de esta base)
@@ -60,9 +62,25 @@ El teleférico First es el "caballo de batalla" del Grindelwald activo. **Return
 
 ## 🚶 Grindelwald pueblo (gratis)
 
-- [ ] **Callejear el pueblo** - Pueblo alpino real bajo el Eiger; panadería con vista, chalets de madera; **GRATIS**
+- [x] **Callejear el pueblo** - Pueblo alpino real bajo el Eiger; panadería con vista, chalets de madera; **GRATIS**
 - [ ] **Mercado de Grindelwald** - Los **sábados** (durante tus fechas: **sáb 19 sept**); productos locales; **GRATIS**
 - [ ] **Grindelwald Terminal** - La mega-estación (2020) desde donde salen Eiger Express y el teleférico a Männlichen; útil como punto de partida
+- [ ] **Pfingstegg (teleférico corto)** - Salida barata (~CHF 32) para un balcón sobre el glaciar inferior sin comprometer un día entero; buen plan de tarde o clima dudoso arriba
+- [ ] **Iglesia y cementerio de montañistas** - La iglesia del pueblo y el pequeño cementerio con placas a alpinistas caídos en el Eiger; contexto silencioso del mito de la cara norte; **GRATIS**
+
+---
+
+## 🍽️ Comer / tomar algo (en el pueblo)
+
+> A pie sobre la **Dorfstrasse** (calle principal). Precios suizos: plato principal **CHF 25–45**, café **CHF 4–6**. Grindelwald tiene más movida de *après* que Lauterbrunnen.
+
+- [ ] **EigerBean Roastery** ⭐ - Tostador de café propio en plena Dorfstrasse; el mejor spot para un buen café antes de subir a First
+- [ ] **C und M Café Bar Restaurant** - Chalet de madera rústico **con vista al Eiger**; recomendados los ravioles y las tortas suizas; funciona como café, bar y restó
+- [ ] **Restaurant Pinte** - En el hotel más antiguo del pueblo, sobre la calle principal; punto de encuentro clásico, ambiente acogedor, buena comida y tragos
+- [ ] **The Backdoor (Snowboard Shop & Bar)** ⭐ - Favorito local con vibra joven; **burgers y wraps** contundentes; el spot más relajado para una cerveza post-trekking
+- [ ] **Seven Spirits Bar (Hotel Bergwelt)** - Bar escondido con licores y destilados de fruta suizos junto al fuego; para una copa tranquila de noche
+- [ ] **Avocado Bar** - Comida fresca y saludable (bowls, ensaladas, opciones veggie); el respiro liviano entre tanto fondue y rösti
+- [ ] **Bäckerei-Konditorei Ringgenberg** - Panadería-confitería para desayuno tardío, sándwiches o merienda; barato para armar comida rápida antes de la montaña
 
 ---
 
