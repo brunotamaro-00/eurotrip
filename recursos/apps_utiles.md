@@ -104,32 +104,6 @@
 
 ---
 
-## Tarjeta Global con Beneficios (cashback / rewards) — Mayo 2026
-
-> **Importante:** la disponibilidad y condiciones dependen del **país de residencia** y del tipo de producto (prepaga/débito/crédito). Tomalo como shortlist para comparar.
-
-### Opciones realistas para Argentina (sin residencia UE/UK)
-
-| Empresa | Beneficio principal | Nota / condiciones (resumen) | Fuentes |
-|---|---|---|---|
-| **ARQ (ex DolarApp)** | Cashback con membresía | **Premium**: 1% en primeros **$500 USDc/mes** y 0.5% luego (pagos con ARQCard, también internacional). **Prestige**: 2% en primeros $500 USDc/mes y 0.5% luego (plan anual, perks extra). | [ARQ Premium](https://help.arqfinance.com/en/articles/13901053-what-is-arq-premium), [Cashback Premium](https://help.arqfinance.com/en/articles/13828450-how-does-the-cashback-work-if-i-am-a-premium-member), [ARQ Prestige](https://help.arqfinance.com/en/articles/13430222-what-is-arq-prestige) |
-| **Payoneer** | Cashback en plan específico | “Global Cashback card plan”: % **variable** mostrado al pedir la tarjeta, sin tope mensual; acredita mes a mes (orientado a uso business). | [FAQ Global Cashback plan](https://payoneer.custhelp.com/app/answers/detail/a_id/44889) |
-| **Prex** | Promos / reintegros por campañas | No es cashback “fijo” global: sirve como complemento (promos en comercios / descuentos puntuales). | [Promos Prex](https://www.prexcard.com.ar/promociones/tarjetazo) |
-| **belo LUX** | Tarjeta Visa global en USD | En su info pública se enfoca en pagar en USD globalmente; **no menciona** cashback fijo. | [belo LUX](https://www.belo.app/lux) |
-
-### Opciones si pueden abrir cuenta en UE/UK (requiere elegibilidad)
-
-| Empresa | Beneficio principal | Nota / condiciones (resumen) | Fuentes |
-|---|---|---|---|
-| **Curve** | Cashback “stackeable” | 1% cashback en retailers elegidos (según plan) + stacking con otra tarjeta (si la vinculás). Ojo caps y suscripción. | [Curve Cash 1%](https://help.curve.com/en_gb/1-curve-cashback-retailer-rewards-program-SJJ2cjn_), [Subscriptions schedule](https://curve.com/en-gb/subscriptions), [Cashback stacking](https://www.curve.com/blog/how-to-maximise-cashback-rewards-with-curve/) |
-| **Trade Republic Card** | “Saveback” | 1% (cash) / 2% (crypto) con requisitos de savings plan y topes mensuales. | [Saveback](https://support.traderepublic.com/en-fi/1215-Was-ist-Saveback) |
-| **Vivid Money** | Cashback por categorías | Cashback por categorías elegidas + límites mensuales y condiciones para desbloquear el beneficio. | [Cómo obtener cashback](https://support.vivid.money/en/articles/8675911-how-can-i-get-cashback), [Límites](https://support.vivid.money/en/articles/8637666-what-s-my-limit-of-cashback-and-why-didn-t-i-receive-it-for-my-purchase) |
-| **N26 Business Metal** | 0.5% cashback | Para autónomos/freelancers (producto business). | [N26 Business Metal](https://n26.com/en-eu/cashback) |
-| **Crypto.com Card** | Rewards en CRO | Tiers con suscripción/lockup; caps según nivel. | [Crypto.com Cards](https://crypto.com/en/cards) |
-| **bunq** | Rewards (no cashback clásico) | El cashback clásico terminó el **7-dic-2025**; hoy ofrece rewards tipo “Wheel of Fortune” y partnerships. | [Cashback ended](https://help.bunq.com/articles/cashback-is-ending-on-december-7-2025), [Wheel of Fortune](https://help.bunq.com/articles/win-your-payments-back) |
-
----
-
 ## Alojamiento
 
 | App | Función | Nota |
