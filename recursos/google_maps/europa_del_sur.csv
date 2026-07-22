@@ -1,65 +1,65 @@
-ciudad,nombre,prioridad,lugar_busqueda,tipo,precio,notas
-Lisboa,Mosteiro dos Jerónimos,Solo mapeado,"Mosteiro dos Jerónimos, Lisboa",Monumento,€18 (iglesia gratis),Obra maestra manuelina; claustro; reservar; cierra lunes
-Lisboa,Torre de Belém,Solo mapeado,"Torre de Belém, Lisboa",Monumento,€15,Torre s.XVI; reserva obligatoria; cierra lunes
-Lisboa,Padrão dos Descobrimentos,Solo mapeado,"Padrão dos Descobrimentos, Lisboa",Monumento,~€10,Proa de barco; plataforma con vistas a Belém
-Lisboa,Castelo de São Jorge,Solo mapeado,"Castelo de São Jorge, Lisboa",Monumento,€15,Castillo morisco en Alfama; vistas panorámicas
-Lisboa,Arco da Rua Augusta,Solo mapeado,"Arco da Rua Augusta, Lisboa",Monumento,~€2.50,Arco neoclásico; plataforma sobre la Baixa
-Lisboa,Convento do Carmo,Solo mapeado,"Convento do Carmo, Lisboa",Monumento,~€5,Ruinas abiertas al cielo tras el terremoto de 1755
-Lisboa,Igreja de São Roque,Solo mapeado,"Igreja de São Roque, Lisboa",Iglesia,Gratis,Interior barroco dorado; Capela de São João Baptista
-Lisboa,Sé de Lisboa,Solo mapeado,Sé de Lisboa,Iglesia,Gratis (claustro €3),Catedral románica s.XII en Alfama
-Lisboa,Miradouro da Senhora do Monte,Solo mapeado,"Miradouro da Senhora do Monte, Lisboa",Mirador,Gratis,El mirador más alto y menos turístico; vistas 360
-Lisboa,Miradouro da Graça,Solo mapeado,"Miradouro da Graça, Lisboa",Mirador,Gratis,Vista directa al Castelo y tejados de Alfama
-Lisboa,Miradouro das Portas do Sol,Solo mapeado,"Miradouro das Portas do Sol, Lisboa",Mirador,Gratis,El más fotogénico de Alfama; café con terraza
-Lisboa,Miradouro de Santa Luzia,Solo mapeado,"Miradouro de Santa Luzia, Lisboa",Mirador,Gratis,El mirador de los azulejos; jardín con flores
-Lisboa,Miradouro de Santa Catarina,Solo mapeado,"Miradouro de Santa Catarina, Lisboa",Mirador,Gratis,El del Bairro Alto; estatua del Adamastor; bohemio
-Lisboa,Miradouro Parque Eduardo VII,Solo mapeado,"Parque Eduardo VII, Lisboa",Mirador,Gratis,Vista del eje central; fácil acceso en metro
-Lisboa,Elevador de Santa Justa,Solo mapeado,"Elevador de Santa Justa, Lisboa",Transporte,€6,Ascensor de hierro; verificar estado operativo
-Lisboa,MAAT,Solo mapeado,"MAAT, Lisboa",Museo,€11,Arte
-Lisboa,Fundação Calouste Gulbenkian,Solo mapeado,"Fundação Calouste Gulbenkian, Lisboa",Museo,,Colección privada más importante de Portugal; jardines
-Lisboa,Museu Nacional do Azulejo,Solo mapeado,"Museu Nacional do Azulejo, Lisboa",Museo,,Colección de azulejos más importante del mundo; verificar apertura
-Lisboa,Museu Nacional de Arte Antiga,Solo mapeado,"Museu Nacional de Arte Antiga, Lisboa",Museo,~€10,La pinacoteca más importante; Bosch
-Lisboa,Museu dos Coches,Solo mapeado,"Museu Nacional dos Coches, Lisboa",Museo,~€10,La mayor colección de carruajes del mundo; Belém
-Lisboa,Museu do Fado,Solo mapeado,"Museu do Fado, Lisboa",Museo,~€8,Historia y sonido del fado; en Alfama
-Lisboa,Museu Nacional de Arqueologia,Solo mapeado,"Museu Nacional de Arqueologia, Lisboa",Museo,,En el edificio de los Jerónimos
-Lisboa,Alfama,Solo mapeado,"Alfama, Lisboa",Barrio,Gratis,El barrio más auténtico; ir antes de 8am o después de 18h
-Lisboa,Baixa / Chiado,Solo mapeado,"Chiado, Lisboa",Barrio,Gratis,Centro monumental; Praça do Comércio
-Lisboa,Mouraria,Solo mapeado,"Mouraria, Lisboa",Barrio,Gratis,Barrio morisco original; fado más genuino
-Lisboa,Bairro Alto,Solo mapeado,"Bairro Alto, Lisboa",Barrio,Gratis,El barrio de los bares; tiendas vintage de día
-Lisboa,Príncipe Real,Solo mapeado,"Príncipe Real, Lisboa",Barrio,Gratis,El más elegante; mercado orgánico los sábados
-Lisboa,Belém,Solo mapeado,"Belém, Lisboa",Barrio,Gratis,Zona monumental junto al río; Pastéis originales
-Lisboa,Cais do Sodré,Solo mapeado,"Cais do Sodré, Lisboa",Barrio,Gratis,Zona nocturna; Time Out Market y Pink Street
-Lisboa,Campo de Ourique,Solo mapeado,"Campo de Ourique, Lisboa",Barrio,Gratis,Residencial local; mercado auténtico; cabecera del 28E
-Lisboa,LX Factory,Solo mapeado,"LX Factory, Lisboa",Barrio,Gratis,Fábricas reconvertidas bajo el Puente 25 de Abril; feria domingo
-Lisboa,Elevador da Bica,Solo mapeado,"Elevador da Bica, Lisboa",Transporte,€4.10,El funicular más fotogénico; Bairro Alto a Cais do Sodré
-Lisboa,Elevador da Glória,Solo mapeado,"Elevador da Glória, Lisboa",Transporte,€4.10,Funicular del Bairro Alto desde Restauradores
-Lisboa,Sintra,Solo mapeado,"Sintra, Portugal",Day trip,~€14 Pena,Palacios de cuento; ir entre semana; tickets online
-Lisboa,Cascais,Solo mapeado,"Cascais, Portugal",Day trip,~€2.40 tren,Pueblo costero elegante; tren bonito desde Cais do Sodré
-Lisboa,Óbidos,Solo mapeado,"Óbidos, Portugal",Day trip,Gratis murallas,Pueblo medieval amurallado; 1h en bus
-Porto,Estação de São Bento,Solo mapeado,"Estação de São Bento, Porto",Monumento,Gratis,20.000 azulejos narrando la historia de Portugal; parada obligada
-Porto,Livraria Lello,Solo mapeado,"Livraria Lello, Porto",Monumento,€10,La librería más bella del mundo; ir al abrir (9:30) o tras 17h
-Porto,Torre dos Clérigos,Solo mapeado,"Torre dos Clérigos, Porto",Monumento,€10,Torre barroca de 76m; vistas sobre los tejados
-Porto,Palácio da Bolsa,Solo mapeado,"Palácio da Bolsa, Porto",Monumento,€10,Sala Árabe inspirada en la Alhambra; visita guiada obligatoria
-Porto,Igreja de São Francisco,Solo mapeado,"Igreja de São Francisco, Porto",Iglesia,,Interior dorado más impactante de Portugal; 200kg de oro
-Porto,Sé do Porto,Solo mapeado,Sé do Porto,Iglesia,Gratis (claustro €3),Catedral románica s.XII; claustro con azulejos
-Porto,Ponte Dom Luís I,Solo mapeado,"Ponte Luís I, Porto",Monumento,Gratis,Puente de hierro doble; nivel superior peatonal con vistas
-Porto,Alfândega do Porto,Solo mapeado,Alfândega do Porto,Monumento,Gratis exterior,Edificio aduanero neoclásico; Museu do Douro
-Porto,Igreja do Carmo,Solo mapeado,"Igreja do Carmo, Porto",Iglesia,Gratis exterior,Fachada de azulejos azules; casa más estrecha al lado
-Porto,Sandeman,Solo mapeado,"Sandeman Cellars, Vila Nova de Gaia",Bodega,€23,La bodega más reconocible; el Don en capa negra
-Porto,Graham's 1890 Lodge,Solo mapeado,"Graham's Port Lodge, Vila Nova de Gaia",Bodega,€30,La más aclamada por críticos; terraza con vistas al Douro
-Porto,Cais da Ribeira,Solo mapeado,"Cais da Ribeira, Porto",Paseo,Gratis,Orilla del Douro con edificios coloridos; mejor tras 18h
-Porto,Ribeira,Solo mapeado,"Ribeira, Porto",Barrio,Gratis,Corazón histórico UNESCO; ir antes de 9am
-Porto,Bonfim,Solo mapeado,"Bonfim, Porto",Barrio,Gratis,El barrio de moda; el Brooklyn de Porto
-Porto,Cedofeita,Solo mapeado,"Cedofeita, Porto",Barrio,Gratis,Librerías y tiendas independientes; corazón cultural alternativo
-Porto,Foz do Douro,Solo mapeado,"Foz do Douro, Porto",Barrio,Gratis,Desembocadura en el Atlántico; costa rocosa
-Porto,Matosinhos,Solo mapeado,"Matosinhos, Porto",Barrio,Gratis,Los mejores mariscos a buen precio; metro línea A
-Porto,Vila Nova de Gaia,Solo mapeado,Vila Nova de Gaia,Barrio,Gratis,El barrio de las bodegas; miradores sobre Porto
-Porto,Jardim das Virtudes,Solo mapeado,"Jardim das Virtudes, Porto",Parque,Gratis,Terraza favorita de estudiantes; atardecer sobre el Douro
-Porto,Jardins do Palácio de Cristal,Solo mapeado,"Jardins do Palácio de Cristal, Porto",Parque,Gratis,Jardines s.XIX con pavos reales; vistas al Douro
-Porto,Miradouro da Serra do Pilar,Solo mapeado,"Miradouro da Serra do Pilar, Gaia",Mirador,Gratis,La panorámica más completa de Porto; desde Gaia
-Porto,Teleférico de Gaia,Solo mapeado,Teleférico de Gaia,Transporte,~€6,Cabina desde Serra do Pilar al río
-Porto,Jardim do Morro,Solo mapeado,"Jardim do Morro, Gaia",Parque,Gratis,Parque elevado al pie del teleférico; vistas a Porto
-Porto,Museu Soares dos Reis,Solo mapeado,"Museu Nacional Soares dos Reis, Porto",Museo,~€5,El museo de arte más importante del norte
-Porto,Serralves,Solo mapeado,"Museu de Arte Contemporânea de Serralves, Porto",Museo,~€20,Arte contemporáneo en parque de Álvaro Siza
-Porto,World of Wine (WOW),Solo mapeado,"World of Wine, Vila Nova de Gaia",Museo,~€13-35,Complejo de 7 museos sobre el vino y la cultura
-Porto,Casa da Música,Solo mapeado,"Casa da Música, Porto",Música,~€10 tour,Sala de conciertos de Rem Koolhaas (2005)
-Porto,Museu do Carro Eléctrico,Solo mapeado,"Museu do Carro Eléctrico, Porto",Museo,~€4,Museo de los tranvías históricos
+ciudad,nombre,prioridad,lat,lng,lugar_busqueda,tipo,precio,notas
+Lisboa,Mosteiro dos Jerónimos,Solo mapeado,38.698008,-9.205744,"Mosteiro dos Jerónimos, Lisboa",Monumento,€18 (iglesia gratis),Obra maestra manuelina; claustro; reservar; cierra lunes
+Lisboa,Torre de Belém,Solo mapeado,38.691586,-9.215929,"Torre de Belém, Lisboa",Monumento,€15,Torre s.XVI; reserva obligatoria; cierra lunes
+Lisboa,Padrão dos Descobrimentos,Solo mapeado,38.694466,-9.206026,"Padrão dos Descobrimentos, Lisboa",Monumento,~€10,Proa de barco; plataforma con vistas a Belém
+Lisboa,Castelo de São Jorge,Solo mapeado,38.714263,-9.13276,"Castelo de São Jorge, Lisboa",Monumento,€15,Castillo morisco en Alfama; vistas panorámicas
+Lisboa,Arco da Rua Augusta,Solo mapeado,38.708443,-9.136816,"Arco da Rua Augusta, Lisboa",Monumento,~€2.50,Arco neoclásico; plataforma sobre la Baixa
+Lisboa,Convento do Carmo,Solo mapeado,38.79399,-9.4438,"Convento do Carmo, Lisboa",Monumento,~€5,Ruinas abiertas al cielo tras el terremoto de 1755
+Lisboa,Igreja de São Roque,Solo mapeado,38.71362,-9.143427,"Igreja de São Roque, Lisboa",Iglesia,Gratis,Interior barroco dorado; Capela de São João Baptista
+Lisboa,Sé de Lisboa,Solo mapeado,38.709818,-9.1328,Sé de Lisboa,Iglesia,Gratis (claustro €3),Catedral románica s.XII en Alfama
+Lisboa,Miradouro da Graça,Solo mapeado,38.716523,-9.131543,"Miradouro da Graça, Lisboa",Mirador,Gratis,Vista directa al Castelo y tejados de Alfama
+Lisboa,Miradouro das Portas do Sol,Solo mapeado,38.712346,-9.130366,"Miradouro das Portas do Sol, Lisboa",Mirador,Gratis,El más fotogénico de Alfama; café con terraza
+Lisboa,Miradouro de Santa Luzia,Solo mapeado,38.711741,-9.130216,"Miradouro de Santa Luzia, Lisboa",Mirador,Gratis,El mirador de los azulejos; jardín con flores
+Lisboa,Miradouro de Santa Catarina,Solo mapeado,38.70945,-9.147724,"Miradouro de Santa Catarina, Lisboa",Mirador,Gratis,El del Bairro Alto; estatua del Adamastor; bohemio
+Lisboa,Miradouro Parque Eduardo VII,Solo mapeado,38.728212,-9.153014,"Parque Eduardo VII, Lisboa",Mirador,Gratis,Vista del eje central; fácil acceso en metro
+Lisboa,Elevador de Santa Justa,Solo mapeado,38.712117,-9.139375,"Elevador de Santa Justa, Lisboa",Transporte,€6,Ascensor de hierro; verificar estado operativo
+Lisboa,MAAT,Solo mapeado,38.695934,-9.193624,"MAAT, Lisboa",Museo,€11,Arte
+Lisboa,Fundação Calouste Gulbenkian,Solo mapeado,38.73729,-9.154801,"Fundação Calouste Gulbenkian, Lisboa",Museo,,Colección privada más importante de Portugal; jardines
+Lisboa,Museu Nacional do Azulejo,Solo mapeado,38.724724,-9.113914,"Museu Nacional do Azulejo, Lisboa",Museo,,Colección de azulejos más importante del mundo; verificar apertura
+Lisboa,Museu Nacional de Arte Antiga,Solo mapeado,38.704785,-9.161466,"Museu Nacional de Arte Antiga, Lisboa",Museo,~€10,La pinacoteca más importante; Bosch
+Lisboa,Museu dos Coches,Solo mapeado,38.696864,-9.197987,"Museu Nacional dos Coches, Lisboa",Museo,~€10,La mayor colección de carruajes del mundo; Belém
+Lisboa,Museu do Fado,Solo mapeado,38.711025,-9.12766,"Museu do Fado, Lisboa",Museo,~€8,Historia y sonido del fado; en Alfama
+Lisboa,Museu Nacional de Arqueologia,Solo mapeado,38.697366,-9.207079,"Museu Nacional de Arqueologia, Lisboa",Museo,,En el edificio de los Jerónimos
+Lisboa,Alfama,Solo mapeado,38.711756,-9.132011,"Alfama, Lisboa",Barrio,Gratis,El barrio más auténtico; ir antes de 8am o después de 18h
+Lisboa,Baixa / Chiado,Solo mapeado,38.71033,-9.140519,"Chiado, Lisboa",Barrio,Gratis,Centro monumental; Praça do Comércio
+Lisboa,Mouraria,Solo mapeado,38.714991,-9.134842,"Mouraria, Lisboa",Barrio,Gratis,Barrio morisco original; fado más genuino
+Lisboa,Bairro Alto,Solo mapeado,38.713392,-9.145552,"Bairro Alto, Lisboa",Barrio,Gratis,El barrio de los bares; tiendas vintage de día
+Lisboa,Príncipe Real,Solo mapeado,38.716576,-9.148204,"Príncipe Real, Lisboa",Barrio,Gratis,El más elegante; mercado orgánico los sábados
+Lisboa,Belém,Solo mapeado,38.699193,-9.209627,"Belém, Lisboa",Barrio,Gratis,Zona monumental junto al río; Pastéis originales
+Lisboa,Cais do Sodré,Solo mapeado,38.705681,-9.143548,"Cais do Sodré, Lisboa",Barrio,Gratis,Zona nocturna; Time Out Market y Pink Street
+Lisboa,Campo de Ourique,Solo mapeado,38.715326,-9.167935,"Campo de Ourique, Lisboa",Barrio,Gratis,Residencial local; mercado auténtico; cabecera del 28E
+Lisboa,LX Factory,Solo mapeado,38.7026,-9.178662,"LX Factory, Lisboa",Barrio,Gratis,Fábricas reconvertidas bajo el Puente 25 de Abril; feria domingo
+Lisboa,Elevador da Bica,Solo mapeado,38.709758,-9.146205,"Elevador da Bica, Lisboa",Transporte,€4.10,El funicular más fotogénico; Bairro Alto a Cais do Sodré
+Lisboa,Elevador da Glória,Solo mapeado,38.715232,-9.143404,"Elevador da Glória, Lisboa",Transporte,€4.10,Funicular del Bairro Alto desde Restauradores
+Lisboa,Sintra,Solo mapeado,38.835545,-9.352237,"Sintra, Portugal",Day trip,~€14 Pena,Palacios de cuento; ir entre semana; tickets online
+Lisboa,Cascais,Solo mapeado,38.696892,-9.42045,"Cascais, Portugal",Day trip,~€2.40 tren,Pueblo costero elegante; tren bonito desde Cais do Sodré
+Lisboa,Óbidos,Solo mapeado,38.70437,-9.162792,"Óbidos, Portugal",Day trip,Gratis murallas,Pueblo medieval amurallado; 1h en bus
+Porto,Estação de São Bento,Solo mapeado,41.14551,-8.611012,"Estação de São Bento, Porto",Monumento,Gratis,20.000 azulejos narrando la historia de Portugal; parada obligada
+Porto,Livraria Lello,Solo mapeado,41.146817,-8.614911,"Livraria Lello, Porto",Monumento,€10,La librería más bella del mundo; ir al abrir (9:30) o tras 17h
+Porto,Torre dos Clérigos,Solo mapeado,41.145655,-8.614627,"Torre dos Clérigos, Porto",Monumento,€10,Torre barroca de 76m; vistas sobre los tejados
+Porto,Palácio da Bolsa,Solo mapeado,41.141312,-8.616,"Palácio da Bolsa, Porto",Monumento,€10,Sala Árabe inspirada en la Alhambra; visita guiada obligatoria
+Porto,Igreja de São Francisco,Solo mapeado,41.140982,-8.615708,"Igreja de São Francisco, Porto",Iglesia,,Interior dorado más impactante de Portugal; 200kg de oro
+Porto,Sé do Porto,Solo mapeado,41.142894,-8.611624,Sé do Porto,Iglesia,Gratis (claustro €3),Catedral románica s.XII; claustro con azulejos
+Porto,Ponte Dom Luís I,Solo mapeado,41.14017,-8.609458,"Ponte Luís I, Porto",Monumento,Gratis,Puente de hierro doble; nivel superior peatonal con vistas
+Porto,Alfândega do Porto,Solo mapeado,41.144179,-8.622269,Alfândega do Porto,Monumento,Gratis exterior,Edificio aduanero neoclásico; Museu do Douro
+Porto,Igreja do Carmo,Solo mapeado,41.147456,-8.616255,"Igreja do Carmo, Porto",Iglesia,Gratis exterior,Fachada de azulejos azules; casa más estrecha al lado
+Porto,Sandeman,Solo mapeado,41.137548,-8.612464,"Sandeman Cellars, Vila Nova de Gaia",Bodega,€23,La bodega más reconocible; el Don en capa negra
+Porto,Graham's 1890 Lodge,Solo mapeado,41.137472,-8.624142,"Graham's Port Lodge, Vila Nova de Gaia",Bodega,€30,La más aclamada por críticos; terraza con vistas al Douro
+Porto,Cais da Ribeira,Solo mapeado,41.140352,-8.613047,"Cais da Ribeira, Porto",Paseo,Gratis,Orilla del Douro con edificios coloridos; mejor tras 18h
+Porto,Ribeira,Solo mapeado,41.1407,-8.612595,"Ribeira, Porto",Barrio,Gratis,Corazón histórico UNESCO; ir antes de 9am
+Porto,Bonfim,Solo mapeado,41.15107,-8.593957,"Bonfim, Porto",Barrio,Gratis,El barrio de moda; el Brooklyn de Porto
+Porto,Cedofeita,Solo mapeado,41.156076,-8.622714,"Cedofeita, Porto",Barrio,Gratis,Librerías y tiendas independientes; corazón cultural alternativo
+Porto,Foz do Douro,Solo mapeado,41.150846,-8.669108,"Foz do Douro, Porto",Barrio,Gratis,Desembocadura en el Atlántico; costa rocosa
+Porto,Matosinhos,Solo mapeado,41.180681,-8.6822,"Matosinhos, Porto",Barrio,Gratis,Los mejores mariscos a buen precio; metro línea A
+Porto,Vila Nova de Gaia,Solo mapeado,41.129226,-8.60574,Vila Nova de Gaia,Barrio,Gratis,El barrio de las bodegas; miradores sobre Porto
+Porto,Jardim das Virtudes,Solo mapeado,41.145192,-8.619123,"Jardim das Virtudes, Porto",Parque,Gratis,Terraza favorita de estudiantes; atardecer sobre el Douro
+Porto,Jardins do Palácio de Cristal,Solo mapeado,41.147034,-8.626276,"Jardins do Palácio de Cristal, Porto",Parque,Gratis,Jardines s.XIX con pavos reales; vistas al Douro
+Porto,Miradouro da Serra do Pilar,Solo mapeado,41.138312,-8.608659,"Miradouro da Serra do Pilar, Gaia",Mirador,Gratis,La panorámica más completa de Porto; desde Gaia
+Porto,Teleférico de Gaia,Solo mapeado,41.137325,-8.616209,Teleférico de Gaia,Transporte,~€6,Cabina desde Serra do Pilar al río
+Porto,Jardim do Morro,Solo mapeado,41.137615,-8.608707,"Jardim do Morro, Gaia",Parque,Gratis,Parque elevado al pie del teleférico; vistas a Porto
+Porto,Museu Soares dos Reis,Solo mapeado,41.148277,-8.621397,"Museu Nacional Soares dos Reis, Porto",Museo,~€5,El museo de arte más importante del norte
+Porto,Serralves,Solo mapeado,41.159132,-8.659406,"Museu de Arte Contemporânea de Serralves, Porto",Museo,~€20,Arte contemporáneo en parque de Álvaro Siza
+Porto,World of Wine (WOW),Solo mapeado,41.134737,-8.614346,"World of Wine, Vila Nova de Gaia",Museo,~€13-35,Complejo de 7 museos sobre el vino y la cultura
+Porto,Casa da Música,Solo mapeado,41.158903,-8.630775,"Casa da Música, Porto",Música,~€10 tour,Sala de conciertos de Rem Koolhaas (2005)
+Porto,Museu do Carro Eléctrico,Solo mapeado,41.147979,-8.632638,"Museu do Carro Eléctrico, Porto",Museo,~€4,Museo de los tranvías históricos
+Lisboa,Miradouro da Senhora do Monte,Solo mapeado,38.719,-9.1325,"Miradouro da Senhora do Monte, Lisboa",Mirador,Gratis,El mirador más alto y menos turístico; vistas 360

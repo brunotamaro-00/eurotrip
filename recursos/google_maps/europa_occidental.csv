@@ -1,285 +1,320 @@
-ciudad,nombre,prioridad,lugar_busqueda,tipo,precio,notas
-Londres,British Museum,Quiero ir,"British Museum, London, UK",Museo,Gratis,Piedra Rosetta
-Londres,Natural History Museum,Quiero ir,"Natural History Museum, London, UK",Museo,Gratis,Ballena azul
-Londres,Victoria & Albert Museum,Solo mapeado,"Victoria and Albert Museum, London, UK",Museo,Gratis,Artes decorativas y diseño
-Londres,Tate Modern,Solo mapeado,"Tate Modern, London, UK",Museo,Gratis,Arte contemporáneo; terraza con vistas al Támesis
-Londres,National Gallery,Solo mapeado,"National Gallery, London, UK",Museo,Gratis,Arte europeo s.XIII-XIX; Trafalgar Square
-Londres,National Portrait Gallery,Solo mapeado,"National Portrait Gallery, London, UK",Museo,Gratis,Retratos británicos; recién renovada
-Londres,Science Museum,Solo mapeado,"Science Museum, London, UK",Museo,Gratis,Aviación
-Londres,Imperial War Museum,Solo mapeado,"Imperial War Museum, London, UK",Museo,Gratis,Conflictos mundiales; Holocaust Gallery
-Londres,Churchill War Rooms,Solo mapeado,"Churchill War Rooms, London, UK",Museo,£34,Búnker subterráneo de la WWII
-Londres,Sir John Soane's Museum,Solo mapeado,"Sir John Soane's Museum, London, UK",Museo,Gratis,Casa-museo ecléctica; reserva recomendada
-Londres,Museum of London Docklands,Solo mapeado,"Museum of London Docklands, UK",Museo,Gratis,Historia portuaria; almacén de 1800
-Londres,The Courtauld Gallery,Solo mapeado,"Courtauld Gallery, London, UK",Museo,,Impresionistas en Somerset House
-Londres,Westminster Abbey,Solo mapeado,"Westminster Abbey, London, UK",Iglesia,£31,Coronaciones reales; tumbas de Newton y Darwin
-Londres,St Paul's Cathedral,Solo mapeado,"St Paul's Cathedral, London, UK",Iglesia,£27,Cúpula de Wren; Whispering Gallery
-Londres,Southwark Cathedral,Solo mapeado,"Southwark Cathedral, London, UK",Iglesia,Gratis,Gótica s.XII en South Bank; poco turística
-Londres,Temple Church,Solo mapeado,"Temple Church, London, UK",Iglesia,Gratis/donativo,Iglesia circular de los Templarios s.XII
-Londres,St Bride's Church,Solo mapeado,"St Bride's Church, Fleet Street, London, UK",Iglesia,Gratis,La iglesia de los periodistas; diseño de Wren
-Londres,Tower of London,Quiero ir,"Tower of London, UK",Sitio histórico,£37,Joyas de la Corona
-Londres,Tower Bridge,Solo mapeado,"Tower Bridge, London, UK",Sitio histórico,£14,Pasarela de cristal con vistas al Támesis
-Londres,Big Ben y Palacio de Westminster,Quiero ir,"Big Ben, London, UK",Sitio histórico,Gratis exterior,Vista clásica desde Westminster Bridge
-Londres,Buckingham Palace,Quizás,"Buckingham Palace, London, UK",Sitio histórico,~£32 interior,Cambio de guardia 11am días alternos
-Londres,Kensington Palace,Quizás,"Kensington Palace, London, UK",Sitio histórico,~£27,Residencia real; exposiciones de Diana
-Londres,Cutty Sark,Solo mapeado,"Cutty Sark, Greenwich, London, UK",Sitio histórico,£20,Último clipper de té victoriano
-Londres,Greenwich Observatory,Solo mapeado,"Royal Observatory Greenwich, UK",Sitio histórico,£18,Meridiano 0; museo marítimo
-Londres,Monument to the Great Fire,Solo mapeado,"Monument to the Great Fire of London, UK",Sitio histórico,£6,Columna de 62m del incendio de 1666
-Londres,Trafalgar Square,Solo mapeado,"Trafalgar Square, London, UK",Plaza,Gratis,Columna de Nelson; entrada a National Gallery
-Londres,Piccadilly Circus,Quiero ir,"Piccadilly Circus, London, UK",Plaza,Gratis,El cruce con pantallas LED; combinar con Soho
-Londres,Covent Garden,Quiero ir,"Covent Garden, London, UK",Barrio,Gratis,Antigua lonja; artistas callejeros
-Londres,Hampton Court Palace,Solo mapeado,"Hampton Court Palace, UK",Sitio histórico,£32,Palacio Tudor de Enrique VIII; día completo
-Londres,Sky Garden,Quizás,"Sky Garden, London, UK",Mirador,Gratis,Jardín piso 35; vistas 360; reserva obligatoria
-Londres,Horizon 22,Solo mapeado,"Horizon 22, 22 Bishopsgate, London, UK",Mirador,Gratis,Mirador gratuito más alto de Londres (piso 58)
-Londres,The Shard,Solo mapeado,"The Shard, London, UK",Mirador,£25+,Edificio más alto de UK; mejor al atardecer
-Londres,London Eye,Solo mapeado,"London Eye, UK",Mirador,£29+,Noria icónica frente al Parlamento
-Londres,Hyde Park,Quiero ir,"Hyde Park, London, UK",Parque,Gratis,Lago Serpentine
-Londres,Kensington Gardens,Quiero ir,"Kensington Gardens, London, UK",Parque,Gratis,Jardines del Palacio; lindantes con Hyde Park
-Londres,Regent's Park,Quiero ir,"Regent's Park, London, UK",Parque,Gratis,Jardines de rosas
-Londres,St James's Park,Quiero ir,"St James's Park, London, UK",Parque,Gratis,El parque real más elegante; vistas a Buckingham
-Londres,Hampstead Heath,Solo mapeado,"Hampstead Heath, London, UK",Parque,Gratis,Bosque urbano; piscinas naturales; Parliament Hill
-Londres,Primrose Hill,Quiero ir,"Primrose Hill, London, UK",Parque,Gratis,Mejores vistas del skyline; barrio bohemio
-Londres,Greenwich Park,Solo mapeado,"Greenwich Park, London, UK",Parque,Gratis,Colinas con vistas; Observatorio Real
-Londres,Richmond Park,Quizás,"Richmond Park, London, UK",Parque,Gratis,Reserva real más grande; ciervos en libertad
-Londres,Victoria Park,Quizás,"Victoria Park, London, UK",Parque,Gratis,El parque del East End; sin turistas
-Londres,Victoria Embankment Gardens,Solo mapeado,"Victoria Embankment Gardens, London, UK",Parque,Gratis,Jardines junto al Támesis; pausa en Westminster
-Londres,Borough Market,Quiero ir,"Borough Market, London, UK",Mercado,,Gourmet bajo viaducto; ir antes de 11am (L-S)
-Londres,Portobello Road Market,Quizás,"Portobello Road Market, London, UK",Mercado,,Antigüedades y vintage en Notting Hill; mejor sábado
-Londres,Brick Lane Market,Solo mapeado,"Brick Lane Market, London, UK",Mercado,,Ropa
-Londres,Columbia Road Flower Market,Solo mapeado,"Columbia Road Flower Market, London, UK",Mercado,,Mercado de flores; solo domingos AM
-Londres,Broadway Market,Solo mapeado,"Broadway Market, Hackney, London, UK",Mercado,,Mercado de barrio; mejor sábado; el más local
-Londres,Camden Market,Quizás,"Camden Market, London, UK",Mercado,,Alternativo enorme; más animado el finde
-Londres,Spitalfields Market,Quizás,"Old Spitalfields Market, London, UK",Mercado,,Cubierto victoriano; jueves antigüedades
-Londres,Leadenhall Market,Solo mapeado,"Leadenhall Market, London, UK",Mercado,,Victoriano espectacular; escenas de Harry Potter
-Londres,Maltby Street Market,Quiero ir,"Maltby Street Market, London, UK",Mercado,,Pequeño y auténtico en Bermondsey; finde
-Londres,Book Market South Bank,Quizás,"Southbank Centre Book Market, London, UK",Mercado,,Libros de segunda mano bajo Waterloo Bridge
-Londres,Shakespeare's Globe,Solo mapeado,"Shakespeare's Globe, London, UK",Teatro,£5+,Réplica del teatro isabelino; el de Hamnet
-Londres,Royal Albert Hall,Quiero ir,"Royal Albert Hall, London, UK",Música,£8+,BBC Proms toda la estadía
-Londres,Harry Potter Studio Tour,Quiero ir,"Warner Bros Studio Tour London, Leavesden, UK",Experiencia,£58.50,Sets reales de las 8 películas; reservar
-Londres,South Bank,Quiero ir,"South Bank, London, UK",Barrio,Gratis,Paseo frente al Támesis; Tate
-Londres,Shoreditch / Brick Lane,Quiero ir,"Shoreditch, London, UK",Barrio,Gratis,Mural art
-Londres,Notting Hill,Quiero ir,"Notting Hill, London, UK",Barrio,Gratis,Casas victorianas de colores; Portobello
-Londres,Soho,Quiero ir,"Soho, London, UK",Barrio,Gratis,Teatros
-Londres,Kensington / Chelsea,Quiero ir,"Kensington, London, UK",Barrio,Gratis,Zona de museos top; el barrio más bonito
-Londres,Marylebone,Quizás,"Marylebone, London, UK",Barrio,Gratis,Residencial sofisticado; Marylebone High Street
-Londres,Greenwich,Quizás,"Greenwich, London, UK",Barrio,Gratis,Pueblo con identidad; Meridiano 0; día completo
-Londres,Camden,Quiero ir,"Camden Town, London, UK",Barrio,Gratis,Música en vivo
-Londres,Islington / Angel,Quiero ir,"Angel, Islington, London, UK",Barrio,Gratis,Bohemio auténtico; Camden Passage antigüedades
-Londres,Highgate Cemetery,Quizás,"Highgate Cemetery, London, UK",Cementerio,£6 (oeste),Tumbas de Marx y George Michael; pueblo encantador
-Londres,King's Cross Station,Solo mapeado,"King's Cross Station, London, UK",Harry Potter,Gratis,Andén 9¾ con carrito oficial
-Londres,Cecil Court,Solo mapeado,"Cecil Court, London, UK",Harry Potter,Gratis,Callejón de librerías; inspiración del Callejón Diagón
-Londres,House of MinaLima,Solo mapeado,"House of MinaLima, London, UK",Harry Potter,Gratis entrar,Galería de los diseñadores gráficos de la saga
-York,York Minster,Solo mapeado,"York Minster, York, UK",Catedral,£26,Catedral gótica más grande del norte de Europa; Central Tower
-York,National Railway Museum,Quizás,"National Railway Museum, York, UK",Museo,Gratis,Colección de trenes más grande del mundo; Flying Scotsman
-York,JORVIK Viking Centre,Quizás,"JORVIK Viking Centre, York, UK",Museo,£17.50,York vikinga en 975 AD; reservar slot online
-York,York Castle Museum,Solo mapeado,"York Castle Museum, UK",Museo,~£10,Calles victorianas y georgianas recreadas
-York,Yorkshire Museum,Quizás,"Yorkshire Museum, York, UK",Museo,~£10,Roma imperial a vikingos; Museum Gardens
-York,Barley Hall,Solo mapeado,"Barley Hall, York, UK",Museo,~£7,Casa medieval s.XIV restaurada
-York,York Chocolate Story,Solo mapeado,"York's Chocolate Story, UK",Museo,~£14,Historia del chocolate; cuna de Rowntree y Terry's
-York,City Walls,Quiero ir,"York City Walls, UK",Sitio histórico,Gratis,3.4km de murallas romanas caminables; circuito ~2h
-York,The Shambles,Quiero ir,"The Shambles, York, UK",Sitio histórico,Gratis,Calle medieval mejor conservada de Europa; ir antes de 9am
-York,Clifford's Tower,Solo mapeado,"Clifford's Tower, York, UK",Sitio histórico,£5.90,Torre normanda s.XIII; vistas 360
-York,Merchant Adventurers' Hall,Solo mapeado,"Merchant Adventurers' Hall, York, UK",Sitio histórico,~£7.50,Sala medieval de mercaderes s.XIV
-York,Micklegate Bar,Solo mapeado,"Micklegate Bar, York, UK",Sitio histórico,~£5,Puerta medieval principal; pequeño museo
-York,Shambles Market,Quiero ir,"Shambles Market, York, UK",Mercado,Gratis,Comida callejera y artesanía junto a The Shambles
-York,Museum Gardens,Solo mapeado,"Museum Gardens, York, UK",Parque,Gratis,Ruinas de la Abadía de St Mary s.XII
-York,Rowntree Park,Solo mapeado,"Rowntree Park, York, UK",Parque,Gratis,Parque junto al Ouse; sin turistas
-York,Betty's Tea Room,Solo mapeado,"Bettys, St Helen's Square, York, UK",Café,£20-35,Institución de té desde 1919; cola habitual
-York,Fossgate / Gillygate,Solo mapeado,"Fossgate, York, UK",Barrio,Gratis,Zona local; cafés
-York,Micklegate,Solo mapeado,"Micklegate, York, UK",Barrio,Gratis,Calle más antigua; pubs históricos
-Edimburgo,Edinburgh Castle,Quiero ir,"Edinburgh Castle, UK",Sitio histórico,£21.50,Honours of Scotland
-Edimburgo,Real Mary King's Close,Quizás,"Real Mary King's Close, Edinburgh, UK",Sitio histórico,£35,Callejones subterráneos s.XVII; pre-booking obligatorio
-Edimburgo,Palace of Holyroodhouse,Solo mapeado,"Palace of Holyroodhouse, Edinburgh, UK",Sitio histórico,£22,Residencia real; habitaciones de María Reina de Escocia
-Edimburgo,Holyrood Abbey,Solo mapeado,"Holyrood Abbey, Edinburgh, UK",Sitio histórico,Incluida,Abadía s.XII en ruinas; con ticket de Holyroodhouse
-Edimburgo,Scottish Parliament,Solo mapeado,"Scottish Parliament, Edinburgh, UK",Sitio histórico,Gratis,Edificio contemporáneo; galería pública en sesión
-Edimburgo,Greyfriars Kirkyard,Solo mapeado,"Greyfriars Kirkyard, Edinburgh, UK",Cementerio,Gratis,Nombres de Harry Potter; tumba de Thomas Riddell; Bobby
-Edimburgo,Scott Monument,Solo mapeado,"Scott Monument, Edinburgh, UK",Sitio histórico,~£10,Torre gótica 61m; 287 escalones con vistas
-Edimburgo,Calton Hill,Solo mapeado,"Calton Hill, Edinburgh, UK",Mirador,Gratis,National Monument y Nelson Monument; vistas 360; atardecer
-Edimburgo,Gladstone's Land,Solo mapeado,"Gladstone's Land, Edinburgh, UK",Sitio histórico,~£8,Tenement s.XVII en la Royal Mile
-Edimburgo,John Knox House,Solo mapeado,"John Knox House, Edinburgh, UK",Sitio histórico,~£6,Casa medieval s.XV-XVI; Reforma escocesa
-Edimburgo,Dean Village,Quizás,"Dean Village, Edinburgh, UK",Sitio histórico,Gratis,Aldea de molinos; aspecto de cuento
-Edimburgo,Grassmarket,Quiero ir,"Grassmarket, Edinburgh, UK",Plaza,Gratis,Plaza histórica al pie del castillo; pubs y mercado
-Edimburgo,George Heriot's School,Solo mapeado,"George Heriot's School, Edinburgh, UK",Sitio histórico,Gratis exterior,Inspiración de Hogwarts; visible desde Greyfriars
-Edimburgo,Canongate Tolbooth,Solo mapeado,"Canongate Tolbooth, Edinburgh, UK",Museo,Gratis,The People's Story; prisión s.XVI
-Edimburgo,National Museum of Scotland,Quiero ir,"National Museum of Scotland, Edinburgh, UK",Museo,Gratis,De los mejores del UK; 5 plantas; mínimo 3h
-Edimburgo,Scottish National Gallery,Solo mapeado,"Scottish National Gallery, Edinburgh, UK",Museo,Gratis,Velázquez
-Edimburgo,Scottish National Portrait Gallery,Solo mapeado,"Scottish National Portrait Gallery, Edinburgh, UK",Museo,Gratis,Edificio neo-gótico; Mary Reina de Escocia
-Edimburgo,Scottish National Gallery of Modern Art,Solo mapeado,"Scottish National Gallery of Modern Art, Edinburgh, UK",Museo,Gratis,Arte moderno; jardines con esculturas en Dean Village
-Edimburgo,Writers' Museum,Solo mapeado,"Writers' Museum, Edinburgh, UK",Museo,Gratis,Scott
-Edimburgo,Museum of Edinburgh,Solo mapeado,"Museum of Edinburgh, Canongate, UK",Museo,Gratis,Historia local en edificio s.XVI
-Edimburgo,Museum of Childhood,Solo mapeado,"Museum of Childhood, Edinburgh, UK",Museo,Gratis,Colección de juguetes de siglos
-Edimburgo,Surgeons' Hall Museum,Solo mapeado,"Surgeons' Hall Museums, Edinburgh, UK",Museo,~£8,Colección anatómica; historia forense
-Edimburgo,Camera Obscura,Solo mapeado,"Camera Obscura, Edinburgh, UK",Museo,~£18-20,Cámara oscura victoriana + ilusiones ópticas
-Edimburgo,The Scotch Whisky Experience,Solo mapeado,"Scotch Whisky Experience, Edinburgh, UK",Experiencia,£24,Tour-cata; Silver Tour con las 4 regiones
-Edimburgo,Arthur's Seat,Solo mapeado,"Arthur's Seat, Edinburgh, UK",Mirador,Gratis,Volcán extinto 251m; mejor al amanecer; 2-3h
-Edimburgo,Salisbury Crags,Solo mapeado,"Salisbury Crags, Edinburgh, UK",Mirador,Gratis,Acantilado en Holyrood Park; Radical Road
-Edimburgo,Holyrood Park,Solo mapeado,"Holyrood Park, Edinburgh, UK",Parque,Gratis,640ha de naturaleza volcánica; Arthur's Seat
-Edimburgo,Princes Street Gardens,Solo mapeado,"Princes Street Gardens, Edinburgh, UK",Parque,Gratis,Jardines bajo el castillo; picnic
-Edimburgo,Royal Botanic Garden,Solo mapeado,"Royal Botanic Garden Edinburgh, UK",Parque,Gratis (glasshouses £8),72ha; jardín chino
-Edimburgo,The Meadows,Solo mapeado,"The Meadows, Edinburgh, UK",Parque,Gratis,Parque al sur de Old Town; sin turistas
-Edimburgo,Stockbridge Market,Quizás,"Stockbridge Market, Edinburgh, UK",Mercado,,Productores locales; solo domingos; el más auténtico
-Edimburgo,Edinburgh Farmers' Market,Solo mapeado,"Castle Terrace, Edinburgh, UK",Mercado,,Productores escoceses; solo sábados 9-14h
-Edimburgo,Sandy Bell's,Quizás,"Sandy Bell's, Edinburgh, UK",Pub,,Folk tradicional casi todas las noches; sin cover
-Edimburgo,Victoria Street,Solo mapeado,"Victoria Street, Edinburgh, UK",Harry Potter,Gratis,Calle curva; inspiración del Callejón Diagón
-Edimburgo,The Elephant House,Solo mapeado,"The Elephant House, Edinburgh, UK",Harry Potter,,Café donde JKR escribió; reabrió dic 2025
-Edimburgo,Balmoral Hotel,Solo mapeado,"The Balmoral Hotel, Edinburgh, UK",Harry Potter,Gratis exterior,JKR terminó Reliquias de la Muerte en la suite 552
-Edimburgo,Old Town,Solo mapeado,"Royal Mile, Edinburgh, UK",Barrio,Gratis,Corazón medieval; Royal Mile y las closes
-Edimburgo,New Town,Solo mapeado,"New Town, Edinburgh, UK",Barrio,Gratis,Arquitectura georgiana 1766; George Street
-Edimburgo,Stockbridge,Solo mapeado,"Stockbridge, Edinburgh, UK",Barrio,Gratis,Bohemio y local; Water of Leith
-Edimburgo,Leith,Solo mapeado,"Leith, Edinburgh, UK",Barrio,Gratis,Puerto histórico; The Shore gastronómico
-Highlands,West Highland Museum,Solo mapeado,"West Highland Museum, Fort William, UK",Museo,Gratis,Historia jacobita; Retrato Secreto de Bonnie Prince Charlie
-Highlands,Nevis Range Gondola,Solo mapeado,"Nevis Range, Fort William, UK",Teleférico,~£20,Telesilla a 650m; vistas a Ben Nevis
-Highlands,Ben Nevis,Quizás,"Ben Nevis, UK",Trekking,Gratis,Montaña más alta de UK; 7-9h exigente; alternativa Steall Falls
-Highlands,Glen Nevis & Steall Falls,Quiero ir,"Steall Falls, Glen Nevis, UK",Trekking,Gratis,Cascada de 120m; ruta de Harry Potter y Braveheart; fácil
-Highlands,Neptune's Staircase,Solo mapeado,"Neptune's Staircase, Banavie, UK",Sitio histórico,Gratis,8 esclusas del Canal Caledoniano
-Highlands,Old Inverlochy Castle,Solo mapeado,"Old Inverlochy Castle, Fort William, UK",Castillo,Gratis,Ruinas s.XIII; sin aglomeraciones
-Highlands,Fort William Town,Quiero ir,"Fort William, UK",Pueblo,Gratis,Base práctica; outdoor stores y supermercados
-Highlands,Glencoe Valley (Three Sisters),Quiero ir,"Three Sisters, Glencoe, UK",Paisaje,Gratis,Valle dramático; Highlander
-Highlands,Buachaille Etive Mòr,Quizás,"Buachaille Etive Mor, UK",Paisaje,Gratis,Monte piramidal icónico; vista desde Altnafeadh
-Highlands,Glen Etive,Quiero ir,"Glen Etive, UK",Paisaje,Gratis,Single-track de Skyfall; solitaria y brutal
-Highlands,Lost Valley (Coire Gabhail),Quizás,"Lost Valley, Glencoe, UK",Trekking,Gratis,Valle oculto de los MacDonald; 2-3h moderada
-Highlands,Signal Rock,Solo mapeado,"Signal Rock, Glencoe, UK",Sitio histórico,Gratis,Roca de la Masacre de Glencoe 1692; 30 min
-Highlands,Glencoe Lochan,Solo mapeado,"Glencoe Lochan, UK",Naturaleza,Gratis,Lago artificial 1890; loop de 45 min
-Highlands,Glencoe Visitor Centre,Quizás,"Glencoe Visitor Centre, UK",Museo,~£5-8,Exposición sobre la masacre y jacobitas
-Highlands,Devil's Staircase,Solo mapeado,"Devil's Staircase, Kinlochleven, UK",Trekking,Gratis,Paso de montaña del West Highland Way; 2-3h
-Highlands,Glenfinnan Viaduct,Quiero ir,"Glenfinnan Viaduct, UK",Sitio histórico,Gratis,Puente de Hogwarts; llegar 45-60 min antes del tren
-Highlands,Glenfinnan Monument,Solo mapeado,"Glenfinnan Monument, UK",Sitio histórico,~£5-8,Estandarte jacobita 1745; Loch Shiel
-Highlands,Mallaig + Silver Sands of Morar,Quizás,"Silver Sands of Morar, UK",Playa,Gratis,Playas de arena blanca; puerto de marisco fresco
-Highlands,Castle Stalker,Solo mapeado,"Castle Stalker, Portnacroish, UK",Castillo,Gratis exterior,Castillo s.XV en islote; Monty Python; vista desde A828
-Highlands,Oban,Solo mapeado,"Oban, UK",Pueblo,,Capital del marisco escocés; Seafood Shack; distillery
-Highlands,Loch Lomond,Solo mapeado,"Loch Lomond, UK",Paisaje,Gratis,Se pasa en la A82 desde Edimburgo
-Highlands,Eilean Donan Castle,Quizás,"Eilean Donan Castle, Dornie, UK",Castillo,£13,El castillo más fotografiado de Escocia; solo caja el día
-Highlands,Plockton,Solo mapeado,"Plockton, UK",Pueblo,Gratis,Pueblo de pescadores con palmeras; nutrias en el loch
-Highlands,Bealach na Bà / Applecross,Solo mapeado,"Bealach na Ba, Applecross, UK",Paisaje,Gratis,Carretera de montaña más dramática de GB; +2h extra
-Highlands,Puerto de Portree,Quiero ir,"Portree Harbour, Isle of Skye, UK",Pueblo,Gratis,Casas de colores reflejadas; la foto icónica de Skye
-Highlands,Old Man of Storr,Quizás,"Old Man of Storr, Isle of Skye, UK",Trekking,Parking £5-7,Aguja de basalto de 50m; 2-3h; llegar antes de 8am
-Highlands,Quiraing,Quizás,"Quiraing, Isle of Skye, UK",Trekking,Gratis,Plateau de basalto alienígena; loop 4-5h o mirador
-Highlands,Kilt Rock & Mealt Falls,Quiero ir,"Kilt Rock, Isle of Skye, UK",Paisaje,Gratis,Acantilados de basalto hexagonal con cascada al mar
-Highlands,Lealt Falls,Solo mapeado,"Lealt Falls, Isle of Skye, UK",Naturaleza,Gratis,Cascadas en garganta; 20 min; poco transitado
-Highlands,Brothers' Point,Quizás,"Rubha nam Brathairean, Isle of Skye, UK",Trekking,Gratis,Promontorio sobre el mar; 2.5h; raramente lleno
-Highlands,Fairy Glen,Quiero ir,"Fairy Glen, Uig, Isle of Skye, UK",Paisaje,Gratis,Colinas cónicas surrealistas; 15 min
-Highlands,Duntulm Castle,Solo mapeado,"Duntulm Castle, Isle of Skye, UK",Castillo,Gratis,Ruinas s.XV en acantilado; poco visitado
-Highlands,Skye Museum of Island Life,Quizás,"Skye Museum of Island Life, UK",Museo,~£5,Blackhouses de turba; vida crofter s.XIX
-Highlands,Neist Point Lighthouse,Solo mapeado,"Neist Point Lighthouse, Isle of Skye, UK",Paisaje,Gratis,El faro más occidental; los mejores atardeceres; 1h
-Highlands,Dunvegan Castle,Quizás,"Dunvegan Castle, Isle of Skye, UK",Castillo,£17.50,Castillo habitado más antiguo; Clan MacLeod; Fairy Flag
-Highlands,Coral Beach,Solo mapeado,"Coral Beach, Claigan, Isle of Skye, UK",Playa,Gratis,Playa de coral blanco; 30 min desde el parking
-Highlands,Fairy Pools,Quiero ir,"Fairy Pools, Glen Brittle, Isle of Skye, UK",Trekking,Parking £5,Piscinas de agua cristalina bajo las Cuillin; antes de 9am
-Highlands,Sligachan Old Bridge,Quizás,"Sligachan Old Bridge, Isle of Skye, UK",Paisaje,Gratis,Puente s.XIX con las Black Cuillin; 15 min foto
-Highlands,Glen Brittle,Quizás,"Glen Brittle, Isle of Skye, UK",Paisaje,Gratis,Valle de las Fairy Pools; playa al final
-Highlands,Talisker Distillery,Solo mapeado,"Talisker Distillery, Isle of Skye, UK",Destilería,~£15-20,Única destilería de Skye; whisky ahumado marino
-Highlands,Talisker Bay,Solo mapeado,"Talisker Bay, Isle of Skye, UK",Playa,Gratis,Playa de arena negra; 20 min; vacía
-Highlands,Elgol,Solo mapeado,"Elgol, Isle of Skye, UK",Paisaje,Bote ~£20-25,Bote a Loch Coruisk; paisaje salvaje; reservar
-Highlands,Armadale Castle,Solo mapeado,"Armadale Castle, Isle of Skye, UK",Castillo,~£8,Clan Donald Centre; queda muy lejos
-Highlands,Glen Shiel & Five Sisters,Quiero ir,"Five Sisters of Kintail, UK",Paisaje,Gratis,Valle con cinco picos; miradores a pie de carretera
-Highlands,Loch Cluanie,Quizás,"Loch Cluanie, UK",Paisaje,Gratis,Embalse entre montañas; parada fotográfica
-Highlands,Ness Islands,Quizás,"Ness Islands, Inverness, UK",Naturaleza,Gratis,Islotes en el río Ness; ardillas rojas; 1h
-Highlands,Leakey's Bookshop,Quizás,"Leakey's Bookshop, Inverness, UK",Tienda,Gratis,Librería en iglesia s.XVIII; la chimenea más grande de Escocia
-Highlands,Inverness Castle,Quiero ir,"Inverness Castle, UK",Castillo,Gratis exterior,Castillo victoriano rojo; vistas del río Ness
-Highlands,Victorian Market,Solo mapeado,"Victorian Market, Inverness, UK",Mercado,Gratis,Mercado cubierto s.XIX; tiendas locales
-Highlands,Church Street,Quiero ir,"Church Street, Inverness, UK",Barrio,Gratis,Calles más antiguas con carácter; georgianas y victorianas
-Highlands,Urquhart Castle,Solo mapeado,"Urquhart Castle, Drumnadrochit, UK",Castillo,~£12-14,Ruinas sobre el Loch Ness; Grant Tower; Explorer Pass
-Highlands,Loch Ness Centre,Solo mapeado,"Loch Ness Centre, Drumnadrochit, UK",Museo,~£15-18,Exposición sobre Nessie con metodología científica
-Highlands,Fort Augustus,Solo mapeado,"Fort Augustus, UK",Pueblo,Gratis,5 esclusas del Canal Caledoniano; hipnotizante y gratis
-Highlands,Dores Beach,Solo mapeado,"Dores Beach, Loch Ness, UK",Playa,Gratis,Playa al inicio del Loch Ness; Dores Inn con vista
-Highlands,Falls of Foyers,Solo mapeado,"Falls of Foyers, Loch Ness, UK",Naturaleza,Gratis,Cascadas en garganta boscosa; 1h; orilla sur
-Highlands,Culloden Battlefield,Quiero ir,"Culloden Battlefield, Inverness, UK",Sitio histórico,~£14,Batalla de 1746; centro de visitantes muy emotivo
-Highlands,Clava Cairns,Solo mapeado,"Clava Cairns, Inverness, UK",Sitio histórico,Gratis,Cairns funerarios de 4000 años; inspiración de Outlander
-Highlands,Fort George,Solo mapeado,"Fort George, Inverness, UK",Sitio histórico,~£14,Fortaleza s.XVIII mejor conservada de Europa; Explorer Pass
-Highlands,Cawdor Castle,Solo mapeado,"Cawdor Castle, UK",Castillo,~£16.50,El castillo de Macbeth; s.XIV-XVII habitado
-Highlands,Chanonry Point,Quizás,"Chanonry Point, Fortrose, UK",Naturaleza,Gratis,Delfines desde la orilla; llegar 1-2h antes de marea alta
-Highlands,Glen Affric,Quizás,"Glen Affric, UK",Paisaje,Gratis,De los valles más hermosos; pinos caledonios; 1-3h
-Highlands,Cairngorms / Aviemore,Quizás,"Aviemore, UK",Parque nacional,~£20 góndola,Parque más grande de GB; Rothiemurchus
-Highlands,Rogie Falls,Quizás,"Rogie Falls, Strathpeffer, UK",Naturaleza,Gratis,Salmones saltando en agosto; 1h fácil
-Highlands,Corrieshalloch Gorge,Solo mapeado,"Corrieshalloch Gorge, UK",Naturaleza,Gratis,Garganta de 1km con Falls of Measach; puente colgante
-Highlands,Killiecrankie,Solo mapeado,"Killiecrankie, Pitlochry, UK",Sitio histórico,Gratis,Garganta de batalla jacobita 1689; 30-45 min
-Highlands,Pitlochry,Solo mapeado,"Pitlochry, UK",Pueblo,,Pueblo victoriano; Edradour Distillery; escalera de salmones
-Highlands,Blair Castle,Solo mapeado,"Blair Castle, UK",Castillo,~£12-15,Castillo blanco del Duke of Atholl
-Highlands,Dunkeld,Solo mapeado,"Dunkeld, UK",Pueblo,Gratis,Pueblo sobre el Tay; catedral medieval; Birnam Oak
-Highlands,Stirling Castle,Solo mapeado,"Stirling Castle, UK",Castillo,~£16.50,Tan importante como Edinburgh Castle; menos concurrido
-Highlands,The Kelpies,Solo mapeado,"The Kelpies, Falkirk, UK",Escultura,Gratis,Cabezas de caballo de 30m; fotogénicas al atardecer
-Highlands,Falkirk Wheel,Solo mapeado,"Falkirk Wheel, UK",Sitio,Gratis exterior,Único botalift rotatorio del mundo
-Highlands,Edradour Distillery,Quizás,"Edradour Distillery, Pitlochry, UK",Destilería,~£12-15,La destilería tradicional más pequeña de Escocia
-Highlands,Tomatin Distillery,Quizás,"Tomatin Distillery, UK",Destilería,~£12,Highland maltada; en la A9 hacia el sur
-Ámsterdam,Anne Frank House,Quiero ir,"Anne Frank House, Amsterdam",Museo,€16.50,Anexo secreto; reservar 6 semanas antes (martes 10:00 CET)
-Ámsterdam,Rijksmuseum,Solo mapeado,"Rijksmuseum, Amsterdam",Museo,~€22.50,Ronda Nocturna de Rembrandt y Vermeers; reservar slot
-Ámsterdam,Van Gogh Museum,Solo mapeado,"Van Gogh Museum, Amsterdam",Museo,€25-27,400+ obras cronológicas; reservar con semanas
-Ámsterdam,Stedelijk Museum,Solo mapeado,"Stedelijk Museum, Amsterdam",Museo,~€22.50,Arte moderno y diseño holandés s.XX
-Ámsterdam,Rembrandt House,Solo mapeado,"Rembrandt House Museum, Amsterdam",Museo,~€17.50,Casa-taller de Rembrandt reconstruida
-Ámsterdam,NEMO Science Museum,Solo mapeado,"NEMO Science Museum, Amsterdam",Museo,€17.50 (terraza gratis),Terraza del techo gratis con vistas al puerto
-Ámsterdam,Hortus Botanicus,Solo mapeado,"Hortus Botanicus, Amsterdam",Jardín,€14.75,Jardín botánico desde 1638; mariposas tropicales
-Ámsterdam,Red Light Secrets,Solo mapeado,"Red Light Secrets, Amsterdam",Museo,~€15,Museo de la prostitución en una antigua vitrina
-Ámsterdam,Hash Marihuana & Hemp Museum,Solo mapeado,"Hash Marihuana Hemp Museum, Amsterdam",Museo,€9,Historia del cannabis; combo €22 con Red Light Secrets
-Ámsterdam,Amsterdam Museum,Quizás,Amsterdam Museum,Museo,~€17,Historia de la ciudad; bueno para primer día
-Ámsterdam,Moco Museum,Solo mapeado,"Moco Museum, Amsterdam",Museo,~€22,Banksy
-Ámsterdam,Magere Brug,Solo mapeado,"Magere Brug, Amsterdam",Sitio,Gratis,Puente levadizo de madera; iluminado de noche
-Ámsterdam,Jordaan,Quiero ir,"Jordaan, Amsterdam",Barrio,Gratis,Bohemio-chic; 9 Straatjes; el mejor ambiente de bici
-Ámsterdam,De Pijp,Quiero ir,"De Pijp, Amsterdam",Barrio,Gratis,El Brooklyn; Albert Cuypmarkt; barrio favorito de viajeros
-Ámsterdam,De Wallen (Red Light District),Quiero ir,"De Wallen, Amsterdam",Barrio,Gratis,Centro histórico; Oude Kerk; walking tour el primer día
-Ámsterdam,NDSM Wharf,Solo mapeado,"NDSM Wharf, Amsterdam",Barrio,Gratis,Astilleros con street art; ferry gratis desde Centraal
-Ámsterdam,Oud-West,Solo mapeado,"Oud-West, Amsterdam",Barrio,Gratis,Foodhallen
-Ámsterdam,Oost,Quizás,Amsterdam-Oost,Barrio,Gratis,Multicultural sin turistas; Dappermarkt
-Ámsterdam,Boerejongens,Quizás,"Boerejongens Coffeeshop, Amsterdam",Coffee shop,,De los mejores de la ciudad; calidad y variedad
-Ámsterdam,Grey Area,Solo mapeado,"Grey Area Coffeeshop, Amsterdam",Coffee shop,,Diminuto; premium; fila habitual; Oude Gracht 2
-Ámsterdam,Dampkring,Solo mapeado,"Dampkring, Handboogstraat, Amsterdam",Coffee shop,,Salió en Ocean's Twelve; local bonito
-Ámsterdam,Paradox,Solo mapeado,"Paradox Coffeeshop, Amsterdam",Coffee shop,,El más tranquilo; en Jordaan; clientela local
-Ámsterdam,Barney's,Solo mapeado,"Barney's Coffeeshop, Reguliersgracht, Amsterdam",Coffee shop,,Céntrico
-Ámsterdam,Magic Mushroom Gallery,Quizás,"Magic Mushroom Gallery, Spuistraat, Amsterdam",Smart shop,,La más recomendada; asesora bien a principiantes
-Ámsterdam,Tatanka,Solo mapeado,"Tatanka Smartshop, Amsterdam",Smart shop,,Dos locales; staff orientado a la dosis correcta
-Ámsterdam,Café 't Smalle,Quizás,"Café 't Smalle, Amsterdam",Bar,,El brown café más fotogénico de Jordaan; desde 1786
-Ámsterdam,Proeflokaal Wynand Fockink,Solo mapeado,"Wynand Fockink, Amsterdam",Bar,€4-6,Probador de jenever desde 1679
-Ámsterdam,Brouwerij 't IJ,Solo mapeado,"Brouwerij 't IJ, Amsterdam",Bar,€4-6,Cervecería al pie del molino De Gooyer; terraza
-Ámsterdam,Café de Dokter,Solo mapeado,"Café de Dokter, Amsterdam",Bar,,El bar más pequeño y antiguo (1798); sin turistas
-Ámsterdam,Gollem,Solo mapeado,"Gollem, Raamsteeg, Amsterdam",Bar,,El mejor bar de cervezas belgas; 200+ opciones
-Ámsterdam,A'DAM Lookout,Solo mapeado,"A'DAM Lookout, Amsterdam",Mirador,€16.50,Vistas 360; columpio Over The Edge a 100m
-Ámsterdam,Heineken Experience,Quizás,"Heineken Experience, Amsterdam",Experiencia,~€18,Tour en la antigua fábrica; incluye 2 cervezas
-Ámsterdam,Rembrandtplein,Solo mapeado,"Rembrandtplein, Amsterdam",Plaza,Gratis,Estatuas de la Ronda de Noche en 3D; bares
-Ámsterdam,Vondelpark,Solo mapeado,"Vondelpark, Amsterdam",Parque,Gratis,El parque más famoso; artistas callejeros
-Ámsterdam,OBA Biblioteca Central,Solo mapeado,"OBA Oosterdok, Amsterdam",Mirador,Gratis,Terraza piso 7 con vistas; casi nadie lo sabe
-Ámsterdam,Begijnhof,Solo mapeado,"Begijnhof, Amsterdam",Sitio,Gratis,Patio medieval s.XIV en silencio; joya escondida
-Ámsterdam,Nieuwmarkt,Quizás,"Nieuwmarkt, Amsterdam",Plaza,Gratis,Plaza medieval con la Waag; cafés y terrazas
-Ámsterdam,Sarphatipark,Quizás,"Sarphatipark, Amsterdam",Parque,Gratis,Parque íntimo y local en De Pijp; picnic
-Ámsterdam,Albert Cuypmarkt,Solo mapeado,"Albert Cuypmarkt, Amsterdam",Mercado,,EL mercado; stroopwafels frescos; lun-sáb
-Ámsterdam,Noordermarkt,Solo mapeado,"Noordermarkt, Amsterdam",Mercado,,Orgánico y quesos; solo sábados; muy curado
-Ámsterdam,Bloemenmarkt,Solo mapeado,"Bloemenmarkt, Amsterdam",Mercado,,Mercado de flores flotante; solo para la foto
-Colmar,Petite Venise,Quiero ir,"La Petite Venise, Colmar, France",Casco histórico,Gratis,Barrio de curtidores s.XV; canales del Lauch; ir antes de las 9am
-Colmar,Quai de la Poissonnerie,Quiero ir,"Quai de la Poissonnerie, Colmar, France",Casco histórico,Gratis,Muelle de pescadores; ángulo de foto más icónico
-Colmar,Maison Pfister,Quizás,"Maison Pfister, Colmar, France",Casco histórico,Gratis (exterior),Casa burguesa renacentista 1537; galería pintada
-Colmar,Maison des Têtes,Solo mapeado,"Maison des Têtes, Colmar, France",Casco histórico,Gratis (exterior),Casa de las Cabezas 1609; 106 cabezas esculpidas
-Colmar,Collégiale Saint-Martin,Quizás,"Collégiale Saint-Martin, Colmar, France",Iglesia,Gratis,Iglesia gótica s.XIV; punto de encuentro free tours
-Colmar,Ancien Corps de Garde,Quizás,"Ancien Corps de Garde, Colmar, France",Casco histórico,Gratis,Cuerpo de guardia s.XVI frente a la Collégiale
-Colmar,Quartier des Tanneurs,Quiero ir,"Quartier des Tanneurs, Colmar, France",Casco histórico,Gratis,Casas altas de curtidores s.XVI
-Colmar,Barrio des Juifs,Quiero ir,"Rue des Juifs, Colmar, France",Casco histórico,Gratis,Judería medieval s.XIII
-Colmar,Fontaine Roesselmann,Quiero ir,"Place de l'Ancienne Douane, Colmar, France",Casco histórico,Gratis,Fuente del caballero medieval legendario
-Colmar,Rue des Têtes,Quiero ir,"Rue des Têtes, Colmar, France",Casco histórico,Gratis,Calles sin señalizar más fotogénicas
-Colmar,Musée Unterlinden,Quizás,"Musée Unterlinden, Colmar, France",Museo,€14 (€17 audioguía),Retablo de Isenheim de Grünewald; MARTES CERRADO
-Colmar,Musée Bartholdi,Solo mapeado,"Musée Bartholdi, Colmar, France",Museo,~€7,Casa natal del creador de la Estatua de la Libertad
-Colmar,Musée du Jouet,Solo mapeado,"Musée du Jouet, Colmar, France",Museo,~€5,Juguetes europeos s.XIX-XX
-Colmar,Musée d'Histoire Naturelle et d'Ethnographie,Quizás,"Musée d'Histoire Naturelle et d'Ethnographie, Colmar, France",Museo,~€3 (jardín gratis),Jardín botánico oculto secreto local
-Colmar,Marché Couvert (Les Halles),Quiero ir,"Marché Couvert Colmar, France",Mercado,~€8-12 almuerzo,Mercado cubierto; charcutería y munster local
-Colmar,Eguisheim,Quiero ir,"Eguisheim, France",Pueblo Route des Vins,Gratis,Pueblo circular medieval; 6km de Colmar (bici posible)
-Colmar,Kaysersberg,Quiero ir,"Kaysersberg, France",Pueblo Route des Vins,Gratis,Puente fortificado; casa natal de Schweitzer
-Colmar,Riquewihr,Solo mapeado,"Riquewihr, France",Pueblo Route des Vins,Gratis,El más fotografiado y turístico de Alsacia
-Colmar,Turckheim,Quizás,"Turckheim, France",Pueblo Route des Vins,Gratis,Veilleur de nuit; más auténtico que Riquewihr
-Colmar,Ribeauvillé,Solo mapeado,"Ribeauvillé, France",Pueblo Route des Vins,Gratis,Pueblo más al norte del Kut'zig
-Colmar,Château du Haut-Koenigsbourg,Solo mapeado,"Château du Haut-Koenigsbourg, France",Castillo,€12 (+€4 audiotour),Castillo imperial s.XII; desvío específico
-Estrasburgo,Catedral Notre-Dame,Quiero ir,"Cathédrale Notre-Dame de Strasbourg, France",Catedral,Gratis interior (€8 plataforma),Fachada gótica s.XIII; plataforma 330 escalones
-Estrasburgo,Reloj Astronómico,Solo mapeado,"Cathédrale Notre-Dame de Strasbourg, France",Catedral,€3,Show 12:30h (no domingos); llegar antes de 11:30h
-Estrasburgo,Grande Île,Quiero ir,"Grande Île, Strasbourg, France",Casco histórico,Gratis,Centro histórico UNESCO; caminar sin mapa
-Estrasburgo,Petite France,Quiero ir,"Petite France, Strasbourg, France",Casco histórico,Gratis,Barrio de curtidores s.XVI; ir antes de 9am o atardecer
-Estrasburgo,Barrage Vauban + Ponts Couverts,Quiero ir,"Barrage Vauban, Strasbourg, France",Casco histórico,Gratis,Terraza con la vista más icónica de la ciudad
-Estrasburgo,Place Kléber,Quiero ir,"Place Kléber, Strasbourg, France",Plaza,Gratis,Plaza central; corazón social
-Estrasburgo,Place Gutenberg,Solo mapeado,"Place Gutenberg, Strasbourg, France",Plaza,Gratis,Estatua de Gutenberg; fachadas s.XVI
-Estrasburgo,Palais Rohan (3 museos),Quizás,"Palais Rohan, Strasbourg, France",Museo,€7.50 c/u,Artes Decorativas + Bellas Artes + Arqueológico
-Estrasburgo,MAMCS - Arte Moderno,Solo mapeado,"Musée d'Art Moderne et Contemporain, Strasbourg, France",Museo,€7.50,Edificio de 1998 junto al río; café con terraza
-Estrasburgo,Château Vodou,Quizás,"Château Vodou, Strasbourg, France",Museo,,Mayor colección de vodou africano occidental
-Estrasburgo,Musée de l'Œuvre Notre-Dame,Solo mapeado,"Musée de l'Œuvre Notre-Dame, Strasbourg, France",Museo,€7.50,Esculturas originales de la catedral
-Estrasburgo,Fort Poligone,Solo mapeado,"Fort Poligone, Strasbourg, France",Fuerte,Gratis/donación,Tours solo jueves y sábados; bus 73
-Estrasburgo,Barrio Krutenau,Quiero ir,"Krutenau, Strasbourg, France",Barrio,Gratis,Barrio estudiantil y alternativo; tapas y noche local
-Estrasburgo,Neustadt,Quiero ir,"Place de la République, Strasbourg, France",Barrio,Gratis,Barrio imperial alemán 1871; UNESCO
-Estrasburgo,Barrio Europeo,Quizás,"Parlement Européen, Strasbourg, France",Barrio,Gratis (exterior),Instituciones UE junto al Parc de l'Orangerie
-Estrasburgo,Quai des Bateliers,Quizás,"Quai des Bateliers, Strasbourg, France",Barrio,Gratis,Orilla de bares y vida nocturna
-Estrasburgo,Parc de l'Orangerie,Quizás,"Parc de l'Orangerie, Strasbourg, France",Parque,Gratis,Parque más grande; lago
-Estrasburgo,Jardin des Deux Rives,Solo mapeado,"Jardin des Deux Rives, Strasbourg, France",Parque,Gratis,Parque binacional; cruzar a pie a Kehl (Alemania)
-Estrasburgo,Batorama (barco canales),Quizás,"Batorama, Strasbourg, France",Transporte,€12.50-16.20,Recorrido por el Ill; embarcadero junto al Palais Rohan
-Estrasburgo,Parlamento Europeo,Quizás,"Parlement Européen, Strasbourg, France",Institución,Gratis,Visita guiada ~60min; reservar online; llevar DNI/pasaporte
-Estrasburgo,Consejo de Europa,Quizás,"Conseil de l'Europe, Strasbourg, France",Institución,Gratis (exterior),Organismo de derechos humanos; arquitectura años 50
-Estrasburgo,Palais des Droits de l'Homme,Quizás,"Cour Européenne des Droits de l'Homme, Strasbourg, France",Institución,Gratis (exterior),Tribunal Europeo DDHH; arquitectura de Richard Rogers
+ciudad,nombre,prioridad,lat,lng,lugar_busqueda,tipo,precio,notas
+Londres,British Museum,Quiero ir,51.519312,-0.126705,"British Museum, London, UK",Museo,Gratis,Piedra Rosetta
+Londres,Natural History Museum,Quiero ir,51.496511,-0.176002,"Natural History Museum, London, UK",Museo,Gratis,Ballena azul
+Londres,Victoria & Albert Museum,Solo mapeado,51.496884,-0.171637,"Victoria and Albert Museum, London, UK",Museo,Gratis,Artes decorativas y diseño
+Londres,Tate Modern,Solo mapeado,51.507429,-0.099342,"Tate Modern, London, UK",Museo,Gratis,Arte contemporáneo; terraza con vistas al Támesis
+Londres,National Gallery,Solo mapeado,51.508881,-0.128383,"National Gallery, London, UK",Museo,Gratis,Arte europeo s.XIII-XIX; Trafalgar Square
+Londres,National Portrait Gallery,Solo mapeado,51.509284,-0.128319,"National Portrait Gallery, London, UK",Museo,Gratis,Retratos británicos; recién renovada
+Londres,Science Museum,Solo mapeado,51.497398,-0.174673,"Science Museum, London, UK",Museo,Gratis,Aviación
+Londres,Imperial War Museum,Solo mapeado,51.49659,-0.110659,"Imperial War Museum, London, UK",Museo,Gratis,Conflictos mundiales; Holocaust Gallery
+Londres,Churchill War Rooms,Solo mapeado,51.50221,-0.129252,"Churchill War Rooms, London, UK",Museo,£34,Búnker subterráneo de la WWII
+Londres,Sir John Soane's Museum,Solo mapeado,51.517075,-0.117495,"Sir John Soane's Museum, London, UK",Museo,Gratis,Casa-museo ecléctica; reserva recomendada
+Londres,Museum of London Docklands,Solo mapeado,51.507634,-0.023869,"Museum of London Docklands, UK",Museo,Gratis,Historia portuaria; almacén de 1800
+Londres,The Courtauld Gallery,Solo mapeado,51.511624,-0.1177,"Courtauld Gallery, London, UK",Museo,,Impresionistas en Somerset House
+Londres,Westminster Abbey,Solo mapeado,51.499399,-0.127391,"Westminster Abbey, London, UK",Iglesia,£31,Coronaciones reales; tumbas de Newton y Darwin
+Londres,St Paul's Cathedral,Solo mapeado,51.513787,-0.098451,"St Paul's Cathedral, London, UK",Iglesia,£27,Cúpula de Wren; Whispering Gallery
+Londres,Southwark Cathedral,Solo mapeado,51.506158,-0.089682,"Southwark Cathedral, London, UK",Iglesia,Gratis,Gótica s.XII en South Bank; poco turística
+Londres,Temple Church,Solo mapeado,51.513257,-0.110224,"Temple Church, London, UK",Iglesia,Gratis/donativo,Iglesia circular de los Templarios s.XII
+Londres,Tower of London,Quiero ir,51.508543,-0.076902,"Tower of London, UK",Sitio histórico,£37,Joyas de la Corona
+Londres,Tower Bridge,Solo mapeado,51.50467,-0.075932,"Tower Bridge, London, UK",Sitio histórico,£14,Pasarela de cristal con vistas al Támesis
+Londres,Big Ben y Palacio de Westminster,Quiero ir,51.5007,-0.1246,"Big Ben, London, UK",Sitio histórico,Gratis exterior,Vista clásica desde Westminster Bridge
+Londres,Buckingham Palace,Quizás,51.500835,-0.143005,"Buckingham Palace, London, UK",Sitio histórico,~£32 interior,Cambio de guardia 11am días alternos
+Londres,Kensington Palace,Quizás,51.505086,-0.187628,"Kensington Palace, London, UK",Sitio histórico,~£27,Residencia real; exposiciones de Diana
+Londres,Cutty Sark,Solo mapeado,51.482933,-0.009614,"Cutty Sark, Greenwich, London, UK",Sitio histórico,£20,Último clipper de té victoriano
+Londres,Greenwich Observatory,Solo mapeado,51.477362,-0.000846,"Royal Observatory Greenwich, UK",Sitio histórico,£18,Meridiano 0; museo marítimo
+Londres,Trafalgar Square,Solo mapeado,51.507398,-0.128241,"Trafalgar Square, London, UK",Plaza,Gratis,Columna de Nelson; entrada a National Gallery
+Londres,Piccadilly Circus,Quiero ir,51.5101,-0.1342,"Piccadilly Circus, London, UK",Plaza,Gratis,El cruce con pantallas LED; combinar con Soho
+Londres,Covent Garden,Quiero ir,51.511736,-0.122677,"Covent Garden, London, UK",Barrio,Gratis,Antigua lonja; artistas callejeros
+Londres,Hampton Court Palace,Solo mapeado,51.403684,-0.337696,"Hampton Court Palace, UK",Sitio histórico,£32,Palacio Tudor de Enrique VIII; día completo
+Londres,Sky Garden,Quizás,51.5115,-0.0835,"Sky Garden, London, UK",Mirador,Gratis,Jardín piso 35; vistas 360; reserva obligatoria
+Londres,The Shard,Solo mapeado,51.504365,-0.086474,"The Shard, London, UK",Mirador,£25+,Edificio más alto de UK; mejor al atardecer
+Londres,London Eye,Solo mapeado,51.503342,-0.119677,"London Eye, UK",Mirador,£29+,Noria icónica frente al Parlamento
+Londres,Hyde Park,Quiero ir,51.507489,-0.162207,"Hyde Park, London, UK",Parque,Gratis,Lago Serpentine
+Londres,Kensington Gardens,Quiero ir,51.506646,-0.180389,"Kensington Gardens, London, UK",Parque,Gratis,Jardines del Palacio; lindantes con Hyde Park
+Londres,Regent's Park,Quiero ir,51.523628,-0.146636,"Regent's Park, London, UK",Parque,Gratis,Jardines de rosas
+Londres,St James's Park,Quiero ir,51.50313,-0.133165,"St James's Park, London, UK",Parque,Gratis,El parque real más elegante; vistas a Buckingham
+Londres,Hampstead Heath,Solo mapeado,51.55524,-0.165391,"Hampstead Heath, London, UK",Parque,Gratis,Bosque urbano; piscinas naturales; Parliament Hill
+Londres,Primrose Hill,Quiero ir,51.539538,-0.160757,"Primrose Hill, London, UK",Parque,Gratis,Mejores vistas del skyline; barrio bohemio
+Londres,Greenwich Park,Solo mapeado,51.477235,0.000923,"Greenwich Park, London, UK",Parque,Gratis,Colinas con vistas; Observatorio Real
+Londres,Richmond Park,Quizás,51.438512,-0.274735,"Richmond Park, London, UK",Parque,Gratis,Reserva real más grande; ciervos en libertad
+Londres,Victoria Park,Quizás,51.538956,-0.034064,"Victoria Park, London, UK",Parque,Gratis,El parque del East End; sin turistas
+Londres,Victoria Embankment Gardens,Solo mapeado,51.508643,-0.121418,"Victoria Embankment Gardens, London, UK",Parque,Gratis,Jardines junto al Támesis; pausa en Westminster
+Londres,Borough Market,Quiero ir,51.505526,-0.090438,"Borough Market, London, UK",Mercado,,Gourmet bajo viaducto; ir antes de 11am (L-S)
+Londres,Portobello Road Market,Quizás,51.516086,-0.205117,"Portobello Road Market, London, UK",Mercado,,Antigüedades y vintage en Notting Hill; mejor sábado
+Londres,Brick Lane Market,Solo mapeado,51.522286,-0.071581,"Brick Lane Market, London, UK",Mercado,,Ropa
+Londres,Columbia Road Flower Market,Solo mapeado,51.5295,-0.0695,"Columbia Road Flower Market, London, UK",Mercado,,Mercado de flores; solo domingos AM
+Londres,Broadway Market,Solo mapeado,51.537,-0.0615,"Broadway Market, Hackney, London, UK",Mercado,,Mercado de barrio; mejor sábado; el más local
+Londres,Camden Market,Quizás,51.542378,-0.147195,"Camden Market, London, UK",Mercado,,Alternativo enorme; más animado el finde
+Londres,Spitalfields Market,Quizás,51.519018,-0.078722,"Old Spitalfields Market, London, UK",Mercado,,Cubierto victoriano; jueves antigüedades
+Londres,Leadenhall Market,Solo mapeado,51.5128,-0.0836,"Leadenhall Market, London, UK",Mercado,,Victoriano espectacular; escenas de Harry Potter
+Londres,Maltby Street Market,Quiero ir,51.4975,-0.0755,"Maltby Street Market, London, UK",Mercado,,Pequeño y auténtico en Bermondsey; finde
+Londres,Shakespeare's Globe,Solo mapeado,51.508121,-0.097186,"Shakespeare's Globe, London, UK",Teatro,£5+,Réplica del teatro isabelino; el de Hamnet
+Londres,Royal Albert Hall,Quiero ir,51.501007,-0.177406,"Royal Albert Hall, London, UK",Música,£8+,BBC Proms toda la estadía
+Londres,Harry Potter Studio Tour,Quiero ir,51.690984,-0.418291,"Warner Bros Studio Tour London, Leavesden, UK",Experiencia,£58.50,Sets reales de las 8 películas; reservar
+Londres,South Bank,Quiero ir,51.506532,-0.11342,"South Bank, London, UK",Barrio,Gratis,Paseo frente al Támesis; Tate
+Londres,Shoreditch / Brick Lane,Quiero ir,51.526669,-0.079893,"Shoreditch, London, UK",Barrio,Gratis,Mural art
+Londres,Notting Hill,Quiero ir,51.510999,-0.205527,"Notting Hill, London, UK",Barrio,Gratis,Casas victorianas de colores; Portobello
+Londres,Soho,Quiero ir,51.514065,-0.135049,"Soho, London, UK",Barrio,Gratis,Teatros
+Londres,Kensington / Chelsea,Quiero ir,51.498995,-0.199123,"Kensington, London, UK",Barrio,Gratis,Zona de museos top; el barrio más bonito
+Londres,Marylebone,Quizás,51.519637,-0.151963,"Marylebone, London, UK",Barrio,Gratis,Residencial sofisticado; Marylebone High Street
+Londres,Greenwich,Quizás,51.482084,-0.004542,"Greenwich, London, UK",Barrio,Gratis,Pueblo con identidad; Meridiano 0; día completo
+Londres,Camden,Quiero ir,51.539253,-0.142757,"Camden Town, London, UK",Barrio,Gratis,Música en vivo
+Londres,Islington / Angel,Quiero ir,51.532487,-0.106036,"Angel, Islington, London, UK",Barrio,Gratis,Bohemio auténtico; Camden Passage antigüedades
+Londres,Highgate Cemetery,Quizás,51.567776,-0.148594,"Highgate Cemetery, London, UK",Cementerio,£6 (oeste),Tumbas de Marx y George Michael; pueblo encantador
+Londres,King's Cross Station,Solo mapeado,51.530456,-0.123259,"King's Cross Station, London, UK",Harry Potter,Gratis,Andén 9¾ con carrito oficial
+Londres,Cecil Court,Solo mapeado,51.510727,-0.127657,"Cecil Court, London, UK",Harry Potter,Gratis,Callejón de librerías; inspiración del Callejón Diagón
+York,York Minster,Solo mapeado,53.962356,-1.082083,"York Minster, York, UK",Catedral,£26,Catedral gótica más grande del norte de Europa; Central Tower
+York,National Railway Museum,Quizás,53.960496,-1.09611,"National Railway Museum, York, UK",Museo,Gratis,Colección de trenes más grande del mundo; Flying Scotsman
+York,JORVIK Viking Centre,Quizás,53.957393,-1.080294,"JORVIK Viking Centre, York, UK",Museo,£17.50,York vikinga en 975 AD; reservar slot online
+York,York Castle Museum,Solo mapeado,53.955221,-1.078129,"York Castle Museum, UK",Museo,~£10,Calles victorianas y georgianas recreadas
+York,Yorkshire Museum,Quizás,53.961809,-1.087571,"Yorkshire Museum, York, UK",Museo,~£10,Roma imperial a vikingos; Museum Gardens
+York,Barley Hall,Solo mapeado,53.96091,-1.082595,"Barley Hall, York, UK",Museo,~£7,Casa medieval s.XIV restaurada
+York,York Chocolate Story,Solo mapeado,53.960003,-1.080388,"York's Chocolate Story, UK",Museo,~£14,Historia del chocolate; cuna de Rowntree y Terry's
+York,The Shambles,Quiero ir,53.959299,-1.080033,"The Shambles, York, UK",Sitio histórico,Gratis,Calle medieval mejor conservada de Europa; ir antes de 9am
+York,Clifford's Tower,Solo mapeado,53.955865,-1.079952,"Clifford's Tower, York, UK",Sitio histórico,£5.90,Torre normanda s.XIII; vistas 360
+York,Merchant Adventurers' Hall,Solo mapeado,53.957996,-1.078923,"Merchant Adventurers' Hall, York, UK",Sitio histórico,~£7.50,Sala medieval de mercaderes s.XIV
+York,Micklegate Bar,Solo mapeado,53.955856,-1.090889,"Micklegate Bar, York, UK",Sitio histórico,~£5,Puerta medieval principal; pequeño museo
+York,Rowntree Park,Solo mapeado,53.948184,-1.081908,"Rowntree Park, York, UK",Parque,Gratis,Parque junto al Ouse; sin turistas
+York,Fossgate / Gillygate,Solo mapeado,53.958295,-1.079282,"Fossgate, York, UK",Barrio,Gratis,Zona local; cafés
+York,Micklegate,Solo mapeado,53.957285,-1.085875,"Micklegate, York, UK",Barrio,Gratis,Calle más antigua; pubs históricos
+Edimburgo,Edinburgh Castle,Quiero ir,55.948688,-3.200418,"Edinburgh Castle, UK",Sitio histórico,£21.50,Honours of Scotland
+Edimburgo,Palace of Holyroodhouse,Solo mapeado,55.952695,-3.171613,"Palace of Holyroodhouse, Edinburgh, UK",Sitio histórico,£22,Residencia real; habitaciones de María Reina de Escocia
+Edimburgo,Holyrood Abbey,Solo mapeado,55.953151,-3.171648,"Holyrood Abbey, Edinburgh, UK",Sitio histórico,Incluida,Abadía s.XII en ruinas; con ticket de Holyroodhouse
+Edimburgo,Scottish Parliament,Solo mapeado,55.952469,-3.175663,"Scottish Parliament, Edinburgh, UK",Sitio histórico,Gratis,Edificio contemporáneo; galería pública en sesión
+Edimburgo,Greyfriars Kirkyard,Solo mapeado,55.946828,-3.192895,"Greyfriars Kirkyard, Edinburgh, UK",Cementerio,Gratis,Nombres de Harry Potter; tumba de Thomas Riddell; Bobby
+Edimburgo,Scott Monument,Solo mapeado,55.95236,-3.193256,"Scott Monument, Edinburgh, UK",Sitio histórico,~£10,Torre gótica 61m; 287 escalones con vistas
+Edimburgo,Calton Hill,Solo mapeado,55.955254,-3.182798,"Calton Hill, Edinburgh, UK",Mirador,Gratis,National Monument y Nelson Monument; vistas 360; atardecer
+Edimburgo,Gladstone's Land,Solo mapeado,55.949445,-3.193699,"Gladstone's Land, Edinburgh, UK",Sitio histórico,~£8,Tenement s.XVII en la Royal Mile
+Edimburgo,John Knox House,Solo mapeado,55.950649,-3.185098,"John Knox House, Edinburgh, UK",Sitio histórico,~£6,Casa medieval s.XV-XVI; Reforma escocesa
+Edimburgo,Dean Village,Quizás,55.952259,-3.218221,"Dean Village, Edinburgh, UK",Sitio histórico,Gratis,Aldea de molinos; aspecto de cuento
+Edimburgo,Grassmarket,Quiero ir,55.94738,-3.195953,"Grassmarket, Edinburgh, UK",Plaza,Gratis,Plaza histórica al pie del castillo; pubs y mercado
+Edimburgo,George Heriot's School,Solo mapeado,55.946271,-3.19502,"George Heriot's School, Edinburgh, UK",Sitio histórico,Gratis exterior,Inspiración de Hogwarts; visible desde Greyfriars
+Edimburgo,Canongate Tolbooth,Solo mapeado,55.951478,-3.179947,"Canongate Tolbooth, Edinburgh, UK",Museo,Gratis,The People's Story; prisión s.XVI
+Edimburgo,National Museum of Scotland,Quiero ir,55.947288,-3.18924,"National Museum of Scotland, Edinburgh, UK",Museo,Gratis,De los mejores del UK; 5 plantas; mínimo 3h
+Edimburgo,Scottish National Gallery,Solo mapeado,55.950885,-3.195612,"Scottish National Gallery, Edinburgh, UK",Museo,Gratis,Velázquez
+Edimburgo,Scottish National Portrait Gallery,Solo mapeado,55.955466,-3.193592,"Scottish National Portrait Gallery, Edinburgh, UK",Museo,Gratis,Edificio neo-gótico; Mary Reina de Escocia
+Edimburgo,Writers' Museum,Solo mapeado,55.949691,-3.193742,"Writers' Museum, Edinburgh, UK",Museo,Gratis,Scott
+Edimburgo,Museum of Edinburgh,Solo mapeado,55.95121,-3.1795,"Museum of Edinburgh, Canongate, UK",Museo,Gratis,Historia local en edificio s.XVI
+Edimburgo,Museum of Childhood,Solo mapeado,55.950491,-3.185489,"Museum of Childhood, Edinburgh, UK",Museo,Gratis,Colección de juguetes de siglos
+Edimburgo,Surgeons' Hall Museum,Solo mapeado,55.946767,-3.18468,"Surgeons' Hall Museums, Edinburgh, UK",Museo,~£8,Colección anatómica; historia forense
+Edimburgo,Camera Obscura,Solo mapeado,55.949029,-3.195604,"Camera Obscura, Edinburgh, UK",Museo,~£18-20,Cámara oscura victoriana + ilusiones ópticas
+Edimburgo,The Scotch Whisky Experience,Solo mapeado,55.948743,-3.195875,"Scotch Whisky Experience, Edinburgh, UK",Experiencia,£24,Tour-cata; Silver Tour con las 4 regiones
+Edimburgo,Arthur's Seat,Solo mapeado,55.944069,-3.161603,"Arthur's Seat, Edinburgh, UK",Mirador,Gratis,Volcán extinto 251m; mejor al amanecer; 2-3h
+Edimburgo,Salisbury Crags,Solo mapeado,55.948265,-3.172653,"Salisbury Crags, Edinburgh, UK",Mirador,Gratis,Acantilado en Holyrood Park; Radical Road
+Edimburgo,Holyrood Park,Solo mapeado,55.94564,-3.1638,"Holyrood Park, Edinburgh, UK",Parque,Gratis,640ha de naturaleza volcánica; Arthur's Seat
+Edimburgo,Princes Street Gardens,Solo mapeado,55.95025,-3.199495,"Princes Street Gardens, Edinburgh, UK",Parque,Gratis,Jardines bajo el castillo; picnic
+Edimburgo,Royal Botanic Garden,Solo mapeado,55.965285,-3.208859,"Royal Botanic Garden Edinburgh, UK",Parque,Gratis (glasshouses £8),72ha; jardín chino
+Edimburgo,The Meadows,Solo mapeado,55.942341,-3.194293,"The Meadows, Edinburgh, UK",Parque,Gratis,Parque al sur de Old Town; sin turistas
+Edimburgo,Stockbridge Market,Quizás,55.957629,-3.208443,"Stockbridge Market, Edinburgh, UK",Mercado,,Productores locales; solo domingos; el más auténtico
+Edimburgo,Edinburgh Farmers' Market,Solo mapeado,55.947248,-3.202363,"Castle Terrace, Edinburgh, UK",Mercado,,Productores escoceses; solo sábados 9-14h
+Edimburgo,Sandy Bell's,Quizás,55.946081,-3.19129,"Sandy Bell's, Edinburgh, UK",Pub,,Folk tradicional casi todas las noches; sin cover
+Edimburgo,Victoria Street,Solo mapeado,55.948679,-3.192792,"Victoria Street, Edinburgh, UK",Harry Potter,Gratis,Calle curva; inspiración del Callejón Diagón
+Edimburgo,The Elephant House,Solo mapeado,55.94757,-3.191785,"The Elephant House, Edinburgh, UK",Harry Potter,,Café donde JKR escribió; reabrió dic 2025
+Edimburgo,Balmoral Hotel,Solo mapeado,55.953088,-3.189263,"The Balmoral Hotel, Edinburgh, UK",Harry Potter,Gratis exterior,JKR terminó Reliquias de la Muerte en la suite 552
+Edimburgo,Old Town,Solo mapeado,55.94994,-3.189257,"Royal Mile, Edinburgh, UK",Barrio,Gratis,Corazón medieval; Royal Mile y las closes
+Edimburgo,New Town,Solo mapeado,55.955458,-3.199,"New Town, Edinburgh, UK",Barrio,Gratis,Arquitectura georgiana 1766; George Street
+Edimburgo,Stockbridge,Solo mapeado,55.957972,-3.20934,"Stockbridge, Edinburgh, UK",Barrio,Gratis,Bohemio y local; Water of Leith
+Edimburgo,Leith,Solo mapeado,55.97255,-3.170949,"Leith, Edinburgh, UK",Barrio,Gratis,Puerto histórico; The Shore gastronómico
+Highlands,West Highland Museum,Solo mapeado,56.81763,-5.111046,"West Highland Museum, Fort William, UK",Museo,Gratis,Historia jacobita; Retrato Secreto de Bonnie Prince Charlie
+Highlands,Nevis Range Gondola,Solo mapeado,56.847673,-5.046407,"Nevis Range, Fort William, UK",Teleférico,~£20,Telesilla a 650m; vistas a Ben Nevis
+Highlands,Ben Nevis,Quizás,56.796858,-5.003526,"Ben Nevis, UK",Trekking,Gratis,Montaña más alta de UK; 7-9h exigente; alternativa Steall Falls
+Highlands,Neptune's Staircase,Solo mapeado,56.847155,-5.092517,"Neptune's Staircase, Banavie, UK",Sitio histórico,Gratis,8 esclusas del Canal Caledoniano
+Highlands,Fort William Town,Quiero ir,56.820558,-5.105313,"Fort William, UK",Pueblo,Gratis,Base práctica; outdoor stores y supermercados
+Highlands,Buachaille Etive Mòr,Quizás,56.65,-4.9,"Buachaille Etive Mor, UK",Paisaje,Gratis,Monte piramidal icónico; vista desde Altnafeadh
+Highlands,Glen Etive,Quiero ir,56.61606,-4.963061,"Glen Etive, UK",Paisaje,Gratis,Single-track de Skyfall; solitaria y brutal
+Highlands,Lost Valley (Coire Gabhail),Quizás,56.662,-4.987,"Lost Valley, Glencoe, UK",Trekking,Gratis,Valle oculto de los MacDonald; 2-3h moderada
+Highlands,Signal Rock,Solo mapeado,56.67,-5.1,"Signal Rock, Glencoe, UK",Sitio histórico,Gratis,Roca de la Masacre de Glencoe 1692; 30 min
+Highlands,Glencoe Lochan,Solo mapeado,56.690691,-5.095836,"Glencoe Lochan, UK",Naturaleza,Gratis,Lago artificial 1890; loop de 45 min
+Highlands,Glencoe Visitor Centre,Quizás,56.670703,-5.079679,"Glencoe Visitor Centre, UK",Museo,~£5-8,Exposición sobre la masacre y jacobitas
+Highlands,Devil's Staircase,Solo mapeado,56.678,-4.905,"Devil's Staircase, Kinlochleven, UK",Trekking,Gratis,Paso de montaña del West Highland Way; 2-3h
+Highlands,Glenfinnan Viaduct,Quiero ir,56.8763,-5.432,"Glenfinnan Viaduct, UK",Sitio histórico,Gratis,Puente de Hogwarts; llegar 45-60 min antes del tren
+Highlands,Glenfinnan Monument,Solo mapeado,56.869173,-5.43705,"Glenfinnan Monument, UK",Sitio histórico,~£5-8,Estandarte jacobita 1745; Loch Shiel
+Highlands,Castle Stalker,Solo mapeado,56.572574,-5.382622,"Castle Stalker, Portnacroish, UK",Castillo,Gratis exterior,Castillo s.XV en islote; Monty Python; vista desde A828
+Highlands,Oban,Solo mapeado,56.412017,-5.472373,"Oban, UK",Pueblo,,Capital del marisco escocés; Seafood Shack; distillery
+Highlands,Loch Lomond,Solo mapeado,56.156196,-4.656376,"Loch Lomond, UK",Paisaje,Gratis,Se pasa en la A82 desde Edimburgo
+Highlands,Eilean Donan Castle,Quizás,57.274096,-5.515916,"Eilean Donan Castle, Dornie, UK",Castillo,£13,El castillo más fotografiado de Escocia; solo caja el día
+Highlands,Plockton,Solo mapeado,57.338081,-5.651894,"Plockton, UK",Pueblo,Gratis,Pueblo de pescadores con palmeras; nutrias en el loch
+Highlands,Bealach na Bà / Applecross,Solo mapeado,57.416,-5.7,"Bealach na Ba, Applecross, UK",Paisaje,Gratis,Carretera de montaña más dramática de GB; +2h extra
+Highlands,Old Man of Storr,Quizás,57.5072,-6.1742,"Old Man of Storr, Isle of Skye, UK",Trekking,Parking £5-7,Aguja de basalto de 50m; 2-3h; llegar antes de 8am
+Highlands,Quiraing,Quizás,57.6436,-6.2705,"Quiraing, Isle of Skye, UK",Trekking,Gratis,Plateau de basalto alienígena; loop 4-5h o mirador
+Highlands,Fairy Glen,Quiero ir,57.561,-6.311,"Fairy Glen, Uig, Isle of Skye, UK",Paisaje,Gratis,Colinas cónicas surrealistas; 15 min
+Highlands,Skye Museum of Island Life,Quizás,57.660216,-6.368944,"Skye Museum of Island Life, UK",Museo,~£5,Blackhouses de turba; vida crofter s.XIX
+Highlands,Neist Point Lighthouse,Solo mapeado,57.4135,-6.788,"Neist Point Lighthouse, Isle of Skye, UK",Paisaje,Gratis,El faro más occidental; los mejores atardeceres; 1h
+Highlands,Fairy Pools,Quiero ir,57.2495,-6.257,"Fairy Pools, Glen Brittle, Isle of Skye, UK",Trekking,Parking £5,Piscinas de agua cristalina bajo las Cuillin; antes de 9am
+Highlands,Elgol,Solo mapeado,57.152323,-6.098404,"Elgol, Isle of Skye, UK",Paisaje,Bote ~£20-25,Bote a Loch Coruisk; paisaje salvaje; reservar
+Highlands,Loch Cluanie,Quizás,57.212758,-4.526319,"Loch Cluanie, UK",Paisaje,Gratis,Embalse entre montañas; parada fotográfica
+Highlands,Ness Islands,Quizás,57.464031,-4.230526,"Ness Islands, Inverness, UK",Naturaleza,Gratis,Islotes en el río Ness; ardillas rojas; 1h
+Highlands,Inverness Castle,Quiero ir,57.476433,-4.225644,"Inverness Castle, UK",Castillo,Gratis exterior,Castillo victoriano rojo; vistas del río Ness
+Highlands,Victorian Market,Solo mapeado,57.478999,-4.225864,"Victorian Market, Inverness, UK",Mercado,Gratis,Mercado cubierto s.XIX; tiendas locales
+Highlands,Church Street,Quiero ir,57.477762,-4.225662,"Church Street, Inverness, UK",Barrio,Gratis,Calles más antiguas con carácter; georgianas y victorianas
+Highlands,Loch Ness Centre,Solo mapeado,57.33737,-4.477875,"Loch Ness Centre, Drumnadrochit, UK",Museo,~£15-18,Exposición sobre Nessie con metodología científica
+Highlands,Fort Augustus,Solo mapeado,57.144332,-4.681487,"Fort Augustus, UK",Pueblo,Gratis,5 esclusas del Canal Caledoniano; hipnotizante y gratis
+Highlands,Culloden Battlefield,Quiero ir,57.477154,-4.092571,"Culloden Battlefield, Inverness, UK",Sitio histórico,~£14,Batalla de 1746; centro de visitantes muy emotivo
+Highlands,Fort George,Solo mapeado,57.586124,-4.044791,"Fort George, Inverness, UK",Sitio histórico,~£14,Fortaleza s.XVIII mejor conservada de Europa; Explorer Pass
+Highlands,Cawdor Castle,Solo mapeado,57.521326,-3.921561,"Cawdor Castle, UK",Castillo,~£16.50,El castillo de Macbeth; s.XIV-XVII habitado
+Highlands,Chanonry Point,Quizás,57.574137,-4.091792,"Chanonry Point, Fortrose, UK",Naturaleza,Gratis,Delfines desde la orilla; llegar 1-2h antes de marea alta
+Highlands,Glen Affric,Quizás,57.263658,-4.999046,"Glen Affric, UK",Paisaje,Gratis,De los valles más hermosos; pinos caledonios; 1-3h
+Highlands,Cairngorms / Aviemore,Quizás,57.193753,-3.82875,"Aviemore, UK",Parque nacional,~£20 góndola,Parque más grande de GB; Rothiemurchus
+Highlands,Corrieshalloch Gorge,Solo mapeado,57.757699,-5.023221,"Corrieshalloch Gorge, UK",Naturaleza,Gratis,Garganta de 1km con Falls of Measach; puente colgante
+Highlands,Pitlochry,Solo mapeado,56.702364,-3.73564,"Pitlochry, UK",Pueblo,,Pueblo victoriano; Edradour Distillery; escalera de salmones
+Highlands,Blair Castle,Solo mapeado,56.771334,-3.873177,"Blair Castle, UK",Castillo,~£12-15,Castillo blanco del Duke of Atholl
+Highlands,Dunkeld,Solo mapeado,56.565571,-3.586255,"Dunkeld, UK",Pueblo,Gratis,Pueblo sobre el Tay; catedral medieval; Birnam Oak
+Highlands,Stirling Castle,Solo mapeado,56.124031,-3.948011,"Stirling Castle, UK",Castillo,~£16.50,Tan importante como Edinburgh Castle; menos concurrido
+Highlands,The Kelpies,Solo mapeado,56.019136,-3.755499,"The Kelpies, Falkirk, UK",Escultura,Gratis,Cabezas de caballo de 30m; fotogénicas al atardecer
+Highlands,Falkirk Wheel,Solo mapeado,56.0005,-3.8415,"Falkirk Wheel, UK",Sitio,Gratis exterior,Único botalift rotatorio del mundo
+Highlands,Tomatin Distillery,Quizás,57.338986,-4.009283,"Tomatin Distillery, UK",Destilería,~£12,Highland maltada; en la A9 hacia el sur
+Ámsterdam,Anne Frank House,Quiero ir,52.375156,4.884081,"Anne Frank House, Amsterdam",Museo,€16.50,Anexo secreto; reservar 6 semanas antes (martes 10:00 CET)
+Ámsterdam,Rijksmuseum,Solo mapeado,52.359843,4.88504,"Rijksmuseum, Amsterdam",Museo,~€22.50,Ronda Nocturna de Rembrandt y Vermeers; reservar slot
+Ámsterdam,Van Gogh Museum,Solo mapeado,52.358367,4.88109,"Van Gogh Museum, Amsterdam",Museo,€25-27,400+ obras cronológicas; reservar con semanas
+Ámsterdam,Stedelijk Museum,Solo mapeado,52.3579,4.87986,"Stedelijk Museum, Amsterdam",Museo,~€22.50,Arte moderno y diseño holandés s.XX
+Ámsterdam,Rembrandt House,Solo mapeado,52.369369,4.90125,"Rembrandt House Museum, Amsterdam",Museo,~€17.50,Casa-taller de Rembrandt reconstruida
+Ámsterdam,Hortus Botanicus,Solo mapeado,52.366806,4.907778,"Hortus Botanicus, Amsterdam",Jardín,€14.75,Jardín botánico desde 1638; mariposas tropicales
+Ámsterdam,Red Light Secrets,Solo mapeado,52.373646,4.898975,"Red Light Secrets, Amsterdam",Museo,~€15,Museo de la prostitución en una antigua vitrina
+Ámsterdam,Hash Marihuana & Hemp Museum,Solo mapeado,52.371762,4.896959,"Hash Marihuana Hemp Museum, Amsterdam",Museo,€9,Historia del cannabis; combo €22 con Red Light Secrets
+Ámsterdam,Amsterdam Museum,Quizás,52.365366,4.902387,Amsterdam Museum,Museo,~€17,Historia de la ciudad; bueno para primer día
+Ámsterdam,Moco Museum,Solo mapeado,52.358716,4.881962,"Moco Museum, Amsterdam",Museo,~€22,Banksy
+Ámsterdam,Magere Brug,Solo mapeado,52.3637,4.9024,"Magere Brug, Amsterdam",Sitio,Gratis,Puente levadizo de madera; iluminado de noche
+Ámsterdam,Jordaan,Quiero ir,52.375416,4.881096,"Jordaan, Amsterdam",Barrio,Gratis,Bohemio-chic; 9 Straatjes; el mejor ambiente de bici
+Ámsterdam,De Pijp,Quiero ir,52.353346,4.896962,"De Pijp, Amsterdam",Barrio,Gratis,El Brooklyn; Albert Cuypmarkt; barrio favorito de viajeros
+Ámsterdam,De Wallen (Red Light District),Quiero ir,52.373408,4.898281,"De Wallen, Amsterdam",Barrio,Gratis,Centro histórico; Oude Kerk; walking tour el primer día
+Ámsterdam,Oud-West,Solo mapeado,52.364815,4.869762,"Oud-West, Amsterdam",Barrio,Gratis,Foodhallen
+Ámsterdam,Oost,Quizás,52.351814,4.930553,Amsterdam-Oost,Barrio,Gratis,Multicultural sin turistas; Dappermarkt
+Ámsterdam,Grey Area,Solo mapeado,52.3755,4.8895,"Grey Area Coffeeshop, Amsterdam",Coffee shop,,Diminuto; premium; fila habitual; Oude Gracht 2
+Ámsterdam,Dampkring,Solo mapeado,52.367732,4.890481,"Dampkring, Handboogstraat, Amsterdam",Coffee shop,,Salió en Ocean's Twelve; local bonito
+Ámsterdam,Paradox,Solo mapeado,52.374536,4.881251,"Paradox Coffeeshop, Amsterdam",Coffee shop,,El más tranquilo; en Jordaan; clientela local
+Ámsterdam,Magic Mushroom Gallery,Quizás,52.370677,4.889363,"Magic Mushroom Gallery, Spuistraat, Amsterdam",Smart shop,,La más recomendada; asesora bien a principiantes
+Ámsterdam,Tatanka,Solo mapeado,52.366587,4.895745,"Tatanka Smartshop, Amsterdam",Smart shop,,Dos locales; staff orientado a la dosis correcta
+Ámsterdam,Café 't Smalle,Quizás,52.3775,4.8855,"Café 't Smalle, Amsterdam",Bar,,El brown café más fotogénico de Jordaan; desde 1786
+Ámsterdam,Proeflokaal Wynand Fockink,Solo mapeado,52.3725,4.8955,"Wynand Fockink, Amsterdam",Bar,€4-6,Probador de jenever desde 1679
+Ámsterdam,Brouwerij 't IJ,Solo mapeado,52.366698,4.926347,"Brouwerij 't IJ, Amsterdam",Bar,€4-6,Cervecería al pie del molino De Gooyer; terraza
+Ámsterdam,Café de Dokter,Solo mapeado,52.369255,4.890812,"Café de Dokter, Amsterdam",Bar,,El bar más pequeño y antiguo (1798); sin turistas
+Ámsterdam,Gollem,Solo mapeado,52.370253,4.888719,"Gollem, Raamsteeg, Amsterdam",Bar,,El mejor bar de cervezas belgas; 200+ opciones
+Ámsterdam,A'DAM Lookout,Solo mapeado,52.3997,4.895,"A'DAM Lookout, Amsterdam",Mirador,€16.50,Vistas 360; columpio Over The Edge a 100m
+Ámsterdam,Heineken Experience,Quizás,52.35784,4.891784,"Heineken Experience, Amsterdam",Experiencia,~€18,Tour en la antigua fábrica; incluye 2 cervezas
+Ámsterdam,Rembrandtplein,Solo mapeado,52.366311,4.896839,"Rembrandtplein, Amsterdam",Plaza,Gratis,Estatuas de la Ronda de Noche en 3D; bares
+Ámsterdam,Vondelpark,Solo mapeado,52.3607,4.873706,"Vondelpark, Amsterdam",Parque,Gratis,El parque más famoso; artistas callejeros
+Ámsterdam,Begijnhof,Solo mapeado,52.369431,4.890043,"Begijnhof, Amsterdam",Sitio,Gratis,Patio medieval s.XIV en silencio; joya escondida
+Ámsterdam,Nieuwmarkt,Quizás,52.371318,4.900879,"Nieuwmarkt, Amsterdam",Plaza,Gratis,Plaza medieval con la Waag; cafés y terrazas
+Ámsterdam,Sarphatipark,Quizás,52.354862,4.898651,"Sarphatipark, Amsterdam",Parque,Gratis,Parque íntimo y local en De Pijp; picnic
+Ámsterdam,Albert Cuypmarkt,Solo mapeado,52.35573,4.894361,"Albert Cuypmarkt, Amsterdam",Mercado,,EL mercado; stroopwafels frescos; lun-sáb
+Ámsterdam,Noordermarkt,Solo mapeado,52.379258,4.886632,"Noordermarkt, Amsterdam",Mercado,,Orgánico y quesos; solo sábados; muy curado
+Ámsterdam,Bloemenmarkt,Solo mapeado,52.366931,4.890765,"Bloemenmarkt, Amsterdam",Mercado,,Mercado de flores flotante; solo para la foto
+Colmar,Petite Venise,Quiero ir,48.073977,7.357306,"La Petite Venise, Colmar, France",Casco histórico,Gratis,Barrio de curtidores s.XV; canales del Lauch; ir antes de las 9am
+Colmar,Quai de la Poissonnerie,Quiero ir,48.074404,7.360127,"Quai de la Poissonnerie, Colmar, France",Casco histórico,Gratis,Muelle de pescadores; ángulo de foto más icónico
+Colmar,Maison Pfister,Quizás,48.076751,7.358151,"Maison Pfister, Colmar, France",Casco histórico,Gratis (exterior),Casa burguesa renacentista 1537; galería pintada
+Colmar,Maison des Têtes,Solo mapeado,48.07856,7.355532,"Maison des Têtes, Colmar, France",Casco histórico,Gratis (exterior),Casa de las Cabezas 1609; 106 cabezas esculpidas
+Colmar,Collégiale Saint-Martin,Quizás,48.077347,7.35811,"Collégiale Saint-Martin, Colmar, France",Iglesia,Gratis,Iglesia gótica s.XIV; punto de encuentro free tours
+Colmar,Ancien Corps de Garde,Quizás,48.076867,7.357818,"Ancien Corps de Garde, Colmar, France",Casco histórico,Gratis,Cuerpo de guardia s.XVI frente a la Collégiale
+Colmar,Barrio des Juifs,Quiero ir,48.077200,7.356500,"Rue des Juifs, Colmar, France",Casco histórico,Gratis,Judería medieval s.XIII
+Colmar,Rue des Têtes,Quiero ir,48.078683,7.355487,"Rue des Têtes, Colmar, France",Casco histórico,Gratis,Calles sin señalizar más fotogénicas
+Colmar,Musée Unterlinden,Quizás,48.079864,7.355556,"Musée Unterlinden, Colmar, France",Museo,€14 (€17 audioguía),Retablo de Isenheim de Grünewald; MARTES CERRADO
+Colmar,Musée Bartholdi,Solo mapeado,48.076609,7.357482,"Musée Bartholdi, Colmar, France",Museo,~€7,Casa natal del creador de la Estatua de la Libertad
+Colmar,Musée du Jouet,Solo mapeado,48.079104,7.362284,"Musée du Jouet, Colmar, France",Museo,~€5,Juguetes europeos s.XIX-XX
+Colmar,Musée d'Histoire Naturelle et d'Ethnographie,Quizás,48.073624,7.358822,"Musée d'Histoire Naturelle et d'Ethnographie, Colmar, France",Museo,~€3 (jardín gratis),Jardín botánico oculto secreto local
+Colmar,Marché Couvert (Les Halles),Quiero ir,48.074621,7.3598,"Marché Couvert Colmar, France",Mercado,~€8-12 almuerzo,Mercado cubierto; charcutería y munster local
+Colmar,Eguisheim,Quiero ir,48.044797,7.307962,"Eguisheim, France",Pueblo Route des Vins,Gratis,Pueblo circular medieval; 6km de Colmar (bici posible)
+Colmar,Kaysersberg,Quiero ir,48.139339,7.261328,"Kaysersberg, France",Pueblo Route des Vins,Gratis,Puente fortificado; casa natal de Schweitzer
+Colmar,Riquewihr,Solo mapeado,48.166077,7.298014,"Riquewihr, France",Pueblo Route des Vins,Gratis,El más fotografiado y turístico de Alsacia
+Colmar,Turckheim,Quizás,48.087822,7.278011,"Turckheim, France",Pueblo Route des Vins,Gratis,Veilleur de nuit; más auténtico que Riquewihr
+Colmar,Ribeauvillé,Solo mapeado,48.19246,7.324887,"Ribeauvillé, France",Pueblo Route des Vins,Gratis,Pueblo más al norte del Kut'zig
+Colmar,Château du Haut-Koenigsbourg,Solo mapeado,48.249382,7.343941,"Château du Haut-Koenigsbourg, France",Castillo,€12 (+€4 audiotour),Castillo imperial s.XII; desvío específico
+Estrasburgo,Catedral Notre-Dame,Quiero ir,48.581888,7.751052,"Cathédrale Notre-Dame de Strasbourg, France",Catedral,Gratis interior (€8 plataforma),Fachada gótica s.XIII; plataforma 330 escalones
+Estrasburgo,Grande Île,Quiero ir,48.580517,7.745507,"Grande Île, Strasbourg, France",Casco histórico,Gratis,Centro histórico UNESCO; caminar sin mapa
+Estrasburgo,Petite France,Quiero ir,48.581365,7.742181,"Petite France, Strasbourg, France",Casco histórico,Gratis,Barrio de curtidores s.XVI; ir antes de 9am o atardecer
+Estrasburgo,Barrage Vauban + Ponts Couverts,Quiero ir,48.579602,7.738,"Barrage Vauban, Strasbourg, France",Casco histórico,Gratis,Terraza con la vista más icónica de la ciudad
+Estrasburgo,Place Kléber,Quiero ir,48.583276,7.746674,"Place Kléber, Strasbourg, France",Plaza,Gratis,Plaza central; corazón social
+Estrasburgo,Place Gutenberg,Solo mapeado,48.58119,7.748539,"Place Gutenberg, Strasbourg, France",Plaza,Gratis,Estatua de Gutenberg; fachadas s.XVI
+Estrasburgo,Palais Rohan (3 museos),Quizás,48.580967,7.752282,"Palais Rohan, Strasbourg, France",Museo,€7.50 c/u,Artes Decorativas + Bellas Artes + Arqueológico
+Estrasburgo,Château Vodou,Quizás,48.580383,7.728755,"Château Vodou, Strasbourg, France",Museo,,Mayor colección de vodou africano occidental
+Estrasburgo,Musée de l'Œuvre Notre-Dame,Solo mapeado,48.580869,7.751294,"Musée de l'Œuvre Notre-Dame, Strasbourg, France",Museo,€7.50,Esculturas originales de la catedral
+Estrasburgo,Barrio Krutenau,Quiero ir,48.579692,7.756768,"Krutenau, Strasbourg, France",Barrio,Gratis,Barrio estudiantil y alternativo; tapas y noche local
+Estrasburgo,Quai des Bateliers,Quizás,48.580627,7.75366,"Quai des Bateliers, Strasbourg, France",Barrio,Gratis,Orilla de bares y vida nocturna
+Estrasburgo,Parc de l'Orangerie,Quizás,48.59173,7.774478,"Parc de l'Orangerie, Strasbourg, France",Parque,Gratis,Parque más grande; lago
+Estrasburgo,Jardin des Deux Rives,Solo mapeado,48.569074,7.794975,"Jardin des Deux Rives, Strasbourg, France",Parque,Gratis,Parque binacional; cruzar a pie a Kehl (Alemania)
+Estrasburgo,Batorama (barco canales),Quizás,48.580171,7.752093,"Batorama, Strasbourg, France",Transporte,€12.50-16.20,Recorrido por el Ill; embarcadero junto al Palais Rohan
+Estrasburgo,Palais des Droits de l'Homme,Quizás,48.597282,7.77464,"Cour Européenne des Droits de l'Homme, Strasbourg, France",Institución,Gratis (exterior),Tribunal Europeo DDHH; arquitectura de Richard Rogers
+París,Torre Eiffel,Quiero ir,48.8584,2.2945,"Tour Eiffel, Paris",Sitio histórico,€14.80,El símbolo de París; subir al 2° piso (vistas completas) o a la cima; de noche destella 5 min al inicio de cada hora en punto (desde las ...
+París,Sainte-Chapelle,Quiero ir,48.8554,2.345,"Sainte-Chapelle, Paris, France",Sitio histórico,€22,⭐ - La capilla gótica del s. XIII con los vitrales más extraordinarios de Europa; 1.113 paneles de vidrio de 15m de alto; unánime en foro...
+París,Notre-Dame,Quiero ir,48.853,2.3499,"Notre-Dame, Paris, France",Sitio histórico,GRATIS exterior e interior,Reabrió diciembre 2024 tras la restauración post-incendio 2019; nave interior reconstruida; ingreso gratuito pero aforo controlado (GRATI...
+París,Arco del Triunfo,Quiero ir,48.8738,2.295,"Arc de Triomphe, Paris",Sitio histórico,€22,Vista 360° de los 12 bulevares que irradian hacia el exterior y los Champs-Élysées; mejor al atardecer con las luces encendiendo (**€22**...
+París,Sacré-Cœur,Quiero ir,48.8867,2.3431,"Basilique du Sacré-Cœur, Paris",Sitio histórico,GRATIS exterior; cúpula ~€7,La basílica blanca en lo alto de Montmartre; mejores vistas de París desde la explanada; cúpula interior visitable (GRATIS exterior; cúpu...
+París,Conciergerie,Quizás,48.855949,2.346026,"Conciergerie, Paris, France",Sitio histórico,€13,La prisión medieval isleña donde esperó María Antonieta antes de la guillotina; a metros de Sainte-Chapelle; celdas reconstruidas y corte...
+París,Panthéon,Quiero ir,48.846195,2.346051,"Panthéon, Paris, France",Sitio histórico,€16,"Cripta neoclásica donde reposan Victor Hugo, Marie Curie, Voltaire, Rousseau, Dumas y Alexandre Dumas hijo; péndulo de Foucault original ..."
+París,Palais Royal (jardines),Quizás,48.864908,2.337759,"Jardin du Palais Royal, Paris",Parque,GRATIS,"Patio interior del s. XVIII a 200 metros del Louvre; galerías de pórticos, tiendas de antigüedades, los famosos discos rayados de Buren e..."
+París,Tour Montparnasse,Solo mapeado,48.84211,2.321972,"Tour Montparnasse, Paris, France",Sitio histórico,€20,La única torre de oficinas en el centro de París; las mejores vistas aéreas de la ciudad incluyendo la Torre Eiffel de frente (**~€20** a...
+París,Louvre,Solo mapeado,48.8606,2.3376,"Louvre, Paris, France",Museo,€32,"El museo más visitado del mundo; Mona Lisa (pequeña y decepcionante según la mayoría, pero icónica), Victoria de Samotracia (impresionant..."
+París,Catacumbas de París,Quizás,48.8338,2.3324,Catacombes de Paris,Museo,€31,"1.5km de túneles subterráneos donde están apilados los huesos de 6 millones de parisinos; 131 escalones bajando, 112 subiendo; la experie..."
+París,Musée Carnavalet,Quiero ir,48.857323,2.362473,"Musée Carnavalet, Paris, France",Museo,GRATIS,Historia de París desde la Prehistoria hasta hoy; el museo más subestimado de la ciudad; salas ambientadas con interiores originales del ...
+París,Musée de Cluny (Musée national du Moyen Âge),Quiero ir,48.85065,2.343564,"Musée de Cluny, Paris",Museo,€12,"El gran museo medieval de París, en el Barrio Latino (5ème); famoso por la serie de tapices **""La Dama y el Unicornio""** (s. XV, los más ..."
+París,Musée d'Orsay,Solo mapeado,48.86,2.3266,"Musée d'Orsay, Paris, France",Museo,€16,"Los impresionistas más importantes del mundo en la estación de tren más bella de Europa; Van Gogh, Monet, Renoir, Degas, Toulouse-Lautrec..."
+París,Fondation Louis Vuitton,Solo mapeado,48.874029,2.297028,"Fondation Louis Vuitton, Paris, France",Museo,€20,El edificio de Frank Gehry más espectacular de París; colección de arte contemporáneo de alto nivel dentro; arquitectura imposible de ign...
+París,Musée de l'Armée,Solo mapeado,48.857037,2.311878,"Musée de l'Armée, Paris, France",Museo,GRATIS para menores 26 UE; ~€15 adulto non-EU,Historia militar de Francia desde la Edad Media hasta la II Guerra Mundial; la tumba de Napoleón en el interior (GRATIS para menores 26 U...
+París,Centre Pompidou,Solo mapeado,48.860496,2.352422,"Centre Pompidou, Paris, France",Museo,€18,Arte moderno y contemporáneo; vistas panorámicas desde el techo (**~€18** adulto + €5 rooftop)
+París,Père Lachaise,Quizás,48.86113,2.394009,"Cimetière du Père-Lachaise, Paris",Parque,GRATIS,"El cementerio más visitado del mundo; tumbas de Oscar Wilde (con lápiz labial de miles de visitantes), Jim Morrison, Édith Piaf, Chopin, ..."
+París,Parc de Belleville,Quiero ir,48.871548,2.384229,"Parc de Belleville, Paris, France",Parque,GRATIS,El mirador más ignorado de París; vista de toda la ciudad desde la colina del 20ème; casi sin turistas; mejor al atardecer (GRATIS)
+París,Promenade Plantée,Quiero ir,48.8465,2.375,"Promenade Plantée, Paris, France",Parque,GRATIS,El primer parque elevado del mundo (15 años antes que el High Line de NY); 4.5km sobre las vías de un antiguo ferrocarril desde Bastille ...
+París,Bois de Boulogne,Solo mapeado,48.864093,2.248258,"Bois de Boulogne, Paris, France",Parque,GRATIS entrar,"El gran pulmón verde del oeste de París; lago con barcas para alquilar, jardín de Shakespeare, Fondation Louis Vuitton al borde (GRATIS e..."
+París,Île aux Cygnes,Solo mapeado,48.85,2.28,"Île aux Cygnes, Paris, France",Parque,GRATIS,Isla artificial en el Sena con paseo arbolado; al extremo oeste una réplica reducida de la Estatua de la Libertad mirando hacia NY; tranq...
+París,Champ de Mars,Quiero ir,48.856145,2.29782,"Champ de Mars, Paris, France",Parque,GRATIS,El prado verde frente a la Torre Eiffel; el lugar clásico para el destello nocturno y el picnic turístico (GRATIS)
+París,Montmartre (18ème sur),Quiero ir,48.871441,2.343495,"Montmartre, Paris",Barrio,GRATIS explorar,"El barrio bohemio original; Sacré-Cœur en la cima, artistas pintando en Place du Tertre, viñedo de Montmartre, Rue de l'Abreuvoir (la cal..."
+París,Latin Quarter / Saint-Germain (5ème/6ème),Quiero ir,48.848603,2.342516,"Quartier Latin, Paris",Barrio,GRATIS explorar,"Barrio universitario y literario; La Sorbonne, Shakespeare and Company (librería legendaria de Sylvia Beach, entrar gratis), Rue Mouffeta..."
+París,Canal Saint-Martin (10ème),Quiero ir,48.868956,2.367169,"Canal Saint-Martin, Paris",Barrio,GRATIS explorar,"El barrio hipster y más auténticamente cool de París; canal con esclusas, Du Pain et des Idées, tiendas de diseño independientes; pocas g..."
+París,Oberkampf / Ménilmontant (11ème/20ème),Quizás,48.864112,2.369423,"Oberkampf, Paris",Barrio,GRATIS explorar,"La vida nocturna alternativa real; bares de todo tipo, street art, multicultural; Rue Oberkampf con bares alineados; Père Lachaise al lad..."
+París,Belleville (19ème/20ème),Quiero ir,48.872035,2.37688,"Belleville, Paris",Barrio,GRATIS explorar,"El barrio más multicultural de París; Chinatown + comunidad árabe + artistas; comida barata y auténtica (dim sum, couscous); Parc de Bell..."
+París,Île de la Cité + Île Saint-Louis,Quiero ir,48.851605,2.356759,"Île Saint-Louis, Paris",Barrio,GRATIS explorar,Las dos islas del Sena; Sainte-Chapelle y Notre-Dame en la Cité; heladería Berthillon y calles del s. XVII en Saint-Louis (GRATIS explorar)
+París,"Pigalle / SoPi (South Pigalle, 9ème)",Quizás,48.882046,2.333667,"South Pigalle, Paris",Barrio,GRATIS explorar,Barrio de cabarets históricos y hoy el área de bares de cocktails más chic; Moulin Rouge al borde; mezcla de sexy y elegante (GRATIS expl...
+París,Marchés aux Puces de Saint-Ouen,Solo mapeado,48.9045,2.34,"Marchés aux Puces de Saint-Ouen, Paris, France",Sitio,,domingo 30 agosto (el día ideal del viaje; abren 10am)
+París,Marché Bastille,Solo mapeado,48.854837,2.369892,"Marché Bastille, Paris",Sitio,,jueves 3 septiembre; el mercado del barrio parisino en su mejor momento
+Londres,St Bride's Church,Solo mapeado,51.5137,-0.1057,"St Bride's Church, Fleet Street, London, UK",Iglesia,Gratis,La iglesia de los periodistas; diseño de Wren
+Londres,Monument to the Great Fire,Solo mapeado,51.5102,-0.086,"Monument to the Great Fire of London, UK",Sitio histórico,£6,Columna de 62m del incendio de 1666
+Londres,Horizon 22,Solo mapeado,51.5145,-0.0825,"Horizon 22, 22 Bishopsgate, London, UK",Mirador,Gratis,Mirador gratuito más alto de Londres (piso 58)
+Londres,Book Market South Bank,Quizás,51.507,-0.115,"Southbank Centre Book Market, London, UK",Mercado,,Libros de segunda mano bajo Waterloo Bridge
+Londres,House of MinaLima,Solo mapeado,51.5135,-0.1355,"House of MinaLima, London, UK",Harry Potter,Gratis entrar,Galería de los diseñadores gráficos de la saga
+York,City Walls,Quiero ir,53.9615,-1.08,"York City Walls, UK",Sitio histórico,Gratis,3.4km de murallas romanas caminables; circuito ~2h
+York,Shambles Market,Quiero ir,53.9595,-1.0805,"Shambles Market, York, UK",Mercado,Gratis,Comida callejera y artesanía junto a The Shambles
+York,Museum Gardens,Solo mapeado,53.9618,-1.0875,"Museum Gardens, York, UK",Parque,Gratis,Ruinas de la Abadía de St Mary s.XII
+York,Betty's Tea Room,Solo mapeado,53.9605,-1.0835,"Bettys, St Helen's Square, York, UK",Café,£20-35,Institución de té desde 1919; cola habitual
+Edimburgo,Real Mary King's Close,Quizás,55.9502,-3.1903,"Real Mary King's Close, Edinburgh, UK",Sitio histórico,£35,Callejones subterráneos s.XVII; pre-booking obligatorio
+Edimburgo,Scottish National Gallery of Modern Art,Solo mapeado,55.9515,-3.2265,"Scottish National Gallery of Modern Art, Edinburgh, UK",Museo,Gratis,Arte moderno; jardines con esculturas en Dean Village
+Highlands,Glen Nevis & Steall Falls,Quiero ir,56.801,-5.001,"Steall Falls, Glen Nevis, UK",Trekking,Gratis,Cascada de 120m; ruta de Harry Potter y Braveheart; fácil
+Highlands,Old Inverlochy Castle,Solo mapeado,56.8355,-5.082,"Old Inverlochy Castle, Fort William, UK",Castillo,Gratis,Ruinas s.XIII; sin aglomeraciones
+Highlands,Glencoe Valley (Three Sisters),Quiero ir,56.662,-4.987,"Three Sisters, Glencoe, UK",Paisaje,Gratis,Valle dramático; Highlander
+Highlands,Mallaig + Silver Sands of Morar,Quizás,56.97,-5.828,"Silver Sands of Morar, UK",Playa,Gratis,Playas de arena blanca; puerto de marisco fresco
+Highlands,Puerto de Portree,Quiero ir,57.4125,-6.194,"Portree Harbour, Isle of Skye, UK",Pueblo,Gratis,Casas de colores reflejadas; la foto icónica de Skye
+Highlands,Kilt Rock & Mealt Falls,Quiero ir,57.582,-6.158,"Kilt Rock, Isle of Skye, UK",Paisaje,Gratis,Acantilados de basalto hexagonal con cascada al mar
+Highlands,Lealt Falls,Solo mapeado,57.575,-6.17,"Lealt Falls, Isle of Skye, UK",Naturaleza,Gratis,Cascadas en garganta; 20 min; poco transitado
+Highlands,Brothers' Point,Quizás,57.55,-6.15,"Rubha nam Brathairean, Isle of Skye, UK",Trekking,Gratis,Promontorio sobre el mar; 2.5h; raramente lleno
+Highlands,Duntulm Castle,Solo mapeado,57.68,-6.348,"Duntulm Castle, Isle of Skye, UK",Castillo,Gratis,Ruinas s.XV en acantilado; poco visitado
+Highlands,Dunvegan Castle,Quizás,57.4485,-6.59,"Dunvegan Castle, Isle of Skye, UK",Castillo,£17.50,Castillo habitado más antiguo; Clan MacLeod; Fairy Flag
+Highlands,Coral Beach,Solo mapeado,57.502,-6.64,"Coral Beach, Claigan, Isle of Skye, UK",Playa,Gratis,Playa de coral blanco; 30 min desde el parking
+Highlands,Sligachan Old Bridge,Quizás,57.2895,-6.156,"Sligachan Old Bridge, Isle of Skye, UK",Paisaje,Gratis,Puente s.XIX con las Black Cuillin; 15 min foto
+Highlands,Glen Brittle,Quizás,57.23,-6.28,"Glen Brittle, Isle of Skye, UK",Paisaje,Gratis,Valle de las Fairy Pools; playa al final
+Highlands,Talisker Distillery,Solo mapeado,57.3025,-6.356,"Talisker Distillery, Isle of Skye, UK",Destilería,~£15-20,Única destilería de Skye; whisky ahumado marino
+Highlands,Talisker Bay,Solo mapeado,57.285,-6.44,"Talisker Bay, Isle of Skye, UK",Playa,Gratis,Playa de arena negra; 20 min; vacía
+Highlands,Armadale Castle,Solo mapeado,57.065,-5.895,"Armadale Castle, Isle of Skye, UK",Castillo,~£8,Clan Donald Centre; queda muy lejos
+Highlands,Glen Shiel & Five Sisters,Quiero ir,57.19,-5.32,"Five Sisters of Kintail, UK",Paisaje,Gratis,Valle con cinco picos; miradores a pie de carretera
+Highlands,Leakey's Bookshop,Quizás,57.478,-4.2275,"Leakey's Bookshop, Inverness, UK",Tienda,Gratis,Librería en iglesia s.XVIII; la chimenea más grande de Escocia
+Highlands,Urquhart Castle,Solo mapeado,57.3242,-4.4419,"Urquhart Castle, Drumnadrochit, UK",Castillo,~£12-14,Ruinas sobre el Loch Ness; Grant Tower; Explorer Pass
+Highlands,Dores Beach,Solo mapeado,57.382,-4.335,"Dores Beach, Loch Ness, UK",Playa,Gratis,Playa al inicio del Loch Ness; Dores Inn con vista
+Highlands,Falls of Foyers,Solo mapeado,57.256,-4.495,"Falls of Foyers, Loch Ness, UK",Naturaleza,Gratis,Cascadas en garganta boscosa; 1h; orilla sur
+Highlands,Clava Cairns,Solo mapeado,57.4735,-4.074,"Clava Cairns, Inverness, UK",Sitio histórico,Gratis,Cairns funerarios de 4000 años; inspiración de Outlander
+Highlands,Rogie Falls,Quizás,57.58,-4.57,"Rogie Falls, Strathpeffer, UK",Naturaleza,Gratis,Salmones saltando en agosto; 1h fácil
+Highlands,Killiecrankie,Solo mapeado,56.745,-3.778,"Killiecrankie, Pitlochry, UK",Sitio histórico,Gratis,Garganta de batalla jacobita 1689; 30-45 min
+Highlands,Edradour Distillery,Quizás,56.7005,-3.702,"Edradour Distillery, Pitlochry, UK",Destilería,~£12-15,La destilería tradicional más pequeña de Escocia
+Ámsterdam,NEMO Science Museum,Solo mapeado,52.3742,4.9123,"NEMO Science Museum, Amsterdam",Museo,€17.50 (terraza gratis),Terraza del techo gratis con vistas al puerto
+Ámsterdam,NDSM Wharf,Solo mapeado,52.4015,4.8935,"NDSM Wharf, Amsterdam",Barrio,Gratis,Astilleros con street art; ferry gratis desde Centraal
+Ámsterdam,Boerejongens,Quizás,52.3665,4.8975,"Boerejongens Coffeeshop, Amsterdam",Coffee shop,,De los mejores de la ciudad; calidad y variedad
+Ámsterdam,Barney's,Solo mapeado,52.3645,4.8935,"Barney's Coffeeshop, Reguliersgracht, Amsterdam",Coffee shop,,Céntrico
+Ámsterdam,OBA Biblioteca Central,Solo mapeado,52.3758,4.9083,"OBA Oosterdok, Amsterdam",Mirador,Gratis,Terraza piso 7 con vistas; casi nadie lo sabe
+Colmar,Quartier des Tanneurs,Quiero ir,48.0775,7.3575,"Quartier des Tanneurs, Colmar, France",Casco histórico,Gratis,Casas altas de curtidores s.XVI
+Colmar,Fontaine Roesselmann,Quiero ir,48.077,7.3578,"Place de l'Ancienne Douane, Colmar, France",Casco histórico,Gratis,Fuente del caballero medieval legendario
+Estrasburgo,Reloj Astronómico,Solo mapeado,48.5819,7.751,"Cathédrale Notre-Dame de Strasbourg, France",Catedral,€3,Show 12:30h (no domingos); llegar antes de 11:30h
+Estrasburgo,MAMCS - Arte Moderno,Solo mapeado,48.5795,7.7365,"Musée d'Art Moderne et Contemporain, Strasbourg, France",Museo,€7.50,Edificio de 1998 junto al río; café con terraza
+Estrasburgo,Fort Poligone,Solo mapeado,48.555,7.72,"Fort Poligone, Strasbourg, France",Fuerte,Gratis/donación,Tours solo jueves y sábados; bus 73
+Estrasburgo,Neustadt,Quiero ir,48.589,7.754,"Place de la République, Strasbourg, France",Barrio,Gratis,Barrio imperial alemán 1871; UNESCO
+Estrasburgo,Barrio Europeo,Quizás,48.5975,7.769,"Parlement Européen, Strasbourg, France",Barrio,Gratis (exterior),Instituciones UE junto al Parc de l'Orangerie
+Estrasburgo,Parlamento Europeo,Quizás,48.5975,7.769,"Parlement Européen, Strasbourg, France",Institución,Gratis,Visita guiada ~60min; reservar online; llevar DNI/pasaporte
+Estrasburgo,Consejo de Europa,Quizás,48.595,7.772,"Conseil de l'Europe, Strasbourg, France",Institución,Gratis (exterior),Organismo de derechos humanos; arquitectura años 50
+París,Petit Palais,Quizás,48.866,2.3145,"Petit Palais, Paris, France",Museo,GRATIS,"Museo de bellas artes frente a los Champs-Élysées; colección de antigüedades, artes decorativas, pinturas del s. XVII-XVIII; el edificio ..."
+París,Jardines de Luxemburgo,Quiero ir,48.8462,2.3372,"Jardin du Luxembourg, Paris",Parque,GRATIS,"El parque más lindo de París; estanque central con barquitos de madera de colores, sillas de metal al sol, fuente Médici; el picnic paris..."
+París,Le Marais (3ème/4ème),Quiero ir,48.857,2.358,"Le Marais, Paris",Barrio,GRATIS explorar,"El barrio más trendy de París; calles medievales estrechas, tiendas vintage, galerías, Place des Vosges (la plaza más antigua, hermosa y ..."

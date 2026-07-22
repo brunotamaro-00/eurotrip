@@ -135,7 +135,7 @@
 
 ---
 
-## 🧠 Tips específicos para mediados de octubre (borrador 11–15 oct, base Liubliana)
+## 🧠 Tips específicos para mediados de octubre (borrador 11–15 oct, loop en auto)
 - **Día corto**: elegí 1 actividad “larga” + 2–3 cortas; no más.
 - **Buses**: los buses “de movilidad sostenible” del valle son **estacionales (verano)**. Para octubre, planificá como si **no existieran** (si aparece alguno, es bonus). Si necesitás un trekking **sí o sí** de punto A→B, asumí que vas a tener que resolverlo con **2 autos o taxi**.
 - **Vršič Pass**: puede haber **nieve temprana** o hielo en sombra. Antes de salir mirá estado oficial de rutas.
@@ -161,7 +161,7 @@
 
 > Fechas tentativas — re-verificar al confirmar
 
-**Ventana tentativa:** lun 12 – mié 14 oct (1-2 días desde Liubliana o con noche en el valle)
+**Ventana tentativa:** ~12-14 oct (**noche en el valle** dentro del loop: Bovec/Kobarid/Tolmin)
 
 - **Tolmin Gorges:** horario oficial 12-25 oct **9:00-17:00** ✓ (ya verificado arriba) `https://www.soca-valley.com/en/attraction/tolmin-gorges/opening-hours/`
 - **Buses estacionales del valle: NO operan en octubre** — planificar 100% con auto; trekkings lineales requieren taxi/2 autos

@@ -1,0 +1,69 @@
+ciudad,nombre,prioridad,lugar_busqueda,tipo,precio,notas
+Friburgo,Freiburger Münster,Quizás,"Freiburger Münster, Freiburg",Catedral,Gratis (torre €5),Catedral gótica s.XIII; linterna calada única; Münstermarkt al pie
+Friburgo,Altstadt + Bächle,Quiero ir,"Altstadt, Freiburg im Breisgau",Casco histórico,Gratis,Centro medieval; las acequias Bächle corren por las calles
+Friburgo,Schlossberg,Quiero ir,"Schlossberg, Freiburg",Mirador,Gratis (funicular €3.50),Colina boscosa; mirador sobre la ciudad; ruinas del castillo
+Friburgo,Martinstor,Quizás,"Martinstor, Freiburg",Sitio histórico,Gratis,Puerta medieval s.XIII con McDonalds en el arco
+Friburgo,Schwabentor,Quizás,"Schwabentor, Freiburg",Sitio histórico,Gratis,La otra puerta medieval s.XIII que sobrevivió la WWII
+Friburgo,Rathausplatz,Quizás,"Rathausplatz, Freiburg",Plaza,Gratis,Neues y Altes Rathaus; tilo centenario
+Friburgo,Colombischlössle,Solo mapeado,"Colombischlössle, Freiburg",Museo,,Castillo victoriano en el parque; único no destruido en la WWII
+Friburgo,Barrio Stühlinger,Quizás,"Stühlinger, Freiburg",Barrio,Gratis,Barrio alternativo; murales
+Friburgo,Barrio Vauban,Solo mapeado,"Vauban, Freiburg",Barrio,Gratis,Urbanismo sostenible; tejados solares
+Friburgo,Campus Universidad,Solo mapeado,"Universität Freiburg, Kollegiengebäude",Sitio,Gratis,Una de las universidades más antiguas de Alemania (1457)
+Friburgo,Augustinermuseum,Solo mapeado,"Augustinermuseum, Freiburg",Museo,€12,El museo más importante; renovado feb 2026; esculturas del Münster
+Friburgo,Museum Natur und Mensch,Solo mapeado,"Museum Natur und Mensch, Freiburg",Museo,€5,Historia natural y etnología
+Friburgo,Uniseum,Quizás,"Uniseum, Freiburg",Museo,Gratis,Historia de la Universidad desde 1457
+Friburgo,Kunsthalle Freiburg,Solo mapeado,Kunsthalle Freiburg,Museo,Gratis (patio),Centro de arte contemporáneo
+Friburgo,Museum für Stadtgeschichte,Solo mapeado,"Museum für Stadtgeschichte, Freiburg",Museo,~€3,Historia de la ciudad; Wentzingerhaus s.XVIII
+Friburgo,Münstermarkt,Quiero ir,"Münstermarkt, Freiburg",Mercado,Gratis,Mercado diario al pie de la catedral; productos de la Selva Negra
+Friburgo,Markt Stühlinger,Solo mapeado,"Stühlinger Kirchplatz, Freiburg",Mercado,Gratis,Mercado del barrio alternativo; martes y viernes
+Friburgo,Wutachschlucht,Quizás,Wutachschlucht,Trekking,Gratis,La garganta más espectacular de Alemania; 13km; Wanderbus fin de semana
+Friburgo,Feldberg + Feldsee,Solo mapeado,"Feldberg, Schwarzwald",Trekking,Gratis,Pico más alto de la Selva Negra (1493m); lago glaciar
+Friburgo,Simonswälder Tal,Quizás,"Simonswald, Schwarzwald",Trekking,Gratis,Alternativa a Triberg; cascada Zweribach; 3-4h
+Friburgo,Triberg,Quiero ir,Triberger Wasserfälle,Naturaleza,~€5,Las cascadas más famosas de Alemania; origen del reloj cucú
+Friburgo,Titisee,Quizás,Titisee,Lago,Gratis,El lago más famoso; 30 min en tren; ir temprano
+Friburgo,Schluchsee,Solo mapeado,Schluchsee,Lago,Gratis,El más grande y tranquilo; los locales lo prefieren a Titisee
+Friburgo,Staufen im Breisgau,Solo mapeado,Staufen im Breisgau,Pueblo,Gratis,Pueblo de viñedos; bodegas abiertas en vendimia; 15 min en tren
+Friburgo,Breisach am Rhein,Solo mapeado,Breisach am Rhein,Pueblo,Gratis,Pueblo sobre el Rin con catedral; 20 min; viñedo del Kaiserstuhl
+Grindelwald,Bachalpsee,Quizás,"Bachalpsee, Grindelwald",Trekking,Gratis (First CHF 72),Lago que espeja el macizo; <1h desde First; la foto de la región
+Grindelwald,First (Cliff Walk),Quizás,Grindelwald First,Teleférico,CHF 72,Pasarela sobre el precipicio; wow sin trekking; puede cerrar por viento
+Grindelwald,First Flieger / Glider,Solo mapeado,"First Flieger, Grindelwald",Adrenalina,Suplemento,Tirolesa y ala que sobrevuela la ladera
+Grindelwald,Jungfraujoch,Solo mapeado,Jungfraujoch,Excursión,~CHF 201-240,Estación de tren más alta de Europa; glaciar Aletsch; solo con cielo azul
+Grindelwald,Grindelwald pueblo,Solo mapeado,Grindelwald,Pueblo,Gratis,Pueblo alpino real bajo el Eiger; chalets de madera
+Grindelwald,Grindelwald Terminal,Solo mapeado,Grindelwald Terminal,Sitio,,Mega-estación; salen Eiger Express y Männlichen
+Grindelwald,Pfingstegg,Solo mapeado,"Pfingstegg, Grindelwald",Teleférico,~CHF 32,Teleférico corto y barato; balcón sobre el glaciar
+Grindelwald,Männlichen,Solo mapeado,Männlichen,Mirador,,Panoramaweg Männlichen-Kleine Scheidegg; Eiger enfrente
+Grindelwald,Kleine Scheidegg,Solo mapeado,Kleine Scheidegg,Mirador,,Fin del Panoramaweg; base del tren al Jungfraujoch
+Grindelwald,Eigergletscher (Eiger Trail),Solo mapeado,Eigergletscher,Trekking,,Eiger Trail al pie de la cara norte; ~2.5-3h
+Grindelwald,Grosse Scheidegg,Solo mapeado,Grosse Scheidegg,Trekking,Gratis/PostBus,Paso alpino entre Grindelwald y Meiringen
+Grindelwald,Faulhorn,Solo mapeado,Faulhorn,Trekking,,Punto alto del gran trekking First-Faulhorn-Schynige
+Interlaken,Harder Kulm,Solo mapeado,"Harder Kulm, Interlaken",Mirador,~CHF 40,Top of Interlaken; Two Lakes Bridge; subir a pie y bajar en funicular
+Interlaken,Höhematte / Höheweg,Quizás,"Höhematte, Interlaken",Paseo,Gratis,Prado central con vista al Jungfrau; avenida principal
+Interlaken,Unterseen,Quizás,"Unterseen, Interlaken",Casco histórico,Gratis,Barrio s.XVII con alma; iglesia y casas de madera
+Interlaken,Paseo del río Aare,Solo mapeado,"Aare, Interlaken",Paseo,Gratis,Agua turquesa glaciar entre los dos lagos
+Interlaken,Iseltwald (Lago de Brienz),Solo mapeado,Iseltwald,Lago,Gratis,Muelle famoso de Crash Landing on You; lago turquesa
+Interlaken,Giessbachfälle,Solo mapeado,"Giessbachfälle, Brienz",Naturaleza,,Cascada con funicular histórico y Grandhotel
+Interlaken,Spiez (Lago de Thun),Solo mapeado,Spiez,Pueblo,Gratis,Castillo sobre viñedos; barco Eurail
+Interlaken,St. Beatus-Höhlen,Solo mapeado,St. Beatus-Höhlen,Cueva,,Cuevas con río subterráneo; plan B lluvia perfecto
+Interlaken,Ballenberg,Solo mapeado,Ballenberg Freilichtmuseum,Museo,CHF 32,Pueblo suizo reconstruido; artesanos en vivo; plan día gris
+Interlaken,Brienz,Solo mapeado,Brienz,Pueblo,Gratis,Pueblo de talladores; tren de vapor al Brienzer Rothorn
+Interlaken,Schynige Platte,Quizás,Schynige Platte,Trekking,CHF 72,El trekking 10/10; tren desde Wilderswil; abierto hasta 25 oct
+Interlaken,Oeschinensee,Quizás,"Oeschinensee, Kandersteg",Lago,,El lago alpino más azul; solo con cielo azul; reserva de franja
+Interlaken,Berna,Quizás,"Bern, Switzerland",Ciudad,Gratis,Capital medieval a 40 min; Zytglogge
+Lauterbrunnen,Valle de Lauterbrunnen,Quiero ir,Lauterbrunnen,Paisaje,Gratis,El valle de las 72 cascadas; inspiración de Rivendell
+Lauterbrunnen,Staubbach Falls,Quiero ir,"Staubbach Falls, Lauterbrunnen",Naturaleza,Gratis,Cascada de 297m de caída libre sobre el pueblo
+Lauterbrunnen,Trümmelbachfälle,Quizás,Trümmelbachfälle,Naturaleza,CHF 16,Cascadas glaciares DENTRO de la montaña; el mejor plan de lluvia
+Lauterbrunnen,Stechelberg,Quizás,Stechelberg,Paisaje,Gratis,Fondo del valle; sendero llano por prados y cascadas
+Lauterbrunnen,Mürren,Quizás,Mürren,Pueblo,Gratis,Pueblo sin autos en la roca (1638m); vistas al Eiger-Mönch-Jungfrau
+Lauterbrunnen,Gimmelwald,Quizás,Gimmelwald,Pueblo,Gratis,Aldea casi intacta; la joya oculta; a pie desde Mürren 30-45 min
+Lauterbrunnen,Wengen,Quizás,Wengen,Pueblo,Gratis,Pueblo sin autos del otro lado; puerta a Männlichen
+Lauterbrunnen,Schilthorn / Piz Gloria,Solo mapeado,Schilthorn,Teleférico,CHF 91.40,Cima 360 con restaurante giratorio; locación de James Bond
+Lauterbrunnen,Birg (Thrill Walk),Solo mapeado,"Birg, Schilthorn",Mirador,Incluido,Pasarela y piso de vidrio pegados al acantilado
+Lauterbrunnen,Allmendhubel,Solo mapeado,"Allmendhubel, Mürren",Trekking,,Mountain View Trail; sendero-balcón con Eiger enfrente
+Lucerna,Kapellbrücke,Solo mapeado,"Kapellbrücke, Luzern",Sitio histórico,Gratis,El puente de madera cubierto más antiguo de Europa (s.XIV)
+Lucerna,Altstadt de Lucerna,Solo mapeado,"Altstadt, Luzern",Casco histórico,Gratis,Muralla
+Lucerna,Lion Monument,Solo mapeado,"Löwendenkmal, Luzern",Sitio histórico,Gratis,El León moribundo; la escultura más triste del mundo (Mark Twain)
+Lucerna,Paseo del lago,Solo mapeado,"Vierwaldstättersee, Luzern",Paseo,Gratis,Promenade con vista a las montañas desde la estación
+Lucerna,Museggmauer,Solo mapeado,"Museggmauer, Luzern",Sitio histórico,Gratis,Torres medievales para subir; temporada abr-nov
+Lucerna,Jesuitenkirche,Solo mapeado,"Jesuitenkirche, Luzern",Iglesia,Gratis,Iglesia barroca sobre el Reuss
+Lucerna,Monte Pilatus,Solo mapeado,"Mount Pilatus, Luzern",Excursión,CHF 75-92,Tren de cremallera más empinado del mundo; solo con noche en Lucerna
+Lucerna,Monte Rigi,Solo mapeado,Rigi,Excursión,,La reina de las montañas; tren + barco; día completo

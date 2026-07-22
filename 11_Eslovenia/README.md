@@ -1,8 +1,14 @@
-## 🇸🇮 Eslovenia (11–15 oct, borrador) — base Liubliana + roadtrip en auto
+## 🇸🇮 Eslovenia (11–15 oct, borrador) — loop en auto (base móvil)
 
 **Fechas tentativas** (tramo post-Portugal).
 
-**Idea fuerza (consenso viajeros):** Eslovenia rinde como “base + excursiones” o como **mini-loop en auto**. Liubliana es chica (1 día), y lo mejor está en lagos, valle del Soča, cuevas y costa.
+**Idea fuerza (consenso viajeros):** el modelo elegido es el **mini-loop en auto** (base móvil: se duerme en cada región), **no** "base Liubliana + day trips". Liubliana es chica (1 día = noche de llegada + mañana corta), y lo mejor está en lagos, valle del Soča, cuevas y costa.
+
+### 🎒 Filosofía de esta carpeta (leer antes de planificar)
+Estos archivos **no son un cronograma**: son un **mapa completo de todo lo que se puede hacer** en cada región de Eslovenia. La idea **NO** es fijar *cuándo* hacer cada cosa, sino tener **todo mapeado** para decidir sobre la marcha (según clima y ganas), con todas las herramientas a mano.
+- El loop de abajo (4 noches) es una **referencia**, no un plan cerrado.
+- Es **probable que se sumen días del margen flex** acá si sentimos el tramo apretado (Eslovenia rinde para estirarse). Ubicación/cantidad exacta TBD, se decide en viaje.
+- Cada `actividades.md` regional es un **menú de opciones**; el viajero filtra en el momento — no hace falta pre-asignar actividades a días.
 
 ### 🧭 Estructura por regiones (esta carpeta)
 - **Capital**: Liubliana
@@ -32,7 +38,7 @@ Es una estrategia muy lógica porque:
 
 ---
 
-## 📍 Propuesta de loop (4 noches) — borrador **11–15 oct** (base Liubliana)
+## 📍 Propuesta de loop (4 noches) — borrador **11–15 oct** (referencia, no plan cerrado)
 
 > Objetivo: tocar **todo lo “core”** sin que Soča sea solo manejo, y salir por Koper/Trieste sin estrés.
 

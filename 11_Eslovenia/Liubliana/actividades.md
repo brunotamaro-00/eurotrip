@@ -1,22 +1,18 @@
 # 🎯 Actividades en Liubliana
 
-**Fechas tentativas:** 11-15 octubre (4 noches, 5 días)  
-**Price Level:** $$ (económico para ser Europa occidental)  
-**Temp:** 7-15°C (otoño, puede llover)  
+**Fechas tentativas:** llegada ~11 oct (post-Portugal) · **Estado:** tentativo
+**Rol en el loop:** **noche de llegada + mañana corta** — Liubliana NO es "base regional"; el resto de Eslovenia se hace durmiendo en las regiones (loop en auto, ver `README.md` de Eslovenia)
+**Price Level:** $$ (económico para ser Europa occidental)
+**Temp:** 7-15°C (otoño, puede llover)
 **Sol:** Amanecer ~7:11-7:17 / Anochecer ~18:17-18:25 (~11h de luz)
 
 ---
 
 ## 🧭 Liubliana en contexto
 
-Liubliana es la capital más pequeña de Europa (280,000 hab). Muy compacta y caminable: el casco histórico se hace a pie en un día tranquilo. Con 4 noches tiene ritmo perfecto para la ciudad + los alrededores eslovenos (lagos, karst, costa). Ver `desvios_cercanos.md` para los desvíos regionales.
+Liubliana es la capital más pequeña de Europa (280,000 hab). Muy compacta y caminable: el casco histórico se hace a pie en un día tranquilo. En el modelo de **loop en auto** (ver `README.md` de Eslovenia), Liubliana funciona como **noche de llegada + mañana corta** antes de salir a lagos/Soča/karst/costa — no como base de day trips. Si al final le querés dar más tiempo urbano (o sumás días del margen flex acá), este archivo mapea **todo lo que se puede hacer en la ciudad** para que elijas sobre la marcha.
 
-### Plan general para 5 días
-- **Día 1 (llegada):** Free walking tour + orillas del Ljubljanica + casco viejo
-- **Día 2:** Castillo + Tivoli Park + Metelkova de noche
-- **Día 3:** Desvío regional (Lago Bled / Valle del Soča / Cuevas de Postojna)
-- **Día 4:** Otro desvío o explorar barrios locales
-- **Día 5 (salida a Florencia):** Morning walk tranquila + mercado
+> 🎒 **Cómo usar este archivo:** es un **mapa de opciones**, no un cronograma. Abajo está listado todo lo que da la ciudad; vos decidís en el momento qué entra en la mañana de salida (o en noches/mañanas extra si estirás la parada acá).
 
 ---
 
@@ -87,27 +83,29 @@ Liubliana es la capital más pequeña de Europa (280,000 hab). Muy compacta y ca
 
 ---
 
-## 🔗 Liubliana como base regional
+## 🔗 El resto de Eslovenia se hace en el loop (auto)
 
-La mayor ventaja de Liubliana son los desvíos de Eslovenia. Ver las carpetas específicas:
-- **Lagos Alpinos** — Lago Bled + Lago Bohinj (1-2 días)
-- **Valle del Soča y Triglav** — el río más verde del mundo (1-2 días)
-- **Karst y Cuevas** — Postojna vs. Škocjan (medio día - 1 día)
-- **Costa Eslovena y Trieste** — Piran, Koper, Trieste (1 día)
+Liubliana es solo el **punto de arranque**. El grueso de Eslovenia se recorre **durmiendo en las regiones**, no como day trips desde acá. Cada región tiene su propio mapa de actividades:
+- **Lagos Alpinos** — Lago Bled + Lago Bohinj + Vintgar
+- **Valle del Soča y Triglav** — el río turquesa, cascadas y gargantas
+- **Karst y Cuevas** — Postojna vs. Škocjan (clima-proof)
+- **Costa Eslovena y Trieste** — Piran, Koper, Izola + salida por Trieste
+
+Ver el `README.md` de Eslovenia para el modelo de loop y `desvios_cercanos.md`.
 
 ---
 
-## 📅 Días de la Semana (para planificar)
+## 📅 Referencia de días de la semana (ventana tentativa del loop)
 
-| Fecha | Día | Nota |
+> El loop arranca ~dom 11 y sale por Trieste ~jue 15 (todo tentativo). Liubliana solo toma la **noche de llegada**; los demás días se duerme en las regiones. Tabla útil solo para cierres por día de semana:
+
+| Fecha (tent.) | Día | Nota para Liubliana |
 |-------|-----|------|
-| 11 oct | Domingo | Llegada desde Budapest (ojo: maratón de Budapest ese día — salir con margen) |
-| 12 oct | Lunes | Museos: verificar cuáles cierran lunes |
-| 13 oct | Martes | Desvío regional |
-| 14 oct | Miércoles | Desvío regional |
-| 15 oct | Jueves | Salida a Florencia (vía Trieste) |
+| 11 oct | Domingo | Llegada desde Budapest (ojo: maratón de Budapest ese día — salir con margen); mercado reducido los domingos |
+| 12 oct | Lunes | Varios museos cierran lunes (verificar Galería Nacional y Casa Plečnik) |
+| 15 oct | Jueves | Salida hacia Florencia vía Trieste (fin del loop) |
 
-> ⚠️ **Días corregidos** (11 oct 2026 = domingo). Consecuencia: la estadía es dom-jue → la **Odprta Kuhna / Open Kitchen (solo viernes) NO coincide**; además a mediados de octubre la temporada suele estar terminando.
+> ⚠️ **Odprta Kuhna / Open Kitchen es solo los viernes** → con esta ventana dom-jue **NO coincide**; además a mediados de octubre la temporada suele estar terminando.
 
 ---
 
@@ -115,7 +113,7 @@ La mayor ventaja de Liubliana son los desvíos de Eslovenia. Ver las carpetas es
 
 > Fechas tentativas — re-verificar al confirmar
 
-**Estadía tentativa:** dom 11 – jue 15 oct (4 noches)
+**Noche urbana tentativa:** ~dom 11 oct (llegada); las otras noches del tramo duermen en las regiones del loop
 
 - **Eventos:** LIFFE (cine) suele ser nov — verificar `https://www.liffe.si/` · Ljubljana Design Week/eventos de diseño en oct — verificar `https://www.visitljubljana.com/`
 - **Feriados:** ninguno en Eslovenia esas fechas (Día de la Reforma es el 31 oct)
@@ -157,7 +155,7 @@ La mayor ventaja de Liubliana son los desvíos de Eslovenia. Ver las carpetas es
 
 ## 🧠 Consenso Reddit/Foros
 
-- **La ciudad se hace en 1-2 días** de casco histórico; los 4+ días se justifican por los desvíos regionales (Bled, Soča, Postojna) `https://www.reddit.com/r/solotravel/comments/1q8h8y9/trip_report_slovenia_austria_parts_of_italy/`
+- **La ciudad se hace en 1 día tranquilo** de casco histórico; el resto de Eslovenia (Bled, Soča, Postojna, costa) se recorre en el loop, durmiendo en las regiones `https://www.reddit.com/r/solotravel/comments/1q8h8y9/trip_report_slovenia_austria_parts_of_italy/`
 - **Moverse [local]:** centro 100% peatonal y caminable; Bicikelj (bicis públicas) con 1h gratis es lo que usan los locales `https://www.reddit.com/r/Ljubljana/comments/1pc5zlv/getting_around_ljubljana_tips_pls/`
 - **Metelkova:** unánimemente recomendado para cualquiera con curiosidad alternativa; el espacio más original de Europa Central; pleno los viernes/sábados por la noche (r/Ljubljana)
 - **Castillo:** el acceso a pie por el bosque es tan bonito como el funicular y gratis; subir al funicular para la bajada si quieren la experiencia

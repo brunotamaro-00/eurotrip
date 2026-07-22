@@ -101,7 +101,7 @@ Bled temprano (miradores) → traslado → Bohinj + Savica si da.
 
 > Fechas tentativas — re-verificar al confirmar
 
-**Ventana tentativa:** lun 12 – mié 14 oct (day trips desde Liubliana, dom 11-jue 15)
+**Ventana tentativa:** ~12-14 oct (**noche en el loop**: se duerme en Bled/Bohinj, no es day trip desde Liubliana)
 
 - **⚠️ Vogel CERRADO** por mantenimiento **21 sep – 30 nov 2026** (oficial) — no contar con el teleférico de Bohinj `https://vogel.si/en/good-to-know/`
 - **Vintgar en horario de fin de temporada** (~9:00-15:00, slot online) — ir de mañana; sin margen para improvisar `https://www.vintgar.si/en/my-visit/opening-hours/`

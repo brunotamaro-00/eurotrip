@@ -2,11 +2,11 @@
 
 > Fechas tentativas — re-verificar al confirmar
 
-**Tramo:** 11-15 oct (4 noches, 5 días) · **Estado:** tentativo · **Moneda:** Euro (€) · **Agua del grifo:** potable y excelente (Liubliana es famosa por su agua; fuentes públicas seguras)
+**Tramo:** llegada ~11 oct (noche urbana del loop) · **Estado:** tentativo · **Moneda:** Euro (€) · **Agua del grifo:** potable y excelente (Liubliana es famosa por su agua; fuentes públicas seguras)
 
 > Liubliana es **económica para Europa occidental ($$)**. La estrategia: **burek** (€3-4, comida completa), el **Mercado Central** de Plečnik, los puestos de klobasa/štruklji, y el **Open Kitchen** (Odprta Kuhna) los viernes si sigue activo en octubre. Cocina eslovena = cruce alpino, mediterráneo y balcánico.
 
-> Esta es la **base regional**; los day-trips (Bled, Bohinj, Karst, Costa/Piran, Soča) tienen sus propias notas gastronómicas en sus carpetas/`Day_trips`.
+> Liubliana es solo el **punto de arranque del loop**; las demás regiones (Bled, Bohinj, Karst, Costa/Piran, Soča) tienen sus propias notas gastronómicas en sus carpetas.
 
 ---
 

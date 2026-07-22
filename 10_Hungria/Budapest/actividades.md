@@ -17,10 +17,10 @@ Budapest son **2 ciudades**: **Buda** (lado oeste, colina, castillo, residencial
 
 ### Lado Pest (Este)
 
-- [ ] **Parlamento (Országház)** - El edificio de parlamento más grande de Europa (528 salas); icónico iluminado de noche junto al Danubio; todas las visitas incluyen tour obligatorio — **no-EEA: 14,000 HUF** (~€35) adulto / **7,000 HUF** estudiante; EEA/EU: **7,000 HUF** / **3,500 HUF** — **tickets se agotan 1-3 semanas antes**; reservar online obligatorio `https://jegymester.hu/production/480000/hungarian-parliament-building-parliament-visit/48245048`
-- [ ] **Basílica de San Esteban (Szent István-bazilika)** - La basílica neoclásica más grande de Hungría; interior impresionante; tiene la **mano derecha momificada de San Esteban** (primera reliquia del país); entrada gratis a la basílica; panorama desde el **campanario: ~1,200 HUF** aprox; la terraza delantera en septiembre/octubre está llena de locales
+- [x] **Parlamento (Országház)** - El edificio de parlamento más grande de Europa (528 salas); icónico iluminado de noche junto al Danubio; todas las visitas incluyen tour obligatorio — **no-EEA: 14,000 HUF** (~€35) adulto / **7,000 HUF** estudiante; EEA/EU: **7,000 HUF** / **3,500 HUF** — **tickets se agotan 1-3 semanas antes**; reservar online obligatorio `https://jegymester.hu/production/480000/hungarian-parliament-building-parliament-visit/48245048`
+- [x] **Basílica de San Esteban (Szent István-bazilika)** - La basílica neoclásica más grande de Hungría; interior impresionante; tiene la **mano derecha momificada de San Esteban** (primera reliquia del país); entrada gratis a la basílica; panorama desde el **campanario: ~1,200 HUF** aprox; la terraza delantera en septiembre/octubre está llena de locales
 - [ ] **Gran Sinagoga (Dohány utcai zsinagóga)** - La más grande de Europa (3,000 personas); en el barrio judío (Distrito VII); museo de historia judía en el interior; jardín del memorial con el **Árbol de la Vida** (escultura de Imre Varga con hojas con nombres de víctimas del Holocausto): **~8,000 HUF** adulto (verificar en dohany-zsinagoga.hu)
-- [ ] **Mercado Central (Nagy Vásárcsarnok)** - El mercado cubierto más grande de Budapest; planta baja: productos frescos, carnicerías, puestos locales (auténtico); planta alta: turística pero conveniente para lángos y souvenirs; hermosa arquitectura de hierro y cerámica de Zsolnay: **GRATIS** entrar
+- [x] **Mercado Central (Nagy Vásárcsarnok)** - El mercado cubierto más grande de Budapest; planta baja: productos frescos, carnicerías, puestos locales (auténtico); planta alta: turística pero conveniente para lángos y souvenirs; hermosa arquitectura de hierro y cerámica de Zsolnay: **GRATIS** entrar
 - [ ] **Andrássy Út** - La "Champs-Elysées" de Budapest; Patrimonio UNESCO; corre desde la Plaza de los Héroes hasta el centro; la **Ópera Estatal húngara** (Magyar Állami Operaház) está en esta avenida; pasear y ver la arquitectura es gratis; tours de la Ópera: **~4,000-6,000 HUF** (verificar en opera.hu)
 - [ ] **Plaza de los Héroes (Hősök tere)** - Al final del Andrássy Út; el monumento del Milenio con los jefes tribales húngaros; impresionante y fotogénico; gratis
 - [ ] **Zapatos en el Danubio (Cipők a Duna-parton)** - Memorial de 60 pares de zapatos de hierro en la orilla del Danubio en recuerdo de los judíos fusilados aquí por las Arrow Cross en 1944-45; uno de los memoriales más sobresalientes de Europa; **GRATIS**; entre el Parlamento y el Puente de las Cadenas
@@ -28,18 +28,18 @@ Budapest son **2 ciudades**: **Buda** (lado oeste, colina, castillo, residencial
 
 ### Lado Buda (Oeste)
 
-- [ ] **Bastión de los Pescadores (Halászbástya)** - Terraza neo-romántica con las **mejores vistas del Parlamento y el Danubio** de toda la ciudad; mejor al atardecer — **torres superiores: 1,700 HUF** (~€4) adulto; acceso al nivel inferior (las galerías abiertas con la vista): **GRATIS**; **después de las 19:00 (oct-mayo) TODO ES GRATIS**; llegar 30min antes del atardecer para conseguir sitio en el mirador
-- [ ] **Iglesia de Matías (Mátyás-templom)** - Interior con azulejos de colores de Zsolnay impresionante; estilo neo-gótico; todas las coronaciones reales húngaras se celebraron aquí: **~3,000-4,000 HUF** (verificar precio actualizado en matyas-templom.hu); conciertos de órgano frecuentes
-- [ ] **Castillo de Buda (Budavári Palota)** - El complejo palacial sobre la colina es impresionante de ver; los patios y jardines son **GRATIS**; dentro alberga el Museo Nacional de Historia Húngara y la Galería Nacional; subir a pie (30min desde el puente, agradable) o en funicular
+- [x] **Bastión de los Pescadores (Halászbástya)** - Terraza neo-romántica con las **mejores vistas del Parlamento y el Danubio** de toda la ciudad; mejor al atardecer — **torres superiores: 1,700 HUF** (~€4) adulto; acceso al nivel inferior (las galerías abiertas con la vista): **GRATIS**; **después de las 19:00 (oct-mayo) TODO ES GRATIS**; llegar 30min antes del atardecer para conseguir sitio en el mirador
+- [?] **Iglesia de Matías (Mátyás-templom)** - Interior con azulejos de colores de Zsolnay impresionante; estilo neo-gótico; todas las coronaciones reales húngaras se celebraron aquí: **~3,000-4,000 HUF** (verificar precio actualizado en matyas-templom.hu); conciertos de órgano frecuentes
+- [x] **Castillo de Buda (Budavári Palota)** - El complejo palacial sobre la colina es impresionante de ver; los patios y jardines son **GRATIS**; dentro alberga el Museo Nacional de Historia Húngara y la Galería Nacional; subir a pie (30min desde el puente, agradable) o en funicular
   - **Funicular (Budavári Sikló):** trayecto de 95 segundos desde el Puente de las Cadenas; **~4,000-4,500 HUF** simple / **~5,000-5,500 HUF** ida+vuelta; funciona 8:00-22:00; más por la experiencia que por la necesidad `https://bkk.hu/en/travel-information/special-and-heritage-transport-services/funicular/`
 - [ ] **Colina Gellért (Gellért-hegy)** - El mirador con las **mejores vistas 360° de toda la ciudad**; la Estatua de la Libertad (Szabadság-szobor) en la cima; sube caminando en 30-40min desde la base: **GRATIS** — imprescindible; mejor al atardecer o al amanecer
 
 ### Puentes y Ribera
 
-- [ ] **Puente de las Cadenas (Széchenyi Lánchíd)** - El puente más famoso de Budapest; caminarlo de noche cuando está iluminado; símbolo histórico de la unificación de Buda y Pest
+- [x] **Puente de las Cadenas (Széchenyi Lánchíd)** - El puente más famoso de Budapest; caminarlo de noche cuando está iluminado; símbolo histórico de la unificación de Buda y Pest
 - [ ] **Puente de la Libertad (Szabadság híd)** - El más estético según muchos (verde, hierro fundido ornamentado); los locales se sientan en las vigas en verano/principios de otoño a ver el atardecer; abierto a peatones
-- [ ] **Tranvías 2 y 19** - Los tranvías que recorren la ribera del Danubio; "el trayecto de tranvía más bonito del mundo" según varios rankings; pasaje **~530 HUF** (~€1.30) — mini-tour con las mejores vistas de Buda desde Pest
-- [ ] **Margit-sziget (Isla Margarita)** - Isla de 2.5km de largo en el centro del Danubio; parque, fuente musical, ruinas medievales, piscina, pistas de atletismo; sin coches; donde los budapestinos hacen deporte y picnic: **GRATIS**
+- [?] **Tranvías 2 y 19** - Los tranvías que recorren la ribera del Danubio; "el trayecto de tranvía más bonito del mundo" según varios rankings; pasaje **~530 HUF** (~€1.30) — mini-tour con las mejores vistas de Buda desde Pest
+- [?] **Margit-sziget (Isla Margarita)** - Isla de 2.5km de largo en el centro del Danubio; parque, fuente musical, ruinas medievales, piscina, pistas de atletismo; sin coches; donde los budapestinos hacen deporte y picnic: **GRATIS**
 
 ---
 
@@ -91,7 +91,7 @@ Bares construidos en edificios en ruinas y abandonados del barrio judío (Distri
 
 ### Los Principales
 
-- [ ] **Szimpla Kert** ⭐ - EL original (2001); imprescindible aunque sea turístico; múltiples patios, pisos y rincones cada uno diferente; **mercado de granjeros los domingos por la mañana** (10:00-14:00); es ir durante el día a ver el espacio; ir entre semana o a primera hora de la noche para fotos sin multitudes `https://szimpla.hu/`
+- [x] **Szimpla Kert** ⭐ - EL original (2001); imprescindible aunque sea turístico; múltiples patios, pisos y rincones cada uno diferente; **mercado de granjeros los domingos por la mañana** (10:00-14:00); es ir durante el día a ver el espacio; ir entre semana o a primera hora de la noche para fotos sin multitudes `https://szimpla.hu/`
 - [ ] **Instant-Fogas** - El más grande: 2 edificios conectados, 26 salas, ~6,000 personas de capacidad; más clubby que Szimpla; múltiples géneros musicales simultáneos; para fiesta real, no solo beber
 - [ ] **Mazel Tov** - Más gastronómico; Israeli food excelente; jardín cubierto; para cenar + drinks; la comida aquí es de las mejores del Distrito VII
 - [ ] **Ellátó Kert** - Más local, menos turístico; jardín bonito; para una noche más tranquila con cerveza y conversación
@@ -150,7 +150,7 @@ Bares construidos en edificios en ruinas y abandonados del barrio judío (Distri
 - [ ] **Óbuda** - La "tercera ciudad" (además de Buda y Pest); la más antigua; barrio tranquilo con casas barrocas y ambiente de pueblo; Fő tér (plaza principal) es muy pintoresca; muy pocos turistas
 - [ ] **Kertész utca y Dob utca** - Las calles paralelas al Szimpla con el mejor ambiente local del Distrito VII; para cuando querés algo más auténtico que la calle principal
 - [ ] **Kazinczy utca (no confundir con Kazimierz)** - La calle central del Distrito VII; arquitecturas de principios del s. XX impresionantes; mezcla de ruin bars, restaurantes israelíes y sinagogas históricas
-- [ ] **Palcsinta (crepería)** - Las creperías húngaras (palcsintázók) son un desayuno o merienda local muy barato y auténtico (~600-1,000 HUF); buscar una fuera del área turística
+- [x] **Palcsinta (crepería)** - Las creperías húngaras (palcsintázók) son un desayuno o merienda local muy barato y auténtico (~600-1,000 HUF); buscar una fuera del área turística
 - [ ] **Corvin Mozi (Cine Corvin)** - El cine más hermoso de Budapest (años 20); arquitectura Art Déco; ver una película si la programación lo permite
 
 ---

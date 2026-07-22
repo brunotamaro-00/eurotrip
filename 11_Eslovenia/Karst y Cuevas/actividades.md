@@ -64,7 +64,7 @@
 ## ✅ 2 planes listos
 
 ### Opción A (solo Škocjan)
-Mañana o tarde según el slot → después manejás a costa/Koper o volvés a Liubliana.
+Mañana o tarde según el slot → después seguís hacia costa/Koper (el Karst encaja bien como tramo de transición del loop rumbo a la costa).
 
 ### Opción B (Postojna + Predjama)
 Predjama primero (si querés fotos con mejor luz) → Postojna con el horario que compres → salida.

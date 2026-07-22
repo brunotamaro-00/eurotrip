@@ -77,7 +77,7 @@ El **Valle del Soča** (Alpes Julianos, lado oeste del **Parque Nacional Triglav
 
 ---
 
-## 🌦️ Tips (octubre, borrador 11-15 oct base Liubliana)
+## 🌦️ Tips (octubre, borrador 11-15 oct, loop en auto)
 - **Secado de ropa/calzado:** si llueve, agradecés calefacción + lugar para colgar.
 - **Llegada con luz:** en zona rural, intentá llegar antes del anochecer.
 - **Plan B:** si pinta mal clima, que la base te deje moverte rápido hacia **cuevas** o **costa** sin perder 2 h en carreteras de montaña.
