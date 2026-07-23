@@ -17,6 +17,8 @@ Estos archivos **no son un cronograma**: son un **mapa completo de todo lo que s
 - **Karst y cuevas (clima-proof)**: Karst y Cuevas
 - **Costa + salida por Trieste**: Costa Eslovena y Trieste
 
+> 🥾 **`trekkings.md`** (nivel país, en esta carpeta): la **biblia de treks** del macizo Julian/Triglav — todas las caminatas con nombre de las 3 zonas (Vršič/Trenta/Bovec, Bohinj/Pokljuka, Bled) con tabla comparativa, tiempos "nuestro estimado", logística en auto y notas de nieve de octubre. Los `actividades.md` regionales quedan para lo **no-trek** (miradores urbanos, pueblos, cuevas-atracción, gastronomía, day trips) y remiten a `trekkings.md`.
+
 ---
 
 ## 🚗 Tu idea: alquilar auto en Liubliana, recorrer 4/5 noches, devolver en Koper, cruzar a Trieste y tren a Florencia

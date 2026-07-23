@@ -1,159 +1,90 @@
 # 🎯 Valle del Soča y Triglav (Bovec / Kobarid / Tolmin)
 
-**Por qué esta región:** es el “wow” turquesa de Eslovenia (Soča esmeralda), con cascadas, gargantas y senderos fáciles de combinar con auto. En octubre, la clave es elegir **recorridos circulares o ida/vuelta** (para dejar el auto en el inicio) y ser conservador con la alta montaña.
+**Por qué esta región:** es el **"wow" turquesa** de Eslovenia (el Soča esmeralda), con cascadas, gargantas, historia de la Primera Guerra Mundial (frente del Isonzo) y outdoor de adrenalina. Base móvil en auto dentro del loop.
+
+> 🥾 **Los trekkings con nombre (Slemenova Špica, Krn, Mangart, Velika korita, Izvir Soče, Soča Trail, etc.) se mudaron a [`../trekkings.md`](../trekkings.md)** — la biblia de treks del macizo, con tabla comparativa, tiempos "nuestro estimado" y logística en auto. **Este archivo queda para lo NO-trek:** cascadas-atracción con ticket, gargantas, WWI, outdoor de adrenalina, gastronomía y pueblos.
 
 ## 🧭 Dónde basarse (si dormís 1 noche)
-- **Bovec**: mejor para cascadas + cañones del Soča + actividades outdoor (rafting, kayak, zipline).
-- **Kobarid**: ideal si querés sumar **historia WWI** + Kozjak + Tolmin Gorges.
-- **Tolmin**: práctico para **Tolminska korita** + Javorca + combinar con salida hacia Karst/Costa.
+- **Bovec:** mejor para cascadas (Virje, Boka) + Velika korita + **outdoor** (rafting, kayak, zipline, canyoning) + puerta a Mangart.
+- **Kobarid:** ideal para **historia WWI** (museo top) + Kozjak + gastronomía (patria de los *štruklji* y de Hiša Franko).
+- **Tolmin:** práctico para **Tolminska korita** + Javorca + combinar con la salida hacia Karst/Costa.
 
-> Regla útil: si querés “hacer Soča en serio” sin correr, **una noche** en el valle cambia todo. En octubre el día es corto: apuntá a 1 trekking principal + 2-3 paradas cortas.
-
----
-
-## 🧩 Cómo leer esta lista (para tu criterio “dejar el auto”)
-- **Circular**: empieza y termina en el mismo parking (perfecto con auto).
-- **Ida y vuelta**: volvés por el mismo camino (también perfecto con auto).
-- **Lineal**: termina en otro punto (requiere 2 autos, taxi, o bus — en octubre puede ser poco confiable).
+> Regla útil: en octubre el día es corto (~11 h de luz). Apuntá a **1 trek principal** (de `trekkings.md`) **+ 2–3 paradas cortas** de este archivo.
 
 ---
 
-## ✅ “Menú” de trekkings y caminatas (con tiempos y logística)
+## 💧 Cascadas y gargantas-atracción (cortas, con ticket o parking)
 
-### A) Muy cortos / alto retorno (15 min a 2 hs) — ideales para octubre
-
-#### 1) Tolmin Gorges / Tolminska korita (Tolmin)
-- **Tipo**: Circular.
-- **Tiempo**: 1.5–2 hs (con fotos, 2–2.5 hs).
-- **Auto**: parking oficial en la entrada (Tolmin).
-- **Octubre (horarios oficiales 2026)**:
-  - **12–25 oct**: 9:00–17:00
-  - **26–31 oct**: 9:00–15:00
-- **Por qué vale**: es “cinematográfico” incluso con mal clima.
-
-#### 2) Slap Kozjak (cascada) + Puente de Napoleón (Kobarid)
-- **Tipo**: Ida y vuelta (se puede “estirar” a circuito histórico, ver más abajo).
-- **Tiempo**: 45–75 min (solo cascada) + 10–20 min extra para puente/miradores.
-- **Auto**: parking/entrada desde la zona de Kobarid (punto de acceso pago estacional).
-- **Octubre (oficial 2026)**: **2–31 oct 9:00–18:00**.
-
-#### 3) Great Soča Gorge / Velika Korita Soče (cerca de Soča – tramo Trenta)
-- **Tipo**: Ida y vuelta.
-- **Tiempo**: ~1:20 hs caminando (más paradas), aprox. 4.5 km total.
-- **Auto**: parking cerca del cruce de Lepena / zona “Lepena Križišče” (hay opciones chicas y suele llenarse en verano; en octubre suele ser más tranquilo).
-- **Por qué vale**: uno de los mejores “turquesa + cañón” con esfuerzo mínimo.
-
-#### 4) Slap Virje (Bovec)
-- **Tipo**: Ida y vuelta (muy corto).
-- **Tiempo**: 15–25 min total (a la cascada son 5–10 min).
-- **Auto**: parking oficial por el acceso a Plužna (camino angosto; en verano se llena, en octubre mejora).
-- **Extra**: si seguís explorando el nacimiento del arroyo (Glijun) y alrededores, sumás 20–40 min.
-
-#### 5) Slap Boka (Bovec–Žaga)
-- **Tipo**: 2 opciones:
-  - **Mirador rápido**: ida y vuelta **10–20 min** (vistas desde la ruta y primer punto).
-  - **Sendero a miradores**: ida y vuelta **1.5–2.5 hs**, con tramos empinados.
-- **Auto**: estacionamiento al costado de la ruta (zona puente / cerca de Hotel Boka).
-- **Octubre**: ojo con barro/hojas en subida (calzado con buen agarre).
-
-#### 6) Javorca – Memorial Church of the Holy Spirit (desde Tolmin/Zatolmin)
-- **Tipo**: Ida y vuelta corta (acceso + caminata mínima).
-- **Tiempo**: 15–25 min a pie (desde el parking a la iglesia) + el tiempo de visita.
-- **Auto**: se llega por **camino de ripio angosto** (aprox. 7 km desde Zatolmin; ir tranquilo).
-- **Por qué vale**: historia WWI + lugar muy especial en bosque.
-
-#### 7) Šunik Water Grove / Šunikov vodni gaj (Trenta)
-- **Tipo**: Ida y vuelta / mini loop (senderitos cortos).
-- **Tiempo**: 20–45 min.
-- **Auto**: paradas pequeñas al costado del camino en Trenta.
-- **Por qué vale**: “bosque de agua” (cascaditas + musgo) perfecto si el día está gris.
+- [ ] **Tolminska korita / Tolmin Gorges** - la garganta más al sur del Triglav NP (puentes, Cueva del Diablo, "Cabeza del Oso", termal) — cinematográfica incluso con mal clima — **€8** temporada baja (hasta €12 verano) `https://www.tolmin-gorges.info/en/attraction/tolmin-gorges/price-list/`
+  - **Horario oct 2026:** 12–25 oct **9:00–17:00** · 26–31 oct **9:00–15:00** (circular ~1.5–2 h)
+- [ ] **Slap Kozjak** - una de las cascadas más bonitas del país, cae en una cámara de roca semicerrada — acceso desde Kobarid, **entrada/parking estacional (verificar)** — ida y vuelta 45–75 min `https://www.soca-valley.com/en/attraction/kozjak-waterfall/`
+  - **Horario oct 2026:** 2–31 oct **9:00–18:00** · se combina con el Puente de Napoleón y el sendero histórico
+- [ ] **Slap Virje** (Bovec) - cascada de postal que cae sobre una poza turquesa, **muy corta** (5–10 min desde el parking) — parking oficial por Plužna (camino angosto) — **GRATIS** `https://www.soca-valley.com/en/attraction/virje-waterfall/`
+- [ ] **Slap Boka** (Bovec–Žaga) - la cascada más caudalosa de Eslovenia (~106 m) — **mirador rápido** desde la ruta (10–20 min) o **sendero a miradores** (1.5–2.5 h, empinado) — **GRATIS**
+- [ ] **Velika korita Soče (Gran Garganta)** - el turquesa a full con esfuerzo mínimo — **→ ficha completa en [`../trekkings.md`](../trekkings.md) (#4)**
+- [ ] **Šunikov vodni gaj / Šunik Water Grove** (Trenta) - "bosque de agua" con cascaditas y musgo, mini-loop 20–45 min — perfecto si el día está gris — **GRATIS**
 
 ---
 
-### B) Medio día (2.5 a 5 hs) — trekking “principal” del día
+## 🎖️ Historia — Frente del Isonzo (WWI) — el alma del valle
 
-#### 8) Slemenova Špica (desde Vršič Pass)
-- **Tipo**: Ida y vuelta o **circular corto** (según variante).
-- **Tiempo**: 1.5–2.5 hs total.
-- **Distancia/Desnivel**: ~5–6.5 km, +350 a +475 m aprox.
-- **Auto**: se deja en el **parking del Paso Vršič** (arriba).
-- **Octubre**: probablemente el **mejor trekking** por colores de otoño (alerces dorados). Si hay hielo/nieve temprana, evitá variantes expuestas y quedate con el trazado más simple.
-
-#### 9) Kobarid Historical Trail (circuito histórico) (Kobarid)
-- **Tipo**: Circular.
-- **Tiempo**: 3–5 hs (versión completa ~5 km) o 2–3 hs (versión corta ~3 km).
-- **Auto**: parking en Kobarid (inicio del circuito).
-- **Incluye**: miradores del Soča, WWI, Ossuary italiano, y puede integrar Kozjak.
-- **Por qué vale**: buen plan en octubre porque combina bosque + historia + naturaleza.
-
-#### 10) Izvir Soče (nacimiento del río Soča) (Trenta)
-- **Tipo**: Ida y vuelta corta.
-- **Tiempo**: 30–60 min total (dependiendo si subís “hasta el manantial”).
-- **Auto**: parking en **Koča pri Izviru Soče** (por un desvío cerca de una curva de herradura del camino del Vršič hacia Trenta).
-- **Atención**: el último tramo al manantial tiene **paso expuesto con cable** (no es para cualquiera con vértigo y puede ser peligroso con humedad/hielo). Si no te cierra, hacés el tramo fácil hasta el río y listo.
-
-#### 11) Tramos “fáciles” del Soča Trail (para hacerlo con auto, sin logística rara)
-- **Tipo**: Ida y vuelta (elegís un tramo y volvés).
-- **Tiempo**: 2–4 hs (según tramo).
-- **Auto**: estacionás en un punto “lógico” (Trenta/Soča/puentes) y caminás río arriba/abajo.
-- **Idea**: en octubre, en vez de querer “hacer los 25 km”, conviene elegir:
-  - **Trenta + puentes colgantes** (caminata suave con vistas)
-  - **Zona Soča village ↔ Great Soča Gorge** (turquesa a full)
-
-#### 12) Lago Krn / Krnsko jezero (desde Lepena Valley)
-- **Tipo**: Ida y vuelta.
-- **Tiempo**: subida ~2:30 hs; bajada 1:30–2 hs (total 4.5–6 hs).
-- **Distancia/Desnivel**: ~11.8 km total; +700–820 m aprox.
-- **Auto**: se deja al final del valle de **Lepena** (zona Dom dr. Klementa Juga).
-- **Octubre**:
-  - el refugio cerca del lago suele operar sobre todo **junio–septiembre** (ir con comida/agua/abrigo),
-  - más chances de frío y hojas mojadas en el bosque.
+- [ ] **Kobariški muzej / Museo de Kobarid** - **el imperdible cultural del valle**; cuenta las 12 batallas del Isonzo y la ruptura de Caporetto (1917) con maquetas y relatos personales — de los mejores museos de guerra de Europa según viajeros — **~€7** (verificar) `https://www.kobariski-muzej.si/en/visit/entry-fee-and-opening-hours/`
+- [ ] **Kobarid Historical Trail** - circuito que enlaza el Ossuary italiano, trincheras, el Soča y (opcional) Kozjak — **→ ficha en `trekkings.md` / desvíos** (3–5 h la versión larga)
+- [ ] **Italian Charnel House / Ossuary de Kobarid** - osario monumental sobre la colina de Gradič con vistas al valle — **GRATIS**
+- [ ] **Javorca — Memorial Church of the Holy Spirit** (desde Zatolmin) - iglesia-memorial de madera de 1916 en pleno bosque, con los nombres de los caídos grabados — se llega por camino de ripio angosto (~7 km) + caminata mínima — muy especial `https://www.visit-javorca.si/en/`
+- [ ] **Napoleon's Bridge** (Kobarid) - puente de piedra sobre el cañón turquesa del Soča, punto de partida hacia Kozjak — **GRATIS**
+- [ ] **Walk of Peace / Pot miru** - red de sitios WWI señalizados a lo largo del valle (trincheras, fortines, cementerios) — se puede tomar tramos sueltos en auto `https://www.potmiru.si/eng`
 
 ---
 
-### C) Día completo / más exigentes (6 a 10+ hs) — solo si el clima acompaña fuerte
+## 🚣 Outdoor de adrenalina (Bovec) — "si pinta" y según clima de octubre
 
-#### 13) Ascensos “alpinos” desde Vršič (ej. Mala Mojstrovka / variantes en cresta)
-- **Tipo**: Ida y vuelta / circular según variante.
-- **Tiempo**: 4–8 hs (según pico/ruta).
-- **Auto**: parking Vršič.
-- **Octubre**: esto ya entra en “alta montaña”: si hay nieve/hielo o nubes, no lo hagas. Idealmente con experiencia y/o info local del día.
+> Octubre es **temporada baja/shoulder**: el agua del Soča está **fría (6–12 °C, neopreno sí o sí)**, hay **menos salidas** y conviene **reservar y confirmar operación** antes. Ir con operador serio (seguridad + equipo).
 
-#### 14) Mangart Saddle + caminatas cortas arriba (zona Log pod Mangartom)
-- **Tipo**: Ida y vuelta (en auto) + caminata corta opcional arriba.
-- **Tiempo**: 1–3 hs total (según cuánto camines).
-- **Auto**: se llega por una ruta de montaña espectacular; **puede cerrar por nieve** temprano.
-- **Octubre**: excelente si está abierto y el cielo está limpio; si hay alerta de nieve/hielo, descartalo.
+- [ ] **Rafting en el Soča** - clásico de Bovec; opera **hasta el 31 oct** (varios operadores) — octubre = río más solitario y tranquilo — **verificar precio/salida** `https://www.socavalley.com/guided-experiences-rafting-soca-river-slovenia/`
+- [ ] **Kayak / packraft** - para quien prefiere algo propio; cursos y bajadas guiadas (temporada baja en oct)
+- [ ] **Canyoning (cañón Sušec u otros)** - opera **hasta fin de octubre**; pico de demanda jun–sep — **reservar** `https://www.socavalley.com/guided-experiences-canyoning-outdoor-slovenia/`
+- [ ] **Zipline Kanin/Učja** - uno de los parques de tirolesa más grandes de Europa; **opera hasta mediados de octubre** — confirmar fecha de cierre antes `https://www.zipline.si/en/`
+- [ ] **Parapente (Bovec/Kobarid)** - espectacular con buen tiempo; **muy dependiente de viento/nubes** — se decide el día mismo
+- [ ] **SUP / baño en pozas del Soča** - solo para valientes en octubre (agua muy fría)
 
 ---
 
-## 🧗‍♂️ Actividades outdoor (no trekking) — “si pinta” y según clima de octubre
-- **Rafting / kayak en el Soča (Bovec)**: se hace con neopreno; en octubre el agua está fría y el caudal depende de lluvias. Elegí operador serio (seguridad + equipo).
-- **Canyoning (Bovec)**: suele ser estacional; en octubre puede haber menos salidas.
-- **Zipline / parques de aventura**: revisar si siguen operando a mediados de octubre (muchos bajan frecuencia).
-- **Parapente**: espectacular con buen tiempo; muy dependiente de viento/nubes.
+## 🍽️ Gastronomía (Kobarid es la capital culinaria del valle)
+
+- [ ] **Kobariški štruklji** - los *štruklji* de Kobarid (rollos dulces con nueces y pasas) son **la estrella local**; están en casi todos los restos del "Círculo Gastronómico de Kobarid" `https://www.soca-valley.com/en/be-inspired/travel-tips/2021061413425766/delicious-delicacies-6-culinary-delights/`
+- [ ] **Trucha del Soča (postrv)** - la trucha mármol del río, a la parrilla o al horno — plato bandera del valle
+- [ ] **Frika + krompir s skuto** - tortilla de papa y queso (frika) y papas con requesón, comida de montaña
+- [ ] **Tolminc (queso)** - queso DOP de la zona de Tolmin; buscarlo en tablas/quesería local
+- [ ] **Hiša Franko** (Kobarid) - **3 estrellas Michelin** de Ana Roš, "kilómetro cero" del Soča (trucha, ciervo, plantas silvestres) — **reserva con MUCHA anticipación** y presupuesto alto; experiencia destino `https://www.hisafranko.com/en`
+- [ ] **Restos del Círculo Gastronómico de Kobarid** - opción realista para probar *štruklji* y frika sin el ticket de Hiša Franko
 
 ---
 
-## 🧠 Tips específicos para mediados de octubre (borrador 11–15 oct, loop en auto)
-- **Día corto**: elegí 1 actividad “larga” + 2–3 cortas; no más.
-- **Buses**: los buses “de movilidad sostenible” del valle son **estacionales (verano)**. Para octubre, planificá como si **no existieran** (si aparece alguno, es bonus). Si necesitás un trekking **sí o sí** de punto A→B, asumí que vas a tener que resolverlo con **2 autos o taxi**.
-- **Vršič Pass**: puede haber **nieve temprana** o hielo en sombra. Antes de salir mirá estado oficial de rutas.
-- **Gargantas y cascadas**: con lluvia, el agua se pone increíble pero hay **resbalones** (hojas + piedra mojada). Calzado con agarre.
-- **Refugios**: fuera de temporada, asumí que están cerrados o con horarios limitados. Llevá agua/abrigo.
+## 🗺️ Pueblos y paradas de auto (para hilar el loop)
+- [ ] **Kobarid** - pueblo base, plaza + museo + gastronomía.
+- [ ] **Bovec** - base outdoor, rodeado de las cimas más altas (Kanin, Rombon).
+- [ ] **Trenta** - valle alto del Soča, puerta al nacimiento del río y a Vršič (info-center del TNP).
+- [ ] **Most na Soči** - pueblo sobre un lago-embalse esmeralda del Soča (bonito para foto/parada).
+- [ ] **Tolmin** - base sur, práctica para salir hacia Karst/Costa.
 
 ---
 
-## ✅ Itinerarios listos (para decidir rápido)
+## 🚶 Free Walking Tour
 
-### Opción 1 — 1 día “Soča esencial” (con 1 noche)
-- **Mañana**: Slemenova Špica *o* Great Soča Gorge (según clima).
-- **Tarde**: Kozjak + Puente de Napoleón.
-- **Cierre**: Tolmin Gorges (si te dan los horarios) o Virje (si dormís en Bovec).
+> No hay operadores de free walking tour tipo SANDEMANs/GuruWalk en el valle del Soča (es zona rural/outdoor, no ciudad). Los "tours" acá son **guías de montaña/outdoor** (rafting, treks guiados, WWI). Para historia WWI, el **museo de Kobarid** + el **Historical Trail** autoguiado cumplen ese rol.
 
-### Opción 2 — 2 días “Soča bien hecho”
-- **Día 1 (arriba del valle, base Bovec)**: Virje + Boka + Great Soča Gorge + tramo corto del Soča Trail.
-- **Día 2 (bajando, base Kobarid/Tolmin)**: Slemenova (si el Vršič está ok) *o* Kobarid Historical Trail + Kozjak + Tolmin Gorges / Javorca.
+---
+
+## 🧠 Consenso viajeros/foros
+
+- **El Soča es "el highlight natural de Eslovenia"** — el color turquesa (Velika korita, Napoleon's Bridge) aparece una y otra vez como lo más memorable del país `https://www.soca-valley.com/en/`
+- **Sin auto, el valle es un dolor de cabeza** — los buses del valle son estacionales (verano) y escasos; el consenso es "alquilá auto para el Soča" (coincide con tu plan) `https://ourwanders.com/hiking-soca-valley-slovenia/`
+- **El museo de Kobarid sorprende** — hasta gente no fanática de museos de guerra lo pone entre lo mejor del viaje `https://www.tripadvisor.com/Attraction_Review-g319788-d276481-Reviews-Kobarid_Museum_Kobariski_muzej-Kobarid_Slovenian_Littoral_Region.html`
+- **Tolmin Gorges "hermosa pero cara"** — reseñas señalan que la entrada subió y hay límite de slots; comprar online y no ir en pico `https://www.tripadvisor.com/Attraction_Review-g815568-d1187693-Reviews-Tolmin_Gorge-Tolmin_Slovenian_Littoral_Region.html`
+- **Velika korita > Tolmin/Vintgar para "turquesa"** — muchos prefieren la Gran Garganta del Soča (gratis, menos gente) a las gargantas pagas `https://www.outdooractive.com/en/hikes/velika-korita-soce/hikes-in-velika-korita-soce/231607345/`
+- **Rafting en octubre: frío pero mágico** — agua a 6–12 °C con neopreno; septiembre–octubre = río más solitario `https://www.thesmoothescape.com/soca-river-rafting-in-slovenia/`
+- **Reservar Hiša Franko con meses** — no es un "caemos y comemos"; se llena con mucha anticipación `https://www.tripadvisor.com/Restaurant_Review-g319788-d1059106-Reviews-HISA_FRANKO-Kobarid_Slovenian_Littoral_Region.html`
 
 ---
 
@@ -161,23 +92,38 @@
 
 > Fechas tentativas — re-verificar al confirmar
 
-**Ventana tentativa:** ~12-14 oct (**noche en el valle** dentro del loop: Bovec/Kobarid/Tolmin)
+**Ventana tentativa:** ~12–14 oct (**noche en el valle** dentro del loop: Bovec/Kobarid/Tolmin)
 
-- **Tolmin Gorges:** horario oficial 12-25 oct **9:00-17:00** ✓ (ya verificado arriba) `https://www.soca-valley.com/en/attraction/tolmin-gorges/opening-hours/`
-- **Buses estacionales del valle: NO operan en octubre** — planificar 100% con auto; trekkings lineales requieren taxi/2 autos
-- **Vršič Pass:** riesgo de nieve/hielo temprano — chequear estado de rutas la mañana misma `https://www.promet.si/en`
+- **Tolmin Gorges:** 12–25 oct **9:00–17:00** ✓ (verificado) `https://www.tolmin-gorges.info/en/attraction/tolmin-gorges/price-list/`
+- **Kozjak:** 2–31 oct **9:00–18:00** ✓
+- **Outdoor en su límite:** rafting y canyoning **hasta 31 oct**; **zipline cierra a mediados de octubre** → si te interesa, es de los primeros días de la ventana y hay que reservar
+- **Buses estacionales del valle: NO operan en octubre** — todo con auto; treks lineales requieren taxi/2 autos
+- **Vršič/Mangart:** riesgo de nieve/hielo temprano — chequear estado de rutas la mañana misma `https://www.promet.si/en`
 - **Refugios cerrados** fuera de temporada (Krn incl.) — llevar agua/comida/abrigo
-- **Clima y luz:** ~11h de luz; 1 trekking principal + 2-3 paradas cortas máximo; **Slemenova Špica con alerces dorados** es el plan estrella si el cielo acompaña ⭐
+- **Clima y luz:** ~11 h de luz; con lluvia el agua se pone increíble pero hay resbalones (hojas + piedra mojada) → calzado con agarre
 
 ---
 
-## 🔗 Fuentes/links útiles (oficiales + planificación)
-- Estado de rutas (oficial): `https://www.promet.si/en`
-- Info turística oficial del valle (y muchas fichas de atracciones): `https://www.soca-valley.com/en/`
-- Horarios Tolmin Gorges (oficial): `https://www.soca-valley.com/en/attraction/tolmin-gorges/opening-hours/`
-- Slap Kozjak (oficial Soča Valley): `https://www.soca-valley.com/sl/iskanje-dogodivscin/narava/naravni-biser/2020122809482088/slap-kozjak/`
-- Soča Trail (oficial Parque Triglav): `https://www.tnp.si/en/visiting-park/activities-and-sights/hiking/soca-trail/`
-- Lepena → Lago Krn (oficial Parque Triglav): `https://www.tnp.si/en/visiting-park/information-for-visitors/accommodation/podrobnosti/117/from-lepena-valley-to-krn-lake.html`
-- Javorca (sitio oficial): `https://www.visit-javorca.si/en/`
-- Movilidad sostenible / buses estacionales (oficial Soča Valley): `https://www.soca-valley.com/en/soca-valley/sustainable-mobility/2021062214345090/`
+## 💡 Tips
+- **Logística:** 1 actividad "larga" + 2–3 cortas por día; no más (día corto).
+- **Slots:** Tolmin y (según año) Kozjak venden por franja horaria y limitan cupo → comprar online.
+- **Calzado:** suela con buen agarre para gargantas/cascadas (piedra mojada garantizada).
+- **Dinero:** casi todo acepta tarjeta, pero llevá algo de efectivo para parkings/entradas de acceso.
+- **Mejor luz:** cañones y cascadas rinden con sol alto (mediodía) que entra al fondo del agua.
 
+---
+
+## ⚠️ Precios Oficiales de Referencia (2026)
+
+| Atracción | Precio adulto | Nota |
+|-----------|--------------|------|
+| Tolmin Gorges | **€8** (baja; hasta €12 verano) | slots online; 12–25 oct 9–17h · tolmin-gorges.info |
+| Slap Kozjak | acceso/parking estacional | 2–31 oct 9–18h; verificar tarifa en el día |
+| Slap Virje | **GRATIS** | parking angosto por Plužna |
+| Slap Boka | **GRATIS** | mirador ruta o sendero empinado |
+| Museo de Kobarid | **~€7** | verificar 2026 · kobariski-muzej.si |
+| Rafting Soča | **verificar** (temporada baja oct) | neopreno; hasta 31 oct · socavalley.com |
+| Zipline Kanin | **verificar** | cierra a mediados de oct · zipline.si |
+| Hiša Franko | menú degustación (alto) | 3⭐ Michelin; reservar con meses · hisafranko.com |
+
+**Fuentes:** tolmin-gorges.info · soca-valley.com · kobariski-muzej.si · socavalley.com · zipline.si · hisafranko.com
