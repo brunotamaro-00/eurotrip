@@ -135,19 +135,19 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 - Comida: $760-1,040
 - Transporte: auto Highlands **$171** (confirmado) + trenes vía Eurail
 - Actividades: **$124.61 confirmado** + resto estimado → **~$320-520** total
-- **Subtotal: ~$2,170-2,650**
+- **Subtotal: ~$2,170-2,650** (~$109-133/día)
 
 ### Países Bajos (4 noches: 25-29 ago)
 - Alojamiento: **$230.42** (ClinkMama)
 - Comida: $144-192
 - Actividades: **$26.87 confirmado** (Ana Frank) + resto → **~$90-160**
-- **Subtotal: ~$490-610**
+- **Subtotal: ~$490-610** (~$123-153/día)
 
 ### Francia — París (6 noches: 29 ago - 4 sept)
 - Alojamiento: **$266.34**
 - Comida: $216-288
 - Actividades: $140-220
-- **Subtotal: ~$622-774**
+- **Subtotal: ~$622-774** (~$104-129/día)
 
 ### Portugal — Lisboa + Porto (8 noches: 4-12 sept) — Bruno
 
@@ -157,7 +157,7 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Comida (8d) | $200-304 |
 | Actividades | $70-130 |
 | Transporte (vuelos + tren interno) | **$195.77-223.77** |
-| **Subtotal** | **$730-922** |
+| **Subtotal** | **$730-922** (~$91-115/día) |
 
 ### Pititas — Ámsterdam 3n + París 5n (8 noches: 4-12 sept) — Katia
 
@@ -171,55 +171,55 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Actividades / museos | $100-180 |
 | Tren AMS ↔ París | **$39 (COMPRADO)** |
 | Local + regreso a Estrasburgo | $70-135 |
-| **Subtotal** | **~$1,108-1,349** |
+| **Subtotal** | **~$1,108-1,349** (~$139-169/día) |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: **$312.85** (Estrasburgo $118.50 + Colmar $68.00 + Friburgo $126.35)
 - Comida: $224-294
 - Actividades: $55-95
-- **Subtotal: ~$592-702**
+- **Subtotal: ~$592-702** (~$85-100/día)
 
 ### Suiza — Interlaken (4 noches: 19-23 sept)
 - Alojamiento: **$182.66** ✅ (antes estimado $288-360)
 - Comida: $168-240 (baja vs techo previo: más cocina)
 - Actividades: $170-300 (Jungfrau/trenes de montaña siguen caros)
-- **Subtotal: ~$520-720**
+- **Subtotal: ~$520-720** (~$130-180/día)
 
 ### Austria (5 noches en borrador: Viena 23-28 sept; Innsbruck 0, puede +1–2)
 - Alojamiento: $240-410
 - Comida: $170-230
 - Actividades: $85-140
-- **Subtotal: ~$495-780**
+- **Subtotal: ~$495-780** (~$99-156/día)
 
 ### Chequia (5 noches: 28 sept - 3 oct)
 - Alojamiento: $130-170
 - Comida: $85-130
 - Actividades: $55-90
-- **Subtotal: ~$270-390**
+- **Subtotal: ~$270-390** (~$54-78/día)
 
 ### Polonia (4 noches: 3-7 oct)
 - Alojamiento: $68-100
 - Comida: $68-104
 - Actividades: $60-100
-- **Subtotal: ~$196-304**
+- **Subtotal: ~$196-304** (~$49-76/día)
 
 ### Hungría (4 noches: 7-11 oct)
 - Alojamiento: $76-112
 - Comida: $68-104
 - Actividades: $70-115
-- **Subtotal: ~$214-331**
+- **Subtotal: ~$214-331** (~$54-83/día)
 
 ### Eslovenia (4 noches: 11-15 oct, base Liubliana)
 - Alojamiento: $120-168
 - Comida: $80-120
 - Actividades: $60-100
-- **Subtotal: ~$260-388**
+- **Subtotal: ~$260-388** (~$65-97/día)
 
 ### Italia (24 noches: 15 oct - 8 nov)
 - Alojamiento: $912-1,200
 - Comida: $672-960
 - Actividades: $300-480
-- **Subtotal: ~$1,884-2,640**
+- **Subtotal: ~$1,884-2,640** (~$79-110/día)
 
 > **Nota Sur de Italia:** El presupuesto de las **10 noches** tentativas del bloque “Sur de Italia” varía según la ruta:
 > - **Costa Amalfitana:** $$-$$$ — ~$40-55pp/día todo incluido.
@@ -232,7 +232,7 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 - Alojamiento: $330-450
 - Comida: $280-400
 - Actividades: $140-210
-- **Subtotal: ~$750-1,060**
+- **Subtotal: ~$750-1,060** (~$75-106/día)
 
 ---
 
