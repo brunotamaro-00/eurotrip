@@ -3,7 +3,7 @@
 ## Estimación General
 
 **Duración total:** 108 noches (5 agosto - 21 noviembre 2026)
-**Viajeros:** 2 personas (excepto **Portugal (4-12 sept)**: Bruno solo; Katia en paralelo en **Pititas**)
+**Viajeros:** 2 personas · **ambos 108 noches**. Excepción: **4-12 sept** — Bruno en **Portugal**; Katia en paralelo en **Pititas** (**Ámsterdam 3n + París 5n**).
 
 **Planificación:** Fechas y noches **cerradas hasta Interlaken (23 sept)**. Del Innsbruck/Viena en adelante, las fechas por ciudad son **tentativas**. Las **3 noches de margen** no tienen destino fijo: presupuesto reservado para alargar estancia donde haga falta.
 
@@ -26,7 +26,7 @@
 | Países Bajos — Ámsterdam (ClinkMama) | 25-29 ago | 4 | $57.60 | $230.42 | ✅ Reservado |
 | Francia — París | 29 ago - 4 sept | 6 | $44.39 | $266.34 | ✅ Reservado |
 | **Portugal — Lisboa + Porto (Bruno)** | 4-12 sept | 8 | **$30.57 (Lisboa) + $37.20 (Porto)** | **$264.47** | ✅ Reservado |
-| **Pititas (Katia, paralelo a Portugal)** | 4-12 sept | 8 | $76.38 | **$611.00** | ✅ Reservado (solo Katia) |
+| **Pititas — Ámsterdam 3n + París 5n (Katia)** | 4-12 sept | 8 | $76.38 (promedio) | **$611.00** | ✅ Reservado (solo Katia; solo hospedaje pago) |
 | Francia — Estrasburgo | 12-14 sept | 2 | $59.25 | $118.50 | ✅ Reservado (Airbnb) |
 | Francia — Colmar | 14-16 sept | 2 | $34.00 | $68.00 | ✅ Reservado (Airbnb) |
 | Alemania — Friburgo | 16-19 sept | 3 | $42.12 | $126.35 | ✅ Reservado (Black Forest Hostel) |
@@ -41,7 +41,7 @@
 | España | 8-18 nov | 10 | $33-45 | $330-450 | Barcelona + Madrid |
 | **Margen flex (ubicación TBD)** | a usar en el viaje | 3 | $33-45 | $99-135 | Colchón; sumar noches donde interese |
 | **TOTAL (Bruno, 108n)** | | **108** | | **$4,147.5-4,897.5** | |
-| **TOTAL (Katia, 100n + Pititas)** | | **100+8** | | **$4,494.0-5,244.0** | |
+| **TOTAL (Katia, 108n)** | | **108** | | **$4,494.0-5,244.0** | |
 
 > **Nota estilo:** vienen reservando hostels/Airbnb en la banda baja-media. Interlaken salió **mucho más barato** que el techo previo ($72-90 → **$45.67**). Las proyecciones post-Suiza bajan un poco respecto al borrador anterior.
 
@@ -54,7 +54,8 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Reino Unido (ago, temporada alta) | $38-52 | 20 | $760-1,040 |
 | Países Bajos + París | $36-48 | 10 | $360-480 |
 | **Portugal (Bruno)** | $25-38 | 8 | $200-304 |
-| **Pititas (Katia)** | $30-42 | 8 | $240-336 |
+| **Pititas — Ámsterdam 3n (Katia)** | $36-48 | 3 | $108-144 |
+| **Pititas — París 5n (Katia)** | $36-48 | 5 | $180-240 |
 | Alsacia + Selva Negra | $32-42 | 7 | $224-294 |
 | Suiza (más cocina en hostel) | $42-60 | 4 | $168-240 |
 | Austria | $34-46 | 5 | $170-230 |
@@ -62,7 +63,7 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Italia + España | $28-40 | 34 | $952-1,360 |
 | **Margen (3 días flex)** | $30-42 | 3 | $90-126 |
 | **TOTAL (Bruno)** | | **108** | **$3,213-4,516** |
-| **TOTAL (Katia, sin Portugal + Pititas)** | | **100+8** | **$3,253-4,548** |
+| **TOTAL (Katia, 108n: sin Portugal + Pititas AMS/París)** | | **108** | **$3,301-4,596** |
 
 ### Transporte (por persona)
 
@@ -84,13 +85,21 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Auto Highlands (7 días) — COMPRADO | **$171** |
 | Transporte local (metro, bus, etc.) | $550-850 |
 | **TOTAL TRANSPORTE (Bruno, sin vuelos Portugal)** | **~$2,280-2,790** |
-| **TOTAL TRANSPORTE (Katia)** | **~$2,320-2,830** |
+| **TOTAL TRANSPORTE (Katia, base compartida)** | **~$2,280-2,790** |
 
 **Portugal — transporte Bruno (1 persona):**
 - Vuelo París → Lisboa (Ryanair) — **$93.77 (COMPRADO)**
 - Tren Lisboa → Porto: **$12-40** (estimado)
 - Vuelo Porto → Estrasburgo (Volotea) — **$90 (COMPRADO)**
 - **Subtotal Portugal transporte: $195.77-223.77**
+
+**Pititas — transporte Katia (Ámsterdam 3n + París 5n):**
+- Tren AMS ↔ París — **$39 (COMPRADO)**
+- Transporte local (GVB / Metro-RER, 8 días) — **$45-80** (también cubierto en “local” del viaje)
+- Regreso a reunión (París/Ámsterdam → Estrasburgo, 12 sept) — **$25-55** (o 1 día Eurail + reserva)
+- **Subtotal Pititas (para el bloque): $109-174**
+- **Extras vs base (tren $39 + reunión, sin recontar local): $64-94**
+- **TOTAL TRANSPORTE (Katia, incl. Pititas): ~$2,345-2,885**
 
 **Nota:** El Eurail (15 días/2 meses) se activa al inicio del viaje (~7-8 ago) y cubre los tramos **más caros**: bloque UK y **Suiza**. Los trenes UK y el Eurostar **van dentro del pase** (la reserva de asiento Eurostar ya está paga). Lo barato o de operador privado (Italia, España, Praga→Cracovia, buses) se compra suelto.
 
@@ -150,12 +159,19 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Transporte (vuelos + tren interno) | **$195.77-223.77** |
 | **Subtotal** | **$730-922** |
 
-### Pititas (8 noches: 4-12 sept) — Katia
-- Alojamiento: **$611.00** ($76.38/noche)
-- Comida: $240-336
-- Actividades / local: $40-90
-- Tren AMS→París (ya cargado): **$39**
-- **Subtotal: ~$930-1,076**
+### Pititas — Ámsterdam 3n + París 5n (8 noches: 4-12 sept) — Katia
+
+> Solo hospedaje confirmado (**$611**). Comida, transporte y actividades = estimación (mismo nivel que AMS/París del tramo compartido).
+
+| Concepto | Real / Estimado |
+|----------|-----------------|
+| Alojamiento (Ámsterdam 3n + París 5n) | **$611.00 (real)** |
+| Comida Ámsterdam (3d × $36-48) | $108-144 |
+| Comida París (5d × $36-48) | $180-240 |
+| Actividades / museos | $100-180 |
+| Tren AMS ↔ París | **$39 (COMPRADO)** |
+| Local + regreso a Estrasburgo | $70-135 |
+| **Subtotal** | **~$1,108-1,349** |
 
 ### Alsacia + Selva Negra (7 noches: 12-19 sept)
 - Alojamiento: **$312.85** (Estrasburgo $118.50 + Colmar $68.00 + Friburgo $126.35)
@@ -232,23 +248,23 @@ Sin gastos de comida cargados aún (viaje no empezó). Se mantiene estimación; 
 | Otros (incl. Amazon $118) | $2,091-3,491 |
 | **TOTAL Bruno** | **~$11,930-15,920** |
 
-### Katia (100 noches compartidas + 8 Pititas)
+### Katia (108 noches: viaje completo + Pititas Ámsterdam 3n / París 5n)
 
 | Categoría | Rango |
 |-----------|-------|
 | Alojamiento (shared sin Portugal + Pititas $611) | $4,494-5,244 |
-| Alimentación | $3,253-4,548 |
-| Transporte | $2,320-2,830 |
+| Alimentación | $3,301-4,596 |
+| Transporte (incl. Pititas) | $2,345-2,885 |
 | Otros | $1,973-3,373 |
-| **TOTAL Katia** | **~$12,040-15,995** |
+| **TOTAL Katia** | **~$12,115-16,100** |
 
 ### Gran Total (ambos)
 
 | Concepto | Rango |
 |----------|-------|
 | Bruno | **~$11,930-15,920** |
-| Katia | **~$12,040-15,995** |
-| **TOTAL VIAJE** | **~$23,970-31,915** |
+| Katia | **~$12,115-16,100** |
+| **TOTAL VIAJE** | **~$24,045-32,020** |
 
 ---
 
@@ -275,7 +291,7 @@ Montos **gross** del hogar (o personales si `payer_only`). Incluye cuotas pendie
 | París (6n) | $532.68 | $266.34 | shared |
 | Lisboa (5n, Bruno) | $152.87 | $152.87 | personal |
 | Porto (3n, Bruno) | $111.60 | $111.60 | personal |
-| Pititas hospedaje (8n, Katia) | $611.00 | $611.00 | personal |
+| Pititas hospedaje — Ámsterdam 3n + París 5n (Katia) | $611.00 | $611.00 | personal |
 | Estrasburgo Airbnb (2n) | $237.00 | $118.50 | shared |
 | Colmar Airbnb (2n) | $136.00 | $68.00 | shared |
 | Friburgo Black Forest (3n) | $252.69 | $126.35 | shared |
@@ -292,8 +308,6 @@ Montos **gross** del hogar (o personales si `payer_only`). Incluye cuotas pendie
 | Museo Ana Frank | $53.74 | $26.87 | shared |
 | Compras Amazon (Bruno) | $118.00 | $118.00 | personal |
 | **TOTAL CONFIRMADO** | **$9,233.42** | **Bruno $4,578.83 · Katia $4,654.59** | |
-
-> **Delta vs borrador previo:** Interlaken confirmado (−~$100-180 pp vs techo), Friburgo real más bajo (−$16 pp), seguro real **$320** (antes $350), Eurostar reserva **$39.44 pp** (antes $24-35 estimado), Pititas Katia **$611** ahora visible en el total, actividades prepago **$151.48 pp**.
 
 ---
 
@@ -374,4 +388,4 @@ Resumen rápido de cuáles convienen (verificar precios actuales antes de compra
 
 ---
 
-**Última actualización:** 21 julio 2026 — Sincronizado con Spitwise productivo ($9,233.42 confirmados: alojamientos hasta Interlaken, transporte prepago, seguros $320 pp, actividades $151.48 pp, Pititas Katia $611). Proyecciones post-Suiza ajustadas al estilo hostel real del viaje.
+**Última actualización:** 23 julio 2026 — Katia alineada a **108 noches**. Pititas = **Ámsterdam 3n + París 5n** (hospedaje **$611** ya pago; comida/transporte/actividades estimados). Totales Katia ~$12,115-16,100. Confirmados Spitwise $9,233.42.

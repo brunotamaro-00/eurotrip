@@ -78,12 +78,6 @@
 
 ---
 
-## 🚶 Free Walking Tour
-
-> Bled es chico: no hay un free walking tour tipo SANDEMANs con salidas fijas diarias como en las capitales. Hay **guías locales privados** y tours pagos por agencias de Bled. Para Bled, el "tour" natural es la **vuelta al lago autoguiada** + subir al castillo. Verificar en la oficina de turismo de Bled si hay salidas de temporada `https://www.bled.si/`.
-
----
-
 ## 🧠 Consenso viajeros/foros
 
 - **Bled: los miradores > todo lo demás** — el consenso es que la vista desde **Ojstrica/Mala Osojnica** es lo que hace inolvidable a Bled, más que el castillo o la isla `https://www.earthtrekkers.com/`
