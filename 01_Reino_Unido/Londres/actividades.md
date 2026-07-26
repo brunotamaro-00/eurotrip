@@ -137,39 +137,6 @@
 
 ---
 
-## 🌙 Nightlife
-
-> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/indie/hits), no somos de techno (pero vamos si es ícono). Curaduría de lo mejor, no lista exhaustiva. **Estado:** fijo (5-13 ago; finde **sáb 8 / dom 9**).
-
-### 🕺 Para bailar
-- **Bola 8** [🇦🇷/latino] — club latino, salsa/bachata/reggaeton; Elephant & Castle; fuerte jue-dom ("Bellaqueo Fridays", "Old School Sundays"); pista llena de gente latina, el más auténtico del circuito [viajero] `https://bola8.co.uk/the-best-places-for-a-latin-party-london-2025/`
-- **The Lightbox** [🇦🇷/latino] — la fiesta de reggaeton semanal más grande de UK; Vauxhall; vie-sáb; ambiente joven `https://www.dazeddigital.com/music/article/68108/1/dazed-guide-best-london-club-nights-in-2025-opia-fold-techno-latinx-reggaeton`
-- **Scala** [🇦🇷/latino] — "Reggaeton Latino", la fiesta latina más grande; King's Cross; **fechas sueltas sáb** (verificar agenda agosto 2026); sala 2 con salsa/merengue/bachata; **entrada ~£15-25** `https://scala.co.uk/events/reggaeton-latino/`
-- **Camden** — música en vivo de todos los géneros, venues alternativos (The Roundhouse); ideal para banda en vivo antes que club `https://www.roundhouse.org.uk/`
-
-### 🍸 Bares para arrancar / tomar algo
-- **Soho** — el barrio de bares por excelencia; vida nocturna LGBTQ+, locales hasta tarde; arrancar acá y moverse `https://www.timeout.com/london/nightlife`
-- **Dalston** — la zona joven y alternativa del este (Dalston Superstore, bares de Kingsland Rd); donde salen los locales jóvenes, no turistas [local] `https://www.timeout.com/london/clubs/the-best-clubs-in-london`
-- **Shoreditch / Brick Lane** — bares underground y rooftops; muy concurrido fin de semana, mejor entre semana para evitar la marea
-
-### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
-- **The Mayor of Scaredy Cat Town** [🦄 raro/icónico] — speakeasy escondido detrás de una **heladera Smeg** en The Breakfast Club (Spitalfields); cabaña de tramperos, coctelería seria; reservar `https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london`
-- **House Party (de Stormzy)** [🦄 raro/icónico] — casa de 7 pisos en Soho temática "fiesta en casa": cuarto de adolescente, karaoke, beer pong en la terraza, sótano con DJ; muy de su palo `https://www.timeout.com/london/bars-and-pubs/the-best-quirky-bars-and-pubs-in-london`
-- **Little Nan's Bar (Deptford)** [🦄 raro] — sofás leopardo, hits de los '90, cheesy chips con bengala, kitsch total; barato y divertido `https://www.timeout.com/london/bars-and-pubs/the-best-quirky-bars-and-pubs-in-london`
-- **Fabric** [🦄 icónico] — el club de techno/drum&bass más famoso de UK (Farringdon); **no es nuestro palo musical**, pero es ícono mundial si querés vivir una madrugada de club londinense; vie-sáb hasta la mañana; **entrada £20-30** `https://www.fabriclondon.com/`
-
-### 🇦🇷 Noche latina
-- Cubierta arriba: **Bola 8** (todo el finde), **The Lightbox** (reggaeton semanal) y **Scala** "Reggaeton Latino" (sábados puntuales — chequear si cae en la estadía). Hay escena latina fuerte y constante en Londres.
-
-### 🧠 Tips de noche (foros)
-> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Time Out, Dazed y guías recientes. Re-chequear `r/london` a mano antes del viaje.
-- **Dónde salen los locales [local]:** Dalston/Hackney (este) y Brixton/Vauxhall (sur) — no el West End turístico `https://www.timeout.com/london/clubs/the-best-clubs-in-london`
-- **Trampa turística a evitar [viajero]:** bares de Leicester Square / Piccadilly (caros y de baja calidad); caminar a Soho `https://www.timeout.com/london/nightlife`
-- **Día fuerte:** jue-sáb; muchos clubes solo abren esas noches y arrancan tarde (00-01h)
-- **Volver de madrugada:** **Night Tube** (vie-sáb) y night buses son seguros y eficientes — no hace falta taxi `https://tfl.gov.uk/`
-
----
-
 ## 🍽️ Gastronomía
 
 >

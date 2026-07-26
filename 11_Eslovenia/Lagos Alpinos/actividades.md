@@ -13,12 +13,12 @@
 
 ## ⭐ Lago Bled (MUST)
 
-- [ ] **Vuelta al lago a pie** - circuito llano de ~6 km alrededor del lago, con la isla y el castillo siempre a la vista — 1.5–2.5 h según paradas — **GRATIS**
-- [ ] **Miradores Ojstrica + Mala Osojnica** - **LA foto icónica** (lago + isla + castillo desde arriba) — **→ ficha en [`../trekkings.md`](../trekkings.md) (#12)**
-- [ ] **Bled Island (isla)** - la única isla natural de Eslovenia, con la iglesia de la Asunción y su "campana de los deseos" — se llega en **pletna** o bote de remos
+- [?] **Vuelta al lago a pie** - circuito llano de ~6 km alrededor del lago, con la isla y el castillo siempre a la vista — 1.5–2.5 h según paradas — **GRATIS**
+- [x] **Miradores Ojstrica + Mala Osojnica** - **LA foto icónica** (lago + isla + castillo desde arriba) — **→ ficha en [`../trekkings.md`](../trekkings.md) (#12)**
+- [?] **Bled Island (isla)** - la única isla natural de Eslovenia, con la iglesia de la Asunción y su "campana de los deseos" — se llega en **pletna** o bote de remos
   - **Pletna** (barco tradicional a remo) - **€20 pp** (ida y vuelta + ~40 min en la isla, solo efectivo) `https://www.pazlar-bled.com/en/activities/pletna-boat/`
   - **Bote de remos alquilado** - a tu ritmo (según temporada/operador, verificar en el día)
-- [ ] **Bled Castle / Blejski grad** - castillo medieval sobre un acantilado a 130 m del lago; museo, imprenta y bodega — vale especialmente con **cielo despejado** por las vistas — **€19** (estudiante €11.50, 6–14 €7) `https://www.blejski-grad.si/en/plan-your-visit/price-list/`
+- [?] **Bled Castle / Blejski grad** - castillo medieval sobre un acantilado a 130 m del lago; museo, imprenta y bodega — vale especialmente con **cielo despejado** por las vistas — **€19** (estudiante €11.50, 6–14 €7) `https://www.blejski-grad.si/en/plan-your-visit/price-list/`
 - [ ] **Kremna rezina / Bled cream cake** - la milhojas de crema y natilla nacida en Bled — probala en el **Park Café** (el clásico) mirando el lago
 - [ ] **Baño / SUP en el lago** (verano) - en octubre es frío; queda como dato
 
@@ -33,9 +33,9 @@
 
 **Cuándo elegirlo:** si Bled te parece demasiado "día de tours" y querés más tranquilidad/naturaleza. Bohinj es más grande, más salvaje y menos turístico.
 
-- [ ] **Orillas del lago Bohinj** - paseo suave por la costa (Ribčev Laz, iglesia de San Juan Bautista con su puente de piedra) — 1–2 h + fotos + café — **GRATIS**
-- [ ] **Slap Savica (cascada Savica)** - la cascada que alimenta el lago, en forma de "A"; subida corta pero con **~550 escalones** — 45–75 min ida y vuelta — **entrada ~€4 (verificar)**
-- [ ] **Mostnica Gorge + Valle de Voje** - garganta turquesa + valle glaciar, **ideal en día gris** — **→ ficha en [`../trekkings.md`](../trekkings.md) (#7)**
+- [x] **Orillas del lago Bohinj** - paseo suave por la costa (Ribčev Laz, iglesia de San Juan Bautista con su puente de piedra) — 1–2 h + fotos + café — **GRATIS**
+- [?] **Slap Savica (cascada Savica)** - la cascada que alimenta el lago, en forma de "A"; subida corta pero con **~550 escalones** — 45–75 min ida y vuelta — **entrada ~€4 (verificar)**
+- [?] **Mostnica Gorge + Valle de Voje** - garganta turquesa + valle glaciar, **ideal en día gris** — **→ ficha en [`../trekkings.md`](../trekkings.md) (#7)**
 - [ ] **Vogar (mirador sobre el lago)** - la vista "de postal" de Bohinj desde arriba — **→ [`../trekkings.md`](../trekkings.md) (#10)** (buena alternativa ahora que Vogel está cerrado)
 - [ ] **Iglesia de San Juan Bautista (Sv. Janez Krstnik)** - la iglesia junto al puente de piedra, postal clásica de Bohinj — **GRATIS** (exterior)
 
@@ -48,7 +48,7 @@
 
 **Qué es:** garganta de 1.6 km con pasarelas de madera colgadas sobre el río **Radovna** turquesa, rápidos y la cascada **Šum** (~13 m). Muy fotogénica, poco esfuerzo.
 
-- [ ] **Vintgar Gorge** - **€15 adulto** (niño 3–15 €5), **entrada con franja horaria (slot) comprada online** — contá ~2–3 h total (garganta + regreso por sendero) `https://www.vintgar.si/en/my-visit/pricelist/`
+- [x] **Vintgar Gorge** - **€15 adulto** (niño 3–15 €5), **entrada con franja horaria (slot) comprada online** — contá ~2–3 h total (garganta + regreso por sendero) `https://www.vintgar.si/en/my-visit/pricelist/`
 
 ### Octubre (práctico)
 - **Horario fin de temporada:** típicamente **~9:00–15:30** (varía por mes/clima — confirmar oficial). Menos margen para improvisar. `https://www.vintgar.si/en/my-visit/opening-hours/`

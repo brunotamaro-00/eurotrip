@@ -117,40 +117,6 @@
 
 ---
 
-## 🌙 Nightlife
-
-> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado (latino/pop/hits/hip-hop), no somos de techno (pero Ámsterdam es **capital mundial** del género: vale vivir un club icónico aunque no sea nuestro palo). Curaduría de lo mejor. **Estado:** fijo (25-29 ago; **noche fuerte: vie 28**). ClinkMama está en el centro (RLD).
->
-> **Nota:** **De School cerró** (última fiesta 2024). Para techno serio el referente hoy es Shelter.
-
-### 🕺 Para bailar (lo nuestro: variado, no-techno)
-- **Melkweg** — antigua lechería convertida en venue multiusos en Leidseplein; salas con géneros muy distintos el mismo día (reggaeton, hip-hop, DnB, pop); la opción más versátil y accesible, no hardcore `https://www.timeout.com/amsterdam/things-to-do/best-clubs-in-amsterdam` `https://www.melkweg.nl/`
-- **Bitterzoet** — club chico y querido del centro; "Nightz" los jueves con hip-hop/RnB/Afro, vie-sáb con eventos variados; ambiente joven y con energía `https://amsterdamnightlifeticket.com/en/blogs/whats-on/best-hip-hop-clubs`
-- **Canvas** — en el piso 7 de una ex redacción de diario (Volkshotel, zona Oost); cócteles + vistas panorámicas + música para un público joven y multicultural; arranca como bar y se transforma en club `https://www.timeout.com/amsterdam/things-to-do/best-clubs-in-amsterdam`
-
-### 🍸 Bares para arrancar / tomar algo
-- **Rembrandtplein** — plaza con la mayor concentración de bares para arrancar la noche (ojo: parte es turística/neón — ver Tips); buen punto de salida
-- **Brown cafés y cervecerías** — para algo más tranquilo (Café 't Smalle, Wynand Fockink, Brouwerij 't IJ) ver `## 🍺 Bares y Brown Cafés` abajo — ideales para el "previo"
-
-### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
-- **Paradiso** [🦄 raro/icónico] — **iglesia del s. XIX convertida en venue** desde 1968; bailar bajo vitrales medievales; programa variadísimo (techno, house, rock, hip-hop, conciertos); la experiencia más memorable de la escena; **€15-25** — verificar agenda agosto `https://www.paradiso.nl/`
-- **Shelter** [🦄 icónico] — el club de **techno** más puro de la ciudad, bajo la A'DAM Tower (Noord); sound system Funktion-One de élite; **no es nuestro palo musical**, pero es ícono mundial si querés vivir una madrugada techno auténtica; ferry gratis desde Centraal; **€15-25**, llegar después de la 1am `https://shelter.amsterdam/`
-- **Thuishaven** [🦄 raro] — club al aire libre junto al agua (Oost), instalaciones y fogatas tipo festival permanente; techno/house en verano, el ambiente más único; **€10-20**
-
-### 🇦🇷 Noche latina
-- **OUT Latin Club** [🇦🇷/latino] — el club latino #1 de Ámsterdam; salsa/bachata/reggaeton/merengue/dembow; Lange Leidsedwarsstraat (cerca de Leidseplein); **mié-dom desde las 23h** hasta 4-5am; ambiente latino auténtico `https://amsterdamnightlifeticket.com/en/clubs/club-out`
-- **El Punto Latino** [🇦🇷/latino] — noches temáticas para salseros y reggaetoneros; buena vibra latina `https://www.elpuntolatinoams.nl/`
-- **Latin District @ Paradiso** [🇦🇷/latino] — fiesta latina puntual multi-sala en Paradiso (verificar si hay fecha en agosto 2026) `https://www.paradiso.nl/en/program/latin-district/2612947`
-
-### 🧠 Tips de noche (foros)
-> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Time Out, I Amsterdam y guías de nightlife. Re-chequear `r/Amsterdam` a mano antes del viaje.
-- **Variedad por noche [local]:** la mayoría de los clubes de Ámsterdam **no son de un solo género**: el mismo lugar puede ser reggaeton un día y DnB otro — mirar la agenda del día, no el club `https://www.victorstravels.com/local-cultures/amsterdam-underground-clubs/`
-- **Trampa turística a evitar [local]:** los bares de neón de **Leidseplein/Rembrandtplein** y el "beer bike" — caros y puro turista; salvo para arrancar `https://www.tripadvisor.com/ShowTopic-g188590-i60-k6196782-o10-Ten_things_to_AVOID_in_Amsterdam-Amsterdam_North_Holland_Province.html`
-- **Horario/día fuerte:** clubes abren legalmente hasta 5am (a veces más); vie-sáb es el pico; para DJs internacionales sacar entrada online con días `https://ra.co/clubs/amsterdam`
-- **Volver de madrugada:** a las 3-4am hay pocos tranvías; night buses GVB o caminar (ClinkMama está céntrico). Shelter requiere ferry (gratis y frecuente) `https://en.gvb.nl/`
-
----
-
 ## 🍺 Bares y Brown Cafés
 
 - [?] **Café 't Smalle** — El brown café más fotogénico de Jordaan; sobre el canal, desde 1786; madera oscura y velas; clientela local; **el pub más lindo de la ciudad según consenso viajeros** — llegar temprano, se llena `https://www.t-smalle.nl/`

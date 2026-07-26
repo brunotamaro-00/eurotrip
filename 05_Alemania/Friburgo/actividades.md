@@ -56,34 +56,7 @@
 
 ---
 
-## 🌙 Nightlife
-
-> Fechas tentativas — re-verificar al confirmar (lugares de noche cierran/cambian seguido).
->
-> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado, no somos de techno (pero vamos si es lo único). Curaduría de lo mejor. Friburgo es **ciudad universitaria** (25.000 estudiantes): noche **joven, barata y relajada**, concentrada en la Altstadt y la zona de la universidad. Cerveza **€3.50-5**, cóctel **€8-12**.
-
-### 🕺 Para bailar
-- **Maria Bar** — bar + hamburguesería + club; comés temprano y después, cuando bajan las luces, los DJs más conocidos de Friburgo ponen vie-sáb y se baila hasta el final; lo más completo para una noche `https://neontrails.com/germany/freiburg-nightlife`
-- **CRASH** — mezcla ecléctica: desde hits nostálgicos de los 2000 hasta de todo; ambiente íntimo y animado, ideal para bailar sin que sea solo techno `https://neontrails.com/germany/freiburg-nightlife`
-- **El.Pi** — club de rock/indie; pista chica, ambiente amistoso de estudiantes; para los que prefieren guitarras a electrónica `https://neontrails.com/germany/freiburg-nightlife`
-
-### 🍸 Bares para arrancar / tomar algo
-- **Augustinerplatz** — la plaza donde los estudiantes se sientan en las escalinatas a tomar cerveza al aire libre; el "previo" gratis y más local de Friburgo [local] `https://neontrails.com/germany/best-freiburg-bars`
-- **E-Werk / MensaBar** — bares estudiantiles con tragos baratos y noches temáticas; para arrancar barato
-
-### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
-- **Maria Bar** [🦄 raro] — el combo hamburguesa + club en el mismo local es la rareza simpática de la noche friburguesa
-
-### 🇦🇷 Noche latina
-- **Gran Fiesta Latina @ Mamita** [🇦🇷/latino] — **los sábados desde las 22h**, toda la noche música latina: reggaeton, salsa, merengue, bachata, electro latino y charts; Nussmannstr. 7-9 `https://visit.freiburg.de/en/gran-fiesta-latina`
-- **El Toro** [🇦🇷/latino] — **los viernes** kizomba, bachata, salsa, reggaeton y latino con DJ Roberto Lopes `https://www.about-freiburg.de/`
-
-### 🧠 Tips de noche (foros)
-> Reddit no es verificable automáticamente desde esta herramienta; respaldo con NeonTrails, visit.freiburg.de y about-freiburg. Re-chequear `r/germany` / agendas locales a mano antes del viaje.
-- **Dónde salen los jóvenes [local]:** Altstadt y zona universitaria; Augustinerplatz al aire libre para arrancar `https://neontrails.com/germany/freiburg-nightlife`
-- **Barato:** ciudad de estudiantes → de lo más económico para salir en Alemania
-- **Día fuerte:** vie-sáb (también las noches latinas caen ahí: El Toro vie, Mamita sáb); con estadía mié-sáb apuntar a esas dos noches
-- **Volver:** todo caminable en la Altstadt; tranvía nocturno limitado, pero el centro es chico y seguro
+## 🌲 Selva Negra — Day Trips (elegir 1 fuerte + 1 suave)
 
 ### Día "fuerte" (naturaleza/trekking)
 

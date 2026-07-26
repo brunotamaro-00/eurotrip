@@ -76,32 +76,7 @@
 
 ---
 
-## 🌙 Nightlife
-
-> Vibra: **este tramo es 1 persona** (~26, argentina/o). Buscamos bailable y variado, no somos de techno (pero vamos si es ícono). Curaduría de lo mejor. **Estado:** fijo (9-12 sept; finde **vie 11 / sáb 12**). La movida se concentra en **Galerias de Paris** y **Cândido dos Reis**: dos calles llenas de bares pegados con vibra de "fiesta de barrio" — se toma en la calle y se salta de bar en bar. Arranca tarde (~23:30).
-
-### 🕺 Para bailar
-- **Tendinha dos Clérigos** — bar/club clásico de Rua Galeria de Paris; rock bailable y energía local; favorito de los porteños [local] `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
-- **Café au Lait** — uno de los mejores de Galeria de Paris para bailar; DJs de EDM, hip-hop y funk; ambiente acogedor y animado `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
-- **Moreclub** — club con cócteles y música diversa (house, pop, R&B, techno); ambiente chic; **entrada €5-15** (suele incluir trago) `https://neontrails.com/portugal/best-porto-dance-clubs`
-
-### 🍸 Bares para arrancar / tomar algo
-- **Galerias de Paris + Cândido dos Reis** — el epicentro: decenas de bares en dos calles, se toma en la vereda con vaso en mano, vibra de block party; el arranque obligado [local] `https://porto.travel/galerias-de-paris/`
-- **Jardim das Virtudes (antes del bar)** — al atardecer los universitarios bajan con mantas, vino verde y guitarras; el "previo" más porteño y gratis (ver Parques) [local]
-
-### 🦄 Raro / icónico (vivirlo aunque no sea nuestro palo)
-- **Plano B** [🦄 raro/icónico] — venue de culto en Galerias de Paris: club + espacio de arte/exposiciones + fiestas temáticas; música electrónica e indie en salas distintas; lo más alternativo y memorable de Porto `https://tripjive.com/uncover-porto-nightlife-top-spots-beyond-galeria-de-paris/`
-
-### 🇦🇷 Noche latina
-- **Dance Floor** [🇦🇷/latino] — especializado en ritmos latinos y africanos (bachata, salsa, kizomba); frente al Douro, con patio sobre el río y talleres gratis de baile `https://portoalities.com/en/top-places-dance-porto/`
-- **Muxima Bar (Gaia)** [🇦🇷/latino] — pista de madera; **noches afrolatinas vie-sáb** (salsa, bachata, kizomba, semba); martes africano `https://www.soundvibemag.com/city-vibes/best-latin-clubs-in-porto/`
-
-### 🧠 Tips de noche (foros)
-> Reddit no es verificable automáticamente desde esta herramienta; respaldo con Inside Porto, Porto.travel, NeonTrails y Portoalities. Re-chequear `r/TravelPortugal` a mano antes del viaje.
-- **Dónde salen los jóvenes locales [local]:** **Galerias de Paris / Cândido dos Reis** (centro) y bares de Cedofeita; todo caminable `https://porto.travel/galerias-de-paris/`
-- **Cómo es la noche:** arranca tarde (~23:30), se toma en la calle y se salta de bar en bar; entradas a clubes **€5-15** y suelen incluir 1-2 tragos
-- **Barato:** de lo más económico de Europa para salir, igual que Lisboa
-- **Solo/seguridad (este tramo):** Porto es muy segura para salir solo/a; de madrugada hay **Uber barato** para volver; metro cierra ~1am `https://andante.pt/`
+## 🚶 Free Walking Tour — Hacer el Primer Día
 
 ### En inglés
 

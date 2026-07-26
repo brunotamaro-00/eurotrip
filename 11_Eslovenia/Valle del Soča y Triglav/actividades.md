@@ -15,20 +15,20 @@
 
 ## 💧 Cascadas y gargantas-atracción (cortas, con ticket o parking)
 
-- [ ] **Tolminska korita / Tolmin Gorges** - la garganta más al sur del Triglav NP (puentes, Cueva del Diablo, "Cabeza del Oso", termal) — cinematográfica incluso con mal clima — **€8** temporada baja (hasta €12 verano) `https://www.tolmin-gorges.info/en/attraction/tolmin-gorges/price-list/`
+- [?] **Tolminska korita / Tolmin Gorges** - la garganta más al sur del Triglav NP (puentes, Cueva del Diablo, "Cabeza del Oso", termal) — cinematográfica incluso con mal clima — **€8** temporada baja (hasta €12 verano) `https://www.tolmin-gorges.info/en/attraction/tolmin-gorges/price-list/`
   - **Horario oct 2026:** 12–25 oct **9:00–17:00** · 26–31 oct **9:00–15:00** (circular ~1.5–2 h)
 - [ ] **Slap Kozjak** - una de las cascadas más bonitas del país, cae en una cámara de roca semicerrada — acceso desde Kobarid, **entrada/parking estacional (verificar)** — ida y vuelta 45–75 min `https://www.soca-valley.com/en/attraction/kozjak-waterfall/`
   - **Horario oct 2026:** 2–31 oct **9:00–18:00** · se combina con el Puente de Napoleón y el sendero histórico
-- [ ] **Slap Virje** (Bovec) - cascada de postal que cae sobre una poza turquesa, **muy corta** (5–10 min desde el parking) — parking oficial por Plužna (camino angosto) — **GRATIS** `https://www.soca-valley.com/en/attraction/virje-waterfall/`
-- [ ] **Slap Boka** (Bovec–Žaga) - la cascada más caudalosa de Eslovenia (~106 m) — **mirador rápido** desde la ruta (10–20 min) o **sendero a miradores** (1.5–2.5 h, empinado) — **GRATIS**
-- [ ] **Velika korita Soče (Gran Garganta)** - el turquesa a full con esfuerzo mínimo — **→ ficha completa en [`../trekkings.md`](../trekkings.md) (#4)**
-- [ ] **Šunikov vodni gaj / Šunik Water Grove** (Trenta) - "bosque de agua" con cascaditas y musgo, mini-loop 20–45 min — perfecto si el día está gris — **GRATIS**
+- [?] **Slap Virje** (Bovec) - cascada de postal que cae sobre una poza turquesa, **muy corta** (5–10 min desde el parking) — parking oficial por Plužna (camino angosto) — **GRATIS** `https://www.soca-valley.com/en/attraction/virje-waterfall/`
+- [?] **Slap Boka** (Bovec–Žaga) - la cascada más caudalosa de Eslovenia (~106 m) — **mirador rápido** desde la ruta (10–20 min) o **sendero a miradores** (1.5–2.5 h, empinado) — **GRATIS**
+- [?] **Velika korita Soče (Gran Garganta)** - el turquesa a full con esfuerzo mínimo — **→ ficha completa en [`../trekkings.md`](../trekkings.md) (#4)**
+- [?] **Šunikov vodni gaj / Šunik Water Grove** (Trenta) - "bosque de agua" con cascaditas y musgo, mini-loop 20–45 min — perfecto si el día está gris — **GRATIS**
 
 ---
 
 ## 🎖️ Historia — Frente del Isonzo (WWI) — el alma del valle
 
-- [ ] **Kobariški muzej / Museo de Kobarid** - **el imperdible cultural del valle**; cuenta las 12 batallas del Isonzo y la ruptura de Caporetto (1917) con maquetas y relatos personales — de los mejores museos de guerra de Europa según viajeros — **~€7** (verificar) `https://www.kobariski-muzej.si/en/visit/entry-fee-and-opening-hours/`
+- [?] **Kobariški muzej / Museo de Kobarid** - **el imperdible cultural del valle**; cuenta las 12 batallas del Isonzo y la ruptura de Caporetto (1917) con maquetas y relatos personales — de los mejores museos de guerra de Europa según viajeros — **~€7** (verificar) `https://www.kobariski-muzej.si/en/visit/entry-fee-and-opening-hours/`
 - [ ] **Kobarid Historical Trail** - circuito que enlaza el Ossuary italiano, trincheras, el Soča y (opcional) Kozjak — **→ ficha en `trekkings.md` / desvíos** (3–5 h la versión larga)
 - [ ] **Italian Charnel House / Ossuary de Kobarid** - osario monumental sobre la colina de Gradič con vistas al valle — **GRATIS**
 - [ ] **Javorca — Memorial Church of the Holy Spirit** (desde Zatolmin) - iglesia-memorial de madera de 1916 en pleno bosque, con los nombres de los caídos grabados — se llega por camino de ripio angosto (~7 km) + caminata mínima — muy especial `https://www.visit-javorca.si/en/`
@@ -62,17 +62,11 @@
 ---
 
 ## 🗺️ Pueblos y paradas de auto (para hilar el loop)
-- [ ] **Kobarid** - pueblo base, plaza + museo + gastronomía.
-- [ ] **Bovec** - base outdoor, rodeado de las cimas más altas (Kanin, Rombon).
+- [?] **Kobarid** - pueblo base, plaza + museo + gastronomía.
+- [?] **Bovec** - base outdoor, rodeado de las cimas más altas (Kanin, Rombon).
 - [ ] **Trenta** - valle alto del Soča, puerta al nacimiento del río y a Vršič (info-center del TNP).
 - [ ] **Most na Soči** - pueblo sobre un lago-embalse esmeralda del Soča (bonito para foto/parada).
 - [ ] **Tolmin** - base sur, práctica para salir hacia Karst/Costa.
-
----
-
-## 🚶 Free Walking Tour
-
-> No hay operadores de free walking tour tipo SANDEMANs/GuruWalk en el valle del Soča (es zona rural/outdoor, no ciudad). Los "tours" acá son **guías de montaña/outdoor** (rafting, treks guiados, WWI). Para historia WWI, el **museo de Kobarid** + el **Historical Trail** autoguiado cumplen ese rol.
 
 ---
 

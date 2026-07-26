@@ -185,36 +185,6 @@ El Explorer Pass es especialmente rentable si se combina con Edimburgo (Edinburg
 
 ---
 
-## 🌙 Nightlife
-
-> Vibra: 2 personas ~26, argentinos. Buscamos bailable y variado, no somos de techno. **Highlands es zona rural: no hay clubes de baile reales** — la vida nocturna se reduce a pubs con música en vivo (folk/ceilidh) y whisky bars; la sección refleja eso tal cual es, sin forzar nada. **Estado:** fechas fijas (18-24 ago). Moneda: £ (1 GBP ≈ 1.17-1.18 EUR).
-
-### 🕺 Para bailar / Ceilidh
-- **Ben Nevis Inn** [🦄 raro] — pub de piedra al pie del sendero del Ben Nevis; real ale + **música folk en vivo todos los martes** (algún ceilidh informal con baile puede armarse si hay banda completa); Glen Nevis, Fort William; **martes 18 ago = tu primera noche acá**; **sin cover**; cocina cierra 21h pero el bar sigue; el lugar es chico y genuino, no un show para turistas `https://www.ben-nevis-inn.co.uk/live-music/`
-- **Hootananny** [🦄 raro] — el venue de folk/ceilidh más premiado de las Highlands (Scotland's Best Live Music Venue); música en vivo **todas las noches desde ~21:30**, bandas de folk más movidas los fines de semana; 67 Church Street, Inverness; **sábado 22 ago encaja perfecto con tu llegada**; **sin cover habitualmente** (verificar bandas especiales); el lugar donde más chance real hay de terminar bailando algo parecido a un ceilidh en todo el tramo `https://hootanannyinverness.co.uk/live-music/`
-- **The Highlander Bar** [🦄 raro] — ofrece "Dinner & Ceilidh" con música en vivo prácticamente todas las noches del año, más armado para el turista que Hootananny pero con banda y baile garantizados; Inverness centro; buena opción si en Hootananny esa noche no hay banda `https://www.highlanderinverness.com/`
-- **West Highland Bar (The Portree Hotel)** — donde suelen terminar las noches en Portree; música en vivo "muchos fines de semana" de verano; Somerled Square; **viernes 21 ago** puede tener banda — no está confirmado con calendario fijo, preguntar en el alojamiento al llegar `https://theportreehotel.com/food-and-drink/`
-
-### 🍸 Pubs para tomar algo
-- **McNab's Bar (Royal Hotel)** — el pub con la música más regular de Portree según guías locales; ambiente de local, no de show; Portree centro
-- **The Tongadale** — ya recomendado para comer en `gastronomia.md`; de noche funciona también como pub con alguna sesión de música en temporada; Wentworth Street, Portree
-- **Ben Nevis Bar & Restaurant (Fort William, centro)** — terraza con vista a Loch Linnhe, whisky bar propio con buena selección; **música en vivo los sábados** (no coincide con tus fechas 18-19 ago, pero vale la parada por el whisky bar solo) `https://www.bennevisbarfortwilliam.com/`
-
-### 🦄 Raro / icónico
-- **Dores Inn (Loch Ness)** — no es "nightlife" en el sentido de salida, pero un pint al atardecer en la terraza con el Loch Ness de fondo (mencionado en Actividades, Base 3) es la versión Highlands de "una copa con vista" — difícil de superar en rareza paisajística
-- **Sligachan Hotel bar** — el pub más antiguo de Skye, al lado del puente icónico con las Cuillin de fondo; ambiente de escaladores y trekkers, historias de montaña en la barra; parada de una noche si estás cerca, no destino en sí mismo
-
-### 🇦🇷 Noche latina
-No existe — ni en Fort William, ni en Portree, ni en Inverness hay oferta latina real (ni bar, ni noche temática, ni DJ). Es zona 100% rural/escocesa; el folk y el ceilidh son lo más parecido a "bailable" que vas a encontrar en todo el tramo.
-
-### 🧠 Tips de noche (foros)
-- **Cocinas cierran temprano, los bares no:** en Fort William y Portree la cocina para a las 20:30-21h pero el pub sigue con música y gente hasta más tarde; ir a cenar primero y quedarse después es el patrón local
-- **Preguntar siempre en el alojamiento:** "Any ceilidhs or traditional music sessions on this week?" — la cartelera de folk cambia semana a semana y no siempre está online; el consejo más repetido en foros de Highlands
-- **Skye Camanachd Social Club (Portree)** — club social ligado al shinty (deporte local, ver Camanachd en Actividades); técnicamente es de socios (£10 membresía) y abre hasta las 3am, pero el acceso real para turistas de paso no está claro — mencionarlo como curiosidad, no como plan confirmado
-- **Inverness es la única de las tres bases con oferta "todas las noches":** si buscás asegurarte música en vivo sí o sí, Hootananny es la apuesta más segura de todo el tramo por su calendario diario
-
----
-
 ## 🥃 Whisky y Destilerías en Ruta
 
 - [ ] **Talisker Distillery (Skye)** - La más pintoresca del viaje; the only Skye whisky; sabor marino y ahumado; tours con cata (**~£15-20**, reservar) `https://www.malts.com/en-gb/distilleries/talisker/`
