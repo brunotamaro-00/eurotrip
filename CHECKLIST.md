@@ -9,19 +9,14 @@
 > **Cómo usarlo:** la fecha en negrita es **cuándo conviene reservar o entrar a chequear** (no la fecha de la visita). Trabajá de arriba (más urgente) hacia abajo, sacando las cosas "de atrás para adelante". Las ventanas (“abre X antes”) están explicadas en el detalle de cada reserva más abajo. **Hoy: 30-jun-2026.**
 
 ### 🔴 Ya / esta semana (la ventana ya está abierta)
-- [ ] **Eurostar Ámsterdam→París (visita 29-ago):** cupo passholder ya abierto (sale ~3-4 meses antes, cupo limitado, **€22-25**). Reservar **YA**.
-- [ ] **Edinburgh Castle (visita 15-18 ago):** agosto se agota y ya está a la venta. Comprar **YA**.
-- [ ] **UK ETA (ambos) + ETIAS (Persona 2):** tramitar ya (procesan en días); necesarios antes del **5-ago**.
 - [ ] **Wise/Revolut:** abrir cuenta ya (la tarjeta tarda 1-2 semanas).
 - [ ] ⚠️ **Auschwitz (Cracovia, tentativo ~3-oct):** las entradas **individuales** salen **90 días antes** (~**5-jul**) y vuelan. Si vas a fijar Cracovia, definila pronto; si no, reservá **tour guiado** (tiene más holgura).
 
 ### 🟠 Julio 2026 (fechas exactas)
 - [ ] **sáb 11-jul** — **Tren CP Lisboa→Porto (viaje ~9-sep):** abre la venta (~60 días antes); comprar para tarifa Promo (~€18 vs €35.70 walk-up).
-- [ ] **mar 14-jul · 10:00 CET** — **Anne Frank House (visita ~25-ago):** es el martes que libera el batch de ~6 semanas después. **Backup: mar 21-jul** para fechas 27-29 ago.
 
 ### 🟡 Agosto 2026 (objetivo ~2-3 semanas antes de cada ciudad)
-- [ ] **~4-ago** — **Ámsterdam (visita 25-29 ago):** Van Gogh + Rijksmuseum (slots horarios).
-- [ ] **~8-ago** — **París (visita 29 ago-4 sep):** Louvre + Sainte-Chapelle + Versalles + **Catacumbas** (apenas abran las fechas).
+- [ ] **~8-ago** — **París (visita 29 ago-4 sep):** Sainte-Chapelle + Versalles + **Catacumbas** (apenas abran las fechas).
 - [ ] **~17-ago** — **Portugal (visita ~5-7 sep):** Sintra (Pena + Regaleira con hora) + Porto (Lello + Clérigos).
 
 ### 🟢 Post-Portugal (tentativo — NO fijar hasta confirmar el tramo)

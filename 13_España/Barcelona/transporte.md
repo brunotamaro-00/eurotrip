@@ -1,7 +1,7 @@
 # 🚆 Transporte en Barcelona
 
 **Fechas:** dom 8 – vie 13 nov 2026 (5 noches) · **Estado:** tentativo (post-Portugal)
-**Llegada:** **vuelo** desde Sur de Italia (Catania/Palermo/Bari) a **Barcelona El Prat (BCN)** → del aeropuerto al centro (ver Llegada)
+**Llegada:** **vuelo** desde Sur de Italia (Catania/Palermo/Bari, o Nápoles si el tramo cierra en la Costa Amalfitana) a **Barcelona El Prat (BCN)** → del aeropuerto al centro (ver Llegada)
 **Salida:** **tren** Barcelona → Madrid (13 nov) · ver sección Salida
 
 > 📍 Tramo tentativo — re-verificar al confirmar fechas. El vuelo de llegada depende de la opción del Sur de Italia.
