@@ -1,7 +1,8 @@
 # 🇮🇹 Sur de Italia — Índice
 
-**Fechas tentativas:** ~29 oct – 8 nov 2026 (**10 noches** en el borrador post-Portugal) · **Estado:** tentativo
+**Fechas tentativas:** desde ~29 oct 2026 · **10-15 noches** desde la salida de Nápoles (el borrador asigna **10** + hasta **3 flex** del viaje) · **Estado:** tentativo
 **Decisión pendiente:** qué región (o combinación de regiones) se hace. Noches y fechas se confirman **sobre la marcha**.
+👉 **Para decidir:** [`SUR_DE_ITALIA_OPCIONES.md`](SUR_DE_ITALIA_OPCIONES.md) compara los cinco escenarios; [`Itinerarios/`](Itinerarios/) tiene el reparto de noches y los traslados de cada uno.
 
 > ⚠️ Todo este bloque cae **después del 12 de septiembre**, así que **las fechas son tentativas**. La investigación por ciudad es referencia: no asumir alojamiento ni días como definitivos hasta confirmarlos.
 
@@ -16,7 +17,8 @@ A **nivel región** quedan los archivos transversales: `contexto_historico.md`, 
 ```
 Sur de Italia/
 ├── README.md                     ← este archivo
-├── SUR_DE_ITALIA_OPCIONES.md     ← comparativo regional + "reality check" de noviembre
+├── SUR_DE_ITALIA_OPCIONES.md     ← tablero de decisión entre escenarios
+├── Itinerarios/                  ← 5 escenarios: noches por base y traslados
 ├── Sicilia/       6 ciudades
 ├── Puglia/        4 ciudades (incluye Matera, que es Basilicata)
 ├── Calabria/      3 ciudades
@@ -90,6 +92,19 @@ Sur de Italia/
 
 ## 📄 Archivos relacionados
 
-- [`SUR_DE_ITALIA_OPCIONES.md`](SUR_DE_ITALIA_OPCIONES.md) — comparativo entre regiones y "reality check" de noviembre
+- [`SUR_DE_ITALIA_OPCIONES.md`](SUR_DE_ITALIA_OPCIONES.md) — **tablero de decisión**: los cinco escenarios comparados, el comparativo regional y los vuelos de salida
+
+### 🗓️ [`Itinerarios/`](Itinerarios/) — un archivo por escenario
+
+Cada uno con el **reparto de noches por base**, el **encadenado de traslados**, la **estrategia de auto** y qué agregar o sacar según cuántas noches terminen siendo.
+
+| | Escenario | Noches | Resumen |
+|---|-----------|--------|---------|
+| **[A](Itinerarios/A_Full_Puglia.md)** | Full Puglia + Matera | 10-13 | Una región a fondo. El más barato y el que menos exige manejar |
+| **[B](Itinerarios/B_Full_Sicilia.md)** | Vuelta completa a Sicilia | 12-15 | La isla entera, de Palermo a Catania. Auto continuo |
+| **[C](Itinerarios/C_Puglia_y_Sicilia_Este.md)** | Puglia + Sicilia este | 12-15 | Dos regiones unidas por un vuelo de 1h. Dos ventanas cortas de auto |
+| **[D](Itinerarios/D_Puglia_Calabria_Sicilia.md)** | Puglia → Calabria → Sicilia | 14-15 | Road trip por tierra + ferry del Estrecho. Calabria como puente |
+| **[E](Itinerarios/E_Sicilia_Este_Lento.md)** | Sicilia este, ritmo lento | 10-12 | Tres bases y nada más. Funciona entero sin auto |
+
 - [`../Napoles/`](../Napoles/) — Nápoles ciudad, la puerta de entrada a todo el sur
 - [`../../ITINERARIO_GENERAL.md`](../../ITINERARIO_GENERAL.md) · [`../../CHECKLIST.md`](../../CHECKLIST.md) · [`../../PRESUPUESTO.md`](../../PRESUPUESTO.md)
