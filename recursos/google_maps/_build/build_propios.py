@@ -23,6 +23,7 @@ import argparse
 import collections
 import csv
 import json
+from dataclasses import replace
 from pathlib import Path
 
 import geo
@@ -112,6 +113,19 @@ NO_ES_LUGAR = _re.compile(
 _SEPARADORES = _re.compile(r"\s+\+\s+|\s+/\s+|\s+y\s+(?=[A-ZÁÉÍÓÚÑ])")
 
 
+_PREFIJO_ES = _re.compile(
+    r"(?i)^(barrio|jardines?|museo de|casa de|cripta de|iglesias? de|"
+    r"catedral de|palacio de|plaza de|puerto de|parque de|mercado de|"
+    r"teatro de|torre de|castillo de|puente de|calle de|zona de)\s+"
+)
+
+
+def sin_prefijo_es(nombre: str) -> str:
+    """`Barrio Krakovo` -> `Krakovo`. Los prefijos genéricos en español no
+    existen en OSM y hacen fallar la búsqueda."""
+    return _PREFIJO_ES.sub("", nombre).strip()
+
+
 def variantes_consulta(nombre: str) -> list[str]:
     """Nombre completo y, si es compuesto, cada componente por separado.
 
@@ -124,6 +138,10 @@ def variantes_consulta(nombre: str) -> list[str]:
     for p in partes:
         if p != nombre and len(p) > 3 and p not in out:
             out.append(p)
+    for v in list(out):
+        sp = sin_prefijo_es(v)
+        if sp and sp != v and sp not in out:
+            out.append(sp)
     return out
 
 
@@ -174,6 +192,31 @@ def geocode(skip_overpass: bool = True, solo_cache: bool = False) -> list[dict]:
                     break
                 if r.ok:
                     break
+            # Último recurso: day trips reales (Alberobello está a 30 km de
+            # Ostuni, Miramare a 21 de Piran). Ensanchar el radio es peligroso
+            # —es el mismo error que tenía Highlands con max_km=220— así que se
+            # exige coincidencia de nombre casi exacta y se rechazan alojamientos
+            # y calles, que es lo que devolvía: `Muraglia` -> `La Muraglia B&B`,
+            # `Cripta della Cattedrale` -> una gruta a 65 km.
+            if (r is None or not r.ok) and not solo_cache:
+                ancho = replace(a, key=f"{a.key}__daytrip", max_km=45.0)
+                for variante in variantes_consulta(p["nombre_local"]):
+                    try:
+                        rr = geo.resolve(variante, ancho, p.get("tipo", ""),
+                                         query_extra=a.country_en, cache=cache)
+                    except geo.RateLimited:
+                        break
+                    clase = (rr.osm_class or "").split("=")[0]
+                    if (rr.ok
+                            and name_sim(variante, rr.name or "") >= 0.92
+                            and clase not in {"highway", "tourism_hotel", "building"}
+                            and (rr.osm_class or "") not in {
+                                "tourism=hotel", "tourism=guest_house",
+                                "tourism=apartment", "tourism=hostel"}):
+                        r = rr
+                        p["es_daytrip"] = True
+                        break
+
             if r is not None and r.ok:
                 p["lat"], p["lng"] = r.lat, r.lng
                 p["locality"] = r.locality or a.locality

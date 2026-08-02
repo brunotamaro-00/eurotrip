@@ -39920,5 +39920,3028 @@
     "rank": 0
    }
   ]
+ },
+ "liubliana::historia natural de eslovenia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana__daytrip::museo de historia natural de eslovenia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana__daytrip::historia natural de eslovenia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::krakovo": {
+  "ok": true,
+  "lat": 46.044896,
+  "lng": 14.503783,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.764,
+  "name": "Krakovo",
+  "locality": "Ljubljana",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Krakovo, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.0448957,
+    "lng": 14.5037833,
+    "name": "Krakovo",
+    "source": "nominatim",
+    "osm_id": "node/2698170941",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Ljubljana",
+    "display": "Krakovo, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Krakovo"
+    ],
+    "importance": 0.0800754169527733,
+    "rank": 0
+   },
+   {
+    "lat": 46.0448957,
+    "lng": 14.5037833,
+    "name": "Krakovo",
+    "source": "photon",
+    "osm_id": "N/2698170941",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Ljubljana",
+    "display": "Krakovo, Ljubljana, Slovenija",
+    "names_all": [
+     "Krakovo"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 46.0448957,
+    "lng": 14.5037833,
+    "name": "Krakovo",
+    "source": "nominatim",
+    "osm_id": "node/2698170941",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Ljubljana",
+    "display": "Krakovo, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Krakovo"
+    ],
+    "importance": 0.0800754169527733,
+    "rank": 1
+   },
+   {
+    "lat": 46.0448957,
+    "lng": 14.5037833,
+    "name": "Krakovo",
+    "source": "nominatim",
+    "osm_id": "node/2698170941",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Ljubljana",
+    "display": "Krakovo, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Krakovo"
+    ],
+    "importance": 0.0800754169527733,
+    "rank": 0
+   }
+  ]
+ },
+ "bled__daytrip::bohinj bled por la campina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::lipica stud farm": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::stanjel": {
+  "ok": true,
+  "lat": 45.817873,
+  "lng": 13.848247,
+  "source": "nominatim",
+  "confidence": "medium",
+  "score": 0.717,
+  "name": "Štanjel",
+  "locality": "Kobdilj",
+  "osm_class": "railway=station",
+  "wikidata": "Q12807539",
+  "display": "Štanjel, Kobdilj, Dolnji Kobdilj, Kobdilj, Komen, Upravna enota Sežana, 6222, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.8178732,
+    "lng": 13.8482466,
+    "name": "Štanjel",
+    "source": "nominatim",
+    "osm_id": "node/711463844",
+    "wikidata": "Q12807539",
+    "osm_class": "railway=station",
+    "locality": "Kobdilj",
+    "display": "Štanjel, Kobdilj, Dolnji Kobdilj, Kobdilj, Komen, Upravna enota Sežana, 6222, Slovenija",
+    "names_all": [
+     "Štanjel"
+    ],
+    "importance": 0.2432038182346074,
+    "rank": 0
+   },
+   {
+    "lat": 45.8235287,
+    "lng": 13.8448601,
+    "name": "Grad Štanjel",
+    "source": "photon",
+    "osm_id": "W/554535322",
+    "wikidata": "",
+    "osm_class": "building=yes",
+    "locality": "Štanjel",
+    "display": "Grad Štanjel, Štanjel, Slovenija",
+    "names_all": [
+     "Grad Štanjel"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 45.8178732,
+    "lng": 13.8482466,
+    "name": "Štanjel",
+    "source": "nominatim",
+    "osm_id": "node/711463844",
+    "wikidata": "Q12807539",
+    "osm_class": "railway=station",
+    "locality": "Kobdilj",
+    "display": "Štanjel, Kobdilj, Dolnji Kobdilj, Kobdilj, Komen, Upravna enota Sežana, 6222, Slovenija",
+    "names_all": [
+     "Štanjel"
+    ],
+    "importance": 0.2432038182346074,
+    "rank": 0
+   }
+  ]
+ },
+ "karst__daytrip::vinedos del karst teran": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::vinedos del karst": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::teran": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::lipica skocjan combinados": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst__daytrip::lipica": {
+  "ok": true,
+  "lat": 45.500659,
+  "lng": 14.042983,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.789,
+  "name": "Lipica",
+  "locality": "Hrpelje-Kozina",
+  "osm_class": "natural=peak",
+  "wikidata": "",
+  "display": "Lipica, Hrpelje-Kozina, Upravna enota Sežana, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 45.5006585,
+    "lng": 14.0429827,
+    "name": "Lipica",
+    "source": "nominatim",
+    "osm_id": "node/8574117151",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Hrpelje-Kozina",
+    "display": "Lipica, Hrpelje-Kozina, Upravna enota Sežana, Slovenija",
+    "names_all": [
+     "Lipica"
+    ],
+    "importance": 0.1600598786907759,
+    "rank": 0
+   },
+   {
+    "lat": 45.5006585,
+    "lng": 14.0429827,
+    "name": "Lipica",
+    "source": "photon",
+    "osm_id": "N/8574117151",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Hrpelje-Kozina",
+    "display": "Lipica, Hrpelje-Kozina, Slovenija",
+    "names_all": [
+     "Lipica"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 45.5006585,
+    "lng": 14.0429827,
+    "name": "Lipica",
+    "source": "nominatim",
+    "osm_id": "node/8574117151",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Hrpelje-Kozina",
+    "display": "Lipica, Hrpelje-Kozina, Upravna enota Sežana, Slovenija",
+    "names_all": [
+     "Lipica"
+    ],
+    "importance": 0.1600598786907759,
+    "rank": 0
+   },
+   {
+    "lat": 45.5006585,
+    "lng": 14.0429827,
+    "name": "Lipica",
+    "source": "nominatim",
+    "osm_id": "node/8574117151",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Hrpelje-Kozina",
+    "display": "Lipica, Hrpelje-Kozina, Upravna enota Sežana, Slovenija",
+    "names_all": [
+     "Lipica"
+    ],
+    "importance": 0.1600598786907759,
+    "rank": 0
+   }
+  ]
+ },
+ "soca__daytrip::javorca memorial church of the holy spirit": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca__daytrip::napoleons bridge": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca__daytrip::zipline kanin ucja": {
+  "ok": true,
+  "lat": 46.310624,
+  "lng": 13.46998,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.697,
+  "name": "Zipline Canyon Učja",
+  "locality": "Žaga",
+  "osm_class": "tourism=attraction",
+  "wikidata": "",
+  "display": "Zipline Canyon Učja, Žaga, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.310624,
+    "lng": 13.4699797,
+    "name": "Zipline Canyon Učja",
+    "source": "photon",
+    "osm_id": "N/12254876363",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Žaga",
+    "display": "Zipline Canyon Učja, Žaga, Slovenija",
+    "names_all": [
+     "Zipline Canyon Učja"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "piran__daytrip::secovlje salina nature park": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran__daytrip::strunjan nature park": {
+  "ok": true,
+  "lat": 45.533873,
+  "lng": 13.616785,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.676,
+  "name": "Krajinski park Strunjan",
+  "locality": "Izola / Isola",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "",
+  "display": "Krajinski park Strunjan, Izola / Isola, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.5338734,
+    "lng": 13.6167853,
+    "name": "Krajinski park Strunjan",
+    "source": "photon",
+    "osm_id": "W/536165595",
+    "wikidata": "",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Izola / Isola",
+    "display": "Krajinski park Strunjan, Izola / Isola, Slovenija",
+    "names_all": [
+     "Krajinski park Strunjan"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "piran__daytrip::piazza unita ditalia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran__daytrip::molo audace waterfront": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran__daytrip::molo audace": {
+  "ok": true,
+  "lat": 45.652016,
+  "lng": 13.766561,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.743,
+  "name": "Molo Audace",
+  "locality": "Trieste",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Molo Audace, Trieste, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.6520164,
+    "lng": 13.7665615,
+    "name": "Molo Audace",
+    "source": "photon",
+    "osm_id": "W/22668215",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Trieste",
+    "display": "Molo Audace, Trieste, Italia",
+    "names_all": [
+     "Molo Audace"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "piran__daytrip::cafe historico": {
+  "ok": true,
+  "lat": 45.502494,
+  "lng": 13.603039,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.587,
+  "name": "Bon cafe",
+  "locality": "Lucija / Lucia",
+  "osm_class": "amenity=cafe",
+  "wikidata": "",
+  "display": "Bon cafe, Lucija / Lucia, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.5024942,
+    "lng": 13.6030393,
+    "name": "Bon cafe",
+    "source": "photon",
+    "osm_id": "N/4965247928",
+    "wikidata": "",
+    "osm_class": "amenity=cafe",
+    "locality": "Lucija / Lucia",
+    "display": "Bon cafe, Lucija / Lucia, Slovenija",
+    "names_all": [
+     "Bon cafe"
+    ],
+    "importance": 0.0,
+    "rank": 4
+   }
+  ]
+ },
+ "piran::san giusto catedral": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::san giusto": {
+  "ok": true,
+  "lat": 45.547496,
+  "lng": 13.733723,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.691,
+  "name": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto",
+  "locality": "Koper / Capodistria",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto, Kreljeva ulica / Via Sebastijan Krelj, Olmo, Koper / Capodistria (naselje), Koper / Capodistria, Upravna enota Koper / Unità amministrativa Capodistria, 6000, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.5474959,
+    "lng": 13.7337226,
+    "name": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto",
+    "source": "photon",
+    "osm_id": "W/275409010",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Koper / Capodistria",
+    "display": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto, Koper / Capodistria, Slovenija",
+    "names_all": [
+     "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto"
+    ],
+    "importance": 0.0,
+    "rank": 3
+   },
+   {
+    "lat": 45.5474959,
+    "lng": 13.7337226,
+    "name": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto",
+    "source": "nominatim",
+    "osm_id": "way/275409010",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Koper / Capodistria",
+    "display": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto, Kreljeva ulica / Via Sebastijan Krelj, Olmo, Koper / Capodistria (naselje), Koper / Capodistria, Upravna enota Koper / Unità amministrativa Capodistria, 6000, Slovenija",
+    "names_all": [
+     "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto"
+    ],
+    "importance": 6.496452277404467e-05,
+    "rank": 0
+   },
+   {
+    "lat": 45.5474959,
+    "lng": 13.7337226,
+    "name": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto",
+    "source": "nominatim",
+    "osm_id": "way/275409010",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Koper / Capodistria",
+    "display": "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto, Kumarjeva ulica / Calle Srečko Kumar, Olmo, Koper / Capodistria (naselje), Koper / Capodistria, Upravna enota Koper / Unità amministrativa Capodistria, 6000, Slovenija",
+    "names_all": [
+     "Cerkvica in oratorij svetega Justa / Chiesa e oratorio di San Giusto"
+    ],
+    "importance": 6.496452277404467e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "piran__daytrip::miramare castle": {
+  "ok": true,
+  "lat": 45.702532,
+  "lng": 13.712456,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.65,
+  "name": "Castello di Miramare",
+  "locality": "Trieste",
+  "osm_class": "tourism=attraction",
+  "wikidata": "",
+  "display": "Castello di Miramare, Trieste, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.7025321,
+    "lng": 13.7124557,
+    "name": "Castello di Miramare",
+    "source": "photon",
+    "osm_id": "W/361092895",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Trieste",
+    "display": "Castello di Miramare, Trieste, Italia",
+    "names_all": [
+     "Castello di Miramare"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia__daytrip::orillas del arno": {
+  "ok": true,
+  "lat": 43.775079,
+  "lng": 11.258403,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.601,
+  "name": "Autorità di bacino del fiume Arno",
+  "locality": "Firenze",
+  "osm_class": "building=public",
+  "wikidata": "",
+  "display": "Autorità di bacino del fiume Arno, Firenze, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 43.7750794,
+    "lng": 11.2584027,
+    "name": "Autorità di bacino del fiume Arno",
+    "source": "photon",
+    "osm_id": "N/1501728520",
+    "wikidata": "",
+    "osm_class": "building=public",
+    "locality": "Firenze",
+    "display": "Autorità di bacino del fiume Arno, Firenze, Italia",
+    "names_all": [
+     "Autorità di bacino del fiume Arno"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "florencia::bardini": {
+  "ok": true,
+  "lat": 43.764212,
+  "lng": 11.257128,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.79,
+  "name": "Giardino Bardini",
+  "locality": "Firenze",
+  "osm_class": "leisure=park",
+  "wikidata": "Q3763846",
+  "display": "Giardino Bardini, Quartiere 1, Firenze, Toscana, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7642123,
+    "lng": 11.2571283,
+    "name": "Giardino Bardini",
+    "source": "nominatim",
+    "osm_id": "way/109881059",
+    "wikidata": "Q3763846",
+    "osm_class": "leisure=park",
+    "locality": "Firenze",
+    "display": "Giardino Bardini, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Giardino Bardini"
+    ],
+    "importance": 0.37462627372624707,
+    "rank": 0
+   },
+   {
+    "lat": 43.7642123,
+    "lng": 11.2571283,
+    "name": "Giardino Bardini",
+    "source": "photon",
+    "osm_id": "W/109881059",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Firenze",
+    "display": "Giardino Bardini, Firenze, Italia",
+    "names_all": [
+     "Giardino Bardini"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 43.7642123,
+    "lng": 11.2571283,
+    "name": "Giardino Bardini",
+    "source": "nominatim",
+    "osm_id": "way/109881059",
+    "wikidata": "Q3763846",
+    "osm_class": "leisure=park",
+    "locality": "Firenze",
+    "display": "Giardino Bardini, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Giardino Bardini"
+    ],
+    "importance": 0.37462627372624707,
+    "rank": 1
+   },
+   {
+    "lat": 43.7642123,
+    "lng": 11.2571283,
+    "name": "Giardino Bardini",
+    "source": "nominatim",
+    "osm_id": "way/109881059",
+    "wikidata": "Q3763846",
+    "osm_class": "leisure=park",
+    "locality": "Firenze",
+    "display": "Giardino Bardini, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Giardino Bardini"
+    ],
+    "importance": 0.37462627372624707,
+    "rank": 0
+   }
+  ]
+ },
+ "roma__daytrip::cupula de san pedro": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "roma__daytrip::catacumbas de la via appia": {
+  "ok": true,
+  "lat": 41.825077,
+  "lng": 12.561279,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.622,
+  "name": "Via Appia Nuova",
+  "locality": "Roma",
+  "osm_class": "highway=primary",
+  "wikidata": "",
+  "display": "Via Appia Nuova, Roma, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.8250775,
+    "lng": 12.5612789,
+    "name": "Via Appia Nuova",
+    "source": "photon",
+    "osm_id": "W/226096862",
+    "wikidata": "",
+    "osm_class": "highway=primary",
+    "locality": "Roma",
+    "display": "Via Appia Nuova, Roma, Italia",
+    "names_all": [
+     "Via Appia Nuova"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "bari__daytrip::strada delle orecchiette": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari__daytrip::muraglia": {
+  "ok": true,
+  "lat": 41.131939,
+  "lng": 16.870803,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.758,
+  "name": "La Muraglia B&B",
+  "locality": "Bari",
+  "osm_class": "tourism=guest_house",
+  "wikidata": "",
+  "display": "La Muraglia B&B, Bari, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.131939,
+    "lng": 16.8708032,
+    "name": "La Muraglia B&B",
+    "source": "photon",
+    "osm_id": "N/1421106868",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Bari",
+    "display": "La Muraglia B&B, Bari, Italia",
+    "names_all": [
+     "La Muraglia B&B"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "bari__daytrip::succorpo de la cattedrale": {
+  "ok": true,
+  "lat": 41.128461,
+  "lng": 16.869252,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.715,
+  "name": "Museo del succorpo della cattedrale",
+  "locality": "Bari",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo del succorpo della cattedrale, Bari, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.1284606,
+    "lng": 16.8692524,
+    "name": "Museo del succorpo della cattedrale",
+    "source": "photon",
+    "osm_id": "N/11778632127",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo del succorpo della cattedrale, Bari, Italia",
+    "names_all": [
+     "Museo del succorpo della cattedrale"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "bari__daytrip::cripta ortodoxa de san nicola": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari__daytrip::teatro margherita sobre el agua": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari__daytrip::bari sotterranea": {
+  "ok": true,
+  "lat": 41.125784,
+  "lng": 16.862029,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.76,
+  "name": "Bari",
+  "locality": "Bari",
+  "osm_class": "place=city",
+  "wikidata": "",
+  "display": "Bari, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.1257843,
+    "lng": 16.8620293,
+    "name": "Bari",
+    "source": "photon",
+    "osm_id": "R/41038",
+    "wikidata": "",
+    "osm_class": "place=city",
+    "locality": "Bari",
+    "display": "Bari, Italia",
+    "names_all": [
+     "Bari"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "bari__daytrip::santa claus village en diciembre": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::cattedrale campanario": {
+  "ok": true,
+  "lat": 40.180001,
+  "lng": 18.030472,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.711,
+  "name": "Basilica cattedrale di Santa Maria Assunta",
+  "locality": "Nardò",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Basilica cattedrale di Santa Maria Assunta, Nardò, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.1800014,
+    "lng": 18.0304724,
+    "name": "Basilica cattedrale di Santa Maria Assunta",
+    "source": "photon",
+    "osm_id": "W/417666624",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Nardò",
+    "display": "Basilica cattedrale di Santa Maria Assunta, Nardò, Italia",
+    "names_all": [
+     "Basilica cattedrale di Santa Maria Assunta"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce__daytrip::cattedrale": {
+  "ok": true,
+  "lat": 40.145893,
+  "lng": 18.491055,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.85,
+  "name": "Cattedrale di Santa Maria Annunziata",
+  "locality": "Otranto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Cattedrale di Santa Maria Annunziata, Otranto, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.1458931,
+    "lng": 18.4910553,
+    "name": "Cattedrale di Santa Maria Annunziata",
+    "source": "photon",
+    "osm_id": "W/425021540",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Otranto",
+    "display": "Cattedrale di Santa Maria Annunziata, Otranto, Italia",
+    "names_all": [
+     "Cattedrale di Santa Maria Annunziata"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce__daytrip::chiesa del rosario": {
+  "ok": true,
+  "lat": 40.484036,
+  "lng": 18.053064,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.848,
+  "name": "Chiesa del Santissimo Rosario",
+  "locality": "Torchiarolo",
+  "osm_class": "building=church",
+  "wikidata": "",
+  "display": "Chiesa del Santissimo Rosario, Torchiarolo, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.4840358,
+    "lng": 18.0530636,
+    "name": "Chiesa del Santissimo Rosario",
+    "source": "photon",
+    "osm_id": "W/421379185",
+    "wikidata": "",
+    "osm_class": "building=church",
+    "locality": "Torchiarolo",
+    "display": "Chiesa del Santissimo Rosario, Torchiarolo, Italia",
+    "names_all": [
+     "Chiesa del Santissimo Rosario"
+    ],
+    "importance": 0.0,
+    "rank": 3
+   }
+  ]
+ },
+ "lecce__daytrip::cripta della cattedrale": {
+  "ok": true,
+  "lat": 39.807097,
+  "lng": 18.380383,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.687,
+  "name": "Grotta della Vora o Grotta della Cattedrale",
+  "locality": "Gagliano del Capo",
+  "osm_class": "natural=cave_entrance",
+  "wikidata": "",
+  "display": "Grotta della Vora o Grotta della Cattedrale, Gagliano del Capo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 39.8070975,
+    "lng": 18.3803827,
+    "name": "Grotta della Vora o Grotta della Cattedrale",
+    "source": "photon",
+    "osm_id": "N/1619587647",
+    "wikidata": "",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Gagliano del Capo",
+    "display": "Grotta della Vora o Grotta della Cattedrale, Gagliano del Capo, Italia",
+    "names_all": [
+     "Grotta della Vora o Grotta della Cattedrale"
+    ],
+    "importance": 0.0,
+    "rank": 4
+   }
+  ]
+ },
+ "lecce__daytrip::museo archeologico provinciale sigismondo castromediano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::obelisco di porta napoli": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::talleres de pietra leccese": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::palazzo taurino": {
+  "ok": true,
+  "lat": 40.327425,
+  "lng": 18.095878,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.635,
+  "name": "Palazzo Baronale",
+  "locality": "Monteroni di Lecce",
+  "osm_class": "historic=castle",
+  "wikidata": "",
+  "display": "Palazzo Baronale, Monteroni di Lecce, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.3274249,
+    "lng": 18.0958779,
+    "name": "Palazzo Baronale",
+    "source": "photon",
+    "osm_id": "N/4643018893",
+    "wikidata": "",
+    "osm_class": "historic=castle",
+    "locality": "Monteroni di Lecce",
+    "display": "Palazzo Baronale, Monteroni di Lecce, Italia",
+    "names_all": [
+     "Palazzo Baronale"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce__daytrip::must museo storico della citta": {
+  "ok": true,
+  "lat": 40.3517,
+  "lng": 18.170849,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.777,
+  "name": "MUST - Museo Storico della Città di Lecce",
+  "locality": "Lecce",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "MUST - Museo Storico della Città di Lecce, Lecce, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.3517002,
+    "lng": 18.1708495,
+    "name": "MUST - Museo Storico della Città di Lecce",
+    "source": "photon",
+    "osm_id": "R/3985195",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "MUST - Museo Storico della Città di Lecce, Lecce, Italia",
+    "names_all": [
+     "MUST - Museo Storico della Città di Lecce"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce__daytrip::giardini pubblici giuseppe garibaldi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::quartiere universitario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera__daytrip::musma museo della scultura contemporanea": {
+  "ok": true,
+  "lat": 40.666118,
+  "lng": 16.612251,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.909,
+  "name": "Musma",
+  "locality": "Matera",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Musma, Matera, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.6661178,
+    "lng": 16.6122514,
+    "name": "Musma",
+    "source": "photon",
+    "osm_id": "N/2229592221",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Musma, Matera, Italia",
+    "names_all": [
+     "Musma"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "matera__daytrip::palazzo lanfranchi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera__daytrip::parco della murgia materana": {
+  "ok": true,
+  "lat": 40.864659,
+  "lng": 16.751037,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.593,
+  "name": "Kartodromo della Murgia",
+  "locality": "Cassano delle Murge",
+  "osm_class": "leisure=sports_centre",
+  "wikidata": "",
+  "display": "Kartodromo della Murgia, Cassano delle Murge, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.8646586,
+    "lng": 16.7510372,
+    "name": "Kartodromo della Murgia",
+    "source": "photon",
+    "osm_id": "W/352588294",
+    "wikidata": "",
+    "osm_class": "leisure=sports_centre",
+    "locality": "Cassano delle Murge",
+    "display": "Kartodromo della Murgia, Cassano delle Murge, Italia",
+    "names_all": [
+     "Kartodromo della Murgia"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "matera__daytrip::iglesias rupestres del parque": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::zipline canyon ucja": {
+  "ok": true,
+  "lat": 46.310624,
+  "lng": 13.46998,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.711,
+  "name": "Zipline Canyon Učja",
+  "locality": "Žaga",
+  "osm_class": "tourism=attraction",
+  "wikidata": "",
+  "display": "Zipline Canyon Učja, 401, Potok, Njivica, Žaga, Bovec, 5224, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.310624,
+    "lng": 13.4699797,
+    "name": "Zipline Canyon Učja",
+    "source": "nominatim",
+    "osm_id": "node/12254876363",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Žaga",
+    "display": "Zipline Canyon Učja, 401, Potok, Njivica, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Zipline Canyon Učja"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.310624,
+    "lng": 13.4699797,
+    "name": "Zipline Canyon Učja",
+    "source": "photon",
+    "osm_id": "N/12254876363",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Žaga",
+    "display": "Zipline Canyon Učja, Žaga, Slovenija",
+    "names_all": [
+     "Zipline Canyon Učja"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 46.310624,
+    "lng": 13.4699797,
+    "name": "Zipline Canyon Učja",
+    "source": "nominatim",
+    "osm_id": "node/12254876363",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Žaga",
+    "display": "Zipline Canyon Učja, 401, Potok, Njivica, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Zipline Canyon Učja"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.310624,
+    "lng": 13.4699797,
+    "name": "Zipline Canyon Učja",
+    "source": "nominatim",
+    "osm_id": "node/12254876363",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Žaga",
+    "display": "Zipline Canyon Učja, 401, Potok, Njivica, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Zipline Canyon Učja"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::krajinski park strunjan": {
+  "ok": true,
+  "lat": 45.533873,
+  "lng": 13.616785,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.76,
+  "name": "Krajinski park Strunjan",
+  "locality": "Dobrava",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "Q19911743",
+  "display": "Krajinski park Strunjan, Dobrava, Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, Slovenija",
+  "reason": "fuentes discrepan 1.2 km",
+  "alternatives": [
+   {
+    "lat": 45.5338734,
+    "lng": 13.6167853,
+    "name": "Krajinski park Strunjan",
+    "source": "nominatim",
+    "osm_id": "way/536165595",
+    "wikidata": "Q19911743",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Dobrava",
+    "display": "Krajinski park Strunjan, Dobrava, Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, Slovenija",
+    "names_all": [
+     "Krajinski park Strunjan"
+    ],
+    "importance": 0.19283288150311992,
+    "rank": 0
+   },
+   {
+    "lat": 45.5277653,
+    "lng": 13.6044874,
+    "name": "Javni zavod krajinski park Strunjan",
+    "source": "photon",
+    "osm_id": "W/721310101",
+    "wikidata": "",
+    "osm_class": "building=yes",
+    "locality": "Piran / Pirano",
+    "display": "Javni zavod krajinski park Strunjan, Piran / Pirano, Slovenija",
+    "names_all": [
+     "Javni zavod krajinski park Strunjan"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 45.5338734,
+    "lng": 13.6167853,
+    "name": "Krajinski park Strunjan",
+    "source": "nominatim",
+    "osm_id": "way/536165595",
+    "wikidata": "Q19911743",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Dobrava",
+    "display": "Krajinski park Strunjan, Dobrava, Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, Slovenija",
+    "names_all": [
+     "Krajinski park Strunjan"
+    ],
+    "importance": 0.19283288150311992,
+    "rank": 0
+   },
+   {
+    "lat": 45.5338734,
+    "lng": 13.6167853,
+    "name": "Krajinski park Strunjan",
+    "source": "nominatim",
+    "osm_id": "way/536165595",
+    "wikidata": "Q19911743",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Dobrava",
+    "display": "Krajinski park Strunjan, Dobrava, Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, Slovenija",
+    "names_all": [
+     "Krajinski park Strunjan"
+    ],
+    "importance": 0.19283288150311992,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::castello di miramare": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran__daytrip::castello di miramare": {
+  "ok": true,
+  "lat": 45.702532,
+  "lng": 13.712456,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.718,
+  "name": "Castello di Miramare",
+  "locality": "Trieste",
+  "osm_class": "tourism=attraction",
+  "wikidata": "",
+  "display": "Castello di Miramare, Trieste, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.7025321,
+    "lng": 13.7124557,
+    "name": "Castello di Miramare",
+    "source": "photon",
+    "osm_id": "W/361092895",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Trieste",
+    "display": "Castello di Miramare, Trieste, Italia",
+    "names_all": [
+     "Castello di Miramare"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::via appia nuova": {
+  "ok": true,
+  "lat": 41.818506,
+  "lng": 12.568677,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.719,
+  "name": "Via Appia Nuova",
+  "locality": "Roma",
+  "osm_class": "highway=primary",
+  "wikidata": "Q1392847",
+  "display": "Via Appia Nuova, Capannelle, Municipio Roma VII, Osteria del Curato, Roma, Roma Capitale, Lazio, 00178, Italia",
+  "reason": "fuentes discrepan 2.7 km",
+  "alternatives": [
+   {
+    "lat": 41.8289788,
+    "lng": 12.5573036,
+    "name": "Via Appia Nuova",
+    "source": "nominatim",
+    "osm_id": "way/185317235",
+    "wikidata": "Q1392847",
+    "osm_class": "highway=primary",
+    "locality": "Roma",
+    "display": "Via Appia Nuova, Torricola, Municipio Roma VIII, Osteria del Curato, Roma, Roma Capitale, Lazio, 00178, Italia",
+    "names_all": [
+     "Via Appia Nuova"
+    ],
+    "importance": 0.48787160348501746,
+    "rank": 1
+   },
+   {
+    "lat": 41.8392425,
+    "lng": 12.5514203,
+    "name": "Via Appia Nuova",
+    "source": "photon",
+    "osm_id": "W/1366186013",
+    "wikidata": "",
+    "osm_class": "highway=primary",
+    "locality": "Roma",
+    "display": "Via Appia Nuova, Roma, Italia",
+    "names_all": [
+     "Via Appia Nuova"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.8269731,
+    "lng": 12.5593134,
+    "name": "Via Appia Nuova",
+    "source": "nominatim",
+    "osm_id": "way/124205528",
+    "wikidata": "Q1392847",
+    "osm_class": "highway=primary",
+    "locality": "Roma",
+    "display": "Via Appia Nuova, Villaggio Santa Barbara, Appio Claudio, Municipio Roma VII, Osteria del Curato, Roma, Roma Capitale, Lazio, 00178, Italia",
+    "names_all": [
+     "Via Appia Nuova"
+    ],
+    "importance": 0.48787160348501746,
+    "rank": 2
+   },
+   {
+    "lat": 41.8185059,
+    "lng": 12.5686768,
+    "name": "Via Appia Nuova",
+    "source": "nominatim",
+    "osm_id": "way/22946922",
+    "wikidata": "Q1392847",
+    "osm_class": "highway=primary",
+    "locality": "Roma",
+    "display": "Via Appia Nuova, Capannelle, Municipio Roma VII, Osteria del Curato, Roma, Roma Capitale, Lazio, 00178, Italia",
+    "names_all": [
+     "Via Appia Nuova"
+    ],
+    "importance": 0.48787160348501746,
+    "rank": 1
+   }
+  ]
+ },
+ "bari::la muraglia b b": {
+  "ok": true,
+  "lat": 41.131939,
+  "lng": 16.870803,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.761,
+  "name": "La Muraglia B&B",
+  "locality": "Bari",
+  "osm_class": "tourism=guest_house",
+  "wikidata": "",
+  "display": "La Muraglia B&B, 2, Strada Annunziata, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.131939,
+    "lng": 16.8708032,
+    "name": "La Muraglia B&B",
+    "source": "nominatim",
+    "osm_id": "node/1421106868",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Bari",
+    "display": "La Muraglia B&B, 2, Strada Annunziata, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "La Muraglia B&B"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.131939,
+    "lng": 16.8708032,
+    "name": "La Muraglia B&B",
+    "source": "photon",
+    "osm_id": "N/1421106868",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Bari",
+    "display": "La Muraglia B&B, Bari, Italia",
+    "names_all": [
+     "La Muraglia B&B"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.131939,
+    "lng": 16.8708032,
+    "name": "La Muraglia B&B",
+    "source": "nominatim",
+    "osm_id": "node/1421106868",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Bari",
+    "display": "La Muraglia B&B, 2, Strada Annunziata, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "La Muraglia B&B"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.131939,
+    "lng": 16.8708032,
+    "name": "La Muraglia B&B",
+    "source": "nominatim",
+    "osm_id": "node/1421106868",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Bari",
+    "display": "La Muraglia B&B, 2, Strada Annunziata, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "La Muraglia B&B"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::museo del succorpo della cattedrale": {
+  "ok": true,
+  "lat": 41.128461,
+  "lng": 16.869252,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.764,
+  "name": "Museo del succorpo della cattedrale",
+  "locality": "Bari",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo del succorpo della cattedrale, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1284606,
+    "lng": 16.8692524,
+    "name": "Museo del succorpo della cattedrale",
+    "source": "nominatim",
+    "osm_id": "node/11778632127",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo del succorpo della cattedrale, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Museo del succorpo della cattedrale"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.1284606,
+    "lng": 16.8692524,
+    "name": "Museo del succorpo della cattedrale",
+    "source": "photon",
+    "osm_id": "N/11778632127",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo del succorpo della cattedrale, Bari, Italia",
+    "names_all": [
+     "Museo del succorpo della cattedrale"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.1284606,
+    "lng": 16.8692524,
+    "name": "Museo del succorpo della cattedrale",
+    "source": "nominatim",
+    "osm_id": "node/11778632127",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo del succorpo della cattedrale, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Museo del succorpo della cattedrale"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.1284606,
+    "lng": 16.8692524,
+    "name": "Museo del succorpo della cattedrale",
+    "source": "nominatim",
+    "osm_id": "node/11778632127",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo del succorpo della cattedrale, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Museo del succorpo della cattedrale"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::bari": {
+  "ok": true,
+  "lat": 41.125784,
+  "lng": 16.862029,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.729,
+  "name": "Bari",
+  "locality": "Bari",
+  "osm_class": "boundary=administrative",
+  "wikidata": "Q3519",
+  "display": "Bari, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1257843,
+    "lng": 16.8620293,
+    "name": "Bari",
+    "source": "nominatim",
+    "osm_id": "relation/41038",
+    "wikidata": "Q3519",
+    "osm_class": "boundary=administrative",
+    "locality": "Bari",
+    "display": "Bari, Puglia, Italia",
+    "names_all": [
+     "Bari"
+    ],
+    "importance": 0.6717979717023425,
+    "rank": 0
+   },
+   {
+    "lat": 41.1257843,
+    "lng": 16.8620293,
+    "name": "Bari",
+    "source": "photon",
+    "osm_id": "R/41038",
+    "wikidata": "",
+    "osm_class": "place=city",
+    "locality": "Bari",
+    "display": "Bari, Italia",
+    "names_all": [
+     "Bari"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.1257843,
+    "lng": 16.8620293,
+    "name": "Bari",
+    "source": "nominatim",
+    "osm_id": "relation/41038",
+    "wikidata": "Q3519",
+    "osm_class": "boundary=administrative",
+    "locality": "Bari",
+    "display": "Bari, Puglia, Italia",
+    "names_all": [
+     "Bari"
+    ],
+    "importance": 0.6717979717023425,
+    "rank": 0
+   },
+   {
+    "lat": 41.1257843,
+    "lng": 16.8620293,
+    "name": "Bari",
+    "source": "nominatim",
+    "osm_id": "relation/41038",
+    "wikidata": "Q3519",
+    "osm_class": "boundary=administrative",
+    "locality": "Bari",
+    "display": "Bari, Puglia, Italia",
+    "names_all": [
+     "Bari"
+    ],
+    "importance": 0.6717979717023425,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::cattedrale di santa maria annunziata": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::cattedrale di santa maria annunziata": {
+  "ok": true,
+  "lat": 40.145893,
+  "lng": 18.491055,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.832,
+  "name": "Cattedrale di Santa Maria Annunziata",
+  "locality": "Otranto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q2942572",
+  "display": "Cattedrale di Santa Maria Annunziata, 1, Piazza Basilica, Otranto, Lecce, Puglia, 73028, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.1458931,
+    "lng": 18.4910553,
+    "name": "Cattedrale di Santa Maria Annunziata",
+    "source": "nominatim",
+    "osm_id": "way/425021540",
+    "wikidata": "Q2942572",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Otranto",
+    "display": "Cattedrale di Santa Maria Annunziata, 1, Piazza Basilica, Otranto, Lecce, Puglia, 73028, Italia",
+    "names_all": [
+     "Cattedrale di Santa Maria Annunziata"
+    ],
+    "importance": 0.34731627116286135,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::chiesa del santissimo rosario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::chiesa del santissimo rosario": {
+  "ok": true,
+  "lat": 40.484036,
+  "lng": 18.053064,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.862,
+  "name": "Chiesa del Santissimo Rosario",
+  "locality": "Torchiarolo",
+  "osm_class": "building=church",
+  "wikidata": "",
+  "display": "Chiesa del Santissimo Rosario, Torchiarolo, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.4840358,
+    "lng": 18.0530636,
+    "name": "Chiesa del Santissimo Rosario",
+    "source": "photon",
+    "osm_id": "W/421379185",
+    "wikidata": "",
+    "osm_class": "building=church",
+    "locality": "Torchiarolo",
+    "display": "Chiesa del Santissimo Rosario, Torchiarolo, Italia",
+    "names_all": [
+     "Chiesa del Santissimo Rosario"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::grotta della vora o grotta della cattedrale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce__daytrip::grotta della vora o grotta della cattedrale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::must museo storico della citta di lecce": {
+  "ok": true,
+  "lat": 40.3517,
+  "lng": 18.170849,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.766,
+  "name": "MUST - Museo Storico della Città di Lecce",
+  "locality": "Lecce",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q56258631",
+  "display": "MUST - Museo Storico della Città di Lecce, Via Arte della Cartapesta, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3517002,
+    "lng": 18.1708495,
+    "name": "MUST - Museo Storico della Città di Lecce",
+    "source": "nominatim",
+    "osm_id": "relation/3985195",
+    "wikidata": "Q56258631",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "MUST - Museo Storico della Città di Lecce, Vico dei Maresgalli, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "MUST - Museo Storico della Città di Lecce"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3517002,
+    "lng": 18.1708495,
+    "name": "MUST - Museo Storico della Città di Lecce",
+    "source": "photon",
+    "osm_id": "R/3985195",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "MUST - Museo Storico della Città di Lecce, Lecce, Italia",
+    "names_all": [
+     "MUST - Museo Storico della Città di Lecce"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.3517002,
+    "lng": 18.1708495,
+    "name": "MUST - Museo Storico della Città di Lecce",
+    "source": "nominatim",
+    "osm_id": "relation/3985195",
+    "wikidata": "Q56258631",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "MUST - Museo Storico della Città di Lecce, Vico dei Maresgalli, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "MUST - Museo Storico della Città di Lecce"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3517002,
+    "lng": 18.1708495,
+    "name": "MUST - Museo Storico della Città di Lecce",
+    "source": "nominatim",
+    "osm_id": "relation/3985195",
+    "wikidata": "Q56258631",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "MUST - Museo Storico della Città di Lecce, Via Arte della Cartapesta, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "MUST - Museo Storico della Città di Lecce"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::musma": {
+  "ok": true,
+  "lat": 40.666118,
+  "lng": 16.612251,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.918,
+  "name": "Musma",
+  "locality": "Matera",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3841681",
+  "display": "Musma, Via San Giacomo, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6661178,
+    "lng": 16.6122514,
+    "name": "Musma",
+    "source": "nominatim",
+    "osm_id": "node/2229592221",
+    "wikidata": "Q3841681",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Musma, Via San Giacomo, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Musma"
+    ],
+    "importance": 0.31298735030903774,
+    "rank": 0
+   }
+  ]
+ },
+ "matera__daytrip::ponte tibetano della gravina": {
+  "ok": true,
+  "lat": 40.612254,
+  "lng": 16.575281,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.627,
+  "name": "Ponte Torrente Gravina",
+  "locality": "Matera",
+  "osm_class": "highway=trunk",
+  "wikidata": "",
+  "display": "Ponte Torrente Gravina, Matera, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.6122544,
+    "lng": 16.5752813,
+    "name": "Ponte Torrente Gravina",
+    "source": "photon",
+    "osm_id": "W/144122768",
+    "wikidata": "",
+    "osm_class": "highway=trunk",
+    "locality": "Matera",
+    "display": "Ponte Torrente Gravina, Matera, Italia",
+    "names_all": [
+     "Ponte Torrente Gravina"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "matera__daytrip::cammino materano": {
+  "ok": true,
+  "lat": 40.675724,
+  "lng": 16.596127,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.607,
+  "name": "LMA Laboratorio Analisi Materano",
+  "locality": "Matera",
+  "osm_class": "amenity=doctors",
+  "wikidata": "",
+  "display": "LMA Laboratorio Analisi Materano, Matera, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.6757244,
+    "lng": 16.596127,
+    "name": "LMA Laboratorio Analisi Materano",
+    "source": "photon",
+    "osm_id": "N/9858315544",
+    "wikidata": "",
+    "osm_class": "amenity=doctors",
+    "locality": "Matera",
+    "display": "LMA Laboratorio Analisi Materano, Matera, Italia",
+    "names_all": [
+     "LMA Laboratorio Analisi Materano"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "ostuni__daytrip::concattedrale di santa maria assunta": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::porta san demetrio y las murallas aragonesas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::miradores del casco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::ulivi secolari monumentali": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::frantoi ipogei": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::masserie con cata de aceite": {
+  "ok": true,
+  "lat": 40.983113,
+  "lng": 17.246128,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.467,
+  "name": "Masseria De Bellis",
+  "locality": "Polignano a Mare",
+  "osm_class": "building=farm",
+  "wikidata": "",
+  "display": "Masseria De Bellis, Polignano a Mare, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.9831133,
+    "lng": 17.2461279,
+    "name": "Masseria De Bellis",
+    "source": "photon",
+    "osm_id": "W/419924240",
+    "wikidata": "",
+    "osm_class": "building=farm",
+    "locality": "Polignano a Mare",
+    "display": "Masseria De Bellis, Polignano a Mare, Italia",
+    "names_all": [
+     "Masseria De Bellis"
+    ],
+    "importance": 0.0,
+    "rank": 5
+   }
+  ]
+ },
+ "ostuni__daytrip::bodegas del valle ditria": {
+  "ok": true,
+  "lat": 40.751279,
+  "lng": 17.336004,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.573,
+  "name": "Camping Camper - Valle d'Itria",
+  "locality": "Locorotondo",
+  "osm_class": "tourism=caravan_site",
+  "wikidata": "",
+  "display": "Camping Camper - Valle d'Itria, Locorotondo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7512792,
+    "lng": 17.3360044,
+    "name": "Camping Camper - Valle d'Itria",
+    "source": "photon",
+    "osm_id": "W/1502431140",
+    "wikidata": "",
+    "osm_class": "tourism=caravan_site",
+    "locality": "Locorotondo",
+    "display": "Camping Camper - Valle d'Itria, Locorotondo, Italia",
+    "names_all": [
+     "Camping Camper - Valle d'Itria"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni__daytrip::alberobello": {
+  "ok": true,
+  "lat": 40.784124,
+  "lng": 17.237703,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.832,
+  "name": "Alberobello",
+  "locality": "Bari",
+  "osm_class": "place=town",
+  "wikidata": "",
+  "display": "Alberobello, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.7841242,
+    "lng": 17.2377031,
+    "name": "Alberobello",
+    "source": "nominatim",
+    "osm_id": "relation/40749",
+    "wikidata": "Q51812",
+    "osm_class": "boundary=administrative",
+    "locality": "Alberobello",
+    "display": "Alberobello, Bari, Puglia, 70011, Italia",
+    "names_all": [
+     "Alberobello"
+    ],
+    "importance": 0.5417917938681354,
+    "rank": 0
+   },
+   {
+    "lat": 40.7841242,
+    "lng": 17.2377031,
+    "name": "Alberobello",
+    "source": "photon",
+    "osm_id": "R/40749",
+    "wikidata": "",
+    "osm_class": "place=town",
+    "locality": "Bari",
+    "display": "Alberobello, Italia",
+    "names_all": [
+     "Alberobello"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni__daytrip::frantoi ipogei del centro": {
+  "ok": true,
+  "lat": 40.417276,
+  "lng": 17.464081,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.498,
+  "name": "franoio ipogeo",
+  "locality": "Sava",
+  "osm_class": "natural=cave_entrance",
+  "wikidata": "",
+  "display": "franoio ipogeo, Sava, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.4172759,
+    "lng": 17.464081,
+    "name": "franoio ipogeo",
+    "source": "photon",
+    "osm_id": "N/8593431391",
+    "wikidata": "",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Sava",
+    "display": "franoio ipogeo, Sava, Italia",
+    "names_all": [
+     "franoio ipogeo"
+    ],
+    "importance": 0.0,
+    "rank": 4
+   }
+  ]
+ },
+ "ostuni__daytrip::cavallino bianco cortili": {
+  "ok": true,
+  "lat": 40.577063,
+  "lng": 17.829152,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.499,
+  "name": "Bianco Petroli",
+  "locality": "Mesagne",
+  "osm_class": "amenity=fuel",
+  "wikidata": "",
+  "display": "Bianco Petroli, Mesagne, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.5770627,
+    "lng": 17.8291523,
+    "name": "Bianco Petroli",
+    "source": "photon",
+    "osm_id": "N/228766892",
+    "wikidata": "",
+    "osm_class": "amenity=fuel",
+    "locality": "Mesagne",
+    "display": "Bianco Petroli, Mesagne, Italia",
+    "names_all": [
+     "Bianco Petroli"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "ostuni__daytrip::cavallino bianco": {
+  "ok": true,
+  "lat": 40.577063,
+  "lng": 17.829152,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.525,
+  "name": "Bianco Petroli",
+  "locality": "Mesagne",
+  "osm_class": "amenity=fuel",
+  "wikidata": "",
+  "display": "Bianco Petroli, Mesagne, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.5770627,
+    "lng": 17.8291523,
+    "name": "Bianco Petroli",
+    "source": "photon",
+    "osm_id": "N/228766892",
+    "wikidata": "",
+    "osm_class": "amenity=fuel",
+    "locality": "Mesagne",
+    "display": "Bianco Petroli, Mesagne, Italia",
+    "names_all": [
+     "Bianco Petroli"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni__daytrip::cortili": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni__daytrip::cavalcata di santoronzo": {
+  "ok": true,
+  "lat": 40.73192,
+  "lng": 17.578822,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.682,
+  "name": "Guglia di Sant'Oronzo",
+  "locality": "Ostuni",
+  "osm_class": "historic=monument",
+  "wikidata": "",
+  "display": "Guglia di Sant'Oronzo, Ostuni, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7319196,
+    "lng": 17.5788221,
+    "name": "Guglia di Sant'Oronzo",
+    "source": "photon",
+    "osm_id": "W/421164479",
+    "wikidata": "",
+    "osm_class": "historic=monument",
+    "locality": "Ostuni",
+    "display": "Guglia di Sant'Oronzo, Ostuni, Italia",
+    "names_all": [
+     "Guglia di Sant'Oronzo"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo__daytrip::museo archeologico regionale antonino salinas": {
+  "ok": true,
+  "lat": 38.120905,
+  "lng": 13.361146,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.903,
+  "name": "Museo Archeologico Regionale Antonio Salinas",
+  "locality": "Palermo",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo Archeologico Regionale Antonio Salinas, Palermo, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 38.1209051,
+    "lng": 13.3611457,
+    "name": "Museo Archeologico Regionale Antonio Salinas",
+    "source": "photon",
+    "osm_id": "R/20998804",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Museo Archeologico Regionale Antonio Salinas, Palermo, Italia",
+    "names_all": [
+     "Museo Archeologico Regionale Antonio Salinas"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo__daytrip::la zisa": {
+  "ok": true,
+  "lat": 38.116815,
+  "lng": 13.347289,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.63,
+  "name": "Lascaris - Zisa",
+  "locality": "Palermo",
+  "osm_class": "highway=bus_stop",
+  "wikidata": "",
+  "display": "Lascaris - Zisa, Palermo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.1168148,
+    "lng": 13.347289,
+    "name": "Lascaris - Zisa",
+    "source": "photon",
+    "osm_id": "N/6432257762",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Palermo",
+    "display": "Lascaris - Zisa, Palermo, Italia",
+    "names_all": [
+     "Lascaris - Zisa"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo__daytrip::gam galleria darte moderna": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::arte contemporaneo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::catacumbas de los capuchinos": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::chiesa della martorana": {
+  "ok": true,
+  "lat": 38.116931,
+  "lng": 13.371877,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.767,
+  "name": "Chiesa di Santa Maria della Pietà",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa di Santa Maria della Pietà, Palermo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.1169312,
+    "lng": 13.3718765,
+    "name": "Chiesa di Santa Maria della Pietà",
+    "source": "photon",
+    "osm_id": "W/49786080",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Chiesa di Santa Maria della Pietà, Palermo, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria della Pietà"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "palermo__daytrip::chiesa e monastero di santa caterina dalessandria": {
+  "ok": true,
+  "lat": 37.980873,
+  "lng": 12.966762,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.783,
+  "name": "Chiesa di Santa Caterina d'Alessandria",
+  "locality": "Alcamo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa di Santa Caterina d'Alessandria, Alcamo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.9808728,
+    "lng": 12.9667616,
+    "name": "Chiesa di Santa Caterina d'Alessandria",
+    "source": "photon",
+    "osm_id": "W/393049394",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Alcamo",
+    "display": "Chiesa di Santa Caterina d'Alessandria, Alcamo, Italia",
+    "names_all": [
+     "Chiesa di Santa Caterina d'Alessandria"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "palermo__daytrip::mercato ballaro": {
+  "ok": true,
+  "lat": 38.111356,
+  "lng": 13.361578,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.883,
+  "name": "Ballarò",
+  "locality": "Palermo",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Ballarò, Palermo, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 38.1113556,
+    "lng": 13.3615778,
+    "name": "Ballarò",
+    "source": "photon",
+    "osm_id": "N/3450499385",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Palermo",
+    "display": "Ballarò, Palermo, Italia",
+    "names_all": [
+     "Ballarò"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "palermo__daytrip::mercato di borgo vecchio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::techo de la catedral": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::techo de santa caterina": {
+  "ok": true,
+  "lat": 38.115375,
+  "lng": 13.362871,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.646,
+  "name": "I segreti del chiostro - Dolceria Santa Caterina",
+  "locality": "Palermo",
+  "osm_class": "shop=pastry",
+  "wikidata": "",
+  "display": "I segreti del chiostro - Dolceria Santa Caterina, Palermo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.1153751,
+    "lng": 13.3628714,
+    "name": "I segreti del chiostro - Dolceria Santa Caterina",
+    "source": "photon",
+    "osm_id": "N/9893106698",
+    "wikidata": "",
+    "osm_class": "shop=pastry",
+    "locality": "Palermo",
+    "display": "I segreti del chiostro - Dolceria Santa Caterina, Palermo, Italia",
+    "names_all": [
+     "I segreti del chiostro - Dolceria Santa Caterina"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo__daytrip::murales urbanos": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::riserva naturale di capo gallo": {
+  "ok": true,
+  "lat": 38.207971,
+  "lng": 13.294616,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.723,
+  "name": "Riserva Naturale Orientata Capo Gallo",
+  "locality": "Palermo",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "",
+  "display": "Riserva Naturale Orientata Capo Gallo, Palermo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.2079707,
+    "lng": 13.294616,
+    "name": "Riserva Naturale Orientata Capo Gallo",
+    "source": "photon",
+    "osm_id": "W/97995758",
+    "wikidata": "",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Palermo",
+    "display": "Riserva Naturale Orientata Capo Gallo, Palermo, Italia",
+    "names_all": [
+     "Riserva Naturale Orientata Capo Gallo"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo__daytrip::cripta dei cappuccini vs catacumbas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::tre erre": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo__daytrip::bagni arabi di cefala diana": {
+  "ok": true,
+  "lat": 37.930394,
+  "lng": 13.472455,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.717,
+  "name": "Bagni di Cefalà Diana",
+  "locality": "Cefalà Diana",
+  "osm_class": "tourism=attraction",
+  "wikidata": "",
+  "display": "Bagni di Cefalà Diana, Cefalà Diana, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.9303937,
+    "lng": 13.4724554,
+    "name": "Bagni di Cefalà Diana",
+    "source": "photon",
+    "osm_id": "W/353991840",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Cefalà Diana",
+    "display": "Bagni di Cefalà Diana, Cefalà Diana, Italia",
+    "names_all": [
+     "Bagni di Cefalà Diana"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "catania__daytrip::monastero dei benedettini di san nicolo larena": {
+  "ok": true,
+  "lat": 37.504272,
+  "lng": 15.07939,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.843,
+  "name": "Monastero di San Nicolò l'Arena",
+  "locality": "Catania",
+  "osm_class": "building=yes",
+  "wikidata": "",
+  "display": "Monastero di San Nicolò l'Arena, Catania, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 37.5042725,
+    "lng": 15.0793898,
+    "name": "Monastero di San Nicolò l'Arena",
+    "source": "photon",
+    "osm_id": "R/1176650",
+    "wikidata": "",
+    "osm_class": "building=yes",
+    "locality": "Catania",
+    "display": "Monastero di San Nicolò l'Arena, Catania, Italia",
+    "names_all": [
+     "Monastero di San Nicolò l'Arena"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "catania__daytrip::casa natal de bellini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania__daytrip::chiesa di san nicolo larena": {
+  "ok": true,
+  "lat": 37.504288,
+  "lng": 15.080049,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.891,
+  "name": "San Nicolò l'Arena",
+  "locality": "Catania",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "San Nicolò l'Arena, Catania, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 37.5042879,
+    "lng": 15.0800493,
+    "name": "San Nicolò l'Arena",
+    "source": "photon",
+    "osm_id": "W/27746635",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Catania",
+    "display": "San Nicolò l'Arena, Catania, Italia",
+    "names_all": [
+     "San Nicolò l'Arena"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "catania__daytrip::santuario basilica maria ss annunziata al carmine": {
+  "ok": true,
+  "lat": 37.510071,
+  "lng": 15.088912,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.894,
+  "name": "Basilica Santuario di Maria Santissima Annunziata al Carmine",
+  "locality": "Catania",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Basilica Santuario di Maria Santissima Annunziata al Carmine, Catania, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 37.5100707,
+    "lng": 15.0889115,
+    "name": "Basilica Santuario di Maria Santissima Annunziata al Carmine",
+    "source": "photon",
+    "osm_id": "W/29334047",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Catania",
+    "display": "Basilica Santuario di Maria Santissima Annunziata al Carmine, Catania, Italia",
+    "names_all": [
+     "Basilica Santuario di Maria Santissima Annunziata al Carmine"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "catania__daytrip::a piscaria": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania__daytrip::fera o luni": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
  }
 }

@@ -310,16 +310,17 @@
   "region": "central",
   "seccion": "🌳 Parques y Naturaleza Urbana",
   "nombre": "Barrio Krakovo",
-  "nombre_local": "Barrio Krakovo",
+  "nombre_local": "Krakovo",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El barrio más antiguo de Liubliana; huertas en plena ciudad a 5min del centro; calles tranquilas, casas del s. XIX; donde vivió Plečnik los últimos años; GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 46.044896,
+  "lng": 14.503783,
+  "origen_geo": "nominatim",
+  "locality": "Ljubljana"
  },
  {
   "id": "liubliana--barrio-trnovo",
@@ -977,9 +978,11 @@
   "precio": "Gratis",
   "notas": "uno de los pueblos-fortaleza más bonitos del Karst (piedra, castillo, el jardín Ferrari), sobre una colina — GRATIS callejear",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 45.817873,
+  "lng": 13.848247,
+  "origen_geo": "nominatim",
+  "locality": "Kobdilj",
+  "es_daytrip": true
  },
  {
   "id": "karst--vinedos-del-karst-teran",
@@ -1016,16 +1019,18 @@
   "region": "central",
   "seccion": "🐎 Karst clásico (Lipica, pueblos, viñedos)",
   "nombre": "Lipica + Škocjan combinados",
-  "nombre_local": "Lipica + Škocjan combinados",
+  "nombre_local": "Lipica",
   "alias_es": [],
   "tipo": "Cueva",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "ambos quedan cerca (SW del Karst), buen día si venís de Postojna hacia la costa",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 45.500659,
+  "lng": 14.042983,
+  "origen_geo": "nominatim",
+  "locality": "Hrpelje-Kozina",
+  "es_daytrip": true
  },
  {
   "id": "soca--tolminska-korita-tolmin-gorges",
@@ -1335,16 +1340,17 @@
   "region": "central",
   "seccion": "🚣 Outdoor de adrenalina (Bovec) — \"si pinta\" y según clima de octubre",
   "nombre": "Zipline Kanin/Učja",
-  "nombre_local": "Zipline Kanin/Učja",
+  "nombre_local": "Zipline Canyon Učja",
   "alias_es": [],
   "tipo": "Trekking",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "uno de los parques de tirolesa más grandes de Europa; opera hasta mediados de octubre — confirmar fecha de cierre antes",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 46.310624,
+  "lng": 13.46998,
+  "origen_geo": "nominatim",
+  "locality": "Žaga"
  },
  {
   "id": "soca--sup-bano-en-pozas-del-soca",
@@ -1734,16 +1740,17 @@
   "region": "central",
   "seccion": "🌿 Naturaleza costera (súper octubre)",
   "nombre": "Strunjan Nature Park (acantilados + Moon Bay)",
-  "nombre_local": "Strunjan Nature Park",
+  "nombre_local": "Krajinski park Strunjan",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "los acantilados de flysch más altos del Adriático norte, salinas y la laguna Mesečev zaliv (Moon Bay) — sendero circular ~5 km / 1.5–2 h — GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 45.533873,
+  "lng": 13.616785,
+  "origen_geo": "nominatim",
+  "locality": "Dobrava"
  },
  {
   "id": "piran--parenzana-a-pie-o-bici",
@@ -1804,7 +1811,7 @@
   "region": "central",
   "seccion": "⭐ Trieste (stopover de salida, 3–6 h)",
   "nombre": "Molo Audace + waterfront",
-  "nombre_local": "Molo Audace + waterfront",
+  "nombre_local": "Molo Audace",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
@@ -1813,7 +1820,8 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "",
+  "locality": "Trieste"
  },
  {
   "id": "piran--cafe-historico",
@@ -1857,9 +1865,10 @@
   "precio": "Gratis",
   "notas": "la colina histórica con vistas — GRATIS (exterior) / museo pago",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 45.547496,
+  "lng": 13.733723,
+  "origen_geo": "nominatim",
+  "locality": "Koper / Capodistria"
  },
  {
   "id": "piran--miramare-castle",
@@ -1873,16 +1882,18 @@
   "region": "central",
   "seccion": "⭐ Trieste (stopover de salida, 3–6 h)",
   "nombre": "Miramare Castle",
-  "nombre_local": "Miramare Castle",
+  "nombre_local": "Castello di Miramare",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€17",
   "notas": "el \"wow\" visual: castillo blanco de Maximiliano sobre el mar, con parque — €17 (museo; parque más barato/gratis según zona) — 1.5–2.5 h",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 45.702532,
+  "lng": 13.712456,
+  "origen_geo": "photon",
+  "locality": "Trieste",
+  "es_daytrip": true
  },
  {
   "id": "florencia--duomo-brunelleschi-pass",
@@ -2397,16 +2408,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Jardines Bardini",
-  "nombre_local": "Jardines Bardini",
+  "nombre_local": "Giardino Bardini",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€10",
   "notas": "Los foros recomiendan Bardini sobre Boboli: mejores vistas, menos multitudes, café agradable en lo alto; incluido en el ticket €10 de Boboli",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 43.764212,
+  "lng": 11.257128,
+  "origen_geo": "nominatim",
+  "locality": "Firenze"
  },
  {
   "id": "florencia--mercato-nuovo-il-porcellino",
@@ -3174,16 +3186,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Catacumbas de la Vía Appia",
-  "nombre_local": "Catacumbas de la Vía Appia",
+  "nombre_local": "Via Appia Nuova",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "~€8-10",
   "notas": "Las catacumbas paleocristianas más extensas del mundo; San Callisto (la principal), San Sebastiano, Domitilla; solo visita guiada; ~€8-10 adulto (verificar); interesante para entender la his",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.818506,
+  "lng": 12.568677,
+  "origen_geo": "nominatim",
+  "locality": "Roma"
  },
  {
   "id": "napoles--cappella-sansevero",
@@ -3801,16 +3814,17 @@
   "region": "sur",
   "seccion": "⛪ Bari Vecchia (la ciudad vieja)",
   "nombre": "Muraglia (paseo de las murallas)",
-  "nombre_local": "Muraglia",
+  "nombre_local": "La Muraglia B&B",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Camino sobre las murallas antiguas, entre Bari Vecchia y el mar. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.131939,
+  "lng": 16.870803,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--chiesa-di-san-marco-dei-veneziani-vallisa",
@@ -4230,16 +4244,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Succorpo de la Cattedrale",
-  "nombre_local": "Succorpo de la Cattedrale",
+  "nombre_local": "Museo del succorpo della cattedrale",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Excavaciones bajo la catedral: calzada romana, basílica paleocristiana y mosaicos. Casi nadie baja",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.128461,
+  "lng": 16.869252,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--cripta-ortodoxa-de-san-nicola",
@@ -4323,16 +4338,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Bari Sotterranea",
-  "nombre_local": "Bari Sotterranea",
+  "nombre_local": "Bari",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Recorridos por cisternas y galerías bajo la ciudad vieja; oferta irregular, verificar operadores",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.125784,
+  "lng": 16.862029,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--santa-claus-village-en-diciembre",
@@ -4417,7 +4433,7 @@
   "region": "sur",
   "seccion": "⛪ El barroco leccese",
   "nombre": "Cattedrale + campanario",
-  "nombre_local": "Cattedrale + campanario",
+  "nombre_local": "Cattedrale di Santa Maria Annunziata",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
@@ -4426,7 +4442,8 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_homonimo_lejano",
+  "locality": "Otranto"
  },
  {
   "id": "lecce--chiesa-di-san-matteo",
@@ -4464,7 +4481,7 @@
   "region": "sur",
   "seccion": "⛪ El barroco leccese",
   "nombre": "Chiesa del Rosario (San Giovanni Battista)",
-  "nombre_local": "Chiesa del Rosario",
+  "nombre_local": "Chiesa del Santissimo Rosario",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
@@ -4473,7 +4490,8 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "",
+  "locality": "Torchiarolo"
  },
  {
   "id": "lecce--chiesa-di-sant-irene",
@@ -4655,7 +4673,7 @@
   "region": "sur",
   "seccion": "🏛️ Romano y subterráneo",
   "nombre": "Cripta della Cattedrale",
-  "nombre_local": "Cripta della Cattedrale",
+  "nombre_local": "Grotta della Vora o Grotta della Cattedrale",
   "alias_es": [],
   "tipo": "Cueva",
   "prioridad": "Solo mapeado",
@@ -4664,7 +4682,8 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "",
+  "locality": "Gagliano del Capo"
  },
  {
   "id": "lecce--museo-archeologico-provinciale-sigismondo-castromediano",
@@ -4914,16 +4933,17 @@
   "region": "sur",
   "seccion": "🎨 Artesanía y cultura",
   "nombre": "MUST — Museo Storico della Città",
-  "nombre_local": "MUST — Museo Storico della Città",
+  "nombre_local": "MUST - Museo Storico della Città di Lecce",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "~€3-5",
   "notas": "En un ex monasterio; historia urbana de Lecce. (~€3-5)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.3517,
+  "lng": 18.170849,
+  "origen_geo": "nominatim",
+  "locality": "Lecce"
  },
  {
   "id": "lecce--callejear-sin-rumbo-por-el-casco",
@@ -5269,16 +5289,17 @@
   "region": "sur",
   "seccion": "🏚️ Casas-cueva y museos",
   "nombre": "MUSMA — Museo della Scultura Contemporanea",
-  "nombre_local": "MUSMA — Museo della Scultura Contemporanea",
+  "nombre_local": "Musma",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€7-8",
   "notas": "Escultura contemporánea dentro de cuevas de un palacio del s. XVII. La combinación funciona mucho mejor de lo que suena. (~€7-8)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.666118,
+  "lng": 16.612251,
+  "origen_geo": "nominatim",
+  "locality": "Matera"
  },
  {
   "id": "matera--museo-archeologico-nazionale-domenico-ridola",
@@ -6122,9 +6143,11 @@
   "precio": "",
   "notas": "los trulli UNESCO → Day_trips/Alberobello.md",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.784124,
+  "lng": 17.237703,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Bari"
  },
  {
   "id": "ostuni--locorotondo",
@@ -6495,16 +6518,18 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Palacios",
   "nombre": "Museo Archeologico Regionale Antonino Salinas",
-  "nombre_local": "Museo Archeologico Regionale Antonino Salinas",
+  "nombre_local": "Museo Archeologico Regionale Antonio Salinas",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€6-8",
   "notas": "Metopas de Selinunte, ariete de bronce, colección fenicia y griega de primer nivel. (~€6-8, verificar)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.120905,
+  "lng": 13.361146,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Palermo"
  },
  {
   "id": "palermo--la-zisa",
@@ -6729,7 +6754,7 @@
   "region": "sur",
   "seccion": "⛪ Iglesias (el circuito árabe-normando UNESCO)",
   "nombre": "Chiesa e Monastero di Santa Caterina d'Alessandria",
-  "nombre_local": "Chiesa e Monastero di Santa Caterina d'Alessandria",
+  "nombre_local": "Chiesa di Santa Caterina d'Alessandria",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
@@ -6738,7 +6763,8 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_homonimo_lejano",
+  "locality": "Alcamo"
  },
  {
   "id": "palermo--oratorio-del-rosario-di-santa-cita",
@@ -6848,16 +6874,18 @@
   "region": "sur",
   "seccion": "🛒 Mercados (el corazón de Palermo)",
   "nombre": "Mercato Ballarò",
-  "nombre_local": "Mercato Ballarò",
+  "nombre_local": "Ballarò",
   "alias_es": [],
   "tipo": "Mercado",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El más grande, más caótico y más auténtico. Gritos rítmicos de los vendedores (*abbanniata*), frituras, verduras, ropa. GRATIS — ir de mañana (9-13h); a la tarde se vacía",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.111356,
+  "lng": 13.361578,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Palermo"
  },
  {
   "id": "palermo--mercato-del-capo",
@@ -7419,16 +7447,18 @@
   "region": "sur",
   "seccion": "🌿 Parques y Naturaleza",
   "nombre": "Riserva Naturale di Capo Gallo",
-  "nombre_local": "Riserva Naturale di Capo Gallo",
+  "nombre_local": "Riserva Naturale Orientata Capo Gallo",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Cabo con senderos costeros entre Mondello y Sferracavallo. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.207971,
+  "lng": 13.294616,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Palermo"
  },
  {
   "id": "palermo--mondello",
@@ -7608,16 +7638,18 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Bagni arabi di Cefalà Diana",
-  "nombre_local": "Bagni arabi di Cefalà Diana",
+  "nombre_local": "Bagni di Cefalà Diana",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Único baño árabe conservado de Sicilia, a 40 min en auto hacia el interior",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.930394,
+  "lng": 13.472455,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Cefalà Diana"
  },
  {
   "id": "catania--monastero-dei-benedettini-di-san-nicolo-l-arena",
@@ -7941,16 +7973,18 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y barroco",
   "nombre": "Chiesa di San Nicolò l'Arena",
-  "nombre_local": "Chiesa di San Nicolò l'Arena",
+  "nombre_local": "San Nicolò l'Arena",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€3-5",
   "notas": "La iglesia más grande de Sicilia y nunca terminada: fachada con las columnas cortadas a mitad. Adentro, un órgano monumental y una meridiana de 1841 embutida en el piso. (~€3-5 con acceso a ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.504288,
+  "lng": 15.080049,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Catania"
  },
  {
   "id": "catania--santuario-basilica-maria-ss-annunziata-al-carmine",
@@ -7964,16 +7998,18 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y barroco",
   "nombre": "Santuario Basilica Maria SS. Annunziata al Carmine",
-  "nombre_local": "Santuario Basilica Maria SS. Annunziata al Carmine",
+  "nombre_local": "Basilica Santuario di Maria Santissima Annunziata al Carmine",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "y Chiesa San Francesco Borgia - Menos visitadas, buen barroco.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.510071,
+  "lng": 15.088912,
+  "origen_geo": "photon",
+  "es_daytrip": true,
+  "locality": "Catania"
  },
  {
   "id": "catania--a-piscaria-pescheria",

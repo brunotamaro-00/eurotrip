@@ -7,11 +7,15 @@ Cada fila trae **`lat` / `lng` verificadas** y un **`lugar_busqueda` en idioma l
 | Archivo | Región | Ciudades | Lugares |
 |---|---|---|---|
 | `europa_occidental.csv` | 🌍 Occidental | Londres, York, Edimburgo, Highlands, Ámsterdam, París, Colmar, Estrasburgo | 319 |
-| `europa_central.csv` | 🏔️ Central | Friburgo, Grindelwald, Interlaken, Lauterbrunnen, Lucerna, Innsbruck, Viena, Praga, Cracovia, Budapest | 202 |
-| `europa_del_sur.csv` | ☀️ Sur | Lisboa, Porto | 64 |
-| `europa_katia.csv` | 📝 Notas de Katia | 27 bases, incluidas **Roma, Nápoles, Berna, Liubliana, Lagos Alpinos, Valle del Soča, Karst, Trieste, Costa Eslovena y Kandersteg**, que no aparecen en ningún otro CSV | 326 |
+| `europa_central.csv` | 🏔️ Central | Friburgo, Grindelwald, Interlaken, Lauterbrunnen, Lucerna, Innsbruck, Viena, Praga, Cracovia, Budapest + **Eslovenia** (Liubliana, Lagos Alpinos, Karst, Valle del Soča, Costa Eslovena) | 262 |
+| `europa_del_sur.csv` | ☀️ Sur | Lisboa, Porto + **Italia** (Roma, Florencia, Nápoles, Bari, Lecce, Matera, Ostuni, Palermo, Catania, Siracusa, Agrigento, Noto, Ragusa) + **España** (Barcelona, Madrid) | 395 |
+| `europa_katia.csv` | 📝 Notas de Katia | lo que aportan los `notas-katia.md` y no está en los otros tres | 267 |
 
-**Total: 911 lugares** con coordenadas.
+**Total: 1243 lugares** con coordenadas.
+
+Los 3 CSV regionales salen de los `actividades.md`; `europa_katia.csv` solo trae lo que **no**
+está en ellos. Cuando un lugar aparece en los dos lados gana la fila regional, porque su
+descripción y su precio vienen de las notas propias.
 
 `europa_katia.csv` contiene solo lo que **no** estaba ya en los otros tres: se dedupica por nombre, por alias español ↔ idioma local y por coincidencia de coordenada. Todas sus filas van con `prioridad = Solo mapeado`; los lugares que Katia descartó entran igual, marcados `Katia: descartado` en `notas`.
 
@@ -87,6 +91,11 @@ lugares inexistentes. Conviene re-correr `build_katia.py --geocode` y `verify_se
 código nuevo, sin otro proceso consumiendo el límite en paralelo.
 
 ### Pendiente
+
+- 122 de los 529 lugares propios siguen sin geocodificar. Buena parte no son puntos del mapa
+  (actividades como "Callejear sin rumbo por Ortigia", platos, películas filmadas en Matera);
+  el resto son nombres que ninguna fuente resuelve. Se retoma con
+  `build_propios.py --geocode` y después `--write`.
 
 - Auditoría de coordenadas de las 512 filas fuera de Highlands (`audit_existing.py --out audit_full.csv`).
   Highlands ya está: 36 correcciones aplicadas.
