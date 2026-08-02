@@ -4,9 +4,6 @@ europa_occidental.csv,293,Highlands,Talisker Bay,Talisker Bay,Playa,57.285,-6.44
 europa_occidental.csv,153,Highlands,Fort George,Fort George,Sitio histórico,57.586124,-4.044791,57.583811,-4.070286,1541,200,inverness,high,nominatim/nominatim_bounded,error
 europa_occidental.csv,160,Highlands,Blair Castle,Blair Castle,Castillo,56.771334,-3.873177,56.773376,-3.856823,1022,250,perthshire,high,nominatim/nominatim_free,error
 europa_occidental.csv,294,Highlands,Armadale Castle,Armadale Castle,Castillo,57.065,-5.895,57.072647,-5.894729,850,250,road_to_isles,high,nominatim/nominatim_free,error
-europa_occidental.csv,125,Highlands,Lost Valley (Coire Gabhail),Lost Valley,Trekking,56.662,-4.987,,,,3000,,review,sin_candidatos,unresolved
-europa_occidental.csv,126,Highlands,Signal Rock,Signal Rock,Sitio histórico,56.67,-5.1,,,,200,,review,sin_candidatos,unresolved
-europa_occidental.csv,280,Highlands,Old Inverlochy Castle,Old Inverlochy Castle,Castillo,56.8355,-5.082,,,,250,,review,sin_candidatos,unresolved
 europa_occidental.csv,281,Highlands,Glencoe Valley (Three Sisters),Three Sisters,Paisaje,56.662,-4.987,,,,2500,,review,sin_candidatos,unresolved
 europa_occidental.csv,282,Highlands,Mallaig + Silver Sands of Morar,Silver Sands of Morar,Playa,56.97,-5.828,,,,500,,review,sin_candidatos,unresolved
 europa_occidental.csv,295,Highlands,Glen Shiel & Five Sisters,Five Sisters of Kintail,Paisaje,57.19,-5.32,,,,2500,,review,sin_candidatos,unresolved
@@ -26,9 +23,7 @@ europa_occidental.csv,289,Highlands,Coral Beach,Coral Beach,Playa,57.502,-6.64,5
 europa_occidental.csv,130,Highlands,Glenfinnan Viaduct,Glenfinnan Viaduct,Sitio histórico,56.8763,-5.432,56.875824,-5.429320,171,200,glenfinnan,high,nominatim/nominatim_bounded,baja_precision
 europa_occidental.csv,292,Highlands,Talisker Distillery,Talisker Distillery,Destilería,57.3025,-6.356,57.301876,-6.356683,81,250,skye_sur,high,nominatim/nominatim_free,baja_precision
 europa_occidental.csv,302,Highlands,Killiecrankie,Killiecrankie,Sitio histórico,56.745,-3.778,56.744957,-3.779317,80,200,perthshire,high,nominatim/nominatim_bounded,baja_precision
-europa_occidental.csv,300,Highlands,Clava Cairns,Clava Cairns,Sitio histórico,57.4735,-4.074,57.473063,-4.073688,52,200,inverness,review,nominatim/bajo_umbral,baja_precision
 europa_occidental.csv,288,Highlands,Dunvegan Castle,Dunvegan Castle,Castillo,57.4485,-6.59,57.448425,-6.590076,9,250,skye_oeste,high,nominatim/nominatim_free,baja_precision
-europa_occidental.csv,286,Highlands,Brothers' Point,Rubha nam Brathairean,Trekking,57.55,-6.15,57.586542,-6.139123,4115,3000,skye_noroeste,review,nominatim/bajo_umbral,warn
 europa_occidental.csv,279,Highlands,Glen Nevis & Steall Falls,Steall Falls,Trekking,56.801,-5.001,56.770242,-4.979830,3655,3000,fort_william,high,nominatim/nominatim_bounded,warn
 europa_occidental.csv,284,Highlands,Kilt Rock & Mealt Falls,Kilt Rock,Paisaje,57.582,-6.158,57.610864,-6.172148,3318,2500,skye_noroeste,high,nominatim/nominatim_bounded,warn
 europa_occidental.csv,123,Highlands,Buachaille Etive Mòr,Buachaille Etive Mor,Paisaje,56.65,-4.9,56.633967,-4.936779,2870,2500,glencoe,high,nominatim/nominatim_bounded,warn
@@ -39,6 +34,11 @@ europa_occidental.csv,152,Highlands,Culloden Battlefield,Culloden Battlefield,Si
 europa_occidental.csv,154,Highlands,Cawdor Castle,Cawdor Castle,Castillo,57.521326,-3.921561,57.524183,-3.926553,436,250,inverness,high,nominatim/nominatim_free,warn
 europa_occidental.csv,121,Highlands,Neptune's Staircase,Neptune's Staircase,Sitio histórico,56.847155,-5.092517,56.845559,-5.096915,321,200,fort_william,high,nominatim/nominatim_bounded,warn
 europa_occidental.csv,145,Highlands,Loch Cluanie,Loch Cluanie,Paisaje,57.212758,-4.526319,57.139610,-5.088876,34869,2500,override,high,wikidata:Q1867216,override
+europa_occidental.csv,286,Highlands,Brothers' Point,Rubha nam Brathairean,Trekking,57.55,-6.15,57.586542,-6.139123,4115,3000,override,high,overpass:natural=cape Rubha nam Braithrean,override
+europa_occidental.csv,126,Highlands,Signal Rock,Signal Rock,Sitio histórico,56.67,-5.1,56.664936,-5.067192,2082,200,override,high,overpass:tourism=attraction Tom a' Ghrianain,override
+europa_occidental.csv,125,Highlands,Lost Valley (Coire Gabhail),Lost Valley,Trekking,56.662,-4.987,56.648928,-5.003205,1759,3000,override,high,overpass:natural=valley Coire Gabhail,override
+europa_occidental.csv,280,Highlands,Old Inverlochy Castle,Old Inverlochy Castle,Castillo,56.8355,-5.082,56.832290,-5.082300,357,250,override,high,wikidata:Q17825866,override
+europa_occidental.csv,300,Highlands,Clava Cairns,Clava Cairns,Sitio histórico,57.4735,-4.074,57.473063,-4.073688,52,200,override,high,overpass:tourism=attraction Balnuaran of Clava,override
 europa_occidental.csv,139,Highlands,Quiraing,Quiraing,Trekking,57.6436,-6.2705,57.639736,-6.274133,481,3000,skye_noroeste,high,nominatim/nominatim_bounded,ok
 europa_occidental.csv,122,Highlands,Fort William Town,Fort William,Pueblo,56.820558,-5.105313,56.817826,-5.110952,458,1500,fort_william,high,nominatim/nominatim_free,ok
 europa_occidental.csv,144,Highlands,Elgol,Elgol,Paisaje,57.152323,-6.098404,57.149235,-6.101430,389,2500,skye_sur,high,nominatim/nominatim_bounded,ok
