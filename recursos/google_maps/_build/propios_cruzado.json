@@ -7311,9 +7311,10 @@
   "precio": "~€7",
   "notas": "Uno de los jardines botánicos más importantes de Europa; ficus macrophylla gigantes, palmeras, invernaderos neoclásicos. (~€7, verificar)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.111233,
+  "lng": 13.374078,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--villa-giulia",
@@ -7334,9 +7335,10 @@
   "precio": "",
   "notas": "Jardín geométrico del s. XVIII pegado al Orto Botanico. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.113496,
+  "lng": 13.375608,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--giardino-inglese",
@@ -7357,9 +7359,10 @@
   "precio": "",
   "notas": "Parque grande en la zona moderna (Libertà). GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.131251,
+  "lng": 13.352295,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--parco-della-favorita",
@@ -7380,9 +7383,10 @@
   "precio": "",
   "notas": "Parque enorme al pie de Monte Pellegrino, con Palazzina Cinese (capricho orientalista de los Borbones) y Museo Pitrè (etnográfico). Parque GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.159711,
+  "lng": 13.339973,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--riserva-naturale-di-capo-gallo",
@@ -7426,9 +7430,10 @@
   "precio": "€1.60",
   "notas": "Playa art nouveau de Palermo con su icónico *stabilimento* sobre pilotes. En noviembre no es de baño, pero el paseo, el pueblo y los pescados valen. Bus 806 (€1.60)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.206214,
+  "lng": 13.324552,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--danisinni",
@@ -7442,16 +7447,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Danisinni",
-  "nombre_local": "Danisinni",
+  "nombre_local": "Via Danisinni",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Barrio marginal reconvertido con huerta social, murales y un circo comunitario. Visita con sentido; hay recorridos guiados solidarios",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.111911,
+  "lng": 13.347402,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--cripta-dei-cappuccini-vs-catacumbas",
@@ -7557,16 +7563,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Stanze al Genio",
-  "nombre_local": "Stanze al Genio",
+  "nombre_local": "Museo delle maioliche \"Stanze al genio\"",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "~€7",
   "notas": "Casa-museo privada con 5.000 azulejos mayólicos sicilianos y napolitanos de los s. XV-XX. Visita guiada con reserva. (~€7)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.112911,
+  "lng": 13.367352,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--bagni-arabi-di-cefala-diana",
@@ -7656,9 +7663,10 @@
   "precio": "~€5",
   "notas": "Termas romanas de los siglos III-V bajo la Piazza del Duomo. Se entra por una puertita al lado de la catedral: hay que sacar el ticket en el Museo Diocesano y alguien baja a abrir la reja. M",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502161,
+  "lng": 15.087669,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--museo-diocesano",
@@ -7679,9 +7687,10 @@
   "precio": "€14",
   "notas": "Terrazas con vista a la Piazza del Duomo desde arriba, más restos romanos. (incluido en el combinado de €14)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.501936,
+  "lng": 15.08771,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--anfiteatro-romano-piazza-stesicoro",
@@ -7702,9 +7711,10 @@
   "precio": "",
   "notas": "Anfiteatro del s. II d.C. del que solo aflora una esquina en medio de la plaza; el resto sigue bajo la ciudad. Se ve gratis desde arriba; acceso al interior con visita.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.507408,
+  "lng": 15.085427,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--castello-ursino",
@@ -7725,9 +7735,10 @@
   "precio": "~€6-10",
   "notas": "Castillo de Federico II (s. XIII) que antes estaba junto al mar y hoy está tierra adentro: la lava de 1669 ganó terreno al agua a su alrededor. Museo Cívico adentro. (~€6-10)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.498969,
+  "lng": 15.084386,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--museo-civico-belliniano-casa-natal-de-bellini",
@@ -7764,16 +7775,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Atracciones Pagadas",
   "nombre": "Museo dello Sbarco in Sicilia 1943",
-  "nombre_local": "Museo dello Sbarco in Sicilia 1943",
+  "nombre_local": "Museo storico dello sbarco in Sicilia 1943",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€5-8",
   "notas": "Museo del desembarco aliado en Sicilia, con reconstrucción de un refugio antiaéreo y sirenas. Muy bien hecho y casi vacío. (~€5-8)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.508758,
+  "lng": 15.102577,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--palazzo-biscari",
@@ -7794,9 +7806,10 @@
   "precio": "~€10",
   "notas": "El palacio privado más espectacular del barroco catanés; salón de baile rococó. Solo con visita guiada y reserva previa. (~€10)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502049,
+  "lng": 15.090174,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--museo-emilio-greco",
@@ -7817,9 +7830,10 @@
   "precio": "~€4-6",
   "notas": "y Palazzo della Cultura - Exposiciones temporales en el centro. (~€4-6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502739,
+  "lng": 15.084335,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--cattedrale-di-sant-agata",
@@ -7840,9 +7854,10 @@
   "precio": "",
   "notas": "Fachada de Vaccarini en dos colores (lava negra + caliza blanca). Adentro está la tumba de Bellini y la capilla de Santa Águeda con su relicario. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502518,
+  "lng": 15.088238,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--chiesa-della-badia-di-sant-agata-cupula",
@@ -7879,16 +7894,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y barroco",
   "nombre": "Via dei Crociferi",
-  "nombre_local": "Via dei Crociferi",
+  "nombre_local": "Caffè dei Crociferi",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Cuatro iglesias barrocas en 200 metros de calle, con arco incluido. Considerada la calle barroca más armónica de Sicilia. GRATIS pasear; San Benedetto y San Giuliano (con mirador en la cúpul",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.505224,
+  "lng": 15.084904,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--chiesa-di-san-nicolo-l-arena",
@@ -8139,9 +8155,10 @@
   "precio": "",
   "notas": "Eje comercial de 3 km, peatonal en tramos, del Duomo al Giardino Bellini. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.514932,
+  "lng": 15.084382,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--piazza-universita",
@@ -8155,16 +8172,17 @@
   "region": "sur",
   "seccion": "🚶 Barrios y callejeo (gratis)",
   "nombre": "Piazza Università",
-  "nombre_local": "Piazza Università",
+  "nombre_local": "Piazza dell'Università",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Palacios universitarios y los \"candelabros\" con leyendas catanesas grabadas. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.503651,
+  "lng": 15.087162,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--san-berillo",
@@ -8185,9 +8203,10 @@
   "precio": "",
   "notas": "Ex barrio de burdeles demolido a medias en los 50, hoy zona de arte urbano, bares alternativos y tensión social. Interesante de día; de noche, con criterio. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.506342,
+  "lng": 15.090613,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--porto-e-molo",
@@ -8231,9 +8250,10 @@
   "precio": "",
   "notas": "Barrio pesquero al norte, con caleta bajo acantilados de lava. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.529051,
+  "lng": 15.113218,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--barrio-de-antico-corso",
@@ -8277,9 +8297,10 @@
   "precio": "",
   "notas": "El parque histórico de la ciudad, en Via Etnea: palmeras, terrazas y un reloj hecho con flores. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.509963,
+  "lng": 15.085754,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--la-playa-lido",
@@ -8293,16 +8314,17 @@
   "region": "sur",
   "seccion": "🌿 Parques, mar y naturaleza",
   "nombre": "La Playa (Lido)",
-  "nombre_local": "La Playa",
+  "nombre_local": "Bowling La Playa",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "18 km de playa de arena al sur de la ciudad. En noviembre, para caminar. Bus desde el centro. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.487613,
+  "lng": 15.083752,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--scogliera-di-san-giovanni-li-cuti",
@@ -8392,9 +8414,10 @@
   "precio": "~€10-20",
   "notas": "Ópera neobarroca de 1890 con acústica célebre. Entradas de gallinero desde ~€10-20; visitas guiadas al teatro (~€6-8)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.504157,
+  "lng": 15.089827,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--opera-dei-pupi-teatro-marionettistico-fratelli-napoli",
@@ -8507,9 +8530,10 @@
   "precio": "",
   "notas": "Ex fábrica de azufre con chimeneas de ladrillo, hoy centro de congresos y museos (incluido el del Desembarco).",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.509094,
+  "lng": 15.102486,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--excavaciones-bajo-el-monasterio",
@@ -8622,9 +8646,10 @@
   "precio": "",
   "notas": "Uno de los teatros griegos más grandes del mundo antiguo, tallado directamente en la roca viva (s. V a.C.). Aquí se estrenaron obras de Esquilo con él presente. En primavera todavía se repre",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.076011,
+  "lng": 15.275025,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--orecchio-di-dionisio",
@@ -8645,9 +8670,10 @@
   "precio": "",
   "notas": "Cueva artificial de 23 m de alto con forma de oreja y acústica extraordinaria. Caravaggio le puso el nombre en 1608 al oír la leyenda de que el tirano Dionisio espiaba desde arriba a los pri",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.076343,
+  "lng": 15.275518,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--latomia-del-paradiso",
@@ -8668,9 +8694,10 @@
   "precio": "",
   "notas": "Las canteras de piedra donde trabajaron (y murieron) los prisioneros atenienses de la expedición del 413 a.C., hoy convertidas en un jardín hundido de cítricos y magnolias.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.076496,
+  "lng": 15.27681,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--anfiteatro-romano",
@@ -8684,16 +8711,17 @@
   "region": "sur",
   "seccion": "🏛️ Parco Archeologico della Neapolis",
   "nombre": "Anfiteatro Romano",
-  "nombre_local": "Anfiteatro Romano",
+  "nombre_local": "Anfiteatro romano",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Enorme, parcialmente excavado en roca, con el canal central para las naumaquias.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.074222,
+  "lng": 15.279224,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--ara-di-ierone-ii",
@@ -8730,16 +8758,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos",
   "nombre": "Museo Archeologico Regionale Paolo Orsi",
-  "nombre_local": "Museo Archeologico Regionale Paolo Orsi",
+  "nombre_local": "Museo archeologico regionale Paolo Orsi",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€10",
   "notas": "Uno de los museos arqueológicos más importantes de Italia: prehistoria siciliana, colonización griega, la Venus Landolina (Afrodita anadiomena sin cabeza, de las esculturas más célebres de S",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.076461,
+  "lng": 15.286261,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--galleria-regionale-di-palazzo-bellomo",
@@ -8776,16 +8805,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos",
   "nombre": "Museo del Papiro \"Corrado Basile\"",
-  "nombre_local": "Museo del Papiro \"Corrado Basile\"",
+  "nombre_local": "Museo del Papiro Corrado Basile",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€5",
   "notas": "Siracusa es el único lugar de Europa donde crece papiro silvestre (en el río Ciane). Museo chico y raro sobre el papiro y su fabricación. (~€5)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.060495,
+  "lng": 15.298086,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--tecnoparco-archimede-museo-di-archimede",
@@ -8845,16 +8875,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Duomo di Siracusa",
-  "nombre_local": "Duomo di Siracusa",
+  "nombre_local": "Ipogeo di piazza Duomo",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€2",
   "notas": "Una catedral construida dentro de un templo griego: las columnas dóricas del Templo de Atenea (s. V a.C.) siguen embutidas en los muros y se ven desde adentro y desde afuera. 2.500 años de a",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.05922,
+  "lng": 15.293168,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--piazza-del-duomo",
@@ -8868,16 +8899,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Piazza del Duomo",
-  "nombre_local": "Piazza del Duomo",
+  "nombre_local": "Piazza Duomo",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Explanada de piedra caliza blanca rodeada de palacios barrocos, considerada una de las plazas más bellas de Italia. Deslumbrante al mediodía y mágica de noche. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.059473,
+  "lng": 15.293114,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--ipogeo-di-piazza-duomo",
@@ -8891,16 +8923,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Ipogeo di Piazza Duomo",
-  "nombre_local": "Ipogeo di Piazza Duomo",
+  "nombre_local": "Ipogeo di piazza Duomo",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "€2",
   "notas": "Red de túneles bajo la plaza, ampliados como refugio antiaéreo en 1943; se sale al mar por el otro extremo. (€2)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.05922,
+  "lng": 15.293168,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--catacombe-di-san-giovanni",
@@ -8921,9 +8954,10 @@
   "precio": "€10",
   "notas": "Las catacumbas cristianas más importantes de Sicilia, excavadas sobre un acueducto griego. Solo con visita guiada (~30 min). Arriba, la basílica de San Giovanni, en ruinas y sin techo, y la ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.076799,
+  "lng": 15.284856,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--santa-lucia-alla-badia",
@@ -8937,16 +8971,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Santa Lucia alla Badia",
-  "nombre_local": "Santa Lucia alla Badia",
+  "nombre_local": "Chiesa di Santa Lucia alla Badia",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€3",
   "notas": "Iglesia barroca en la Piazza del Duomo que alberga (o albergó) *El entierro de Santa Lucía* de Caravaggio, pintado en Siracusa en 1608 durante su fuga. Verificar dónde está expuesto en 2026.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.058416,
+  "lng": 15.293281,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--basilica-santuario-madonna-delle-lacrime",
@@ -8983,16 +9018,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Catacombe di Santa Lucia",
-  "nombre_local": "Catacombe di Santa Lucia",
+  "nombre_local": "Chiesa di San Giovanni alle Catacombe",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€6-8",
   "notas": "Segundo complejo de catacumbas, bajo la basílica de Santa Lucía al Sepolcro. (~€6-8; verificar apertura)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.077041,
+  "lng": 15.284478,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--chiesa-di-san-filippo-apostolo-giudecca",
@@ -9013,9 +9049,10 @@
   "precio": "~€5",
   "notas": "Iglesia sobre el antiguo barrio judío, con miqveh (baño ritual) subterráneo. (~€5)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.060248,
+  "lng": 15.296693,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--miqwe-bagno-ebraico-di-ortigia",
@@ -9059,9 +9096,10 @@
   "precio": "€9",
   "notas": "Fortaleza de Federico II (1240) en la punta extrema de la isla, rodeada de mar por tres lados. Sala hipóstila enorme. (€9; cerrado los lunes, horario 8:30-13:30 — verificar ampliación)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.053415,
+  "lng": 15.295635,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--fonte-aretusa",
@@ -9082,9 +9120,10 @@
   "precio": "",
   "notas": "Manantial de agua dulce a metros del mar donde crece papiro silvestre, único en Europa. Según el mito, la ninfa Aretusa huyó de Grecia y emergió aquí. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.057269,
+  "lng": 15.292913,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--tempio-di-apollo",
@@ -9105,9 +9144,10 @@
   "precio": "",
   "notas": "El templo dórico más antiguo de Sicilia (s. VI a.C.), en ruinas al pie del puente de entrada. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.06403,
+  "lng": 15.293019,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--mercato-di-ortigia",
@@ -9121,16 +9161,17 @@
   "region": "sur",
   "seccion": "🏰 Ortigia",
   "nombre": "Mercato di Ortigia",
-  "nombre_local": "Mercato di Ortigia",
+  "nombre_local": "Al Mercato di Ortigia",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "€8-12",
   "notas": "Mercado de mañana en Via Trento: pescado, quesos, especias, y Caseificio Borderi, el puesto de sándwiches más famoso de Sicilia (cola larga, sándwiches gigantes, €8-12). GRATIS entrar",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.065533,
+  "lng": 15.293485,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--lungomare-di-levante-y-lungomare-d-ortigia",
@@ -9167,16 +9208,17 @@
   "region": "sur",
   "seccion": "🏰 Ortigia",
   "nombre": "La Giudecca",
-  "nombre_local": "La Giudecca",
+  "nombre_local": "La Via della Giudecca",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El barrio judío medieval: callejones estrechísimos, la calle más angosta de la isla. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.060139,
+  "lng": 15.296557,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--piazza-archimede-fontana-di-diana",
@@ -9305,16 +9347,17 @@
   "region": "sur",
   "seccion": "🌿 Naturaleza y mar",
   "nombre": "Plemmirio (Area Marina Protetta)",
-  "nombre_local": "Plemmirio",
+  "nombre_local": "Area marina protetta Plemmirio",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Cabo al sur de la ciudad con acantilados calcáreos y senderos costeros. Requiere auto o bici. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.016906,
+  "lng": 15.341641,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--spiaggia-di-fontane-bianche",
@@ -9335,9 +9378,10 @@
   "precio": "",
   "notas": "Playa de arena blanca a 20 min al sur. Fuera de temporada, vacía",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.961817,
+  "lng": 15.2065,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--teatro-greco-temporada-de-tragedia",
@@ -9450,9 +9494,10 @@
   "precio": "~€4-6",
   "notas": "La fortificación griega más completa que se conserva del mundo antiguo, en Belvedere (8 km): torres, fosos y túneles subterráneos recorribles, diseñados en tiempos de Dionisio I. Casi nadie ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.092166,
+  "lng": 15.224096,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--ginnasio-romano",
@@ -9466,16 +9511,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Ginnasio Romano",
-  "nombre_local": "Ginnasio Romano",
+  "nombre_local": "Ginnasio romano",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Pequeño teatro y templo romano semiinundado, en el barrio de la Marina. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.067586,
+  "lng": 15.28038,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--necropoli-di-pantalica",
@@ -9519,9 +9565,10 @@
   "precio": "",
   "notas": "Cantera-jardín menos visitada que la del Paradiso, con paredes de 30 m",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.079445,
+  "lng": 15.295263,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--cripta-di-san-marciano",
@@ -9588,9 +9635,10 @@
   "precio": "",
   "notas": "El templo griego mejor conservado del mundo después del Teseión de Atenas (450-440 a.C.). Se salvó porque en el s. VI se convirtió en iglesia cristiana. De noche está iluminado y se ve desde",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.289656,
+  "lng": 13.592072,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--tempio-di-giunone-hera-lacinia",
@@ -9604,16 +9652,17 @@
   "region": "sur",
   "seccion": "🏛️ Valle dei Templi (el motivo del viaje)",
   "nombre": "Tempio di Giunone (Hera Lacinia)",
-  "nombre_local": "Tempio di Giunone",
+  "nombre_local": "Tempio di Giunone (Hera Lacinia)",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "En el extremo alto de la cresta; conserva restos del incendio cartaginés del 406 a.C. Vistas de todo el valle",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.288594,
+  "lng": 13.600145,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--tempio-di-ercole-heracles",
@@ -9634,9 +9683,10 @@
   "precio": "",
   "notas": "El más antiguo del valle (fines del s. VI a.C.); ocho columnas reerigidas en 1924 por un aristócrata inglés",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.29019,
+  "lng": 13.586292,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--tempio-di-zeus-olimpico",
@@ -9657,9 +9707,10 @@
   "precio": "",
   "notas": "Iba a ser el templo dórico más grande jamás construido (112 × 56 m); quedó inacabado y hoy es un campo de bloques ciclópeos. Ahí está el Telamón, atlante de 8 m tumbado en el suelo",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.290366,
+  "lng": 13.585046,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--tempio-dei-dioscuri-castore-e-polluce",
@@ -9680,9 +9731,10 @@
   "precio": "",
   "notas": "Las cuatro columnas con el ángulo del entablamento: el símbolo gráfico de Sicilia",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.291327,
+  "lng": 13.58156,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--giardino-della-kolymbethra",
@@ -9719,16 +9771,17 @@
   "region": "sur",
   "seccion": "🏛️ Valle dei Templi (el motivo del viaje)",
   "nombre": "Quartiere Ellenistico-Romano",
-  "nombre_local": "Quartiere Ellenistico-Romano",
+  "nombre_local": "Quartiere Ellenistico Romano",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Trazado urbano con casas, mosaicos y cloacas: la ciudad donde la gente vivía, no solo los templos",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.297519,
+  "lng": 13.591789,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--necropoli-paleocristiana-y-tomba-di-terone",
@@ -9765,16 +9818,17 @@
   "region": "sur",
   "seccion": "🏛️ Valle dei Templi (el motivo del viaje)",
   "nombre": "Santuario delle Divinità Ctonie",
-  "nombre_local": "Santuario delle Divinità Ctonie",
+  "nombre_local": "Santuario delle divinità Ctonie",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Templos de Deméter y Perséfone, culto agrícola",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.291569,
+  "lng": 13.581261,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--museo-archeologico-regionale-pietro-griffo",
@@ -9788,16 +9842,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos",
   "nombre": "Museo Archeologico Regionale \"Pietro Griffo\"",
-  "nombre_local": "Museo Archeologico Regionale \"Pietro Griffo\"",
+  "nombre_local": "Museo Archeologico Regionale Pietro Griffo",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€22",
   "notas": "Uno de los mejores museos arqueológicos de Italia: el Telamón reconstruido de pie (8 m), el *Efebo de Agrigento*, cerámica ática de primer nivel y todo el material del valle. Es el complemen",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.297076,
+  "lng": 13.589154,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--casa-museo-di-luigi-pirandello",

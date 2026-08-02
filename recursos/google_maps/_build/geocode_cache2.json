@@ -28723,5 +28723,3725 @@
     "rank": 0
    }
   ]
+ },
+ "palermo::murales urbanos": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::orto botanico": {
+  "ok": true,
+  "lat": 38.111233,
+  "lng": 13.374078,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.79,
+  "name": "Orto Botanico",
+  "locality": "Palermo",
+  "osm_class": "leisure=park",
+  "wikidata": "Q894656",
+  "display": "Orto Botanico, 2, II Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1112335,
+    "lng": 13.3740783,
+    "name": "Orto Botanico",
+    "source": "nominatim",
+    "osm_id": "way/24701808",
+    "wikidata": "Q894656",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Orto Botanico, 2, II Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Orto Botanico"
+    ],
+    "importance": 0.38885241757642924,
+    "rank": 0
+   },
+   {
+    "lat": 38.1112335,
+    "lng": 13.3740783,
+    "name": "Orto Botanico",
+    "source": "nominatim",
+    "osm_id": "way/24701808",
+    "wikidata": "Q894656",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Orto Botanico, 2, II Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Orto Botanico"
+    ],
+    "importance": 0.38885241757642924,
+    "rank": 0
+   },
+   {
+    "lat": 38.1112335,
+    "lng": 13.3740783,
+    "name": "Orto Botanico",
+    "source": "nominatim",
+    "osm_id": "way/24701808",
+    "wikidata": "Q894656",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Orto Botanico, 2, II Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Orto Botanico"
+    ],
+    "importance": 0.38885241757642924,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::villa giulia": {
+  "ok": true,
+  "lat": 38.113496,
+  "lng": 13.375608,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.78,
+  "name": "Villa Giulia",
+  "locality": "Palermo",
+  "osm_class": "leisure=park",
+  "wikidata": "Q1291579",
+  "display": "Villa Giulia, II Circoscrizione, Palermo, Sicilia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1134959,
+    "lng": 13.3756082,
+    "name": "Villa Giulia",
+    "source": "nominatim",
+    "osm_id": "way/23481108",
+    "wikidata": "Q1291579",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Villa Giulia, II Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Villa Giulia"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 0
+   },
+   {
+    "lat": 38.1134959,
+    "lng": 13.3756082,
+    "name": "Villa Giulia",
+    "source": "nominatim",
+    "osm_id": "way/23481108",
+    "wikidata": "Q1291579",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Villa Giulia, II Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Villa Giulia"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 3
+   },
+   {
+    "lat": 38.1134959,
+    "lng": 13.3756082,
+    "name": "Villa Giulia",
+    "source": "nominatim",
+    "osm_id": "way/23481108",
+    "wikidata": "Q1291579",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Villa Giulia, II Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Villa Giulia"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::giardino inglese": {
+  "ok": true,
+  "lat": 38.131251,
+  "lng": 13.352295,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.758,
+  "name": "Giardino Inglese",
+  "locality": "Palermo",
+  "osm_class": "leisure=playground",
+  "wikidata": "",
+  "display": "Giardino Inglese, Via delle Croci, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1312509,
+    "lng": 13.3522947,
+    "name": "Giardino Inglese",
+    "source": "nominatim",
+    "osm_id": "node/5276120124",
+    "wikidata": "",
+    "osm_class": "leisure=playground",
+    "locality": "Palermo",
+    "display": "Giardino Inglese, Via delle Croci, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Giardino Inglese"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   },
+   {
+    "lat": 38.1312509,
+    "lng": 13.3522947,
+    "name": "Giardino Inglese",
+    "source": "nominatim",
+    "osm_id": "node/5276120124",
+    "wikidata": "",
+    "osm_class": "leisure=playground",
+    "locality": "Palermo",
+    "display": "Giardino Inglese, Via delle Croci, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Giardino Inglese"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 1
+   },
+   {
+    "lat": 38.1312509,
+    "lng": 13.3522947,
+    "name": "Giardino Inglese",
+    "source": "nominatim",
+    "osm_id": "node/5276120124",
+    "wikidata": "",
+    "osm_class": "leisure=playground",
+    "locality": "Palermo",
+    "display": "Giardino Inglese, Via delle Croci, VIII Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Giardino Inglese"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::parco della favorita": {
+  "ok": true,
+  "lat": 38.159711,
+  "lng": 13.339973,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.759,
+  "name": "Parco della Favorita",
+  "locality": "Palermo",
+  "osm_class": "leisure=park",
+  "wikidata": "Q775878",
+  "display": "Parco della Favorita, Palermo, Sicilia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.159711,
+    "lng": 13.3399734,
+    "name": "Parco della Favorita",
+    "source": "nominatim",
+    "osm_id": "way/305542200",
+    "wikidata": "Q775878",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Parco della Favorita, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Parco della Favorita"
+    ],
+    "importance": 0.2961343492019334,
+    "rank": 0
+   },
+   {
+    "lat": 38.159711,
+    "lng": 13.3399734,
+    "name": "Parco della Favorita",
+    "source": "nominatim",
+    "osm_id": "way/305542200",
+    "wikidata": "Q775878",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Parco della Favorita, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Parco della Favorita"
+    ],
+    "importance": 0.2961343492019334,
+    "rank": 0
+   },
+   {
+    "lat": 38.159711,
+    "lng": 13.3399734,
+    "name": "Parco della Favorita",
+    "source": "nominatim",
+    "osm_id": "way/305542200",
+    "wikidata": "Q775878",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Parco della Favorita, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Parco della Favorita"
+    ],
+    "importance": 0.2961343492019334,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::riserva naturale di capo gallo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::mondello": {
+  "ok": true,
+  "lat": 38.206214,
+  "lng": 13.324552,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.732,
+  "name": "Mondello",
+  "locality": "Palermo",
+  "osm_class": "place=suburb",
+  "wikidata": "Q1082173",
+  "display": "Mondello, VII Circoscrizione, Palermo, Sicilia, 90151, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.2062142,
+    "lng": 13.3245517,
+    "name": "Mondello",
+    "source": "nominatim",
+    "osm_id": "node/271082138",
+    "wikidata": "Q1082173",
+    "osm_class": "place=suburb",
+    "locality": "Palermo",
+    "display": "Mondello, VII Circoscrizione, Palermo, Sicilia, 90151, Italia",
+    "names_all": [
+     "Mondello"
+    ],
+    "importance": 0.36541948668891217,
+    "rank": 0
+   },
+   {
+    "lat": 38.2062142,
+    "lng": 13.3245517,
+    "name": "Mondello",
+    "source": "nominatim",
+    "osm_id": "node/271082138",
+    "wikidata": "Q1082173",
+    "osm_class": "place=suburb",
+    "locality": "Palermo",
+    "display": "Mondello, VII Circoscrizione, Palermo, Sicilia, 90151, Italia",
+    "names_all": [
+     "Mondello"
+    ],
+    "importance": 0.36541948668891217,
+    "rank": 0
+   },
+   {
+    "lat": 38.2062142,
+    "lng": 13.3245517,
+    "name": "Mondello",
+    "source": "nominatim",
+    "osm_id": "node/271082138",
+    "wikidata": "Q1082173",
+    "osm_class": "place=suburb",
+    "locality": "Palermo",
+    "display": "Mondello, VII Circoscrizione, Palermo, Sicilia, 90151, Italia",
+    "names_all": [
+     "Mondello"
+    ],
+    "importance": 0.36541948668891217,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::danisinni": {
+  "ok": true,
+  "lat": 38.111911,
+  "lng": 13.347402,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.677,
+  "name": "Via Danisinni",
+  "locality": "Palermo",
+  "osm_class": "highway=residential",
+  "wikidata": "",
+  "display": "Via Danisinni, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90138, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.1119112,
+    "lng": 13.3474018,
+    "name": "Via Danisinni",
+    "source": "nominatim",
+    "osm_id": "way/48918381",
+    "wikidata": "",
+    "osm_class": "highway=residential",
+    "locality": "Palermo",
+    "display": "Via Danisinni, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Via Danisinni"
+    ],
+    "importance": 0.053408945601586905,
+    "rank": 0
+   },
+   {
+    "lat": 38.1119112,
+    "lng": 13.3474018,
+    "name": "Via Danisinni",
+    "source": "nominatim",
+    "osm_id": "way/48918381",
+    "wikidata": "",
+    "osm_class": "highway=residential",
+    "locality": "Palermo",
+    "display": "Via Danisinni, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Via Danisinni"
+    ],
+    "importance": 0.053408945601586905,
+    "rank": 0
+   },
+   {
+    "lat": 38.1119112,
+    "lng": 13.3474018,
+    "name": "Via Danisinni",
+    "source": "nominatim",
+    "osm_id": "way/48918381",
+    "wikidata": "",
+    "osm_class": "highway=residential",
+    "locality": "Palermo",
+    "display": "Via Danisinni, Villaggio Santa Rosalia, IV Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Via Danisinni"
+    ],
+    "importance": 0.053408945601586905,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::cripta dei cappuccini vs catacumbas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::antico mercato di santanna antiquariato": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::tre erre": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::cimitero dei rotoli cimitero di santorsola": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::stanze al genio": {
+  "ok": true,
+  "lat": 38.112911,
+  "lng": 13.367352,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.789,
+  "name": "Museo delle maioliche \"Stanze al genio\"",
+  "locality": "Palermo",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3968266",
+  "display": "Museo delle maioliche \"Stanze al genio\", 11, Via Giuseppe Garibaldi, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1129109,
+    "lng": 13.367352,
+    "name": "Museo delle maioliche \"Stanze al genio\"",
+    "source": "nominatim",
+    "osm_id": "node/2577229586",
+    "wikidata": "Q3968266",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Museo delle maioliche \"Stanze al genio\", 11, Via Giuseppe Garibaldi, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Museo delle maioliche \"Stanze al genio\""
+    ],
+    "importance": 0.32901661879114147,
+    "rank": 0
+   },
+   {
+    "lat": 38.1129109,
+    "lng": 13.367352,
+    "name": "Museo delle maioliche \"Stanze al genio\"",
+    "source": "nominatim",
+    "osm_id": "node/2577229586",
+    "wikidata": "Q3968266",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Museo delle maioliche \"Stanze al genio\", 11, Via Giuseppe Garibaldi, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Museo delle maioliche \"Stanze al genio\""
+    ],
+    "importance": 0.32901661879114147,
+    "rank": 0
+   },
+   {
+    "lat": 38.1129109,
+    "lng": 13.367352,
+    "name": "Museo delle maioliche \"Stanze al genio\"",
+    "source": "nominatim",
+    "osm_id": "node/2577229586",
+    "wikidata": "Q3968266",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Museo delle maioliche \"Stanze al genio\", 11, Via Giuseppe Garibaldi, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Museo delle maioliche \"Stanze al genio\""
+    ],
+    "importance": 0.32901661879114147,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::bagni arabi di cefala diana": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::monastero dei benedettini di san nicolo larena": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::teatro greco romano odeon": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::terme achilliane": {
+  "ok": true,
+  "lat": 37.502161,
+  "lng": 15.087669,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.857,
+  "name": "Terme Achilliane",
+  "locality": "Catania",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q3984379",
+  "display": "Terme Achilliane, Via Etnea, Giudecca, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.502161,
+    "lng": 15.087669,
+    "name": "Terme Achilliane",
+    "source": "nominatim",
+    "osm_id": "node/1178588235",
+    "wikidata": "Q3984379",
+    "osm_class": "tourism=attraction",
+    "locality": "Catania",
+    "display": "Terme Achilliane, Via Etnea, Giudecca, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "Terme Achilliane"
+    ],
+    "importance": 0.35323154899007886,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::museo diocesano": {
+  "ok": true,
+  "lat": 37.501936,
+  "lng": 15.08771,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.924,
+  "name": "Museo Diocesano",
+  "locality": "Catania",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1954236",
+  "display": "Museo Diocesano, 8, Via Etnea, Giudecca, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.501936,
+    "lng": 15.0877099,
+    "name": "Museo Diocesano",
+    "source": "nominatim",
+    "osm_id": "node/338966369",
+    "wikidata": "Q1954236",
+    "osm_class": "tourism=museum",
+    "locality": "Catania",
+    "display": "Museo Diocesano, 8, Via Etnea, Giudecca, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "Museo Diocesano"
+    ],
+    "importance": 0.36712697163315744,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::anfiteatro romano": {
+  "ok": true,
+  "lat": 37.507408,
+  "lng": 15.085427,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.863,
+  "name": "Anfiteatro Romano",
+  "locality": "Catania",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q2844406",
+  "display": "Anfiteatro Romano, Piazza Stesicoro, San Berillo, Centro storico, Catania, Sicilia, 95124, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5074083,
+    "lng": 15.085427,
+    "name": "Anfiteatro Romano",
+    "source": "nominatim",
+    "osm_id": "way/25380983",
+    "wikidata": "Q2844406",
+    "osm_class": "tourism=attraction",
+    "locality": "Catania",
+    "display": "Anfiteatro Romano, Piazza Stesicoro, San Berillo, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Anfiteatro Romano"
+    ],
+    "importance": 0.40082154709367696,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::castello ursino": {
+  "ok": true,
+  "lat": 37.498969,
+  "lng": 15.084386,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.859,
+  "name": "Castello Ursino",
+  "locality": "Catania",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q1048850",
+  "display": "Castello Ursino, Piazza Federico di Svevia, Giudecca, Centro storico, Catania, Sicilia, 95121, Italia",
+  "reason": "nominatim_sin_localidad",
+  "alternatives": [
+   {
+    "lat": 37.4989686,
+    "lng": 15.084386,
+    "name": "Castello Ursino",
+    "source": "nominatim",
+    "osm_id": "relation/6142636",
+    "wikidata": "Q1048850",
+    "osm_class": "historic=castle",
+    "locality": "Catania",
+    "display": "Castello Ursino, Piazza Federico di Svevia, Giudecca, Centro storico, Catania, Sicilia, 95121, Italia",
+    "names_all": [
+     "Castello Ursino"
+    ],
+    "importance": 0.406866891643569,
+    "rank": 0
+   },
+   {
+    "lat": 37.4989686,
+    "lng": 15.084386,
+    "name": "Castello Ursino",
+    "source": "nominatim",
+    "osm_id": "relation/6142636",
+    "wikidata": "Q1048850",
+    "osm_class": "tourism=attraction",
+    "locality": "Catania",
+    "display": "Castello Ursino, Piazza Federico di Svevia, Giudecca, Centro storico, Catania, Sicilia, 95121, Italia",
+    "names_all": [
+     "Castello Ursino"
+    ],
+    "importance": 0.406866891643569,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::casa natal de bellini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::museo dello sbarco in sicilia 1943": {
+  "ok": true,
+  "lat": 37.508758,
+  "lng": 15.102577,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Museo storico dello sbarco in Sicilia 1943",
+  "locality": "Catania",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q55359562",
+  "display": "Museo storico dello sbarco in Sicilia 1943, Viale Africa, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5087577,
+    "lng": 15.1025771,
+    "name": "Museo storico dello sbarco in Sicilia 1943",
+    "source": "nominatim",
+    "osm_id": "node/11503679583",
+    "wikidata": "Q55359562",
+    "osm_class": "tourism=museum",
+    "locality": "Catania",
+    "display": "Museo storico dello sbarco in Sicilia 1943, Viale Africa, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+    "names_all": [
+     "Museo storico dello sbarco in Sicilia 1943"
+    ],
+    "importance": 0.3623846332493779,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::palazzo biscari": {
+  "ok": true,
+  "lat": 37.502049,
+  "lng": 15.090174,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.923,
+  "name": "Palazzo Biscari",
+  "locality": "Catania",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1459750",
+  "display": "Palazzo Biscari, Piazza Cardinale Pappalardo, Civita, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5020486,
+    "lng": 15.0901742,
+    "name": "Palazzo Biscari",
+    "source": "nominatim",
+    "osm_id": "relation/62858",
+    "wikidata": "Q1459750",
+    "osm_class": "tourism=museum",
+    "locality": "Catania",
+    "display": "Palazzo Biscari, Piazza Cardinale Pappalardo, Civita, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "Palazzo Biscari"
+    ],
+    "importance": 0.3694915076724792,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::museo emilio greco": {
+  "ok": true,
+  "lat": 37.502739,
+  "lng": 15.084335,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.924,
+  "name": "Museo Emilio Greco",
+  "locality": "Catania",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3867598",
+  "display": "Museo Emilio Greco, Piazza Francesco d'Assisi, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5027391,
+    "lng": 15.0843347,
+    "name": "Museo Emilio Greco",
+    "source": "nominatim",
+    "osm_id": "node/1637469674",
+    "wikidata": "Q3867598",
+    "osm_class": "tourism=museum",
+    "locality": "Catania",
+    "display": "Museo Emilio Greco, Piazza Francesco d'Assisi, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Museo Emilio Greco"
+    ],
+    "importance": 0.3644234137366019,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::cattedrale di santagata": {
+  "ok": true,
+  "lat": 37.502518,
+  "lng": 15.088238,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.928,
+  "name": "Cattedrale di Sant'Agata",
+  "locality": "Catania",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1499188",
+  "display": "Cattedrale di Sant'Agata, Via Vittorio Emanuele Secondo, Civita, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5025178,
+    "lng": 15.0882384,
+    "name": "Cattedrale di Sant'Agata",
+    "source": "nominatim",
+    "osm_id": "way/58102740",
+    "wikidata": "Q1499188",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Catania",
+    "display": "Cattedrale di Sant'Agata, Via Vittorio Emanuele Secondo, Civita, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "Cattedrale di Sant'Agata"
+    ],
+    "importance": 0.4247821346186361,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::chiesa della badia di santagata cupula": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::via dei crociferi": {
+  "ok": true,
+  "lat": 37.505224,
+  "lng": 15.084904,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.755,
+  "name": "Caffè dei Crociferi",
+  "locality": "Catania",
+  "osm_class": "amenity=cafe",
+  "wikidata": "",
+  "display": "Caffè dei Crociferi, Via Crociferi, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5052236,
+    "lng": 15.0849044,
+    "name": "Caffè dei Crociferi",
+    "source": "nominatim",
+    "osm_id": "node/8964395288",
+    "wikidata": "",
+    "osm_class": "amenity=cafe",
+    "locality": "Catania",
+    "display": "Caffè dei Crociferi, Via Crociferi, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Caffè dei Crociferi"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "catania::chiesa di san nicolo larena": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::santuario basilica maria ss annunziata al carmine": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::a piscaria": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::fera o luni": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::comer dentro de la pescheria": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::cupula de la badia di santagata": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::cupula de san giuliano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::via etnea mirando al norte": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::terrazas del museo diocesano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::piazza del duomo fontana dellelefante": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::via etnea": {
+  "ok": true,
+  "lat": 37.514932,
+  "lng": 15.084382,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.764,
+  "name": "Via Etnea",
+  "locality": "Catania",
+  "osm_class": "highway=primary",
+  "wikidata": "Q2521663",
+  "display": "Via Etnea, Monserrato, Borgo, Borgo-Sanzio, Catania, Sicilia, 95125, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5149315,
+    "lng": 15.084382,
+    "name": "Via Etnea",
+    "source": "nominatim",
+    "osm_id": "way/31671219",
+    "wikidata": "Q2521663",
+    "osm_class": "highway=primary",
+    "locality": "Catania",
+    "display": "Via Etnea, Monserrato, Borgo, Borgo-Sanzio, Catania, Sicilia, 95125, Italia",
+    "names_all": [
+     "Via Etnea"
+    ],
+    "importance": 0.2954185985350713,
+    "rank": 0
+   },
+   {
+    "lat": 37.5149315,
+    "lng": 15.084382,
+    "name": "Via Etnea",
+    "source": "nominatim",
+    "osm_id": "way/31671219",
+    "wikidata": "Q2521663",
+    "osm_class": "highway=primary",
+    "locality": "Catania",
+    "display": "Via Etnea, Monserrato, Borgo, Borgo-Sanzio, Catania, Sicilia, 95125, Italia",
+    "names_all": [
+     "Via Etnea"
+    ],
+    "importance": 0.2954185985350713,
+    "rank": 0
+   },
+   {
+    "lat": 37.5149315,
+    "lng": 15.084382,
+    "name": "Via Etnea",
+    "source": "nominatim",
+    "osm_id": "way/31671219",
+    "wikidata": "Q2521663",
+    "osm_class": "highway=primary",
+    "locality": "Catania",
+    "display": "Via Etnea, Monserrato, Borgo, Borgo-Sanzio, Catania, Sicilia, 95125, Italia",
+    "names_all": [
+     "Via Etnea"
+    ],
+    "importance": 0.2954185985350713,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::piazza universita": {
+  "ok": true,
+  "lat": 37.503651,
+  "lng": 15.087162,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.802,
+  "name": "Piazza dell'Università",
+  "locality": "Catania",
+  "osm_class": "place=square",
+  "wikidata": "Q3902428",
+  "display": "Piazza dell'Università, Giudecca, Centro storico, Catania, Sicilia, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5036511,
+    "lng": 15.0871615,
+    "name": "Piazza dell'Università",
+    "source": "nominatim",
+    "osm_id": "way/25323819",
+    "wikidata": "Q3902428",
+    "osm_class": "place=square",
+    "locality": "Catania",
+    "display": "Piazza dell'Università, Giudecca, Centro storico, Catania, Sicilia, Italia",
+    "names_all": [
+     "Piazza dell'Università"
+    ],
+    "importance": 0.23822746059912708,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::san berillo": {
+  "ok": true,
+  "lat": 37.506342,
+  "lng": 15.090613,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.916,
+  "name": "San Berillo",
+  "locality": "Catania",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q25411202",
+  "display": "San Berillo, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5063417,
+    "lng": 15.0906135,
+    "name": "San Berillo",
+    "source": "nominatim",
+    "osm_id": "node/7640484316",
+    "wikidata": "Q25411202",
+    "osm_class": "place=neighbourhood",
+    "locality": "Catania",
+    "display": "San Berillo, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "San Berillo"
+    ],
+    "importance": 0.2507397701059262,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::porto e molo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::ognina": {
+  "ok": true,
+  "lat": 37.529051,
+  "lng": 15.113218,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.89,
+  "name": "Ognina",
+  "locality": "Catania",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Ognina, Picanello, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.529051,
+    "lng": 15.1132178,
+    "name": "Ognina",
+    "source": "nominatim",
+    "osm_id": "node/1356739203",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Catania",
+    "display": "Ognina, Picanello, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95126, Italia",
+    "names_all": [
+     "Ognina"
+    ],
+    "importance": 0.08007121309224076,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::barrio de antico corso": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::villa bellini": {
+  "ok": true,
+  "lat": 37.509963,
+  "lng": 15.085754,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.749,
+  "name": "Villa Bellini",
+  "locality": "Catania",
+  "osm_class": "tourism=guest_house",
+  "wikidata": "",
+  "display": "Villa Bellini, Via Etnea, San Berillo, Borgo-Sanzio, Catania, Sicilia, 95124, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5099626,
+    "lng": 15.085754,
+    "name": "Villa Bellini",
+    "source": "nominatim",
+    "osm_id": "node/8951993911",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Catania",
+    "display": "Villa Bellini, Via Etnea, San Berillo, Borgo-Sanzio, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Villa Bellini"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 1
+   },
+   {
+    "lat": 37.5099626,
+    "lng": 15.085754,
+    "name": "Villa Bellini",
+    "source": "nominatim",
+    "osm_id": "node/8951993911",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Catania",
+    "display": "Villa Bellini, Via Etnea, San Berillo, Borgo-Sanzio, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Villa Bellini"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 2
+   },
+   {
+    "lat": 37.5099626,
+    "lng": 15.085754,
+    "name": "Villa Bellini",
+    "source": "nominatim",
+    "osm_id": "node/8951993911",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Catania",
+    "display": "Villa Bellini, Via Etnea, San Berillo, Borgo-Sanzio, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Villa Bellini"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "catania::la playa": {
+  "ok": true,
+  "lat": 37.487613,
+  "lng": 15.083752,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.758,
+  "name": "Bowling La Playa",
+  "locality": "Catania",
+  "osm_class": "leisure=bowling_alley",
+  "wikidata": "",
+  "display": "Bowling La Playa, Viale Presidente Kennedy, San Giorgio-Librino-San Giuseppe la Rena-Zia Lisa-Villaggio Sant'Agata, Catania, Sicilia, 95121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.4876131,
+    "lng": 15.0837516,
+    "name": "Bowling La Playa",
+    "source": "nominatim",
+    "osm_id": "way/1312256726",
+    "wikidata": "",
+    "osm_class": "leisure=bowling_alley",
+    "locality": "Catania",
+    "display": "Bowling La Playa, Viale Presidente Kennedy, San Giorgio-Librino-San Giuseppe la Rena-Zia Lisa-Villaggio Sant'Agata, Catania, Sicilia, 95121, Italia",
+    "names_all": [
+     "Bowling La Playa"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.4876131,
+    "lng": 15.0837516,
+    "name": "Bowling La Playa",
+    "source": "nominatim",
+    "osm_id": "way/1312256726",
+    "wikidata": "",
+    "osm_class": "leisure=bowling_alley",
+    "locality": "Catania",
+    "display": "Bowling La Playa, Viale Presidente Kennedy, San Giorgio-Librino-San Giuseppe la Rena-Zia Lisa-Villaggio Sant'Agata, Catania, Sicilia, 95121, Italia",
+    "names_all": [
+     "Bowling La Playa"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::scogliera di san giovanni li cuti": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::orto botanico delluniversita": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::etna": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::teatro massimo bellini": {
+  "ok": true,
+  "lat": 37.504157,
+  "lng": 15.089827,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.928,
+  "name": "Teatro Massimo Bellini",
+  "locality": "Catania",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q1429352",
+  "display": "Teatro Massimo Bellini, Via Maria Callas, San Berillo, Centro storico, Catania, Sicilia, 95131, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.504157,
+    "lng": 15.0898267,
+    "name": "Teatro Massimo Bellini",
+    "source": "nominatim",
+    "osm_id": "way/28399127",
+    "wikidata": "Q1429352",
+    "osm_class": "amenity=theatre",
+    "locality": "Catania",
+    "display": "Teatro Massimo Bellini, Via Maria Callas, San Berillo, Centro storico, Catania, Sicilia, 95131, Italia",
+    "names_all": [
+     "Teatro Massimo Bellini"
+    ],
+    "importance": 0.4219253967529504,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::teatro marionettistico fratelli napoli": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::zo centro culture contemporanee": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::conciertos y jazz": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::cripta de santa agueda al carcere": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::le ciminiere": {
+  "ok": true,
+  "lat": 37.509094,
+  "lng": 15.102486,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.776,
+  "name": "Le Ciminiere",
+  "locality": "Catania",
+  "osm_class": "amenity=exhibition_centre",
+  "wikidata": "Q3664853",
+  "display": "Le Ciminiere, Vicolo De Franco, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5090942,
+    "lng": 15.1024865,
+    "name": "Le Ciminiere",
+    "source": "nominatim",
+    "osm_id": "way/34314616",
+    "wikidata": "Q3664853",
+    "osm_class": "amenity=exhibition_centre",
+    "locality": "Catania",
+    "display": "Le Ciminiere, Vicolo De Franco, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+    "names_all": [
+     "Le Ciminiere"
+    ],
+    "importance": 0.21822785325192331,
+    "rank": 0
+   },
+   {
+    "lat": 37.5090942,
+    "lng": 15.1024865,
+    "name": "Le Ciminiere",
+    "source": "nominatim",
+    "osm_id": "way/34314616",
+    "wikidata": "Q3664853",
+    "osm_class": "amenity=exhibition_centre",
+    "locality": "Catania",
+    "display": "Le Ciminiere, Vicolo De Franco, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+    "names_all": [
+     "Le Ciminiere"
+    ],
+    "importance": 0.21822785325192331,
+    "rank": 0
+   },
+   {
+    "lat": 37.5090942,
+    "lng": 15.1024865,
+    "name": "Le Ciminiere",
+    "source": "nominatim",
+    "osm_id": "way/34314616",
+    "wikidata": "Q3664853",
+    "osm_class": "amenity=exhibition_centre",
+    "locality": "Catania",
+    "display": "Le Ciminiere, Vicolo De Franco, Picanello-Ognina-Barriera-Canalicchio, Catania, Sicilia, 95129, Italia",
+    "names_all": [
+     "Le Ciminiere"
+    ],
+    "importance": 0.21822785325192331,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::excavaciones bajo el monasterio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::il fortino mercato di san berillo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::grotta del gelo colata de 1669": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::acquedotto greco romano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::teatro greco": {
+  "ok": true,
+  "lat": 37.076011,
+  "lng": 15.275025,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.792,
+  "name": "Teatro Greco",
+  "locality": "Siracusa",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q1058967",
+  "display": "Teatro Greco, Via dei Sepolcri, Neapolis, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0760111,
+    "lng": 15.275025,
+    "name": "Teatro Greco",
+    "source": "nominatim",
+    "osm_id": "way/214610849",
+    "wikidata": "Q1058967",
+    "osm_class": "amenity=theatre",
+    "locality": "Siracusa",
+    "display": "Teatro Greco, Via dei Sepolcri, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Teatro Greco"
+    ],
+    "importance": 0.4063398020044483,
+    "rank": 0
+   },
+   {
+    "lat": 37.0760111,
+    "lng": 15.275025,
+    "name": "Teatro Greco",
+    "source": "nominatim",
+    "osm_id": "way/214610849",
+    "wikidata": "Q1058967",
+    "osm_class": "amenity=theatre",
+    "locality": "Siracusa",
+    "display": "Teatro Greco, Via dei Sepolcri, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Teatro Greco"
+    ],
+    "importance": 0.4063398020044483,
+    "rank": 1
+   },
+   {
+    "lat": 37.0760111,
+    "lng": 15.275025,
+    "name": "Teatro Greco",
+    "source": "nominatim",
+    "osm_id": "way/214610849",
+    "wikidata": "Q1058967",
+    "osm_class": "amenity=theatre",
+    "locality": "Siracusa",
+    "display": "Teatro Greco, Via dei Sepolcri, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Teatro Greco"
+    ],
+    "importance": 0.4063398020044483,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::orecchio di dionisio": {
+  "ok": true,
+  "lat": 37.076343,
+  "lng": 15.275518,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.79,
+  "name": "Orecchio di Dionisio",
+  "locality": "Siracusa",
+  "osm_class": "natural=cave_entrance",
+  "wikidata": "Q282839",
+  "display": "Orecchio di Dionisio, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0763431,
+    "lng": 15.2755183,
+    "name": "Orecchio di Dionisio",
+    "source": "nominatim",
+    "osm_id": "node/603885274",
+    "wikidata": "Q282839",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Siracusa",
+    "display": "Orecchio di Dionisio, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Orecchio di Dionisio"
+    ],
+    "importance": 0.3761123463663757,
+    "rank": 0
+   },
+   {
+    "lat": 37.0763431,
+    "lng": 15.2755183,
+    "name": "Orecchio di Dionisio",
+    "source": "nominatim",
+    "osm_id": "node/603885274",
+    "wikidata": "Q282839",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Siracusa",
+    "display": "Orecchio di Dionisio, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Orecchio di Dionisio"
+    ],
+    "importance": 0.3761123463663757,
+    "rank": 0
+   },
+   {
+    "lat": 37.0763431,
+    "lng": 15.2755183,
+    "name": "Orecchio di Dionisio",
+    "source": "nominatim",
+    "osm_id": "node/603885274",
+    "wikidata": "Q282839",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Siracusa",
+    "display": "Orecchio di Dionisio, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Orecchio di Dionisio"
+    ],
+    "importance": 0.3761123463663757,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::latomia del paradiso": {
+  "ok": true,
+  "lat": 37.076496,
+  "lng": 15.27681,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.764,
+  "name": "Latomia del Paradiso",
+  "locality": "Siracusa",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q131322898",
+  "display": "Latomia del Paradiso, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0764965,
+    "lng": 15.2768096,
+    "name": "Latomia del Paradiso",
+    "source": "nominatim",
+    "osm_id": "way/324540028",
+    "wikidata": "Q131322898",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Latomia del Paradiso, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia del Paradiso"
+    ],
+    "importance": 6.980621042186644e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0764965,
+    "lng": 15.2768096,
+    "name": "Latomia del Paradiso",
+    "source": "nominatim",
+    "osm_id": "way/324540028",
+    "wikidata": "Q131322898",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Latomia del Paradiso, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia del Paradiso"
+    ],
+    "importance": 6.980621042186644e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0764965,
+    "lng": 15.2768096,
+    "name": "Latomia del Paradiso",
+    "source": "nominatim",
+    "osm_id": "way/324540028",
+    "wikidata": "Q131322898",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Latomia del Paradiso, Viale Giulio Emanuele Rizzo, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia del Paradiso"
+    ],
+    "importance": 6.980621042186644e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::anfiteatro romano": {
+  "ok": true,
+  "lat": 37.074222,
+  "lng": 15.279224,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.793,
+  "name": "Anfiteatro romano",
+  "locality": "Siracusa",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q1091447",
+  "display": "Anfiteatro romano, Via Francesco Saverio Cavallari, Neapolis, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0742218,
+    "lng": 15.2792244,
+    "name": "Anfiteatro romano",
+    "source": "nominatim",
+    "osm_id": "relation/3847874",
+    "wikidata": "Q1091447",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Anfiteatro romano, Via Francesco Saverio Cavallari, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Anfiteatro romano"
+    ],
+    "importance": 0.395266902838586,
+    "rank": 0
+   },
+   {
+    "lat": 37.0742218,
+    "lng": 15.2792244,
+    "name": "Anfiteatro romano",
+    "source": "nominatim",
+    "osm_id": "relation/3847874",
+    "wikidata": "Q1091447",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Anfiteatro romano, Via Francesco Saverio Cavallari, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Anfiteatro romano"
+    ],
+    "importance": 0.395266902838586,
+    "rank": 2
+   },
+   {
+    "lat": 37.0742218,
+    "lng": 15.2792244,
+    "name": "Anfiteatro romano",
+    "source": "nominatim",
+    "osm_id": "relation/3847874",
+    "wikidata": "Q1091447",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Anfiteatro romano, Via Francesco Saverio Cavallari, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Anfiteatro romano"
+    ],
+    "importance": 0.395266902838586,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::ara di ierone ii": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::museo archeologico regionale paolo orsi": {
+  "ok": true,
+  "lat": 37.076461,
+  "lng": 15.286261,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.928,
+  "name": "Museo archeologico regionale Paolo Orsi",
+  "locality": "Siracusa",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1954223",
+  "display": "Museo archeologico regionale Paolo Orsi, Ronco di Via Augusto Von Platen, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0764609,
+    "lng": 15.2862613,
+    "name": "Museo archeologico regionale Paolo Orsi",
+    "source": "nominatim",
+    "osm_id": "relation/4114017",
+    "wikidata": "Q1954223",
+    "osm_class": "tourism=museum",
+    "locality": "Siracusa",
+    "display": "Museo archeologico regionale Paolo Orsi, Ronco di Via Augusto Von Platen, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Museo archeologico regionale Paolo Orsi"
+    ],
+    "importance": 0.3891971053939251,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::galleria regionale di palazzo bellomo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::museo del papiro corrado basile": {
+  "ok": true,
+  "lat": 37.060495,
+  "lng": 15.298086,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.915,
+  "name": "Museo del Papiro Corrado Basile",
+  "locality": "Siracusa",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q16580575",
+  "display": "Museo del Papiro Corrado Basile, Ronco Pandolfo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0604946,
+    "lng": 15.2980862,
+    "name": "Museo del Papiro Corrado Basile",
+    "source": "nominatim",
+    "osm_id": "way/860126665",
+    "wikidata": "Q16580575",
+    "osm_class": "tourism=museum",
+    "locality": "Siracusa",
+    "display": "Museo del Papiro Corrado Basile, Ronco Pandolfo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Museo del Papiro Corrado Basile"
+    ],
+    "importance": 0.359473463574925,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::tecnoparco archimede museo di archimede": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::casa delle marionette": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::duomo di siracusa": {
+  "ok": true,
+  "lat": 37.05922,
+  "lng": 15.293168,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.599,
+  "name": "Ipogeo di piazza Duomo",
+  "locality": "Siracusa",
+  "osm_class": "military=bunker",
+  "wikidata": "Q16566376",
+  "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   },
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   },
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::piazza del duomo": {
+  "ok": true,
+  "lat": 37.059473,
+  "lng": 15.293114,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.741,
+  "name": "Piazza Duomo",
+  "locality": "Siracusa",
+  "osm_class": "place=square",
+  "wikidata": "Q65123273",
+  "display": "Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.059473,
+    "lng": 15.2931139,
+    "name": "Piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "way/5028384",
+    "wikidata": "Q65123273",
+    "osm_class": "place=square",
+    "locality": "Siracusa",
+    "display": "Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Piazza Duomo"
+    ],
+    "importance": 0.0667016685740444,
+    "rank": 0
+   },
+   {
+    "lat": 37.059473,
+    "lng": 15.2931139,
+    "name": "Piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "way/5028384",
+    "wikidata": "Q65123273",
+    "osm_class": "place=square",
+    "locality": "Siracusa",
+    "display": "Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Piazza Duomo"
+    ],
+    "importance": 0.0667016685740444,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::ipogeo di piazza duomo": {
+  "ok": true,
+  "lat": 37.05922,
+  "lng": 15.293168,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.761,
+  "name": "Ipogeo di piazza Duomo",
+  "locality": "Siracusa",
+  "osm_class": "military=bunker",
+  "wikidata": "Q16566376",
+  "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   },
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   },
+   {
+    "lat": 37.05922,
+    "lng": 15.2931679,
+    "name": "Ipogeo di piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "node/7815978016",
+    "wikidata": "Q16566376",
+    "osm_class": "military=bunker",
+    "locality": "Siracusa",
+    "display": "Ipogeo di piazza Duomo, Piazza Duomo, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ipogeo di piazza Duomo"
+    ],
+    "importance": 0.35810617938020467,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::catacombe di san giovanni": {
+  "ok": true,
+  "lat": 37.076799,
+  "lng": 15.284856,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.858,
+  "name": "Catacombe di San Giovanni",
+  "locality": "Siracusa",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q3663213",
+  "display": "Catacombe di San Giovanni, Via Latomia del Casale, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0767995,
+    "lng": 15.2848558,
+    "name": "Catacombe di San Giovanni",
+    "source": "nominatim",
+    "osm_id": "node/290930171",
+    "wikidata": "Q3663213",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Catacombe di San Giovanni, Via Latomia del Casale, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Catacombe di San Giovanni"
+    ],
+    "importance": 0.3389888108010248,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::santa lucia alla badia": {
+  "ok": true,
+  "lat": 37.058416,
+  "lng": 15.293281,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.903,
+  "name": "Chiesa di Santa Lucia alla Badia",
+  "locality": "Siracusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3673134",
+  "display": "Chiesa di Santa Lucia alla Badia, Via Pompeo Picherali, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0584163,
+    "lng": 15.2932814,
+    "name": "Chiesa di Santa Lucia alla Badia",
+    "source": "nominatim",
+    "osm_id": "way/174517407",
+    "wikidata": "Q3673134",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Siracusa",
+    "display": "Chiesa di Santa Lucia alla Badia, Via Pompeo Picherali, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Chiesa di Santa Lucia alla Badia"
+    ],
+    "importance": 0.19283288150311992,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::basilica santuario madonna delle lacrime": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::catacombe di santa lucia": {
+  "ok": true,
+  "lat": 37.077041,
+  "lng": 15.284478,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.757,
+  "name": "Chiesa di San Giovanni alle Catacombe",
+  "locality": "Siracusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3670539",
+  "display": "Chiesa di San Giovanni alle Catacombe, Via Latomia del Casale, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0760007,
+    "lng": 15.2844495,
+    "name": "Via San Giovanni alle Catacombe",
+    "source": "nominatim",
+    "osm_id": "way/331694489",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Via San Giovanni alle Catacombe, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Via San Giovanni alle Catacombe"
+    ],
+    "importance": 0.05340313954375521,
+    "rank": 0
+   },
+   {
+    "lat": 37.0760007,
+    "lng": 15.2844495,
+    "name": "Via San Giovanni alle Catacombe",
+    "source": "nominatim",
+    "osm_id": "way/331694489",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Via San Giovanni alle Catacombe, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Via San Giovanni alle Catacombe"
+    ],
+    "importance": 0.05340313954375521,
+    "rank": 0
+   },
+   {
+    "lat": 37.0770413,
+    "lng": 15.2844778,
+    "name": "Chiesa di San Giovanni alle Catacombe",
+    "source": "nominatim",
+    "osm_id": "way/325739021",
+    "wikidata": "Q3670539",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Siracusa",
+    "display": "Chiesa di San Giovanni alle Catacombe, Via Latomia del Casale, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Chiesa di San Giovanni alle Catacombe"
+    ],
+    "importance": 0.22489365626900393,
+    "rank": 1
+   }
+  ]
+ },
+ "siracusa::chiesa di san filippo apostolo": {
+  "ok": true,
+  "lat": 37.060248,
+  "lng": 15.296693,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.901,
+  "name": "Chiesa di San Filippo Apostolo",
+  "locality": "Siracusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q93767625",
+  "display": "Chiesa di San Filippo Apostolo, Vicolo Terzo di Via della Giudecca, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.060248,
+    "lng": 15.2966926,
+    "name": "Chiesa di San Filippo Apostolo",
+    "source": "nominatim",
+    "osm_id": "way/174517417",
+    "wikidata": "Q93767625",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Siracusa",
+    "display": "Chiesa di San Filippo Apostolo, Vicolo Terzo di Via della Giudecca, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Chiesa di San Filippo Apostolo"
+    ],
+    "importance": 0.16273786379520622,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::miqwe bagno ebraico di ortigia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::castello maniace": {
+  "ok": true,
+  "lat": 37.053415,
+  "lng": 15.295635,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.758,
+  "name": "Castello Maniace",
+  "locality": "Siracusa",
+  "osm_class": "historic=castle",
+  "wikidata": "Q587949",
+  "display": "Castello Maniace, Via Gaetano Abela, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0534155,
+    "lng": 15.2956354,
+    "name": "Castello Maniace",
+    "source": "nominatim",
+    "osm_id": "relation/4113996",
+    "wikidata": "Q587949",
+    "osm_class": "historic=castle",
+    "locality": "Siracusa",
+    "display": "Castello Maniace, Via Gaetano Abela, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Maniace"
+    ],
+    "importance": 0.37310569550553185,
+    "rank": 0
+   },
+   {
+    "lat": 37.0534155,
+    "lng": 15.2956354,
+    "name": "Castello Maniace",
+    "source": "nominatim",
+    "osm_id": "relation/4113996",
+    "wikidata": "Q587949",
+    "osm_class": "building=yes",
+    "locality": "Siracusa",
+    "display": "Castello Maniace, Via Gaetano Abela, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Maniace"
+    ],
+    "importance": 0.37310569550553185,
+    "rank": 0
+   },
+   {
+    "lat": 37.0534155,
+    "lng": 15.2956354,
+    "name": "Castello Maniace",
+    "source": "nominatim",
+    "osm_id": "relation/4113996",
+    "wikidata": "Q587949",
+    "osm_class": "historic=castle",
+    "locality": "Siracusa",
+    "display": "Castello Maniace, Via Gaetano Abela, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Maniace"
+    ],
+    "importance": 0.37310569550553185,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::fonte aretusa": {
+  "ok": true,
+  "lat": 37.057269,
+  "lng": 15.292913,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.742,
+  "name": "Fonte Aretusa",
+  "locality": "Siracusa",
+  "osm_class": "water=pond",
+  "wikidata": "Q643409",
+  "display": "Fonte Aretusa, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0572691,
+    "lng": 15.2929132,
+    "name": "Fonte Aretusa",
+    "source": "nominatim",
+    "osm_id": "way/27286241",
+    "wikidata": "Q643409",
+    "osm_class": "water=pond",
+    "locality": "Siracusa",
+    "display": "Fonte Aretusa, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Fonte Aretusa"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   },
+   {
+    "lat": 37.0572691,
+    "lng": 15.2929132,
+    "name": "Fonte Aretusa",
+    "source": "nominatim",
+    "osm_id": "way/27286241",
+    "wikidata": "Q643409",
+    "osm_class": "water=pond",
+    "locality": "Siracusa",
+    "display": "Fonte Aretusa, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Fonte Aretusa"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   },
+   {
+    "lat": 37.0572691,
+    "lng": 15.2929132,
+    "name": "Fonte Aretusa",
+    "source": "nominatim",
+    "osm_id": "way/27286241",
+    "wikidata": "Q643409",
+    "osm_class": "water=pond",
+    "locality": "Siracusa",
+    "display": "Fonte Aretusa, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Fonte Aretusa"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::tempio di apollo": {
+  "ok": true,
+  "lat": 37.06403,
+  "lng": 15.293019,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.765,
+  "name": "Tempio di Apollo",
+  "locality": "Siracusa",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q619477",
+  "display": "Tempio di Apollo, Via Emanuele De Benedictis, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0640302,
+    "lng": 15.2930187,
+    "name": "Tempio di Apollo",
+    "source": "nominatim",
+    "osm_id": "way/1163414978",
+    "wikidata": "Q619477",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Tempio di Apollo, Via del Mercato, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Tempio di Apollo"
+    ],
+    "importance": 0.36591189903985394,
+    "rank": 0
+   },
+   {
+    "lat": 37.0640302,
+    "lng": 15.2930187,
+    "name": "Tempio di Apollo",
+    "source": "nominatim",
+    "osm_id": "way/1163414978",
+    "wikidata": "Q619477",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Tempio di Apollo, Via dell'Apollonion, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Tempio di Apollo"
+    ],
+    "importance": 0.36591189903985394,
+    "rank": 1
+   },
+   {
+    "lat": 37.0640302,
+    "lng": 15.2930187,
+    "name": "Tempio di Apollo",
+    "source": "nominatim",
+    "osm_id": "way/1163414978",
+    "wikidata": "Q619477",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Tempio di Apollo, Via Emanuele De Benedictis, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Tempio di Apollo"
+    ],
+    "importance": 0.36591189903985394,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::mercato di ortigia": {
+  "ok": true,
+  "lat": 37.065533,
+  "lng": 15.293485,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.713,
+  "name": "Al Mercato di Ortigia",
+  "locality": "Siracusa",
+  "osm_class": "tourism=guest_house",
+  "wikidata": "",
+  "display": "Al Mercato di Ortigia, Via Savoia, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0655327,
+    "lng": 15.293485,
+    "name": "Al Mercato di Ortigia",
+    "source": "nominatim",
+    "osm_id": "node/5624721286",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Siracusa",
+    "display": "Al Mercato di Ortigia, Via Savoia, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Al Mercato di Ortigia"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 2
+   },
+   {
+    "lat": 37.0655327,
+    "lng": 15.293485,
+    "name": "Al Mercato di Ortigia",
+    "source": "nominatim",
+    "osm_id": "node/5624721286",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Siracusa",
+    "display": "Al Mercato di Ortigia, Via Savoia, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Al Mercato di Ortigia"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 2
+   },
+   {
+    "lat": 37.0655327,
+    "lng": 15.293485,
+    "name": "Al Mercato di Ortigia",
+    "source": "nominatim",
+    "osm_id": "node/5624721286",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Siracusa",
+    "display": "Al Mercato di Ortigia, Via Savoia, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Al Mercato di Ortigia"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 2
+   }
+  ]
+ },
+ "siracusa::lungomare di levante y lungomare dortigia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::la giudecca": {
+  "ok": true,
+  "lat": 37.060139,
+  "lng": 15.296557,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.735,
+  "name": "La Via della Giudecca",
+  "locality": "Siracusa",
+  "osm_class": "tourism=guest_house",
+  "wikidata": "",
+  "display": "La Via della Giudecca, Vicolo Terzo di Via della Giudecca, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0601393,
+    "lng": 15.2965569,
+    "name": "La Via della Giudecca",
+    "source": "nominatim",
+    "osm_id": "node/9128250621",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Siracusa",
+    "display": "La Via della Giudecca, Vicolo Terzo di Via della Giudecca, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "La Via della Giudecca"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0601393,
+    "lng": 15.2965569,
+    "name": "La Via della Giudecca",
+    "source": "nominatim",
+    "osm_id": "node/9128250621",
+    "wikidata": "",
+    "osm_class": "tourism=guest_house",
+    "locality": "Siracusa",
+    "display": "La Via della Giudecca, Vicolo Terzo di Via della Giudecca, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "La Via della Giudecca"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::piazza archimede fontana di diana": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::forte vigliena y las murallas espanolas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::callejear sin rumbo por ortigia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::riserva naturale del fiume ciane": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::bano en ortigia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::plemmirio": {
+  "ok": true,
+  "lat": 37.016906,
+  "lng": 15.341641,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.725,
+  "name": "Area marina protetta Plemmirio",
+  "locality": "Siracusa",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "Q3622014",
+  "display": "Area marina protetta Plemmirio, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0169063,
+    "lng": 15.3416408,
+    "name": "Area marina protetta Plemmirio",
+    "source": "nominatim",
+    "osm_id": "relation/6609422",
+    "wikidata": "Q3622014",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Siracusa",
+    "display": "Area marina protetta Plemmirio, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Area marina protetta Plemmirio"
+    ],
+    "importance": 0.3172483997907332,
+    "rank": 1
+   },
+   {
+    "lat": 37.0169063,
+    "lng": 15.3416408,
+    "name": "Area marina protetta Plemmirio",
+    "source": "nominatim",
+    "osm_id": "relation/6609422",
+    "wikidata": "Q3622014",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Siracusa",
+    "display": "Area marina protetta Plemmirio, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Area marina protetta Plemmirio"
+    ],
+    "importance": 0.3172483997907332,
+    "rank": 1
+   },
+   {
+    "lat": 37.0169063,
+    "lng": 15.3416408,
+    "name": "Area marina protetta Plemmirio",
+    "source": "nominatim",
+    "osm_id": "relation/6609422",
+    "wikidata": "Q3622014",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Siracusa",
+    "display": "Area marina protetta Plemmirio, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Area marina protetta Plemmirio"
+    ],
+    "importance": 0.3172483997907332,
+    "rank": 1
+   }
+  ]
+ },
+ "siracusa::spiaggia di fontane bianche": {
+  "ok": true,
+  "lat": 36.961817,
+  "lng": 15.2065,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.69,
+  "name": "Spiaggia di Fontane Bianche",
+  "locality": "Siracusa",
+  "osm_class": "natural=beach",
+  "wikidata": "",
+  "display": "Spiaggia di Fontane Bianche, Fontane Bianche, Siracusa, Sicilia, 96100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.9618167,
+    "lng": 15.2065004,
+    "name": "Spiaggia di Fontane Bianche",
+    "source": "nominatim",
+    "osm_id": "way/243185150",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Siracusa",
+    "display": "Spiaggia di Fontane Bianche, Fontane Bianche, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Spiaggia di Fontane Bianche"
+    ],
+    "importance": 0.10673647287708855,
+    "rank": 0
+   },
+   {
+    "lat": 36.9618167,
+    "lng": 15.2065004,
+    "name": "Spiaggia di Fontane Bianche",
+    "source": "nominatim",
+    "osm_id": "way/243185150",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Siracusa",
+    "display": "Spiaggia di Fontane Bianche, Fontane Bianche, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Spiaggia di Fontane Bianche"
+    ],
+    "importance": 0.10673647287708855,
+    "rank": 0
+   },
+   {
+    "lat": 36.9618167,
+    "lng": 15.2065004,
+    "name": "Spiaggia di Fontane Bianche",
+    "source": "nominatim",
+    "osm_id": "way/243185150",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Siracusa",
+    "display": "Spiaggia di Fontane Bianche, Fontane Bianche, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Spiaggia di Fontane Bianche"
+    ],
+    "importance": 0.10673647287708855,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::teatro greco temporada de tragedia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::teatro massimo comunale de siracusa": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::piccolo teatro dei pupi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::festa di santa lucia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::castello eurialo": {
+  "ok": true,
+  "lat": 37.092166,
+  "lng": 15.224096,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.759,
+  "name": "Castello Eurialo",
+  "locality": "Siracusa",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q538394",
+  "display": "Castello Eurialo, Viale Epipoli, Belvedere, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0921659,
+    "lng": 15.2240958,
+    "name": "Castello Eurialo",
+    "source": "nominatim",
+    "osm_id": "way/281728577",
+    "wikidata": "Q538394",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Castello Eurialo, Viale Epipoli, Belvedere, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Eurialo"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   },
+   {
+    "lat": 37.0921659,
+    "lng": 15.2240958,
+    "name": "Castello Eurialo",
+    "source": "nominatim",
+    "osm_id": "way/281728577",
+    "wikidata": "Q538394",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Castello Eurialo, Strada Mura di Dionisio, Belvedere, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Eurialo"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   },
+   {
+    "lat": 37.0921659,
+    "lng": 15.2240958,
+    "name": "Castello Eurialo",
+    "source": "nominatim",
+    "osm_id": "way/281728577",
+    "wikidata": "Q538394",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Castello Eurialo, Viale Epipoli, Belvedere, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Castello Eurialo"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::ginnasio romano": {
+  "ok": true,
+  "lat": 37.067586,
+  "lng": 15.28038,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.785,
+  "name": "Ginnasio romano",
+  "locality": "Siracusa",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q17631557",
+  "display": "Ginnasio romano, Via Elorina, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0675862,
+    "lng": 15.2803805,
+    "name": "Ginnasio romano",
+    "source": "nominatim",
+    "osm_id": "way/682322262",
+    "wikidata": "Q17631557",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Ginnasio romano, Via Giuseppe Rubino, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ginnasio romano"
+    ],
+    "importance": 0.3113151607222326,
+    "rank": 0
+   },
+   {
+    "lat": 37.0675862,
+    "lng": 15.2803805,
+    "name": "Ginnasio romano",
+    "source": "nominatim",
+    "osm_id": "way/682322262",
+    "wikidata": "Q17631557",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Ginnasio romano, Via Elorina, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ginnasio romano"
+    ],
+    "importance": 0.3113151607222326,
+    "rank": 0
+   },
+   {
+    "lat": 37.0675862,
+    "lng": 15.2803805,
+    "name": "Ginnasio romano",
+    "source": "nominatim",
+    "osm_id": "way/682322262",
+    "wikidata": "Q17631557",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Ginnasio romano, Via Elorina, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Ginnasio romano"
+    ],
+    "importance": 0.3113151607222326,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::necropoli di pantalica": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::latomia dei cappuccini": {
+  "ok": true,
+  "lat": 37.079445,
+  "lng": 15.295263,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.769,
+  "name": "Latomia dei Cappuccini",
+  "locality": "Siracusa",
+  "osm_class": "landuse=quarry",
+  "wikidata": "",
+  "display": "Latomia dei Cappuccini, Acradina, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.0794449,
+    "lng": 15.2952632,
+    "name": "Latomia dei Cappuccini",
+    "source": "nominatim",
+    "osm_id": "relation/17148027",
+    "wikidata": "",
+    "osm_class": "landuse=quarry",
+    "locality": "Siracusa",
+    "display": "Latomia dei Cappuccini, Acradina, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia dei Cappuccini"
+    ],
+    "importance": 0.08003500190737771,
+    "rank": 0
+   },
+   {
+    "lat": 37.0794449,
+    "lng": 15.2952632,
+    "name": "Latomia dei Cappuccini",
+    "source": "nominatim",
+    "osm_id": "relation/17148027",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Latomia dei Cappuccini, Via Maria Politi Laudien, Santa Lucia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia dei Cappuccini"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0794449,
+    "lng": 15.2952632,
+    "name": "Latomia dei Cappuccini",
+    "source": "nominatim",
+    "osm_id": "relation/17148027",
+    "wikidata": "",
+    "osm_class": "landuse=quarry",
+    "locality": "Siracusa",
+    "display": "Latomia dei Cappuccini, Acradina, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Latomia dei Cappuccini"
+    ],
+    "importance": 0.08003500190737771,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::cripta di san marciano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::il sepolcro di archimede": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::tempio della concordia": {
+  "ok": true,
+  "lat": 37.289656,
+  "lng": 13.592072,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.777,
+  "name": "Tempio della Concordia",
+  "locality": "Agrigento",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q3983202",
+  "display": "Tempio della Concordia, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2896559,
+    "lng": 13.5920724,
+    "name": "Tempio della Concordia",
+    "source": "nominatim",
+    "osm_id": "way/255793167",
+    "wikidata": "Q3983202",
+    "osm_class": "tourism=attraction",
+    "locality": "Agrigento",
+    "display": "Tempio della Concordia, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio della Concordia"
+    ],
+    "importance": 0.3466613603637845,
+    "rank": 0
+   },
+   {
+    "lat": 37.2896559,
+    "lng": 13.5920724,
+    "name": "Tempio della Concordia",
+    "source": "nominatim",
+    "osm_id": "way/255793167",
+    "wikidata": "Q3983202",
+    "osm_class": "tourism=attraction",
+    "locality": "Agrigento",
+    "display": "Tempio della Concordia, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio della Concordia"
+    ],
+    "importance": 0.3466613603637845,
+    "rank": 1
+   },
+   {
+    "lat": 37.2896559,
+    "lng": 13.5920724,
+    "name": "Tempio della Concordia",
+    "source": "nominatim",
+    "osm_id": "way/255793167",
+    "wikidata": "Q3983202",
+    "osm_class": "tourism=attraction",
+    "locality": "Agrigento",
+    "display": "Tempio della Concordia, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio della Concordia"
+    ],
+    "importance": 0.3466613603637845,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::tempio di giunone": {
+  "ok": true,
+  "lat": 37.288594,
+  "lng": 13.600145,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.768,
+  "name": "Tempio di Giunone (Hera Lacinia)",
+  "locality": "Agrigento",
+  "osm_class": "building=temple",
+  "wikidata": "Q3983262",
+  "display": "Tempio di Giunone (Hera Lacinia), Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2885936,
+    "lng": 13.6001448,
+    "name": "Tempio di Giunone (Hera Lacinia)",
+    "source": "nominatim",
+    "osm_id": "way/304907852",
+    "wikidata": "Q3983262",
+    "osm_class": "building=temple",
+    "locality": "Agrigento",
+    "display": "Tempio di Giunone (Hera Lacinia), Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Giunone (Hera Lacinia)"
+    ],
+    "importance": 0.26124069590558274,
+    "rank": 0
+   },
+   {
+    "lat": 37.2885936,
+    "lng": 13.6001448,
+    "name": "Tempio di Giunone (Hera Lacinia)",
+    "source": "nominatim",
+    "osm_id": "way/304907852",
+    "wikidata": "Q3983262",
+    "osm_class": "building=temple",
+    "locality": "Agrigento",
+    "display": "Tempio di Giunone (Hera Lacinia), Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Giunone (Hera Lacinia)"
+    ],
+    "importance": 0.26124069590558274,
+    "rank": 0
+   },
+   {
+    "lat": 37.2885936,
+    "lng": 13.6001448,
+    "name": "Tempio di Giunone (Hera Lacinia)",
+    "source": "nominatim",
+    "osm_id": "way/304907852",
+    "wikidata": "Q3983262",
+    "osm_class": "building=temple",
+    "locality": "Agrigento",
+    "display": "Tempio di Giunone (Hera Lacinia), Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Giunone (Hera Lacinia)"
+    ],
+    "importance": 0.26124069590558274,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::tempio di ercole": {
+  "ok": true,
+  "lat": 37.29019,
+  "lng": 13.586292,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.777,
+  "name": "Tempio di Ercole",
+  "locality": "Agrigento",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q3983242",
+  "display": "Tempio di Ercole, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.29019,
+    "lng": 13.5862924,
+    "name": "Tempio di Ercole",
+    "source": "nominatim",
+    "osm_id": "way/382465535",
+    "wikidata": "Q3983242",
+    "osm_class": "tourism=attraction",
+    "locality": "Agrigento",
+    "display": "Tempio di Ercole, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Ercole"
+    ],
+    "importance": 0.31353539144981896,
+    "rank": 0
+   },
+   {
+    "lat": 37.29019,
+    "lng": 13.5862924,
+    "name": "Tempio di Ercole",
+    "source": "nominatim",
+    "osm_id": "way/382465535",
+    "wikidata": "Q3983242",
+    "osm_class": "building=temple",
+    "locality": "Agrigento",
+    "display": "Tempio di Ercole, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Ercole"
+    ],
+    "importance": 0.31353539144981896,
+    "rank": 0
+   },
+   {
+    "lat": 37.29019,
+    "lng": 13.5862924,
+    "name": "Tempio di Ercole",
+    "source": "nominatim",
+    "osm_id": "way/382465535",
+    "wikidata": "Q3983242",
+    "osm_class": "tourism=attraction",
+    "locality": "Agrigento",
+    "display": "Tempio di Ercole, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Ercole"
+    ],
+    "importance": 0.31353539144981896,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::tempio di zeus olimpico": {
+  "ok": true,
+  "lat": 37.290366,
+  "lng": 13.585046,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.754,
+  "name": "Tempio di Zeus Olimpico",
+  "locality": "Agrigento",
+  "osm_class": "information=board",
+  "wikidata": "",
+  "display": "Tempio di Zeus Olimpico, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2903663,
+    "lng": 13.5850459,
+    "name": "Tempio di Zeus Olimpico",
+    "source": "nominatim",
+    "osm_id": "node/11583919872",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Tempio di Zeus Olimpico, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Zeus Olimpico"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2903663,
+    "lng": 13.5850459,
+    "name": "Tempio di Zeus Olimpico",
+    "source": "nominatim",
+    "osm_id": "node/11583919872",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Tempio di Zeus Olimpico, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Zeus Olimpico"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2903663,
+    "lng": 13.5850459,
+    "name": "Tempio di Zeus Olimpico",
+    "source": "nominatim",
+    "osm_id": "node/11583919872",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Tempio di Zeus Olimpico, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio di Zeus Olimpico"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::tempio dei dioscuri": {
+  "ok": true,
+  "lat": 37.291327,
+  "lng": 13.58156,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.771,
+  "name": "Tempio dei Dioscuri",
+  "locality": "Agrigento",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q3983196",
+  "display": "Tempio dei Dioscuri, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2913267,
+    "lng": 13.5815603,
+    "name": "Tempio dei Dioscuri",
+    "source": "nominatim",
+    "osm_id": "way/702430864",
+    "wikidata": "Q3983196",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Tempio dei Dioscuri, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio dei Dioscuri"
+    ],
+    "importance": 0.21337448257116948,
+    "rank": 0
+   },
+   {
+    "lat": 37.2913267,
+    "lng": 13.5815603,
+    "name": "Tempio dei Dioscuri",
+    "source": "nominatim",
+    "osm_id": "way/702430864",
+    "wikidata": "Q3983196",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Tempio dei Dioscuri, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio dei Dioscuri"
+    ],
+    "importance": 0.21337448257116948,
+    "rank": 1
+   },
+   {
+    "lat": 37.2913267,
+    "lng": 13.5815603,
+    "name": "Tempio dei Dioscuri",
+    "source": "nominatim",
+    "osm_id": "way/702430864",
+    "wikidata": "Q3983196",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Tempio dei Dioscuri, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Tempio dei Dioscuri"
+    ],
+    "importance": 0.21337448257116948,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::giardino della kolymbethra": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::quartiere ellenistico romano": {
+  "ok": true,
+  "lat": 37.297519,
+  "lng": 13.591789,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.757,
+  "name": "Quartiere Ellenistico Romano",
+  "locality": "Agrigento",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "",
+  "display": "Quartiere Ellenistico Romano, Via Passeggiata Archeologica, Bonamorone, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2975188,
+    "lng": 13.5917894,
+    "name": "Quartiere Ellenistico Romano",
+    "source": "nominatim",
+    "osm_id": "way/217850896",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Quartiere Ellenistico Romano, Via Passeggiata Archeologica, Bonamorone, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Quartiere Ellenistico Romano"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2975188,
+    "lng": 13.5917894,
+    "name": "Quartiere Ellenistico Romano",
+    "source": "nominatim",
+    "osm_id": "way/217850896",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Quartiere Ellenistico Romano, Via Passeggiata Archeologica, Bonamorone, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Quartiere Ellenistico Romano"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2975188,
+    "lng": 13.5917894,
+    "name": "Quartiere Ellenistico Romano",
+    "source": "nominatim",
+    "osm_id": "way/217850896",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Quartiere Ellenistico Romano, Via Passeggiata Archeologica, Bonamorone, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Quartiere Ellenistico Romano"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::necropoli paleocristiana y tomba di terone": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::santuario delle divinita ctonie": {
+  "ok": true,
+  "lat": 37.291569,
+  "lng": 13.581261,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.759,
+  "name": "Santuario delle divinità Ctonie",
+  "locality": "Agrigento",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q69547998",
+  "display": "Santuario delle divinità Ctonie, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.291569,
+    "lng": 13.5812608,
+    "name": "Santuario delle divinità Ctonie",
+    "source": "nominatim",
+    "osm_id": "way/702430420",
+    "wikidata": "Q69547998",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Santuario delle divinità Ctonie, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Santuario delle divinità Ctonie"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   },
+   {
+    "lat": 37.291569,
+    "lng": 13.5812608,
+    "name": "Santuario delle divinità Ctonie",
+    "source": "nominatim",
+    "osm_id": "way/702430420",
+    "wikidata": "Q69547998",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Santuario delle divinità Ctonie, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Santuario delle divinità Ctonie"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   },
+   {
+    "lat": 37.291569,
+    "lng": 13.5812608,
+    "name": "Santuario delle divinità Ctonie",
+    "source": "nominatim",
+    "osm_id": "way/702430420",
+    "wikidata": "Q69547998",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Agrigento",
+    "display": "Santuario delle divinità Ctonie, Via Angelo Bonfiglio, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Santuario delle divinità Ctonie"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::museo archeologico regionale pietro griffo": {
+  "ok": true,
+  "lat": 37.297076,
+  "lng": 13.589154,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.914,
+  "name": "Museo Archeologico Regionale Pietro Griffo",
+  "locality": "Agrigento",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1954221",
+  "display": "Museo Archeologico Regionale Pietro Griffo, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.2970756,
+    "lng": 13.5891535,
+    "name": "Museo Archeologico Regionale Pietro Griffo",
+    "source": "nominatim",
+    "osm_id": "way/1246130954",
+    "wikidata": "Q1954221",
+    "osm_class": "tourism=museum",
+    "locality": "Agrigento",
+    "display": "Museo Archeologico Regionale Pietro Griffo, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Museo Archeologico Regionale Pietro Griffo"
+    ],
+    "importance": 0.3397246672409687,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::casa museo di luigi pirandello": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
  }
 }
