@@ -1,0 +1,234 @@
+file,line,ciudad,nombre,buscado,tipo,lat_csv,lng_csv,lat_res,lng_res,dist_m,tolerancia_m,area,confianza,fuente,veredicto
+europa_occidental.csv,208,Colmar,Barrio des Juifs,Rue des Juifs,Casco histórico,48.077200,7.356500,48.098897,7.304646,4545,1500,colmar,high,photon/bajo_umbral,error
+europa_occidental.csv,191,Ámsterdam,Gollem,Gollem,Bar,52.370253,4.888719,52.368084,4.916397,1895,120,amsterdam,review,nominatim/fuentes discrepan 3.0 km,error
+europa_occidental.csv,192,Ámsterdam,A'DAM Lookout,A'DAM Lookout,Mirador,52.3997,4.895,52.383856,4.902103,1827,150,amsterdam,high,nominatim/nominatim_free,error
+europa_occidental.csv,183,Ámsterdam,Dampkring,Dampkring,Coffee shop,52.367732,4.890481,52.380066,4.892923,1381,120,amsterdam,review,nominatim/fuentes discrepan 1.4 km,error
+europa_occidental.csv,174,Ámsterdam,Amsterdam Museum,Amsterdam Museum,Museo,52.365366,4.902387,52.370431,4.890429,988,150,amsterdam,high,nominatim/nominatim_free,error
+europa_occidental.csv,186,Ámsterdam,Tatanka,Tatanka Smartshop,Smart shop,52.366587,4.895745,52.362933,4.885351,814,120,amsterdam,high,nominatim/nominatim_bounded,error
+europa_occidental.csv,2,Londres,British Museum,British Museum,Museo,51.519312,-0.126705,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,3,Londres,Natural History Museum,Natural History Museum,Museo,51.496511,-0.176002,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,4,Londres,Victoria & Albert Museum,Victoria and Albert Museum,Museo,51.496884,-0.171637,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,5,Londres,Tate Modern,Tate Modern,Museo,51.507429,-0.099342,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,6,Londres,National Gallery,National Gallery,Museo,51.508881,-0.128383,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,7,Londres,National Portrait Gallery,National Portrait Gallery,Museo,51.509284,-0.128319,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,8,Londres,Science Museum,Science Museum,Museo,51.497398,-0.174673,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,9,Londres,Imperial War Museum,Imperial War Museum,Museo,51.49659,-0.110659,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,10,Londres,Churchill War Rooms,Churchill War Rooms,Museo,51.50221,-0.129252,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,11,Londres,Sir John Soane's Museum,Sir John Soane's Museum,Museo,51.517075,-0.117495,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,12,Londres,Museum of London Docklands,Museum of London Docklands,Museo,51.507634,-0.023869,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,13,Londres,The Courtauld Gallery,Courtauld Gallery,Museo,51.511624,-0.1177,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,14,Londres,Westminster Abbey,Westminster Abbey,Iglesia,51.499399,-0.127391,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,15,Londres,St Paul's Cathedral,St Paul's Cathedral,Iglesia,51.513787,-0.098451,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,16,Londres,Southwark Cathedral,Southwark Cathedral,Iglesia,51.506158,-0.089682,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,17,Londres,Temple Church,Temple Church,Iglesia,51.513257,-0.110224,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,18,Londres,Tower of London,Tower of London,Sitio histórico,51.508543,-0.076902,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,19,Londres,Tower Bridge,Tower Bridge,Sitio histórico,51.50467,-0.075932,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,20,Londres,Big Ben y Palacio de Westminster,Big Ben,Sitio histórico,51.5007,-0.1246,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,21,Londres,Buckingham Palace,Buckingham Palace,Sitio histórico,51.500835,-0.143005,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,22,Londres,Kensington Palace,Kensington Palace,Sitio histórico,51.505086,-0.187628,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,23,Londres,Cutty Sark,Cutty Sark,Sitio histórico,51.482933,-0.009614,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,24,Londres,Greenwich Observatory,Royal Observatory Greenwich,Sitio histórico,51.477362,-0.000846,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,25,Londres,Trafalgar Square,Trafalgar Square,Plaza,51.507398,-0.128241,,,,250,,review,sin_candidatos,unresolved
+europa_occidental.csv,26,Londres,Piccadilly Circus,Piccadilly Circus,Plaza,51.5101,-0.1342,,,,250,,review,sin_candidatos,unresolved
+europa_occidental.csv,27,Londres,Covent Garden,Covent Garden,Barrio,51.511736,-0.122677,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,28,Londres,Hampton Court Palace,Hampton Court Palace,Sitio histórico,51.403684,-0.337696,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,29,Londres,Sky Garden,Sky Garden,Mirador,51.5115,-0.0835,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,30,Londres,The Shard,The Shard,Mirador,51.504365,-0.086474,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,31,Londres,London Eye,London Eye,Mirador,51.503342,-0.119677,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,32,Londres,Hyde Park,Hyde Park,Parque,51.507489,-0.162207,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,33,Londres,Kensington Gardens,Kensington Gardens,Parque,51.506646,-0.180389,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,34,Londres,Regent's Park,Regent's Park,Parque,51.523628,-0.146636,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,35,Londres,St James's Park,St James's Park,Parque,51.50313,-0.133165,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,36,Londres,Hampstead Heath,Hampstead Heath,Parque,51.55524,-0.165391,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,37,Londres,Primrose Hill,Primrose Hill,Parque,51.539538,-0.160757,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,38,Londres,Greenwich Park,Greenwich Park,Parque,51.477235,0.000923,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,39,Londres,Richmond Park,Richmond Park,Parque,51.438512,-0.274735,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,40,Londres,Victoria Park,Victoria Park,Parque,51.538956,-0.034064,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,41,Londres,Victoria Embankment Gardens,Victoria Embankment Gardens,Parque,51.508643,-0.121418,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,42,Londres,Borough Market,Borough Market,Mercado,51.505526,-0.090438,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,43,Londres,Portobello Road Market,Portobello Road Market,Mercado,51.516086,-0.205117,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,44,Londres,Brick Lane Market,Brick Lane Market,Mercado,51.522286,-0.071581,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,45,Londres,Columbia Road Flower Market,Columbia Road Flower Market,Mercado,51.5295,-0.0695,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,46,Londres,Broadway Market,Broadway Market,Mercado,51.537,-0.0615,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,47,Londres,Camden Market,Camden Market,Mercado,51.542378,-0.147195,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,48,Londres,Spitalfields Market,Old Spitalfields Market,Mercado,51.519018,-0.078722,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,49,Londres,Leadenhall Market,Leadenhall Market,Mercado,51.5128,-0.0836,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,50,Londres,Maltby Street Market,Maltby Street Market,Mercado,51.4975,-0.0755,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,51,Londres,Shakespeare's Globe,Shakespeare's Globe,Teatro,51.508121,-0.097186,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,52,Londres,Royal Albert Hall,Royal Albert Hall,Música,51.501007,-0.177406,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,53,Londres,Harry Potter Studio Tour,Warner Bros Studio Tour London,Experiencia,51.690984,-0.418291,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,54,Londres,South Bank,South Bank,Barrio,51.506532,-0.11342,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,55,Londres,Shoreditch / Brick Lane,Shoreditch,Barrio,51.526669,-0.079893,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,56,Londres,Notting Hill,Notting Hill,Barrio,51.510999,-0.205527,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,57,Londres,Soho,Soho,Barrio,51.514065,-0.135049,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,58,Londres,Kensington / Chelsea,Kensington,Barrio,51.498995,-0.199123,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,59,Londres,Marylebone,Marylebone,Barrio,51.519637,-0.151963,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,60,Londres,Greenwich,Greenwich,Barrio,51.482084,-0.004542,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,61,Londres,Camden,Camden Town,Barrio,51.539253,-0.142757,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,62,Londres,Islington / Angel,Angel,Barrio,51.532487,-0.106036,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,63,Londres,Highgate Cemetery,Highgate Cemetery,Cementerio,51.567776,-0.148594,,,,400,,review,sin_candidatos,unresolved
+europa_occidental.csv,64,Londres,King's Cross Station,King's Cross Station,Harry Potter,51.530456,-0.123259,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,65,Londres,Cecil Court,Cecil Court,Harry Potter,51.510727,-0.127657,,,,300,,review,sin_candidatos,unresolved
+europa_occidental.csv,66,York,York Minster,York Minster,Catedral,53.962356,-1.082083,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,67,York,National Railway Museum,National Railway Museum,Museo,53.960496,-1.09611,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,68,York,JORVIK Viking Centre,JORVIK Viking Centre,Museo,53.957393,-1.080294,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,69,York,York Castle Museum,York Castle Museum,Museo,53.955221,-1.078129,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,70,York,Yorkshire Museum,Yorkshire Museum,Museo,53.961809,-1.087571,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,71,York,Barley Hall,Barley Hall,Museo,53.96091,-1.082595,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,72,York,York Chocolate Story,York's Chocolate Story,Museo,53.960003,-1.080388,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,73,York,The Shambles,The Shambles,Sitio histórico,53.959299,-1.080033,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,74,York,Clifford's Tower,Clifford's Tower,Sitio histórico,53.955865,-1.079952,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,75,York,Merchant Adventurers' Hall,Merchant Adventurers' Hall,Sitio histórico,53.957996,-1.078923,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,76,York,Micklegate Bar,Micklegate Bar,Sitio histórico,53.955856,-1.090889,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,77,York,Rowntree Park,Rowntree Park,Parque,53.948184,-1.081908,,,,600,,review,sin_candidatos,unresolved
+europa_occidental.csv,78,York,Fossgate / Gillygate,Fossgate,Barrio,53.958295,-1.079282,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,79,York,Micklegate,Micklegate,Barrio,53.957285,-1.085875,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,80,Edimburgo,Edinburgh Castle,Edinburgh Castle,Sitio histórico,55.948688,-3.200418,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,81,Edimburgo,Palace of Holyroodhouse,Palace of Holyroodhouse,Sitio histórico,55.952695,-3.171613,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,82,Edimburgo,Holyrood Abbey,Holyrood Abbey,Sitio histórico,55.953151,-3.171648,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,83,Edimburgo,Scottish Parliament,Scottish Parliament,Sitio histórico,55.952469,-3.175663,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,84,Edimburgo,Greyfriars Kirkyard,Greyfriars Kirkyard,Cementerio,55.946828,-3.192895,,,,400,,review,sin_candidatos,unresolved
+europa_occidental.csv,85,Edimburgo,Scott Monument,Scott Monument,Sitio histórico,55.95236,-3.193256,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,86,Edimburgo,Calton Hill,Calton Hill,Mirador,55.955254,-3.182798,,,,150,,review,sin_candidatos,unresolved
+europa_occidental.csv,87,Edimburgo,Gladstone's Land,Gladstone's Land,Sitio histórico,55.949445,-3.193699,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,88,Edimburgo,John Knox House,John Knox House,Sitio histórico,55.950649,-3.185098,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,89,Edimburgo,Dean Village,Dean Village,Sitio histórico,55.952259,-3.218221,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,90,Edimburgo,Grassmarket,Grassmarket,Plaza,55.94738,-3.195953,,,,250,,review,sin_candidatos,unresolved
+europa_occidental.csv,91,Edimburgo,George Heriot's School,George Heriot's School,Sitio histórico,55.946271,-3.19502,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,114,Edimburgo,Old Town,Royal Mile,Barrio,55.94994,-3.189257,,,,1500,,review,sin_candidatos,unresolved
+europa_occidental.csv,220,Colmar,Château du Haut-Koenigsbourg,Château du Haut-Koenigsbourg,Castillo,48.249382,7.343941,,,,250,,review,sin_candidatos,unresolved
+europa_occidental.csv,115,Edimburgo,New Town,New Town,Barrio,55.955458,-3.199,55.955458,-3.199000,0,1500,edimburgo,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,224,Estrasburgo,Barrage Vauban + Ponts Couverts,Barrage Vauban,Casco histórico,48.579602,7.738,48.579602,7.738000,0,1500,estrasburgo,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,219,Colmar,Ribeauvillé,Ribeauvillé,Pueblo Route des Vins,48.19246,7.324887,48.081143,7.355408,12583,6000,colmar,review,photon/bajo_umbral,warn
+europa_occidental.csv,217,Colmar,Riquewihr,Riquewihr,Pueblo Route des Vins,48.166077,7.298014,48.091703,7.333726,8684,6000,colmar,review,photon/fuentes discrepan 8.7 km,warn
+europa_occidental.csv,195,Ámsterdam,Vondelpark,Vondelpark,Parque,52.3607,4.873706,52.357197,4.864119,759,600,amsterdam,high,nominatim/nominatim_free,warn
+europa_occidental.csv,103,Edimburgo,Salisbury Crags,Salisbury Crags,Mirador,55.948265,-3.172653,55.946042,-3.173881,259,150,edimburgo,high,nominatim/nominatim_free,warn
+europa_occidental.csv,187,Ámsterdam,Café 't Smalle,Café 't Smalle,Bar,52.3775,4.8855,52.376719,4.884139,127,120,amsterdam,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,125,Highlands,Lost Valley (Coire Gabhail),Lost Valley,Trekking,56.648928,-5.003205,56.648928,-5.003205,0,3000,override,high,overpass:natural=valley Coire Gabhail,override
+europa_occidental.csv,126,Highlands,Signal Rock,Signal Rock,Sitio histórico,56.664936,-5.067192,56.664936,-5.067192,0,200,override,high,overpass:tourism=attraction Tom a' Ghrianain,override
+europa_occidental.csv,145,Highlands,Loch Cluanie,Loch Cluanie,Paisaje,57.139610,-5.088876,57.139610,-5.088876,0,2500,override,high,wikidata:Q1867216,override
+europa_occidental.csv,218,Colmar,Turckheim,Turckheim,Pueblo Route des Vins,48.087822,7.278011,48.077263,7.347904,5323,6000,colmar,review,photon/fuentes discrepan 5.3 km,ok
+europa_occidental.csv,139,Highlands,Quiraing,Quiraing,Trekking,57.6436,-6.2705,57.639736,-6.274133,481,3000,skye_noroeste,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,122,Highlands,Fort William Town,Fort William,Pueblo,56.820558,-5.105313,56.817826,-5.110952,458,6000,fort_william,high,nominatim/nominatim_free,ok
+europa_occidental.csv,233,Estrasburgo,Jardin des Deux Rives,Jardin des Deux Rives,Parque,48.569074,7.794975,48.567617,7.800251,421,600,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,144,Highlands,Elgol,Elgol,Paisaje,57.152323,-6.098404,57.149235,-6.101430,389,2500,skye_sur,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,222,Estrasburgo,Grande Île,Grande Île,Casco histórico,48.580517,7.745507,48.582957,7.747833,321,1500,estrasburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,159,Highlands,Pitlochry,Pitlochry,Pueblo,56.702364,-3.73564,56.701969,-3.730685,306,6000,perthshire,high,nominatim/nominatim_free,ok
+europa_occidental.csv,132,Highlands,Castle Stalker,Castle Stalker,Castillo,56.572574,-5.382622,56.571555,-5.386109,242,250,oban_appin,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,199,Ámsterdam,Albert Cuypmarkt,Albert Cuypmarkt,Mercado,52.35573,4.894361,52.355233,4.891779,184,300,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,198,Ámsterdam,Sarphatipark,Sarphatipark,Parque,52.354862,4.898651,52.354375,4.896388,163,600,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,197,Ámsterdam,Nieuwmarkt,Nieuwmarkt,Plaza,52.371318,4.900879,52.372595,4.900345,147,250,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,202,Colmar,Petite Venise,La Petite Venise,Casco histórico,48.073977,7.357306,48.072687,7.357018,145,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,182,Ámsterdam,Grey Area,Grey Area Coffeeshop,Coffee shop,52.3755,4.8895,52.374690,4.888872,100,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,109,Edimburgo,Edinburgh Farmers' Market,Castle Terrace,Mercado,55.947248,-3.202363,55.947930,-3.203257,94,300,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,105,Edimburgo,Princes Street Gardens,Princes Street Gardens,Parque,55.95025,-3.199495,55.949668,-3.199080,70,600,edimburgo,high,photon/photon,ok
+europa_occidental.csv,203,Colmar,Quai de la Poissonnerie,Quai de la Poissonnerie,Casco histórico,48.074404,7.360127,48.074094,7.359329,69,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,111,Edimburgo,Victoria Street,Victoria Street,Harry Potter,55.948679,-3.192792,55.948650,-3.193769,61,300,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,225,Estrasburgo,Place Kléber,Place Kléber,Plaza,48.583276,7.746674,48.583311,7.745962,53,250,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,194,Ámsterdam,Rembrandtplein,Rembrandtplein,Plaza,52.366311,4.896839,52.365988,4.896611,39,250,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,138,Highlands,Old Man of Storr,Old Man of Storr,Trekking,57.5072,-6.1742,57.506962,-6.174639,37,3000,skye_norte,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,227,Estrasburgo,Palais Rohan (3 museos),Palais Rohan,Museo,48.580967,7.752282,48.581007,7.752646,27,150,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,135,Highlands,Eilean Donan Castle,Eilean Donan Castle,Castillo,57.274096,-5.515916,57.273868,-5.516033,26,250,glen_shiel,high,nominatim/nominatim_free,ok
+europa_occidental.csv,93,Edimburgo,National Museum of Scotland,National Museum of Scotland,Museo,55.947288,-3.18924,55.947071,-3.189335,25,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,188,Ámsterdam,Proeflokaal Wynand Fockink,Wynand Fockink,Bar,52.3725,4.8955,52.372320,4.895300,24,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,148,Highlands,Victorian Market,Victorian Market,Mercado,57.478999,-4.225864,57.479058,-4.225507,22,300,inverness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,164,Highlands,Falkirk Wheel,Falkirk Wheel,Sitio,56.0005,-3.8415,56.000356,-3.841725,21,300,stirling_falkirk,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,98,Edimburgo,Museum of Childhood,Museum of Childhood,Museo,55.950491,-3.185489,55.950330,-3.185507,18,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,92,Edimburgo,Canongate Tolbooth,Canongate Tolbooth,Museo,55.951478,-3.179947,55.951501,-3.180176,14,150,edimburgo,review,photon/bajo_umbral,ok
+europa_occidental.csv,176,Ámsterdam,Magere Brug,Magere Brug,Sitio,52.3637,4.9024,52.363584,4.902375,13,300,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,94,Edimburgo,Scottish National Gallery,Scottish National Gallery,Museo,55.950885,-3.195612,55.950885,-3.195612,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,95,Edimburgo,Scottish National Portrait Gallery,Scottish National Portrait Gallery,Museo,55.955466,-3.193592,55.955466,-3.193592,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,96,Edimburgo,Writers' Museum,Writers' Museum,Museo,55.949691,-3.193742,55.949691,-3.193742,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,97,Edimburgo,Museum of Edinburgh,Museum of Edinburgh,Museo,55.95121,-3.1795,55.951210,-3.179500,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,99,Edimburgo,Surgeons' Hall Museum,Surgeons' Hall Museums,Museo,55.946767,-3.18468,55.946767,-3.184680,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,100,Edimburgo,Camera Obscura,Camera Obscura,Museo,55.949029,-3.195604,55.949029,-3.195604,0,150,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,101,Edimburgo,The Scotch Whisky Experience,Scotch Whisky Experience,Experiencia,55.948743,-3.195875,55.948743,-3.195875,0,300,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,102,Edimburgo,Arthur's Seat,Arthur's Seat,Mirador,55.944069,-3.161603,55.944069,-3.161603,0,150,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,104,Edimburgo,Holyrood Park,Holyrood Park,Parque,55.94564,-3.1638,55.945640,-3.163800,0,600,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,106,Edimburgo,Royal Botanic Garden,Royal Botanic Garden Edinburgh,Parque,55.965285,-3.208859,55.965285,-3.208859,0,600,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,107,Edimburgo,The Meadows,The Meadows,Parque,55.942341,-3.194293,55.942341,-3.194293,0,600,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,108,Edimburgo,Stockbridge Market,Stockbridge Market,Mercado,55.957629,-3.208443,55.957629,-3.208443,0,300,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,110,Edimburgo,Sandy Bell's,Sandy Bell's,Pub,55.946081,-3.19129,55.946081,-3.191290,0,120,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,112,Edimburgo,The Elephant House,The Elephant House,Harry Potter,55.94757,-3.191785,55.947570,-3.191785,0,300,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,113,Edimburgo,Balmoral Hotel,The Balmoral Hotel,Harry Potter,55.953088,-3.189263,55.953088,-3.189263,0,300,edimburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,116,Edimburgo,Stockbridge,Stockbridge,Barrio,55.957972,-3.20934,55.957972,-3.209340,0,1500,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,117,Edimburgo,Leith,Leith,Barrio,55.97255,-3.170949,55.972550,-3.170949,0,1500,edimburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,118,Highlands,West Highland Museum,West Highland Museum,Museo,56.81763,-5.111046,56.817630,-5.111046,0,150,fort_william,high,nominatim/nominatim_free,ok
+europa_occidental.csv,119,Highlands,Nevis Range Gondola,Nevis Range,Teleférico,56.844383,-4.985630,56.844383,-4.985630,0,300,fort_william,high,nominatim/nominatim_free,ok
+europa_occidental.csv,120,Highlands,Ben Nevis,Ben Nevis,Trekking,56.796858,-5.003526,56.796858,-5.003526,0,3000,fort_william,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,121,Highlands,Neptune's Staircase,Neptune's Staircase,Sitio histórico,56.845559,-5.096915,56.845559,-5.096915,0,200,fort_william,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,123,Highlands,Buachaille Etive Mòr,Buachaille Etive Mor,Paisaje,56.633967,-4.936779,56.633967,-4.936779,0,2500,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,124,Highlands,Glen Etive,Glen Etive,Paisaje,56.61606,-4.963061,56.616060,-4.963061,0,2500,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,127,Highlands,Glencoe Lochan,Glencoe Lochan,Naturaleza,56.690691,-5.095836,56.690691,-5.095836,0,2000,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,128,Highlands,Glencoe Visitor Centre,Glencoe Visitor Centre,Museo,56.670703,-5.079679,56.670703,-5.079679,0,150,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,129,Highlands,Devil's Staircase,Devil's Staircase,Trekking,56.673443,-4.912884,56.673443,-4.912884,0,3000,glencoe,high,overpass/bajo_umbral,ok
+europa_occidental.csv,130,Highlands,Glenfinnan Viaduct,Glenfinnan Viaduct,Sitio histórico,56.875824,-5.429320,56.875824,-5.429320,0,200,glenfinnan,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,131,Highlands,Glenfinnan Monument,Glenfinnan Monument,Sitio histórico,56.869173,-5.43705,56.869173,-5.437050,0,200,glenfinnan,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,133,Highlands,Oban,Oban,Pueblo,56.412017,-5.472373,56.412017,-5.472373,0,6000,oban_appin,high,nominatim/nominatim_free,ok
+europa_occidental.csv,134,Highlands,Loch Lomond,Loch Lomond,Paisaje,56.156196,-4.656376,56.156196,-4.656376,0,2500,loch_lomond,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,136,Highlands,Plockton,Plockton,Pueblo,57.338081,-5.651894,57.338081,-5.651894,0,6000,torridon_applecross,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,137,Highlands,Bealach na Bà / Applecross,Bealach na Ba,Paisaje,57.407683,-5.674971,57.407683,-5.674971,0,2500,torridon_applecross,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,140,Highlands,Fairy Glen,Fairy Glen,Paisaje,57.583350,-6.327396,57.583350,-6.327396,0,2500,skye_noroeste,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,141,Highlands,Skye Museum of Island Life,Skye Museum of Island Life,Museo,57.660216,-6.368944,57.660216,-6.368944,0,150,skye_noroeste,high,nominatim/nominatim_free,ok
+europa_occidental.csv,142,Highlands,Neist Point Lighthouse,Neist Point Lighthouse,Paisaje,57.423388,-6.788237,57.423388,-6.788237,0,2500,skye_oeste,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,143,Highlands,Fairy Pools,Fairy Pools,Trekking,57.249108,-6.248658,57.249108,-6.248658,0,3000,skye_sur,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,146,Highlands,Ness Islands,Ness Islands,Naturaleza,57.464031,-4.230526,57.464031,-4.230526,0,2000,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,147,Highlands,Inverness Castle,Inverness Castle,Castillo,57.476433,-4.225644,57.476433,-4.225644,0,250,inverness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,149,Highlands,Church Street,Church Street,Barrio,57.477762,-4.225662,57.477762,-4.225662,0,1500,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,150,Highlands,Loch Ness Centre,Loch Ness Centre,Museo,57.33737,-4.477875,57.337370,-4.477875,0,150,loch_ness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,151,Highlands,Fort Augustus,Fort Augustus,Pueblo,57.144332,-4.681487,57.144332,-4.681487,0,6000,loch_ness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,152,Highlands,Culloden Battlefield,Culloden Battlefield,Sitio histórico,57.476543,-4.100123,57.476543,-4.100123,0,200,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,153,Highlands,Fort George,Fort George,Sitio histórico,57.583811,-4.070286,57.583811,-4.070286,0,200,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,154,Highlands,Cawdor Castle,Cawdor Castle,Castillo,57.524183,-3.926553,57.524183,-3.926553,0,250,inverness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,155,Highlands,Chanonry Point,Chanonry Point,Naturaleza,57.574137,-4.091792,57.574137,-4.091792,0,2000,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,156,Highlands,Glen Affric,Glen Affric,Paisaje,57.263658,-4.999046,57.263658,-4.999046,0,2500,glen_affric,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,157,Highlands,Cairngorms / Aviemore,Aviemore,Parque nacional,57.193753,-3.82875,57.193753,-3.828750,0,5000,cairngorms,high,nominatim/nominatim_free,ok
+europa_occidental.csv,158,Highlands,Corrieshalloch Gorge,Corrieshalloch Gorge,Naturaleza,57.757699,-5.023221,57.757699,-5.023221,0,2000,ullapool,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,160,Highlands,Blair Castle,Blair Castle,Castillo,56.773376,-3.856823,56.773376,-3.856823,0,250,perthshire,high,nominatim/nominatim_free,ok
+europa_occidental.csv,161,Highlands,Dunkeld,Dunkeld,Pueblo,56.565571,-3.586255,56.565571,-3.586255,0,6000,perthshire,high,nominatim/nominatim_free,ok
+europa_occidental.csv,162,Highlands,Stirling Castle,Stirling Castle,Castillo,56.124031,-3.948011,56.124031,-3.948011,0,250,stirling_falkirk,high,nominatim/nominatim_free,ok
+europa_occidental.csv,163,Highlands,The Kelpies,The Kelpies,Escultura,56.019136,-3.755499,56.019136,-3.755499,0,150,stirling_falkirk,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,165,Highlands,Tomatin Distillery,Tomatin Distillery,Destilería,57.338986,-4.009283,57.338986,-4.009283,0,250,cairngorms,high,nominatim/nominatim_free,ok
+europa_occidental.csv,166,Ámsterdam,Anne Frank House,Anne Frank House,Museo,52.375156,4.884081,52.375156,4.884081,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,167,Ámsterdam,Rijksmuseum,Rijksmuseum,Museo,52.359843,4.88504,52.359843,4.885040,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,168,Ámsterdam,Van Gogh Museum,Van Gogh Museum,Museo,52.358367,4.88109,52.358367,4.881090,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,169,Ámsterdam,Stedelijk Museum,Stedelijk Museum,Museo,52.3579,4.87986,52.357900,4.879860,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,170,Ámsterdam,Rembrandt House,Rembrandt House Museum,Museo,52.369369,4.90125,52.369369,4.901250,0,150,amsterdam,review,nominatim/fuentes discrepan 1.3 km,ok
+europa_occidental.csv,171,Ámsterdam,Hortus Botanicus,Hortus Botanicus,Jardín,52.366806,4.907778,52.366806,4.907778,0,400,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,172,Ámsterdam,Red Light Secrets,Red Light Secrets,Museo,52.373646,4.898975,52.373646,4.898975,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,173,Ámsterdam,Hash Marihuana & Hemp Museum,Hash Marihuana Hemp Museum,Museo,52.371762,4.896959,52.371762,4.896959,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,175,Ámsterdam,Moco Museum,Moco Museum,Museo,52.358716,4.881962,52.358716,4.881962,0,150,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,177,Ámsterdam,Jordaan,Jordaan,Barrio,52.375416,4.881096,52.375416,4.881096,0,1500,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,178,Ámsterdam,De Pijp,De Pijp,Barrio,52.353346,4.896962,52.353346,4.896962,0,1500,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,179,Ámsterdam,De Wallen (Red Light District),De Wallen,Barrio,52.373408,4.898281,52.373408,4.898281,0,1500,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,180,Ámsterdam,Oud-West,Oud-West,Barrio,52.364815,4.869762,52.364815,4.869762,0,1500,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,181,Ámsterdam,Oost,Amsterdam-Oost,Barrio,52.351814,4.930553,52.351814,4.930553,0,1500,amsterdam,high,photon/photon,ok
+europa_occidental.csv,184,Ámsterdam,Paradox,Paradox Coffeeshop,Coffee shop,52.374536,4.881251,52.374536,4.881251,0,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,185,Ámsterdam,Magic Mushroom Gallery,Magic Mushroom Gallery,Smart shop,52.370677,4.889363,52.370677,4.889363,0,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,189,Ámsterdam,Brouwerij 't IJ,Brouwerij 't IJ,Bar,52.366698,4.926347,52.366698,4.926347,0,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,190,Ámsterdam,Café de Dokter,Café de Dokter,Bar,52.369255,4.890812,52.369255,4.890812,0,120,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,193,Ámsterdam,Heineken Experience,Heineken Experience,Experiencia,52.35784,4.891784,52.357840,4.891784,0,300,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,196,Ámsterdam,Begijnhof,Begijnhof,Sitio,52.369431,4.890043,52.369431,4.890043,0,300,amsterdam,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,200,Ámsterdam,Noordermarkt,Noordermarkt,Mercado,52.379258,4.886632,52.379258,4.886632,0,300,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,201,Ámsterdam,Bloemenmarkt,Bloemenmarkt,Mercado,52.366931,4.890765,52.366931,4.890765,0,300,amsterdam,high,nominatim/nominatim_free,ok
+europa_occidental.csv,204,Colmar,Maison Pfister,Maison Pfister,Casco histórico,48.076751,7.358151,48.076751,7.358151,0,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,205,Colmar,Maison des Têtes,Maison des Têtes,Casco histórico,48.07856,7.355532,48.078560,7.355532,0,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,206,Colmar,Collégiale Saint-Martin,Collégiale Saint-Martin,Iglesia,48.077347,7.35811,48.077347,7.358110,0,150,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,207,Colmar,Ancien Corps de Garde,Ancien Corps de Garde,Casco histórico,48.076867,7.357818,48.076867,7.357818,0,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,209,Colmar,Rue des Têtes,Rue des Têtes,Casco histórico,48.078683,7.355487,48.078683,7.355487,0,1500,colmar,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,210,Colmar,Musée Unterlinden,Musée Unterlinden,Museo,48.079864,7.355556,48.079864,7.355556,0,150,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,211,Colmar,Musée Bartholdi,Musée Bartholdi,Museo,48.076609,7.357482,48.076609,7.357482,0,150,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,212,Colmar,Musée du Jouet,Musée du Jouet,Museo,48.079104,7.362284,48.079104,7.362284,0,150,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,213,Colmar,Musée d'Histoire Naturelle et d'Ethnographie,Musée d'Histoire Naturelle et d'Ethnographie,Museo,48.073624,7.358822,48.073624,7.358822,0,150,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,214,Colmar,Marché Couvert (Les Halles),Marché Couvert Colmar,Mercado,48.074621,7.3598,48.074620,7.359802,0,300,colmar,high,nominatim/nominatim_free,ok
+europa_occidental.csv,215,Colmar,Eguisheim,Eguisheim,Pueblo Route des Vins,48.044797,7.307962,48.044797,7.307962,0,6000,colmar,high,photon/bajo_umbral,ok
+europa_occidental.csv,216,Colmar,Kaysersberg,Kaysersberg,Pueblo Route des Vins,48.139339,7.261328,48.139339,7.261328,0,6000,colmar,high,nominatim/bajo_umbral,ok
+europa_occidental.csv,221,Estrasburgo,Catedral Notre-Dame,Cathédrale Notre-Dame de Strasbourg,Catedral,48.581888,7.751052,48.581888,7.751052,0,150,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,223,Estrasburgo,Petite France,Petite France,Casco histórico,48.581365,7.742181,48.581365,7.742181,0,1500,estrasburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,226,Estrasburgo,Place Gutenberg,Place Gutenberg,Plaza,48.58119,7.748539,48.581190,7.748539,0,250,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,228,Estrasburgo,Château Vodou,Château Vodou,Museo,48.580383,7.728755,48.580383,7.728755,0,150,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,229,Estrasburgo,Musée de l'Œuvre Notre-Dame,Musée de l'Œuvre Notre-Dame,Museo,48.580869,7.751294,48.580869,7.751294,0,150,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,230,Estrasburgo,Barrio Krutenau,Krutenau,Barrio,48.579692,7.756768,48.579692,7.756768,0,1500,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,231,Estrasburgo,Quai des Bateliers,Quai des Bateliers,Barrio,48.580627,7.75366,48.580627,7.753660,0,1500,estrasburgo,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,232,Estrasburgo,Parc de l'Orangerie,Parc de l'Orangerie,Parque,48.59173,7.774478,48.591730,7.774478,0,600,estrasburgo,high,nominatim/nominatim_free,ok
+europa_occidental.csv,234,Estrasburgo,Batorama (barco canales),Batorama,Transporte,48.580171,7.752093,48.580171,7.752093,0,300,estrasburgo,high,nominatim/nominatim_bounded,ok

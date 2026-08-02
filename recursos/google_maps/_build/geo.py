@@ -278,6 +278,35 @@ class RateLimited(Exception):
     """Nominatim devolvió 429. NO es lo mismo que 'no hay resultados'."""
 
 
+# Circuit breaker. Cuando Nominatim nos bloquea, cada consulta cuesta ~2 min de
+# backoff para terminar fallando igual. Tras 3 seguidas se lo saltea por 10
+# minutos y se trabaja con Photon, que responde en ~1 s y no corta. Sin esto la
+# auditoría de las 976 filas avanzaba ~10 por corrida.
+_nominatim_fallos = {"n": 0, "hasta": 0.0}
+COOLDOWN_S = 600
+FALLOS_PARA_CORTAR = 3
+
+
+def nominatim_disponible() -> bool:
+    if time.time() < _nominatim_fallos["hasta"]:
+        return False
+    if _nominatim_fallos["hasta"]:      # se cumplió el cooldown: reintentar
+        _nominatim_fallos.update(n=0, hasta=0.0)
+    return True
+
+
+def _registrar_429() -> None:
+    _nominatim_fallos["n"] += 1
+    if _nominatim_fallos["n"] >= FALLOS_PARA_CORTAR:
+        _nominatim_fallos["hasta"] = time.time() + COOLDOWN_S
+        print(f"  [geo] Nominatim bloqueado: lo salteo {COOLDOWN_S//60} min y uso Photon",
+              flush=True)
+
+
+def _registrar_ok() -> None:
+    _nominatim_fallos["n"] = 0
+
+
 def nominatim_search(query: str, area: Area | None, bounded: bool, limit: int = 8) -> list[Candidate]:
     """Devuelve candidatos. Lanza RateLimited si nos están limitando.
 
@@ -291,17 +320,22 @@ def nominatim_search(query: str, area: Area | None, bounded: bool, limit: int = 
         params["viewbox"] = area.viewbox
         params["bounded"] = 1
 
+    if not nominatim_disponible():
+        raise RateLimited("en cooldown por 429 previos")
+
     url = f"{NOMINATIM}?{urllib.parse.urlencode(params)}"
-    for intento in range(4):
+    for intento in range(3):
         _throttle("nominatim", SLEEP_NOMINATIM)
         try:
             data = json.loads(_get(url))
+            _registrar_ok()
             break
         except urllib.error.HTTPError as e:
             if e.code == 429:
-                if intento == 3:
+                if intento == 2:
+                    _registrar_429()
                     raise RateLimited(f"429 tras {intento + 1} intentos: {query!r}") from e
-                time.sleep(20 * (intento + 1))   # 20s, 40s, 60s
+                time.sleep(10 * (intento + 1))   # 10s, 20s
                 continue
             if e.code in (502, 503, 504):
                 time.sleep(5 * (intento + 1))
@@ -606,7 +640,10 @@ def resolve_multi(
     from areas import AREAS, covering_areas
 
     span = _span_area(area_keys)
-    ck = cache_key("|".join(sorted(area_keys)), nombre_local) if cache is not None else ""
+    # El prefijo evita chocar con las entradas de resolve(): para una ciudad de
+    # una sola área, "|".join(['cracovia']) == 'cracovia', la misma clave que
+    # usa resolve(), y los dos guardan formatos distintos.
+    ck = f"multi::{cache_key('|'.join(sorted(area_keys)), nombre_local)}" if cache is not None else ""
     if cache is not None and ck in cache:
         d = dict(cache[ck])
         return Resolution(**d["res"]), d["area_key"]
@@ -640,13 +677,27 @@ def resolve_multi(
     # por el sufijo ", Isle of Skye, UK", no por el nombre). Overpass sobre el
     # span combinado es carísimo —la bbox de Highlands mide ~3,5°— así que queda
     # como fallback y acotado a la sub-área, no al span.
+    q = f"{nombre_local}, {region_hint}" if region_hint else f"{nombre_local}, {span.country_en}"
+
     if res is None:
-        q = f"{nombre_local}, {region_hint}" if region_hint else f"{nombre_local}, {span.country_en}"
-        c, s, k = evaluate(nominatim_search(q, None, bounded=False, limit=10))
+        try:
+            cands = nominatim_search(q, None, bounded=False, limit=10)
+        except RateLimited:
+            cands = []          # se sigue con Photon en vez de abortar
+        c, s, k = evaluate(cands)
         if c is not None:
             found.append((c, s, k))
             if s >= TH_NOMINATIM_FREE:
                 res, win_key = _mk(c, s, "high", "nominatim_free"), k
+
+    # Photon: sin el rate limit de Nominatim. Sin esta pasada la auditoría de
+    # las 585 filas avanzaba ~10 por corrida.
+    if res is None:
+        c, s, k = evaluate(photon_search(q, span, limit=8))
+        if c is not None:
+            found.append((c, s, k))
+            if s >= TH_NOMINATIM_FREE:
+                res, win_key = _mk(c, s, "high", "photon"), k
 
     if res is None:
         c, s, k = evaluate(nominatim_search(nombre_local, span, bounded=True))
