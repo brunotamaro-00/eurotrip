@@ -32443,5 +32443,1308 @@
   "display": "",
   "reason": "sin_candidatos",
   "alternatives": []
+ },
+ "agrigento::museo diocesano": {
+  "ok": true,
+  "lat": 37.313694,
+  "lng": 13.577427,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.922,
+  "name": "Museo Diocesano",
+  "locality": "Agrigento",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q25409844",
+  "display": "Museo Diocesano, 100, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.3136942,
+    "lng": 13.5774268,
+    "name": "Museo Diocesano",
+    "source": "nominatim",
+    "osm_id": "way/1203086376",
+    "wikidata": "Q25409844",
+    "osm_class": "tourism=museum",
+    "locality": "Agrigento",
+    "display": "Museo Diocesano, 100, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Museo Diocesano"
+    ],
+    "importance": 0.32316133360556143,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::cattedrale di san gerlando": {
+  "ok": true,
+  "lat": 37.314003,
+  "lng": 13.576383,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.77,
+  "name": "Cattedrale di San Gerlando",
+  "locality": "Agrigento",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q2942535",
+  "display": "Cattedrale di San Gerlando, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.3140034,
+    "lng": 13.5763829,
+    "name": "Cattedrale di San Gerlando",
+    "source": "nominatim",
+    "osm_id": "way/1203086355",
+    "wikidata": "Q2942535",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Agrigento",
+    "display": "Cattedrale di San Gerlando, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Cattedrale di San Gerlando"
+    ],
+    "importance": 0.3436304091577327,
+    "rank": 0
+   },
+   {
+    "lat": 37.3140034,
+    "lng": 13.5763829,
+    "name": "Cattedrale di San Gerlando",
+    "source": "nominatim",
+    "osm_id": "way/1203086355",
+    "wikidata": "Q2942535",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Agrigento",
+    "display": "Cattedrale di San Gerlando, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Cattedrale di San Gerlando"
+    ],
+    "importance": 0.3436304091577327,
+    "rank": 0
+   },
+   {
+    "lat": 37.3140034,
+    "lng": 13.5763829,
+    "name": "Cattedrale di San Gerlando",
+    "source": "nominatim",
+    "osm_id": "way/1203086355",
+    "wikidata": "Q2942535",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Agrigento",
+    "display": "Cattedrale di San Gerlando, Via Duomo, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Cattedrale di San Gerlando"
+    ],
+    "importance": 0.3436304091577327,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::monastero di santo spirito": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::chiesa di santa maria dei greci": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::chiesa di san nicola": {
+  "ok": true,
+  "lat": 37.296552,
+  "lng": 13.589222,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.744,
+  "name": "Chiesa di San Nicola",
+  "locality": "Agrigento",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q56049494",
+  "display": "Chiesa di San Nicola, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2965524,
+    "lng": 13.5892225,
+    "name": "Chiesa di San Nicola",
+    "source": "nominatim",
+    "osm_id": "way/129114689",
+    "wikidata": "Q56049494",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Agrigento",
+    "display": "Chiesa di San Nicola, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Chiesa di San Nicola"
+    ],
+    "importance": 0.12743869505990896,
+    "rank": 0
+   },
+   {
+    "lat": 37.2965524,
+    "lng": 13.5892225,
+    "name": "Chiesa di San Nicola",
+    "source": "nominatim",
+    "osm_id": "way/129114689",
+    "wikidata": "Q56049494",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Agrigento",
+    "display": "Chiesa di San Nicola, Via Passeggiata Archeologica, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Chiesa di San Nicola"
+    ],
+    "importance": 0.12743869505990896,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::via atenea": {
+  "ok": true,
+  "lat": 37.31063,
+  "lng": 13.582753,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.717,
+  "name": "Via Atenea",
+  "locality": "Agrigento",
+  "osm_class": "highway=bus_stop",
+  "wikidata": "",
+  "display": "Via Atenea, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.3106303,
+    "lng": 13.5827534,
+    "name": "Via Atenea",
+    "source": "nominatim",
+    "osm_id": "node/7704439264",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Agrigento",
+    "display": "Via Atenea, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Via Atenea"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 2
+   },
+   {
+    "lat": 37.3106303,
+    "lng": 13.5827534,
+    "name": "Via Atenea",
+    "source": "nominatim",
+    "osm_id": "node/7704439264",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Agrigento",
+    "display": "Via Atenea, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Via Atenea"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 2
+   },
+   {
+    "lat": 37.3106303,
+    "lng": 13.5827534,
+    "name": "Via Atenea",
+    "source": "nominatim",
+    "osm_id": "node/7704439264",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Agrigento",
+    "display": "Via Atenea, Bibirria, Calcarelle, Villaseta, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Via Atenea"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 2
+   }
+  ]
+ },
+ "agrigento::scalinata dei giganti callejeo del casco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::scala dei turchi": {
+  "ok": true,
+  "lat": 37.289918,
+  "lng": 13.4727,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.797,
+  "name": "Scala dei Turchi",
+  "locality": "Punta Grande",
+  "osm_class": "natural=cliff",
+  "wikidata": "Q3951389",
+  "display": "Scala dei Turchi, Scavuzzo, Punta Grande, Realmonte, Agrigento, Sicilia, 92010, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2899181,
+    "lng": 13.4726999,
+    "name": "Scala dei Turchi",
+    "source": "nominatim",
+    "osm_id": "node/305914400",
+    "wikidata": "Q3951389",
+    "osm_class": "natural=cliff",
+    "locality": "Punta Grande",
+    "display": "Scala dei Turchi, Scavuzzo, Punta Grande, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Scala dei Turchi"
+    ],
+    "importance": 0.26704010519783294,
+    "rank": 0
+   },
+   {
+    "lat": 37.2899181,
+    "lng": 13.4726999,
+    "name": "Scala dei Turchi",
+    "source": "nominatim",
+    "osm_id": "node/305914400",
+    "wikidata": "Q3951389",
+    "osm_class": "natural=cliff",
+    "locality": "Punta Grande",
+    "display": "Scala dei Turchi, Scavuzzo, Punta Grande, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Scala dei Turchi"
+    ],
+    "importance": 0.26704010519783294,
+    "rank": 0
+   },
+   {
+    "lat": 37.2899181,
+    "lng": 13.4726999,
+    "name": "Scala dei Turchi",
+    "source": "nominatim",
+    "osm_id": "node/305914400",
+    "wikidata": "Q3951389",
+    "osm_class": "natural=cliff",
+    "locality": "Punta Grande",
+    "display": "Scala dei Turchi, Scavuzzo, Punta Grande, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Scala dei Turchi"
+    ],
+    "importance": 0.26704010519783294,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::punta bianca": {
+  "ok": true,
+  "lat": 37.194384,
+  "lng": 13.661105,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.753,
+  "name": "Punta Bianca",
+  "locality": "Agrigento",
+  "osm_class": "natural=cape",
+  "wikidata": "Q13197360",
+  "display": "Punta Bianca, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.1943839,
+    "lng": 13.6611052,
+    "name": "Punta Bianca",
+    "source": "nominatim",
+    "osm_id": "node/88106751",
+    "wikidata": "Q13197360",
+    "osm_class": "natural=cape",
+    "locality": "Agrigento",
+    "display": "Punta Bianca, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Punta Bianca"
+    ],
+    "importance": 0.10669536659800104,
+    "rank": 0
+   },
+   {
+    "lat": 37.1943839,
+    "lng": 13.6611052,
+    "name": "Punta Bianca",
+    "source": "nominatim",
+    "osm_id": "node/88106751",
+    "wikidata": "Q13197360",
+    "osm_class": "natural=cape",
+    "locality": "Agrigento",
+    "display": "Punta Bianca, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Punta Bianca"
+    ],
+    "importance": 0.10669536659800104,
+    "rank": 8
+   },
+   {
+    "lat": 37.1943839,
+    "lng": 13.6611052,
+    "name": "Punta Bianca",
+    "source": "nominatim",
+    "osm_id": "node/88106751",
+    "wikidata": "Q13197360",
+    "osm_class": "natural=cape",
+    "locality": "Agrigento",
+    "display": "Punta Bianca, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Punta Bianca"
+    ],
+    "importance": 0.10669536659800104,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::riserva wwf": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::realmonte lido rossello": {
+  "ok": true,
+  "lat": 37.295947,
+  "lng": 13.457069,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.693,
+  "name": "Lido Rossello",
+  "locality": "Lido Rossello",
+  "osm_class": "place=village",
+  "wikidata": "Q18451609",
+  "display": "Lido Rossello, Realmonte, Agrigento, Sicilia, 92010, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.3062367,
+    "lng": 13.4645986,
+    "name": "Realmonte",
+    "source": "nominatim",
+    "osm_id": "node/3396256940",
+    "wikidata": "",
+    "osm_class": "amenity=post_office",
+    "locality": "Lido Rossello",
+    "display": "Realmonte, Via Roma, Lido Rossello, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Realmonte"
+    ],
+    "importance": 5.39353017471125e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.3062367,
+    "lng": 13.4645986,
+    "name": "Realmonte",
+    "source": "nominatim",
+    "osm_id": "node/3396256940",
+    "wikidata": "",
+    "osm_class": "amenity=post_office",
+    "locality": "Lido Rossello",
+    "display": "Realmonte, Via Roma, Lido Rossello, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Realmonte"
+    ],
+    "importance": 5.39353017471125e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2959468,
+    "lng": 13.4570691,
+    "name": "Lido Rossello",
+    "source": "nominatim",
+    "osm_id": "node/465291474",
+    "wikidata": "Q18451609",
+    "osm_class": "place=village",
+    "locality": "Lido Rossello",
+    "display": "Lido Rossello, Realmonte, Agrigento, Sicilia, 92010, Italia",
+    "names_all": [
+     "Lido Rossello"
+    ],
+    "importance": 0.14670416800183103,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::porto empedocle": {
+  "ok": true,
+  "lat": 37.288313,
+  "lng": 13.52755,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.687,
+  "name": "Porto Empedocle",
+  "locality": "Porto Empedocle",
+  "osm_class": "boundary=administrative",
+  "wikidata": "Q432311",
+  "display": "Porto Empedocle, Agrigento, Sicilia, 92014, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.2883127,
+    "lng": 13.52755,
+    "name": "Porto Empedocle",
+    "source": "nominatim",
+    "osm_id": "relation/39212",
+    "wikidata": "Q432311",
+    "osm_class": "boundary=administrative",
+    "locality": "Porto Empedocle",
+    "display": "Porto Empedocle, Agrigento, Sicilia, 92014, Italia",
+    "names_all": [
+     "Porto Empedocle"
+    ],
+    "importance": 0.498665369618294,
+    "rank": 0
+   },
+   {
+    "lat": 37.2883127,
+    "lng": 13.52755,
+    "name": "Porto Empedocle",
+    "source": "nominatim",
+    "osm_id": "relation/39212",
+    "wikidata": "Q432311",
+    "osm_class": "boundary=administrative",
+    "locality": "Porto Empedocle",
+    "display": "Porto Empedocle, Agrigento, Sicilia, 92014, Italia",
+    "names_all": [
+     "Porto Empedocle"
+    ],
+    "importance": 0.498665369618294,
+    "rank": 0
+   },
+   {
+    "lat": 37.2883127,
+    "lng": 13.52755,
+    "name": "Porto Empedocle",
+    "source": "nominatim",
+    "osm_id": "relation/39212",
+    "wikidata": "Q432311",
+    "osm_class": "boundary=administrative",
+    "locality": "Porto Empedocle",
+    "display": "Porto Empedocle, Agrigento, Sicilia, 92014, Italia",
+    "names_all": [
+     "Porto Empedocle"
+    ],
+    "importance": 0.498665369618294,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::eraclea minoa": {
+  "ok": true,
+  "lat": 37.249307,
+  "lng": 13.624635,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.636,
+  "name": "Via Eraclea Minoa",
+  "locality": "Agrigento",
+  "osm_class": "highway=residential",
+  "wikidata": "",
+  "display": "Via Eraclea Minoa, Fiumenaro, Agrigento, Sicilia, 92100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.2493067,
+    "lng": 13.6246345,
+    "name": "Via Eraclea Minoa",
+    "source": "nominatim",
+    "osm_id": "way/189396370",
+    "wikidata": "",
+    "osm_class": "highway=residential",
+    "locality": "Agrigento",
+    "display": "Via Eraclea Minoa, Fiumenaro, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Via Eraclea Minoa"
+    ],
+    "importance": 0.053399344625009504,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::sciacca": {
+  "ok": true,
+  "lat": 37.266643,
+  "lng": 13.753845,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.678,
+  "name": "Masseria Sciacca",
+  "locality": "Naro",
+  "osm_class": "place=isolated_dwelling",
+  "wikidata": "",
+  "display": "Masseria Sciacca, Naro, Agrigento, Sicilia, 92028, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.266643,
+    "lng": 13.7538448,
+    "name": "Masseria Sciacca",
+    "source": "nominatim",
+    "osm_id": "node/6929456809",
+    "wikidata": "",
+    "osm_class": "place=isolated_dwelling",
+    "locality": "Naro",
+    "display": "Masseria Sciacca, Naro, Agrigento, Sicilia, 92028, Italia",
+    "names_all": [
+     "Masseria Sciacca"
+    ],
+    "importance": 0.10671966353856716,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::caltabellotta": {
+  "ok": true,
+  "lat": 37.251105,
+  "lng": 13.612156,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.641,
+  "name": "Via Pace di Caltabellotta",
+  "locality": "Agrigento",
+  "osm_class": "highway=residential",
+  "wikidata": "",
+  "display": "Via Pace di Caltabellotta, Magellano Secondo, Le Dune, Cannatello, Agrigento, Sicilia, 92100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.2511054,
+    "lng": 13.6121559,
+    "name": "Via Pace di Caltabellotta",
+    "source": "nominatim",
+    "osm_id": "way/189396470",
+    "wikidata": "",
+    "osm_class": "highway=residential",
+    "locality": "Agrigento",
+    "display": "Via Pace di Caltabellotta, Magellano Secondo, Le Dune, Cannatello, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Via Pace di Caltabellotta"
+    ],
+    "importance": 0.053399344625009504,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::riserva naturale foce del fiume platani": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::sagra del mandorlo in fiore": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::programacion de capital de la cultura 2025": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::cattedrale di san nicolo": {
+  "ok": true,
+  "lat": 36.891622,
+  "lng": 15.070927,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.926,
+  "name": "Cattedrale di San Nicolò",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q749677",
+  "display": "Cattedrale di San Nicolò, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8916222,
+    "lng": 15.070927,
+    "name": "Cattedrale di San Nicolò",
+    "source": "nominatim",
+    "osm_id": "way/192123180",
+    "wikidata": "Q749677",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Cattedrale di San Nicolò, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Cattedrale di San Nicolò"
+    ],
+    "importance": 0.36467385585497514,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::palazzo ducezio": {
+  "ok": true,
+  "lat": 36.890711,
+  "lng": 15.070549,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.855,
+  "name": "Palazzo Ducezio",
+  "locality": "Noto",
+  "osm_class": "building=yes",
+  "wikidata": "Q18910350",
+  "display": "Palazzo Ducezio, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8907114,
+    "lng": 15.0705492,
+    "name": "Palazzo Ducezio",
+    "source": "nominatim",
+    "osm_id": "way/196358501",
+    "wikidata": "Q18910350",
+    "osm_class": "building=yes",
+    "locality": "Noto",
+    "display": "Palazzo Ducezio, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Palazzo Ducezio"
+    ],
+    "importance": 0.2901765588551152,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::chiesa di san domenico": {
+  "ok": true,
+  "lat": 36.89212,
+  "lng": 15.068133,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.92,
+  "name": "Chiesa di San Domenico",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3669884",
+  "display": "Chiesa di San Domenico, Via Giovanni Bovio, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8921205,
+    "lng": 15.0681333,
+    "name": "Chiesa di San Domenico",
+    "source": "nominatim",
+    "osm_id": "way/299846417",
+    "wikidata": "Q3669884",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Chiesa di San Domenico, Via Giovanni Bovio, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Chiesa di San Domenico"
+    ],
+    "importance": 0.2853231881743613,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::chiesa di santa chiara": {
+  "ok": true,
+  "lat": 36.890465,
+  "lng": 15.071648,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.92,
+  "name": "Chiesa di Santa Chiara",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3672965",
+  "display": "Chiesa di Santa Chiara, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8904652,
+    "lng": 15.0716484,
+    "name": "Chiesa di Santa Chiara",
+    "source": "nominatim",
+    "osm_id": "way/301728235",
+    "wikidata": "Q3672965",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Chiesa di Santa Chiara, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Chiesa di Santa Chiara"
+    ],
+    "importance": 0.2844781372993679,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::chiesa di san carlo al corso": {
+  "ok": true,
+  "lat": 36.890864,
+  "lng": 15.069365,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.921,
+  "name": "Chiesa di San Carlo al Corso",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3669747",
+  "display": "Chiesa di San Carlo al Corso, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8908644,
+    "lng": 15.0693646,
+    "name": "Chiesa di San Carlo al Corso",
+    "source": "nominatim",
+    "osm_id": "way/299846416",
+    "wikidata": "Q3669747",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Chiesa di San Carlo al Corso, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Chiesa di San Carlo al Corso"
+    ],
+    "importance": 0.2844781372993679,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::chiesa del santissimo crocifisso": {
+  "ok": true,
+  "lat": 36.894619,
+  "lng": 15.072024,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Chiesa del Santissimo Crocifisso",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3668633",
+  "display": "Chiesa del Santissimo Crocifisso, Ronco Astronomo Scala, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8946191,
+    "lng": 15.0720243,
+    "name": "Chiesa del Santissimo Crocifisso",
+    "source": "nominatim",
+    "osm_id": "way/195583882",
+    "wikidata": "Q3668633",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Chiesa del Santissimo Crocifisso, Ronco Astronomo Scala, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Chiesa del Santissimo Crocifisso"
+    ],
+    "importance": 0.2836220396951343,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::chiesa di montevergine": {
+  "ok": true,
+  "lat": 36.892451,
+  "lng": 15.070179,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.903,
+  "name": "Chiesa di Montevergine",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q85751943",
+  "display": "Chiesa di Montevergine, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8924509,
+    "lng": 15.0701791,
+    "name": "Chiesa di Montevergine",
+    "source": "nominatim",
+    "osm_id": "way/824637756",
+    "wikidata": "Q85751943",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Chiesa di Montevergine, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Chiesa di Montevergine"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::porta reale": {
+  "ok": true,
+  "lat": 36.89005,
+  "lng": 15.073751,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.751,
+  "name": "Porta Reale",
+  "locality": "Noto",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q3908768",
+  "display": "Porta Reale, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8900497,
+    "lng": 15.073751,
+    "name": "Porta Reale",
+    "source": "nominatim",
+    "osm_id": "way/1181394613",
+    "wikidata": "Q3908768",
+    "osm_class": "tourism=attraction",
+    "locality": "Noto",
+    "display": "Porta Reale, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Porta Reale"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   },
+   {
+    "lat": 36.8900497,
+    "lng": 15.073751,
+    "name": "Porta Reale",
+    "source": "nominatim",
+    "osm_id": "way/1181394613",
+    "wikidata": "Q3908768",
+    "osm_class": "tourism=attraction",
+    "locality": "Noto",
+    "display": "Porta Reale, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Porta Reale"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   },
+   {
+    "lat": 36.8900497,
+    "lng": 15.073751,
+    "name": "Porta Reale",
+    "source": "nominatim",
+    "osm_id": "way/1181394613",
+    "wikidata": "Q3908768",
+    "osm_class": "tourism=attraction",
+    "locality": "Noto",
+    "display": "Porta Reale, Corso Vittorio Emanuele, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Porta Reale"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::piazza municipio piazza xvi maggio y piazza dellimmacolata": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::palazzo nicolaci di villadorata": {
+  "ok": true,
+  "lat": 36.89203,
+  "lng": 15.069839,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.834,
+  "name": "Palazzo Nicolaci",
+  "locality": "Noto",
+  "osm_class": "historic=building",
+  "wikidata": "",
+  "display": "Palazzo Nicolaci, Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8920304,
+    "lng": 15.0698393,
+    "name": "Palazzo Nicolaci",
+    "source": "nominatim",
+    "osm_id": "way/485717699",
+    "wikidata": "",
+    "osm_class": "historic=building",
+    "locality": "Noto",
+    "display": "Palazzo Nicolaci, Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Palazzo Nicolaci"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::via corrado nicolaci": {
+  "ok": true,
+  "lat": 36.891728,
+  "lng": 15.069867,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.75,
+  "name": "Via Corrado Nicolaci",
+  "locality": "Noto",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8917277,
+    "lng": 15.0698673,
+    "name": "Via Corrado Nicolaci",
+    "source": "nominatim",
+    "osm_id": "way/26496205",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Noto",
+    "display": "Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Via Corrado Nicolaci"
+    ],
+    "importance": 0.053392258335240673,
+    "rank": 0
+   },
+   {
+    "lat": 36.8917277,
+    "lng": 15.0698673,
+    "name": "Via Corrado Nicolaci",
+    "source": "nominatim",
+    "osm_id": "way/26496205",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Noto",
+    "display": "Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Via Corrado Nicolaci"
+    ],
+    "importance": 0.053392258335240673,
+    "rank": 0
+   },
+   {
+    "lat": 36.8917277,
+    "lng": 15.0698673,
+    "name": "Via Corrado Nicolaci",
+    "source": "nominatim",
+    "osm_id": "way/26496205",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Noto",
+    "display": "Via Corrado Nicolaci, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Via Corrado Nicolaci"
+    ],
+    "importance": 0.053392258335240673,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::palazzo castelluccio": {
+  "ok": true,
+  "lat": 36.89312,
+  "lng": 15.067697,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.842,
+  "name": "Palazzo Di Lorenzo Castelluccio",
+  "locality": "Noto",
+  "osm_class": "building=palace",
+  "wikidata": "Q60848223",
+  "display": "Palazzo Di Lorenzo Castelluccio, Via Giordano Bruno, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8931199,
+    "lng": 15.0676972,
+    "name": "Palazzo Di Lorenzo Castelluccio",
+    "source": "nominatim",
+    "osm_id": "way/1064658061",
+    "wikidata": "Q60848223",
+    "osm_class": "building=palace",
+    "locality": "Noto",
+    "display": "Palazzo Di Lorenzo Castelluccio, Via Giordano Bruno, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Palazzo Di Lorenzo Castelluccio"
+    ],
+    "importance": 0.11734328469919902,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::palazzo trigona": {
+  "ok": true,
+  "lat": 36.89162,
+  "lng": 15.071767,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.834,
+  "name": "Palazzo Trigona",
+  "locality": "Noto",
+  "osm_class": "historic=building",
+  "wikidata": "Q124028100",
+  "display": "Palazzo Trigona, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8916203,
+    "lng": 15.0717666,
+    "name": "Palazzo Trigona",
+    "source": "nominatim",
+    "osm_id": "way/1236404502",
+    "wikidata": "Q124028100",
+    "osm_class": "historic=building",
+    "locality": "Noto",
+    "display": "Palazzo Trigona, Via Camillo Benso Conte di Cavour, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Palazzo Trigona"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::palazzo landolina": {
+  "ok": true,
+  "lat": 36.891711,
+  "lng": 15.070574,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.834,
+  "name": "Palazzo Landolina",
+  "locality": "Noto",
+  "osm_class": "building=palace",
+  "wikidata": "Q12954639",
+  "display": "Palazzo Landolina, Via Rinaldo Montuoro, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.8917113,
+    "lng": 15.070574,
+    "name": "Palazzo Landolina",
+    "source": "nominatim",
+    "osm_id": "relation/11900894",
+    "wikidata": "Q12954639",
+    "osm_class": "building=palace",
+    "locality": "Noto",
+    "display": "Palazzo Landolina, Via Rinaldo Montuoro, Piano Alto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Palazzo Landolina"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::noto antica": {
+  "ok": true,
+  "lat": 36.945731,
+  "lng": 15.023648,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.752,
+  "name": "Noto Antica",
+  "locality": "Noto",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q3878801",
+  "display": "Noto Antica, Strada provinciale Noto-Fiumara-Noto Antica-Testa dell'Acqua-Burlò, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9457307,
+    "lng": 15.023648,
+    "name": "Noto Antica",
+    "source": "nominatim",
+    "osm_id": "node/2415821996",
+    "wikidata": "Q3878801",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Noto Antica, Strada provinciale Noto-Fiumara-Noto Antica-Testa dell'Acqua-Burlò, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Noto Antica"
+    ],
+    "importance": 0.37484064555151964,
+    "rank": 0
+   },
+   {
+    "lat": 36.9457307,
+    "lng": 15.023648,
+    "name": "Noto Antica",
+    "source": "nominatim",
+    "osm_id": "node/2415821996",
+    "wikidata": "Q3878801",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Noto Antica, Strada provinciale Noto-Fiumara-Noto Antica-Testa dell'Acqua-Burlò, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Noto Antica"
+    ],
+    "importance": 0.37484064555151964,
+    "rank": 0
+   },
+   {
+    "lat": 36.9457307,
+    "lng": 15.023648,
+    "name": "Noto Antica",
+    "source": "nominatim",
+    "osm_id": "node/2415821996",
+    "wikidata": "Q3878801",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Noto Antica, Strada provinciale Noto-Fiumara-Noto Antica-Testa dell'Acqua-Burlò, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Noto Antica"
+    ],
+    "importance": 0.37484064555151964,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::cava carosello eremo di san corrado": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::villa romana del tellaro": {
+  "ok": true,
+  "lat": 36.835293,
+  "lng": 15.079757,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.757,
+  "name": "Villa Romana del Tellaro",
+  "locality": "Noto",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "Q499234",
+  "display": "Villa Romana del Tellaro, Strada di bonifica Vaddeddi, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8352929,
+    "lng": 15.0797568,
+    "name": "Villa Romana del Tellaro",
+    "source": "nominatim",
+    "osm_id": "way/66346071",
+    "wikidata": "Q499234",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Villa Romana del Tellaro, Strada di bonifica Vaddeddi, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Villa Romana del Tellaro"
+    ],
+    "importance": 0.35642684290255977,
+    "rank": 0
+   },
+   {
+    "lat": 36.8352929,
+    "lng": 15.0797568,
+    "name": "Villa Romana del Tellaro",
+    "source": "nominatim",
+    "osm_id": "way/66346071",
+    "wikidata": "Q499234",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Villa Romana del Tellaro, Strada di bonifica Vaddeddi, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Villa Romana del Tellaro"
+    ],
+    "importance": 0.35642684290255977,
+    "rank": 0
+   },
+   {
+    "lat": 36.8352929,
+    "lng": 15.0797568,
+    "name": "Villa Romana del Tellaro",
+    "source": "nominatim",
+    "osm_id": "way/66346071",
+    "wikidata": "Q499234",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Villa Romana del Tellaro, Strada di bonifica Vaddeddi, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Villa Romana del Tellaro"
+    ],
+    "importance": 0.35642684290255977,
+    "rank": 0
+   }
+  ]
  }
 }
