@@ -13,5 +13,13 @@
         "note": "El resolver elegia un lochan cerca de Whitebridge, 30 km al este"
       }
     }
+  },
+  "Highlands::loch cluanie": {
+    "lat": 57.139610,
+    "lng": -5.088876,
+    "source": "wikidata:Q1867216",
+    "url": "https://www.wikidata.org/wiki/Q1867216",
+    "checked_at": "2026-08-02",
+    "note": "El CSV tenia 57.212758,-4.526319: un lochan homonimo cerca de Whitebridge, 34 km al este. build_maps.py lo eligio porque su desempate era la cercania al centroide de Highlands (57.2,-4.5) y el falso quedaba a 2 km. Wikidata Q1867216 lo describe como 'lake dammed as a reservoir in Highland'."
   }
 }

@@ -86,16 +86,23 @@ _BASE: list[Area] = [
 # de Whitebridge queda a ~47 km del ancla → rechazado automáticamente.
 # ---------------------------------------------------------------------------
 _HIGHLANDS: list[Area] = [
+    # Isle of Skye mide ~80 km de punta a punta: necesita 4 anclas, no una.
     _a("skye_norte", "Highlands", 57.4100, -6.1900, "gb", "Portree", "UK", "occidental", 25, 0.30, "highlands"),
+    _a("skye_noroeste", "Highlands", 57.6500, -6.3300, "gb", "Staffin", "UK", "occidental", 20, 0.25, "highlands"),
+    _a("skye_oeste", "Highlands", 57.4500, -6.6500, "gb", "Dunvegan", "UK", "occidental", 25, 0.30, "highlands"),
     _a("skye_sur", "Highlands", 57.2900, -6.1700, "gb", "Sligachan", "UK", "occidental", 22, 0.28, "highlands"),
     _a("glencoe", "Highlands", 56.6800, -5.1000, "gb", "Glencoe", "UK", "occidental", 18, 0.22, "highlands"),
     _a("fort_william", "Highlands", 56.8200, -5.1100, "gb", "Fort William", "UK", "occidental", 20, 0.25, "highlands"),
+    _a("glenfinnan", "Highlands", 56.8700, -5.4400, "gb", "Glenfinnan", "UK", "occidental", 15, 0.20, "highlands"),
     _a("road_to_isles", "Highlands", 57.0000, -5.8300, "gb", "Mallaig", "UK", "occidental", 25, 0.30, "highlands"),
     _a("glen_shiel", "Highlands", 57.1500, -5.3000, "gb", "Highland", "UK", "occidental", 22, 0.28, "highlands"),
+    _a("glen_affric", "Highlands", 57.2700, -4.9800, "gb", "Cannich", "UK", "occidental", 18, 0.22, "highlands"),
     _a("loch_ness", "Highlands", 57.3300, -4.4800, "gb", "Drumnadrochit", "UK", "occidental", 25, 0.30, "highlands"),
     _a("inverness", "Highlands", 57.4800, -4.2200, "gb", "Inverness", "UK", "occidental", 20, 0.25, "highlands"),
+    _a("easter_ross", "Highlands", 57.6200, -4.7500, "gb", "Contin", "UK", "occidental", 25, 0.30, "highlands"),
     _a("cairngorms", "Highlands", 57.1900, -3.8300, "gb", "Aviemore", "UK", "occidental", 25, 0.30, "highlands"),
     _a("torridon_applecross", "Highlands", 57.5500, -5.6000, "gb", "Highland", "UK", "occidental", 25, 0.30, "highlands"),
+    _a("ullapool", "Highlands", 57.7800, -5.1000, "gb", "Ullapool", "UK", "occidental", 25, 0.30, "highlands"),
 ]
 
 # Highlands tiene además filas fuera de las Highlands propiamente dichas
@@ -103,7 +110,8 @@ _HIGHLANDS: list[Area] = [
 _HIGHLANDS_EXTRA: list[Area] = [
     _a("perthshire", "Highlands", 56.7000, -3.7500, "gb", "Pitlochry", "UK", "occidental", 25, 0.30, "highlands"),
     _a("stirling_falkirk", "Highlands", 56.0600, -3.9400, "gb", "Stirling", "UK", "occidental", 25, 0.30, "highlands"),
-    _a("oban_lomond", "Highlands", 56.3300, -5.2000, "gb", "Oban", "UK", "occidental", 25, 0.30, "highlands"),
+    _a("oban_appin", "Highlands", 56.4500, -5.3200, "gb", "Oban", "UK", "occidental", 25, 0.30, "highlands"),
+    _a("loch_lomond", "Highlands", 56.1500, -4.6500, "gb", "Balloch", "UK", "occidental", 22, 0.28, "highlands"),
 ]
 
 # ---------------------------------------------------------------------------
@@ -148,11 +156,43 @@ def area_for_label(label: str) -> Area:
 
 
 def nearest_area(lat: float, lng: float, candidates: list[str]) -> Area:
-    """Sub-área cuyo ancla queda más cerca de un punto. Se usa para repartir las
-    73 filas de Highlands entre sus sub-áreas antes de re-resolverlas."""
+    """Sub-área cuyo ancla queda más cerca de un punto."""
     from geoutil import haversine_km
 
     return min(
         (AREAS[k] for k in candidates),
         key=lambda a: haversine_km(lat, lng, a.lat, a.lng),
     )
+
+
+def covering_areas(lat: float, lng: float, candidates: list[str]) -> list[Area]:
+    """Sub-áreas que CONTIENEN el punto, ordenadas por qué tan CENTRADO está en
+    cada una (dist / max_km ascendente).
+
+    El orden importa: quien llama usa la primera para puntuar, y puntuar contra
+    un área donde el punto queda pegado al borde hunde su `dist_score`. El Loch
+    Cluanie real cae en `glen_affric` a 17,5 km de un radio de 18 (ratio 0,97) y
+    en `glen_shiel` a 11 km de 22 (ratio 0,50): ordenar por radio más chico lo
+    mandaba a `glen_affric` y lo hacía perder contra el homónimo falso.
+    """
+    from geoutil import haversine_km
+
+    hits = []
+    for k in candidates:
+        a = AREAS[k]
+        d = haversine_km(lat, lng, a.lat, a.lng)
+        if d <= a.max_km:
+            hits.append((d / a.max_km, a))
+    return [a for _, a in sorted(hits, key=lambda x: x[0])]
+
+
+def assign_area(lat: float, lng: float, candidates: list[str]) -> Area:
+    """Sub-área a usar para re-resolver un punto: la más ajustada que lo cubra.
+
+    Ojo con la semántica: no es el ancla más cercana. `Fort Augustus` tiene a
+    `glen_affric` más cerca (22,8 km) pero fuera de su radio de 18 km, y está
+    correctamente dentro de `loch_ness` (23,9 km de 25). Elegir por cercanía
+    dejaría el punto sin cobertura.
+    """
+    cov = covering_areas(lat, lng, candidates)
+    return cov[0] if cov else nearest_area(lat, lng, candidates)

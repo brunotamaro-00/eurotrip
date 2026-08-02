@@ -1,0 +1,74 @@
+file,line,ciudad,nombre,buscado,tipo,lat_csv,lng_csv,lat_res,lng_res,dist_m,tolerancia_m,area,confianza,fuente,veredicto
+europa_occidental.csv,119,Highlands,Nevis Range Gondola,Nevis Range,Teleférico,56.847673,-5.046407,56.844383,-4.985630,3714,300,fort_william,high,nominatim/nominatim_free,error
+europa_occidental.csv,293,Highlands,Talisker Bay,Talisker Bay,Playa,57.285,-6.44,57.284419,-6.465801,1552,500,skye_sur,high,nominatim/nominatim_bounded,error
+europa_occidental.csv,153,Highlands,Fort George,Fort George,Sitio histórico,57.586124,-4.044791,57.583811,-4.070286,1541,200,inverness,high,nominatim/nominatim_bounded,error
+europa_occidental.csv,160,Highlands,Blair Castle,Blair Castle,Castillo,56.771334,-3.873177,56.773376,-3.856823,1022,250,perthshire,high,nominatim/nominatim_free,error
+europa_occidental.csv,294,Highlands,Armadale Castle,Armadale Castle,Castillo,57.065,-5.895,57.072647,-5.894729,850,250,road_to_isles,high,nominatim/nominatim_free,error
+europa_occidental.csv,125,Highlands,Lost Valley (Coire Gabhail),Lost Valley,Trekking,56.662,-4.987,,,,3000,,review,sin_candidatos,unresolved
+europa_occidental.csv,126,Highlands,Signal Rock,Signal Rock,Sitio histórico,56.67,-5.1,,,,200,,review,sin_candidatos,unresolved
+europa_occidental.csv,280,Highlands,Old Inverlochy Castle,Old Inverlochy Castle,Castillo,56.8355,-5.082,,,,250,,review,sin_candidatos,unresolved
+europa_occidental.csv,281,Highlands,Glencoe Valley (Three Sisters),Three Sisters,Paisaje,56.662,-4.987,,,,2500,,review,sin_candidatos,unresolved
+europa_occidental.csv,282,Highlands,Mallaig + Silver Sands of Morar,Silver Sands of Morar,Playa,56.97,-5.828,,,,500,,review,sin_candidatos,unresolved
+europa_occidental.csv,295,Highlands,Glen Shiel & Five Sisters,Five Sisters of Kintail,Paisaje,57.19,-5.32,,,,2500,,review,sin_candidatos,unresolved
+europa_occidental.csv,296,Highlands,Leakey's Bookshop,Leakey's Bookshop,Tienda,57.478,-4.2275,,,,120,,review,sin_candidatos,unresolved
+europa_occidental.csv,291,Highlands,Glen Brittle,Glen Brittle,Paisaje,57.23,-6.28,57.210350,-6.289722,2262,2500,skye_sur,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,137,Highlands,Bealach na Bà / Applecross,Bealach na Ba,Paisaje,57.416,-5.7,57.407683,-5.674971,1761,2500,torridon_applecross,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,285,Highlands,Lealt Falls,Lealt Falls,Naturaleza,57.575,-6.17,57.565394,-6.152730,1484,2000,skye_norte,high,overpass/bajo_umbral,baja_precision
+europa_occidental.csv,142,Highlands,Neist Point Lighthouse,Neist Point Lighthouse,Paisaje,57.4135,-6.788,57.423388,-6.788237,1100,2500,skye_oeste,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,290,Highlands,Sligachan Old Bridge,Sligachan Old Bridge,Paisaje,57.2895,-6.156,57.289808,-6.173274,1039,2500,skye_sur,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,299,Highlands,Falls of Foyers,Falls of Foyers,Naturaleza,57.256,-4.495,57.248859,-4.491402,823,2000,loch_ness,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,129,Highlands,Devil's Staircase,Devil's Staircase,Trekking,56.678,-4.905,56.673443,-4.912884,699,3000,glencoe,high,overpass/bajo_umbral,baja_precision
+europa_occidental.csv,143,Highlands,Fairy Pools,Fairy Pools,Trekking,57.2495,-6.257,57.249108,-6.248658,504,3000,skye_sur,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,283,Highlands,Puerto de Portree,Portree Harbour,Pueblo,57.4125,-6.194,57.411435,-6.189981,268,1500,skye_norte,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,303,Highlands,Edradour Distillery,Edradour Distillery,Destilería,56.7005,-3.702,56.702173,-3.699381,245,250,perthshire,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,298,Highlands,Dores Beach,Dores Beach,Playa,57.382,-4.335,57.383929,-4.336345,229,500,loch_ness,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,289,Highlands,Coral Beach,Coral Beach,Playa,57.502,-6.64,57.500843,-6.637024,219,500,skye_oeste,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,130,Highlands,Glenfinnan Viaduct,Glenfinnan Viaduct,Sitio histórico,56.8763,-5.432,56.875824,-5.429320,171,200,glenfinnan,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,292,Highlands,Talisker Distillery,Talisker Distillery,Destilería,57.3025,-6.356,57.301876,-6.356683,81,250,skye_sur,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,302,Highlands,Killiecrankie,Killiecrankie,Sitio histórico,56.745,-3.778,56.744957,-3.779317,80,200,perthshire,high,nominatim/nominatim_bounded,baja_precision
+europa_occidental.csv,300,Highlands,Clava Cairns,Clava Cairns,Sitio histórico,57.4735,-4.074,57.473063,-4.073688,52,200,inverness,review,nominatim/bajo_umbral,baja_precision
+europa_occidental.csv,288,Highlands,Dunvegan Castle,Dunvegan Castle,Castillo,57.4485,-6.59,57.448425,-6.590076,9,250,skye_oeste,high,nominatim/nominatim_free,baja_precision
+europa_occidental.csv,286,Highlands,Brothers' Point,Rubha nam Brathairean,Trekking,57.55,-6.15,57.586542,-6.139123,4115,3000,skye_noroeste,review,nominatim/bajo_umbral,warn
+europa_occidental.csv,279,Highlands,Glen Nevis & Steall Falls,Steall Falls,Trekking,56.801,-5.001,56.770242,-4.979830,3655,3000,fort_william,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,284,Highlands,Kilt Rock & Mealt Falls,Kilt Rock,Paisaje,57.582,-6.158,57.610864,-6.172148,3318,2500,skye_noroeste,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,123,Highlands,Buachaille Etive Mòr,Buachaille Etive Mor,Paisaje,56.65,-4.9,56.633967,-4.936779,2870,2500,glencoe,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,140,Highlands,Fairy Glen,Fairy Glen,Paisaje,57.561,-6.311,57.583350,-6.327396,2671,2500,skye_noroeste,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,301,Highlands,Rogie Falls,Rogie Falls,Naturaleza,57.58,-4.57,57.589175,-4.602499,2189,2000,easter_ross,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,287,Highlands,Duntulm Castle,Duntulm Castle,Castillo,57.68,-6.348,57.684268,-6.346992,478,250,skye_noroeste,high,nominatim/nominatim_free,warn
+europa_occidental.csv,152,Highlands,Culloden Battlefield,Culloden Battlefield,Sitio histórico,57.477154,-4.092571,57.476543,-4.100123,457,200,inverness,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,154,Highlands,Cawdor Castle,Cawdor Castle,Castillo,57.521326,-3.921561,57.524183,-3.926553,436,250,inverness,high,nominatim/nominatim_free,warn
+europa_occidental.csv,121,Highlands,Neptune's Staircase,Neptune's Staircase,Sitio histórico,56.847155,-5.092517,56.845559,-5.096915,321,200,fort_william,high,nominatim/nominatim_bounded,warn
+europa_occidental.csv,145,Highlands,Loch Cluanie,Loch Cluanie,Paisaje,57.212758,-4.526319,57.139610,-5.088876,34869,2500,override,high,wikidata:Q1867216,override
+europa_occidental.csv,139,Highlands,Quiraing,Quiraing,Trekking,57.6436,-6.2705,57.639736,-6.274133,481,3000,skye_noroeste,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,122,Highlands,Fort William Town,Fort William,Pueblo,56.820558,-5.105313,56.817826,-5.110952,458,1500,fort_william,high,nominatim/nominatim_free,ok
+europa_occidental.csv,144,Highlands,Elgol,Elgol,Paisaje,57.152323,-6.098404,57.149235,-6.101430,389,2500,skye_sur,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,159,Highlands,Pitlochry,Pitlochry,Pueblo,56.702364,-3.73564,56.701969,-3.730685,306,1500,perthshire,high,nominatim/nominatim_free,ok
+europa_occidental.csv,132,Highlands,Castle Stalker,Castle Stalker,Castillo,56.572574,-5.382622,56.571555,-5.386109,242,250,oban_appin,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,138,Highlands,Old Man of Storr,Old Man of Storr,Trekking,57.5072,-6.1742,57.506962,-6.174639,37,3000,skye_norte,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,135,Highlands,Eilean Donan Castle,Eilean Donan Castle,Castillo,57.274096,-5.515916,57.273868,-5.516033,26,250,glen_shiel,high,nominatim/nominatim_free,ok
+europa_occidental.csv,148,Highlands,Victorian Market,Victorian Market,Mercado,57.478999,-4.225864,57.479058,-4.225507,22,300,inverness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,164,Highlands,Falkirk Wheel,Falkirk Wheel,Sitio,56.0005,-3.8415,56.000356,-3.841725,21,300,stirling_falkirk,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,297,Highlands,Urquhart Castle,Urquhart Castle,Castillo,57.3242,-4.4419,57.324109,-4.441989,11,250,loch_ness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,118,Highlands,West Highland Museum,West Highland Museum,Museo,56.81763,-5.111046,56.817630,-5.111046,0,150,fort_william,high,nominatim/nominatim_free,ok
+europa_occidental.csv,120,Highlands,Ben Nevis,Ben Nevis,Trekking,56.796858,-5.003526,56.796858,-5.003526,0,3000,fort_william,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,124,Highlands,Glen Etive,Glen Etive,Paisaje,56.61606,-4.963061,56.616060,-4.963061,0,2500,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,127,Highlands,Glencoe Lochan,Glencoe Lochan,Naturaleza,56.690691,-5.095836,56.690691,-5.095836,0,2000,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,128,Highlands,Glencoe Visitor Centre,Glencoe Visitor Centre,Museo,56.670703,-5.079679,56.670703,-5.079679,0,150,glencoe,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,131,Highlands,Glenfinnan Monument,Glenfinnan Monument,Sitio histórico,56.869173,-5.43705,56.869173,-5.437050,0,200,glenfinnan,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,133,Highlands,Oban,Oban,Pueblo,56.412017,-5.472373,56.412017,-5.472373,0,1500,oban_appin,high,nominatim/nominatim_free,ok
+europa_occidental.csv,134,Highlands,Loch Lomond,Loch Lomond,Paisaje,56.156196,-4.656376,56.156196,-4.656376,0,2500,loch_lomond,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,136,Highlands,Plockton,Plockton,Pueblo,57.338081,-5.651894,57.338081,-5.651894,0,1500,torridon_applecross,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,141,Highlands,Skye Museum of Island Life,Skye Museum of Island Life,Museo,57.660216,-6.368944,57.660216,-6.368944,0,150,skye_noroeste,high,nominatim/nominatim_free,ok
+europa_occidental.csv,146,Highlands,Ness Islands,Ness Islands,Naturaleza,57.464031,-4.230526,57.464031,-4.230526,0,2000,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,147,Highlands,Inverness Castle,Inverness Castle,Castillo,57.476433,-4.225644,57.476433,-4.225644,0,250,inverness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,149,Highlands,Church Street,Church Street,Barrio,57.477762,-4.225662,57.477762,-4.225662,0,800,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,150,Highlands,Loch Ness Centre,Loch Ness Centre,Museo,57.33737,-4.477875,57.337370,-4.477875,0,150,loch_ness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,151,Highlands,Fort Augustus,Fort Augustus,Pueblo,57.144332,-4.681487,57.144332,-4.681487,0,1500,loch_ness,high,nominatim/nominatim_free,ok
+europa_occidental.csv,155,Highlands,Chanonry Point,Chanonry Point,Naturaleza,57.574137,-4.091792,57.574137,-4.091792,0,2000,inverness,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,156,Highlands,Glen Affric,Glen Affric,Paisaje,57.263658,-4.999046,57.263658,-4.999046,0,2500,glen_affric,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,157,Highlands,Cairngorms / Aviemore,Aviemore,Parque nacional,57.193753,-3.82875,57.193753,-3.828750,0,5000,cairngorms,high,nominatim/nominatim_free,ok
+europa_occidental.csv,158,Highlands,Corrieshalloch Gorge,Corrieshalloch Gorge,Naturaleza,57.757699,-5.023221,57.757699,-5.023221,0,2000,ullapool,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,161,Highlands,Dunkeld,Dunkeld,Pueblo,56.565571,-3.586255,56.565571,-3.586255,0,1500,perthshire,high,nominatim/nominatim_free,ok
+europa_occidental.csv,162,Highlands,Stirling Castle,Stirling Castle,Castillo,56.124031,-3.948011,56.124031,-3.948011,0,250,stirling_falkirk,high,nominatim/nominatim_free,ok
+europa_occidental.csv,163,Highlands,The Kelpies,The Kelpies,Escultura,56.019136,-3.755499,56.019136,-3.755499,0,150,stirling_falkirk,high,nominatim/nominatim_bounded,ok
+europa_occidental.csv,165,Highlands,Tomatin Distillery,Tomatin Distillery,Destilería,57.338986,-4.009283,57.338986,-4.009283,0,250,cairngorms,high,nominatim/nominatim_free,ok

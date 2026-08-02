@@ -1,0 +1,3059 @@
+{
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::west highland museum": {
+  "res": {
+   "ok": true,
+   "lat": 56.81763,
+   "lng": -5.111046,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.909,
+   "name": "West Highland Museum",
+   "locality": "Fort William",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q16903086",
+   "display": "West Highland Museum, Cameron Square, The Parade, Plantation, Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8176305,
+     "lng": -5.1110458,
+     "name": "West Highland Museum",
+     "source": "nominatim",
+     "osm_id": "node/255104386",
+     "wikidata": "Q16903086",
+     "osm_class": "tourism=museum",
+     "locality": "Fort William",
+     "display": "West Highland Museum, Cameron Square, The Parade, Plantation, Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+     "names_all": [
+      "West Highland Museum"
+     ],
+     "importance": 0.13618373728802152,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::nevis range": {
+  "res": {
+   "ok": true,
+   "lat": 56.844383,
+   "lng": -4.98563,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.812,
+   "name": "Nevis Range Gondola",
+   "locality": "Highland",
+   "osm_class": "aerialway=gondola",
+   "wikidata": "",
+   "display": "Nevis Range Gondola, Stolen Bridge, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8443826,
+     "lng": -4.9856299,
+     "name": "Nevis Range Gondola",
+     "source": "nominatim",
+     "osm_id": "way/860440455",
+     "wikidata": "",
+     "osm_class": "aerialway=gondola",
+     "locality": "Highland",
+     "display": "Nevis Range Gondola, Stolen Bridge, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Nevis Range Gondola"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 9
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::ben nevis": {
+  "res": {
+   "ok": true,
+   "lat": 56.796858,
+   "lng": -5.003526,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.762,
+   "name": "Ben Nevis",
+   "locality": "Highland",
+   "osm_class": "natural=peak",
+   "wikidata": "Q104674",
+   "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.7968582,
+     "lng": -5.003526,
+     "name": "Ben Nevis",
+     "source": "nominatim",
+     "osm_id": "node/8870212",
+     "wikidata": "Q104674",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Ben Nevis"
+     ],
+     "importance": 0.48032914674690963,
+     "rank": 0
+    },
+    {
+     "lat": 56.7968582,
+     "lng": -5.003526,
+     "name": "Ben Nevis",
+     "source": "nominatim",
+     "osm_id": "node/8870212",
+     "wikidata": "Q104674",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Ben Nevis"
+     ],
+     "importance": 0.48032914674690963,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::neptunes staircase": {
+  "res": {
+   "ok": true,
+   "lat": 56.845559,
+   "lng": -5.096915,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.751,
+   "name": "Neptune's Staircase",
+   "locality": "Banavie",
+   "osm_class": "amenity=parking",
+   "wikidata": "",
+   "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8455588,
+     "lng": -5.0969155,
+     "name": "Neptune's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/39934476",
+     "wikidata": "",
+     "osm_class": "amenity=parking",
+     "locality": "Banavie",
+     "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+     "names_all": [
+      "Neptune's Staircase"
+     ],
+     "importance": 5.6861982146898874e-05,
+     "rank": 0
+    },
+    {
+     "lat": 56.8455588,
+     "lng": -5.0969155,
+     "name": "Neptune's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/39934476",
+     "wikidata": "",
+     "osm_class": "amenity=parking",
+     "locality": "Banavie",
+     "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+     "names_all": [
+      "Neptune's Staircase"
+     ],
+     "importance": 5.6861982146898874e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort william": {
+  "res": {
+   "ok": true,
+   "lat": 56.817826,
+   "lng": -5.110952,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.936,
+   "name": "Fort William",
+   "locality": "Fort William",
+   "osm_class": "place=town",
+   "wikidata": "Q848909",
+   "display": "Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8178257,
+     "lng": -5.1109516,
+     "name": "Fort William",
+     "source": "nominatim",
+     "osm_id": "node/17917137",
+     "wikidata": "Q848909",
+     "osm_class": "place=town",
+     "locality": "Fort William",
+     "display": "Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+     "names_all": [
+      "Fort William"
+     ],
+     "importance": 0.5057622755834682,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::buachaille etive mor": {
+  "res": {
+   "ok": true,
+   "lat": 56.633967,
+   "lng": -4.936779,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.718,
+   "name": "Buachaille Etive Mòr",
+   "locality": "Highland",
+   "osm_class": "natural=ridge",
+   "wikidata": "Q2927373",
+   "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6339671,
+     "lng": -4.9367794,
+     "name": "Buachaille Etive Mòr",
+     "source": "nominatim",
+     "osm_id": "way/209179445",
+     "wikidata": "Q2927373",
+     "osm_class": "natural=ridge",
+     "locality": "Highland",
+     "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Buachaille Etive Mòr"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    },
+    {
+     "lat": 56.6339671,
+     "lng": -4.9367794,
+     "name": "Buachaille Etive Mòr",
+     "source": "nominatim",
+     "osm_id": "way/209179445",
+     "wikidata": "Q2927373",
+     "osm_class": "natural=ridge",
+     "locality": "Highland",
+     "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Buachaille Etive Mòr"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glen etive": {
+  "res": {
+   "ok": true,
+   "lat": 56.61606,
+   "lng": -4.963061,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.715,
+   "name": "Glen Etive",
+   "locality": "Highland",
+   "osm_class": "natural=valley",
+   "wikidata": "Q528595",
+   "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6160599,
+     "lng": -4.9630606,
+     "name": "Glen Etive",
+     "source": "nominatim",
+     "osm_id": "way/676290499",
+     "wikidata": "Q528595",
+     "osm_class": "natural=valley",
+     "locality": "Highland",
+     "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Etive"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    },
+    {
+     "lat": 56.6160599,
+     "lng": -4.9630606,
+     "name": "Glen Etive",
+     "source": "nominatim",
+     "osm_id": "way/676290499",
+     "wikidata": "Q528595",
+     "osm_class": "natural=valley",
+     "locality": "Highland",
+     "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Etive"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::lost valley": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::signal rock": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glencoe lochan": {
+  "res": {
+   "ok": true,
+   "lat": 56.690691,
+   "lng": -5.095836,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.77,
+   "name": "Glencoe Lochan",
+   "locality": "Glencoe",
+   "osm_class": "water=reservoir",
+   "wikidata": "",
+   "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6906905,
+     "lng": -5.0958358,
+     "name": "Glencoe Lochan",
+     "source": "nominatim",
+     "osm_id": "way/175888644",
+     "wikidata": "",
+     "osm_class": "water=reservoir",
+     "locality": "Glencoe",
+     "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glencoe Lochan"
+     ],
+     "importance": 0.1333856816968032,
+     "rank": 0
+    },
+    {
+     "lat": 56.6906905,
+     "lng": -5.0958358,
+     "name": "Glencoe Lochan",
+     "source": "nominatim",
+     "osm_id": "way/175888644",
+     "wikidata": "",
+     "osm_class": "water=reservoir",
+     "locality": "Glencoe",
+     "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glencoe Lochan"
+     ],
+     "importance": 0.1333856816968032,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glencoe visitor centre": {
+  "res": {
+   "ok": true,
+   "lat": 56.670703,
+   "lng": -5.079679,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.736,
+   "name": "Glencoe Visitor Centre",
+   "locality": "Glencoe",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6707029,
+     "lng": -5.0796787,
+     "name": "Glencoe Visitor Centre",
+     "source": "nominatim",
+     "osm_id": "node/13965363016",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Glencoe",
+     "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+     "names_all": [
+      "Glencoe Visitor Centre"
+     ],
+     "importance": 5.234836346985607e-05,
+     "rank": 0
+    },
+    {
+     "lat": 56.6707029,
+     "lng": -5.0796787,
+     "name": "Glencoe Visitor Centre",
+     "source": "nominatim",
+     "osm_id": "node/13965363016",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Glencoe",
+     "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+     "names_all": [
+      "Glencoe Visitor Centre"
+     ],
+     "importance": 5.234836346985607e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::devils staircase": {
+  "res": {
+   "ok": true,
+   "lat": 56.673443,
+   "lng": -4.912884,
+   "source": "overpass",
+   "confidence": "high",
+   "score": 0.659,
+   "name": "Devil's Staircase",
+   "locality": "",
+   "osm_class": "highway=path",
+   "wikidata": "Q13572287",
+   "display": "Devil's Staircase",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 56.6738994,
+     "lng": -4.9129358,
+     "name": "Devil's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/52322014",
+     "wikidata": "Q13572287",
+     "osm_class": "highway=path",
+     "locality": "Highland",
+     "display": "Devil's Staircase, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.04000999999999999,
+     "rank": 0
+    },
+    {
+     "lat": 56.6738994,
+     "lng": -4.9129358,
+     "name": "Devil's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/52322014",
+     "wikidata": "Q13572287",
+     "osm_class": "highway=path",
+     "locality": "Highland",
+     "display": "Devil's Staircase, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.04000999999999999,
+     "rank": 0
+    },
+    {
+     "lat": 56.6734426,
+     "lng": -4.9128842,
+     "name": "Devil's Staircase",
+     "source": "overpass",
+     "osm_id": "way/52322014",
+     "wikidata": "Q13572287",
+     "osm_class": "highway=path",
+     "locality": "",
+     "display": "Devil's Staircase",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glenfinnan viaduct": {
+  "res": {
+   "ok": true,
+   "lat": 56.875824,
+   "lng": -5.42932,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Glenfinnan Viaduct",
+   "locality": "Glenfinnan",
+   "osm_class": "man_made=bridge",
+   "wikidata": "Q1155735",
+   "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8758236,
+     "lng": -5.4293199,
+     "name": "Glenfinnan Viaduct",
+     "source": "nominatim",
+     "osm_id": "way/99471691",
+     "wikidata": "Q1155735",
+     "osm_class": "man_made=bridge",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glenfinnan Viaduct"
+     ],
+     "importance": 0.3498723237425788,
+     "rank": 0
+    },
+    {
+     "lat": 56.8758236,
+     "lng": -5.4293199,
+     "name": "Glenfinnan Viaduct",
+     "source": "nominatim",
+     "osm_id": "way/99471691",
+     "wikidata": "Q1155735",
+     "osm_class": "man_made=bridge",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glenfinnan Viaduct"
+     ],
+     "importance": 0.3498723237425788,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glenfinnan"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glenfinnan monument": {
+  "res": {
+   "ok": true,
+   "lat": 56.869173,
+   "lng": -5.43705,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.781,
+   "name": "Glenfinnan Monument",
+   "locality": "Glenfinnan",
+   "osm_class": "historic=memorial",
+   "wikidata": "Q17574839",
+   "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8691729,
+     "lng": -5.4370496,
+     "name": "Glenfinnan Monument",
+     "source": "nominatim",
+     "osm_id": "way/231734966",
+     "wikidata": "Q17574839",
+     "osm_class": "tourism=attraction",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+     "names_all": [
+      "Glenfinnan Monument"
+     ],
+     "importance": 0.18554865524912875,
+     "rank": 0
+    },
+    {
+     "lat": 56.8691729,
+     "lng": -5.4370496,
+     "name": "Glenfinnan Monument",
+     "source": "nominatim",
+     "osm_id": "way/231734966",
+     "wikidata": "Q17574839",
+     "osm_class": "historic=memorial",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+     "names_all": [
+      "Glenfinnan Monument"
+     ],
+     "importance": 0.18554865524912875,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glenfinnan"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::castle stalker": {
+  "res": {
+   "ok": true,
+   "lat": 56.571555,
+   "lng": -5.386109,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.858,
+   "name": "Castle Stalker",
+   "locality": "Appin",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q217058",
+   "display": "Castle Stalker, A828, Achosrigan, Appin, Argyll and Bute, Alba / Scotland, PA38 4BH, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.5715549,
+     "lng": -5.3861094,
+     "name": "Castle Stalker",
+     "source": "nominatim",
+     "osm_id": "way/276673910",
+     "wikidata": "Q217058",
+     "osm_class": "building=yes",
+     "locality": "Appin",
+     "display": "Castle Stalker, A828, Achosrigan, Appin, Argyll and Bute, Alba / Scotland, PA38 4BH, United Kingdom",
+     "names_all": [
+      "Castle Stalker"
+     ],
+     "importance": 0.34188389141160974,
+     "rank": 0
+    },
+    {
+     "lat": 56.5715549,
+     "lng": -5.3861094,
+     "name": "Castle Stalker",
+     "source": "nominatim",
+     "osm_id": "way/276673910",
+     "wikidata": "Q217058",
+     "osm_class": "tourism=attraction",
+     "locality": "Appin",
+     "display": "Castle Stalker, A828, Achosrigan, Appin, Argyll and Bute, Alba / Scotland, PA38 4BH, United Kingdom",
+     "names_all": [
+      "Castle Stalker"
+     ],
+     "importance": 0.34188389141160974,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "oban_appin"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::oban": {
+  "res": {
+   "ok": true,
+   "lat": 56.412017,
+   "lng": -5.472373,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.887,
+   "name": "Oban",
+   "locality": "Oban",
+   "osm_class": "place=town",
+   "wikidata": "Q935702",
+   "display": "Oban, Argyll and Bute, Alba / Scotland, PA34 4AT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.4120166,
+     "lng": -5.4723731,
+     "name": "Oban",
+     "source": "nominatim",
+     "osm_id": "node/26238533",
+     "wikidata": "Q935702",
+     "osm_class": "place=town",
+     "locality": "Oban",
+     "display": "Oban, Argyll and Bute, Alba / Scotland, PA34 4AT, United Kingdom",
+     "names_all": [
+      "Oban"
+     ],
+     "importance": 0.492575131998027,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "oban_appin"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::loch lomond": {
+  "res": {
+   "ok": true,
+   "lat": 56.156196,
+   "lng": -4.656376,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.799,
+   "name": "Loch Lomond",
+   "locality": "Balmaha",
+   "osm_class": "water=lake",
+   "wikidata": "Q208926",
+   "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.1561963,
+     "lng": -4.6563759,
+     "name": "Loch Lomond",
+     "source": "nominatim",
+     "osm_id": "relation/11015",
+     "wikidata": "Q208926",
+     "osm_class": "water=lake",
+     "locality": "Balmaha",
+     "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+     "names_all": [
+      "Loch Lomond"
+     ],
+     "importance": 0.47938186412281825,
+     "rank": 0
+    },
+    {
+     "lat": 56.1561963,
+     "lng": -4.6563759,
+     "name": "Loch Lomond",
+     "source": "nominatim",
+     "osm_id": "relation/11015",
+     "wikidata": "Q208926",
+     "osm_class": "water=lake",
+     "locality": "Balmaha",
+     "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+     "names_all": [
+      "Loch Lomond"
+     ],
+     "importance": 0.47938186412281825,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_lomond"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::eilean donan castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.273868,
+   "lng": -5.516033,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.802,
+   "name": "Eilean Donan Castle",
+   "locality": "Dornie",
+   "osm_class": "historic=castle",
+   "wikidata": "Q20816698",
+   "display": "Eilean Donan Castle, A87, Lagg, Dornie, Highland, Alba / Scotland, IV40 8EZ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.2738675,
+     "lng": -5.5160335,
+     "name": "Eilean Donan Castle",
+     "source": "nominatim",
+     "osm_id": "relation/3825399",
+     "wikidata": "Q20816698",
+     "osm_class": "historic=castle",
+     "locality": "Dornie",
+     "display": "Eilean Donan Castle, A87, Lagg, Dornie, Highland, Alba / Scotland, IV40 8EZ, United Kingdom",
+     "names_all": [
+      "Eilean Donan Castle"
+     ],
+     "importance": 0.308429648456196,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "glen_shiel"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::plockton": {
+  "res": {
+   "ok": true,
+   "lat": 57.338081,
+   "lng": -5.651894,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.779,
+   "name": "Plockton",
+   "locality": "Plockton",
+   "osm_class": "place=village",
+   "wikidata": "Q3997466",
+   "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.338081,
+     "lng": -5.6518941,
+     "name": "Plockton",
+     "source": "nominatim",
+     "osm_id": "node/25376332",
+     "wikidata": "Q3997466",
+     "osm_class": "place=village",
+     "locality": "Plockton",
+     "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+     "names_all": [
+      "Plockton"
+     ],
+     "importance": 0.14671832684824898,
+     "rank": 1
+    },
+    {
+     "lat": 57.338081,
+     "lng": -5.6518941,
+     "name": "Plockton",
+     "source": "nominatim",
+     "osm_id": "node/25376332",
+     "wikidata": "Q3997466",
+     "osm_class": "place=village",
+     "locality": "Plockton",
+     "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+     "names_all": [
+      "Plockton"
+     ],
+     "importance": 0.14671832684824898,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "torridon_applecross"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::bealach na ba": {
+  "res": {
+   "ok": true,
+   "lat": 57.407683,
+   "lng": -5.674971,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.705,
+   "name": "Bealach na Bà",
+   "locality": "Highland",
+   "osm_class": "highway=tertiary",
+   "wikidata": "Q812915",
+   "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.4076831,
+     "lng": -5.6749715,
+     "name": "Bealach na Bà",
+     "source": "nominatim",
+     "osm_id": "way/44176541",
+     "wikidata": "Q812915",
+     "osm_class": "highway=tertiary",
+     "locality": "Highland",
+     "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Bealach na Bà"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    },
+    {
+     "lat": 57.4076831,
+     "lng": -5.6749715,
+     "name": "Bealach na Bà",
+     "source": "nominatim",
+     "osm_id": "way/44176541",
+     "wikidata": "Q812915",
+     "osm_class": "highway=tertiary",
+     "locality": "Highland",
+     "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Bealach na Bà"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "torridon_applecross"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::old man of storr": {
+  "res": {
+   "ok": true,
+   "lat": 57.506962,
+   "lng": -6.174639,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.737,
+   "name": "Old Man of Storr",
+   "locality": "Highland",
+   "osm_class": "natural=peak",
+   "wikidata": "Q104578769",
+   "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5069624,
+     "lng": -6.1746388,
+     "name": "Old Man of Storr",
+     "source": "nominatim",
+     "osm_id": "node/1311840056",
+     "wikidata": "Q104578769",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Old Man of Storr"
+     ],
+     "importance": 0.2791651820367976,
+     "rank": 0
+    },
+    {
+     "lat": 57.5069624,
+     "lng": -6.1746388,
+     "name": "Old Man of Storr",
+     "source": "nominatim",
+     "osm_id": "node/1311840056",
+     "wikidata": "Q104578769",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Old Man of Storr"
+     ],
+     "importance": 0.2791651820367976,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_norte"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::quiraing": {
+  "res": {
+   "ok": true,
+   "lat": 57.639736,
+   "lng": -6.274133,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.753,
+   "name": "Quiraing",
+   "locality": "Highland",
+   "osm_class": "place=locality",
+   "wikidata": "",
+   "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.6397361,
+     "lng": -6.2741331,
+     "name": "Quiraing",
+     "source": "nominatim",
+     "osm_id": "node/267262284",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Quiraing"
+     ],
+     "importance": 0.06671998855573358,
+     "rank": 0
+    },
+    {
+     "lat": 57.6397361,
+     "lng": -6.2741331,
+     "name": "Quiraing",
+     "source": "nominatim",
+     "osm_id": "node/267262284",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Quiraing"
+     ],
+     "importance": 0.06671998855573358,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fairy glen": {
+  "res": {
+   "ok": true,
+   "lat": 57.58335,
+   "lng": -6.327396,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.703,
+   "name": "Fairy Glen",
+   "locality": "Highland",
+   "osm_class": "place=locality",
+   "wikidata": "",
+   "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5833497,
+     "lng": -6.3273958,
+     "name": "Fairy Glen",
+     "source": "nominatim",
+     "osm_id": "node/1363760928",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+     "names_all": [
+      "Fairy Glen"
+     ],
+     "importance": 0.0667016685740444,
+     "rank": 2
+    },
+    {
+     "lat": 57.5833497,
+     "lng": -6.3273958,
+     "name": "Fairy Glen",
+     "source": "nominatim",
+     "osm_id": "node/1363760928",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+     "names_all": [
+      "Fairy Glen"
+     ],
+     "importance": 0.0667016685740444,
+     "rank": 2
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::skye museum of island life": {
+  "res": {
+   "ok": true,
+   "lat": 57.660216,
+   "lng": -6.368944,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.913,
+   "name": "Skye Museum of Island Life",
+   "locality": "Cille Mhoire",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2414262",
+   "display": "Skye Museum of Island Life, A855, Hungladar, Cille Mhoire, Highland, Alba / Scotland, IV51 9UE, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.6602158,
+     "lng": -6.3689445,
+     "name": "Skye Museum of Island Life",
+     "source": "nominatim",
+     "osm_id": "way/387796846",
+     "wikidata": "Q2414262",
+     "osm_class": "tourism=museum",
+     "locality": "Cille Mhoire",
+     "display": "Skye Museum of Island Life, A855, Hungladar, Cille Mhoire, Highland, Alba / Scotland, IV51 9UE, United Kingdom",
+     "names_all": [
+      "Skye Museum of Island Life"
+     ],
+     "importance": 0.3869235073939477,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::neist point lighthouse": {
+  "res": {
+   "ok": true,
+   "lat": 57.423388,
+   "lng": -6.788237,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.75,
+   "name": "Neist Point Lighthouse",
+   "locality": "Glendale",
+   "osm_class": "man_made=lighthouse",
+   "wikidata": "Q15261568",
+   "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.423388,
+     "lng": -6.7882368,
+     "name": "Neist Point Lighthouse",
+     "source": "nominatim",
+     "osm_id": "way/264881014",
+     "wikidata": "Q15261568",
+     "osm_class": "man_made=lighthouse",
+     "locality": "Glendale",
+     "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+     "names_all": [
+      "Neist Point Lighthouse"
+     ],
+     "importance": 0.31620884567581686,
+     "rank": 0
+    },
+    {
+     "lat": 57.423388,
+     "lng": -6.7882368,
+     "name": "Neist Point Lighthouse",
+     "source": "nominatim",
+     "osm_id": "way/264881014",
+     "wikidata": "Q15261568",
+     "osm_class": "man_made=lighthouse",
+     "locality": "Glendale",
+     "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+     "names_all": [
+      "Neist Point Lighthouse"
+     ],
+     "importance": 0.31620884567581686,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_oeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fairy pools": {
+  "res": {
+   "ok": true,
+   "lat": 57.249108,
+   "lng": -6.248658,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.752,
+   "name": "Fairy Pools",
+   "locality": "Highland",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "Q24993835",
+   "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2491078,
+     "lng": -6.2486579,
+     "name": "Fairy Pools",
+     "source": "nominatim",
+     "osm_id": "node/10183079017",
+     "wikidata": "Q24993835",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Highland",
+     "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Fairy Pools"
+     ],
+     "importance": 0.2659205816262254,
+     "rank": 0
+    },
+    {
+     "lat": 57.2491078,
+     "lng": -6.2486579,
+     "name": "Fairy Pools",
+     "source": "nominatim",
+     "osm_id": "node/10183079017",
+     "wikidata": "Q24993835",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Highland",
+     "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Fairy Pools"
+     ],
+     "importance": 0.2659205816262254,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::elgol": {
+  "res": {
+   "ok": true,
+   "lat": 57.149235,
+   "lng": -6.10143,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.714,
+   "name": "Elgol",
+   "locality": "Elgol",
+   "osm_class": "place=village",
+   "wikidata": "Q2875342",
+   "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.1492354,
+     "lng": -6.1014299,
+     "name": "Elgol",
+     "source": "nominatim",
+     "osm_id": "node/566165029",
+     "wikidata": "Q2875342",
+     "osm_class": "place=village",
+     "locality": "Elgol",
+     "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+     "names_all": [
+      "Elgol"
+     ],
+     "importance": 0.45934507089358295,
+     "rank": 0
+    },
+    {
+     "lat": 57.1492354,
+     "lng": -6.1014299,
+     "name": "Elgol",
+     "source": "nominatim",
+     "osm_id": "node/566165029",
+     "wikidata": "Q2875342",
+     "osm_class": "place=village",
+     "locality": "Elgol",
+     "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+     "names_all": [
+      "Elgol"
+     ],
+     "importance": 0.45934507089358295,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::ness islands": {
+  "res": {
+   "ok": true,
+   "lat": 57.464031,
+   "lng": -4.230526,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.768,
+   "name": "Ness Islands",
+   "locality": "Inverness",
+   "osm_class": "place=locality",
+   "wikidata": "Q15261795",
+   "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.464031,
+     "lng": -4.2305264,
+     "name": "Ness Islands",
+     "source": "nominatim",
+     "osm_id": "node/1447543132",
+     "wikidata": "Q15261795",
+     "osm_class": "place=locality",
+     "locality": "Inverness",
+     "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+     "names_all": [
+      "Ness Islands"
+     ],
+     "importance": 0.14389741120638372,
+     "rank": 0
+    },
+    {
+     "lat": 57.464031,
+     "lng": -4.2305264,
+     "name": "Ness Islands",
+     "source": "nominatim",
+     "osm_id": "node/1447543132",
+     "wikidata": "Q15261795",
+     "osm_class": "place=locality",
+     "locality": "Inverness",
+     "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+     "names_all": [
+      "Ness Islands"
+     ],
+     "importance": 0.14389741120638372,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::inverness castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.476433,
+   "lng": -4.225644,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Inverness Castle",
+   "locality": "Inverness",
+   "osm_class": "historic=castle",
+   "wikidata": "Q6060213",
+   "display": "Inverness Castle, Great Glen Way, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV2 4SA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.4764335,
+     "lng": -4.2256439,
+     "name": "Inverness Castle",
+     "source": "nominatim",
+     "osm_id": "way/309116675",
+     "wikidata": "Q6060213",
+     "osm_class": "historic=castle",
+     "locality": "Inverness",
+     "display": "Inverness Castle, Great Glen Way, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV2 4SA, United Kingdom",
+     "names_all": [
+      "Inverness Castle"
+     ],
+     "importance": 0.3378692872294172,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::victorian market": {
+  "res": {
+   "ok": true,
+   "lat": 57.479058,
+   "lng": -4.225507,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.868,
+   "name": "Victorian Market",
+   "locality": "Inverness",
+   "osm_class": "shop=mall",
+   "wikidata": "",
+   "display": "Victorian Market, Union Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1QA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.4790584,
+     "lng": -4.2255066,
+     "name": "Victorian Market",
+     "source": "nominatim",
+     "osm_id": "way/158193669",
+     "wikidata": "",
+     "osm_class": "shop=mall",
+     "locality": "Inverness",
+     "display": "Victorian Market, Union Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1QA, United Kingdom",
+     "names_all": [
+      "Victorian Market"
+     ],
+     "importance": 6.526665140759926e-05,
+     "rank": 3
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::church street": {
+  "res": {
+   "ok": true,
+   "lat": 57.477762,
+   "lng": -4.225662,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.71,
+   "name": "Church Street",
+   "locality": "Inverness",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "",
+   "display": "Church Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1DZ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.4777624,
+     "lng": -4.2256621,
+     "name": "Church Street",
+     "source": "nominatim",
+     "osm_id": "way/388644547",
+     "wikidata": "",
+     "osm_class": "highway=pedestrian",
+     "locality": "Inverness",
+     "display": "Church Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1DZ, United Kingdom",
+     "names_all": [
+      "Church Street"
+     ],
+     "importance": 0.05339859998474094,
+     "rank": 7
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::loch ness centre": {
+  "res": {
+   "ok": true,
+   "lat": 57.33737,
+   "lng": -4.477875,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.897,
+   "name": "Loch Ness Centre & Exhibition",
+   "locality": "Drumnadrochit",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Loch Ness Centre & Exhibition, A82, Borlum, Drumnadrochit, Highland, Alba / Scotland, IV63 6TU, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3373696,
+     "lng": -4.4778748,
+     "name": "Loch Ness Centre & Exhibition",
+     "source": "nominatim",
+     "osm_id": "node/868877113",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "Drumnadrochit",
+     "display": "Loch Ness Centre & Exhibition, A82, Borlum, Drumnadrochit, Highland, Alba / Scotland, IV63 6TU, United Kingdom",
+     "names_all": [
+      "Loch Ness Centre & Exhibition"
+     ],
+     "importance": 5.1898222323903526e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort augustus": {
+  "res": {
+   "ok": true,
+   "lat": 57.144332,
+   "lng": -4.681487,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.819,
+   "name": "Fort Augustus",
+   "locality": "Fort Augustus",
+   "osm_class": "place=village",
+   "wikidata": "Q1012033",
+   "display": "Fort Augustus, Highland, Alba / Scotland, PH32 4AY, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.1443325,
+     "lng": -4.681487,
+     "name": "Fort Augustus",
+     "source": "nominatim",
+     "osm_id": "node/281694663",
+     "wikidata": "Q1012033",
+     "osm_class": "place=village",
+     "locality": "Fort Augustus",
+     "display": "Fort Augustus, Highland, Alba / Scotland, PH32 4AY, United Kingdom",
+     "names_all": [
+      "Fort Augustus"
+     ],
+     "importance": 0.4554630140469895,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::culloden battlefield": {
+  "res": {
+   "ok": true,
+   "lat": 57.476543,
+   "lng": -4.100123,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.734,
+   "name": "Culloden Battlefield",
+   "locality": "Newlands of Culloden",
+   "osm_class": "natural=heath",
+   "wikidata": "Q651919",
+   "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.4765425,
+     "lng": -4.1001226,
+     "name": "Culloden Battlefield",
+     "source": "nominatim",
+     "osm_id": "way/89401134",
+     "wikidata": "Q651919",
+     "osm_class": "natural=heath",
+     "locality": "Newlands of Culloden",
+     "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+     "names_all": [
+      "Culloden Battlefield"
+     ],
+     "importance": 0.10673193331807429,
+     "rank": 0
+    },
+    {
+     "lat": 57.4765425,
+     "lng": -4.1001226,
+     "name": "Culloden Battlefield",
+     "source": "nominatim",
+     "osm_id": "way/89401134",
+     "wikidata": "Q651919",
+     "osm_class": "natural=heath",
+     "locality": "Newlands of Culloden",
+     "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+     "names_all": [
+      "Culloden Battlefield"
+     ],
+     "importance": 0.10673193331807429,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort george": {
+  "res": {
+   "ok": true,
+   "lat": 57.583811,
+   "lng": -4.070286,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.709,
+   "name": "Fort George",
+   "locality": "Fortrose",
+   "osm_class": "military=barracks",
+   "wikidata": "Q1426707",
+   "display": "Fort George, Skinner Road, Fortrose, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5838113,
+     "lng": -4.0702864,
+     "name": "Fort George",
+     "source": "nominatim",
+     "osm_id": "way/34652563",
+     "wikidata": "Q1426707",
+     "osm_class": "military=barracks",
+     "locality": "Fortrose",
+     "display": "Fort George, Skinner Road, Fortrose, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+     "names_all": [
+      "Fort George"
+     ],
+     "importance": 0.38288639822487014,
+     "rank": 0
+    },
+    {
+     "lat": 57.5838113,
+     "lng": -4.0702864,
+     "name": "Fort George",
+     "source": "nominatim",
+     "osm_id": "way/34652563",
+     "wikidata": "Q1426707",
+     "osm_class": "military=barracks",
+     "locality": "Fortrose",
+     "display": "Fort George, Skinner Road, Fortrose, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+     "names_all": [
+      "Fort George"
+     ],
+     "importance": 0.38288639822487014,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::cawdor castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.524183,
+   "lng": -3.926553,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.816,
+   "name": "Cawdor Castle",
+   "locality": "Cawdor",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q1051919",
+   "display": "Cawdor Castle, Smiddy Brae, Cawdor, Highland, Alba / Scotland, IV12 5RD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.5241827,
+     "lng": -3.9265525,
+     "name": "Cawdor Castle",
+     "source": "nominatim",
+     "osm_id": "way/62452643",
+     "wikidata": "Q1051919",
+     "osm_class": "tourism=attraction",
+     "locality": "Cawdor",
+     "display": "Cawdor Castle, Smiddy Brae, Cawdor, Highland, Alba / Scotland, IV12 5RD, United Kingdom",
+     "names_all": [
+      "Cawdor Castle"
+     ],
+     "importance": 0.33029660482760953,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::chanonry point": {
+  "res": {
+   "ok": true,
+   "lat": 57.574137,
+   "lng": -4.091792,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.715,
+   "name": "Chanonry Point",
+   "locality": "Fortrose",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "Q5072570",
+   "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5741373,
+     "lng": -4.0917924,
+     "name": "Chanonry Point",
+     "source": "nominatim",
+     "osm_id": "node/429637701",
+     "wikidata": "Q5072570",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Fortrose",
+     "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+     "names_all": [
+      "Chanonry Point"
+     ],
+     "importance": 0.32547572759041243,
+     "rank": 0
+    },
+    {
+     "lat": 57.5741373,
+     "lng": -4.0917924,
+     "name": "Chanonry Point",
+     "source": "nominatim",
+     "osm_id": "node/429637701",
+     "wikidata": "Q5072570",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Fortrose",
+     "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+     "names_all": [
+      "Chanonry Point"
+     ],
+     "importance": 0.32547572759041243,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glen affric": {
+  "res": {
+   "ok": true,
+   "lat": 57.263658,
+   "lng": -4.999046,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Glen Affric",
+   "locality": "Tomich",
+   "osm_class": "natural=valley",
+   "wikidata": "Q1140082",
+   "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2636584,
+     "lng": -4.9990459,
+     "name": "Glen Affric",
+     "source": "nominatim",
+     "osm_id": "way/670705954",
+     "wikidata": "Q1140082",
+     "osm_class": "natural=valley",
+     "locality": "Tomich",
+     "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Affric"
+     ],
+     "importance": 0.3708703066864196,
+     "rank": 0
+    },
+    {
+     "lat": 57.2636584,
+     "lng": -4.9990459,
+     "name": "Glen Affric",
+     "source": "nominatim",
+     "osm_id": "way/670705954",
+     "wikidata": "Q1140082",
+     "osm_class": "natural=valley",
+     "locality": "Tomich",
+     "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Affric"
+     ],
+     "importance": 0.3708703066864196,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glen_affric"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::aviemore": {
+  "res": {
+   "ok": true,
+   "lat": 57.193753,
+   "lng": -3.82875,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.801,
+   "name": "Aviemore",
+   "locality": "Aviemore",
+   "osm_class": "place=town",
+   "wikidata": "Q790938",
+   "display": "Aviemore, Highland, Alba / Scotland, PH22 1RN, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.1937528,
+     "lng": -3.8287496,
+     "name": "Aviemore",
+     "source": "nominatim",
+     "osm_id": "node/26500540",
+     "wikidata": "Q790938",
+     "osm_class": "place=town",
+     "locality": "Aviemore",
+     "display": "Aviemore, Highland, Alba / Scotland, PH22 1RN, United Kingdom",
+     "names_all": [
+      "Aviemore"
+     ],
+     "importance": 0.4697259166710002,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "cairngorms"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::corrieshalloch gorge": {
+  "res": {
+   "ok": true,
+   "lat": 57.757699,
+   "lng": -5.023221,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.744,
+   "name": "Corrieshalloch Gorge",
+   "locality": "Highland",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.757699,
+     "lng": -5.0232214,
+     "name": "Corrieshalloch Gorge",
+     "source": "nominatim",
+     "osm_id": "node/562716566",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Highland",
+     "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+     "names_all": [
+      "Corrieshalloch Gorge"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 0
+    },
+    {
+     "lat": 57.757699,
+     "lng": -5.0232214,
+     "name": "Corrieshalloch Gorge",
+     "source": "nominatim",
+     "osm_id": "node/562716566",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Highland",
+     "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+     "names_all": [
+      "Corrieshalloch Gorge"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "ullapool"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::pitlochry": {
+  "res": {
+   "ok": true,
+   "lat": 56.701969,
+   "lng": -3.730685,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.927,
+   "name": "Pitlochry",
+   "locality": "Pitlochry",
+   "osm_class": "place=town",
+   "wikidata": "Q1011665",
+   "display": "Pitlochry, Perth and Kinross, Alba / Scotland, PH16 5BX, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.701969,
+     "lng": -3.7306846,
+     "name": "Pitlochry",
+     "source": "nominatim",
+     "osm_id": "node/260624619",
+     "wikidata": "Q1011665",
+     "osm_class": "place=town",
+     "locality": "Pitlochry",
+     "display": "Pitlochry, Perth and Kinross, Alba / Scotland, PH16 5BX, United Kingdom",
+     "names_all": [
+      "Pitlochry"
+     ],
+     "importance": 0.43424699667243644,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::blair castle": {
+  "res": {
+   "ok": true,
+   "lat": 56.773376,
+   "lng": -3.856823,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.877,
+   "name": "Blair Castle",
+   "locality": "Pitlochry",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q532627",
+   "display": "Blair Castle, Hercules Walk, Old Blair, Pitlochry, Perth and Kinross, Alba / Scotland, PH18 5TL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.7733765,
+     "lng": -3.8568231,
+     "name": "Blair Castle",
+     "source": "nominatim",
+     "osm_id": "way/1534398796",
+     "wikidata": "Q532627",
+     "osm_class": "tourism=attraction",
+     "locality": "Pitlochry",
+     "display": "Blair Castle, Hercules Walk, Old Blair, Pitlochry, Perth and Kinross, Alba / Scotland, PH18 5TL, United Kingdom",
+     "names_all": [
+      "Blair Castle"
+     ],
+     "importance": 0.36760675791195535,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::dunkeld": {
+  "res": {
+   "ok": true,
+   "lat": 56.565571,
+   "lng": -3.586255,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.847,
+   "name": "Dunkeld",
+   "locality": "Dunkeld",
+   "osm_class": "place=town",
+   "wikidata": "Q1265921",
+   "display": "Dunkeld, Perth and Kinross, Alba / Scotland, PH8 0AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.5655711,
+     "lng": -3.5862546,
+     "name": "Dunkeld",
+     "source": "nominatim",
+     "osm_id": "node/26880090",
+     "wikidata": "Q1265921",
+     "osm_class": "place=town",
+     "locality": "Dunkeld",
+     "display": "Dunkeld, Perth and Kinross, Alba / Scotland, PH8 0AJ, United Kingdom",
+     "names_all": [
+      "Dunkeld"
+     ],
+     "importance": 0.44635990349034044,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::stirling castle": {
+  "res": {
+   "ok": true,
+   "lat": 56.124031,
+   "lng": -3.948011,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.903,
+   "name": "Stirling Castle",
+   "locality": "Stirling",
+   "osm_class": "historic=castle",
+   "wikidata": "Q756268",
+   "display": "Stirling Castle, Castle Wynd, Top of the Town, Old Town, Stirling, Alba / Scotland, FK8 1EJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.1240308,
+     "lng": -3.9480115,
+     "name": "Stirling Castle",
+     "source": "nominatim",
+     "osm_id": "way/100542995",
+     "wikidata": "Q756268",
+     "osm_class": "historic=castle",
+     "locality": "Stirling",
+     "display": "Stirling Castle, Castle Wynd, Top of the Town, Old Town, Stirling, Alba / Scotland, FK8 1EJ, United Kingdom",
+     "names_all": [
+      "Stirling Castle"
+     ],
+     "importance": 0.5012935754844979,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::the kelpies": {
+  "res": {
+   "ok": true,
+   "lat": 56.019136,
+   "lng": -3.755499,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.729,
+   "name": "The Kelpies",
+   "locality": "Falkirk",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q16988858",
+   "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.0191363,
+     "lng": -3.7554986,
+     "name": "The Kelpies",
+     "source": "nominatim",
+     "osm_id": "way/654222141",
+     "wikidata": "Q16988858",
+     "osm_class": "tourism=attraction",
+     "locality": "Falkirk",
+     "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+     "names_all": [
+      "The Kelpies"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    },
+    {
+     "lat": 56.0191363,
+     "lng": -3.7554986,
+     "name": "The Kelpies",
+     "source": "nominatim",
+     "osm_id": "way/654222141",
+     "wikidata": "Q16988858",
+     "osm_class": "tourism=attraction",
+     "locality": "Falkirk",
+     "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+     "names_all": [
+      "The Kelpies"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::falkirk wheel": {
+  "res": {
+   "ok": true,
+   "lat": 56.000356,
+   "lng": -3.841725,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.735,
+   "name": "Falkirk Wheel",
+   "locality": "Falkirk",
+   "osm_class": "waterway=boat_lift",
+   "wikidata": "Q99327",
+   "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.0003559,
+     "lng": -3.841725,
+     "name": "Falkirk Wheel",
+     "source": "nominatim",
+     "osm_id": "way/32466476",
+     "wikidata": "Q99327",
+     "osm_class": "waterway=boat_lift",
+     "locality": "Falkirk",
+     "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+     "names_all": [
+      "Falkirk Wheel"
+     ],
+     "importance": 0.13339637216754405,
+     "rank": 0
+    },
+    {
+     "lat": 56.0003559,
+     "lng": -3.841725,
+     "name": "Falkirk Wheel",
+     "source": "nominatim",
+     "osm_id": "way/32466476",
+     "wikidata": "Q99327",
+     "osm_class": "waterway=boat_lift",
+     "locality": "Falkirk",
+     "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+     "names_all": [
+      "Falkirk Wheel"
+     ],
+     "importance": 0.13339637216754405,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::tomatin distillery": {
+  "res": {
+   "ok": true,
+   "lat": 57.338986,
+   "lng": -4.009283,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.833,
+   "name": "Tomatin Distillery",
+   "locality": "Tomatin",
+   "osm_class": "craft=distillery",
+   "wikidata": "Q982680",
+   "display": "Tomatin Distillery, Allt Dubhag Road, Tomatin, Highland, Alba / Scotland, IV13 7YT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3389857,
+     "lng": -4.0092831,
+     "name": "Tomatin Distillery",
+     "source": "nominatim",
+     "osm_id": "relation/14006844",
+     "wikidata": "Q982680",
+     "osm_class": "craft=distillery",
+     "locality": "Tomatin",
+     "display": "Tomatin Distillery, Allt Dubhag Road, Tomatin, Highland, Alba / Scotland, IV13 7YT, United Kingdom",
+     "names_all": [
+      "Tomatin Distillery"
+     ],
+     "importance": 0.3754795826599041,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "cairngorms"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::steall falls": {
+  "res": {
+   "ok": true,
+   "lat": 56.770242,
+   "lng": -4.97983,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.725,
+   "name": "Steall Falls",
+   "locality": "Highland",
+   "osm_class": "waterway=waterfall",
+   "wikidata": "Q38441",
+   "display": "Steall Falls, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.7702419,
+     "lng": -4.9798298,
+     "name": "Steall Falls",
+     "source": "nominatim",
+     "osm_id": "node/665680671",
+     "wikidata": "Q38441",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Steall Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Steall Falls"
+     ],
+     "importance": 0.19938740066310082,
+     "rank": 0
+    },
+    {
+     "lat": 56.7702419,
+     "lng": -4.9798298,
+     "name": "Steall Falls",
+     "source": "nominatim",
+     "osm_id": "node/665680671",
+     "wikidata": "Q38441",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Steall Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Steall Falls"
+     ],
+     "importance": 0.19938740066310082,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::old inverlochy castle": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::three sisters": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::silver sands of morar": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::portree harbour": {
+  "res": {
+   "ok": true,
+   "lat": 57.411435,
+   "lng": -6.189981,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.746,
+   "name": "Portree Harbour",
+   "locality": "Portree",
+   "osm_class": "leisure=marina",
+   "wikidata": "",
+   "display": "Portree Harbour, Beaumont Crescent, Budhmor, Portree, Highland, Alba / Scotland, IV51 9DB, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.4114352,
+     "lng": -6.1899808,
+     "name": "Portree Harbour",
+     "source": "nominatim",
+     "osm_id": "way/1146117012",
+     "wikidata": "",
+     "osm_class": "leisure=marina",
+     "locality": "Portree",
+     "display": "Portree Harbour, Quay Street, Portree, Highland, Alba / Scotland, IV51 9DE, United Kingdom",
+     "names_all": [
+      "Portree Harbour"
+     ],
+     "importance": 5.49958037689329e-05,
+     "rank": 0
+    },
+    {
+     "lat": 57.4114352,
+     "lng": -6.1899808,
+     "name": "Portree Harbour",
+     "source": "nominatim",
+     "osm_id": "way/1146117012",
+     "wikidata": "",
+     "osm_class": "leisure=marina",
+     "locality": "Portree",
+     "display": "Portree Harbour, Beaumont Crescent, Budhmor, Portree, Highland, Alba / Scotland, IV51 9DB, United Kingdom",
+     "names_all": [
+      "Portree Harbour"
+     ],
+     "importance": 5.49958037689329e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_norte"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::kilt rock": {
+  "res": {
+   "ok": true,
+   "lat": 57.610864,
+   "lng": -6.172148,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.707,
+   "name": "Kilt Rock Viewpoint",
+   "locality": "Stafainn",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "",
+   "display": "Kilt Rock Viewpoint, A855, Cùl nan Cnoc, Stafainn, Highland, Alba / Scotland, IV51 9JD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.610864,
+     "lng": -6.1721482,
+     "name": "Kilt Rock Viewpoint",
+     "source": "nominatim",
+     "osm_id": "node/969948572",
+     "wikidata": "",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Stafainn",
+     "display": "Kilt Rock Viewpoint, A855, Cùl nan Cnoc, Stafainn, Highland, Alba / Scotland, IV51 9JD, United Kingdom",
+     "names_all": [
+      "Kilt Rock Viewpoint"
+     ],
+     "importance": 3.500190737769158e-05,
+     "rank": 0
+    },
+    {
+     "lat": 57.610864,
+     "lng": -6.1721482,
+     "name": "Kilt Rock Viewpoint",
+     "source": "nominatim",
+     "osm_id": "node/969948572",
+     "wikidata": "",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Stafainn",
+     "display": "Kilt Rock Viewpoint, A855, Cùl nan Cnoc, Stafainn, Highland, Alba / Scotland, IV51 9JD, United Kingdom",
+     "names_all": [
+      "Kilt Rock Viewpoint"
+     ],
+     "importance": 3.500190737769158e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::lealt falls": {
+  "res": {
+   "ok": true,
+   "lat": 57.565394,
+   "lng": -6.15273,
+   "source": "overpass",
+   "confidence": "high",
+   "score": 0.739,
+   "name": "Lealt Falls",
+   "locality": "",
+   "osm_class": "tourism=yes",
+   "wikidata": "",
+   "display": "Lealt Falls",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 57.5653936,
+     "lng": -6.1527298,
+     "name": "Lealt Falls",
+     "source": "nominatim",
+     "osm_id": "node/1210427904",
+     "wikidata": "",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Lealt Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Lealt Falls"
+     ],
+     "importance": 0.1333863195239185,
+     "rank": 0
+    },
+    {
+     "lat": 57.5653936,
+     "lng": -6.1527298,
+     "name": "Lealt Falls",
+     "source": "nominatim",
+     "osm_id": "node/1210427904",
+     "wikidata": "",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Lealt Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Lealt Falls"
+     ],
+     "importance": 0.1333863195239185,
+     "rank": 0
+    },
+    {
+     "lat": 57.5653936,
+     "lng": -6.1527298,
+     "name": "Lealt Falls",
+     "source": "overpass",
+     "osm_id": "node/1210427904",
+     "wikidata": "",
+     "osm_class": "tourism=yes",
+     "locality": "",
+     "display": "Lealt Falls",
+     "names_all": [
+      "Lealt Falls"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_norte"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::rubha nam brathairean": {
+  "res": {
+   "ok": true,
+   "lat": 57.586542,
+   "lng": -6.139123,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.661,
+   "name": "Rubha nam Bràithrean",
+   "locality": "Highland",
+   "osm_class": "natural=cape",
+   "wikidata": "Q24654349",
+   "display": "Rubha nam Bràithrean, Stafainn, Highland, Alba / Scotland, United Kingdom",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 57.5865424,
+     "lng": -6.1391226,
+     "name": "Rubha nam Bràithrean",
+     "source": "nominatim",
+     "osm_id": "node/4426861289",
+     "wikidata": "Q24654349",
+     "osm_class": "natural=cape",
+     "locality": "Highland",
+     "display": "Rubha nam Bràithrean, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Rubha nam Bràithrean"
+     ],
+     "importance": 0.07194870560319186,
+     "rank": 0
+    },
+    {
+     "lat": 57.5865424,
+     "lng": -6.1391226,
+     "name": "Rubha nam Bràithrean",
+     "source": "nominatim",
+     "osm_id": "node/4426861289",
+     "wikidata": "Q24654349",
+     "osm_class": "natural=cape",
+     "locality": "Highland",
+     "display": "Rubha nam Bràithrean, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Rubha nam Bràithrean"
+     ],
+     "importance": 0.07194870560319186,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::duntulm castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.684268,
+   "lng": -6.346992,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.902,
+   "name": "Duntulm Castle",
+   "locality": "Cille MoLuaig",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q1266302",
+   "display": "Duntulm Castle, A855, Dùn Tuilm, Cille Mhoire, Cille MoLuaig, Highland, Alba / Scotland, IV51 9UF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.6842683,
+     "lng": -6.346992,
+     "name": "Duntulm Castle",
+     "source": "nominatim",
+     "osm_id": "way/353722849",
+     "wikidata": "Q1266302",
+     "osm_class": "tourism=attraction",
+     "locality": "Cille MoLuaig",
+     "display": "Duntulm Castle, A855, Dùn Tuilm, Cille Mhoire, Cille MoLuaig, Highland, Alba / Scotland, IV51 9UF, United Kingdom",
+     "names_all": [
+      "Duntulm Castle"
+     ],
+     "importance": 0.3469896344052328,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::dunvegan castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.448425,
+   "lng": -6.590076,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.912,
+   "name": "Dunvegan Castle",
+   "locality": "Dunvegan",
+   "osm_class": "historic=castle",
+   "wikidata": "Q1266330",
+   "display": "Dunvegan Castle, Woodland Walk, Totachocaire, Dunvegan, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.4484253,
+     "lng": -6.5900758,
+     "name": "Dunvegan Castle",
+     "source": "nominatim",
+     "osm_id": "way/124283879",
+     "wikidata": "Q1266330",
+     "osm_class": "historic=castle",
+     "locality": "Dunvegan",
+     "display": "Dunvegan Castle, Woodland Walk, Totachocaire, Dunvegan, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Dunvegan Castle"
+     ],
+     "importance": 0.39238421350124,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_oeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::coral beach": {
+  "res": {
+   "ok": true,
+   "lat": 57.500843,
+   "lng": -6.637024,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.881,
+   "name": "Coral Beach",
+   "locality": "Highland",
+   "osm_class": "natural=beach",
+   "wikidata": "",
+   "display": "Coral Beach, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.5008431,
+     "lng": -6.637024,
+     "name": "Coral Beach",
+     "source": "nominatim",
+     "osm_id": "way/157534015",
+     "wikidata": "",
+     "osm_class": "natural=beach",
+     "locality": "Highland",
+     "display": "Coral Beach, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Coral Beach"
+     ],
+     "importance": 0.10667666666666664,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_oeste"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::sligachan old bridge": {
+  "res": {
+   "ok": true,
+   "lat": 57.289808,
+   "lng": -6.173274,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.772,
+   "name": "The Sligachan old bridge",
+   "locality": "Highland",
+   "osm_class": "highway=unclassified",
+   "wikidata": "",
+   "display": "The Sligachan old bridge, Sligachan, Highland, Alba / Scotland, IV47 8SW, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2898076,
+     "lng": -6.1732737,
+     "name": "The Sligachan old bridge",
+     "source": "nominatim",
+     "osm_id": "way/35557215",
+     "wikidata": "",
+     "osm_class": "highway=unclassified",
+     "locality": "Highland",
+     "display": "The Sligachan old bridge, Sligachan, Highland, Alba / Scotland, IV47 8SW, United Kingdom",
+     "names_all": [
+      "The Sligachan old bridge"
+     ],
+     "importance": 0.05338665064469364,
+     "rank": 0
+    },
+    {
+     "lat": 57.2898076,
+     "lng": -6.1732737,
+     "name": "The Sligachan old bridge",
+     "source": "nominatim",
+     "osm_id": "way/35557215",
+     "wikidata": "",
+     "osm_class": "highway=unclassified",
+     "locality": "Highland",
+     "display": "The Sligachan old bridge, Sligachan, Highland, Alba / Scotland, IV47 8SW, United Kingdom",
+     "names_all": [
+      "The Sligachan old bridge"
+     ],
+     "importance": 0.05338665064469364,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glen brittle": {
+  "res": {
+   "ok": true,
+   "lat": 57.21035,
+   "lng": -6.289722,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.719,
+   "name": "Glen Brittle",
+   "locality": "Highland",
+   "osm_class": "place=hamlet",
+   "wikidata": "Q5567600",
+   "display": "Glen Brittle, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2103497,
+     "lng": -6.2897221,
+     "name": "Glen Brittle",
+     "source": "nominatim",
+     "osm_id": "node/2701813465",
+     "wikidata": "Q5567600",
+     "osm_class": "place=hamlet",
+     "locality": "Highland",
+     "display": "Glen Brittle, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Brittle"
+     ],
+     "importance": 0.17283327415591612,
+     "rank": 0
+    },
+    {
+     "lat": 57.2103497,
+     "lng": -6.2897221,
+     "name": "Glen Brittle",
+     "source": "nominatim",
+     "osm_id": "node/2701813465",
+     "wikidata": "Q5567600",
+     "osm_class": "place=hamlet",
+     "locality": "Highland",
+     "display": "Glen Brittle, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Brittle"
+     ],
+     "importance": 0.17283327415591612,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::talisker distillery": {
+  "res": {
+   "ok": true,
+   "lat": 57.301876,
+   "lng": -6.356683,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.872,
+   "name": "Talisker Distillery",
+   "locality": "Carbost",
+   "osm_class": "craft=distillery",
+   "wikidata": "Q278",
+   "display": "Talisker Distillery, B8009, Carbostbeg, Carbost, Highland, Alba / Scotland, IV47 8SR, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3018764,
+     "lng": -6.3566827,
+     "name": "Talisker Distillery",
+     "source": "nominatim",
+     "osm_id": "way/406644353",
+     "wikidata": "Q278",
+     "osm_class": "craft=distillery",
+     "locality": "Carbost",
+     "display": "Talisker Distillery, B8009, Carbostbeg, Carbost, Highland, Alba / Scotland, IV47 8SR, United Kingdom",
+     "names_all": [
+      "Talisker Distillery"
+     ],
+     "importance": 0.44820083971558566,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::talisker bay": {
+  "res": {
+   "ok": true,
+   "lat": 57.284419,
+   "lng": -6.465801,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.746,
+   "name": "Talisker Bay",
+   "locality": "",
+   "osm_class": "natural=bay",
+   "wikidata": "",
+   "display": "Talisker Bay, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2844187,
+     "lng": -6.4658006,
+     "name": "Talisker Bay",
+     "source": "nominatim",
+     "osm_id": "node/1820572616",
+     "wikidata": "",
+     "osm_class": "natural=bay",
+     "locality": "",
+     "display": "Talisker Bay, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Talisker Bay"
+     ],
+     "importance": 0.10667666666666664,
+     "rank": 0
+    },
+    {
+     "lat": 57.2844187,
+     "lng": -6.4658006,
+     "name": "Talisker Bay",
+     "source": "nominatim",
+     "osm_id": "node/1820572616",
+     "wikidata": "",
+     "osm_class": "natural=bay",
+     "locality": "",
+     "display": "Talisker Bay, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Talisker Bay"
+     ],
+     "importance": 0.10667666666666664,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::armadale castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.072647,
+   "lng": -5.894729,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.884,
+   "name": "Armadale Castle",
+   "locality": "Armadal",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q676462",
+   "display": "Armadale Castle, A851, Ostaig, Slèite, Armadal, Highland, Alba / Scotland, IV45 8RQ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.0726468,
+     "lng": -5.8947292,
+     "name": "Armadale Castle",
+     "source": "nominatim",
+     "osm_id": "way/354648861",
+     "wikidata": "Q676462",
+     "osm_class": "tourism=attraction",
+     "locality": "Armadal",
+     "display": "Armadale Castle, A851, Ostaig, Slèite, Armadal, Highland, Alba / Scotland, IV45 8RQ, United Kingdom",
+     "names_all": [
+      "Armadale Castle"
+     ],
+     "importance": 0.3678453393566702,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "road_to_isles"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::five sisters of kintail": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::leakeys bookshop": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::urquhart castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.324109,
+   "lng": -4.441989,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.915,
+   "name": "Urquhart Castle",
+   "locality": "Lewiston",
+   "osm_class": "historic=castle",
+   "wikidata": "Q913981",
+   "display": "Urquhart Castle, Urquhart Castle Drive, Strone, Lewiston, Highland, Alba / Scotland, IV63 6XL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3241087,
+     "lng": -4.4419894,
+     "name": "Urquhart Castle",
+     "source": "nominatim",
+     "osm_id": "way/1006531166",
+     "wikidata": "Q913981",
+     "osm_class": "historic=castle",
+     "locality": "Lewiston",
+     "display": "Urquhart Castle, Urquhart Castle Drive, Strone, Lewiston, Highland, Alba / Scotland, IV63 6XL, United Kingdom",
+     "names_all": [
+      "Urquhart Castle"
+     ],
+     "importance": 0.3552828743550627,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::dores beach": {
+  "res": {
+   "ok": true,
+   "lat": 57.383929,
+   "lng": -4.336345,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.858,
+   "name": "Dores Beach",
+   "locality": "Dores",
+   "osm_class": "natural=beach",
+   "wikidata": "",
+   "display": "Dores Beach, Dores, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3839291,
+     "lng": -4.3363447,
+     "name": "Dores Beach",
+     "source": "nominatim",
+     "osm_id": "way/259657077",
+     "wikidata": "",
+     "osm_class": "natural=beach",
+     "locality": "Dores",
+     "display": "Dores Beach, Dores, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Dores Beach"
+     ],
+     "importance": 0.10673193331807429,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::falls of foyers": {
+  "res": {
+   "ok": true,
+   "lat": 57.248859,
+   "lng": -4.491402,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.739,
+   "name": "Falls Of Foyers",
+   "locality": "Foyers",
+   "osm_class": "place=locality",
+   "wikidata": "Q37279",
+   "display": "Falls Of Foyers, Foyers, Highland, Alba / Scotland, IV2 6XX, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2488588,
+     "lng": -4.4914019,
+     "name": "Falls Of Foyers",
+     "source": "nominatim",
+     "osm_id": "node/1276372542",
+     "wikidata": "Q37279",
+     "osm_class": "place=locality",
+     "locality": "Foyers",
+     "display": "Falls Of Foyers, Foyers, Highland, Alba / Scotland, IV2 6XX, United Kingdom",
+     "names_all": [
+      "Falls Of Foyers"
+     ],
+     "importance": 0.18157831638402872,
+     "rank": 0
+    },
+    {
+     "lat": 57.2488588,
+     "lng": -4.4914019,
+     "name": "Falls Of Foyers",
+     "source": "nominatim",
+     "osm_id": "node/1276372542",
+     "wikidata": "Q37279",
+     "osm_class": "place=locality",
+     "locality": "Foyers",
+     "display": "Falls Of Foyers, Foyers, Highland, Alba / Scotland, IV2 6XX, United Kingdom",
+     "names_all": [
+      "Falls Of Foyers"
+     ],
+     "importance": 0.18157831638402872,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::clava cairns": {
+  "res": {
+   "ok": true,
+   "lat": 57.473063,
+   "lng": -4.073688,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.541,
+   "name": "Balnuaran of Clava",
+   "locality": "Newlands of Culloden",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q39505213",
+   "display": "Balnuaran of Clava, C22, Clava, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EL, United Kingdom",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 57.4730629,
+     "lng": -4.073688,
+     "name": "Balnuaran of Clava",
+     "source": "nominatim",
+     "osm_id": "way/41662537",
+     "wikidata": "Q39505213",
+     "osm_class": "tourism=attraction",
+     "locality": "Newlands of Culloden",
+     "display": "Balnuaran of Clava, C22, Clava, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EL, United Kingdom",
+     "names_all": [
+      "Balnuaran of Clava"
+     ],
+     "importance": 0.07194870560319186,
+     "rank": 0
+    },
+    {
+     "lat": 57.4730629,
+     "lng": -4.073688,
+     "name": "Balnuaran of Clava",
+     "source": "nominatim",
+     "osm_id": "way/41662537",
+     "wikidata": "Q39505213",
+     "osm_class": "tourism=attraction",
+     "locality": "Newlands of Culloden",
+     "display": "Balnuaran of Clava, C22, Clava, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EL, United Kingdom",
+     "names_all": [
+      "Balnuaran of Clava"
+     ],
+     "importance": 0.07194870560319186,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::rogie falls": {
+  "res": {
+   "ok": true,
+   "lat": 57.589175,
+   "lng": -4.602499,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.733,
+   "name": "Rogie Falls",
+   "locality": "Highland",
+   "osm_class": "waterway=waterfall",
+   "wikidata": "Q7359399",
+   "display": "Rogie Falls, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5891751,
+     "lng": -4.6024988,
+     "name": "Rogie Falls",
+     "source": "nominatim",
+     "osm_id": "node/388552745",
+     "wikidata": "Q7359399",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Rogie Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Rogie Falls"
+     ],
+     "importance": 0.12743869505990896,
+     "rank": 0
+    },
+    {
+     "lat": 57.5891751,
+     "lng": -4.6024988,
+     "name": "Rogie Falls",
+     "source": "nominatim",
+     "osm_id": "node/388552745",
+     "wikidata": "Q7359399",
+     "osm_class": "waterway=waterfall",
+     "locality": "Highland",
+     "display": "Rogie Falls, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Rogie Falls"
+     ],
+     "importance": 0.12743869505990896,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "easter_ross"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::killiecrankie": {
+  "res": {
+   "ok": true,
+   "lat": 56.744957,
+   "lng": -3.779317,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.771,
+   "name": "Killiecrankie",
+   "locality": "Killiecrankie",
+   "osm_class": "place=village",
+   "wikidata": "Q1002159",
+   "display": "Killiecrankie, Perth and Kinross, Alba / Scotland, PH16 5GZ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.7449568,
+     "lng": -3.7793169,
+     "name": "Killiecrankie",
+     "source": "nominatim",
+     "osm_id": "node/26503895",
+     "wikidata": "Q1002159",
+     "osm_class": "place=village",
+     "locality": "Killiecrankie",
+     "display": "Killiecrankie, Perth and Kinross, Alba / Scotland, PH16 5GZ, United Kingdom",
+     "names_all": [
+      "Killiecrankie"
+     ],
+     "importance": 0.3807705141182751,
+     "rank": 0
+    },
+    {
+     "lat": 56.7449568,
+     "lng": -3.7793169,
+     "name": "Killiecrankie",
+     "source": "nominatim",
+     "osm_id": "node/26503895",
+     "wikidata": "Q1002159",
+     "osm_class": "place=village",
+     "locality": "Killiecrankie",
+     "display": "Killiecrankie, Perth and Kinross, Alba / Scotland, PH16 5GZ, United Kingdom",
+     "names_all": [
+      "Killiecrankie"
+     ],
+     "importance": 0.3807705141182751,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::edradour distillery": {
+  "res": {
+   "ok": true,
+   "lat": 56.702173,
+   "lng": -3.699381,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.914,
+   "name": "Edradour Distillery",
+   "locality": "Kinnaird",
+   "osm_class": "craft=distillery",
+   "wikidata": "Q982705",
+   "display": "Edradour Distillery, Edradour Road, Milton of Edradour, Kinnaird, Perth and Kinross, Alba / Scotland, PH16 5JP, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.7021734,
+     "lng": -3.6993815,
+     "name": "Edradour Distillery",
+     "source": "nominatim",
+     "osm_id": "way/372194636",
+     "wikidata": "Q982705",
+     "osm_class": "craft=distillery",
+     "locality": "Kinnaird",
+     "display": "Edradour Distillery, Edradour Road, Milton of Edradour, Kinnaird, Perth and Kinross, Alba / Scotland, PH16 5JP, United Kingdom",
+     "names_all": [
+      "Edradour Distillery"
+     ],
+     "importance": 0.3898810858579735,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ }
+}
