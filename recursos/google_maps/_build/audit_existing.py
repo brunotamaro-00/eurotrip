@@ -38,10 +38,13 @@ TOLERANCE_M: dict[str, float] = {
     "Coffee shop": 120, "Smart shop": 120, "Ruin bar": 120, "Pub": 120,
     "Sitio histórico": 200, "Monumento": 200, "Escultura": 150, "Institución": 200,
     "Plaza": 250, "Fuente": 150, "Palacio": 200,
-    # extenso urbano
-    "Mercado": 300, "Calle": 400, "Paseo": 500, "Parque": 600, "Jardín": 400,
-    "Cementerio": 400, "Barrio": 800, "Casco histórico": 800, "Ciudad": 2000,
-    "Pueblo": 1500, "Pueblo Route des Vins": 1500,
+    # extenso urbano. Calles, paseos y canales son features LINEALES: el punto
+    # que devuelve el geocoder puede estar a un par de km del extremo que uno
+    # eligió y seguir siendo el mismo lugar (Prinsengracht mide 3 km,
+    # Via Appia Antica 16, las Mura Aureliane 19).
+    "Mercado": 300, "Calle": 2000, "Paseo": 2000, "Parque": 600, "Jardín": 400,
+    "Cementerio": 400, "Barrio": 1500, "Casco histórico": 1500, "Ciudad": 7000,
+    "Pueblo": 6000, "Pueblo Route des Vins": 6000,
     # puntual natural
     "Faro": 200, "Castillo": 250, "Fuerte": 250, "Cascada": 300, "Cueva": 300,
     "Teleférico": 300, "Destilería": 250, "Cima": 400, "Playa": 500,

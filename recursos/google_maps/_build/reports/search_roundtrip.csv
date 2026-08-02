@@ -1,0 +1,327 @@
+file,ciudad,nombre,lugar_busqueda,tipo,tolerancia_m,dist_m,resuelve_a,veredicto
+europa_katia.csv,Roma,Barrio judío (Ghetto),"Ghetto di Roma, Roma, Italy",Barrio,800,41289,"Via del Ghetto, Canale Monterano, Roma Capitale, Lazio, 00066, Italia",FAIL
+europa_katia.csv,Roma,Muralla Aureliana,"Mura aureliane, Roma, Italy",Sitio histórico,200,3929,"Mura Aureliane, Viale delle Terme di Caracalla, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154,",FAIL
+europa_katia.csv,Roma,Basílica de San Pedro,"Basilica di San Pietro in Vaticano, Roma, Italy",Iglesia,150,,,FAIL
+europa_katia.csv,Roma,Museos Vaticanos,"Musei Vaticani, Roma, Italy",Museo,150,20916,"Musei Vaticani, Via Leonardo da Vinci, Fiumicino, Roma Capitale, Lazio, 00054, Italia",FAIL
+europa_katia.csv,Roma,Via Appia Antica,"Via Appia Antica, Roma, Italy",Sitio histórico,200,914,"Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia",FAIL
+europa_katia.csv,Roma,Auditorium Parco della Musica,"Auditorium Parco della Musica, Roma, Italy",Teatro,150,,,FAIL
+europa_katia.csv,Nápoles,Murales de Vico Totò,"Vico Totò, Napoli, Italy",Sitio histórico,200,,,FAIL
+europa_katia.csv,Valle del Soča,Bovec,"Bovec, Slovenia",Pueblo,1500,5152,"Bovec, Slovenija",FAIL
+europa_katia.csv,Valle del Soča,Tolmin,"Tolmin, Slovenia",Pueblo,1500,6129,"Tolmin, Slovenija",FAIL
+europa_katia.csv,Edimburgo,The Vennel,"The Vennel, City of Edinburgh, UK",Mirador,150,16192,"The Vennel, Scotstoun, City of Edinburgh, Alba / Scotland, EH30 9HW, United Kingdom",FAIL
+europa_katia.csv,Londres,Waterloo Bridge,"Waterloo Bridge, Greater London, UK",Puente,150,658,"London Waterloo, The Balcony, South Bank, Waterloo, London Borough of Lambeth, Greater London, England, SE1 8S",FAIL
+europa_katia.csv,París,Rue de l'Université,"Rue de l'Université, Paris, France",Calle,400,1390,"Rue de l'Université, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolita",FAIL
+europa_katia.csv,Ámsterdam,Prinsengracht,"Prinsengracht, Amsterdam, Netherlands",Paseo,500,1846,"Prinsengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 TH, Nederland",FAIL
+europa_katia.csv,Lucerna,Río Reuss,"Reuss, Luzern, Switzerland",Naturaleza,2000,10575,"Reuss, Luzern, Schweiz/Suisse/Svizzera/Svizra",FAIL
+europa_katia.csv,Cracovia,Błonia,"Błonia, Kraków, Poland",Parque,600,18907,"Błonie, Wyciąże, Nowa Huta, Kraków, województwo małopolskie, 31-998, Polska",FAIL
+europa_katia.csv,Cracovia,Nowa Huta,"Nowa Huta, Kraków, Poland",Barrio,800,6611,"Nowa Huta, Kraków, województwo małopolskie, Polska",FAIL
+europa_katia.csv,Estrasburgo,Biblioteca Nacional y Universitaria,"Bibliothèque nationale et universitaire de Strasbourg, Strasbourg, France",Sitio histórico,200,,,FAIL
+europa_katia.csv,Highlands,Cairngorm Mountain Gondola,"Cairngorm Mountain, Aviemore, UK",Teleférico,300,1923,"Cairngorm Mountain Rescue Team, Inverdruie, Aviemore, Highland, Alba / Scotland, PH22 1QH, United Kingdom",FAIL
+europa_katia.csv,Nápoles,Via dei Tribunali,"Via dei Tribunali, Napoli, Italy",Calle,400,535,"Via dei Tribunali, Pendino, Municipalità 2, Napoli, Campania, 80187, Italia",SOFT
+europa_katia.csv,Nápoles,Spaccanapoli,"Spaccanapoli, Napoli, Italy",Calle,400,531,"Piazzetta del Nilo, Porto, Municipalità 2, Napoli, Campania, 80130, Italia",SOFT
+europa_katia.csv,Karst y Cuevas,Cuevas de Škocjan,"Škocjanske jame, Matavun, Slovenia",Cueva,300,568,"Škocjanske jame (izhod), Izhod / Exit 2-3, Škocjan, Matavun, Divača, Upravna enota Sežana, 6215, Slovenija",SOFT
+europa_katia.csv,Valle del Soča,Kobarid,"Kobarid, Slovenia",Pueblo,1500,2499,"Kobarid, Slovenija",SOFT
+europa_katia.csv,París,Avenue des Champs-Élysées,"Avenue des Champs-Élysées, Paris, France",Calle,400,475,"Avenue des Champs-Élysées, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France ",SOFT
+europa_katia.csv,Ámsterdam,Herengracht,"Herengracht, Amsterdam, Netherlands",Paseo,500,605,"Herengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 CE, Nederland",SOFT
+europa_katia.csv,Grindelwald,Dorfstrasse,"Dorfstrasse, Grindelwald, Switzerland",Calle,400,730,"Dorfstrasse, Swiss Alp Resort, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland,",SOFT
+europa_katia.csv,Budapest,Váci utca,"Váci utca, Budapest, Hungary",Calle,400,675,"Váci utca, Pest, Belváros, V. kerület, Budapest, Közép-Magyarország, 1052, Magyarország",SOFT
+europa_katia.csv,Friburgo,Kaiser-Joseph-Straße,"Kaiser-Joseph-Straße, Freiburg im Breisgau, Germany",Calle,400,655,"Kaiser-Joseph-Straße, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Baden-Württemberg, 79098, Deutschland",SOFT
+europa_katia.csv,Highlands,Rothiemurchus Forest,"Rothiemurchus, Aviemore, UK",Naturaleza,2000,2161,"Rothiemurchus, B970, Inverdruie, Aviemore, Highland, Alba / Scotland, PH22 1QW, United Kingdom",SOFT
+europa_katia.csv,Roma,Vittoriano (Altare della Patria),"Altare della Patria, Roma, Italy",Monumento,200,0,"Altare della Patria, Scala dell'Arce Capitolina, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 001",PASS
+europa_katia.csv,Roma,Piazza Navona,"Piazza Navona, Roma, Italy",Plaza,250,0,"Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Piazza Venezia,"Piazza Venezia, Roma, Italy",Plaza,250,0,"Piazza Venezia, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Villa Borghese,"Villa Borghese, Roma, Italy",Parque,600,0,"Villa Borghese, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Coliseo,"Colosseo, Roma, Italy",Sitio histórico,200,0,"Colosseo, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",PASS
+europa_katia.csv,Roma,Foro Romano,"Foro Romano, Roma, Italy",Sitio histórico,200,113,"Forum Romanum, Via di San Teodoro, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",PASS
+europa_katia.csv,Roma,Museo Palatino,"Museo Palatino, Roma, Italy",Museo,150,0,"Museo Palatino, Criptoportico Neroniano, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Ital",PASS
+europa_katia.csv,Roma,Basílica de Majencio,"Basilica di Massenzio, Roma, Italy",Sitio histórico,200,0,"Basilica di Massenzio, Piazza di Santa Francesca Romana, Campitelli, Municipio Roma I, Roma, Roma Capitale, La",PASS
+europa_katia.csv,Roma,Santa Maria Maggiore,"Basilica di Santa Maria Maggiore, Roma, Italy",Iglesia,150,0,"Basilica di Santa Maria Maggiore, Piazza di Santa Maria Maggiore, Monti, Municipio Roma I, Roma, Roma Capitale",PASS
+europa_katia.csv,Roma,Santa Maria della Vittoria,"Santa Maria della Vittoria, Roma, Italy",Iglesia,150,0,"Santa Maria della Vittoria, 17, Via Venti Settembre, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio",PASS
+europa_katia.csv,Roma,Fontana di Trevi,"Fontana di Trevi, Roma, Italy",Monumento,200,0,"Fontana di Trevi, Piazza di Trevi, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",PASS
+europa_katia.csv,Roma,Campo de' Fiori,"Campo de' Fiori, Roma, Italy",Plaza,250,0,"Campo de' Fiori, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Parioli,"Parioli, Roma, Italy",Barrio,800,0,"Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Trastevere,"Trastevere, Roma, Italy",Barrio,800,0,"Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Pirámide Cestia,"Piramide di Caio Cestio, Roma, Italy",Sitio histórico,200,0,"Piramide di Caio Cestio, Via Raffaele Persichetti, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00",PASS
+europa_katia.csv,Roma,Arco de Constantino,"Arco di Costantino, Roma, Italy",Monumento,200,0,"Arco di Costantino, Piazza dell'Arco di Costantino, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, ",PASS
+europa_katia.csv,Roma,Castel Sant'Angelo,"Castel Sant'Angelo, Roma, Italy",Castillo,250,0,"Castel Sant’Angelo, Lungotevere Vaticano, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia",PASS
+europa_katia.csv,Roma,Galleria Borghese,"Galleria Borghese, Roma, Italy",Museo,150,0,"Galleria Borghese, 5, Piazzale Scipione Borghese, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 001",PASS
+europa_katia.csv,Roma,Monti,"Monti, Roma, Italy",Barrio,800,0,"Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia",PASS
+europa_katia.csv,Roma,Manufactus,"Manufactus, Roma, Italy",Tienda,120,0,"Manufactus, 41, Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",PASS
+europa_katia.csv,Roma,Giardino degli Aranci,"Giardino degli Aranci, Roma, Italy",Mirador,150,72,"Giardino degli Aranci, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Roma,Biblioteca Angelica,"Biblioteca Angelica, Roma, Italy",Sitio histórico,200,0,"Biblioteca Angelica, 8, Piazza di Sant'Agostino, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio,",PASS
+europa_katia.csv,Roma,Panteón de Roma,"Pantheon, Roma, Italy",Sitio histórico,200,0,"Pantheon, Piazza della Rotonda, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia",PASS
+europa_katia.csv,Roma,Aventine Keyhole,"Villa del Priorato di Malta, Roma, Italy",Mirador,150,0,"Villa del Priorato di Malta, Lungotevere Aventino, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, ",PASS
+europa_katia.csv,Roma,Quartiere Coppedè,"Quartiere Coppedè, Roma, Italy",Barrio,800,0,"Quartiere Coppedè, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, Italia",PASS
+europa_katia.csv,Nápoles,Catedral de Nápoles,"Cattedrale di Santa Maria Assunta, Napoli, Italy",Catedral,150,0,"Cattedrale di Santa Maria Assunta, Vico Sedil Capuano, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Ca",PASS
+europa_katia.csv,Nápoles,Cappella Sansevero,"Cappella Sansevero, Napoli, Italy",Iglesia,150,0,"Cappella Sansevero, 19;21, Via Francesco de Sanctis, Porto, Municipalità 2, Napoli, Campania, 80134, Italia",PASS
+europa_katia.csv,Nápoles,San Domenico Maggiore,"Basilica di San Domenico Maggiore, Napoli, Italy",Iglesia,150,0,"Basilica di San Domenico Maggiore, Vico San Domenico Maggiore, Porto, Municipalità 2, Napoli, Campania, 80130,",PASS
+europa_katia.csv,Nápoles,Santa Chiara,"Basilica di Santa Chiara, Napoli, Italy",Iglesia,150,0,"Basilica di Santa Chiara, Via Santa Chiara, Rione Carità, Porto, Municipalità 2, Napoli, Campania, 80100, Ital",PASS
+europa_katia.csv,Nápoles,Gesù Nuovo,"Chiesa del Gesù Nuovo, Napoli, Italy",Iglesia,150,0,"Chiesa del Gesù Nuovo, Piazza del Gesù Nuovo, San Giuseppe, Municipalità 2, Napoli, Campania, 80100, Italia",PASS
+europa_katia.csv,Nápoles,Via San Gregorio Armeno,"Via San Gregorio Armeno, Napoli, Italy",Calle,400,0,"Via San Gregorio Armeno, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, 80138, Italia",PASS
+europa_katia.csv,Nápoles,Napoli Sotterranea,"Napoli Sotterranea, Napoli, Italy",Sitio histórico,200,0,"Napoli Sotterranea, 69, Vicoletto I San Paolo, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, ",PASS
+europa_katia.csv,Nápoles,San Lorenzo Maggiore,"Basilica di San Lorenzo Maggiore, Napoli, Italy",Iglesia,150,0,"Basilica di San Lorenzo Maggiore, Vico Scorziata, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campani",PASS
+europa_katia.csv,Nápoles,Quartieri Spagnoli,"Quartieri Spagnoli, Napoli, Italy",Barrio,800,0,"Quartieri Spagnoli, Montecalvario, Municipalità 2, Napoli, Campania, 80132, Italia",PASS
+europa_katia.csv,Nápoles,Via Toledo,"Via Toledo, Napoli, Italy",Calle,400,189,"Via Toledo, Rione Carità, San Giuseppe, Municipalità 2, Napoli, Campania, 80134, Italia",PASS
+europa_katia.csv,Nápoles,Mural de Maradona,"Murales di Maradona, Napoli, Italy",Sitio histórico,200,0,"Murales di Diego Armando Maradona, Traversa Vicinale Paradiso, Verdolino, Soccavo, Municipalità 9, Camaldoli, ",PASS
+europa_katia.csv,Nápoles,Rione Sanità,"Rione Sanità, Napoli, Italy",Barrio,800,0,"Rione Sanità, Stella, Municipalità 3, Napoli, Campania, 80137, Italia",PASS
+europa_katia.csv,Nápoles,Catacumbas de San Gennaro,"Catacombe di San Gennaro, Napoli, Italy",Sitio histórico,200,0,"Catacombe di San Gennaro, Penninata S. Gennaro dei Poveri, Capodimonte, Stella, Municipalità 3, Napoli, Campan",PASS
+europa_katia.csv,Nápoles,Lungomare Caracciolo,"Via Partenope, Napoli, Italy",Paseo,500,0,"Via Partenope, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80121, Italia",PASS
+europa_katia.csv,Nápoles,Castel dell'Ovo,"Castel dell'Ovo, Napoli, Italy",Castillo,250,71,"Castel dell'Ovo, Piazzetta Marinari, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, It",PASS
+europa_katia.csv,Nápoles,Castel Nuovo,"Castel Nuovo, Napoli, Italy",Castillo,250,0,"Castel Nuovo, Via Ferdinando Acton, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80133, Ita",PASS
+europa_katia.csv,Nápoles,Galleria Umberto I,"Galleria Umberto I, Napoli, Italy",Sitio histórico,200,11,"Galleria Umberto I, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia",PASS
+europa_katia.csv,Nápoles,Teatro di San Carlo,"Teatro di San Carlo, Napoli, Italy",Teatro,150,0,"Teatro di San Carlo, 98, Via San Carlo, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia",PASS
+europa_katia.csv,Nápoles,Palacio Real de Nápoles,"Palazzo Reale di Napoli, Napoli, Italy",Palacio,200,19,"Biglietteria Palazzo Reale di Napoli, Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Nap",PASS
+europa_katia.csv,Nápoles,Piazza del Plebiscito,"Piazza del Plebiscito, Napoli, Italy",Plaza,250,0,"Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, Italia",PASS
+europa_katia.csv,Nápoles,Palazzo Salerno,"Palazzo Salerno, Napoli, Italy",Palacio,200,0,"Palazzo Salerno, Rampe Paggeria, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia",PASS
+europa_katia.csv,Nápoles,San Francesco di Paola,"Basilica di San Francesco di Paola, Napoli, Italy",Iglesia,150,0,"Basilica di San Francesco di Paola, Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Napol",PASS
+europa_katia.csv,Nápoles,Palazzo della Prefettura,"Palazzo della Prefettura, Napoli, Italy",Palacio,200,30,"Gran Caffè Gambrinus, 1/2, Via Chiaia, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80121, ",PASS
+europa_katia.csv,Nápoles,Museo Arqueológico Nacional,"Museo Archeologico Nazionale di Napoli, Napoli, Italy",Museo,150,0,"Museo archeologico nazionale di Napoli, 19, Piazza Museo Nazionale, Rione Sanità, Stella, Municipalità 3, Napo",PASS
+europa_katia.csv,Nápoles,Castel Sant'Elmo,"Castel Sant'Elmo, Napoli, Italy",Castillo,250,0,"Castel Sant'Elmo, 22, Via Tito Angelini, Vomero, Municipalità 5, Napoli, Campania, 80129, Italia",PASS
+europa_katia.csv,Nápoles,Real Bosco di Capodimonte,"Real Bosco di Capodimonte, Napoli, Italy",Parque,600,0,"Real Bosco di Capodimonte, Napoli, Campania, Italia",PASS
+europa_katia.csv,Nápoles,Piazza Dante,"Piazza Dante, Napoli, Italy",Plaza,250,0,"Piazza Dante, Rione Montesanto, San Giuseppe, Municipalità 2, Napoli, Campania, Italia",PASS
+europa_katia.csv,Nápoles,Cimitero delle Fontanelle,"Cimitero delle Fontanelle, Napoli, Italy",Cementerio,400,0,"Cimitero delle Fontanelle, 80, Avvocata, Municipalità 2, Napoli, Campania, 80136, Italia",PASS
+europa_katia.csv,Nápoles,Vomero,"Vomero, Napoli, Italy",Barrio,800,0,"Vomero, Municipalità 5, Napoli, Campania, 80127, Italia",PASS
+europa_katia.csv,Liubliana,Metelkova Mesto,"Metelkova, Ljubljana, Slovenia",Barrio,800,0,"Metelkova, Maistrova ulica, Tabor, Poljane, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000,",PASS
+europa_katia.csv,Liubliana,Museo Nacional de Eslovenia,"Narodni muzej Slovenije, Ljubljana, Slovenia",Museo,150,0,"Narodni muzej Slovenije – Prešernova, 20, Prešernova cesta, Vrtača, Grajski grič, Četrtna skupnost Center, Lju",PASS
+europa_katia.csv,Liubliana,Museo Etnográfico Esloveno,"Slovenski etnografski muzej, Ljubljana, Slovenia",Museo,150,0,"Slovenski etnografski muzej, 2, Metelkova ulica, Tabor, Poljane, Četrtna skupnost Center, Ljubljana, Upravna E",PASS
+europa_katia.csv,Liubliana,Casco histórico de Liubliana,"Stari trg, Ljubljana, Slovenia",Casco histórico,800,0,"Stari trg, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",PASS
+europa_katia.csv,Liubliana,Castillo de Liubliana,"Ljubljanski grad, Ljubljana, Slovenia",Castillo,250,0,"Ljubljanski grad, Ovinki, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1",PASS
+europa_katia.csv,Liubliana,Catedral de San Nicolás,"Stolnica sv. Nikolaja, Ljubljana, Slovenia",Catedral,150,0,"Stolnica sv. Nikolaja, 1, Dolničarjeva ulica, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravn",PASS
+europa_katia.csv,Liubliana,Iglesia Franciscana de la Anunciación,"Frančiškanska cerkev Marijinega oznanjenja, Ljubljana, Slovenia",Iglesia,150,0,"Frančiškanska cerkev Marijinega oznanjenja, Miklošičeva cesta, Ledina, Grajski grič, Četrtna skupnost Center, ",PASS
+europa_katia.csv,Liubliana,Plaza del Congreso,"Kongresni trg, Ljubljana, Slovenia",Plaza,250,0,"Kongresni trg, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",PASS
+europa_katia.csv,Liubliana,Triple Puente,"Tromostovje, Ljubljana, Slovenia",Puente,150,0,"Tromostovje, Hribarjevo nabrežje, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljub",PASS
+europa_katia.csv,Liubliana,Parque Tivoli,"Park Tivoli, Ljubljana, Slovenia",Parque,600,0,"Park Tivoli, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",PASS
+europa_katia.csv,Liubliana,Puente de los Dragones,"Zmajski most, Ljubljana, Slovenia",Puente,150,0,"Zmajski most, Resljeva cesta, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljan",PASS
+europa_katia.csv,Liubliana,Mercado Central de Liubliana,"Plečnikove arkade, Ljubljana, Slovenia",Mercado,300,0,"Plečnikove arkade, Pogačarjev trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Lju",PASS
+europa_katia.csv,Liubliana,Biblioteca Nacional (NUK),"Narodna in univerzitetna knjižnica, Ljubljana, Slovenia",Sitio histórico,200,0,"Narodna in univerzitetna knjižnica, 1, Turjaška ulica, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljan",PASS
+europa_katia.csv,Liubliana,Cementerio Žale,"Žale, Ljubljana, Slovenia",Cementerio,400,0,"Centralno pokopališče Žale, Četrtna skupnost Bežigrad, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",PASS
+europa_katia.csv,Liubliana,Velika Planina,"Velika planina, Kamnik, Slovenia",Paisaje,2500,0,"Velika Planina, Kamnik, Upravna Enota Kamnik, 1242, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Lago Bled,"Blejsko jezero, Bled, Slovenia",Lago,3000,0,"Blejsko jezero, Bled, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Castillo de Bled,"Blejski grad, Bled, Slovenia",Castillo,250,0,"Blejski grad, Grajska cesta, Bled, 4260, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Isla de Bled,"Blejski otok, Bled, Slovenia",Sitio histórico,200,0,"Blejski otok, Mlino, Bled, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Mirador Ojstrica,"Ojstrica, Bled, Slovenia",Mirador,150,0,"Ojstrica, Bled, 4263, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Mirador Mala Osojnica,"Mala Osojnica, Bled, Slovenia",Mirador,150,0,"Mala Osojnica, Bled, 4263, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Garganta de Vintgar,"Soteska Vintgar, Podhom, Slovenia",Naturaleza,2000,0,"Soteska Vintgar, Podhom, Gorje, 4273, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Lago Bohinj,"Bohinjsko jezero, Ribčev Laz, Slovenia",Lago,3000,0,"Bohinjsko jezero, Ribčev Laz, Bohinj, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Cascada Savica,"Savica, Ukanc, Slovenia",Cascada,300,0,"Savica, Ukanc, Bohinj, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Garganta de Mostnica,"Korita Mostnice, Stara Fužina, Slovenia",Naturaleza,2000,0,"Korita Mostnice, Stara Fužina, Bohinj, 4265, Slovenija",PASS
+europa_katia.csv,Lagos Alpinos,Teleférico de Vogel,"Vogel, Ukanc, Slovenia",Teleférico,300,0,"Vogel, Ukanc, Bohinj, Slovenija",PASS
+europa_katia.csv,Karst y Cuevas,Cuevas de Postojna,"Postojnska jama, Veliki Otok, Slovenia",Cueva,300,0,"Postojnska jama, Pot pastirčka Jakoba, Sovič, Veliki Otok, Postojna, 6230, Slovenija",PASS
+europa_katia.csv,Karst y Cuevas,Castillo de Predjama,"Predjamski grad, Predjama, Slovenia",Castillo,250,0,"Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija",PASS
+europa_katia.csv,Karst y Cuevas,Rakov Škocjan,"Rakov Škocjan, Cerknica, Slovenia",Naturaleza,2000,0,"Rakov Škocjan, Cerknica, 1381, Slovenija",PASS
+europa_katia.csv,Karst y Cuevas,Veliki naravni most,"Veliki naravni most, Cerknica, Slovenia",Naturaleza,2000,10,"Veliki naravni most, 914, Cerknica, 1381, Slovenija",PASS
+europa_katia.csv,Karst y Cuevas,Mali naravni most,"Mali naravni most, Zelše, Slovenia",Naturaleza,2000,113,"Mali naravni most, Rakov Škocjan, Zelše, Cerknica, 1381, Slovenija",PASS
+europa_katia.csv,Valle del Soča,Valle del Soča,"Soča, Bovec, Slovenia",Valle,3000,0,"Soča, Bovec, Slovenija",PASS
+europa_katia.csv,Valle del Soča,Cascada Kozjak,"Slap Kozjak, Kobarid, Slovenia",Cascada,300,0,"Slap Kozjak, Kobarid, 5222, Slovenija",PASS
+europa_katia.csv,Valle del Soča,Gargantas de Tolmin,"Tolminska korita, Zadlaz - Čadrg, Slovenia",Naturaleza,2000,0,"Tolminska korita, Zatolmin, Ralne, Zadlaz - Čadrg, Tolmin, 5220, Slovenija",PASS
+europa_katia.csv,Valle del Soča,Paso de Vršič,"Prelaz Vršič, Bovec, Slovenia",Ruta,5000,0,"Prelaz Vršič, Bovec, Slovenija",PASS
+europa_katia.csv,Costa Eslovena,Piran,"Piran, Slovenia",Pueblo,1500,0,"Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6630, Slovenija",PASS
+europa_katia.csv,Costa Eslovena,Iglesia de San Jorge,"Sv. Jurij, Piran, Slovenia",Iglesia,150,0,"Sv. Jurij / San Giorgio, Adamičeva ulica, Raštel, Piran / Pirano (naselje), Piran / Pirano, Upravna enota Pira",PASS
+europa_katia.csv,Costa Eslovena,Koper,"Koper, Slovenia",Ciudad,2000,0,"Koper / Capodistria, Upravna enota Koper / Unità amministrativa Capodistria, 6000, Slovenija",PASS
+europa_katia.csv,Trieste,Piazza Unità d'Italia,"Piazza Unità d'Italia, Trieste, Italy",Plaza,250,0,"Piazza Unità d'Italia, Cavana, San Vito, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, Trieste, Friuli-Ve",PASS
+europa_katia.csv,Trieste,Castillo de Miramare,"Castello di Miramare, Trieste, Italy",Castillo,250,0,"Castello di Miramare, Viale Miramare, Roiano-Gretta-Barcola-Cologna-Scorcola, Miramare / Miramar, Trieste, Fri",PASS
+europa_katia.csv,Trieste,Caffè degli Specchi,"Caffè degli Specchi, Trieste, Italy",Café,120,0,"Caffè degli Specchi, 7, Piazza Unità d'Italia, Cavana, San Vito, Città Nuova-Barriera Nuova-San Vito-Città Vec",PASS
+europa_katia.csv,Trieste,Antico Caffè San Marco,"Antico Caffè San Marco, Trieste, Italy",Café,120,0,"Caffè San Marco, 18, Via Cesare Battisti, Barriera Nuova, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, O",PASS
+europa_katia.csv,Berna,Casco Antiguo de Berna,"Altstadt, Bern, Switzerland",Casco histórico,800,0,"Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittell",PASS
+europa_katia.csv,Berna,Río Aare,"Aare, Bern, Switzerland",Naturaleza,2000,0,"Aare, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Bern",PASS
+europa_katia.csv,Berna,Kramgasse,"Kramgasse, Bern, Switzerland",Calle,400,0,"Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion B",PASS
+europa_katia.csv,Berna,Marktgasse,"Marktgasse, Bern, Switzerland",Calle,400,125,"Marktgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mitte",PASS
+europa_katia.csv,Berna,Spitalgasse,"Spitalgasse, Bern, Switzerland",Calle,400,105,"Spitalgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mitte",PASS
+europa_katia.csv,Berna,Einsteinhaus,"Einsteinhaus Bern, Bern, Switzerland",Museo,150,0,"Einsteinhaus, 49, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, V",PASS
+europa_katia.csv,Berna,Zytglogge,"Zytglogge, Bern, Switzerland",Sitio histórico,200,0,"Zytglogge, 3, Bim Zytglogge, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, V",PASS
+europa_katia.csv,Berna,Catedral de Berna,"Berner Münster, Bern, Switzerland",Catedral,150,0,"Münster, 1, Münsterplatz, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verw",PASS
+europa_katia.csv,Berna,Münsterplattform,"Münsterplattform, Bern, Switzerland",Mirador,150,0,"Münsterplattform, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern",PASS
+europa_katia.csv,Berna,Bundeshaus,"Bundeshaus, Bern, Switzerland",Sitio histórico,200,140,"Eidgenössisches Departement für auswärtige Angelegenheiten, 3, Bundesgasse, Rotes Quartier, Stadtteil I, Bern,",PASS
+europa_katia.csv,Berna,Bundesplatz,"Bundesplatz, Bern, Switzerland",Plaza,250,0,"Bundesplatz, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mitt",PASS
+europa_katia.csv,Berna,Zähringerbrunnen,"Zähringerbrunnen, Bern, Switzerland",Monumento,200,0,"Zähringerbrunnen, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, V",PASS
+europa_katia.csv,Berna,Kindlifresserbrunnen,"Kindlifresserbrunnen, Bern, Switzerland",Monumento,200,0,"Kindlifresserbrunnen, Kornhausplatz, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mitte",PASS
+europa_katia.csv,Berna,Museo de Historia de Berna / Museo Einstein,"Bernisches Historisches Museum, Bern, Switzerland",Museo,150,0,"Bernisches Historisches Museum, 5, Helvetiaplatz, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis B",PASS
+europa_katia.csv,Berna,Nydeggbrücke,"Nydeggbrücke, Bern, Switzerland",Puente,150,0,"Nydeggbrücke, Nydeggasse, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-M",PASS
+europa_katia.csv,Berna,BärenPark,"BärenPark, Bern, Switzerland",Parque,600,0,"Bärenpark, Grosser Muristalden, Gryphenhübeli, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Verwaltun",PASS
+europa_katia.csv,Berna,Rosengarten,"Rosengarten, Bern, Switzerland",Mirador,150,0,"Rosengarten, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittell",PASS
+europa_katia.csv,Kandersteg,Kandersteg,"Kandersteg, Switzerland",Pueblo,1500,0,"Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, Bern/Berne, 3718, Schweiz/S",PASS
+europa_katia.csv,Kandersteg,Oeschinensee,"Oeschinensee, Kandersteg, Switzerland",Lago,3000,0,"Oeschinensee, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, Bern/Berne, 3",PASS
+europa_katia.csv,Kandersteg,Blausee,"Blausee, Kandergrund, Switzerland",Lago,3000,0,"Blausee, Blausee-Mitholz, Kandergrund, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, ",PASS
+europa_katia.csv,York,Stonegate,"Stonegate, York, UK",Calle,400,0,"Stonegate, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 8ZW, United Kingdom",PASS
+europa_katia.csv,York,Bootham Bar,"Bootham Bar, York, UK",Sitio histórico,200,0,"Bootham Bar, High Petergate, Bootham, Bishophill, York, York and North Yorkshire, England, YO30 7BN, United Ki",PASS
+europa_katia.csv,Edimburgo,St Giles' Cathedral,"St Giles' Cathedral, City of Edinburgh, UK",Catedral,150,0,"St Giles' Cathedral, High Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1RE, United Kin",PASS
+europa_katia.csv,Edimburgo,Cowgate,"Cowgate, City of Edinburgh, UK",Barrio,800,268,"Cowgate, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 9UE, United Kingdom",PASS
+europa_katia.csv,Edimburgo,Royal Yacht Britannia,"Royal Yacht Britannia, City of Edinburgh, UK",Museo,150,0,"HMY Britannia, 100, Ocean Drive, Fort, North Leith, Leith, City of Edinburgh, Alba / Scotland, EH6 6JJ, United",PASS
+europa_katia.csv,Edimburgo,Oink,"Oink, City of Edinburgh, UK",Tienda,120,0,"Oink, 38, Hanover Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2DR, United Ki",PASS
+europa_katia.csv,Londres,Leicester Square,"Leicester Square, City of Westminster, UK",Plaza,250,46,"Leicester Square, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2H 7LU, Unit",PASS
+europa_katia.csv,Londres,Millennium Bridge,"Millennium Bridge, City of London, UK",Puente,150,0,"Millennium Bridge, St Paul's, City of London, Greater London, England, EC4V 3AL, United Kingdom",PASS
+europa_katia.csv,Londres,Brockwell Park,"Brockwell Park, Greater London, UK",Parque,600,0,"Brockwell Park, Herne Hill, London Borough of Lambeth, Greater London, England, SE24 9BJ, United Kingdom",PASS
+europa_katia.csv,Londres,Great Scotland Yard,"Great Scotland Yard, City of Westminster, UK",Harry Potter,300,43,"Great Scotland Yard, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1A 2HP, Unite",PASS
+europa_katia.csv,Londres,Prime Meridian,"Prime Meridian of the World, Greater London, UK",Sitio histórico,200,0,"Greenwich Meridian, Meridian Courtyard, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Gre",PASS
+europa_katia.csv,París,Grande Galerie de l'Évolution,"Grande Galerie de l'Évolution, Paris, France",Museo,150,0,"Grande Galerie de l'Évolution, Cour Censier, Quartier du Jardin des Plantes, Paris 5e Arrondissement, Paris, Î",PASS
+europa_katia.csv,París,Musée des Arts et Métiers,"Musée des Arts et Métiers, Paris, France",Museo,150,0,"Musée des Arts et Métiers, 60, Rue Réaumur, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-",PASS
+europa_katia.csv,París,Musée Rodin,"Musée Rodin, Paris, France",Museo,150,0,"Musée Rodin, 77, Rue de Varenne, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France",PASS
+europa_katia.csv,París,Place des Vosges,"Place des Vosges, Paris, France",Plaza,250,128,"Place des Vosges, Quartier de l'Arsenal, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine,",PASS
+europa_katia.csv,París,Jardin des Tuileries,"Jardin des Tuileries, Paris, France",Jardín,400,0,"Jardin des Tuileries, 113, Paris, Île-de-France, France métropolitaine, 75001, France",PASS
+europa_katia.csv,París,Jardin des Plantes,"Jardin des Plantes, Paris, France",Jardín,400,0,"Jardin des Plantes, Paris, Île-de-France, France métropolitaine, France",PASS
+europa_katia.csv,París,Parc des Buttes-Chaumont,"Parc des Buttes-Chaumont, Paris, France",Parque,600,0,"Parc des Buttes-Chaumont, Paris, Île-de-France, France métropolitaine, France",PASS
+europa_katia.csv,París,Église Saint-Eustache,"Église Saint-Eustache, Paris, France",Iglesia,150,0,"Église Saint-Eustache, Rue de Turbigo, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, Fr",PASS
+europa_katia.csv,París,Église Saint-Sulpice,"Église Saint-Sulpice, Paris, France",Iglesia,150,0,"Église Saint-Sulpice, 2, Rue Palatine, Quartier de l'Odéon, Paris 6e Arrondissement, Paris, Île-de-France, Fra",PASS
+europa_katia.csv,París,Palacio de Versalles,"Château de Versailles, Versailles, France",Palacio,200,0,"Château de Versailles, La Cour de Marbre, Notre-Dame, Versailles, Yvelines, Île-de-France, France métropolitai",PASS
+europa_katia.csv,París,Shakespeare and Company,"Shakespeare and Company, Paris, France",Tienda,120,0,"Shakespeare and Company, 37, Rue de la Bûcherie, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-",PASS
+europa_katia.csv,París,Villa Léandre,"Villa Léandre, Paris, France",Calle,400,0,"Villa Léandre, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropol",PASS
+europa_katia.csv,París,Les Halles,"Les Halles, Paris, France",Barrio,800,0,"Les Halles, Allée Saint-John Perse, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, Franc",PASS
+europa_katia.csv,París,Rue Montorgueil,"Rue Montorgueil, Paris, France",Calle,400,0,"Rue Montorgueil, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 7",PASS
+europa_katia.csv,París,Batignolles,"Batignolles, Paris, France",Barrio,800,0,"Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France",PASS
+europa_katia.csv,París,La Défense,"La Défense, Courbevoie, France",Barrio,800,0,"La Défense, Quartier Gambetta, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 924",PASS
+europa_katia.csv,París,Moulin Rouge,"Moulin Rouge, Paris, France",Sitio histórico,200,0,"Moulin Rouge, 82, Boulevard de Clichy, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de",PASS
+europa_katia.csv,París,Canal de l'Ourcq,"Canal de l'Ourcq, Paris, France",Paseo,500,242,"Canal de l'Ourcq, Quai de l'Oise, Quartier du Pont-de-Flandre, Paris 19e Arrondissement, Paris, Île-de-France,",PASS
+europa_katia.csv,París,Pont Alexandre III,"Pont Alexandre III, Paris, France",Puente,150,0,"Pont Alexandre III, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitai",PASS
+europa_katia.csv,París,Passerelle Debilly,"Passerelle Debilly, Paris, France",Puente,150,0,"Passerelle Debilly, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolit",PASS
+europa_katia.csv,París,Passage des Panoramas,"Passage des Panoramas, Paris, France",Sitio histórico,200,30,"Passage des Panoramas, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, ",PASS
+europa_katia.csv,París,Marché des Enfants Rouges,"Marché des Enfants Rouges, Paris, France",Mercado,300,0,"Marché couvert des Enfants Rouges, Rue Charlot, Quartier des Enfants-Rouges, Paris 3e Arrondissement, Paris, Î",PASS
+europa_katia.csv,París,Marché d'Aligre,"Marché d'Aligre, Paris, France",Mercado,300,0,"Marché d'Aligre, Rue Charles Baudelaire, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-F",PASS
+europa_katia.csv,París,Marché Couvert Saint-Quentin,"Marché Saint-Quentin, Paris, France",Mercado,300,0,"Marché Saint-Quentin, Rue des Petits Hôtels, Quartier Saint-Vincent-de-Paul, Paris 10e Arrondissement, Paris, ",PASS
+europa_katia.csv,París,Place du Trocadéro,"Place du Trocadéro et du 11 Novembre, Paris, France",Mirador,150,0,"Place du Trocadéro et du 11 Novembre, Quartier de la Muette, Paris 16e Arrondissement, Paris, Île-de-France, F",PASS
+europa_katia.csv,París,Institut du Monde Arabe,"Institut du monde arabe, Paris, France",Mirador,150,0,"Institut du Monde arabe, Quai Saint-Bernard, Quartier Saint-Victor, Paris 5e Arrondissement, Paris, Île-de-Fra",PASS
+europa_katia.csv,París,Galeries Lafayette Haussmann,"Galeries Lafayette Haussmann, Paris, France",Mirador,150,0,"Galeries Lafayette, 40, Boulevard Haussmann, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, ",PASS
+europa_katia.csv,París,Philharmonie de Paris,"Philharmonie de Paris, Paris, France",Mirador,150,0,"Philharmonie de Paris, Boulevard Sérurier, Quartier du Pont-de-Flandre, Paris 19e Arrondissement, Paris, Île-d",PASS
+europa_katia.csv,París,Hôtel de Ville,"Hôtel de Ville de Paris, Paris, France",Sitio histórico,200,0,"Hôtel de Ville, Place de l'Hôtel de Ville, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, Île-de-France",PASS
+europa_katia.csv,París,Tour Saint-Jacques,"Tour Saint-Jacques, Paris, France",Monumento,200,0,"Tour Saint-Jacques, Allée Waslaw Nijinsky, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, Île-de-France",PASS
+europa_katia.csv,París,Galerie Vivienne,"Galerie Vivienne, Paris, France",Sitio histórico,200,0,"Galerie Vivienne, Rue des Petits Champs, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métro",PASS
+europa_katia.csv,París,BnF Richelieu,"Bibliothèque nationale de France - Richelieu, Paris, France",Sitio histórico,200,0,"Bibliothèque nationale de France, Richelieu, 58, Rue de Richelieu, Vivienne, Paris 2e Arrondissement, Paris, Î",PASS
+europa_katia.csv,París,Bibliothèque Mazarine,"Bibliothèque Mazarine, Paris, France",Sitio histórico,200,0,"Bibliothèque Mazarine, 23, Quai de Conti, Quartier de la Monnaie, Paris 6e Arrondissement, Paris, Île-de-Franc",PASS
+europa_katia.csv,París,Palais Garnier,"Palais Garnier, Paris, France",Teatro,150,78,"L'Opéra Restaurant, Place Jacques Rouché, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île",PASS
+europa_katia.csv,París,Place de la Concorde,"Place de la Concorde, Paris, France",Plaza,250,0,"Place de la Concorde, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métro",PASS
+europa_katia.csv,París,Place Vendôme,"Place Vendôme, Paris, France",Plaza,250,0,"Place Vendôme, Quartier Vendôme, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001,",PASS
+europa_katia.csv,París,Grand Palais,"Grand Palais, Paris, France",Museo,150,0,"Grand Palais, Avenue de Selves, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, Fr",PASS
+europa_katia.csv,París,Les Invalides,"Hôtel des Invalides, Paris, France",Sitio histórico,200,0,"Hôtel des Invalides, 129, Rue de Grenelle, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-Fran",PASS
+europa_katia.csv,Ámsterdam,Oosterpark,"Oosterpark, Amsterdam, Netherlands",Parque,600,0,"Oosterpark, Oost, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,De Negen Straatjes,"De Negen Straatjes, Amsterdam, Netherlands",Barrio,800,0,"De 9 Straatjes, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,Singel,"Singel, Amsterdam, Netherlands",Paseo,500,0,"Singel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 CK, Nederland",PASS
+europa_katia.csv,Ámsterdam,Keizersgracht,"Keizersgracht, Amsterdam, Netherlands",Paseo,500,0,"Keizersgracht, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,Damrak,"Damrak, Amsterdam, Netherlands",Calle,400,0,"Damrak, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 JP, Nederland",PASS
+europa_katia.csv,Ámsterdam,Beurspassage,"Beurspassage, Amsterdam, Netherlands",Sitio histórico,200,0,"Beurspassage, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 LW, Nederland",PASS
+europa_katia.csv,Ámsterdam,Waterlooplein Market,"Waterloopleinmarkt, Amsterdam, Netherlands",Mercado,300,0,"Waterloopleinmarkt, Waterlooplein, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 NZ, ",PASS
+europa_katia.csv,Ámsterdam,Foodhallen,"Foodhallen, Amsterdam, Netherlands",Mercado,300,0,"Foodhallen, Hannie Dankbaarpassage, Kinkerbuurt, West, Amsterdam, Noord-Holland, Nederland, 1053 EH, Nederland",PASS
+europa_katia.csv,Ámsterdam,Zevenlandenhuizen,"Zevenlandenhuizen, Amsterdam, Netherlands",Sitio histórico,200,0,"Zevenlandenhuizen, Roemer Visscherstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 EX, Nederl",PASS
+europa_katia.csv,Ámsterdam,Dam Square,"Dam, Amsterdam, Netherlands",Plaza,250,0,"Dam, Centrum, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,Oude Kerk,"Oude Kerk, Amsterdam, Netherlands",Iglesia,150,0,"Oude Kerk, 23, Oudekerksplein, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 GX, N",PASS
+europa_katia.csv,Ámsterdam,Nieuwe Kerk,"Nieuwe Kerk, Amsterdam, Netherlands",Iglesia,150,0,"Nieuwe Kerk, 12, Dam, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 NP, Nederland",PASS
+europa_katia.csv,Ámsterdam,Palacio Real de Ámsterdam,"Koninklijk Paleis Amsterdam, Amsterdam, Netherlands",Palacio,200,0,"Koninklijk Paleis, 147, Nieuwezijds Voorburgwal, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 RJ, Nederl",PASS
+europa_katia.csv,Ámsterdam,Leidseplein,"Leidseplein, Amsterdam, Netherlands",Plaza,250,0,"Leidseplein, Centrum, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,Museumplein,"Museumplein, Amsterdam, Netherlands",Plaza,250,206,"Museumplein, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DJ, Nederland",PASS
+europa_katia.csv,Ámsterdam,Centrum (Old Centre),"Amsterdam-Centrum, Amsterdam, Netherlands",Barrio,800,246,"Amsterdam-Centrum, Ringweg-Oost, Oost, Amsterdam, Noord-Holland, Nederland, 1115 CK, Nederland",PASS
+europa_katia.csv,Ámsterdam,Amsterdam-Noord,"Amsterdam-Noord, Amsterdam, Netherlands",Barrio,800,0,"Amsterdam-Noord, Ringweg-Noord, Noord, Amsterdam, Noord-Holland, Nederland, 1025 MS, Nederland",PASS
+europa_katia.csv,Ámsterdam,Plantage,"Plantage, Amsterdam, Netherlands",Barrio,800,0,"Plantage, Centrum, Amsterdam, Noord-Holland, Nederland",PASS
+europa_katia.csv,Ámsterdam,Houseboat Museum,"Houseboat Museum, Amsterdam, Netherlands",Museo,150,0,"Houseboat Museum, 296K, Prinsengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 HW, Nederla",PASS
+europa_katia.csv,Grindelwald,Río Schwarze Lütschine,"Schwarze Lütschine, Grindelwald, Switzerland",Naturaleza,2000,0,"Schwarze Lütschine, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne",PASS
+europa_katia.csv,Grindelwald,Alpiglen,"Alpiglen, Grindelwald, Switzerland",Trekking,3000,0,"Alpiglen, Eigertrail, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Ber",PASS
+europa_katia.csv,Grindelwald,Wilderswil,"Wilderswil, Switzerland",Pueblo,1500,0,"Wilderswil, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3812, Schweiz/Suiss",PASS
+europa_katia.csv,Lauterbrunnen,Río Weisse Lütschine,"Weisse Lütschine, Lauterbrunnen, Switzerland",Naturaleza,2000,0,"Weisse Lütschine, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne",PASS
+europa_katia.csv,Lauterbrunnen,Grütschalp,"Grütschalp, Isenfluh, Switzerland",Teleférico,300,0,"Grütschalp, Grütsch-Trail, Greifenbach, Isenfluh, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwal",PASS
+europa_katia.csv,Lauterbrunnen,Obersteinberg,"Obersteinberg, Lauterbrunnen, Switzerland",Trekking,3000,0,"Obersteinberg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, S",PASS
+europa_katia.csv,Lucerna,Wasserturm,"Wasserturm, Luzern, Switzerland",Sitio histórico,200,0,"Wasserturm, 1, Kapellbrücke, Bramberg, Altstadt, Luzern, 6006, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Lucerna,Weinmarkt,"Weinmarkt, Luzern, Switzerland",Plaza,250,0,"Weinmarkt, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Lucerna,Hirschenplatz,"Hirschenplatz, Luzern, Switzerland",Plaza,250,0,"Hirschenplatz, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Lucerna,Kornmarkt,"Kornmarkt, Luzern, Switzerland",Plaza,250,0,"Kornmarkt, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Lucerna,Rathausquai,"Rathausquai, Luzern, Switzerland",Paseo,500,0,"Rathausquai, Altstadt, Luzern, 6002, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Lucerna,Ayuntamiento de Lucerna,"Rathaus Luzern, Luzern, Switzerland",Sitio histórico,200,0,"Rathaus, Rathausquai, Altstadt, Luzern, 6002, Schweiz/Suisse/Svizzera/Svizra",PASS
+europa_katia.csv,Innsbruck,Antiguo Ayuntamiento,"Altes Rathaus Innsbruck, Innsbruck, Austria",Sitio histórico,200,0,"Altes Rathaus, 21, Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Altes Landhaus,"Altes Landhaus, Innsbruck, Austria",Sitio histórico,200,0,"Altes Landhaus, 43, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Spitalskirche,"Spitalskirche Innsbruck, Innsbruck, Austria",Iglesia,150,0,"Spitalskirche, 2, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Columna de Santa Ana,"Annasäule, Innsbruck, Austria",Monumento,200,0,"Annasäule, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Katzunghaus,"Katzunghaus, Innsbruck, Austria",Sitio histórico,200,0,"Katzunghaus, Seilergasse, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Helblinghaus,"Helblinghaus, Innsbruck, Austria",Sitio histórico,200,0,"Helblinghaus, Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Herzog-Friedrich-Straße,"Herzog-Friedrich-Straße, Innsbruck, Austria",Calle,400,0,"Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich",PASS
+europa_katia.csv,Innsbruck,Hall in Tirol,"Hall in Tirol, Austria",Pueblo,1500,0,"Hall in Tirol, Bezirk Innsbruck-Land, Tirol, 6060, Österreich",PASS
+europa_katia.csv,Viena,Volksgarten,"Volksgarten, Wien, Austria",Jardín,400,0,"Volksgarten, Innere Stadt, Wien, Österreich",PASS
+europa_katia.csv,Viena,Peterskirche,"Peterskirche, Wien, Austria",Iglesia,150,0,"Peterskirche, 6, Petersplatz, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österre",PASS
+europa_katia.csv,Viena,Votivkirche,"Votivkirche, Wien, Austria",Iglesia,150,0,"Votivkirche, Rooseveltplatz, Alservorstadt, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich",PASS
+europa_katia.csv,Viena,Cripta Imperial,"Kaisergruft, Wien, Austria",Sitio histórico,200,0,"Kaisergruft, Neuer Markt, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österrei",PASS
+europa_katia.csv,Viena,Biblioteca Nacional Austriaca (Prunksaal),"Prunksaal der Österreichischen Nationalbibliothek, Wien, Austria",Sitio histórico,200,0,"Prunksaal der Österreichischen Nationalbibliothek, Josefsplatz, Kärntner Viertel, Katastralgemeinde Innere Sta",PASS
+europa_katia.csv,Viena,Ayuntamiento de Viena,"Wiener Rathaus, Wien, Austria",Sitio histórico,200,0,"Rathaus, 1, Rathausplatz, Regierungsviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österre",PASS
+europa_katia.csv,Viena,Parlamento Austriaco,"Parlamentsgebäude, Wien, Austria",Sitio histórico,200,0,"Parlament, 3, Dr.-Karl-Renner-Ring, Regierungsviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 101",PASS
+europa_katia.csv,Viena,Donaukanal,"Donaukanal, Wien, Austria",Paseo,500,0,"Donaukanal, Wien, Österreich",PASS
+europa_katia.csv,Viena,Brunnenmarkt,"Brunnenmarkt, Wien, Austria",Mercado,300,0,"Brunnenmarkt, Brunnengasse, Katastralgemeinde Neulerchenfeld, Katastralgemeinde Ottakring, Ottakring, Wien, 11",PASS
+europa_katia.csv,Viena,Karmelitermarkt,"Karmelitermarkt, Wien, Austria",Mercado,300,0,"Karmelitermarkt, Im Werd, Karmeliterviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien,",PASS
+europa_katia.csv,Viena,Hannovermarkt,"Hannovermarkt, Wien, Austria",Mercado,300,0,"Hannovermarkt, Hannovergasse, Brigittenau, Katastralgemeinde Brigittenau, Brigittenau, Wien, 1200, Österreich",PASS
+europa_katia.csv,Viena,Meiselmarkt,"Meiselmarkt, Wien, Austria",Mercado,300,0,"Meiselmarkt, 81B, Hütteldorfer Straße, Neu-Rudolfsheim, Katastralgemeinde Rudolfsheim, Rudolfsheim-Fünfhaus, W",PASS
+europa_katia.csv,Viena,Vorgartenmarkt,"Vorgartenmarkt, Wien, Austria",Mercado,300,0,"Vorgartenmarkt, Stuwerviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, Österreich",PASS
+europa_katia.csv,Viena,Kutschkermarkt,"Kutschkermarkt, Wien, Austria",Mercado,300,0,"Kutschkermarkt, Schulgasse, Katastralgemeinde Währing, Währing, Wien, 1180, Österreich",PASS
+europa_katia.csv,Viena,Ópera Estatal de Viena,"Wiener Staatsoper, Wien, Austria",Teatro,150,0,"Wiener Staatsoper, 2, Opernring, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Ö",PASS
+europa_katia.csv,Viena,Musikverein,"Wiener Musikverein, Wien, Austria",Teatro,150,0,"Musikverein, 1, Musikvereinsplatz, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",PASS
+europa_katia.csv,Viena,Wiener Konzerthaus,"Wiener Konzerthaus, Wien, Austria",Teatro,150,0,"Wiener Konzerthaus, 20, Lothringerstraße, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1030, Österreich",PASS
+europa_katia.csv,Viena,Ankeruhr,"Ankeruhr, Wien, Austria",Sitio histórico,200,0,"Ankeruhr, Bauernmarkt, Stubenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",PASS
+europa_katia.csv,Viena,Grinzing,"Grinzing, Wien, Austria",Barrio,800,0,"Katastralgemeinde Grinzing, Döbling, Wien, 1190, Österreich",PASS
+europa_katia.csv,Viena,Kärntner Straße,"Kärntner Straße, Wien, Austria",Calle,400,0,"Kärntner Straße, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich",PASS
+europa_katia.csv,Viena,Stephansplatz,"Stephansplatz, Wien, Austria",Plaza,250,187,"Stephansplatz, Stock-im-Eisen-Platz, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 101",PASS
+europa_katia.csv,Praga,Catedral de San Vito,"Katedrála svatého Víta, Praha, Czechia",Catedral,150,0,"Katedrála svatého Víta, Václava a Vojtěcha, náměstí U Svatého Jiří, Malá Strana, obvod Praha 1, Praha, 119 00,",PASS
+europa_katia.csv,Praga,Callejón del Oro,"Zlatá ulička, Praha, Czechia",Calle,400,0,"Zlatá ulička, Zlatá ulička u Daliborky, Malá Strana, obvod Praha 1, Praha, 119 00, Česko",PASS
+europa_katia.csv,Praga,Basílica de San Jorge,"Bazilika svatého Jiří, Praha, Czechia",Iglesia,150,0,"Bazilika svatého Jiří, náměstí U Svatého Jiří, Malá Strana, obvod Praha 1, Praha, 119 00, Česko",PASS
+europa_katia.csv,Praga,Iglesia de San Nicolás,"Kostel svatého Mikuláše, Praha, Czechia",Iglesia,150,0,"svatý Mikuláš, Malostranské náměstí, Malá Strana, obvod Praha 1, Praha, 118 00, Česko",PASS
+europa_katia.csv,Praga,Santuario de Loreto,"Loreta Praha, Praha, Czechia",Iglesia,150,17,"Loreta, Loretánské náměstí, Hradčany, obvod Praha 1, Praha, 160 41, Česko",PASS
+europa_katia.csv,Praga,Monasterio de Strahov,"Strahovský klášter, Praha, Czechia",Sitio histórico,200,0,"Strahovský klášter, Strahovské nádvoří, Hradčany, obvod Praha 1, Praha, 160 41, Česko",PASS
+europa_katia.csv,Praga,Clementinum,"Klementinum, Praha, Czechia",Sitio histórico,200,0,"Klementinum, Seminářská, Staré Město, obvod Praha 1, Praha, 115 72, Česko",PASS
+europa_katia.csv,Praga,Torre de la Pólvora,"Prašná brána, Praha, Czechia",Sitio histórico,200,0,"Prašná brána, Celetná, Nové Město, obvod Praha 1, Praha, 110 05, Česko",PASS
+europa_katia.csv,Praga,Casa Municipal,"Obecní dům, Praha, Czechia",Sitio histórico,200,0,"Obecní dům, 5, náměstí Republiky, Josefov, obvod Praha 1, Praha, 110 00, Česko",PASS
+europa_katia.csv,Praga,Celetná,"Celetná, Praha, Czechia",Calle,400,207,"Celetná, Josefov, obvod Praha 1, Praha, 110 05, Česko",PASS
+europa_katia.csv,Praga,Nové Město,"Nové Město, Praha, Czechia",Barrio,800,192,"Nové Město, obvod Praha 1, Praha, Česko",PASS
+europa_katia.csv,Praga,Náplavka,"Náplavka, Praha, Czechia",Paseo,500,0,"Staroměstská náplavka, Josefov, obvod Praha 1, Praha, 110 05, Česko",PASS
+europa_katia.csv,Praga,Plaza de San Wenceslao,"Václavské náměstí, Praha, Czechia",Plaza,250,0,"Václavské náměstí, Nové Město, obvod Praha 1, Praha, Česko",PASS
+europa_katia.csv,Praga,Mercado de Havelská,"Havelské tržiště, Praha, Czechia",Mercado,300,0,"Havelské tržiště, V Kotcích, Staré Město, obvod Praha 1, Praha, 110 00, Česko",PASS
+europa_katia.csv,Praga,Dejvice Market,"Farmářské trhy Dejvická, Praha, Czechia",Mercado,300,0,"Farmářské trhy na Kulaťáku, Dejvická, Ořechovka, Praha 6, obvod Praha 6, Praha, 166 29, Česko",PASS
+europa_katia.csv,Praga,Torre del Ayuntamiento Viejo,"Staroměstská radnice, Praha, Czechia",Mirador,150,0,"Staroměstská radnice, Staroměstské náměstí, Staré Město, obvod Praha 1, Praha, 110 00, Česko",PASS
+europa_katia.csv,Praga,Casa Danzante,"Tančící dům, Praha, Czechia",Sitio histórico,200,0,"Tančící dům, Rašínovo nábřeží, Vyšehrad, obvod Praha 2, Praha, 121 35, Česko",PASS
+europa_katia.csv,Praga,Pasaje Lucerna,"Palác Lucerna, Praha, Czechia",Sitio histórico,200,0,"palác Lucerna, pasáž Lucerna, Nové Město, obvod Praha 1, Praha, 115 20, Česko",PASS
+europa_katia.csv,Cracovia,Museo de Nowa Huta,"Muzeum Nowej Huty, Kraków, Poland",Museo,150,0,"Muzeum Nowej Huty, 1, Osiedle Centrum E, Nowa Huta, Kraków, województwo małopolskie, 31-934, Polska",PASS
+europa_katia.csv,Cracovia,Museo Czartoryski,"Muzeum Czartoryskich, Kraków, Poland",Museo,150,0,"Muzeum Książąt Czartoryskich w Krakowie, Pijarska, Stare Miasto, Kraków, województwo małopolskie, 31-015, Pols",PASS
+europa_katia.csv,Cracovia,Iglesia de San Pedro y San Pablo,"Kościół świętych Piotra i Pawła, Kraków, Poland",Iglesia,150,0,"Kościół pw. Świętych Apostołów Piotra i Pawła, 52a, Grodzka, Stare Miasto, Kraków, województwo małopolskie, 31",PASS
+europa_katia.csv,Cracovia,Iglesia de San Francisco,"Bazylika św. Franciszka z Asyżu, Kraków, Poland",Iglesia,150,0,"Bazylika Świętego Franciszka z Asyżu, 5, Plac Wszystkich Świętych, Stare Miasto, Kraków, województwo małopolsk",PASS
+europa_katia.csv,Cracovia,Iglesia de San José,"Kościół św. Józefa, Kraków, Poland",Iglesia,150,0,"Kościół pw. Świętego Józefa, 2, Jana Zamoyskiego, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 3",PASS
+europa_katia.csv,Cracovia,Stare Miasto,"Stare Miasto, Kraków, Poland",Casco histórico,800,34,"Stare Miasto, Kraków, województwo małopolskie, Polska",PASS
+europa_katia.csv,Cracovia,Calle Floriańska,"ulica Floriańska, Kraków, Poland",Calle,400,0,"Floriańska, Stare Miasto, Kraków, województwo małopolskie, 31-019, Polska",PASS
+europa_katia.csv,Cracovia,Mały Rynek,"Mały Rynek, Kraków, Poland",Plaza,250,0,"Mały Rynek, Stare Miasto, Kraków, województwo małopolskie, 31-041, Polska",PASS
+europa_katia.csv,Cracovia,Puente del Padre Bernatek,"Kładka Ojca Bernatka, Kraków, Poland",Puente,150,0,"Kładka Ojca Bernatka, Bulwar Podolski, Stare Podgórze, Podgórze, Kraków, województwo małopolskie, 30-500, Pols",PASS
+europa_katia.csv,Cracovia,Podgórze,"Podgórze, Luborzyca, Poland",Barrio,800,0,"Podgórze, Luborzyca, gmina Kocmyrzów-Luborzyca, powiat krakowski, województwo małopolskie, 32-010, Polska",PASS
+europa_katia.csv,Cracovia,Stary Kleparz,"Stary Kleparz, Kraków, Poland",Mercado,300,0,"Stary Kleparz, 20, Rynek Kleparski, Kleparz, Stare Miasto, Kraków, województwo małopolskie, 31-150, Polska",PASS
+europa_katia.csv,Cracovia,Montículo Kościuszko,"Kopiec Kościuszki, Kraków, Poland",Mirador,150,0,"Kopiec Kościuszki, Kraków, województwo małopolskie, 30-210, Polska",PASS
+europa_katia.csv,Cracovia,Teatro Juliusz Słowacki,"Teatr im. Juliusza Słowackiego, Kraków, Poland",Teatro,150,0,"Teatr im. Juliusza Słowackiego, 1, Plac Świętego Ducha, Stare Miasto, Kraków, województwo małopolskie, 31-023,",PASS
+europa_katia.csv,Budapest,Belváros,"Belváros, Budapest, Hungary",Barrio,800,0,"Belváros, V. kerület, Budapest, Közép-Magyarország, Magyarország",PASS
+europa_katia.csv,Budapest,Szabadság tér,"Szabadság tér, Budapest, Hungary",Plaza,250,46,"Szabadság tér, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1054, Magyarország",PASS
+europa_katia.csv,Budapest,Vörösmarty tér,"Vörösmarty tér, Budapest, Hungary",Plaza,250,0,"Vörösmarty tér, Lipótváros, V. kerület, Budapest, Közép-Magyarország, 1051, Magyarország",PASS
+europa_katia.csv,Budapest,Erzsébet tér,"Erzsébet tér, Budapest, Hungary",Plaza,250,38,"Erzsébet tér, Lipótváros, V. kerület, Budapest, Közép-Magyarország, Magyarország",PASS
+europa_katia.csv,Budapest,Parque Városliget,"Városliget, Budapest, Hungary",Parque,600,245,"Városliget, XIV. kerület, Budapest, Közép-Magyarország, 1146, Magyarország",PASS
+europa_katia.csv,Budapest,Castillo Vajdahunyad,"Vajdahunyad vára, Budapest, Hungary",Castillo,250,0,"Vajdahunyad vára, 29732/1, Vajdahunyad sétány, Városliget, XIV. kerület, Budapest, Közép-Magyarország, 1146, M",PASS
+europa_katia.csv,Budapest,Ópera Estatal Húngara,"Magyar Állami Operaház, Budapest, Hungary",Teatro,150,0,"Magyar Állami Operaház, 22, Andrássy út, Terézváros, VI. kerület, Budapest, Közép-Magyarország, 1061, Magyaror",PASS
+europa_katia.csv,Budapest,Holocaust Memorial Center,"Holokauszt Emlékközpont, Budapest, Hungary",Museo,150,0,"Holokauszt Emlékközpont, 39, Páva utca, Középső-Ferencváros rehabilitációs terület, Középső-Ferencváros, IX. k",PASS
+europa_katia.csv,Budapest,Museo Nacional de Hungría,"Magyar Nemzeti Múzeum, Budapest, Hungary",Museo,150,0,"Magyar Nemzeti Múzeum, 14-16, Múzeum körút, Palotanegyed, VIII. kerület, Budapest, Közép-Magyarország, 1088, M",PASS
+europa_katia.csv,Budapest,Gozsdu Udvar,"Gozsdu udvar, Budapest, Hungary",Sitio histórico,200,79,"Gozsdu udvar, Erzsébetváros, VII. kerület, Budapest, Közép-Magyarország, 1075, Magyarország",PASS
+europa_katia.csv,Budapest,Barrio Judío de Budapest,"Erzsébetváros, Érd, Hungary",Barrio,800,0,"Erzsébetváros, Érd, Érdi járás, Pest vármegye, Közép-Magyarország, 2030, Magyarország",PASS
+europa_katia.csv,Budapest,Funicular del Castillo,"Budavári Sikló, Budapest, Hungary",Teleférico,300,0,"Budavári Sikló, Buda, Víziváros, I. kerület, Budapest, Közép-Magyarország, Magyarország",PASS
+europa_katia.csv,Budapest,Citadella,"Citadella, Budapest, Hungary",Mirador,150,0,"Citadella, 1, Citadella sétány, Gellérthegy, XI. kerület, Budapest, Közép-Magyarország, 1118, Magyarország",PASS
+europa_katia.csv,Colmar,Koïfhus,"Koïfhus, Colmar, France",Sitio histórico,200,0,"Ancienne douane (Koïfhus), Rue des Tanneurs, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Collectivité européenne d'",PASS
+europa_katia.csv,Colmar,Église des Dominicains,"Église des Dominicains, Colmar, France",Iglesia,150,0,"Église des Dominicains, Place des Dominicains, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Collectivité européenne ",PASS
+europa_katia.csv,Colmar,Église Saint-Matthieu,"Église Saint-Matthieu, Colmar, France",Iglesia,150,0,"Église Saint-Matthieu, Place Jeanne d'Arc, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Collectivité européenne d'Al",PASS
+europa_katia.csv,Colmar,Rue des Marchands,"Rue des Marchands, Colmar, France",Calle,400,0,"Rue des Marchands, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Collectivité européenne d'Alsace, Grand Est, France ",PASS
+europa_katia.csv,Colmar,Grand'Rue,"Grand'Rue, Colmar, France",Calle,400,322,"Grand'Rue, Colmar, Colmar-Ribeauvillé, Haut-Rhin, Collectivité européenne d'Alsace, Grand Est, France métropol",PASS
+europa_katia.csv,Estrasburgo,Musée Alsacien,"Musée Alsacien, Strasbourg, France",Museo,150,0,"Musée Alsacien, 23, Quai Saint-Nicolas, Krutenau, Bourse-Esplanade-Krutenau, Strasbourg, Bas-Rhin, Collectivit",PASS
+europa_katia.csv,Estrasburgo,Saint-Pierre-le-Jeune,"Église Saint-Pierre-le-Jeune, Strasbourg, France",Iglesia,150,0,"Église Saint-Pierre-le-Jeune, Place Saint-Pierre-le-Jeune, La Petite France, Centre, Strasbourg, Bas-Rhin, Col",PASS
+europa_katia.csv,Estrasburgo,Maison des Tanneurs,"Maison des Tanneurs, Strasbourg, France",Sitio histórico,200,0,"Maison des Tanneurs, Rue du Bain aux Plantes, La Petite France, Centre, Strasbourg, Bas-Rhin, Collectivité eur",PASS
+europa_katia.csv,Estrasburgo,Rue des Moulins,"Rue des Moulins, Strasbourg, France",Calle,400,0,"Rue des Moulins, La Petite France, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est, ",PASS
+europa_katia.csv,Estrasburgo,Maison Kammerzell,"Maison Kammerzell, Strasbourg, France",Sitio histórico,200,2,"La Maison Kammerzell, 16, Place de la Cathédrale, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsa",PASS
+europa_katia.csv,Estrasburgo,Place du Marché-aux-Cochons-de-Lait,"Place du Marché-aux-Cochons-de-Lait, Strasbourg, France",Plaza,250,5,"Place du Marché aux Cochons de Lait, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est",PASS
+europa_katia.csv,Estrasburgo,Rue du Vieux-Marché-aux-Poissons,"Rue du Vieux-Marché-aux-Poissons, Strasbourg, France",Calle,400,0,"Rue du Vieux Marché aux Poissons, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est, F",PASS
+europa_katia.csv,Estrasburgo,Rue Mercière,"Rue Mercière, Strasbourg, France",Calle,400,0,"Rue Mercière, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand Est, France métropolitaine",PASS
+europa_katia.csv,Estrasburgo,Palais du Rhin,"Palais du Rhin, Strasbourg, France",Palacio,200,0,"Palais du Rhin, Place de la République, Centre, Strasbourg, Bas-Rhin, Collectivité européenne d'Alsace, Grand ",PASS
+europa_katia.csv,Estrasburgo,Palais Universitaire,"Palais Universitaire, Strasbourg, France",Sitio histórico,200,0,"Palais Universitaire, Place de l'Université, Quartier des XV, Orangerie-Conseil des XV, Strasbourg, Bas-Rhin, ",PASS
+europa_katia.csv,Estrasburgo,Église Saint-Paul,"Église Saint-Paul de Strasbourg, Strasbourg, France",Iglesia,150,0,"Église Saint-Paul, Quai Mullenheim, Quartier des XV, Orangerie-Conseil des XV, Strasbourg, Bas-Rhin, Collectiv",PASS
+europa_katia.csv,Estrasburgo,Gare de Strasbourg,"Gare de Strasbourg, Strasbourg, France",Sitio histórico,200,0,"Strasbourg, Place de la Gare, Tribunal-Gare-Porte de Schirmeck, Strasbourg, Bas-Rhin, Collectivité européenne ",PASS
+europa_katia.csv,Estrasburgo,Pavillon Joséphine,"Pavillon Joséphine, Strasbourg, France",Sitio histórico,200,0,"Pavillon Joséphine, Allée de l'Orangerie Joséphine, Quartier des XV, Orangerie-Conseil des XV, Strasbourg, Bas",PASS
+europa_katia.csv,Friburgo,Seepark Freiburg,"Seepark, Freiburg im Breisgau, Germany",Parque,600,0,"Seepark, Betzenhausen, Freiburg im Breisgau, Baden-Württemberg, Deutschland",PASS
+europa_katia.csv,Friburgo,Konviktstraße,"Konviktstraße, Freiburg im Breisgau, Germany",Calle,400,0,"Konviktstraße, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Ballrechten-Dottingen, Baden-Württemberg, 79098",PASS
+europa_katia.csv,Friburgo,Münsterplatz,"Münsterplatz, Freiburg im Breisgau, Germany",Plaza,250,0,"Münsterplatz, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Baden-Württemberg, Deutschland",PASS
+europa_katia.csv,Friburgo,Historisches Kaufhaus,"Historisches Kaufhaus, Freiburg im Breisgau, Germany",Sitio histórico,200,0,"Historisches Kaufhaus, 24, Münsterplatz, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Baden-Württemberg, 79",PASS
+europa_katia.csv,Friburgo,Schlossbergbahn,"Schlossbergbahn, Freiburg im Breisgau, Germany",Teleférico,300,121,"Schlossbergbahn, Leopoldring, Neuburg, Freiburg im Breisgau, Baden-Württemberg, 79098, Deutschland",PASS
+europa_katia.csv,Friburgo,Augustinerplatz,"Augustinerplatz, Freiburg im Breisgau, Germany",Plaza,250,12,"Augustinerplatz, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Ballrechten-Dottingen, Baden-Württemberg, 790",PASS
+europa_katia.csv,Friburgo,Bertoldsbrunnen,"Bertoldsbrunnen, Freiburg im Breisgau, Germany",Monumento,200,96,"Bertoldsbrunnen (BB), Bertoldstraße, Altstadt-Mitte, Altstadt, Freiburg im Breisgau, Baden-Württemberg, 79098,",PASS
+europa_katia.csv,Highlands,Cluanie Inn,"Cluanie Inn, Highland, UK",Sitio histórico,200,0,"Cluanie Inn, A87, Highland, Alba / Scotland, IV63 7YW, United Kingdom",PASS
+europa_katia.csv,Highlands,Loch an Eilein,"Loch an Eilein, Highland, UK",Lago,3000,0,"Loch an Eilein, Highland, Alba / Scotland, United Kingdom",PASS
+europa_katia.csv,Highlands,River Ness,"River Ness, Inverness, UK",Paseo,500,0,"River Ness, Inverness, Highland, Alba / Scotland, United Kingdom",PASS
+europa_katia.csv,Highlands,Drumnadrochit,"Drumnadrochit, UK",Pueblo,1500,967,"Drumnadrochit, Highland, Alba / Scotland, IV63 6TX, United Kingdom",PASS
+europa_katia.csv,Highlands,St Andrews,"St Andrews, Airdrie, UK",Pueblo,1500,0,"St Andrews, 2, Victoria Place, Whinhall, Airdrie, North Lanarkshire, Alba / Scotland, ML6 9BU, United Kingdom",PASS

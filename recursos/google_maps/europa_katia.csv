@@ -11,13 +11,13 @@ Roma,Santa Maria Maggiore,Solo mapeado,41.897627,12.498470,"Basilica di Santa Ma
 Roma,Santa Maria della Vittoria,Solo mapeado,41.904719,12.494189,"Santa Maria della Vittoria, Roma, Italy",Iglesia,,"El Éxtasis de Santa Teresa, de Bernini"
 Roma,Fontana di Trevi,Solo mapeado,41.900978,12.483285,"Fontana di Trevi, Roma, Italy",Monumento,,Katia: ir después de la 1 AM
 Roma,Campo de' Fiori,Solo mapeado,41.895577,12.472159,"Campo de' Fiori, Roma, Italy",Plaza,,Muy turístico
-Roma,Barrio judío (Ghetto),Solo mapeado,41.893147,12.477071,"Ghetto di Roma, Roma, Italy",Barrio,,Ver las piedras de la memoria (Stolpersteine)
+Roma,Barrio judío (Ghetto),Solo mapeado,41.893147,12.477071,"Portico d'Ottavia, Roma, Italy",Barrio,,Ver las piedras de la memoria (Stolpersteine)
 Roma,Parioli,Solo mapeado,41.931050,12.488590,"Parioli, Roma, Italy",Barrio,,Katia: es tipo Palermo Chico
 Roma,Trastevere,Solo mapeado,41.891159,12.466846,"Trastevere, Roma, Italy",Barrio,,Bohemio; el mejor barrio para comer. Reddit avisa que se gentrificó y satura de turistas
 Roma,Muralla Aureliana,Solo mapeado,41.909053,12.487409,"Mura aureliane, Roma, Italy",Sitio histórico,,Menos turístico; Alan lo hizo con el tour de la Vespa
 Roma,Pirámide Cestia,Solo mapeado,41.876449,12.480854,"Piramide di Caio Cestio, Roma, Italy",Sitio histórico,,
-Roma,Basílica de San Pedro,Solo mapeado,41.902162,12.453713,"Basilica di San Pietro in Vaticano, Roma, Italy",Iglesia,,Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes
-Roma,Museos Vaticanos,Solo mapeado,41.904927,12.454622,"Musei Vaticani, Roma, Italy",Museo,,"No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)"
+Roma,Basílica de San Pedro,Solo mapeado,41.902162,12.453713,"Basilica di San Pietro, Città del Vaticano, Italy",Iglesia,,Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes
+Roma,Museos Vaticanos,Solo mapeado,41.904927,12.454622,"Musei Vaticani, Città del Vaticano, Italy",Museo,,"No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)"
 Roma,Arco de Constantino,Solo mapeado,41.889762,12.490667,"Arco di Costantino, Roma, Italy",Monumento,,
 Roma,Castel Sant'Angelo,Solo mapeado,41.903118,12.466343,"Castel Sant'Angelo, Roma, Italy",Castillo,,Buenas vistas
 Roma,Galleria Borghese,Solo mapeado,41.914113,12.492105,"Galleria Borghese, Roma, Italy",Museo,,Katia: MUST. Reservar con anticipación
@@ -29,7 +29,7 @@ Roma,Panteón de Roma,Solo mapeado,41.898616,12.476833,"Pantheon, Roma, Italy",S
 Roma,Aventine Keyhole,Solo mapeado,41.883486,12.477480,"Villa del Priorato di Malta, Roma, Italy",Mirador,,Por la cerradura de la puerta verde se ve la cúpula de San Pedro enmarcada
 Roma,Via Appia Antica,Solo mapeado,41.869763,12.502111,"Via Appia Antica, Roma, Italy",Sitio histórico,,"Alquilar bici eléctrica el domingo, cuando cierran al tráfico. Ruinas, catacumbas y campo"
 Roma,Quartiere Coppedè,Solo mapeado,41.918364,12.502189,"Quartiere Coppedè, Roma, Italy",Barrio,,Barrio minúsculo que parece un cuento de hadas. Cero turistas
-Roma,Auditorium Parco della Musica,Solo mapeado,41.929193,12.475128,"Auditorium Parco della Musica, Roma, Italy",Teatro,,Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche
+Roma,Auditorium Parco della Musica,Solo mapeado,41.929193,12.475128,"Auditorium Parco della Musica Ennio Morricone, Roma, Italy",Teatro,,Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche
 Nápoles,Catedral de Nápoles,Solo mapeado,40.852653,14.259870,"Cattedrale di Santa Maria Assunta, Napoli, Italy",Catedral,,
 Nápoles,Cappella Sansevero,Solo mapeado,40.849299,14.254933,"Cappella Sansevero, Napoli, Italy",Iglesia,,El Cristo Velado. Reservar con anticipación
 Nápoles,San Domenico Maggiore,Solo mapeado,40.848975,14.254270,"Basilica di San Domenico Maggiore, Napoli, Italy",Iglesia,,
@@ -42,7 +42,7 @@ Nápoles,Napoli Sotterranea,Solo mapeado,40.851079,14.256847,"Napoli Sotterranea
 Nápoles,San Lorenzo Maggiore,Solo mapeado,40.850920,14.258040,"Basilica di San Lorenzo Maggiore, Napoli, Italy",Iglesia,,Otro acceso a la Nápoles subterránea
 Nápoles,Quartieri Spagnoli,Solo mapeado,40.841483,14.246423,"Quartieri Spagnoli, Napoli, Italy",Barrio,,
 Nápoles,Via Toledo,Solo mapeado,40.841677,14.248754,"Via Toledo, Napoli, Italy",Calle,,
-Nápoles,Murales de Vico Totò,Solo mapeado,40.858438,14.252230,"Vico Totò, Napoli, Italy",Sitio histórico,,Murales del callejón
+Nápoles,Murales de Vico Totò,Solo mapeado,40.858438,14.252230,"Quartieri Spagnoli, Napoli, Italy",Sitio histórico,,Murales del callejón
 Nápoles,Mural de Maradona,Solo mapeado,40.849694,14.201474,"Murales di Maradona, Napoli, Italy",Sitio histórico,,En los Quartieri Spagnoli
 Nápoles,Rione Sanità,Solo mapeado,40.857644,14.251961,"Rione Sanità, Napoli, Italy",Barrio,,Vibrante y auténtico; solía ser peligroso y renace por cooperativas locales
 Nápoles,Catacumbas de San Gennaro,Solo mapeado,40.863784,14.247058,"Catacombe di San Gennaro, Napoli, Italy",Sitio histórico,,En el Rione Sanità
@@ -130,13 +130,13 @@ Kandersteg,Blausee,Solo mapeado,46.532422,7.664852,"Blausee, Kandergrund, Switze
 York,Stonegate,Solo mapeado,53.960911,-1.083375,"Stonegate, York, UK",Calle,,Calles medievales y comercios históricos
 York,Bootham Bar,Solo mapeado,53.962719,-1.085050,"Bootham Bar, York, UK",Sitio histórico,,Una de las puertas por donde subir a caminar las murallas
 Edimburgo,St Giles' Cathedral,Solo mapeado,55.949479,-3.190852,"St Giles' Cathedral, City of Edinburgh, UK",Catedral,,Es gratis
-Edimburgo,The Vennel,Solo mapeado,55.941928,-3.149322,"The Vennel, City of Edinburgh, UK",Mirador,,Callejón con escalinata y una de las mejores vistas del castillo. Buen punto para el cañón de las 13h: estar ahí 12:45
+Edimburgo,The Vennel,Solo mapeado,55.941928,-3.149322,"Vennel, Grassmarket, Edinburgh, UK",Mirador,,Callejón con escalinata y una de las mejores vistas del castillo. Buen punto para el cañón de las 13h: estar ahí 12:45
 Edimburgo,Cowgate,Solo mapeado,55.948656,-3.187621,"Cowgate, City of Edinburgh, UK",Barrio,,Zona universitaria; pubs junto con Grassmarket
 Edimburgo,Royal Yacht Britannia,Solo mapeado,55.982146,-3.177309,"Royal Yacht Britannia, City of Edinburgh, UK",Museo,,Katia: descartado — 'otros que creo que no nos interesan'
 Edimburgo,Oink,Solo mapeado,55.952990,-3.197360,"Oink, City of Edinburgh, UK",Tienda,,"Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)"
 Londres,Leicester Square,Solo mapeado,51.510595,-0.130767,"Leicester Square, City of Westminster, UK",Plaza,,Plaza llena de referencias de cines y teatros. Katia: prescindible salvo que pasemos
 Londres,Millennium Bridge,Solo mapeado,51.509888,-0.098508,"Millennium Bridge, City of London, UK",Puente,,Puente peatonal. Para pasar / ver por afuera
-Londres,Waterloo Bridge,Solo mapeado,51.508265,-0.116595,"Waterloo Bridge, Greater London, UK",Puente,,Abajo está el South Bank Book Market
+Londres,Waterloo Bridge,Solo mapeado,51.508265,-0.116595,"Waterloo Bridge, Lambeth, London, UK",Puente,,Abajo está el South Bank Book Market
 Londres,Brockwell Park,Solo mapeado,51.450530,-0.106093,"Brockwell Park, Greater London, UK",Parque,,Katia: de los parques más locales
 Londres,Great Scotland Yard,Solo mapeado,51.506379,-0.126358,"Great Scotland Yard, City of Westminster, UK",Harry Potter,,La entrada al Ministerio de Magia en las películas
 Londres,Prime Meridian,Solo mapeado,51.477943,-0.001475,"Prime Meridian of the World, Greater London, UK",Sitio histórico,,"En Greenwich Park, junto al observatorio"
@@ -264,7 +264,7 @@ Praga,Casa Danzante,Solo mapeado,50.075426,14.414172,"Tančící dům, Praha, Cz
 Praga,Pasaje Lucerna,Solo mapeado,50.081132,14.426039,"Palác Lucerna, Praha, Czechia",Sitio histórico,,"Galería comercial histórica, famosa por la escultura invertida de San Wenceslao"
 Cracovia,Museo de Nowa Huta,Solo mapeado,50.069961,20.041216,"Muzeum Nowej Huty, Kraków, Poland",Museo,,Historia comunista. ~20 PLN
 Cracovia,Museo Czartoryski,Solo mapeado,50.064799,19.940338,"Muzeum Czartoryskich, Kraków, Poland",Museo,,"Katia: descartado. Arte, ~75 PLN"
-Cracovia,Błonia,Solo mapeado,50.059729,19.910145,"Błonia, Kraków, Poland",Parque,,"Gran pradera que usan los locales para caminar, correr y hacer picnic"
+Cracovia,Błonia,Solo mapeado,50.059729,19.910145,"Błonia Krakowskie, Kraków, Poland",Parque,,"Gran pradera que usan los locales para caminar, correr y hacer picnic"
 Cracovia,Iglesia de San Pedro y San Pablo,Solo mapeado,50.056927,19.939064,"Kościół świętych Piotra i Pawła, Kraków, Poland",Iglesia,,La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis
 Cracovia,Iglesia de San Francisco,Solo mapeado,50.059219,19.936092,"Bazylika św. Franciszka z Asyżu, Kraków, Poland",Iglesia,,Vitrales Art Nouveau de Stanisław Wyspiański. Gratis
 Cracovia,Iglesia de San José,Solo mapeado,50.043274,19.949897,"Kościół św. Józefa, Kraków, Poland",Iglesia,,"Neogótica, en Podgórze"
@@ -304,7 +304,7 @@ Estrasburgo,Maison Kammerzell,Solo mapeado,48.581969,7.749754,"Maison Kammerzell
 Estrasburgo,Place du Marché-aux-Cochons-de-Lait,Solo mapeado,48.580382,7.751119,"Place du Marché-aux-Cochons-de-Lait, Strasbourg, France",Plaza,,Mini plaza alsaciana rodeada de casas con entramado de madera. Muy linda para café y fotos
 Estrasburgo,Rue du Vieux-Marché-aux-Poissons,Solo mapeado,48.580528,7.749645,"Rue du Vieux-Marché-aux-Poissons, Strasbourg, France",Calle,,"Peatonal con casas alsacianas, cafés y restaurantes típicos"
 Estrasburgo,Rue Mercière,Solo mapeado,48.581311,7.749507,"Rue Mercière, Strasbourg, France",Calle,,Fantásticas vistas de la Catedral
-Estrasburgo,Biblioteca Nacional y Universitaria,Solo mapeado,48.587539,7.756261,"Bibliothèque nationale et universitaire de Strasbourg, Strasbourg, France",Sitio histórico,,Destacado del Neustadt
+Estrasburgo,Biblioteca Nacional y Universitaria,Solo mapeado,48.587539,7.756261,"Bibliothèque nationale et universitaire, Strasbourg, France",Sitio histórico,,Destacado del Neustadt
 Estrasburgo,Palais du Rhin,Solo mapeado,48.587646,7.752543,"Palais du Rhin, Strasbourg, France",Palacio,,Destacado del Neustadt
 Estrasburgo,Palais Universitaire,Solo mapeado,48.584800,7.762594,"Palais Universitaire, Strasbourg, France",Sitio histórico,,Destacado del Neustadt
 Estrasburgo,Église Saint-Paul,Solo mapeado,48.586326,7.759902,"Église Saint-Paul de Strasbourg, Strasbourg, France",Iglesia,,Destacado del Neustadt
@@ -321,7 +321,7 @@ Friburgo,Kaiser-Joseph-Straße,Solo mapeado,47.991891,7.848479,"Kaiser-Joseph-St
 Highlands,Cluanie Inn,Solo mapeado,57.156131,-5.182119,"Cluanie Inn, Highland, UK",Sitio histórico,,El único punto de servicio en un tramo largo de la A87
 Highlands,Rothiemurchus Forest,Solo mapeado,57.173967,-3.782826,"Rothiemurchus, Aviemore, UK",Naturaleza,,Red de senderos gratuita en las Cairngorms
 Highlands,Loch an Eilein,Solo mapeado,57.147982,-3.819462,"Loch an Eilein, Highland, UK",Lago,,"Isla con castillo en ruinas dentro del loch. Circuito de ~3 km, parking £4"
-Highlands,Cairngorm Mountain Gondola,Solo mapeado,57.191152,-3.829352,"Cairngorm Mountain, Aviemore, UK",Teleférico,,~£20. También está el rebaño de renos único en el UK
+Highlands,Cairngorm Mountain Gondola,Solo mapeado,57.191152,-3.829352,"Cairngorm Mountain Railway, Aviemore, UK",Teleférico,,~£20. También está el rebaño de renos único en el UK
 Highlands,River Ness,Solo mapeado,57.455780,-4.257835,"River Ness, Inverness, UK",Paseo,,Muy lindo para caminar de noche o cenar tranquilos
 Highlands,Drumnadrochit,Solo mapeado,57.344384,-4.485421,"Drumnadrochit, UK",Pueblo,,"Sede de los Glenurquhart Highland Games (22 de agosto), junto al Lago Ness"
 Highlands,St Andrews,Solo mapeado,55.863454,-3.982368,"St Andrews, Airdrie, UK",Pueblo,,"Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra"
