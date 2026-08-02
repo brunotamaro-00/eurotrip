@@ -17356,5 +17356,1625 @@
   "display": "",
   "reason": "sin_candidatos",
   "alternatives": []
+ },
+ "londres::british museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::natural history museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::victoria and albert museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::tate modern": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::national gallery": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::national portrait gallery": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::science museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::imperial war museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::churchill war rooms": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::sir john soanes museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::museum of london docklands": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::courtauld gallery": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::westminster abbey": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::st pauls cathedral": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::southwark cathedral": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::temple church": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::tower of london": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::tower bridge": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::big ben": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::buckingham palace": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::kensington palace": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::cutty sark": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::royal observatory greenwich": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::trafalgar square": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::piccadilly circus": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::covent garden": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::hampton court palace": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::sky garden": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::the shard": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::london eye": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::hyde park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::kensington gardens": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::regents park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::st jamess park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::hampstead heath": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::primrose hill": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::greenwich park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::richmond park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::victoria park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::victoria embankment gardens": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::borough market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::portobello road market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::brick lane market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::columbia road flower market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::broadway market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::camden market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::old spitalfields market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::leadenhall market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::maltby street market": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::shakespeares globe": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::royal albert hall": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::warner bros studio tour london": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::south bank": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::shoreditch": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::notting hill": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::soho": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::kensington": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::marylebone": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::greenwich": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::camden town": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::angel": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::highgate cemetery": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::kings cross station": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "londres::cecil court": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::york minster": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::national railway museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::jorvik viking centre": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::york castle museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::yorkshire museum": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::barley hall": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::yorks chocolate story": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::the shambles": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::cliffords tower": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::merchant adventurers hall": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::micklegate bar": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::rowntree park": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::fossgate": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "york::micklegate": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::edinburgh castle": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::palace of holyroodhouse": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::holyrood abbey": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::scottish parliament": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::greyfriars kirkyard": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::scott monument": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::calton hill": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::gladstones land": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::john knox house": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::dean village": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::grassmarket": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "edimburgo::george heriots school": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
  }
 }

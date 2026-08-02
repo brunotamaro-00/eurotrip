@@ -34,7 +34,7 @@ import re
 from pathlib import Path
 
 import geo
-from areas import AREAS, HIGHLANDS_KEYS, LABEL_TO_KEYS
+from areas import AREAS, COUNTRIES_EN, HIGHLANDS_KEYS, LABEL_TO_KEYS
 from geoutil import name_sim, normalize
 from validate_csvs import GENERIC_NAMES, validate_lugar_busqueda
 
@@ -46,24 +46,70 @@ FIELDS = ["ciudad", "nombre", "prioridad", "lat", "lng", "lugar_busqueda", "tipo
 
 REGION_HINT = {"Highlands": "Scotland, UK", "Edimburgo": "Scotland, UK"}
 
+# Nombres alternativos de las localidades (inglés / español). Sin esto, el
+# segmento intermedio "Prague" se conservaría junto a la localidad "Praha" y
+# saldría `Karlův most, Prague, Praha, Czechia`.
+_ALIAS_LOCALIDAD: dict[str, set[str]] = {
+    "praha": {"prague", "praga"},
+    "wien": {"vienna", "viena"},
+    "krakow": {"cracow", "cracovia"},
+    "firenze": {"florence", "florencia"},
+    "napoli": {"naples", "napoles"},
+    "roma": {"rome"},
+    "lisboa": {"lisbon"},
+    "london": {"londres"},
+    "paris": {"paris"},
+    "luzern": {"lucerne", "lucerna"},
+    "ljubljana": {"liubliana"},
+    "bern": {"berna", "berne"},
+    "munchen": {"munich"},
+    "koln": {"cologne", "colonia"},
+    "edinburgh": {"edimburgo"},
+    "amsterdam": {"amsterdam"},
+    "budapest": {"budapest"},
+}
+
+
+def _misma_localidad(a: str, b: str) -> bool:
+    na, nb = normalize(a), normalize(b)
+    if na == nb:
+        return True
+    return nb in _ALIAS_LOCALIDAD.get(na, set()) or na in _ALIAS_LOCALIDAD.get(nb, set())
+
 # "Nombre (Aclaración)" -> se prefiere lo de adentro del paréntesis cuando es el
 # topónimo local, y se descarta cuando es una nota para el viajero.
 _PAREN = re.compile(r"\s*\(([^)]*)\)")
-_NOTA_RE = re.compile(r"no confundir|farmacia|iglesia del|cine|tejadillo|3 museos|\bs\.\s?X", re.I)
+
+# Sustantivos genéricos en español: si el término de afuera empieza por uno,
+# es una traducción y el paréntesis trae el topónimo local
+# ("Puente de Carlos (Karlův most)" -> Karlův most).
+_ES_GENERICO = {
+    "puente", "plaza", "castillo", "catedral", "iglesia", "basilica", "basílica",
+    "barrio", "mina", "fabrica", "fábrica", "colina", "torre", "casa", "museo",
+    "ciudad", "reloj", "monte", "isla", "palacio", "jardin", "jardín", "mercado",
+    "parque", "avenida", "calle", "cementerio", "biblioteca", "farmacia",
+    "monasterio", "sinagoga", "muralla", "bosque", "lago", "valle", "cueva",
+    "teatro", "estacion", "estación", "ayuntamiento", "cripta", "opera", "ópera",
+}
 
 
 def strip_paren(term: str) -> str:
-    """Saca los paréntesis. Si adentro hay un topónimo local (no una nota), se
-    queda con ese; si es una aclaración en español, la descarta."""
+    """Saca los paréntesis.
+
+    Se queda con lo de adentro solo si lo de afuera es una traducción al
+    español. Si no, conserva lo de afuera: en
+    `Swarovski Kristallwelten (Wattens)` el paréntesis es la localidad, no el
+    nombre, y quedarse con `Wattens` apuntaría al pueblo en vez del museo.
+    """
     m = _PAREN.search(term)
     if not m:
         return term.strip()
     inner = m.group(1).strip()
     outer = _PAREN.sub("", term).strip()
-    if inner and not _NOTA_RE.search(inner) and not inner.lower().startswith(("el ", "la ", "los ")):
-        # el paréntesis suele traer el nombre local: Orloj, Rynek Główny, Josefov
-        return inner
-    return outer
+    if not inner:
+        return outer
+    primera = normalize(outer).split(" ")[0] if outer else ""
+    return inner if primera in _ES_GENERICO else outer
 
 
 def clean_term(term: str) -> str:
@@ -84,22 +130,33 @@ def area_for(row: dict):
     return AREAS[keys[0]]
 
 
-def build(row: dict, cache: dict) -> tuple[str, str]:
+def build(row: dict, cache: dict, sin_red: bool = False) -> tuple[str, str]:
     """Devuelve (lugar_busqueda nuevo, modo)."""
     area = area_for(row)
     if area is None:
         return row["lugar_busqueda"], "sin_area"
 
-    head = clean_term(row["lugar_busqueda"].split(",")[0])
-    res = geo.resolve(head, area, row["tipo"], query_extra=f"{area.locality}, {area.country_en}",
-                      cache=cache)
-
+    partes_orig = [p.strip() for p in row["lugar_busqueda"].split(",")]
+    head = clean_term(partes_orig[0])
     modo = "mecanico"
     term, loc = head, area.locality
-    if res.ok and res.confidence == "high" and res.name and name_sim(head, res.name) >= 0.55:
-        term, modo = res.name, "resuelto"
-        if res.locality:
-            loc = res.locality
+
+    # Si la fila ya estaba bien formada y traía un segmento intermedio más
+    # específico que la localidad del área (`Broadway Market, Hackney, London`),
+    # se conserva: acota la búsqueda en vez de ensancharla.
+    if len(partes_orig) >= 3 and partes_orig[-1] in COUNTRIES_EN:
+        medio = clean_term(partes_orig[1])
+        if (medio and not _misma_localidad(medio, area.locality)
+                and normalize(medio) != normalize(head)):
+            loc = f"{medio}, {area.locality}"
+
+    if not sin_red:
+        res = geo.resolve(head, area, row["tipo"],
+                          query_extra=f"{area.locality}, {area.country_en}", cache=cache)
+        if res.ok and res.confidence == "high" and res.name and name_sim(head, res.name) >= 0.55:
+            term, modo = res.name, "resuelto"
+            if res.locality:
+                loc = res.locality
 
     term = clean_term(term)
     parts = [term]
@@ -117,6 +174,8 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--ciudad")
+    ap.add_argument("--sin-red", action="store_true",
+                    help="solo el arreglo mecánico (paréntesis, separadores, país), sin consultar")
     args = ap.parse_args()
 
     cache = geo.load_cache()
@@ -131,7 +190,7 @@ def main() -> int:
                 if args.ciudad and r["ciudad"] != args.ciudad:
                     continue
                 old = r["lugar_busqueda"]
-                new, modo = build(r, cache)
+                new, modo = build(r, cache, sin_red=args.sin_red)
                 errs = validate_lugar_busqueda(new, r["nombre"])
                 if new != old:
                     changed += 1

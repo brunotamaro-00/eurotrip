@@ -578,7 +578,7 @@ def resolve_multi(
 
     # Overpass acotado a la sub-área sugerida por el mejor candidato hasta ahora
     # (o por `hint_area_key`), nunca al span completo.
-    if res is None:
+    if res is None and not SKIP_OVERPASS:
         probe = hint_area_key or (found[0][2] if found else area_keys[0])
         c, s, k = evaluate(overpass_named(nombre_local, AREAS[probe]))
         if c is not None:

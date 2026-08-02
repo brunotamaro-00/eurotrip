@@ -167,7 +167,10 @@ def main() -> int:
     ap.add_argument("--ciudad")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--out", default="audit.csv")
+    ap.add_argument("--overpass", action="store_true",
+                    help="habilita el fallback de Overpass (lento: hasta 70 s por fila)")
     args = ap.parse_args()
+    geo.SKIP_OVERPASS = not args.overpass
 
     rows = load_rows()
     if args.ciudad:
