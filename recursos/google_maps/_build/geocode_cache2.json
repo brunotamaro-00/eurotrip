@@ -38371,5 +38371,6585 @@
    ]
   },
   "area_key": "londres"
+ },
+ "multi::londres::natural history museum": {
+  "res": {
+   "ok": true,
+   "lat": 51.496511,
+   "lng": -0.176002,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.931,
+   "name": "Natural History Museum",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q309388",
+   "display": "Natural History Museum, Cromwell Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 5BD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4965109,
+     "lng": -0.1760019,
+     "name": "Natural History Museum",
+     "source": "nominatim",
+     "osm_id": "way/24436446",
+     "wikidata": "Q309388",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Natural History Museum, Cromwell Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 5BD, United Kingdom",
+     "names_all": [
+      "Natural History Museum"
+     ],
+     "importance": 0.6830288343931763,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::victoria and albert museum": {
+  "res": {
+   "ok": true,
+   "lat": 51.496884,
+   "lng": -0.171637,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.929,
+   "name": "Victoria and Albert Museum",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q213322",
+   "display": "Victoria and Albert Museum, Cromwell Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 2RL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4968838,
+     "lng": -0.1716372,
+     "name": "Victoria and Albert Museum",
+     "source": "nominatim",
+     "osm_id": "relation/29795",
+     "wikidata": "Q213322",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Victoria and Albert Museum, Cromwell Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 2RL, United Kingdom",
+     "names_all": [
+      "Victoria and Albert Museum"
+     ],
+     "importance": 0.6297092995232362,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::tate modern": {
+  "res": {
+   "ok": true,
+   "lat": 51.507429,
+   "lng": -0.099342,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.899,
+   "name": "Tate Modern",
+   "locality": "London",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Tate Modern, London, United Kingdom",
+   "reason": "photon",
+   "alternatives": [
+    {
+     "lat": 51.5074293,
+     "lng": -0.0993416,
+     "name": "Tate Modern",
+     "source": "nominatim",
+     "osm_id": "way/24642569",
+     "wikidata": "Q193375",
+     "osm_class": "amenity=arts_centre",
+     "locality": "Greater London",
+     "display": "Tate Modern, Bankside, Borough Market, Bankside, Southwark, London Borough of Southwark, Greater London, England, SE1 9TG, United Kingdom",
+     "names_all": [
+      "Tate Modern"
+     ],
+     "importance": 0.5621652978250319,
+     "rank": 0
+    },
+    {
+     "lat": 51.5074293,
+     "lng": -0.0993416,
+     "name": "Tate Modern",
+     "source": "photon",
+     "osm_id": "W/24642569",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "London",
+     "display": "Tate Modern, London, United Kingdom",
+     "names_all": [
+      "Tate Modern"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::national gallery": {
+  "res": {
+   "ok": true,
+   "lat": 51.508881,
+   "lng": -0.128383,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.945,
+   "name": "National Gallery",
+   "locality": "City of Westminster",
+   "osm_class": "tourism=gallery",
+   "wikidata": "Q180788",
+   "display": "National Gallery, Orange Street, St. James's, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5DN, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.508881,
+     "lng": -0.1283826,
+     "name": "National Gallery",
+     "source": "nominatim",
+     "osm_id": "way/4372002",
+     "wikidata": "Q180788",
+     "osm_class": "tourism=gallery",
+     "locality": "City of Westminster",
+     "display": "National Gallery, Orange Street, St. James's, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2N 5DN, United Kingdom",
+     "names_all": [
+      "National Gallery"
+     ],
+     "importance": 0.6239695640297419,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::national portrait gallery": {
+  "res": {
+   "ok": true,
+   "lat": 51.509284,
+   "lng": -0.128319,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.946,
+   "name": "National Portrait Gallery",
+   "locality": "City of Westminster",
+   "osm_class": "tourism=gallery",
+   "wikidata": "Q238587",
+   "display": "National Portrait Gallery, Charing Cross Road, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2H 0HE, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5092842,
+     "lng": -0.1283194,
+     "name": "National Portrait Gallery",
+     "source": "nominatim",
+     "osm_id": "way/59161723",
+     "wikidata": "Q238587",
+     "osm_class": "tourism=gallery",
+     "locality": "City of Westminster",
+     "display": "National Portrait Gallery, Charing Cross Road, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2H 0HE, United Kingdom",
+     "names_all": [
+      "National Portrait Gallery"
+     ],
+     "importance": 0.6352075628019029,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::science museum": {
+  "res": {
+   "ok": true,
+   "lat": 51.497398,
+   "lng": -0.174673,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.921,
+   "name": "Science Museum",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q674773",
+   "display": "Science Museum, Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 9ET, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4973983,
+     "lng": -0.1746726,
+     "name": "Science Museum",
+     "source": "nominatim",
+     "osm_id": "way/27765411",
+     "wikidata": "Q674773",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Science Museum, Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, Greater London, England, SW7 9ET, United Kingdom",
+     "names_all": [
+      "Science Museum"
+     ],
+     "importance": 0.5375606718049718,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::imperial war museum": {
+  "res": {
+   "ok": true,
+   "lat": 51.495931,
+   "lng": -0.108599,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.9,
+   "name": "Imperial War Museum London",
+   "locality": "London",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Imperial War Museum London, London, United Kingdom",
+   "reason": "photon",
+   "alternatives": [
+    {
+     "lat": 51.49659,
+     "lng": -0.1106595,
+     "name": "Imperial War Museum",
+     "source": "nominatim",
+     "osm_id": "node/469787304",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Greater London",
+     "display": "Imperial War Museum, Lambeth Road, Elephant and Castle, London Borough of Southwark, Greater London, England, SE1 7PT, United Kingdom",
+     "names_all": [
+      "Imperial War Museum"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 0
+    },
+    {
+     "lat": 51.4959308,
+     "lng": -0.1085991,
+     "name": "Imperial War Museum London",
+     "source": "photon",
+     "osm_id": "W/8614496",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "London",
+     "display": "Imperial War Museum London, London, United Kingdom",
+     "names_all": [
+      "Imperial War Museum London"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::churchill war rooms": {
+  "res": {
+   "ok": true,
+   "lat": 51.50221,
+   "lng": -0.129252,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.93,
+   "name": "Churchill War Rooms",
+   "locality": "City of Westminster",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q1024854",
+   "display": "Churchill War Rooms, King Charles Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2AQ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5022101,
+     "lng": -0.129252,
+     "name": "Churchill War Rooms",
+     "source": "nominatim",
+     "osm_id": "way/197206542",
+     "wikidata": "Q1024854",
+     "osm_class": "tourism=museum",
+     "locality": "City of Westminster",
+     "display": "Churchill War Rooms, King Charles Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2AQ, United Kingdom",
+     "names_all": [
+      "Churchill War Rooms"
+     ],
+     "importance": 0.44213324126810927,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::sir john soanes museum": {
+  "res": {
+   "ok": true,
+   "lat": 51.517075,
+   "lng": -0.117495,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.926,
+   "name": "Sir John Soane's Museum",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2060860",
+   "display": "Sir John Soane's Museum, 13, Lincoln's Inn Fields, Hatton Garden, Holborn, London Borough of Camden, Greater London, England, WC2A 3BP, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5170754,
+     "lng": -0.1174953,
+     "name": "Sir John Soane's Museum",
+     "source": "nominatim",
+     "osm_id": "way/61453261",
+     "wikidata": "Q2060860",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Sir John Soane's Museum, 13, Lincoln's Inn Fields, Hatton Garden, Holborn, London Borough of Camden, Greater London, England, WC2A 3BP, United Kingdom",
+     "names_all": [
+      "Sir John Soane's Museum"
+     ],
+     "importance": 0.4403473780512054,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::museum of london docklands": {
+  "res": {
+   "ok": true,
+   "lat": 51.507634,
+   "lng": -0.023869,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.892,
+   "name": "London Museum Docklands",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2904846",
+   "display": "London Museum Docklands, Hertsmere Road, Canary Wharf, London Borough of Tower Hamlets, Greater London, England, E14 4AL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5076342,
+     "lng": -0.0238687,
+     "name": "London Museum Docklands",
+     "source": "nominatim",
+     "osm_id": "way/140144139",
+     "wikidata": "Q2904846",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "London Museum Docklands, Hertsmere Road, Canary Wharf, London Borough of Tower Hamlets, Greater London, England, E14 4AL, United Kingdom",
+     "names_all": [
+      "London Museum Docklands"
+     ],
+     "importance": 0.42213363392090547,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::courtauld gallery": {
+  "res": {
+   "ok": true,
+   "lat": 51.511624,
+   "lng": -0.1177,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.887,
+   "name": "The Courtauld Gallery",
+   "locality": "London",
+   "osm_class": "tourism=gallery",
+   "wikidata": "",
+   "display": "The Courtauld Gallery, London, United Kingdom",
+   "reason": "photon",
+   "alternatives": [
+    {
+     "lat": 51.5116244,
+     "lng": -0.1177002,
+     "name": "The Courtauld Gallery",
+     "source": "nominatim",
+     "osm_id": "node/2647639741",
+     "wikidata": "Q12110695",
+     "osm_class": "amenity=art_gallery",
+     "locality": "City of Westminster",
+     "display": "The Courtauld Gallery, Strand, St Clement Danes, Covent Garden, City of Westminster, Greater London, England, WC2R 1LA, United Kingdom",
+     "names_all": [
+      "The Courtauld Gallery"
+     ],
+     "importance": 0.43745051855579875,
+     "rank": 0
+    },
+    {
+     "lat": 51.5116244,
+     "lng": -0.1177002,
+     "name": "The Courtauld Gallery",
+     "source": "photon",
+     "osm_id": "N/2647639741",
+     "wikidata": "",
+     "osm_class": "tourism=gallery",
+     "locality": "London",
+     "display": "The Courtauld Gallery, London, United Kingdom",
+     "names_all": [
+      "The Courtauld Gallery"
+     ],
+     "importance": 0.0,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::westminster abbey": {
+  "res": {
+   "ok": true,
+   "lat": 51.499399,
+   "lng": -0.127391,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.943,
+   "name": "Westminster Abbey",
+   "locality": "City of Westminster",
+   "osm_class": "amenity=place_of_worship",
+   "wikidata": "Q5933",
+   "display": "Westminster Abbey, 20, Dean's Yard, Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3PA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.499399,
+     "lng": -0.127391,
+     "name": "Westminster Abbey",
+     "source": "nominatim",
+     "osm_id": "way/364313092",
+     "wikidata": "Q5933",
+     "osm_class": "amenity=place_of_worship",
+     "locality": "City of Westminster",
+     "display": "Westminster Abbey, 20, Dean's Yard, Westminster, Millbank, City of Westminster, Greater London, England, SW1P 3PA, United Kingdom",
+     "names_all": [
+      "Westminster Abbey"
+     ],
+     "importance": 0.6470641664354434,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::st pauls cathedral": {
+  "res": {
+   "ok": true,
+   "lat": 51.513787,
+   "lng": -0.098451,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.932,
+   "name": "St Paul's Cathedral",
+   "locality": "City of London",
+   "osm_class": "amenity=place_of_worship",
+   "wikidata": "Q173882",
+   "display": "St Paul's Cathedral, St Paul's Churchyard, West Smithfield, St Paul's, City of London, Greater London, England, EC4M 8AD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5137872,
+     "lng": -0.0984506,
+     "name": "St Paul's Cathedral",
+     "source": "nominatim",
+     "osm_id": "way/369161987",
+     "wikidata": "Q173882",
+     "osm_class": "amenity=place_of_worship",
+     "locality": "City of London",
+     "display": "St Paul's Cathedral, St Paul's Churchyard, West Smithfield, St Paul's, City of London, Greater London, England, EC4M 8AD, United Kingdom",
+     "names_all": [
+      "St Paul's Cathedral"
+     ],
+     "importance": 0.596638348896594,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::southwark cathedral": {
+  "res": {
+   "ok": true,
+   "lat": 51.506129,
+   "lng": -0.089625,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Southwark Cathedral",
+   "locality": "Greater London",
+   "osm_class": "amenity=place_of_worship",
+   "wikidata": "Q922967",
+   "display": "Southwark Cathedral, Cathedral Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 9DE, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5061288,
+     "lng": -0.0896246,
+     "name": "Southwark Cathedral",
+     "source": "nominatim",
+     "osm_id": "way/26183417",
+     "wikidata": "Q922967",
+     "osm_class": "amenity=place_of_worship",
+     "locality": "Greater London",
+     "display": "Southwark Cathedral, Cathedral Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 9DE, United Kingdom",
+     "names_all": [
+      "Southwark Cathedral"
+     ],
+     "importance": 0.49504545297186436,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::temple church": {
+  "res": {
+   "ok": true,
+   "lat": 51.513257,
+   "lng": -0.110224,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.926,
+   "name": "Temple Church",
+   "locality": "City of London",
+   "osm_class": "amenity=place_of_worship",
+   "wikidata": "Q1429312",
+   "display": "Temple Church, Church Court, Inner and Middle Temples, City of London, Greater London, England, EC4Y 7BB, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5132574,
+     "lng": -0.1102238,
+     "name": "Temple Church",
+     "source": "nominatim",
+     "osm_id": "way/128454313",
+     "wikidata": "Q1429312",
+     "osm_class": "amenity=place_of_worship",
+     "locality": "City of London",
+     "display": "Temple Church, Church Court, Inner and Middle Temples, City of London, Greater London, England, EC4Y 7BB, United Kingdom",
+     "names_all": [
+      "Temple Church"
+     ],
+     "importance": 0.44483426465222636,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::tower of london": {
+  "res": {
+   "ok": true,
+   "lat": 51.508217,
+   "lng": -0.076188,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.795,
+   "name": "Tower of London",
+   "locality": "Greater London",
+   "osm_class": "historic=castle",
+   "wikidata": "Q62378",
+   "display": "Tower of London, Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, Greater London, England, EC3N 4AB, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.508217,
+     "lng": -0.0761879,
+     "name": "Tower of London",
+     "source": "nominatim",
+     "osm_id": "way/370870741",
+     "wikidata": "Q62378",
+     "osm_class": "tourism=attraction",
+     "locality": "Greater London",
+     "display": "Tower of London, Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, Greater London, England, EC3N 4AB, United Kingdom",
+     "names_all": [
+      "Tower of London"
+     ],
+     "importance": 0.6304391034230564,
+     "rank": 0
+    },
+    {
+     "lat": 51.508217,
+     "lng": -0.0761879,
+     "name": "Tower of London",
+     "source": "nominatim",
+     "osm_id": "way/370870741",
+     "wikidata": "Q62378",
+     "osm_class": "historic=castle",
+     "locality": "Greater London",
+     "display": "Tower of London, Tower Hill, East Smithfield, Tower Hill, Whitechapel, London Borough of Tower Hamlets, Greater London, England, EC3N 4AB, United Kingdom",
+     "names_all": [
+      "Tower of London"
+     ],
+     "importance": 0.6304391034230564,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::tower bridge": {
+  "res": {
+   "ok": true,
+   "lat": 51.505516,
+   "lng": -0.075367,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Tower Bridge",
+   "locality": "Greater London",
+   "osm_class": "man_made=bridge",
+   "wikidata": "Q83125",
+   "display": "Tower Bridge, Tower Bridge Road, Butler's Wharf, Bermondsey Village, Bermondsey, London Borough of Southwark, Greater London, England, SE1 2UP, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.5055158,
+     "lng": -0.0753665,
+     "name": "Tower Bridge",
+     "source": "nominatim",
+     "osm_id": "way/378541210",
+     "wikidata": "Q83125",
+     "osm_class": "man_made=bridge",
+     "locality": "Greater London",
+     "display": "Tower Bridge, Tower Bridge Approach, East Smithfield, Tower Hill, Wapping, London Borough of Tower Hamlets, Greater London, England, E1W 1LE, United Kingdom",
+     "names_all": [
+      "Tower Bridge"
+     ],
+     "importance": 0.5276612077010296,
+     "rank": 0
+    },
+    {
+     "lat": 51.5055158,
+     "lng": -0.0753665,
+     "name": "Tower Bridge",
+     "source": "nominatim",
+     "osm_id": "way/378541210",
+     "wikidata": "Q83125",
+     "osm_class": "man_made=bridge",
+     "locality": "Greater London",
+     "display": "Tower Bridge, Tower Bridge Road, Butler's Wharf, Bermondsey Village, Bermondsey, London Borough of Southwark, Greater London, England, SE1 2UP, United Kingdom",
+     "names_all": [
+      "Tower Bridge"
+     ],
+     "importance": 0.5276612077010296,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::big ben": {
+  "res": {
+   "ok": true,
+   "lat": 51.500704,
+   "lng": -0.124572,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.765,
+   "name": "Big Ben",
+   "locality": "City of Westminster",
+   "osm_class": "amenity=clock",
+   "wikidata": "Q37733713",
+   "display": "Big Ben, Bridge Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2JR, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.5007042,
+     "lng": -0.1245721,
+     "name": "Big Ben",
+     "source": "nominatim",
+     "osm_id": "node/1802652184",
+     "wikidata": "Q37733713",
+     "osm_class": "amenity=clock",
+     "locality": "City of Westminster",
+     "display": "Big Ben, Bridge Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2JR, United Kingdom",
+     "names_all": [
+      "Big Ben"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 2
+    },
+    {
+     "lat": 51.5007042,
+     "lng": -0.1245721,
+     "name": "Big Ben",
+     "source": "nominatim",
+     "osm_id": "node/1802652184",
+     "wikidata": "Q37733713",
+     "osm_class": "amenity=clock",
+     "locality": "City of Westminster",
+     "display": "Big Ben, Bridge Street, Westminster, Millbank, City of Westminster, Greater London, England, SW1A 2JR, United Kingdom",
+     "names_all": [
+      "Big Ben"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::buckingham palace": {
+  "res": {
+   "ok": true,
+   "lat": 51.500835,
+   "lng": -0.143005,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.806,
+   "name": "Buckingham Palace",
+   "locality": "City of Westminster",
+   "osm_class": "historic=castle",
+   "wikidata": "Q42182",
+   "display": "Buckingham Palace, Buckingham Gate, Victoria, City of Westminster, Greater London, England, SW1A 1AA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5008349,
+     "lng": -0.1430045,
+     "name": "Buckingham Palace",
+     "source": "nominatim",
+     "osm_id": "relation/5208404",
+     "wikidata": "Q42182",
+     "osm_class": "historic=castle",
+     "locality": "City of Westminster",
+     "display": "Buckingham Palace, Buckingham Gate, Victoria, City of Westminster, Greater London, England, SW1A 1AA, United Kingdom",
+     "names_all": [
+      "Buckingham Palace"
+     ],
+     "importance": 0.6171139384352247,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::kensington palace": {
+  "res": {
+   "ok": true,
+   "lat": 51.505086,
+   "lng": -0.187628,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.786,
+   "name": "Kensington Palace",
+   "locality": "Greater London",
+   "osm_class": "historic=castle",
+   "wikidata": "Q207385",
+   "display": "Kensington Palace, Palace Avenue, South Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 4PX, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.5050865,
+     "lng": -0.1876275,
+     "name": "Kensington Palace",
+     "source": "nominatim",
+     "osm_id": "relation/904705",
+     "wikidata": "Q207385",
+     "osm_class": "historic=castle",
+     "locality": "Greater London",
+     "display": "Kensington Palace, Palace Avenue, South Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 4PX, United Kingdom",
+     "names_all": [
+      "Kensington Palace"
+     ],
+     "importance": 0.5440922498415379,
+     "rank": 0
+    },
+    {
+     "lat": 51.5050865,
+     "lng": -0.1876275,
+     "name": "Kensington Palace",
+     "source": "photon",
+     "osm_id": "R/904705",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "London",
+     "display": "Kensington Palace, London, United Kingdom",
+     "names_all": [
+      "Kensington Palace"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 51.5050865,
+     "lng": -0.1876275,
+     "name": "Kensington Palace",
+     "source": "nominatim",
+     "osm_id": "relation/904705",
+     "wikidata": "Q207385",
+     "osm_class": "historic=castle",
+     "locality": "Greater London",
+     "display": "Kensington Palace, Palace Avenue, South Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 4PX, United Kingdom",
+     "names_all": [
+      "Kensington Palace"
+     ],
+     "importance": 0.5440922498415379,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::cutty sark": {
+  "res": {
+   "ok": true,
+   "lat": 51.482933,
+   "lng": -0.009614,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.759,
+   "name": "Cutty Sark",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q171255",
+   "display": "Cutty Sark, 43, King William Walk, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 9HT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.482933,
+     "lng": -0.0096145,
+     "name": "Cutty Sark",
+     "source": "nominatim",
+     "osm_id": "way/25608663",
+     "wikidata": "Q171255",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Cutty Sark, 43, King William Walk, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 9HT, United Kingdom",
+     "names_all": [
+      "Cutty Sark"
+     ],
+     "importance": 0.5075637005087831,
+     "rank": 0
+    },
+    {
+     "lat": 51.482933,
+     "lng": -0.0096145,
+     "name": "Cutty Sark",
+     "source": "photon",
+     "osm_id": "W/25608663",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "London",
+     "display": "Cutty Sark, London, United Kingdom",
+     "names_all": [
+      "Cutty Sark"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 51.482933,
+     "lng": -0.0096145,
+     "name": "Cutty Sark",
+     "source": "nominatim",
+     "osm_id": "way/25608663",
+     "wikidata": "Q171255",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Cutty Sark, 43, King William Walk, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 9HT, United Kingdom",
+     "names_all": [
+      "Cutty Sark"
+     ],
+     "importance": 0.5075637005087831,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::royal observatory greenwich": {
+  "res": {
+   "ok": true,
+   "lat": 51.477362,
+   "lng": -0.000846,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.757,
+   "name": "Royal Observatory Greenwich",
+   "locality": "Greater London",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q192988",
+   "display": "Royal Observatory Greenwich, Blackheath Avenue, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 8XJ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.4773623,
+     "lng": -0.0008456,
+     "name": "Royal Observatory Greenwich",
+     "source": "nominatim",
+     "osm_id": "way/268533448",
+     "wikidata": "Q192988",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Royal Observatory Greenwich, Blackheath Avenue, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 8XJ, United Kingdom",
+     "names_all": [
+      "Royal Observatory Greenwich"
+     ],
+     "importance": 0.5408993778714825,
+     "rank": 0
+    },
+    {
+     "lat": 51.4773623,
+     "lng": -0.0008456,
+     "name": "Royal Observatory Greenwich",
+     "source": "photon",
+     "osm_id": "W/268533448",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "London",
+     "display": "Royal Observatory Greenwich, London, United Kingdom",
+     "names_all": [
+      "Royal Observatory Greenwich"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 51.4773623,
+     "lng": -0.0008456,
+     "name": "Royal Observatory Greenwich",
+     "source": "nominatim",
+     "osm_id": "way/268533448",
+     "wikidata": "Q192988",
+     "osm_class": "tourism=museum",
+     "locality": "Greater London",
+     "display": "Royal Observatory Greenwich, Blackheath Avenue, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 8XJ, United Kingdom",
+     "names_all": [
+      "Royal Observatory Greenwich"
+     ],
+     "importance": 0.5408993778714825,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::trafalgar square": {
+  "res": {
+   "ok": true,
+   "lat": 51.50845,
+   "lng": -0.12845,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Trafalgar Square",
+   "locality": "City of Westminster",
+   "osm_class": "place=square",
+   "wikidata": "Q129143",
+   "display": "Trafalgar Square, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5084502,
+     "lng": -0.1284499,
+     "name": "Trafalgar Square",
+     "source": "nominatim",
+     "osm_id": "relation/3962877",
+     "wikidata": "Q129143",
+     "osm_class": "place=square",
+     "locality": "City of Westminster",
+     "display": "Trafalgar Square, Westminster, Covent Garden, City of Westminster, Greater London, England, WC2, United Kingdom",
+     "names_all": [
+      "Trafalgar Square"
+     ],
+     "importance": 0.5531132201815435,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::piccadilly circus": {
+  "res": {
+   "ok": true,
+   "lat": 51.510138,
+   "lng": -0.133936,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.935,
+   "name": "Piccadilly Circus",
+   "locality": "City of Westminster",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "Q215255",
+   "display": "Piccadilly Circus, St. James's, East Marylebone, Covent Garden, City of Westminster, Greater London, England, W1J 9HS, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5101383,
+     "lng": -0.133936,
+     "name": "Piccadilly Circus",
+     "source": "nominatim",
+     "osm_id": "relation/8250949",
+     "wikidata": "Q215255",
+     "osm_class": "highway=pedestrian",
+     "locality": "City of Westminster",
+     "display": "Piccadilly Circus, St. James's, East Marylebone, Covent Garden, City of Westminster, Greater London, England, W1J 9HS, United Kingdom",
+     "names_all": [
+      "Piccadilly Circus"
+     ],
+     "importance": 0.5054134570004089,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::covent garden": {
+  "res": {
+   "ok": true,
+   "lat": 51.511736,
+   "lng": -0.122677,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Covent Garden",
+   "locality": "City of Westminster",
+   "osm_class": "place=suburb",
+   "wikidata": "Q55019",
+   "display": "Covent Garden, City of Westminster, Greater London, England, WC2E 8RF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5117363,
+     "lng": -0.1226769,
+     "name": "Covent Garden",
+     "source": "nominatim",
+     "osm_id": "node/2290086954",
+     "wikidata": "Q55019",
+     "osm_class": "place=suburb",
+     "locality": "City of Westminster",
+     "display": "Covent Garden, City of Westminster, Greater London, England, WC2E 8RF, United Kingdom",
+     "names_all": [
+      "Covent Garden"
+     ],
+     "importance": 0.5852773874711704,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::hampton court palace": {
+  "res": {
+   "ok": true,
+   "lat": 51.403684,
+   "lng": -0.337696,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.708,
+   "name": "Hampton Court Palace",
+   "locality": "Greater London",
+   "osm_class": "building=palace",
+   "wikidata": "Q205666",
+   "display": "Hampton Court Palace, Tennis Court Lane, Hampton Wick, London Borough of Richmond upon Thames, Greater London, England, KT8 9AU, United Kingdom",
+   "reason": "fuentes discrepan 19.1 km",
+   "alternatives": [
+    {
+     "lat": 51.4036839,
+     "lng": -0.3376964,
+     "name": "Hampton Court Palace",
+     "source": "nominatim",
+     "osm_id": "relation/21104",
+     "wikidata": "Q205666",
+     "osm_class": "building=palace",
+     "locality": "Greater London",
+     "display": "Hampton Court Palace, Tennis Court Lane, Hampton Wick, London Borough of Richmond upon Thames, Greater London, England, KT8 9AU, United Kingdom",
+     "names_all": [
+      "Hampton Court Palace"
+     ],
+     "importance": 0.5574277537897536,
+     "rank": 0
+    },
+    {
+     "lat": 51.491626,
+     "lng": -0.1005993,
+     "name": "Hampton Court Palace Hotel",
+     "source": "photon",
+     "osm_id": "W/253982452",
+     "wikidata": "",
+     "osm_class": "tourism=hotel",
+     "locality": "London",
+     "display": "Hampton Court Palace Hotel, London, United Kingdom",
+     "names_all": [
+      "Hampton Court Palace Hotel"
+     ],
+     "importance": 0.0,
+     "rank": 2
+    },
+    {
+     "lat": 51.4036839,
+     "lng": -0.3376964,
+     "name": "Hampton Court Palace",
+     "source": "nominatim",
+     "osm_id": "relation/21104",
+     "wikidata": "Q205666",
+     "osm_class": "building=palace",
+     "locality": "Greater London",
+     "display": "Hampton Court Palace, Tennis Court Lane, Hampton Wick, London Borough of Richmond upon Thames, Greater London, England, KT8 9AU, United Kingdom",
+     "names_all": [
+      "Hampton Court Palace"
+     ],
+     "importance": 0.5574277537897536,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::sky garden": {
+  "res": {
+   "ok": true,
+   "lat": 51.511096,
+   "lng": -0.083602,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.866,
+   "name": "Sky Garden",
+   "locality": "City of London",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "",
+   "display": "Sky Garden, 20, Fenchurch Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3M 3BY, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.511096,
+     "lng": -0.0836023,
+     "name": "Sky Garden",
+     "source": "nominatim",
+     "osm_id": "node/3272712570",
+     "wikidata": "",
+     "osm_class": "tourism=viewpoint",
+     "locality": "City of London",
+     "display": "Sky Garden, 20, Fenchurch Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3M 3BY, United Kingdom",
+     "names_all": [
+      "Sky Garden"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::the shard": {
+  "res": {
+   "ok": true,
+   "lat": 51.50451,
+   "lng": -0.086437,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.885,
+   "name": "View from the Shard",
+   "locality": "Greater London",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q17062261",
+   "display": "View from the Shard, 32, London Bridge Street, London Bridge Quarter, Bermondsey Village, The Borough, London Borough of Southwark, Greater London, England, SE1 9SG, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5045103,
+     "lng": -0.0864374,
+     "name": "View from the Shard",
+     "source": "nominatim",
+     "osm_id": "node/3060887211",
+     "wikidata": "Q17062261",
+     "osm_class": "tourism=attraction",
+     "locality": "Greater London",
+     "display": "View from the Shard, 32, London Bridge Street, London Bridge Quarter, Bermondsey Village, The Borough, London Borough of Southwark, Greater London, England, SE1 9SG, United Kingdom",
+     "names_all": [
+      "View from the Shard"
+     ],
+     "importance": 0.24632300460320036,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::london eye": {
+  "res": {
+   "ok": true,
+   "lat": 51.503342,
+   "lng": -0.119677,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.879,
+   "name": "London Eye",
+   "locality": "Greater London",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q160659",
+   "display": "London Eye, Westminster Bridge Road, South Bank, Lambeth, London Borough of Lambeth, Greater London, England, SE1 7PB, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5033416,
+     "lng": -0.1196765,
+     "name": "London Eye",
+     "source": "nominatim",
+     "osm_id": "way/204068874",
+     "wikidata": "Q160659",
+     "osm_class": "tourism=attraction",
+     "locality": "Greater London",
+     "display": "London Eye, Westminster Bridge Road, South Bank, Lambeth, London Borough of Lambeth, Greater London, England, SE1 7PB, United Kingdom",
+     "names_all": [
+      "London Eye"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::hyde park": {
+  "res": {
+   "ok": true,
+   "lat": 51.507489,
+   "lng": -0.162207,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.93,
+   "name": "Hyde Park",
+   "locality": "City of Westminster",
+   "osm_class": "leisure=park",
+   "wikidata": "Q123738",
+   "display": "Hyde Park, Knightsbridge, City of Westminster, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5074889,
+     "lng": -0.1622074,
+     "name": "Hyde Park",
+     "source": "nominatim",
+     "osm_id": "way/372975520",
+     "wikidata": "Q123738",
+     "osm_class": "leisure=park",
+     "locality": "City of Westminster",
+     "display": "Hyde Park, Knightsbridge, City of Westminster, Greater London, England, United Kingdom",
+     "names_all": [
+      "Hyde Park"
+     ],
+     "importance": 0.5871863729641426,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::kensington gardens": {
+  "res": {
+   "ok": true,
+   "lat": 51.506646,
+   "lng": -0.180389,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.918,
+   "name": "Kensington Gardens",
+   "locality": "City of Westminster",
+   "osm_class": "leisure=park",
+   "wikidata": "Q822607",
+   "display": "Kensington Gardens, Bayswater, City of Westminster, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5066463,
+     "lng": -0.1803888,
+     "name": "Kensington Gardens",
+     "source": "nominatim",
+     "osm_id": "way/3986346",
+     "wikidata": "Q822607",
+     "osm_class": "leisure=park",
+     "locality": "City of Westminster",
+     "display": "Kensington Gardens, Bayswater, City of Westminster, Greater London, England, United Kingdom",
+     "names_all": [
+      "Kensington Gardens"
+     ],
+     "importance": 0.5063107999048054,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::regents park": {
+  "res": {
+   "ok": true,
+   "lat": 51.530107,
+   "lng": -0.153769,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.923,
+   "name": "The Regent's Park",
+   "locality": "City of Westminster",
+   "osm_class": "leisure=park",
+   "wikidata": "Q739341",
+   "display": "The Regent's Park, Marylebone, City of Westminster, Greater London, England, NW1 4NR, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.530107,
+     "lng": -0.1537691,
+     "name": "The Regent's Park",
+     "source": "nominatim",
+     "osm_id": "relation/1384127",
+     "wikidata": "Q739341",
+     "osm_class": "leisure=park",
+     "locality": "City of Westminster",
+     "display": "The Regent's Park, Marylebone, City of Westminster, Greater London, England, NW1 4NR, United Kingdom",
+     "names_all": [
+      "The Regent's Park"
+     ],
+     "importance": 0.5411531846772446,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::st jamess park": {
+  "res": {
+   "ok": true,
+   "lat": 51.50313,
+   "lng": -0.133165,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.934,
+   "name": "St. James's Park",
+   "locality": "City of Westminster",
+   "osm_class": "leisure=park",
+   "wikidata": "Q216914",
+   "display": "St. James's Park, Victoria, City of Westminster, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5031295,
+     "lng": -0.133165,
+     "name": "St. James's Park",
+     "source": "nominatim",
+     "osm_id": "way/374960368",
+     "wikidata": "Q216914",
+     "osm_class": "leisure=park",
+     "locality": "City of Westminster",
+     "display": "St. James's Park, Victoria, City of Westminster, Greater London, England, United Kingdom",
+     "names_all": [
+      "St. James's Park"
+     ],
+     "importance": 0.5009200543152518,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::hampstead heath": {
+  "res": {
+   "ok": true,
+   "lat": 51.564149,
+   "lng": -0.167172,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.899,
+   "name": "Hampstead Heath",
+   "locality": "Greater London",
+   "osm_class": "leisure=park",
+   "wikidata": "Q1570958",
+   "display": "Hampstead Heath, Gospel Oak, London Borough of Camden, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5641487,
+     "lng": -0.1671721,
+     "name": "Hampstead Heath",
+     "source": "nominatim",
+     "osm_id": "way/664755005",
+     "wikidata": "Q1570958",
+     "osm_class": "leisure=park",
+     "locality": "Greater London",
+     "display": "Hampstead Heath, Gospel Oak, London Borough of Camden, Greater London, England, United Kingdom",
+     "names_all": [
+      "Hampstead Heath"
+     ],
+     "importance": 0.48683479237167826,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::primrose hill": {
+  "res": {
+   "ok": true,
+   "lat": 51.539048,
+   "lng": -0.162457,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.91,
+   "name": "Primrose Hill",
+   "locality": "Greater London",
+   "osm_class": "leisure=park",
+   "wikidata": "Q149942",
+   "display": "Primrose Hill, Chalk Farm, London Borough of Camden, Greater London, England, NW8 7LS, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.539048,
+     "lng": -0.1624569,
+     "name": "Primrose Hill",
+     "source": "nominatim",
+     "osm_id": "way/4082666",
+     "wikidata": "Q149942",
+     "osm_class": "leisure=park",
+     "locality": "Greater London",
+     "display": "Primrose Hill, Chalk Farm, London Borough of Camden, Greater London, England, NW8 7LS, United Kingdom",
+     "names_all": [
+      "Primrose Hill"
+     ],
+     "importance": 0.44297043555740573,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::greenwich park": {
+  "res": {
+   "ok": true,
+   "lat": 51.477235,
+   "lng": 0.000923,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.885,
+   "name": "Greenwich Park",
+   "locality": "Greater London",
+   "osm_class": "leisure=park",
+   "wikidata": "Q929586",
+   "display": "Greenwich Park, East Greenwich, Royal Borough of Greenwich, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4772355,
+     "lng": 0.0009227,
+     "name": "Greenwich Park",
+     "source": "nominatim",
+     "osm_id": "way/4483968",
+     "wikidata": "Q929586",
+     "osm_class": "leisure=park",
+     "locality": "Greater London",
+     "display": "Greenwich Park, East Greenwich, Royal Borough of Greenwich, Greater London, England, United Kingdom",
+     "names_all": [
+      "Greenwich Park"
+     ],
+     "importance": 0.504621755206816,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::richmond park": {
+  "res": {
+   "ok": true,
+   "lat": 51.438512,
+   "lng": -0.274735,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.868,
+   "name": "Richmond Park",
+   "locality": "Greater London",
+   "osm_class": "leisure=park",
+   "wikidata": "Q1142072",
+   "display": "Richmond Park, London Borough of Richmond upon Thames, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4385116,
+     "lng": -0.274735,
+     "name": "Richmond Park",
+     "source": "nominatim",
+     "osm_id": "way/51260440",
+     "wikidata": "Q1142072",
+     "osm_class": "leisure=park",
+     "locality": "Greater London",
+     "display": "Richmond Park, London Borough of Richmond upon Thames, Greater London, England, United Kingdom",
+     "names_all": [
+      "Richmond Park"
+     ],
+     "importance": 0.5053843047479154,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::victoria park": {
+  "res": {
+   "ok": true,
+   "lat": 51.538956,
+   "lng": -0.034064,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.875,
+   "name": "Victoria Park",
+   "locality": "Greater London",
+   "osm_class": "leisure=park",
+   "wikidata": "Q429540",
+   "display": "Victoria Park, Bethnal Green, London Borough of Tower Hamlets, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5389557,
+     "lng": -0.0340641,
+     "name": "Victoria Park",
+     "source": "nominatim",
+     "osm_id": "relation/11127855",
+     "wikidata": "Q429540",
+     "osm_class": "leisure=park",
+     "locality": "Greater London",
+     "display": "Victoria Park, Bethnal Green, London Borough of Tower Hamlets, Greater London, England, United Kingdom",
+     "names_all": [
+      "Victoria Park"
+     ],
+     "importance": 0.44714508551195986,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::victoria embankment gardens": {
+  "res": {
+   "ok": true,
+   "lat": 51.508643,
+   "lng": -0.121418,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.918,
+   "name": "Victoria Embankment Gardens",
+   "locality": "City of Westminster",
+   "osm_class": "leisure=park",
+   "wikidata": "Q7926695",
+   "display": "Victoria Embankment Gardens, Westminster, Covent Garden, City of Westminster, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5086429,
+     "lng": -0.1214183,
+     "name": "Victoria Embankment Gardens",
+     "source": "nominatim",
+     "osm_id": "way/4254099",
+     "wikidata": "Q7926695",
+     "osm_class": "leisure=park",
+     "locality": "City of Westminster",
+     "display": "Victoria Embankment Gardens, Westminster, Covent Garden, City of Westminster, Greater London, England, United Kingdom",
+     "names_all": [
+      "Victoria Embankment Gardens"
+     ],
+     "importance": 0.26922332516764147,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::borough market": {
+  "res": {
+   "ok": true,
+   "lat": 51.505581,
+   "lng": -0.090198,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.919,
+   "name": "Borough Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q894072",
+   "display": "Borough Market, Cathedral Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 9AL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5055815,
+     "lng": -0.0901984,
+     "name": "Borough Market",
+     "source": "nominatim",
+     "osm_id": "way/24282400",
+     "wikidata": "Q894072",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Borough Market, Cathedral Street, Borough Market, Bankside, The Borough, London Borough of Southwark, Greater London, England, SE1 9AL, United Kingdom",
+     "names_all": [
+      "Borough Market"
+     ],
+     "importance": 0.4454924665156093,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::portobello road market": {
+  "res": {
+   "ok": true,
+   "lat": 51.516086,
+   "lng": -0.205117,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.904,
+   "name": "Portobello Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q1813941",
+   "display": "Portobello Market, Portobello Road, Notting Hill, Royal Borough of Kensington and Chelsea, Greater London, England, W11 1LU, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5160858,
+     "lng": -0.2051174,
+     "name": "Portobello Market",
+     "source": "nominatim",
+     "osm_id": "node/3976263603",
+     "wikidata": "Q1813941",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Portobello Market, Portobello Road, Notting Hill, Royal Borough of Kensington and Chelsea, Greater London, England, W11 1LU, United Kingdom",
+     "names_all": [
+      "Portobello Market"
+     ],
+     "importance": 0.45080164155167013,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::brick lane market": {
+  "res": {
+   "ok": true,
+   "lat": 51.524274,
+   "lng": -0.071561,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.898,
+   "name": "Brick Lane Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q4965926",
+   "display": "Brick Lane Market, Brick Lane, Spitalfields, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 6SA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5242738,
+     "lng": -0.0715608,
+     "name": "Brick Lane Market",
+     "source": "nominatim",
+     "osm_id": "node/5039356626",
+     "wikidata": "Q4965926",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Brick Lane Market, Brick Lane, Spitalfields, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 6SA, United Kingdom",
+     "names_all": [
+      "Brick Lane Market"
+     ],
+     "importance": 0.2827546027204031,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::columbia road flower market": {
+  "res": {
+   "ok": true,
+   "lat": 51.529218,
+   "lng": -0.06962,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.898,
+   "name": "Columbia Road Flower Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q3683798",
+   "display": "Columbia Road Flower Market, Ezra Street, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E2 7RH, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5292185,
+     "lng": -0.0696196,
+     "name": "Columbia Road Flower Market",
+     "source": "nominatim",
+     "osm_id": "way/350349593",
+     "wikidata": "Q3683798",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Columbia Road Flower Market, Ezra Street, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E2 7RH, United Kingdom",
+     "names_all": [
+      "Columbia Road Flower Market"
+     ],
+     "importance": 0.31353539144981896,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::broadway market": {
+  "res": {
+   "ok": true,
+   "lat": 51.536808,
+   "lng": -0.061658,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.892,
+   "name": "Broadway Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q4972482",
+   "display": "Broadway Market, Jackman Street, Haggerston, London Borough of Hackney, Greater London, England, E8 4QX, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5368082,
+     "lng": -0.0616584,
+     "name": "Broadway Market",
+     "source": "nominatim",
+     "osm_id": "way/1426032700",
+     "wikidata": "Q4972482",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Broadway Market, Jackman Street, Haggerston, London Borough of Hackney, Greater London, England, E8 4QX, United Kingdom",
+     "names_all": [
+      "Broadway Market"
+     ],
+     "importance": 0.30723887866744215,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::camden market": {
+  "res": {
+   "ok": true,
+   "lat": 51.542378,
+   "lng": -0.147195,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.908,
+   "name": "Camden Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q1028420",
+   "display": "Camden Market, 56-56, Camden Lock Place, Maitland Park, Chalk Farm, London Borough of Camden, Greater London, England, NW1 8AF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5423781,
+     "lng": -0.1471949,
+     "name": "Camden Market",
+     "source": "nominatim",
+     "osm_id": "node/3608653828",
+     "wikidata": "Q1028420",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Camden Market, 56-56, Camden Lock Place, Maitland Park, Chalk Farm, London Borough of Camden, Greater London, England, NW1 8AF, United Kingdom",
+     "names_all": [
+      "Camden Market"
+     ],
+     "importance": 0.4151179119101859,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::old spitalfields market": {
+  "res": {
+   "ok": true,
+   "lat": 51.5196,
+   "lng": -0.075363,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.904,
+   "name": "Old Spitalfields Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q43470",
+   "display": "Old Spitalfields Market, Crispin Place, Spitalfields, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 6DW, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5196,
+     "lng": -0.075363,
+     "name": "Old Spitalfields Market",
+     "source": "nominatim",
+     "osm_id": "way/16306646",
+     "wikidata": "Q43470",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Old Spitalfields Market, Crispin Place, Spitalfields, Whitechapel, London Borough of Tower Hamlets, Greater London, England, E1 6DW, United Kingdom",
+     "names_all": [
+      "Old Spitalfields Market"
+     ],
+     "importance": 0.34188389141160974,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::leadenhall market": {
+  "res": {
+   "ok": true,
+   "lat": 51.512728,
+   "lng": -0.083395,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.913,
+   "name": "Leadenhall Market",
+   "locality": "City of London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "Q961148",
+   "display": "Leadenhall Market, Gracechurch Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3V 1LT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5127276,
+     "lng": -0.0833953,
+     "name": "Leadenhall Market",
+     "source": "nominatim",
+     "osm_id": "way/143113935",
+     "wikidata": "Q961148",
+     "osm_class": "amenity=marketplace",
+     "locality": "City of London",
+     "display": "Leadenhall Market, Gracechurch Street, Leadenhall Market, Monument, City of London, Greater London, England, EC3V 1LT, United Kingdom",
+     "names_all": [
+      "Leadenhall Market"
+     ],
+     "importance": 0.4076496563503252,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::maltby street market": {
+  "res": {
+   "ok": true,
+   "lat": 51.499258,
+   "lng": -0.075624,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.881,
+   "name": "Maltby Street Market",
+   "locality": "Greater London",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "",
+   "display": "Maltby Street Market, Ropewalk, St John's Estate, Bermondsey Village, Old Kent Road, London Borough of Southwark, Greater London, England, SE1 3FF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4992577,
+     "lng": -0.0756237,
+     "name": "Maltby Street Market",
+     "source": "nominatim",
+     "osm_id": "node/2825011782",
+     "wikidata": "",
+     "osm_class": "amenity=marketplace",
+     "locality": "Greater London",
+     "display": "Maltby Street Market, Ropewalk, St John's Estate, Bermondsey Village, Old Kent Road, London Borough of Southwark, Greater London, England, SE1 3FF, United Kingdom",
+     "names_all": [
+      "Maltby Street Market"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::shakespeares globe": {
+  "res": {
+   "ok": true,
+   "lat": 51.508121,
+   "lng": -0.097186,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.926,
+   "name": "Shakespeare's Globe",
+   "locality": "Greater London",
+   "osm_class": "amenity=theatre",
+   "wikidata": "Q7725501",
+   "display": "Shakespeare's Globe, 21, New Globe Walk, Borough Market, Bankside, Southwark, London Borough of Southwark, Greater London, England, SE1 9DT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5081214,
+     "lng": -0.0971864,
+     "name": "Shakespeare's Globe",
+     "source": "nominatim",
+     "osm_id": "relation/1239793",
+     "wikidata": "Q7725501",
+     "osm_class": "amenity=theatre",
+     "locality": "Greater London",
+     "display": "Shakespeare's Globe, 21, New Globe Walk, Borough Market, Bankside, Southwark, London Borough of Southwark, Greater London, England, SE1 9DT, United Kingdom",
+     "names_all": [
+      "Shakespeare's Globe"
+     ],
+     "importance": 0.5016341084548204,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::royal albert hall": {
+  "res": {
+   "ok": true,
+   "lat": 51.501007,
+   "lng": -0.177406,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.794,
+   "name": "Royal Albert Hall",
+   "locality": "City of Westminster",
+   "osm_class": "amenity=theatre",
+   "wikidata": "Q193639",
+   "display": "Royal Albert Hall, 4, Kensington Gore, Knightsbridge, City of Westminster, Greater London, England, SW7 2AP, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.501007,
+     "lng": -0.1774058,
+     "name": "Royal Albert Hall",
+     "source": "nominatim",
+     "osm_id": "way/372860405",
+     "wikidata": "Q193639",
+     "osm_class": "amenity=theatre",
+     "locality": "City of Westminster",
+     "display": "Royal Albert Hall, 4, Kensington Gore, Knightsbridge, City of Westminster, Greater London, England, SW7 2AP, United Kingdom",
+     "names_all": [
+      "Royal Albert Hall"
+     ],
+     "importance": 0.6150102705845941,
+     "rank": 0
+    },
+    {
+     "lat": 51.501007,
+     "lng": -0.1774058,
+     "name": "Royal Albert Hall",
+     "source": "photon",
+     "osm_id": "W/372860405",
+     "wikidata": "",
+     "osm_class": "amenity=theatre",
+     "locality": "London",
+     "display": "Royal Albert Hall, London, United Kingdom",
+     "names_all": [
+      "Royal Albert Hall"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 51.501007,
+     "lng": -0.1774058,
+     "name": "Royal Albert Hall",
+     "source": "nominatim",
+     "osm_id": "way/372860405",
+     "wikidata": "Q193639",
+     "osm_class": "amenity=theatre",
+     "locality": "City of Westminster",
+     "display": "Royal Albert Hall, 4, Kensington Gore, Knightsbridge, City of Westminster, Greater London, England, SW7 2AP, United Kingdom",
+     "names_all": [
+      "Royal Albert Hall"
+     ],
+     "importance": 0.6150102705845941,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::warner bros studio tour london": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "multi::londres::south bank": {
+  "res": {
+   "ok": true,
+   "lat": 51.506532,
+   "lng": -0.11342,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.928,
+   "name": "South Bank",
+   "locality": "Greater London",
+   "osm_class": "place=quarter",
+   "wikidata": "Q154322",
+   "display": "South Bank, Waterloo, London Borough of Lambeth, Greater London, England, SE1 9PZ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5065325,
+     "lng": -0.1134203,
+     "name": "South Bank",
+     "source": "nominatim",
+     "osm_id": "node/450524790",
+     "wikidata": "Q154322",
+     "osm_class": "place=quarter",
+     "locality": "Greater London",
+     "display": "South Bank, Waterloo, London Borough of Lambeth, Greater London, England, SE1 9PZ, United Kingdom",
+     "names_all": [
+      "South Bank"
+     ],
+     "importance": 0.4526540225690988,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::shoreditch": {
+  "res": {
+   "ok": true,
+   "lat": 51.526669,
+   "lng": -0.079893,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.916,
+   "name": "Shoreditch",
+   "locality": "Greater London",
+   "osm_class": "place=suburb",
+   "wikidata": "Q1027127",
+   "display": "Shoreditch, London Borough of Hackney, Greater London, England, EC2A 3AR, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5266694,
+     "lng": -0.0798926,
+     "name": "Shoreditch",
+     "source": "nominatim",
+     "osm_id": "node/27365029",
+     "wikidata": "Q1027127",
+     "osm_class": "place=suburb",
+     "locality": "Greater London",
+     "display": "Shoreditch, London Borough of Hackney, Greater London, England, EC2A 3AR, United Kingdom",
+     "names_all": [
+      "Shoreditch"
+     ],
+     "importance": 0.5035210480508371,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::notting hill": {
+  "res": {
+   "ok": true,
+   "lat": 51.510999,
+   "lng": -0.205527,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.909,
+   "name": "Notting Hill",
+   "locality": "Greater London",
+   "osm_class": "place=suburb",
+   "wikidata": "Q215354",
+   "display": "Notting Hill, Royal Borough of Kensington and Chelsea, Greater London, England, W11 2PA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5109995,
+     "lng": -0.2055267,
+     "name": "Notting Hill",
+     "source": "nominatim",
+     "osm_id": "node/2268352172",
+     "wikidata": "Q215354",
+     "osm_class": "place=suburb",
+     "locality": "Greater London",
+     "display": "Notting Hill, Royal Borough of Kensington and Chelsea, Greater London, England, W11 2PA, United Kingdom",
+     "names_all": [
+      "Notting Hill"
+     ],
+     "importance": 0.5264253029554175,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::soho": {
+  "res": {
+   "ok": true,
+   "lat": 51.514065,
+   "lng": -0.135049,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.936,
+   "name": "Soho",
+   "locality": "City of Westminster",
+   "osm_class": "place=suburb",
+   "wikidata": "Q124010",
+   "display": "Soho, City of Westminster, Greater London, England, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5140654,
+     "lng": -0.1350494,
+     "name": "Soho",
+     "source": "nominatim",
+     "osm_id": "relation/17710512",
+     "wikidata": "Q124010",
+     "osm_class": "place=suburb",
+     "locality": "City of Westminster",
+     "display": "Soho, City of Westminster, Greater London, England, United Kingdom",
+     "names_all": [
+      "Soho"
+     ],
+     "importance": 0.5575198920300576,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::kensington": {
+  "res": {
+   "ok": true,
+   "lat": 51.498995,
+   "lng": -0.199123,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.916,
+   "name": "Kensington",
+   "locality": "Greater London",
+   "osm_class": "place=suburb",
+   "wikidata": "Q288781",
+   "display": "Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 6NB, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4989948,
+     "lng": -0.1991229,
+     "name": "Kensington",
+     "source": "nominatim",
+     "osm_id": "node/27467182",
+     "wikidata": "Q288781",
+     "osm_class": "place=suburb",
+     "locality": "Greater London",
+     "display": "Kensington, Royal Borough of Kensington and Chelsea, Greater London, England, W8 6NB, United Kingdom",
+     "names_all": [
+      "Kensington"
+     ],
+     "importance": 0.5831423032167886,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::marylebone": {
+  "res": {
+   "ok": true,
+   "lat": 51.519637,
+   "lng": -0.151963,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.929,
+   "name": "Marylebone",
+   "locality": "City of Westminster",
+   "osm_class": "place=suburb",
+   "wikidata": "Q123634",
+   "display": "Marylebone, City of Westminster, Greater London, England, W1U 4RQ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5196374,
+     "lng": -0.1519627,
+     "name": "Marylebone",
+     "source": "nominatim",
+     "osm_id": "node/27467066",
+     "wikidata": "Q123634",
+     "osm_class": "place=suburb",
+     "locality": "City of Westminster",
+     "display": "Marylebone, City of Westminster, Greater London, England, W1U 4RQ, United Kingdom",
+     "names_all": [
+      "Marylebone"
+     ],
+     "importance": 0.5552175147524978,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::greenwich": {
+  "res": {
+   "ok": true,
+   "lat": 51.482084,
+   "lng": -0.004542,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.829,
+   "name": "Greenwich",
+   "locality": "Greater London",
+   "osm_class": "place=town",
+   "wikidata": "Q179385",
+   "display": "Greenwich, Greater London, England, SE10 9HF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.4820845,
+     "lng": -0.0045417,
+     "name": "Greenwich",
+     "source": "nominatim",
+     "osm_id": "node/27365302",
+     "wikidata": "Q179385",
+     "osm_class": "place=town",
+     "locality": "Greater London",
+     "display": "Greenwich, Greater London, England, SE10 9HF, United Kingdom",
+     "names_all": [
+      "Greenwich"
+     ],
+     "importance": 0.5952484607559199,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::camden town": {
+  "res": {
+   "ok": true,
+   "lat": 51.539253,
+   "lng": -0.142757,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.853,
+   "name": "Camden Town",
+   "locality": "Greater London",
+   "osm_class": "place=town",
+   "wikidata": "Q149836",
+   "display": "Camden Town, Greater London, England, NW1 8QL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5392533,
+     "lng": -0.142757,
+     "name": "Camden Town",
+     "source": "nominatim",
+     "osm_id": "node/399607277",
+     "wikidata": "Q149836",
+     "osm_class": "place=town",
+     "locality": "Greater London",
+     "display": "Camden Town, Greater London, England, NW1 8QL, United Kingdom",
+     "names_all": [
+      "Camden Town"
+     ],
+     "importance": 0.5296840054907104,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::angel": {
+  "res": {
+   "ok": true,
+   "lat": 51.533195,
+   "lng": -0.106114,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.897,
+   "name": "Angel",
+   "locality": "Greater London",
+   "osm_class": "place=quarter",
+   "wikidata": "Q122527",
+   "display": "Angel, Islington, London Borough of Islington, Greater London, England, N1 8EQ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5331955,
+     "lng": -0.1061141,
+     "name": "Angel",
+     "source": "nominatim",
+     "osm_id": "node/4001592822",
+     "wikidata": "Q122527",
+     "osm_class": "place=quarter",
+     "locality": "Greater London",
+     "display": "Angel, Islington, London Borough of Islington, Greater London, England, N1 8EQ, United Kingdom",
+     "names_all": [
+      "Angel"
+     ],
+     "importance": 0.43843044507974105,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::highgate cemetery": {
+  "res": {
+   "ok": true,
+   "lat": 51.567776,
+   "lng": -0.148594,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.901,
+   "name": "Highgate Cemetery",
+   "locality": "Greater London",
+   "osm_class": "landuse=cemetery",
+   "wikidata": "Q533697",
+   "display": "Highgate Cemetery, Highgate, London Borough of Camden, Greater London, England, N6 6PJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 51.5677764,
+     "lng": -0.1485936,
+     "name": "Highgate Cemetery",
+     "source": "nominatim",
+     "osm_id": "relation/1612806",
+     "wikidata": "Q533697",
+     "osm_class": "landuse=cemetery",
+     "locality": "Greater London",
+     "display": "Highgate Cemetery, Highgate, London Borough of Camden, Greater London, England, N6 6PJ, United Kingdom",
+     "names_all": [
+      "Highgate Cemetery"
+     ],
+     "importance": 0.5266153449418455,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::kings cross station": {
+  "res": {
+   "ok": true,
+   "lat": 51.530456,
+   "lng": -0.123259,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.755,
+   "name": "King's Cross Station",
+   "locality": "Greater London",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "King's Cross Station, Euston Road, King's Cross, London Borough of Camden, Greater London, England, N1C 4DE, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.531878,
+     "lng": -0.1225374,
+     "name": "King's Cross Station",
+     "source": "nominatim",
+     "osm_id": "node/4565754130",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Greater London",
+     "display": "King's Cross Station, York Way, Barnsbury, London Borough of Islington, Greater London, England, N1 9AB, United Kingdom",
+     "names_all": [
+      "King's Cross Station"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 0
+    },
+    {
+     "lat": 51.5304561,
+     "lng": -0.1232594,
+     "name": "King's Cross Station",
+     "source": "nominatim",
+     "osm_id": "node/317316873",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Greater London",
+     "display": "King's Cross Station, Euston Road, King's Cross, London Borough of Camden, Greater London, England, N1C 4DE, United Kingdom",
+     "names_all": [
+      "King's Cross Station"
+     ],
+     "importance": 9.307927061870783e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::londres::cecil court": {
+  "res": {
+   "ok": true,
+   "lat": 51.510727,
+   "lng": -0.127657,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.782,
+   "name": "Cecil Court",
+   "locality": "City of Westminster",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "Q5056027",
+   "display": "Cecil Court, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2N 4EZ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 51.5107273,
+     "lng": -0.1276572,
+     "name": "Cecil Court",
+     "source": "nominatim",
+     "osm_id": "way/4361223",
+     "wikidata": "Q5056027",
+     "osm_class": "highway=pedestrian",
+     "locality": "City of Westminster",
+     "display": "Cecil Court, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2N 4EZ, United Kingdom",
+     "names_all": [
+      "Cecil Court"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    },
+    {
+     "lat": 51.5107273,
+     "lng": -0.1276572,
+     "name": "Cecil Court",
+     "source": "photon",
+     "osm_id": "W/4361223",
+     "wikidata": "",
+     "osm_class": "highway=pedestrian",
+     "locality": "London",
+     "display": "Cecil Court, London, United Kingdom",
+     "names_all": [
+      "Cecil Court"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 51.5107273,
+     "lng": -0.1276572,
+     "name": "Cecil Court",
+     "source": "nominatim",
+     "osm_id": "way/4361223",
+     "wikidata": "Q5056027",
+     "osm_class": "highway=pedestrian",
+     "locality": "City of Westminster",
+     "display": "Cecil Court, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2N 4EZ, United Kingdom",
+     "names_all": [
+      "Cecil Court"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "londres"
+ },
+ "multi::york::york minster": {
+  "res": {
+   "ok": true,
+   "lat": 53.962356,
+   "lng": -1.082083,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.935,
+   "name": "York Minster",
+   "locality": "York",
+   "osm_class": "amenity=place_of_worship",
+   "wikidata": "Q252575",
+   "display": "York Minster, Minster Yard, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7HH, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9623561,
+     "lng": -1.0820834,
+     "name": "York Minster",
+     "source": "nominatim",
+     "osm_id": "way/28750371",
+     "wikidata": "Q252575",
+     "osm_class": "amenity=place_of_worship",
+     "locality": "York",
+     "display": "York Minster, Minster Yard, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7HH, United Kingdom",
+     "names_all": [
+      "York Minster"
+     ],
+     "importance": 0.5231517204284291,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::national railway museum": {
+  "res": {
+   "ok": true,
+   "lat": 53.960496,
+   "lng": -1.09611,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.925,
+   "name": "National Railway Museum",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q579958",
+   "display": "National Railway Museum, Leeman Road, Clifton, York, York and North Yorkshire, England, YO26 4XJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9604958,
+     "lng": -1.0961102,
+     "name": "National Railway Museum",
+     "source": "nominatim",
+     "osm_id": "relation/14999691",
+     "wikidata": "Q579958",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "National Railway Museum, Leeman Road, Clifton, York, York and North Yorkshire, England, YO26 4XJ, United Kingdom",
+     "names_all": [
+      "National Railway Museum"
+     ],
+     "importance": 0.46482226534735804,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::jorvik viking centre": {
+  "res": {
+   "ok": true,
+   "lat": 53.957393,
+   "lng": -1.080294,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.92,
+   "name": "Jorvik Viking Centre",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q1704043",
+   "display": "Jorvik Viking Centre, Coppergate, Bishophill, York, York and North Yorkshire, England, YO1 9WT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9573926,
+     "lng": -1.0802935,
+     "name": "Jorvik Viking Centre",
+     "source": "nominatim",
+     "osm_id": "node/316106165",
+     "wikidata": "Q1704043",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Jorvik Viking Centre, Coppergate, Bishophill, York, York and North Yorkshire, England, YO1 9WT, United Kingdom",
+     "names_all": [
+      "Jorvik Viking Centre"
+     ],
+     "importance": 0.2861574737770128,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::york castle museum": {
+  "res": {
+   "ok": true,
+   "lat": 53.955221,
+   "lng": -1.078129,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.916,
+   "name": "York Castle Museum",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2024016",
+   "display": "York Castle Museum, Tower Street, Clementhorpe, Fishergate, York, York and North Yorkshire, England, YO1 9RY, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9552209,
+     "lng": -1.0781286,
+     "name": "York Castle Museum",
+     "source": "nominatim",
+     "osm_id": "way/1125235305",
+     "wikidata": "Q2024016",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "York Castle Museum, Tower Street, Clementhorpe, Fishergate, York, York and North Yorkshire, England, YO1 9RY, United Kingdom",
+     "names_all": [
+      "York Castle Museum"
+     ],
+     "importance": 0.27236747457604304,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::yorkshire museum": {
+  "res": {
+   "ok": true,
+   "lat": 53.961809,
+   "lng": -1.087571,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.923,
+   "name": "Yorkshire Museum",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2086562",
+   "display": "Yorkshire Museum, Museum Street, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7DR, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9618088,
+     "lng": -1.0875706,
+     "name": "Yorkshire Museum",
+     "source": "nominatim",
+     "osm_id": "node/13063082814",
+     "wikidata": "Q2086562",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Yorkshire Museum, Museum Street, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7DR, United Kingdom",
+     "names_all": [
+      "Yorkshire Museum"
+     ],
+     "importance": 0.3737616996631093,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::barley hall": {
+  "res": {
+   "ok": true,
+   "lat": 53.96091,
+   "lng": -1.082595,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.912,
+   "name": "Barley Hall",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q4861158",
+   "display": "Barley Hall, Coffee Yard, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 8AR, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.96091,
+     "lng": -1.0825952,
+     "name": "Barley Hall",
+     "source": "nominatim",
+     "osm_id": "node/457713424",
+     "wikidata": "Q4861158",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Barley Hall, Coffee Yard, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 8AR, United Kingdom",
+     "names_all": [
+      "Barley Hall"
+     ],
+     "importance": 0.1773516541617975,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::yorks chocolate story": {
+  "res": {
+   "ok": true,
+   "lat": 53.960003,
+   "lng": -1.080388,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.908,
+   "name": "York's Chocolate Story",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q41235388",
+   "display": "York's Chocolate Story, Kings Square, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7LD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9600027,
+     "lng": -1.0803882,
+     "name": "York's Chocolate Story",
+     "source": "nominatim",
+     "osm_id": "node/4792387396",
+     "wikidata": "Q41235388",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "York's Chocolate Story, Kings Square, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7LD, United Kingdom",
+     "names_all": [
+      "York's Chocolate Story"
+     ],
+     "importance": 0.11734328469919902,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::the shambles": {
+  "res": {
+   "ok": true,
+   "lat": 53.959299,
+   "lng": -1.080033,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.791,
+   "name": "Shambles",
+   "locality": "York",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "Q7763628",
+   "display": "Shambles, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7LX, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9592985,
+     "lng": -1.0800328,
+     "name": "Shambles",
+     "source": "nominatim",
+     "osm_id": "way/23693559",
+     "wikidata": "Q7763628",
+     "osm_class": "highway=pedestrian",
+     "locality": "York",
+     "display": "Shambles, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7LX, United Kingdom",
+     "names_all": [
+      "Shambles"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    },
+    {
+     "lat": 53.9592985,
+     "lng": -1.0800328,
+     "name": "Shambles",
+     "source": "nominatim",
+     "osm_id": "way/23693559",
+     "wikidata": "Q7763628",
+     "osm_class": "highway=pedestrian",
+     "locality": "York",
+     "display": "Shambles, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 7LX, United Kingdom",
+     "names_all": [
+      "Shambles"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::cliffords tower": {
+  "res": {
+   "ok": true,
+   "lat": 53.955829,
+   "lng": -1.08018,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.793,
+   "name": "Clifford's Tower",
+   "locality": "York",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q80637",
+   "display": "Clifford's Tower, Tower Street, Clementhorpe, Bishophill, York, York and North Yorkshire, England, YO1 9SA, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9558294,
+     "lng": -1.0801796,
+     "name": "Clifford's Tower",
+     "source": "nominatim",
+     "osm_id": "relation/2755833",
+     "wikidata": "Q80637",
+     "osm_class": "tourism=attraction",
+     "locality": "York",
+     "display": "Clifford's Tower, Tower Street, Clementhorpe, Bishophill, York, York and North Yorkshire, England, YO1 9SA, United Kingdom",
+     "names_all": [
+      "Clifford's Tower"
+     ],
+     "importance": 0.3897107592752421,
+     "rank": 0
+    },
+    {
+     "lat": 53.9558294,
+     "lng": -1.0801796,
+     "name": "Clifford's Tower",
+     "source": "photon",
+     "osm_id": "R/2755833",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "York",
+     "display": "Clifford's Tower, York, United Kingdom",
+     "names_all": [
+      "Clifford's Tower"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 53.9558294,
+     "lng": -1.0801796,
+     "name": "Clifford's Tower",
+     "source": "nominatim",
+     "osm_id": "relation/2755833",
+     "wikidata": "Q80637",
+     "osm_class": "tourism=attraction",
+     "locality": "York",
+     "display": "Clifford's Tower, Tower Street, Clementhorpe, Bishophill, York, York and North Yorkshire, England, YO1 9SA, United Kingdom",
+     "names_all": [
+      "Clifford's Tower"
+     ],
+     "importance": 0.3897107592752421,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::merchant adventurers hall": {
+  "res": {
+   "ok": true,
+   "lat": 53.9579,
+   "lng": -1.07882,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.783,
+   "name": "Merchant Adventurers' Hall",
+   "locality": "York",
+   "osm_class": "building=historic",
+   "wikidata": "Q6818359",
+   "display": "Merchant Adventurers' Hall, Fossgate, Fishergate, York, York and North Yorkshire, England, YO1 9XD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9578998,
+     "lng": -1.0788198,
+     "name": "Merchant Adventurers' Hall",
+     "source": "nominatim",
+     "osm_id": "way/138371703",
+     "wikidata": "Q6818359",
+     "osm_class": "historic=building",
+     "locality": "York",
+     "display": "Merchant Adventurers' Hall, Fossgate, Fishergate, York, York and North Yorkshire, England, YO1 9XD, United Kingdom",
+     "names_all": [
+      "Merchant Adventurers' Hall"
+     ],
+     "importance": 0.22898814784265079,
+     "rank": 0
+    },
+    {
+     "lat": 53.9578998,
+     "lng": -1.0788198,
+     "name": "Merchant Adventurers' Hall",
+     "source": "photon",
+     "osm_id": "W/138371703",
+     "wikidata": "",
+     "osm_class": "building=historic",
+     "locality": "York",
+     "display": "Merchant Adventurers' Hall, York, United Kingdom",
+     "names_all": [
+      "Merchant Adventurers' Hall"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 53.9578998,
+     "lng": -1.0788198,
+     "name": "Merchant Adventurers' Hall",
+     "source": "nominatim",
+     "osm_id": "way/138371703",
+     "wikidata": "Q6818359",
+     "osm_class": "building=historic",
+     "locality": "York",
+     "display": "Merchant Adventurers' Hall, Fossgate, Fishergate, York, York and North Yorkshire, England, YO1 9XD, United Kingdom",
+     "names_all": [
+      "Merchant Adventurers' Hall"
+     ],
+     "importance": 0.22898814784265079,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::micklegate bar": {
+  "res": {
+   "ok": true,
+   "lat": 53.955852,
+   "lng": -1.090889,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.771,
+   "name": "Micklegate Bar Museum",
+   "locality": "York",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q28232884",
+   "display": "Micklegate Bar Museum, Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6JX, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9558521,
+     "lng": -1.090889,
+     "name": "Micklegate Bar Museum",
+     "source": "nominatim",
+     "osm_id": "node/1843446913",
+     "wikidata": "Q28232884",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Micklegate Bar Museum, Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6JX, United Kingdom",
+     "names_all": [
+      "Micklegate Bar Museum"
+     ],
+     "importance": 0.12743869505990896,
+     "rank": 0
+    },
+    {
+     "lat": 53.9558521,
+     "lng": -1.090889,
+     "name": "Micklegate Bar Museum",
+     "source": "photon",
+     "osm_id": "N/1843446913",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Micklegate Bar Museum, York, United Kingdom",
+     "names_all": [
+      "Micklegate Bar Museum"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 53.9558521,
+     "lng": -1.090889,
+     "name": "Micklegate Bar Museum",
+     "source": "nominatim",
+     "osm_id": "node/1843446913",
+     "wikidata": "Q28232884",
+     "osm_class": "tourism=museum",
+     "locality": "York",
+     "display": "Micklegate Bar Museum, Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6JX, United Kingdom",
+     "names_all": [
+      "Micklegate Bar Museum"
+     ],
+     "importance": 0.12743869505990896,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::rowntree park": {
+  "res": {
+   "ok": true,
+   "lat": 53.948184,
+   "lng": -1.081908,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.903,
+   "name": "Rowntree Park",
+   "locality": "York",
+   "osm_class": "leisure=park",
+   "wikidata": "Q7372266",
+   "display": "Rowntree Park, Fishergate, York, York and North Yorkshire, England, YO23 1JU, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 53.9481842,
+     "lng": -1.0819083,
+     "name": "Rowntree Park",
+     "source": "nominatim",
+     "osm_id": "way/26260331",
+     "wikidata": "Q7372266",
+     "osm_class": "leisure=park",
+     "locality": "York",
+     "display": "Rowntree Park, Fishergate, York, York and North Yorkshire, England, YO23 1JU, United Kingdom",
+     "names_all": [
+      "Rowntree Park"
+     ],
+     "importance": 0.19283288150311992,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::fossgate": {
+  "res": {
+   "ok": true,
+   "lat": 53.958295,
+   "lng": -1.079282,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.727,
+   "name": "Fossgate",
+   "locality": "York",
+   "osm_class": "building=industrial",
+   "wikidata": "",
+   "display": "Fossgate, Lady Pecketts Yard, Bishophill, York, York and North Yorkshire, England, YO1 9US, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9582945,
+     "lng": -1.0792818,
+     "name": "Fossgate",
+     "source": "nominatim",
+     "osm_id": "way/596568312",
+     "wikidata": "",
+     "osm_class": "building=industrial",
+     "locality": "York",
+     "display": "Fossgate, Lady Pecketts Yard, Bishophill, York, York and North Yorkshire, England, YO1 9US, United Kingdom",
+     "names_all": [
+      "Fossgate"
+     ],
+     "importance": 7.103303578236083e-05,
+     "rank": 1
+    },
+    {
+     "lat": 53.9582945,
+     "lng": -1.0792818,
+     "name": "Fossgate",
+     "source": "nominatim",
+     "osm_id": "way/596568312",
+     "wikidata": "",
+     "osm_class": "building=industrial",
+     "locality": "York",
+     "display": "Fossgate, Lady Pecketts Yard, Bishophill, York, York and North Yorkshire, England, YO1 9US, United Kingdom",
+     "names_all": [
+      "Fossgate"
+     ],
+     "importance": 7.103303578236083e-05,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::york::micklegate": {
+  "res": {
+   "ok": true,
+   "lat": 53.956384,
+   "lng": -1.0902,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.762,
+   "name": "Micklegate",
+   "locality": "York",
+   "osm_class": "highway=tertiary",
+   "wikidata": "Q6838858",
+   "display": "Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6LB, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 53.9563838,
+     "lng": -1.0902004,
+     "name": "Micklegate",
+     "source": "nominatim",
+     "osm_id": "way/173550440",
+     "wikidata": "Q6838858",
+     "osm_class": "highway=tertiary",
+     "locality": "York",
+     "display": "Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6LB, United Kingdom",
+     "names_all": [
+      "Micklegate"
+     ],
+     "importance": 0.3035308770567123,
+     "rank": 0
+    },
+    {
+     "lat": 53.9563838,
+     "lng": -1.0902004,
+     "name": "Micklegate",
+     "source": "nominatim",
+     "osm_id": "way/173550440",
+     "wikidata": "Q6838858",
+     "osm_class": "highway=tertiary",
+     "locality": "York",
+     "display": "Micklegate, Scarcroft, Bishophill, York, York and North Yorkshire, England, YO1 6LB, United Kingdom",
+     "names_all": [
+      "Micklegate"
+     ],
+     "importance": 0.3035308770567123,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "york"
+ },
+ "multi::edimburgo::edinburgh castle": {
+  "res": {
+   "ok": true,
+   "lat": 55.948688,
+   "lng": -3.200418,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.8,
+   "name": "Edinburgh Castle",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q212065",
+   "display": "Edinburgh Castle, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NG, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9486884,
+     "lng": -3.2004184,
+     "name": "Edinburgh Castle",
+     "source": "nominatim",
+     "osm_id": "way/4301292",
+     "wikidata": "Q212065",
+     "osm_class": "historic=castle",
+     "locality": "City of Edinburgh",
+     "display": "Edinburgh Castle, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NG, United Kingdom",
+     "names_all": [
+      "Edinburgh Castle"
+     ],
+     "importance": 0.5291587855603935,
+     "rank": 0
+    },
+    {
+     "lat": 55.9486884,
+     "lng": -3.2004184,
+     "name": "Edinburgh Castle",
+     "source": "nominatim",
+     "osm_id": "way/4301292",
+     "wikidata": "Q212065",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "Edinburgh Castle, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NG, United Kingdom",
+     "names_all": [
+      "Edinburgh Castle"
+     ],
+     "importance": 0.5291587855603935,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::palace of holyroodhouse": {
+  "res": {
+   "ok": true,
+   "lat": 55.952695,
+   "lng": -3.171613,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.798,
+   "name": "Palace of Holyroodhouse",
+   "locality": "City of Edinburgh",
+   "osm_class": "historic=castle",
+   "wikidata": "Q505950",
+   "display": "Palace of Holyroodhouse, Canongate, Holyrood, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DX, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9526948,
+     "lng": -3.171613,
+     "name": "Palace of Holyroodhouse",
+     "source": "nominatim",
+     "osm_id": "relation/16769442",
+     "wikidata": "Q505950",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "Palace of Holyroodhouse, Canongate, Holyrood, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DX, United Kingdom",
+     "names_all": [
+      "Palace of Holyroodhouse"
+     ],
+     "importance": 0.5122173217277122,
+     "rank": 0
+    },
+    {
+     "lat": 55.9526948,
+     "lng": -3.171613,
+     "name": "Palace of Holyroodhouse",
+     "source": "photon",
+     "osm_id": "R/16769442",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "Edinburgh",
+     "display": "Palace of Holyroodhouse, Edinburgh, United Kingdom",
+     "names_all": [
+      "Palace of Holyroodhouse"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9526948,
+     "lng": -3.171613,
+     "name": "Palace of Holyroodhouse",
+     "source": "nominatim",
+     "osm_id": "relation/16769442",
+     "wikidata": "Q505950",
+     "osm_class": "historic=castle",
+     "locality": "City of Edinburgh",
+     "display": "Palace of Holyroodhouse, Canongate, Holyrood, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DX, United Kingdom",
+     "names_all": [
+      "Palace of Holyroodhouse"
+     ],
+     "importance": 0.5122173217277122,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::holyrood abbey": {
+  "res": {
+   "ok": true,
+   "lat": 55.953151,
+   "lng": -3.171648,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.792,
+   "name": "Holyrood Abbey",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q966862",
+   "display": "Holyrood Abbey, Croft-an-Righ, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8HS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9531511,
+     "lng": -3.1716483,
+     "name": "Holyrood Abbey",
+     "source": "nominatim",
+     "osm_id": "way/41893742",
+     "wikidata": "Q966862",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "Holyrood Abbey, Croft-an-Righ, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8HS, United Kingdom",
+     "names_all": [
+      "Holyrood Abbey"
+     ],
+     "importance": 0.4368720495090153,
+     "rank": 0
+    },
+    {
+     "lat": 55.9531511,
+     "lng": -3.1716483,
+     "name": "Holyrood Abbey",
+     "source": "photon",
+     "osm_id": "W/41893742",
+     "wikidata": "",
+     "osm_class": "building=church",
+     "locality": "Edinburgh",
+     "display": "Holyrood Abbey, Edinburgh, United Kingdom",
+     "names_all": [
+      "Holyrood Abbey"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9531511,
+     "lng": -3.1716483,
+     "name": "Holyrood Abbey",
+     "source": "nominatim",
+     "osm_id": "way/41893742",
+     "wikidata": "Q966862",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "Holyrood Abbey, Croft-an-Righ, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 8HS, United Kingdom",
+     "names_all": [
+      "Holyrood Abbey"
+     ],
+     "importance": 0.4368720495090153,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::scottish parliament": {
+  "res": {
+   "ok": true,
+   "lat": 55.952469,
+   "lng": -3.175663,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.763,
+   "name": "Scottish Parliament",
+   "locality": "City of Edinburgh",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "Scottish Parliament, Canongate, Holyrood, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9524685,
+     "lng": -3.1756629,
+     "name": "Scottish Parliament",
+     "source": "nominatim",
+     "osm_id": "node/502531955",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "City of Edinburgh",
+     "display": "Scottish Parliament, Canongate, Holyrood, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DD, United Kingdom",
+     "names_all": [
+      "Scottish Parliament"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    },
+    {
+     "lat": 55.9521941,
+     "lng": -3.176406,
+     "name": "Scottish Parliament",
+     "source": "photon",
+     "osm_id": "N/502533332",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Edinburgh",
+     "display": "Scottish Parliament, Edinburgh, United Kingdom",
+     "names_all": [
+      "Scottish Parliament"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9524685,
+     "lng": -3.1756629,
+     "name": "Scottish Parliament",
+     "source": "nominatim",
+     "osm_id": "node/502531955",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "City of Edinburgh",
+     "display": "Scottish Parliament, Canongate, Holyrood, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DD, United Kingdom",
+     "names_all": [
+      "Scottish Parliament"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::greyfriars kirkyard": {
+  "res": {
+   "ok": true,
+   "lat": 55.946828,
+   "lng": -3.192895,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.924,
+   "name": "Greyfriars Kirkyard",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=grave_yard",
+   "wikidata": "Q2876448",
+   "display": "Greyfriars Kirkyard, Candlemaker Row, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2QB, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9468282,
+     "lng": -3.1928949,
+     "name": "Greyfriars Kirkyard",
+     "source": "nominatim",
+     "osm_id": "relation/298677",
+     "wikidata": "Q2876448",
+     "osm_class": "amenity=grave_yard",
+     "locality": "City of Edinburgh",
+     "display": "Greyfriars Kirkyard, Candlemaker Row, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2QB, United Kingdom",
+     "names_all": [
+      "Greyfriars Kirkyard"
+     ],
+     "importance": 0.4048680426709322,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::scott monument": {
+  "res": {
+   "ok": true,
+   "lat": 55.95236,
+   "lng": -3.193256,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.795,
+   "name": "Scott Monument",
+   "locality": "City of Edinburgh",
+   "osm_class": "man_made=tower",
+   "wikidata": "Q2502213",
+   "display": "Scott Monument, Princes Street, The Mound, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2DQ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9523603,
+     "lng": -3.1932563,
+     "name": "Scott Monument",
+     "source": "nominatim",
+     "osm_id": "way/39044819",
+     "wikidata": "Q2502213",
+     "osm_class": "man_made=tower",
+     "locality": "City of Edinburgh",
+     "display": "Scott Monument, Princes Street, The Mound, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2DQ, United Kingdom",
+     "names_all": [
+      "Scott Monument"
+     ],
+     "importance": 0.39416088441914005,
+     "rank": 0
+    },
+    {
+     "lat": 55.9523603,
+     "lng": -3.1932563,
+     "name": "Scott Monument",
+     "source": "photon",
+     "osm_id": "W/39044819",
+     "wikidata": "",
+     "osm_class": "man_made=tower",
+     "locality": "Edinburgh",
+     "display": "Scott Monument, Edinburgh, United Kingdom",
+     "names_all": [
+      "Scott Monument"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9523603,
+     "lng": -3.1932563,
+     "name": "Scott Monument",
+     "source": "nominatim",
+     "osm_id": "way/39044819",
+     "wikidata": "Q2502213",
+     "osm_class": "man_made=tower",
+     "locality": "City of Edinburgh",
+     "display": "Scott Monument, Princes Street, The Mound, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2DQ, United Kingdom",
+     "names_all": [
+      "Scott Monument"
+     ],
+     "importance": 0.39416088441914005,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::calton hill": {
+  "res": {
+   "ok": true,
+   "lat": 55.955557,
+   "lng": -3.182256,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.911,
+   "name": "Calton Hill",
+   "locality": "City of Edinburgh",
+   "osm_class": "natural=peak",
+   "wikidata": "Q1199959",
+   "display": "Calton Hill, City of Edinburgh, Alba / Scotland, EH7 5AA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9555565,
+     "lng": -3.1822564,
+     "name": "Calton Hill",
+     "source": "nominatim",
+     "osm_id": "node/1149620440",
+     "wikidata": "Q1199959",
+     "osm_class": "natural=peak",
+     "locality": "City of Edinburgh",
+     "display": "Calton Hill, City of Edinburgh, Alba / Scotland, EH7 5AA, United Kingdom",
+     "names_all": [
+      "Calton Hill"
+     ],
+     "importance": 0.44205659932355756,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::gladstones land": {
+  "res": {
+   "ok": true,
+   "lat": 55.949445,
+   "lng": -3.193699,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.791,
+   "name": "Gladstone's Land",
+   "locality": "City of Edinburgh",
+   "osm_class": "building=yes",
+   "wikidata": "Q5566312",
+   "display": "Gladstone's Land, East Entry, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2PA, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9494448,
+     "lng": -3.1936988,
+     "name": "Gladstone's Land",
+     "source": "nominatim",
+     "osm_id": "way/43367244",
+     "wikidata": "Q5566312",
+     "osm_class": "building=yes",
+     "locality": "City of Edinburgh",
+     "display": "Gladstone's Land, East Entry, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2PA, United Kingdom",
+     "names_all": [
+      "Gladstone's Land"
+     ],
+     "importance": 0.3668857539234569,
+     "rank": 0
+    },
+    {
+     "lat": 55.9494448,
+     "lng": -3.1936988,
+     "name": "Gladstone's Land",
+     "source": "photon",
+     "osm_id": "W/43367244",
+     "wikidata": "",
+     "osm_class": "building=yes",
+     "locality": "Edinburgh",
+     "display": "Gladstone's Land, Edinburgh, United Kingdom",
+     "names_all": [
+      "Gladstone's Land"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9494448,
+     "lng": -3.1936988,
+     "name": "Gladstone's Land",
+     "source": "nominatim",
+     "osm_id": "way/43367244",
+     "wikidata": "Q5566312",
+     "osm_class": "building=yes",
+     "locality": "City of Edinburgh",
+     "display": "Gladstone's Land, East Entry, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2PA, United Kingdom",
+     "names_all": [
+      "Gladstone's Land"
+     ],
+     "importance": 0.3668857539234569,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::john knox house": {
+  "res": {
+   "ok": true,
+   "lat": 55.950649,
+   "lng": -3.185098,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.766,
+   "name": "John Knox House",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q6243358",
+   "display": "John Knox House, 45, High Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH1 1SR, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9506494,
+     "lng": -3.1850976,
+     "name": "John Knox House",
+     "source": "nominatim",
+     "osm_id": "way/293890858",
+     "wikidata": "Q6243358",
+     "osm_class": "building=yes",
+     "locality": "City of Edinburgh",
+     "display": "John Knox House, 45, High Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH1 1SR, United Kingdom",
+     "names_all": [
+      "John Knox House"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    },
+    {
+     "lat": 55.9506494,
+     "lng": -3.1850976,
+     "name": "John Knox House",
+     "source": "photon",
+     "osm_id": "W/293890858",
+     "wikidata": "",
+     "osm_class": "building=yes",
+     "locality": "Edinburgh",
+     "display": "John Knox House, Edinburgh, United Kingdom",
+     "names_all": [
+      "John Knox House"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9506494,
+     "lng": -3.1850976,
+     "name": "John Knox House",
+     "source": "nominatim",
+     "osm_id": "way/293890858",
+     "wikidata": "Q6243358",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "John Knox House, 45, High Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH1 1SR, United Kingdom",
+     "names_all": [
+      "John Knox House"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::dean village": {
+  "res": {
+   "ok": true,
+   "lat": 55.952259,
+   "lng": -3.218221,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.782,
+   "name": "Dean Village",
+   "locality": "City of Edinburgh",
+   "osm_class": "place=suburb",
+   "wikidata": "Q5246524",
+   "display": "Dean Village, West End, City of Edinburgh, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9522594,
+     "lng": -3.2182207,
+     "name": "Dean Village",
+     "source": "nominatim",
+     "osm_id": "relation/18573379",
+     "wikidata": "Q5246524",
+     "osm_class": "place=suburb",
+     "locality": "City of Edinburgh",
+     "display": "Dean Village, West End, City of Edinburgh, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Dean Village"
+     ],
+     "importance": 0.3898810858579735,
+     "rank": 0
+    },
+    {
+     "lat": 55.9522594,
+     "lng": -3.2182207,
+     "name": "Dean Village",
+     "source": "photon",
+     "osm_id": "R/18573379",
+     "wikidata": "",
+     "osm_class": "place=suburb",
+     "locality": "Edinburgh",
+     "display": "Dean Village, Edinburgh, United Kingdom",
+     "names_all": [
+      "Dean Village"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9522594,
+     "lng": -3.2182207,
+     "name": "Dean Village",
+     "source": "nominatim",
+     "osm_id": "relation/18573379",
+     "wikidata": "Q5246524",
+     "osm_class": "place=suburb",
+     "locality": "City of Edinburgh",
+     "display": "Dean Village, West End, City of Edinburgh, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Dean Village"
+     ],
+     "importance": 0.3898810858579735,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::grassmarket": {
+  "res": {
+   "ok": true,
+   "lat": 55.947481,
+   "lng": -3.196246,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.923,
+   "name": "Grassmarket",
+   "locality": "City of Edinburgh",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "Q1543570",
+   "display": "Grassmarket, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2LJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.947481,
+     "lng": -3.1962464,
+     "name": "Grassmarket",
+     "source": "nominatim",
+     "osm_id": "way/192212388",
+     "wikidata": "Q1543570",
+     "osm_class": "highway=pedestrian",
+     "locality": "City of Edinburgh",
+     "display": "Grassmarket, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2LJ, United Kingdom",
+     "names_all": [
+      "Grassmarket"
+     ],
+     "importance": 0.39072613673296697,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::george heriots school": {
+  "res": {
+   "ok": true,
+   "lat": 55.946271,
+   "lng": -3.19502,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.79,
+   "name": "George Heriot's School",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=school",
+   "wikidata": "Q5540543",
+   "display": "George Heriot's School, Lauriston Place, Quartermile, Tollcross, City of Edinburgh, Alba / Scotland, EH3 9EQ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9462706,
+     "lng": -3.19502,
+     "name": "George Heriot's School",
+     "source": "nominatim",
+     "osm_id": "way/5648757",
+     "wikidata": "Q5540543",
+     "osm_class": "amenity=school",
+     "locality": "City of Edinburgh",
+     "display": "George Heriot's School, Lauriston Place, Quartermile, Tollcross, City of Edinburgh, Alba / Scotland, EH3 9EQ, United Kingdom",
+     "names_all": [
+      "George Heriot's School"
+     ],
+     "importance": 0.38493605591222957,
+     "rank": 0
+    },
+    {
+     "lat": 55.9462706,
+     "lng": -3.19502,
+     "name": "George Heriot's School",
+     "source": "photon",
+     "osm_id": "W/5648757",
+     "wikidata": "",
+     "osm_class": "amenity=school",
+     "locality": "Edinburgh",
+     "display": "George Heriot's School, Edinburgh, United Kingdom",
+     "names_all": [
+      "George Heriot's School"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9462706,
+     "lng": -3.19502,
+     "name": "George Heriot's School",
+     "source": "nominatim",
+     "osm_id": "way/5648757",
+     "wikidata": "Q5540543",
+     "osm_class": "amenity=school",
+     "locality": "City of Edinburgh",
+     "display": "George Heriot's School, Lauriston Place, Quartermile, Tollcross, City of Edinburgh, Alba / Scotland, EH3 9EQ, United Kingdom",
+     "names_all": [
+      "George Heriot's School"
+     ],
+     "importance": 0.38493605591222957,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::canongate tolbooth": {
+  "res": {
+   "ok": true,
+   "lat": 55.951501,
+   "lng": -3.180176,
+   "source": "photon",
+   "confidence": "review",
+   "score": 0.597,
+   "name": "Tolbooth Tavern",
+   "locality": "Edinburgh",
+   "osm_class": "amenity=pub",
+   "wikidata": "",
+   "display": "Tolbooth Tavern, Edinburgh, United Kingdom",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 55.9515009,
+     "lng": -3.1801758,
+     "name": "Tolbooth Tavern",
+     "source": "photon",
+     "osm_id": "W/70955003",
+     "wikidata": "",
+     "osm_class": "amenity=pub",
+     "locality": "Edinburgh",
+     "display": "Tolbooth Tavern, Edinburgh, United Kingdom",
+     "names_all": [
+      "Tolbooth Tavern"
+     ],
+     "importance": 0.0,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::national museum of scotland": {
+  "res": {
+   "ok": true,
+   "lat": 55.947071,
+   "lng": -3.189335,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.93,
+   "name": "National Museum of Scotland",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q1633842",
+   "display": "National Museum of Scotland, Chambers Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1JF, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9470714,
+     "lng": -3.1893355,
+     "name": "National Museum of Scotland",
+     "source": "nominatim",
+     "osm_id": "way/467226683",
+     "wikidata": "Q1633842",
+     "osm_class": "tourism=museum",
+     "locality": "City of Edinburgh",
+     "display": "National Museum of Scotland, Chambers Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1JF, United Kingdom",
+     "names_all": [
+      "National Museum of Scotland"
+     ],
+     "importance": 0.4773110188024878,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::scottish national gallery": {
+  "res": {
+   "ok": true,
+   "lat": 55.950885,
+   "lng": -3.195612,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.932,
+   "name": "National Gallery",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=gallery",
+   "wikidata": "Q942713",
+   "display": "National Gallery, The Mound, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2EL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.950885,
+     "lng": -3.1956117,
+     "name": "National Gallery",
+     "source": "nominatim",
+     "osm_id": "way/5182746",
+     "wikidata": "Q942713",
+     "osm_class": "tourism=gallery",
+     "locality": "City of Edinburgh",
+     "display": "National Gallery, The Mound, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2EL, United Kingdom",
+     "names_all": [
+      "National Gallery"
+     ],
+     "importance": 0.4960954917878121,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::scottish national portrait gallery": {
+  "res": {
+   "ok": true,
+   "lat": 55.955466,
+   "lng": -3.193592,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.93,
+   "name": "Scottish National Portrait Gallery",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=gallery",
+   "wikidata": "Q2441562",
+   "display": "Scottish National Portrait Gallery, 1, Queen Street, Gayfield, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 1JD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9554655,
+     "lng": -3.1935919,
+     "name": "Scottish National Portrait Gallery",
+     "source": "nominatim",
+     "osm_id": "way/73090302",
+     "wikidata": "Q2441562",
+     "osm_class": "tourism=gallery",
+     "locality": "City of Edinburgh",
+     "display": "Scottish National Portrait Gallery, 1, Queen Street, Gayfield, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 1JD, United Kingdom",
+     "names_all": [
+      "Scottish National Portrait Gallery"
+     ],
+     "importance": 0.4547719804167702,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::writers museum": {
+  "res": {
+   "ok": true,
+   "lat": 55.949691,
+   "lng": -3.193742,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.927,
+   "name": "Writers' Museum",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q8038444",
+   "display": "Writers' Museum, Lady Stair's Close, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2PA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9496906,
+     "lng": -3.1937416,
+     "name": "Writers' Museum",
+     "source": "nominatim",
+     "osm_id": "node/4618730690",
+     "wikidata": "Q8038444",
+     "osm_class": "tourism=museum",
+     "locality": "City of Edinburgh",
+     "display": "Writers' Museum, Lady Stair's Close, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2PA, United Kingdom",
+     "names_all": [
+      "Writers' Museum"
+     ],
+     "importance": 0.4191562787591165,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::museum of edinburgh": {
+  "res": {
+   "ok": true,
+   "lat": 55.95121,
+   "lng": -3.1795,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.924,
+   "name": "Museum of Edinburgh",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q11838982",
+   "display": "Museum of Edinburgh, 142-146, Canongate, Holyrood, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9512103,
+     "lng": -3.1795004,
+     "name": "Museum of Edinburgh",
+     "source": "nominatim",
+     "osm_id": "way/259067386",
+     "wikidata": "Q11838982",
+     "osm_class": "tourism=museum",
+     "locality": "City of Edinburgh",
+     "display": "Museum of Edinburgh, 142-146, Canongate, Holyrood, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH8 8DD, United Kingdom",
+     "names_all": [
+      "Museum of Edinburgh"
+     ],
+     "importance": 0.3826968451717165,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::museum of childhood": {
+  "res": {
+   "ok": true,
+   "lat": 55.95033,
+   "lng": -3.185507,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.923,
+   "name": "Museum of Childhood",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q15122172",
+   "display": "Museum of Childhood, 42, High Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH1 1TG, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9503299,
+     "lng": -3.1855073,
+     "name": "Museum of Childhood",
+     "source": "nominatim",
+     "osm_id": "node/2955931322",
+     "wikidata": "Q15122172",
+     "osm_class": "tourism=museum",
+     "locality": "City of Edinburgh",
+     "display": "Museum of Childhood, 42, High Street, Canongate, Old Town, City of Edinburgh, Alba / Scotland, EH1 1TG, United Kingdom",
+     "names_all": [
+      "Museum of Childhood"
+     ],
+     "importance": 0.3508056963223209,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::surgeons hall museums": {
+  "res": {
+   "ok": true,
+   "lat": 55.946767,
+   "lng": -3.18468,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.895,
+   "name": "Surgeons' Hall Museums",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Surgeons' Hall Museums, Nicolson Street, Pleasance, Southside, City of Edinburgh, Alba / Scotland, EH8 9DW, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9467674,
+     "lng": -3.1846803,
+     "name": "Surgeons' Hall Museums",
+     "source": "nominatim",
+     "osm_id": "node/3072411821",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "City of Edinburgh",
+     "display": "Surgeons' Hall Museums, Nicolson Street, Pleasance, Southside, City of Edinburgh, Alba / Scotland, EH8 9DW, United Kingdom",
+     "names_all": [
+      "Surgeons' Hall Museums"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::camera obscura": {
+  "res": {
+   "ok": true,
+   "lat": 55.949029,
+   "lng": -3.195604,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.764,
+   "name": "Camera Obscura & World of Illusions",
+   "locality": "City of Edinburgh",
+   "osm_class": "shop=gift",
+   "wikidata": "Q4211494",
+   "display": "Camera Obscura & World of Illusions, 549, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2ND, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9490288,
+     "lng": -3.1956037,
+     "name": "Camera Obscura & World of Illusions",
+     "source": "photon",
+     "osm_id": "N/268408103",
+     "wikidata": "",
+     "osm_class": "shop=gift",
+     "locality": "Edinburgh",
+     "display": "Camera Obscura & World of Illusions, Edinburgh, United Kingdom",
+     "names_all": [
+      "Camera Obscura & World of Illusions"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9490288,
+     "lng": -3.1956037,
+     "name": "Camera Obscura & World of Illusions",
+     "source": "nominatim",
+     "osm_id": "node/268408103",
+     "wikidata": "Q4211494",
+     "osm_class": "shop=gift",
+     "locality": "City of Edinburgh",
+     "display": "Camera Obscura & World of Illusions, 549, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2ND, United Kingdom",
+     "names_all": [
+      "Camera Obscura & World of Illusions"
+     ],
+     "importance": 0.3041636407631838,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::scotch whisky experience": {
+  "res": {
+   "ok": true,
+   "lat": 55.948743,
+   "lng": -3.195875,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "The Scotch Whisky Experience",
+   "locality": "City of Edinburgh",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q4526278",
+   "display": "The Scotch Whisky Experience, 354, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NE, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9487433,
+     "lng": -3.1958749,
+     "name": "The Scotch Whisky Experience",
+     "source": "nominatim",
+     "osm_id": "node/2914760336",
+     "wikidata": "Q4526278",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "The Scotch Whisky Experience, 354, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NE, United Kingdom",
+     "names_all": [
+      "The Scotch Whisky Experience"
+     ],
+     "importance": 0.32858433646820545,
+     "rank": 0
+    },
+    {
+     "lat": 55.9487433,
+     "lng": -3.1958749,
+     "name": "The Scotch Whisky Experience",
+     "source": "photon",
+     "osm_id": "N/2914760336",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "Edinburgh",
+     "display": "The Scotch Whisky Experience, Edinburgh, United Kingdom",
+     "names_all": [
+      "The Scotch Whisky Experience"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9487433,
+     "lng": -3.1958749,
+     "name": "The Scotch Whisky Experience",
+     "source": "nominatim",
+     "osm_id": "node/2914760336",
+     "wikidata": "Q4526278",
+     "osm_class": "tourism=attraction",
+     "locality": "City of Edinburgh",
+     "display": "The Scotch Whisky Experience, 354, Castlehill, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NE, United Kingdom",
+     "names_all": [
+      "The Scotch Whisky Experience"
+     ],
+     "importance": 0.32858433646820545,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::arthurs seat": {
+  "res": {
+   "ok": true,
+   "lat": 55.944069,
+   "lng": -3.161603,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.914,
+   "name": "Arthur's Seat",
+   "locality": "City of Edinburgh",
+   "osm_class": "natural=peak",
+   "wikidata": "Q712311",
+   "display": "Arthur's Seat, City of Edinburgh, Alba / Scotland, EH8 8HG, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9440693,
+     "lng": -3.161603,
+     "name": "Arthur's Seat",
+     "source": "nominatim",
+     "osm_id": "node/31209291",
+     "wikidata": "Q712311",
+     "osm_class": "natural=peak",
+     "locality": "City of Edinburgh",
+     "display": "Arthur's Seat, City of Edinburgh, Alba / Scotland, EH8 8HG, United Kingdom",
+     "names_all": [
+      "Arthur's Seat"
+     ],
+     "importance": 0.39696805131781304,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::salisbury crags": {
+  "res": {
+   "ok": true,
+   "lat": 55.946042,
+   "lng": -3.173881,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.903,
+   "name": "Salisbury Crags",
+   "locality": "City of Edinburgh",
+   "osm_class": "natural=peak",
+   "wikidata": "",
+   "display": "Salisbury Crags, City of Edinburgh, Alba / Scotland, EH16 5XL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.946042,
+     "lng": -3.1738806,
+     "name": "Salisbury Crags",
+     "source": "nominatim",
+     "osm_id": "node/12546411046",
+     "wikidata": "",
+     "osm_class": "natural=peak",
+     "locality": "City of Edinburgh",
+     "display": "Salisbury Crags, City of Edinburgh, Alba / Scotland, EH16 5XL, United Kingdom",
+     "names_all": [
+      "Salisbury Crags"
+     ],
+     "importance": 0.16007767071030746,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::holyrood park": {
+  "res": {
+   "ok": true,
+   "lat": 55.94564,
+   "lng": -3.1638,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.915,
+   "name": "Holyrood Park",
+   "locality": "City of Edinburgh",
+   "osm_class": "leisure=park",
+   "wikidata": "Q2640532",
+   "display": "Holyrood Park, City of Edinburgh, Alba / Scotland, EH8 8HG, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9456399,
+     "lng": -3.1638003,
+     "name": "Holyrood Park",
+     "source": "nominatim",
+     "osm_id": "way/41663265",
+     "wikidata": "Q2640532",
+     "osm_class": "leisure=park",
+     "locality": "City of Edinburgh",
+     "display": "Holyrood Park, City of Edinburgh, Alba / Scotland, EH8 8HG, United Kingdom",
+     "names_all": [
+      "Holyrood Park"
+     ],
+     "importance": 0.3862077567270856,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::princes street gardens": {
+  "res": {
+   "ok": true,
+   "lat": 55.949668,
+   "lng": -3.19908,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.904,
+   "name": "West Princes Street Gardens",
+   "locality": "Edinburgh",
+   "osm_class": "leisure=park",
+   "wikidata": "",
+   "display": "West Princes Street Gardens, Edinburgh, United Kingdom",
+   "reason": "photon",
+   "alternatives": [
+    {
+     "lat": 55.95025,
+     "lng": -3.1994946,
+     "name": "Princes Street Gardens",
+     "source": "nominatim",
+     "osm_id": "node/13444424887",
+     "wikidata": "",
+     "osm_class": "railway=junction",
+     "locality": "City of Edinburgh",
+     "display": "Princes Street Gardens, Middle Footbridge, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2NG, United Kingdom",
+     "names_all": [
+      "Princes Street Gardens"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    },
+    {
+     "lat": 55.9496677,
+     "lng": -3.1990798,
+     "name": "West Princes Street Gardens",
+     "source": "photon",
+     "osm_id": "R/963806",
+     "wikidata": "",
+     "osm_class": "leisure=park",
+     "locality": "Edinburgh",
+     "display": "West Princes Street Gardens, Edinburgh, United Kingdom",
+     "names_all": [
+      "West Princes Street Gardens"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::royal botanic garden edinburgh": {
+  "res": {
+   "ok": true,
+   "lat": 55.965285,
+   "lng": -3.208859,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.919,
+   "name": "Royal Botanic Garden Edinburgh",
+   "locality": "City of Edinburgh",
+   "osm_class": "leisure=garden",
+   "wikidata": "Q1807521",
+   "display": "Royal Botanic Garden Edinburgh, Stockbridge/Inverleith, City of Edinburgh, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9652854,
+     "lng": -3.2088592,
+     "name": "Royal Botanic Garden Edinburgh",
+     "source": "nominatim",
+     "osm_id": "way/5209575",
+     "wikidata": "Q1807521",
+     "osm_class": "leisure=garden",
+     "locality": "City of Edinburgh",
+     "display": "Royal Botanic Garden Edinburgh, Stockbridge/Inverleith, City of Edinburgh, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Royal Botanic Garden Edinburgh"
+     ],
+     "importance": 0.4594627538257798,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::the meadows": {
+  "res": {
+   "ok": true,
+   "lat": 55.942341,
+   "lng": -3.194293,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.919,
+   "name": "The Meadows",
+   "locality": "City of Edinburgh",
+   "osm_class": "leisure=park",
+   "wikidata": "Q7750795",
+   "display": "The Meadows, Tollcross, City of Edinburgh, Alba / Scotland, EH9 1JZ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9423415,
+     "lng": -3.1942933,
+     "name": "The Meadows",
+     "source": "nominatim",
+     "osm_id": "way/233760765",
+     "wikidata": "Q7750795",
+     "osm_class": "leisure=park",
+     "locality": "City of Edinburgh",
+     "display": "The Meadows, Tollcross, City of Edinburgh, Alba / Scotland, EH9 1JZ, United Kingdom",
+     "names_all": [
+      "The Meadows"
+     ],
+     "importance": 0.38530192576963673,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::stockbridge market": {
+  "res": {
+   "ok": true,
+   "lat": 55.957629,
+   "lng": -3.208443,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.89,
+   "name": "Stockbridge Market",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=marketplace",
+   "wikidata": "",
+   "display": "Stockbridge Market, Saunders Street, Silvermills, Stockbridge/Inverleith, City of Edinburgh, Alba / Scotland, EH3 6TQ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9576289,
+     "lng": -3.208443,
+     "name": "Stockbridge Market",
+     "source": "nominatim",
+     "osm_id": "node/2338447599",
+     "wikidata": "",
+     "osm_class": "amenity=marketplace",
+     "locality": "City of Edinburgh",
+     "display": "Stockbridge Market, Saunders Street, Silvermills, Stockbridge/Inverleith, City of Edinburgh, Alba / Scotland, EH3 6TQ, United Kingdom",
+     "names_all": [
+      "Stockbridge Market"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::castle terrace": {
+  "res": {
+   "ok": true,
+   "lat": 55.94793,
+   "lng": -3.203257,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Castle Terrace",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=parking",
+   "wikidata": "Q72423963",
+   "display": "Castle Terrace, Cornwall Street, The Exchange, Tollcross, City of Edinburgh, Alba / Scotland, EH1 2EQ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9469627,
+     "lng": -3.2022287,
+     "name": "Castle Terrace",
+     "source": "nominatim",
+     "osm_id": "way/4626645",
+     "wikidata": "Q107339503",
+     "osm_class": "highway=unclassified",
+     "locality": "City of Edinburgh",
+     "display": "Castle Terrace, Lauriston, Tollcross, City of Edinburgh, Alba / Scotland, EH3 9DU, United Kingdom",
+     "names_all": [
+      "Castle Terrace"
+     ],
+     "importance": 0.05341100404364077,
+     "rank": 0
+    },
+    {
+     "lat": 55.9479296,
+     "lng": -3.2032571,
+     "name": "Castle Terrace",
+     "source": "nominatim",
+     "osm_id": "way/4260486",
+     "wikidata": "Q72423963",
+     "osm_class": "amenity=parking",
+     "locality": "City of Edinburgh",
+     "display": "Castle Terrace, Cornwall Street, The Exchange, Tollcross, City of Edinburgh, Alba / Scotland, EH1 2EQ, United Kingdom",
+     "names_all": [
+      "Castle Terrace"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 7
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::sandy bells": {
+  "res": {
+   "ok": true,
+   "lat": 55.946081,
+   "lng": -3.19129,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.778,
+   "name": "Sandy Bell's",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=pub",
+   "wikidata": "Q65080284",
+   "display": "Sandy Bell's, 25, Forrest Road, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2QH, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9460808,
+     "lng": -3.1912896,
+     "name": "Sandy Bell's",
+     "source": "nominatim",
+     "osm_id": "node/1951680695",
+     "wikidata": "Q65080284",
+     "osm_class": "amenity=pub",
+     "locality": "City of Edinburgh",
+     "display": "Sandy Bell's, 25, Forrest Road, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2QH, United Kingdom",
+     "names_all": [
+      "Sandy Bell's"
+     ],
+     "importance": 0.22274623325780465,
+     "rank": 0
+    },
+    {
+     "lat": 55.9460808,
+     "lng": -3.1912896,
+     "name": "Sandy Bell's",
+     "source": "photon",
+     "osm_id": "N/1951680695",
+     "wikidata": "",
+     "osm_class": "amenity=pub",
+     "locality": "Edinburgh",
+     "display": "Sandy Bell's, Edinburgh, United Kingdom",
+     "names_all": [
+      "Sandy Bell's"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9460808,
+     "lng": -3.1912896,
+     "name": "Sandy Bell's",
+     "source": "nominatim",
+     "osm_id": "node/1951680695",
+     "wikidata": "Q65080284",
+     "osm_class": "amenity=pub",
+     "locality": "City of Edinburgh",
+     "display": "Sandy Bell's, 25, Forrest Road, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2QH, United Kingdom",
+     "names_all": [
+      "Sandy Bell's"
+     ],
+     "importance": 0.22274623325780465,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::victoria street": {
+  "res": {
+   "ok": true,
+   "lat": 55.94865,
+   "lng": -3.193769,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.741,
+   "name": "Victoria Street",
+   "locality": "City of Edinburgh",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "Q12268861",
+   "display": "Victoria Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2HE, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9486505,
+     "lng": -3.1937686,
+     "name": "Victoria Street",
+     "source": "nominatim",
+     "osm_id": "way/416314343",
+     "wikidata": "Q12268861",
+     "osm_class": "highway=pedestrian",
+     "locality": "City of Edinburgh",
+     "display": "Victoria Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 2HE, United Kingdom",
+     "names_all": [
+      "Victoria Street"
+     ],
+     "importance": 0.04539457909600718,
+     "rank": 2
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::the elephant house": {
+  "res": {
+   "ok": true,
+   "lat": 55.94757,
+   "lng": -3.191785,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.764,
+   "name": "The Elephant House",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=cafe",
+   "wikidata": "",
+   "display": "The Elephant House, 21, George IV Bridge, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1EN, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.9475699,
+     "lng": -3.1917853,
+     "name": "The Elephant House",
+     "source": "nominatim",
+     "osm_id": "node/2901511654",
+     "wikidata": "",
+     "osm_class": "amenity=cafe",
+     "locality": "City of Edinburgh",
+     "display": "The Elephant House, 21, George IV Bridge, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1EN, United Kingdom",
+     "names_all": [
+      "The Elephant House"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    },
+    {
+     "lat": 55.9475699,
+     "lng": -3.1917853,
+     "name": "The Elephant House",
+     "source": "photon",
+     "osm_id": "N/2901511654",
+     "wikidata": "",
+     "osm_class": "amenity=cafe",
+     "locality": "Edinburgh",
+     "display": "The Elephant House, Edinburgh, United Kingdom",
+     "names_all": [
+      "The Elephant House"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.9475699,
+     "lng": -3.1917853,
+     "name": "The Elephant House",
+     "source": "nominatim",
+     "osm_id": "node/2901511654",
+     "wikidata": "",
+     "osm_class": "amenity=cafe",
+     "locality": "City of Edinburgh",
+     "display": "The Elephant House, 21, George IV Bridge, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1EN, United Kingdom",
+     "names_all": [
+      "The Elephant House"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::the balmoral hotel": {
+  "res": {
+   "ok": true,
+   "lat": 55.953088,
+   "lng": -3.189263,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.704,
+   "name": "The Balmoral Bar",
+   "locality": "City of Edinburgh",
+   "osm_class": "amenity=bar",
+   "wikidata": "",
+   "display": "The Balmoral Bar, 1, Princes Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2EQ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 55.953088,
+     "lng": -3.1892634,
+     "name": "The Balmoral Bar",
+     "source": "photon",
+     "osm_id": "N/2888279094",
+     "wikidata": "",
+     "osm_class": "amenity=bar",
+     "locality": "Edinburgh",
+     "display": "The Balmoral Bar, Edinburgh, United Kingdom",
+     "names_all": [
+      "The Balmoral Bar"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 55.953088,
+     "lng": -3.1892634,
+     "name": "The Balmoral Bar",
+     "source": "nominatim",
+     "osm_id": "node/2888279094",
+     "wikidata": "",
+     "osm_class": "amenity=bar",
+     "locality": "City of Edinburgh",
+     "display": "The Balmoral Bar, 1, Princes Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH2 2EQ, United Kingdom",
+     "names_all": [
+      "The Balmoral Bar"
+     ],
+     "importance": 7.767071030742378e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::royal mile": {
+  "res": {
+   "ok": false,
+   "lat": null,
+   "lng": null,
+   "source": "",
+   "confidence": "review",
+   "score": 0.0,
+   "name": "",
+   "locality": "",
+   "osm_class": "",
+   "wikidata": "",
+   "display": "",
+   "reason": "sin_candidatos",
+   "alternatives": []
+  },
+  "area_key": ""
+ },
+ "multi::edimburgo::new town": {
+  "res": {
+   "ok": true,
+   "lat": 55.955458,
+   "lng": -3.199,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.93,
+   "name": "New Town",
+   "locality": "City of Edinburgh",
+   "osm_class": "place=suburb",
+   "wikidata": "Q590710",
+   "display": "New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH3 6HU, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9554575,
+     "lng": -3.1989995,
+     "name": "New Town",
+     "source": "nominatim",
+     "osm_id": "node/1867328555",
+     "wikidata": "Q590710",
+     "osm_class": "place=suburb",
+     "locality": "City of Edinburgh",
+     "display": "New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH3 6HU, United Kingdom",
+     "names_all": [
+      "New Town"
+     ],
+     "importance": 0.48459053282923953,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::stockbridge": {
+  "res": {
+   "ok": true,
+   "lat": 55.957972,
+   "lng": -3.20934,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.919,
+   "name": "Stockbridge",
+   "locality": "City of Edinburgh",
+   "osm_class": "place=suburb",
+   "wikidata": "Q7617942",
+   "display": "Stockbridge, City of Edinburgh, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9579716,
+     "lng": -3.2093404,
+     "name": "Stockbridge",
+     "source": "nominatim",
+     "osm_id": "relation/17709981",
+     "wikidata": "Q7617942",
+     "osm_class": "place=suburb",
+     "locality": "City of Edinburgh",
+     "display": "Stockbridge, City of Edinburgh, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Stockbridge"
+     ],
+     "importance": 0.4048680426709322,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::edimburgo::leith": {
+  "res": {
+   "ok": true,
+   "lat": 55.97255,
+   "lng": -3.170949,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Leith",
+   "locality": "City of Edinburgh",
+   "osm_class": "place=suburb",
+   "wikidata": "Q1018540",
+   "display": "Leith, City of Edinburgh, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 55.9725499,
+     "lng": -3.1709492,
+     "name": "Leith",
+     "source": "nominatim",
+     "osm_id": "relation/17436713",
+     "wikidata": "Q1018540",
+     "osm_class": "place=suburb",
+     "locality": "City of Edinburgh",
+     "display": "Leith, City of Edinburgh, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Leith"
+     ],
+     "importance": 0.5541322770833912,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "edimburgo"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::west highland museum": {
+  "res": {
+   "ok": true,
+   "lat": 56.81763,
+   "lng": -5.111046,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.909,
+   "name": "West Highland Museum",
+   "locality": "Fort William",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q16903086",
+   "display": "West Highland Museum, Cameron Square, The Parade, Plantation, Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8176305,
+     "lng": -5.1110458,
+     "name": "West Highland Museum",
+     "source": "nominatim",
+     "osm_id": "node/255104386",
+     "wikidata": "Q16903086",
+     "osm_class": "tourism=museum",
+     "locality": "Fort William",
+     "display": "West Highland Museum, Cameron Square, The Parade, Plantation, Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+     "names_all": [
+      "West Highland Museum"
+     ],
+     "importance": 0.13618373728802152,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::nevis range": {
+  "res": {
+   "ok": true,
+   "lat": 56.844383,
+   "lng": -4.98563,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.812,
+   "name": "Nevis Range Gondola",
+   "locality": "Highland",
+   "osm_class": "aerialway=gondola",
+   "wikidata": "",
+   "display": "Nevis Range Gondola, Blue Doon, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8443826,
+     "lng": -4.9856299,
+     "name": "Nevis Range Gondola",
+     "source": "nominatim",
+     "osm_id": "way/860440455",
+     "wikidata": "",
+     "osm_class": "aerialway=gondola",
+     "locality": "Highland",
+     "display": "Nevis Range Gondola, Blue Doon, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Nevis Range Gondola"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 9
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::ben nevis": {
+  "res": {
+   "ok": true,
+   "lat": 56.796858,
+   "lng": -5.003526,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.762,
+   "name": "Ben Nevis",
+   "locality": "Highland",
+   "osm_class": "natural=peak",
+   "wikidata": "Q104674",
+   "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+   "reason": "fuentes discrepan 6.0 km",
+   "alternatives": [
+    {
+     "lat": 56.7968582,
+     "lng": -5.003526,
+     "name": "Ben Nevis",
+     "source": "nominatim",
+     "osm_id": "node/8870212",
+     "wikidata": "Q104674",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Ben Nevis"
+     ],
+     "importance": 0.48032914674690963,
+     "rank": 0
+    },
+    {
+     "lat": 56.8350102,
+     "lng": -5.0731782,
+     "name": "Ben Nevis Distillery",
+     "source": "photon",
+     "osm_id": "W/456825913",
+     "wikidata": "",
+     "osm_class": "craft=distillery",
+     "locality": "Fort William",
+     "display": "Ben Nevis Distillery, Fort William, United Kingdom",
+     "names_all": [
+      "Ben Nevis Distillery"
+     ],
+     "importance": 0.0,
+     "rank": 1
+    },
+    {
+     "lat": 56.7968582,
+     "lng": -5.003526,
+     "name": "Ben Nevis",
+     "source": "nominatim",
+     "osm_id": "node/8870212",
+     "wikidata": "Q104674",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Ben Nevis, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Ben Nevis"
+     ],
+     "importance": 0.48032914674690963,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::neptunes staircase": {
+  "res": {
+   "ok": true,
+   "lat": 56.845559,
+   "lng": -5.096915,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.751,
+   "name": "Neptune's Staircase",
+   "locality": "Banavie",
+   "osm_class": "amenity=parking",
+   "wikidata": "",
+   "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8455588,
+     "lng": -5.0969155,
+     "name": "Neptune's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/39934476",
+     "wikidata": "",
+     "osm_class": "amenity=parking",
+     "locality": "Banavie",
+     "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+     "names_all": [
+      "Neptune's Staircase"
+     ],
+     "importance": 5.6861982146898874e-05,
+     "rank": 0
+    },
+    {
+     "lat": 56.8455588,
+     "lng": -5.0969155,
+     "name": "Neptune's Staircase",
+     "source": "photon",
+     "osm_id": "W/39934476",
+     "wikidata": "",
+     "osm_class": "amenity=parking",
+     "locality": "Banavie",
+     "display": "Neptune's Staircase, Banavie, United Kingdom",
+     "names_all": [
+      "Neptune's Staircase"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.8455588,
+     "lng": -5.0969155,
+     "name": "Neptune's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/39934476",
+     "wikidata": "",
+     "osm_class": "amenity=parking",
+     "locality": "Banavie",
+     "display": "Neptune's Staircase, B8004, Camaghael, Banavie, Highland, Alba / Scotland, PH33 7LY, United Kingdom",
+     "names_all": [
+      "Neptune's Staircase"
+     ],
+     "importance": 5.6861982146898874e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort william": {
+  "res": {
+   "ok": true,
+   "lat": 56.817826,
+   "lng": -5.110952,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.936,
+   "name": "Fort William",
+   "locality": "Fort William",
+   "osm_class": "place=town",
+   "wikidata": "Q848909",
+   "display": "Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.8178257,
+     "lng": -5.1109516,
+     "name": "Fort William",
+     "source": "nominatim",
+     "osm_id": "node/17917137",
+     "wikidata": "Q848909",
+     "osm_class": "place=town",
+     "locality": "Fort William",
+     "display": "Fort William, Highland, Alba / Scotland, PH33 6AJ, United Kingdom",
+     "names_all": [
+      "Fort William"
+     ],
+     "importance": 0.5057622755834682,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "fort_william"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::buachaille etive mor": {
+  "res": {
+   "ok": true,
+   "lat": 56.633967,
+   "lng": -4.936779,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.718,
+   "name": "Buachaille Etive Mòr",
+   "locality": "Highland",
+   "osm_class": "natural=ridge",
+   "wikidata": "Q2927373",
+   "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6339671,
+     "lng": -4.9367794,
+     "name": "Buachaille Etive Mòr",
+     "source": "nominatim",
+     "osm_id": "way/209179445",
+     "wikidata": "Q2927373",
+     "osm_class": "natural=ridge",
+     "locality": "Highland",
+     "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Buachaille Etive Mòr"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    },
+    {
+     "lat": 56.6339671,
+     "lng": -4.9367794,
+     "name": "Buachaille Etive Mòr",
+     "source": "photon",
+     "osm_id": "W/209179445",
+     "wikidata": "",
+     "osm_class": "natural=ridge",
+     "locality": "Highland",
+     "display": "Buachaille Etive Mòr, United Kingdom",
+     "names_all": [
+      "Buachaille Etive Mòr"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.6339671,
+     "lng": -4.9367794,
+     "name": "Buachaille Etive Mòr",
+     "source": "nominatim",
+     "osm_id": "way/209179445",
+     "wikidata": "Q2927373",
+     "osm_class": "natural=ridge",
+     "locality": "Highland",
+     "display": "Buachaille Etive Mòr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Buachaille Etive Mòr"
+     ],
+     "importance": 0.32592895108882386,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glen etive": {
+  "res": {
+   "ok": true,
+   "lat": 56.61606,
+   "lng": -4.963061,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.715,
+   "name": "Glen Etive",
+   "locality": "Highland",
+   "osm_class": "natural=valley",
+   "wikidata": "Q528595",
+   "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6160599,
+     "lng": -4.9630606,
+     "name": "Glen Etive",
+     "source": "nominatim",
+     "osm_id": "way/676290499",
+     "wikidata": "Q528595",
+     "osm_class": "natural=valley",
+     "locality": "Highland",
+     "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Etive"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    },
+    {
+     "lat": 56.6160599,
+     "lng": -4.9630606,
+     "name": "Glen Etive",
+     "source": "photon",
+     "osm_id": "W/676290499",
+     "wikidata": "",
+     "osm_class": "natural=valley",
+     "locality": "Highland",
+     "display": "Glen Etive, United Kingdom",
+     "names_all": [
+      "Glen Etive"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.6160599,
+     "lng": -4.9630606,
+     "name": "Glen Etive",
+     "source": "nominatim",
+     "osm_id": "way/676290499",
+     "wikidata": "Q528595",
+     "osm_class": "natural=valley",
+     "locality": "Highland",
+     "display": "Glen Etive, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Etive"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glencoe lochan": {
+  "res": {
+   "ok": true,
+   "lat": 56.690691,
+   "lng": -5.095836,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.77,
+   "name": "Glencoe Lochan",
+   "locality": "Glencoe",
+   "osm_class": "water=reservoir",
+   "wikidata": "",
+   "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6906905,
+     "lng": -5.0958358,
+     "name": "Glencoe Lochan",
+     "source": "nominatim",
+     "osm_id": "way/175888644",
+     "wikidata": "",
+     "osm_class": "water=reservoir",
+     "locality": "Glencoe",
+     "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glencoe Lochan"
+     ],
+     "importance": 0.1333856816968032,
+     "rank": 0
+    },
+    {
+     "lat": 56.6906905,
+     "lng": -5.0958358,
+     "name": "Glencoe Lochan",
+     "source": "photon",
+     "osm_id": "W/175888644",
+     "wikidata": "",
+     "osm_class": "water=reservoir",
+     "locality": "Glencoe",
+     "display": "Glencoe Lochan, Glencoe, United Kingdom",
+     "names_all": [
+      "Glencoe Lochan"
+     ],
+     "importance": 0.0,
+     "rank": 1
+    },
+    {
+     "lat": 56.6906905,
+     "lng": -5.0958358,
+     "name": "Glencoe Lochan",
+     "source": "nominatim",
+     "osm_id": "way/175888644",
+     "wikidata": "",
+     "osm_class": "water=reservoir",
+     "locality": "Glencoe",
+     "display": "Glencoe Lochan, Glencoe, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glencoe Lochan"
+     ],
+     "importance": 0.1333856816968032,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glencoe visitor centre": {
+  "res": {
+   "ok": true,
+   "lat": 56.670703,
+   "lng": -5.079679,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.736,
+   "name": "Glencoe Visitor Centre",
+   "locality": "Glencoe",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.6707029,
+     "lng": -5.0796787,
+     "name": "Glencoe Visitor Centre",
+     "source": "nominatim",
+     "osm_id": "node/13965363016",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Glencoe",
+     "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+     "names_all": [
+      "Glencoe Visitor Centre"
+     ],
+     "importance": 5.234836346985607e-05,
+     "rank": 0
+    },
+    {
+     "lat": 56.671167,
+     "lng": -5.0818637,
+     "name": "Glencoe Visitor Centre",
+     "source": "photon",
+     "osm_id": "N/275046051",
+     "wikidata": "",
+     "osm_class": "information=office",
+     "locality": "Glen Coe",
+     "display": "Glencoe Visitor Centre, Glen Coe, United Kingdom",
+     "names_all": [
+      "Glencoe Visitor Centre"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.6707029,
+     "lng": -5.0796787,
+     "name": "Glencoe Visitor Centre",
+     "source": "nominatim",
+     "osm_id": "node/13965363016",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Glencoe",
+     "display": "Glencoe Visitor Centre, A82, Glencoe, Highland, Alba / Scotland, PH49 4LA, United Kingdom",
+     "names_all": [
+      "Glencoe Visitor Centre"
+     ],
+     "importance": 5.234836346985607e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::devils staircase": {
+  "res": {
+   "ok": true,
+   "lat": 56.673899,
+   "lng": -4.912936,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.614,
+   "name": "Devil's Staircase",
+   "locality": "Highland",
+   "osm_class": "highway=path",
+   "wikidata": "",
+   "display": "Devil's Staircase, United Kingdom",
+   "reason": "bajo_umbral",
+   "alternatives": [
+    {
+     "lat": 56.6738994,
+     "lng": -4.9129358,
+     "name": "Devil's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/52322014",
+     "wikidata": "Q13572287",
+     "osm_class": "highway=path",
+     "locality": "Highland",
+     "display": "Devil's Staircase, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.04000999999999999,
+     "rank": 0
+    },
+    {
+     "lat": 56.6738994,
+     "lng": -4.9129358,
+     "name": "Devil's Staircase",
+     "source": "photon",
+     "osm_id": "W/52322014",
+     "wikidata": "",
+     "osm_class": "highway=path",
+     "locality": "Highland",
+     "display": "Devil's Staircase, United Kingdom",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.6738994,
+     "lng": -4.9129358,
+     "name": "Devil's Staircase",
+     "source": "nominatim",
+     "osm_id": "way/52322014",
+     "wikidata": "Q13572287",
+     "osm_class": "highway=path",
+     "locality": "Highland",
+     "display": "Devil's Staircase, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Devil's Staircase"
+     ],
+     "importance": 0.04000999999999999,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glencoe"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glenfinnan viaduct": {
+  "res": {
+   "ok": true,
+   "lat": 56.875824,
+   "lng": -5.42932,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Glenfinnan Viaduct",
+   "locality": "Glenfinnan",
+   "osm_class": "man_made=bridge",
+   "wikidata": "Q1155735",
+   "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8758236,
+     "lng": -5.4293199,
+     "name": "Glenfinnan Viaduct",
+     "source": "nominatim",
+     "osm_id": "way/99471691",
+     "wikidata": "Q1155735",
+     "osm_class": "man_made=bridge",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glenfinnan Viaduct"
+     ],
+     "importance": 0.3498723237425788,
+     "rank": 0
+    },
+    {
+     "lat": 56.8762374,
+     "lng": -5.4312241,
+     "name": "Glenfinnan Viaduct",
+     "source": "photon",
+     "osm_id": "W/23587235",
+     "wikidata": "",
+     "osm_class": "bridge=viaduct",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Viaduct, Glenfinnan, United Kingdom",
+     "names_all": [
+      "Glenfinnan Viaduct"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.8758236,
+     "lng": -5.4293199,
+     "name": "Glenfinnan Viaduct",
+     "source": "nominatim",
+     "osm_id": "way/99471691",
+     "wikidata": "Q1155735",
+     "osm_class": "man_made=bridge",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Viaduct, Glenfinnan Viaduct Trail, Glenfinnan, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glenfinnan Viaduct"
+     ],
+     "importance": 0.3498723237425788,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glenfinnan"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glenfinnan monument": {
+  "res": {
+   "ok": true,
+   "lat": 56.869173,
+   "lng": -5.43705,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.781,
+   "name": "Glenfinnan Monument",
+   "locality": "Glenfinnan",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q17574839",
+   "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.8691729,
+     "lng": -5.4370496,
+     "name": "Glenfinnan Monument",
+     "source": "nominatim",
+     "osm_id": "way/231734966",
+     "wikidata": "Q17574839",
+     "osm_class": "tourism=attraction",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+     "names_all": [
+      "Glenfinnan Monument"
+     ],
+     "importance": 0.18554865524912875,
+     "rank": 0
+    },
+    {
+     "lat": 56.8691729,
+     "lng": -5.4370496,
+     "name": "Glenfinnan Monument",
+     "source": "photon",
+     "osm_id": "W/231734966",
+     "wikidata": "",
+     "osm_class": "historic=memorial",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Monument, Glenfinnan, United Kingdom",
+     "names_all": [
+      "Glenfinnan Monument"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.8691729,
+     "lng": -5.4370496,
+     "name": "Glenfinnan Monument",
+     "source": "nominatim",
+     "osm_id": "way/231734966",
+     "wikidata": "Q17574839",
+     "osm_class": "tourism=attraction",
+     "locality": "Glenfinnan",
+     "display": "Glenfinnan Monument, Road to the Isles, Glenfinnan, Highland, Alba / Scotland, PH37 4LT, United Kingdom",
+     "names_all": [
+      "Glenfinnan Monument"
+     ],
+     "importance": 0.18554865524912875,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glenfinnan"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::castle stalker": {
+  "res": {
+   "ok": true,
+   "lat": 56.571555,
+   "lng": -5.386109,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.858,
+   "name": "Castle Stalker",
+   "locality": "Appin",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q217058",
+   "display": "Castle Stalker, A828, Achosrigan, Appin, Argyll and Bute, Alba / Scotland, PA38 4BH, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.5715549,
+     "lng": -5.3861094,
+     "name": "Castle Stalker",
+     "source": "nominatim",
+     "osm_id": "way/276673910",
+     "wikidata": "Q217058",
+     "osm_class": "tourism=attraction",
+     "locality": "Appin",
+     "display": "Castle Stalker, A828, Achosrigan, Appin, Argyll and Bute, Alba / Scotland, PA38 4BH, United Kingdom",
+     "names_all": [
+      "Castle Stalker"
+     ],
+     "importance": 0.34188389141160974,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "oban_appin"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::oban": {
+  "res": {
+   "ok": true,
+   "lat": 56.412017,
+   "lng": -5.472373,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.887,
+   "name": "Oban",
+   "locality": "Oban",
+   "osm_class": "place=town",
+   "wikidata": "Q935702",
+   "display": "Oban, Argyll and Bute, Alba / Scotland, PA34 4AT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.4120166,
+     "lng": -5.4723731,
+     "name": "Oban",
+     "source": "nominatim",
+     "osm_id": "node/26238533",
+     "wikidata": "Q935702",
+     "osm_class": "place=town",
+     "locality": "Oban",
+     "display": "Oban, Argyll and Bute, Alba / Scotland, PA34 4AT, United Kingdom",
+     "names_all": [
+      "Oban"
+     ],
+     "importance": 0.492575131998027,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "oban_appin"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::loch lomond": {
+  "res": {
+   "ok": true,
+   "lat": 56.156196,
+   "lng": -4.656376,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.799,
+   "name": "Loch Lomond",
+   "locality": "Balmaha",
+   "osm_class": "water=lake",
+   "wikidata": "Q208926",
+   "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.1561963,
+     "lng": -4.6563759,
+     "name": "Loch Lomond",
+     "source": "nominatim",
+     "osm_id": "relation/11015",
+     "wikidata": "Q208926",
+     "osm_class": "water=lake",
+     "locality": "Balmaha",
+     "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+     "names_all": [
+      "Loch Lomond"
+     ],
+     "importance": 0.47938186412281825,
+     "rank": 0
+    },
+    {
+     "lat": 56.1561963,
+     "lng": -4.6563759,
+     "name": "Loch Lomond",
+     "source": "photon",
+     "osm_id": "R/11015",
+     "wikidata": "",
+     "osm_class": "water=lake",
+     "locality": "Balmaha",
+     "display": "Loch Lomond, Balmaha, United Kingdom",
+     "names_all": [
+      "Loch Lomond"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.1561963,
+     "lng": -4.6563759,
+     "name": "Loch Lomond",
+     "source": "nominatim",
+     "osm_id": "relation/11015",
+     "wikidata": "Q208926",
+     "osm_class": "water=lake",
+     "locality": "Balmaha",
+     "display": "Loch Lomond, Balmaha, Stirling, Alba / Scotland, G83 8QZ, United Kingdom",
+     "names_all": [
+      "Loch Lomond"
+     ],
+     "importance": 0.47938186412281825,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_lomond"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::eilean donan castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.273868,
+   "lng": -5.516033,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.802,
+   "name": "Eilean Donan Castle",
+   "locality": "Dornie",
+   "osm_class": "historic=castle",
+   "wikidata": "Q20816698",
+   "display": "Eilean Donan Castle, A87, Lagg, Dornie, Highland, Alba / Scotland, IV40 8EZ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.2738675,
+     "lng": -5.5160335,
+     "name": "Eilean Donan Castle",
+     "source": "nominatim",
+     "osm_id": "relation/3825399",
+     "wikidata": "Q20816698",
+     "osm_class": "historic=castle",
+     "locality": "Dornie",
+     "display": "Eilean Donan Castle, A87, Lagg, Dornie, Highland, Alba / Scotland, IV40 8EZ, United Kingdom",
+     "names_all": [
+      "Eilean Donan Castle"
+     ],
+     "importance": 0.308429648456196,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "glen_shiel"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::plockton": {
+  "res": {
+   "ok": true,
+   "lat": 57.338081,
+   "lng": -5.651894,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.779,
+   "name": "Plockton",
+   "locality": "Plockton",
+   "osm_class": "place=village",
+   "wikidata": "Q3997466",
+   "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.338081,
+     "lng": -5.6518941,
+     "name": "Plockton",
+     "source": "nominatim",
+     "osm_id": "node/25376332",
+     "wikidata": "Q3997466",
+     "osm_class": "place=village",
+     "locality": "Plockton",
+     "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+     "names_all": [
+      "Plockton"
+     ],
+     "importance": 0.14671832684824898,
+     "rank": 1
+    },
+    {
+     "lat": 57.338081,
+     "lng": -5.6518941,
+     "name": "Plockton",
+     "source": "photon",
+     "osm_id": "N/25376332",
+     "wikidata": "",
+     "osm_class": "place=village",
+     "locality": "Highland",
+     "display": "Plockton, United Kingdom",
+     "names_all": [
+      "Plockton"
+     ],
+     "importance": 0.0,
+     "rank": 3
+    },
+    {
+     "lat": 57.338081,
+     "lng": -5.6518941,
+     "name": "Plockton",
+     "source": "nominatim",
+     "osm_id": "node/25376332",
+     "wikidata": "Q3997466",
+     "osm_class": "place=village",
+     "locality": "Plockton",
+     "display": "Plockton, Highland, Alba / Scotland, IV52 8TW, United Kingdom",
+     "names_all": [
+      "Plockton"
+     ],
+     "importance": 0.14671832684824898,
+     "rank": 1
+    }
+   ]
+  },
+  "area_key": "torridon_applecross"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::bealach na ba": {
+  "res": {
+   "ok": true,
+   "lat": 57.407683,
+   "lng": -5.674971,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.705,
+   "name": "Bealach na Bà",
+   "locality": "Highland",
+   "osm_class": "highway=tertiary",
+   "wikidata": "Q812915",
+   "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+   "reason": "fuentes discrepan 2.8 km",
+   "alternatives": [
+    {
+     "lat": 57.4076831,
+     "lng": -5.6749715,
+     "name": "Bealach na Bà",
+     "source": "nominatim",
+     "osm_id": "way/44176541",
+     "wikidata": "Q812915",
+     "osm_class": "highway=tertiary",
+     "locality": "Highland",
+     "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Bealach na Bà"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    },
+    {
+     "lat": 57.4079733,
+     "lng": -5.628677,
+     "name": "Bealach na Bà",
+     "source": "photon",
+     "osm_id": "W/4239022",
+     "wikidata": "",
+     "osm_class": "highway=tertiary",
+     "locality": "Highland",
+     "display": "Bealach na Bà, United Kingdom",
+     "names_all": [
+      "Bealach na Bà"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.4076831,
+     "lng": -5.6749715,
+     "name": "Bealach na Bà",
+     "source": "nominatim",
+     "osm_id": "way/44176541",
+     "wikidata": "Q812915",
+     "osm_class": "highway=tertiary",
+     "locality": "Highland",
+     "display": "Bealach na Bà, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Bealach na Bà"
+     ],
+     "importance": 0.2024340213354661,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "torridon_applecross"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::old man of storr": {
+  "res": {
+   "ok": true,
+   "lat": 57.506962,
+   "lng": -6.174639,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.737,
+   "name": "Old Man of Storr",
+   "locality": "Highland",
+   "osm_class": "natural=peak",
+   "wikidata": "Q104578769",
+   "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5069624,
+     "lng": -6.1746388,
+     "name": "Old Man of Storr",
+     "source": "nominatim",
+     "osm_id": "node/1311840056",
+     "wikidata": "Q104578769",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Old Man of Storr"
+     ],
+     "importance": 0.2791651820367976,
+     "rank": 0
+    },
+    {
+     "lat": 57.5069624,
+     "lng": -6.1746388,
+     "name": "Old Man of Storr",
+     "source": "photon",
+     "osm_id": "N/1311840056",
+     "wikidata": "",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Old Man of Storr, United Kingdom",
+     "names_all": [
+      "Old Man of Storr"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.5069624,
+     "lng": -6.1746388,
+     "name": "Old Man of Storr",
+     "source": "nominatim",
+     "osm_id": "node/1311840056",
+     "wikidata": "Q104578769",
+     "osm_class": "natural=peak",
+     "locality": "Highland",
+     "display": "Old Man of Storr, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Old Man of Storr"
+     ],
+     "importance": 0.2791651820367976,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_norte"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::quiraing": {
+  "res": {
+   "ok": true,
+   "lat": 57.639736,
+   "lng": -6.274133,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.753,
+   "name": "Quiraing",
+   "locality": "Highland",
+   "osm_class": "place=locality",
+   "wikidata": "",
+   "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+   "reason": "fuentes discrepan 115.7 km",
+   "alternatives": [
+    {
+     "lat": 57.6397361,
+     "lng": -6.2741331,
+     "name": "Quiraing",
+     "source": "nominatim",
+     "osm_id": "node/267262284",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Quiraing"
+     ],
+     "importance": 0.06671998855573358,
+     "rank": 0
+    },
+    {
+     "lat": 56.8012469,
+     "lng": -5.1350013,
+     "name": "Quiraing",
+     "source": "photon",
+     "osm_id": "W/725925210",
+     "wikidata": "",
+     "osm_class": "building=yes",
+     "locality": "Fort William",
+     "display": "Quiraing, Fort William, United Kingdom",
+     "names_all": [
+      "Quiraing"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.6397361,
+     "lng": -6.2741331,
+     "name": "Quiraing",
+     "source": "nominatim",
+     "osm_id": "node/267262284",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Quiraing, Stafainn, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Quiraing"
+     ],
+     "importance": 0.06671998855573358,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fairy glen": {
+  "res": {
+   "ok": true,
+   "lat": 57.58335,
+   "lng": -6.327396,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.703,
+   "name": "Fairy Glen",
+   "locality": "Highland",
+   "osm_class": "place=locality",
+   "wikidata": "",
+   "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5833497,
+     "lng": -6.3273958,
+     "name": "Fairy Glen",
+     "source": "nominatim",
+     "osm_id": "node/1363760928",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+     "names_all": [
+      "Fairy Glen"
+     ],
+     "importance": 0.0667016685740444,
+     "rank": 2
+    },
+    {
+     "lat": 57.5833497,
+     "lng": -6.3273958,
+     "name": "Fairy Glen",
+     "source": "photon",
+     "osm_id": "N/1363760928",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Fairy Glen, United Kingdom",
+     "names_all": [
+      "Fairy Glen"
+     ],
+     "importance": 0.0,
+     "rank": 1
+    },
+    {
+     "lat": 57.5833497,
+     "lng": -6.3273958,
+     "name": "Fairy Glen",
+     "source": "nominatim",
+     "osm_id": "node/1363760928",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Highland",
+     "display": "Fairy Glen, Balnaknock, Highland, Alba / Scotland, IV51 9YG, United Kingdom",
+     "names_all": [
+      "Fairy Glen"
+     ],
+     "importance": 0.0667016685740444,
+     "rank": 2
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::skye museum of island life": {
+  "res": {
+   "ok": true,
+   "lat": 57.660216,
+   "lng": -6.368944,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.913,
+   "name": "Skye Museum of Island Life",
+   "locality": "Cille Mhoire",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q2414262",
+   "display": "Skye Museum of Island Life, A855, Hungladar, Cille Mhoire, Highland, Alba / Scotland, IV51 9UE, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.6602158,
+     "lng": -6.3689445,
+     "name": "Skye Museum of Island Life",
+     "source": "nominatim",
+     "osm_id": "way/387796846",
+     "wikidata": "Q2414262",
+     "osm_class": "tourism=museum",
+     "locality": "Cille Mhoire",
+     "display": "Skye Museum of Island Life, A855, Hungladar, Cille Mhoire, Highland, Alba / Scotland, IV51 9UE, United Kingdom",
+     "names_all": [
+      "Skye Museum of Island Life"
+     ],
+     "importance": 0.3869235073939477,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_noroeste"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::neist point lighthouse": {
+  "res": {
+   "ok": true,
+   "lat": 57.423388,
+   "lng": -6.788237,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.75,
+   "name": "Neist Point Lighthouse",
+   "locality": "Glendale",
+   "osm_class": "man_made=lighthouse",
+   "wikidata": "Q15261568",
+   "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.423388,
+     "lng": -6.7882368,
+     "name": "Neist Point Lighthouse",
+     "source": "nominatim",
+     "osm_id": "way/264881014",
+     "wikidata": "Q15261568",
+     "osm_class": "man_made=lighthouse",
+     "locality": "Glendale",
+     "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+     "names_all": [
+      "Neist Point Lighthouse"
+     ],
+     "importance": 0.31620884567581686,
+     "rank": 0
+    },
+    {
+     "lat": 57.423388,
+     "lng": -6.7882368,
+     "name": "Neist Point Lighthouse",
+     "source": "photon",
+     "osm_id": "W/264881014",
+     "wikidata": "",
+     "osm_class": "man_made=lighthouse",
+     "locality": "Glendale",
+     "display": "Neist Point Lighthouse, Glendale, United Kingdom",
+     "names_all": [
+      "Neist Point Lighthouse"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.423388,
+     "lng": -6.7882368,
+     "name": "Neist Point Lighthouse",
+     "source": "nominatim",
+     "osm_id": "way/264881014",
+     "wikidata": "Q15261568",
+     "osm_class": "man_made=lighthouse",
+     "locality": "Glendale",
+     "display": "Neist Point Lighthouse, Waterstein Road, Upper Milovaig, Borrodale, Glendale, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
+     "names_all": [
+      "Neist Point Lighthouse"
+     ],
+     "importance": 0.31620884567581686,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_oeste"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fairy pools": {
+  "res": {
+   "ok": true,
+   "lat": 57.249108,
+   "lng": -6.248658,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.752,
+   "name": "Fairy Pools",
+   "locality": "Highland",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "Q24993835",
+   "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2491078,
+     "lng": -6.2486579,
+     "name": "Fairy Pools",
+     "source": "nominatim",
+     "osm_id": "node/10183079017",
+     "wikidata": "Q24993835",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Highland",
+     "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Fairy Pools"
+     ],
+     "importance": 0.2659205816262254,
+     "rank": 0
+    },
+    {
+     "lat": 57.2491078,
+     "lng": -6.2486579,
+     "name": "Fairy Pools",
+     "source": "photon",
+     "osm_id": "N/10183079017",
+     "wikidata": "",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Highland",
+     "display": "Fairy Pools, United Kingdom",
+     "names_all": [
+      "Fairy Pools"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.2491078,
+     "lng": -6.2486579,
+     "name": "Fairy Pools",
+     "source": "nominatim",
+     "osm_id": "node/10183079017",
+     "wikidata": "Q24993835",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Highland",
+     "display": "Fairy Pools, Cuckoo Road, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Fairy Pools"
+     ],
+     "importance": 0.2659205816262254,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::elgol": {
+  "res": {
+   "ok": true,
+   "lat": 57.149235,
+   "lng": -6.10143,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.714,
+   "name": "Elgol",
+   "locality": "Elgol",
+   "osm_class": "place=village",
+   "wikidata": "Q2875342",
+   "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.1492354,
+     "lng": -6.1014299,
+     "name": "Elgol",
+     "source": "nominatim",
+     "osm_id": "node/566165029",
+     "wikidata": "Q2875342",
+     "osm_class": "place=village",
+     "locality": "Elgol",
+     "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+     "names_all": [
+      "Elgol"
+     ],
+     "importance": 0.45934507089358295,
+     "rank": 0
+    },
+    {
+     "lat": 57.1492354,
+     "lng": -6.1014299,
+     "name": "Elgol",
+     "source": "photon",
+     "osm_id": "N/566165029",
+     "wikidata": "",
+     "osm_class": "place=village",
+     "locality": "Highland",
+     "display": "Elgol, United Kingdom",
+     "names_all": [
+      "Elgol"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.1492354,
+     "lng": -6.1014299,
+     "name": "Elgol",
+     "source": "nominatim",
+     "osm_id": "node/566165029",
+     "wikidata": "Q2875342",
+     "osm_class": "place=village",
+     "locality": "Elgol",
+     "display": "Elgol, Highland, Alba / Scotland, IV49 9BJ, United Kingdom",
+     "names_all": [
+      "Elgol"
+     ],
+     "importance": 0.45934507089358295,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "skye_sur"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::ness islands": {
+  "res": {
+   "ok": true,
+   "lat": 57.464031,
+   "lng": -4.230526,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.768,
+   "name": "Ness Islands",
+   "locality": "Inverness",
+   "osm_class": "place=locality",
+   "wikidata": "Q15261795",
+   "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.464031,
+     "lng": -4.2305264,
+     "name": "Ness Islands",
+     "source": "nominatim",
+     "osm_id": "node/1447543132",
+     "wikidata": "Q15261795",
+     "osm_class": "place=locality",
+     "locality": "Inverness",
+     "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+     "names_all": [
+      "Ness Islands"
+     ],
+     "importance": 0.14389741120638372,
+     "rank": 0
+    },
+    {
+     "lat": 57.464031,
+     "lng": -4.2305264,
+     "name": "Ness Islands",
+     "source": "photon",
+     "osm_id": "N/1447543132",
+     "wikidata": "",
+     "osm_class": "place=locality",
+     "locality": "Inverness",
+     "display": "Ness Islands, Inverness, United Kingdom",
+     "names_all": [
+      "Ness Islands"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.464031,
+     "lng": -4.2305264,
+     "name": "Ness Islands",
+     "source": "nominatim",
+     "osm_id": "node/1447543132",
+     "wikidata": "Q15261795",
+     "osm_class": "place=locality",
+     "locality": "Inverness",
+     "display": "Ness Islands, Bught, Ballifeary, Inverness, Highland, Alba / Scotland, IV2 4QS, United Kingdom",
+     "names_all": [
+      "Ness Islands"
+     ],
+     "importance": 0.14389741120638372,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::inverness castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.476433,
+   "lng": -4.225644,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "Inverness Castle",
+   "locality": "Inverness",
+   "osm_class": "historic=castle",
+   "wikidata": "Q6060213",
+   "display": "Inverness Castle, Great Glen Way, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV2 4SA, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.4764335,
+     "lng": -4.2256439,
+     "name": "Inverness Castle",
+     "source": "nominatim",
+     "osm_id": "way/309116675",
+     "wikidata": "Q6060213",
+     "osm_class": "historic=castle",
+     "locality": "Inverness",
+     "display": "Inverness Castle, Great Glen Way, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV2 4SA, United Kingdom",
+     "names_all": [
+      "Inverness Castle"
+     ],
+     "importance": 0.3378692872294172,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::victorian market": {
+  "res": {
+   "ok": true,
+   "lat": 57.479058,
+   "lng": -4.225507,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.868,
+   "name": "Victorian Market",
+   "locality": "Inverness",
+   "osm_class": "shop=mall",
+   "wikidata": "",
+   "display": "Victorian Market, Academy Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1PG, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.4790584,
+     "lng": -4.2255066,
+     "name": "Victorian Market",
+     "source": "nominatim",
+     "osm_id": "way/158193669",
+     "wikidata": "",
+     "osm_class": "shop=mall",
+     "locality": "Inverness",
+     "display": "Victorian Market, Academy Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1PG, United Kingdom",
+     "names_all": [
+      "Victorian Market"
+     ],
+     "importance": 6.526665140759926e-05,
+     "rank": 3
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::church street": {
+  "res": {
+   "ok": true,
+   "lat": 57.477762,
+   "lng": -4.225662,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.71,
+   "name": "Church Street",
+   "locality": "Inverness",
+   "osm_class": "highway=pedestrian",
+   "wikidata": "",
+   "display": "Church Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1DZ, United Kingdom",
+   "reason": "fuentes discrepan 77.7 km",
+   "alternatives": [
+    {
+     "lat": 57.3883506,
+     "lng": -5.5132169,
+     "name": "Church Street",
+     "source": "photon",
+     "osm_id": "W/33741428",
+     "wikidata": "",
+     "osm_class": "highway=tertiary",
+     "locality": "Lochcarron",
+     "display": "Church Street, Lochcarron, United Kingdom",
+     "names_all": [
+      "Church Street"
+     ],
+     "importance": 0.0,
+     "rank": 3
+    },
+    {
+     "lat": 57.4777624,
+     "lng": -4.2256621,
+     "name": "Church Street",
+     "source": "nominatim",
+     "osm_id": "way/388644547",
+     "wikidata": "",
+     "osm_class": "highway=pedestrian",
+     "locality": "Inverness",
+     "display": "Church Street, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV1 1DZ, United Kingdom",
+     "names_all": [
+      "Church Street"
+     ],
+     "importance": 0.05339859998474094,
+     "rank": 7
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::loch ness centre": {
+  "res": {
+   "ok": true,
+   "lat": 57.33737,
+   "lng": -4.477875,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.897,
+   "name": "Loch Ness Centre & Exhibition",
+   "locality": "Drumnadrochit",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Loch Ness Centre & Exhibition, A82, Borlum, Drumnadrochit, Highland, Alba / Scotland, IV63 6TU, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3373696,
+     "lng": -4.4778748,
+     "name": "Loch Ness Centre & Exhibition",
+     "source": "nominatim",
+     "osm_id": "node/868877113",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "Drumnadrochit",
+     "display": "Loch Ness Centre & Exhibition, A82, Borlum, Drumnadrochit, Highland, Alba / Scotland, IV63 6TU, United Kingdom",
+     "names_all": [
+      "Loch Ness Centre & Exhibition"
+     ],
+     "importance": 5.1898222323903526e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort augustus": {
+  "res": {
+   "ok": true,
+   "lat": 57.144332,
+   "lng": -4.681487,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.819,
+   "name": "Fort Augustus",
+   "locality": "Fort Augustus",
+   "osm_class": "place=village",
+   "wikidata": "Q1012033",
+   "display": "Fort Augustus, Highland, Alba / Scotland, PH32 4AY, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.1443325,
+     "lng": -4.681487,
+     "name": "Fort Augustus",
+     "source": "nominatim",
+     "osm_id": "node/281694663",
+     "wikidata": "Q1012033",
+     "osm_class": "place=village",
+     "locality": "Fort Augustus",
+     "display": "Fort Augustus, Highland, Alba / Scotland, PH32 4AY, United Kingdom",
+     "names_all": [
+      "Fort Augustus"
+     ],
+     "importance": 0.4554630140469895,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "loch_ness"
  }
 }

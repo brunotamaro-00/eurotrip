@@ -185,9 +185,24 @@ def main() -> int:
     overrides = geo.load_overrides()
     print(f"auditando {len(rows)} filas · {len(overrides)} overrides · caché {len(cache)}")
 
+    # Sin esto, un SIGTERM mata el proceso sin ejecutar el `finally` y se pierde
+    # el reporte de todo lo auditado hasta ese momento.
+    import signal
+
+    parar = {"v": False}
+
+    def _parar(signum, frame):
+        parar["v"] = True
+        print("  señal recibida: guardo el reporte parcial y salgo", flush=True)
+
+    signal.signal(signal.SIGTERM, _parar)
+    signal.signal(signal.SIGINT, _parar)
+
     result: list[dict] = []
     try:
         for i, r in enumerate(rows, 1):
+            if parar["v"]:
+                break
             result += audit([r], cache, overrides)
             if i % 10 == 0:
                 geo.save_cache(cache)
