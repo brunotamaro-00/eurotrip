@@ -1,8 +1,32 @@
 #!/usr/bin/env python3
 """
+DEPRECATED — no correr. Se conserva como registro de cómo se generaron los
+primeros 585 lugares. Reemplazado por areas.py + geo.py + build_katia.py.
+
 Extrae lugares de actividades.md (Londres→Budapest), geocodifica con
 Nominatim (lat/lng verificadas contra bbox de ciudad) y genera CSVs
 para Google My Maps.
+
+Por qué se retiró — tres defectos que produjeron coordenadas mal ubicadas:
+
+1. `CITIES` le da a Highlands `max_km=220` y `view_deg=3.5` (L48). Con ese radio
+   la validación acepta cualquier punto de Escocia.
+2. `nominatim_search()` elige el candidato MÁS CERCANO AL CENTROIDE de la ciudad
+   (L597-616) e ignora la relevancia. Combinado con (1), eso hizo que
+   `Loch Cluanie` matcheara un lochan homónimo cerca de Whitebridge —30 km al
+   este del real— justamente porque quedaba a 2 km del centroide de Highlands.
+   La regla de desempate seleccionaba el error.
+3. `bounded="0"` (L581) deja el viewbox como simple hint, y el reintento sin
+   `countrycodes` ni viewbox (L588-593) no filtra por distancia después.
+
+Además, 25 lugares de Isle of Skye devolvieron `no_results` (el sufijo
+", Isle of Skye, UK" rompe el match) y se rellenaron a mano en un segundo pase
+que no dejó script: son las 92 filas con `geo_source: "manual_fix"` en
+geocoded_ok.json, sin validar y con 2-4 decimales.
+
+El reemplazo corrige los tres: max_km <= 25 con sub-áreas, scoring donde la
+distancia pesa 0.15 en vez de ser el único criterio, y cascada
+Wikidata -> Overpass -> Nominatim con bounded=1.
 """
 from __future__ import annotations
 

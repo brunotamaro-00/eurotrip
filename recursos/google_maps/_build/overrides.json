@@ -1,0 +1,17 @@
+{
+  "_schema": {
+    "descripcion": "Coordenadas fijadas a mano. Cada entrada EXIGE source, url y checked_at: es la regla que evita repetir las 92 filas `manual_fix` del pase anterior, que se tipearon sin dejar procedencia. load_overrides() hace assert de los tres campos y de la precisión.",
+    "campos_obligatorios": ["lat", "lng", "source", "url", "checked_at"],
+    "precision_minima_decimales": 5,
+    "ejemplo": {
+      "highlands--loch-cluanie": {
+        "lat": 57.13245,
+        "lng": -5.03128,
+        "source": "wikidata:Q6664092",
+        "url": "https://www.wikidata.org/wiki/Q6664092",
+        "checked_at": "2026-08-02",
+        "note": "El resolver elegia un lochan cerca de Whitebridge, 30 km al este"
+      }
+    }
+  }
+}

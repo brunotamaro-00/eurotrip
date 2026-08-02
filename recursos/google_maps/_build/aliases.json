@@ -1,0 +1,8 @@
+{
+  "_schema": {
+    "descripcion": "Mapa nombre en español -> nombre en idioma local. Alimenta dos cosas: el dedup (para que `Castillo del Huevo` matchee `Castel dell'Ovo`) y la reescritura de lugar_busqueda (que va SIEMPRE en idioma local, porque es lo que resuelve bien en una busqueda por texto).",
+    "clave": "nombre tal como aparece en el .md o en el CSV",
+    "valor": "nombre local + opcionalmente el QID de Wikidata"
+  },
+  "aliases": {}
+}
