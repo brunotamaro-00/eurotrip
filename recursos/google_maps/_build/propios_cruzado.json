@@ -11220,9 +11220,10 @@
   "precio": "~€4-6",
   "notas": "Material de Kamarina (colonia griega de la costa) y de las necrópolis iblias. (~€4-6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.923931,
+  "lng": 14.727016,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--palazzo-zacco-y-palazzo-bertini",
@@ -11289,9 +11290,10 @@
   "precio": "",
   "notas": "\"Vigàta\" en muchas escenas: Piazza Duomo, Circolo di Conversazione, los callejones",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.931346,
+  "lng": 14.750924,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--scicli",
@@ -11312,9 +11314,10 @@
   "precio": "",
   "notas": "El Palazzo Municipio es la comisaría (*commissariato*) de la serie, con el despacho de Montalbano abierto a la visita. Ver Day_trips/Scicli.md",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.79357,
+  "lng": 14.706964,
+  "origen_geo": "nominatim",
+  "locality": "Scicli"
  },
  {
   "id": "ragusa--punta-secca",
@@ -11404,9 +11407,10 @@
   "precio": "~€6",
   "notas": "Cañón de 13 km con cientos de tumbas rupestres, catacumbas cristianas, iglesias y habitaciones excavadas en la roca, ocupado desde el Neolítico hasta el s. XIX. A 30 min. (~€6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.853772,
+  "lng": 14.837268,
+  "origen_geo": "nominatim",
+  "locality": "Modica"
  },
  {
   "id": "ragusa--marina-di-ragusa",
@@ -11420,16 +11424,17 @@
   "region": "sur",
   "seccion": "🌿 Naturaleza y alrededores inmediatos",
   "nombre": "Marina di Ragusa",
-  "nombre_local": "Marina di Ragusa",
+  "nombre_local": "Strada provinciale Ragusa-Marina di Ragusa",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "La playa de la ciudad, a 25 min. En noviembre está tranquila pero el paseo funciona. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.89611,
+  "lng": 14.700646,
+  "origen_geo": "photon",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--kamarina-parque-arqueologico",
@@ -11473,9 +11478,10 @@
   "precio": "~€10",
   "notas": "Palacio neogótico del s. XIX con fachada veneciana absurda, 122 habitaciones, museo del traje y un laberinto de piedra en el parque. A 20 min. Salió en Montalbano y en *El Gatopardo* de Visc",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.881942,
+  "lng": 14.564122,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "barcelona--sagrada-familia",
@@ -11489,16 +11495,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Sagrada Família",
-  "nombre_local": "Sagrada Família",
+  "nombre_local": "Basílica de la Sagrada Família",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€26",
   "notas": "La obra maestra inacabada de Gaudí (en construcción desde 1882); el interior con las columnas-árbol y las vidrieras de colores es de otro mundo; €26 adulto base (exteriores + interior) / €36",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.403505,
+  "lng": 2.174428,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--park-guell-zona-monumental",
@@ -11512,16 +11519,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Park Güell (zona monumental)",
-  "nombre_local": "Park Güell",
+  "nombre_local": "Parc Güell",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€18",
   "notas": "El proyecto de ciudad-jardín que Gaudí no terminó; la Sala Hipóstila y la Terraza del Dragón son las partes de pago; el resto del parque (fuera de la zona monumental) es gratuito y tranquilo",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.414235,
+  "lng": 2.152458,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--barri-gotic-el-born",
@@ -11558,16 +11566,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Passeig de Gràcia",
-  "nombre_local": "Passeig de Gràcia",
+  "nombre_local": "Passeig de Gràcia (lateral Llobregat)",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El bulevar del Modernismo; en 2 cuadras están Casa Batlló, Casa Amatller y Casa Lleó Morera (la \"Manzana de la Discordia\"); las fachadas son espectaculares desde la calle: GRATIS (ver fachad",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.393404,
+  "lng": 2.163081,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--bunkers-del-carmel",
@@ -11581,16 +11590,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Bunkers del Carmel",
-  "nombre_local": "Bunkers del Carmel",
+  "nombre_local": "Turó del Carmel",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "Las mejores vistas de toda Barcelona (360°, incluyendo el mar); antiguos búnkeres de la Guerra Civil en la cima del Turó de la Rovira; el atardecer aquí supera a cualquier mirador de pago; e",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.418348,
+  "lng": 2.153273,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--las-ramblas-mercado-de-la-boqueria",
@@ -11604,16 +11614,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Las Ramblas + Mercado de la Boqueria",
-  "nombre_local": "Las Ramblas + Mercado de la Boqueria",
+  "nombre_local": "La Rambla / Mercat de la Boqueria",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "La arteria peatonal de Barcelona; turística y con carteristas pero vale como \"pasada\"; La Boqueria: llegar temprano (antes de las 10h) cuando es mercado real; después es show turístico caro ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.382014,
+  "lng": 2.172457,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--museu-picasso",
@@ -11634,9 +11645,10 @@
   "precio": "€19",
   "notas": "La mayor colección de obra temprana de Picasso (el periodo barcelonés es el más desconocido y sorprendente); 5 palacios medievales del Born conectados; €19 adulto / €12.50 reducido (sub-25, ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.385104,
+  "lng": 2.181201,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--mnac-museu-nacional-d-art-de-catalunya",
@@ -11650,16 +11662,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Cultura",
   "nombre": "MNAC (Museu Nacional d'Art de Catalunya)",
-  "nombre_local": "MNAC",
+  "nombre_local": "Zona bus MNAC",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€12",
   "notas": "El Palau Nacional de Montjuïc con la mejor colección de arte románico del mundo + pintura gótica + arte modernista; €12 adulto (válido 2 días dentro de 1 mes; incluye terraza con vistas)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.368108,
+  "lng": 2.151918,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--fundacio-joan-miro",
@@ -11680,9 +11693,10 @@
   "precio": "€18",
   "notas": "El museo de Miró en Montjuïc; colección surrealista en un edificio de Sert lleno de luz; €18 adulto / €12 (15-30 años); gratis menores 14",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.368645,
+  "lng": 2.160084,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--palau-de-la-musica-catalana",
@@ -11703,9 +11717,10 @@
   "precio": "~€22-24",
   "notas": "El único auditorio declarado Patrimonio UNESCO en el mundo; arquitectura Modernista de Domènech i Montaner; visita guiada: ~€22-24; asistir a un concierto: desde €38; la fachada es gratis de",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.387584,
+  "lng": 2.175232,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--casa-batllo",
@@ -11726,9 +11741,10 @@
   "precio": "desde €29",
   "notas": "La \"casa del dragón\"; la fachada más impresionante del Modernismo; desde €29 (precio varía según horario y tipo de experiencia); \"Magic Nights\" y visitas nocturnas más caras pero muy bien va",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.391545,
+  "lng": 2.164696,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--la-pedrera-casa-mila",
@@ -11742,16 +11758,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Cultura",
   "nombre": "La Pedrera (Casa Milà)",
-  "nombre_local": "La Pedrera",
+  "nombre_local": "la Pedrera",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "Essential desde €25",
   "notas": "La última obra civil de Gaudí; la azotea con las chimeneas en forma de guerreros medievales vale la visita; Essential desde €25 — la alternativa más accesible entre los interiores Gaudí de p",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.412749,
+  "lng": 2.146718,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--macba-museu-d-art-contemporani",
@@ -11772,9 +11789,10 @@
   "precio": "~€12",
   "notas": "El cubo blanco de Richard Meier frente al Raval; una de las mejores plazas de Barcelona para skateboard y cultura urbana; ~€12 adulto (verificar en macba.cat)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.382809,
+  "lng": 2.166476,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--poble-espanyol",
@@ -11795,9 +11813,10 @@
   "precio": "€13.50",
   "notas": "Recinto de la Expo 1929 con réplicas de arquitecturas de toda España; talleres de artesanía, restaurantes; vida nocturna los fines de semana; €13.50 online / €15 en puerta",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.368544,
+  "lng": 2.148258,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--el-born-sant-pere-santa-caterina-i-la-ribera",
@@ -11818,9 +11837,10 @@
   "precio": "Gratis",
   "notas": "El barrio más chic del centro histórico; palacios medievales, galerías independientes, vinotecas y restaurantes de nivel; Passeig del Born, Mercado de Santa Caterina (techo de mosaico multic",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.385712,
+  "lng": 2.183637,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--gracia",
@@ -11841,9 +11861,10 @@
   "precio": "Gratis",
   "notas": "El barrio más \"local\" del centro; fue municipio independiente hasta 1897; Plaça del Sol y Plaça de la Vila de Gràcia llenas de terrazas de locales; Mercat de la Llibertat; ambiente tranquilo",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.406577,
+  "lng": 2.158281,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--poble-sec",
@@ -11857,16 +11878,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Poble Sec",
-  "nombre_local": "Poble Sec",
+  "nombre_local": "el Poble-sec",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "€1.50-2",
   "notas": "Ladera del Montjuïc; la Carrer de Blai es la \"calle de los pintxos\" de Barcelona — pintxos a €1.50-2 c/u en decenas de bares; el mejor precio por calidad gastronómica de toda la ciudad: GRAT",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.372806,
+  "lng": 2.161972,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--barceloneta",
@@ -11880,16 +11902,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Barceloneta",
-  "nombre_local": "Barceloneta",
+  "nombre_local": "la Barceloneta",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El barrio marinero; las playas en noviembre están sin turistas y el Passeig Marítim es un paseo largo sin multitudes; restaurantes de pescado y arroces con ambiente local: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.380653,
+  "lng": 2.189927,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--eixample",
@@ -11910,9 +11933,10 @@
   "precio": "Gratis",
   "notas": "El Ensanche modernista de Cerdà; cuadrícula perfecta con chaflanes en todas las esquinas; Rambla de Catalunya (más tranquila que Las Ramblas); el \"Gaixample\" (barrio LGBTQ+): GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.488169,
+  "lng": 2.293254,
+  "origen_geo": "nominatim",
+  "locality": "Alella"
  },
  {
   "id": "barcelona--poblenou",
@@ -11926,16 +11950,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Poblenou",
-  "nombre_local": "Poblenou",
+  "nombre_local": "el Poblenou",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El barrio industrial reconvertido en barrio creativo; Rambla del Poblenou (la Rambla de los locales), galerías de arte, la playa más tranquila: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.400527,
+  "lng": 2.201729,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--raval",
@@ -11949,16 +11974,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Raval",
-  "nombre_local": "Raval",
+  "nombre_local": "el Raval",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "Multicultural y bohemio al oeste de Las Ramblas; MACBA + CCCB concentran la escena cultural alternativa; en foros se recomienda precaución tarde de noche en algunas calles: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.446271,
+  "lng": 2.237569,
+  "origen_geo": "nominatim",
+  "locality": "Badalona"
  },
  {
   "id": "barcelona--parc-de-la-ciutadella",
@@ -11979,9 +12005,10 @@
   "precio": "Gratis",
   "notas": "El \"Central Park\" de Barcelona; lago con barcas de remo, la cascada monumental (diseñada en parte por un joven Gaudí), patos y familias locales; el parque más relajado de la ciudad: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.388416,
+  "lng": 2.186255,
+  "origen_geo": "nominatim",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--montjuic-completo-dia-entero",
@@ -11995,16 +12022,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Montjuïc completo (día entero)",
-  "nombre_local": "Montjuïc completo",
+  "nombre_local": "Montjuïc",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€12",
   "notas": "El \"cerro mágico\" de Barcelona; Castillo de Montjuïc (vistas al puerto), MNAC, Fundació Miró, Pavelló Mies van der Rohe (€12), jardines de cactus; subir en funicular (incluido en T-Casual) o",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.363151,
+  "lng": 2.165615,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--el-cementiri-de-poblenou",
@@ -12018,16 +12046,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "El Cementiri de Poblenou",
-  "nombre_local": "El Cementiri de Poblenou",
+  "nombre_local": "Cementiri del Poblenou",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El cementerio neoclásico del s. XIX más interesante de Barcelona; arquitectura funeraria única; casi ningún turista lo visita; a 10 min a pie del Born: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.395274,
+  "lng": 2.201858,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--mercat-del-encants-nous-glories",
@@ -12041,16 +12070,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Mercat del Encants Nous (Glòries)",
-  "nombre_local": "Mercat del Encants Nous",
+  "nombre_local": "Mercat dels Encants",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El mercado de segunda mano más grande de Cataluña; bajo una estructura metálica reflectante diseñada para evitar el sol; viernes, sábados y domingos: GRATIS entrar",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.40095,
+  "lng": 2.186228,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "madrid--retiro",
@@ -12071,9 +12101,10 @@
   "precio": "Gratis",
   "notas": "El parque más grande de Madrid (~1.4km²); el Estanque del Retiro con barcas de remo, el Palacio de Cristal (exposiciones gratis), la Rosaleda y los jardines del Parterre; uno de los mejores ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.420463,
+  "lng": -3.686427,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--sol-plaza-mayor-mercado-de-san-miguel",
@@ -12087,16 +12118,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Sol → Plaza Mayor → Mercado de San Miguel",
-  "nombre_local": "Sol → Plaza Mayor → Mercado de San Miguel",
+  "nombre_local": "Mercado san miguel madrid",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El circuito central de Madrid; la Puerta del Sol (km 0 de España), Plaza Mayor del s. XVII, el Mercado de San Miguel (muy turístico pero bien curado, tapas premium): GRATIS caminar; mercado ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.415097,
+  "lng": -3.70801,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--gran-via",
@@ -12117,9 +12149,10 @@
   "precio": "Gratis",
   "notas": "El bulevar de los grandes cines y edificios Art Déco del s. XX; mejor al atardecer o de noche iluminado; ir a pie desde Sol tomando helado: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.42204,
+  "lng": -3.708713,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--barrio-de-la-latina",
@@ -12133,16 +12166,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Barrio de La Latina",
-  "nombre_local": "Barrio de La Latina",
+  "nombre_local": "Barrio de la Latina",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El barrio más castizo de Madrid; Cava Baja y Cava Alta llenas de tabernas con tapas; el Mercado de la Cebada; la Plaza de la Paja; el lugar para el tapeo clásico madrileño: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.412375,
+  "lng": -3.711055,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--malasana",
@@ -12163,9 +12197,10 @@
   "precio": "Gratis",
   "notas": "El barrio bohemio y vintage; tiendas de segunda mano, bares de barrio, Corredera Baja de San Pablo; la esencia del Madrid más joven y local; muy animado el fin de semana: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.426708,
+  "lng": -3.704231,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--museo-nacional-del-prado",
@@ -12179,16 +12214,17 @@
   "region": "sur",
   "seccion": "🎨 Los Tres Grandes Museos",
   "nombre": "Museo Nacional del Prado",
-  "nombre_local": "Museo Nacional del Prado",
+  "nombre_local": "Museo del Prado",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€15",
   "notas": "La mayor colección de pintura española e italiana del mundo; Velázquez (Las Meninas, Rokeby Venus), Goya (Pinturas Negras, El 3 de mayo), Rubens, El Bosco; €15 adulto; GRATIS lun-sáb 18-20h ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.413792,
+  "lng": -3.692041,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--museo-reina-sofia",
@@ -12202,16 +12238,17 @@
   "region": "sur",
   "seccion": "🎨 Los Tres Grandes Museos",
   "nombre": "Museo Reina Sofía",
-  "nombre_local": "Museo Reina Sofía",
+  "nombre_local": "Museo Nacional Centro de Arte Reina Sofía",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€12",
   "notas": "Arte moderno y contemporáneo español; Guernica de Picasso (la razón principal para ir) + las obras del entorno de la Guerra Civil; Dalí, Miró; €12 adulto; franjas de gratuidad (verificar en ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.408049,
+  "lng": -3.694422,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--museo-thyssen-bornemisza",
@@ -12232,9 +12269,10 @@
   "precio": "€14",
   "notas": "La colección privada más importante de España (del renacentismo al siglo XX en un edificio del Paseo del Prado); Holbein, Rembrandt, Monet, Hopper, Hockney; €14 adulto / €10 reducido; GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.416216,
+  "lng": -3.694932,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--palacio-real-de-madrid",
@@ -12255,9 +12293,10 @@
   "precio": "€18",
   "notas": "El palacio oficial de la Corona española (el más grande de Europa occidental por superficie); 3,418 habitaciones; la Armería Real; €18 adulto / €9 reducido; ciudadanos UE e iberoamericanos p",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.41674,
+  "lng": -3.713622,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--templo-de-debod",
@@ -12278,9 +12317,10 @@
   "precio": "Gratis",
   "notas": "Un templo egipcio de 2.200 años de antigüedad donado a España en 1968 (por el apoyo en salvar Abu Simbel de las aguas del Nilo); las vistas al atardecer sobre el Manzanares y la Casa de Camp",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.424069,
+  "lng": -3.717613,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--palacio-de-cibeles-centrocentro",
@@ -12294,16 +12334,17 @@
   "region": "sur",
   "seccion": "🏛️ Más Museos y Cultura",
   "nombre": "Palacio de Cibeles / CentroCentro",
-  "nombre_local": "Palacio de Cibeles / CentroCentro",
+  "nombre_local": "Palacio de Cibeles",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El antiguo Palacio de Comunicaciones (1919) reconvertido en centro cultural; la terraza de La Terraza del Palacio de Cibeles tiene vistas al Paseo del Prado; exposiciones temporales variadas",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.418845,
+  "lng": -3.691812,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--barrio-de-las-letras-barrio-de-los-poetas",
@@ -12317,16 +12358,17 @@
   "region": "sur",
   "seccion": "🏛️ Más Museos y Cultura",
   "nombre": "Barrio de Las Letras (Barrio de los Poetas)",
-  "nombre_local": "Barrio de los Poetas",
+  "nombre_local": "Bar Los Poetas",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El barrio literario del Siglo de Oro; Lope de Vega, Quevedo y Cervantes vivieron aquí; versos de sus obras grabados en el suelo de las calles; la Casa de Lope de Vega es visitable; entre el ",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.468409,
+  "lng": -3.71755,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--matadero-madrid",
@@ -12340,16 +12382,17 @@
   "region": "sur",
   "seccion": "🏛️ Más Museos y Cultura",
   "nombre": "Matadero Madrid",
-  "nombre_local": "Matadero Madrid",
+  "nombre_local": "Matadero Madrid, Centro de creación Contemporánea",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El antiguo matadero municipal (s. XX) reconvertido en el mayor centro de artes de Madrid; teatro, danza, exposiciones, mercados de diseño; en el barrio de Legazpi; la arquitectura industrial",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.391545,
+  "lng": -3.697662,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--lavapies",
@@ -12370,9 +12413,10 @@
   "precio": "Gratis",
   "notas": "El barrio más multicultural de Madrid; buzzing con energía 24h; tapas gratis con bebida en muchos bares de la zona; Mercado de San Fernando (affordable y diverso); arte callejero; Plaza de L",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.408402,
+  "lng": -3.700965,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--chueca",
@@ -12393,9 +12437,10 @@
   "precio": "Gratis",
   "notas": "El barrio LGBTQ+ más famoso de España; bares y restaurantes de calidad, mercado de San Antón (3 plantas, más local que San Miguel); muy animado toda la semana; ambiente completamente abierto",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.422742,
+  "lng": -3.699327,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--salamanca",
@@ -12416,9 +12461,10 @@
   "precio": "Gratis",
   "notas": "El barrio de los ricos; Serrano para el shopping de lujo (Inditex y marcas españolas también); el Museo Thyssen está en el límite; más tranquilo pero elegante: GRATIS pasear",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.427045,
+  "lng": -3.680602,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--lavapies-el-rastro-domingo",
@@ -12432,16 +12478,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Lavapiés + El Rastro (domingo)",
-  "nombre_local": "Lavapiés + El Rastro",
+  "nombre_local": "El Rastro",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El domingo 15 nov: el Rastro (el mercadillo más grande de España) se monta en Ribera de Curtidores desde las 9h hasta las 15h; el plan clásico madrileño del domingo: Rastro → tapas en La Lat",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.408633,
+  "lng": -3.70733,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--templo-de-debod-al-atardecer",
@@ -12455,16 +12502,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Templo de Debod al atardecer",
-  "nombre_local": "Templo de Debod al atardecer",
+  "nombre_local": "Templo de Debod",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El mirador más bonito de Madrid que nadie espera (ya cubierto en museos); reservar en madrid.es/debodreservas; en noviembre el sol se pone exactamente detrás de la Casa de Campo: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.424037,
+  "lng": -3.717725,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--estadio-bernabeu-real-madrid",
@@ -12478,16 +12526,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Estadio Bernabéu (Real Madrid)",
-  "nombre_local": "Estadio Bernabéu",
+  "nombre_local": "Bernabéu",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El nuevo Bernabéu renovado (2024); visita museo e instalaciones; verificar precios en realmadrid.com (alrededor de €30); interesante aunque no sean del Real Madrid por la arquitectura",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.453044,
+  "lng": -3.688197,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--el-rastro-domingo-15-nov",
@@ -12508,9 +12557,10 @@
   "precio": "Gratis",
   "notas": "El mercadillo al aire libre más grande de España; Ribera de Curtidores + calles aledañas; 9h-15h; antigüedades, ropa de segunda mano, libros, gadgets; el plan del domingo madrileño: GRATIS e",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.408633,
+  "lng": -3.70733,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--mercado-de-motores",
@@ -12524,16 +12574,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Mercado de Motores",
-  "nombre_local": "Mercado de Motores",
+  "nombre_local": "Andén 0 - Nave de Motores de Pacífico",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El segundo domingo de cada mes en el Museo del Ferrocarril (Delicias); el mejor mercado vintage de Madrid; verificar si el 15 nov coincide (generalmente 2do domingo)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.404175,
+  "lng": -3.674039,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--la-corrala-de-lavapies",
@@ -12547,16 +12598,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "La Corrala de Lavapiés",
-  "nombre_local": "La Corrala de Lavapiés",
+  "nombre_local": "Plaza de la Corrala",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "Un edificio de vecinos del s. XIX en galería abierta; el más fotogénico del barrio; teatro en el patio en verano: GRATIS ver desde fuera",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.40798,
+  "lng": -3.702753,
+  "origen_geo": "photon",
+  "locality": "Madrid"
  },
  {
   "id": "madrid--circulo-de-bellas-artes-azotea",
@@ -12577,8 +12629,9 @@
   "precio": "~€5",
   "notas": "La azotea del edificio Art Déco en Gran Vía con vistas a toda la ciudad; ~€5 acceso; una de las mejores perspectivas del centro",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.418207,
+  "lng": -3.696514,
+  "origen_geo": "nominatim",
+  "locality": "Madrid"
  }
 ]

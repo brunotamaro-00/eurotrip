@@ -34519,5 +34519,3022 @@
   "display": "",
   "reason": "sin_candidatos",
   "alternatives": []
+ },
+ "ragusa::museo archeologico ibleo": {
+  "ok": true,
+  "lat": 36.923931,
+  "lng": 14.727016,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.769,
+  "name": "Museo Archeologico Ibleo",
+  "locality": "Ragusa",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3867698",
+  "display": "Museo Archeologico Ibleo, Via Natalelli, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.923931,
+    "lng": 14.7270161,
+    "name": "Museo Archeologico Ibleo",
+    "source": "nominatim",
+    "osm_id": "node/2313283265",
+    "wikidata": "Q3867698",
+    "osm_class": "tourism=museum",
+    "locality": "Ragusa",
+    "display": "Museo Archeologico Ibleo, Via Natalelli, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Museo Archeologico Ibleo"
+    ],
+    "importance": 0.34188389141160974,
+    "rank": 0
+   },
+   {
+    "lat": 36.923931,
+    "lng": 14.7270161,
+    "name": "Museo Archeologico Ibleo",
+    "source": "nominatim",
+    "osm_id": "node/2313283265",
+    "wikidata": "Q3867698",
+    "osm_class": "tourism=museum",
+    "locality": "Ragusa",
+    "display": "Museo Archeologico Ibleo, Via Natalelli, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Museo Archeologico Ibleo"
+    ],
+    "importance": 0.34188389141160974,
+    "rank": 0
+   },
+   {
+    "lat": 36.923931,
+    "lng": 14.7270161,
+    "name": "Museo Archeologico Ibleo",
+    "source": "nominatim",
+    "osm_id": "node/2313283265",
+    "wikidata": "Q3867698",
+    "osm_class": "tourism=museum",
+    "locality": "Ragusa",
+    "display": "Museo Archeologico Ibleo, Via Natalelli, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Museo Archeologico Ibleo"
+    ],
+    "importance": 0.34188389141160974,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::palazzo zacco y palazzo bertini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::ponte dei cappuccini ponte nuovo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::ragusa ibla": {
+  "ok": true,
+  "lat": 36.931346,
+  "lng": 14.750924,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.774,
+  "name": "Ragusa Ibla",
+  "locality": "Ragusa",
+  "osm_class": "railway=service_station",
+  "wikidata": "Q3970634",
+  "display": "Ragusa Ibla, Strada statale Ragusana, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9313462,
+    "lng": 14.7509245,
+    "name": "Ragusa Ibla",
+    "source": "nominatim",
+    "osm_id": "node/7750338741",
+    "wikidata": "Q3970634",
+    "osm_class": "railway=service_station",
+    "locality": "Ragusa",
+    "display": "Ragusa Ibla, Strada statale Ragusana, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Ragusa Ibla"
+    ],
+    "importance": 0.2562004762132184,
+    "rank": 0
+   },
+   {
+    "lat": 36.9313462,
+    "lng": 14.7509245,
+    "name": "Ragusa Ibla",
+    "source": "nominatim",
+    "osm_id": "node/7750338741",
+    "wikidata": "Q3970634",
+    "osm_class": "railway=service_station",
+    "locality": "Ragusa",
+    "display": "Ragusa Ibla, Strada statale Ragusana, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Ragusa Ibla"
+    ],
+    "importance": 0.2562004762132184,
+    "rank": 0
+   },
+   {
+    "lat": 36.9313462,
+    "lng": 14.7509245,
+    "name": "Ragusa Ibla",
+    "source": "nominatim",
+    "osm_id": "node/7750338741",
+    "wikidata": "Q3970634",
+    "osm_class": "railway=service_station",
+    "locality": "Ragusa",
+    "display": "Ragusa Ibla, Strada statale Ragusana, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Ragusa Ibla"
+    ],
+    "importance": 0.2562004762132184,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::scicli": {
+  "ok": true,
+  "lat": 36.79357,
+  "lng": 14.706964,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.626,
+  "name": "Scicli",
+  "locality": "Scicli",
+  "osm_class": "boundary=administrative",
+  "wikidata": "Q34123",
+  "display": "Scicli, Ragusa, Sicilia, 97018, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.7935701,
+    "lng": 14.7069644,
+    "name": "Scicli",
+    "source": "nominatim",
+    "osm_id": "relation/39161",
+    "wikidata": "Q34123",
+    "osm_class": "boundary=administrative",
+    "locality": "Scicli",
+    "display": "Scicli, Ragusa, Sicilia, 97018, Italia",
+    "names_all": [
+     "Scicli"
+    ],
+    "importance": 0.4778460023150442,
+    "rank": 0
+   },
+   {
+    "lat": 36.7935701,
+    "lng": 14.7069644,
+    "name": "Scicli",
+    "source": "nominatim",
+    "osm_id": "relation/39161",
+    "wikidata": "Q34123",
+    "osm_class": "boundary=administrative",
+    "locality": "Scicli",
+    "display": "Scicli, Ragusa, Sicilia, 97018, Italia",
+    "names_all": [
+     "Scicli"
+    ],
+    "importance": 0.4778460023150442,
+    "rank": 0
+   },
+   {
+    "lat": 36.7935701,
+    "lng": 14.7069644,
+    "name": "Scicli",
+    "source": "nominatim",
+    "osm_id": "relation/39161",
+    "wikidata": "Q34123",
+    "osm_class": "boundary=administrative",
+    "locality": "Scicli",
+    "display": "Scicli, Ragusa, Sicilia, 97018, Italia",
+    "names_all": [
+     "Scicli"
+    ],
+    "importance": 0.4778460023150442,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::punta secca": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::tours montalbano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::valle dellirminio riserva naturale macchia foresta del fiume irminio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::cava dispica": {
+  "ok": true,
+  "lat": 36.853772,
+  "lng": 14.837268,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.7,
+  "name": "Cava d'Ispica",
+  "locality": "Modica",
+  "osm_class": "waterway=stream",
+  "wikidata": "",
+  "display": "Cava d'Ispica, Modica, Ragusa, Sicilia, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.853772,
+    "lng": 14.8372678,
+    "name": "Cava d'Ispica",
+    "source": "nominatim",
+    "osm_id": "way/957914480",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Modica",
+    "display": "Cava d'Ispica, Modica, Ragusa, Sicilia, Italia",
+    "names_all": [
+     "Cava d'Ispica"
+    ],
+    "importance": 0.10672528953994047,
+    "rank": 0
+   },
+   {
+    "lat": 36.853772,
+    "lng": 14.8372678,
+    "name": "Cava d'Ispica",
+    "source": "nominatim",
+    "osm_id": "way/957914480",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Modica",
+    "display": "Cava d'Ispica, Modica, Ragusa, Sicilia, Italia",
+    "names_all": [
+     "Cava d'Ispica"
+    ],
+    "importance": 0.10672528953994047,
+    "rank": 0
+   },
+   {
+    "lat": 36.853772,
+    "lng": 14.8372678,
+    "name": "Cava d'Ispica",
+    "source": "nominatim",
+    "osm_id": "way/957914480",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Modica",
+    "display": "Cava d'Ispica, Modica, Ragusa, Sicilia, Italia",
+    "names_all": [
+     "Cava d'Ispica"
+    ],
+    "importance": 0.10672528953994047,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::marina di ragusa": {
+  "ok": true,
+  "lat": 36.89611,
+  "lng": 14.700646,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.727,
+  "name": "Strada provinciale Ragusa-Marina di Ragusa",
+  "locality": "Ragusa",
+  "osm_class": "highway=primary",
+  "wikidata": "",
+  "display": "Strada provinciale Ragusa-Marina di Ragusa, Ragusa, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.8961099,
+    "lng": 14.7006458,
+    "name": "Strada provinciale Ragusa-Marina di Ragusa",
+    "source": "photon",
+    "osm_id": "W/1186290165",
+    "wikidata": "",
+    "osm_class": "highway=primary",
+    "locality": "Ragusa",
+    "display": "Strada provinciale Ragusa-Marina di Ragusa, Ragusa, Italia",
+    "names_all": [
+     "Strada provinciale Ragusa-Marina di Ragusa"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   }
+  ]
+ },
+ "ragusa::kamarina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::castello di donnafugata": {
+  "ok": true,
+  "lat": 36.881942,
+  "lng": 14.564122,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.699,
+  "name": "Castello di Donnafugata",
+  "locality": "Ragusa",
+  "osm_class": "building=castle",
+  "wikidata": "Q1048852",
+  "display": "Castello di Donnafugata, Vialetto Corrado Arezzo de Spuches, Donnafugata, Ragusa, Sicilia, 97100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.8819422,
+    "lng": 14.5641216,
+    "name": "Castello di Donnafugata",
+    "source": "nominatim",
+    "osm_id": "relation/4184173",
+    "wikidata": "Q1048852",
+    "osm_class": "building=castle",
+    "locality": "Ragusa",
+    "display": "Castello di Donnafugata, Vialetto Corrado Arezzo de Spuches, Donnafugata, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Castello di Donnafugata"
+    ],
+    "importance": 0.29960026554141705,
+    "rank": 0
+   },
+   {
+    "lat": 36.8819422,
+    "lng": 14.5641216,
+    "name": "Castello di Donnafugata",
+    "source": "photon",
+    "osm_id": "R/4184173",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Ragusa",
+    "display": "Castello di Donnafugata, Ragusa, Italia",
+    "names_all": [
+     "Castello di Donnafugata"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.8819422,
+    "lng": 14.5641216,
+    "name": "Castello di Donnafugata",
+    "source": "nominatim",
+    "osm_id": "relation/4184173",
+    "wikidata": "Q1048852",
+    "osm_class": "building=castle",
+    "locality": "Ragusa",
+    "display": "Castello di Donnafugata, Vialetto Corrado Arezzo de Spuches, Donnafugata, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Castello di Donnafugata"
+    ],
+    "importance": 0.29960026554141705,
+    "rank": 0
+   },
+   {
+    "lat": 36.8819422,
+    "lng": 14.5641216,
+    "name": "Castello di Donnafugata",
+    "source": "nominatim",
+    "osm_id": "relation/4184173",
+    "wikidata": "Q1048852",
+    "osm_class": "building=castle",
+    "locality": "Ragusa",
+    "display": "Castello di Donnafugata, Vialetto Corrado Arezzo de Spuches, Donnafugata, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Castello di Donnafugata"
+    ],
+    "importance": 0.29960026554141705,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::sagrada familia": {
+  "ok": true,
+  "lat": 41.403505,
+  "lng": 2.174428,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.797,
+  "name": "Basílica de la Sagrada Família",
+  "locality": "Barcelona",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q48435",
+  "display": "Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.4035046,
+    "lng": 2.1744283,
+    "name": "Basílica de la Sagrada Família",
+    "source": "nominatim",
+    "osm_id": "relation/9194723",
+    "wikidata": "Q48435",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Barcelona",
+    "display": "Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",
+    "names_all": [
+     "Basílica de la Sagrada Família"
+    ],
+    "importance": 0.5397707924352323,
+    "rank": 0
+   },
+   {
+    "lat": 41.403972,
+    "lng": 2.1750985,
+    "name": "Sagrada Família",
+    "source": "photon",
+    "osm_id": "N/3397396651",
+    "wikidata": "",
+    "osm_class": "railway=stop",
+    "locality": "Barcelona",
+    "display": "Sagrada Família, Barcelona, España",
+    "names_all": [
+     "Sagrada Família"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.4035046,
+    "lng": 2.1744283,
+    "name": "Basílica de la Sagrada Família",
+    "source": "nominatim",
+    "osm_id": "relation/9194723",
+    "wikidata": "Q48435",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Barcelona",
+    "display": "Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",
+    "names_all": [
+     "Basílica de la Sagrada Família"
+    ],
+    "importance": 0.5397707924352323,
+    "rank": 0
+   },
+   {
+    "lat": 41.4035046,
+    "lng": 2.1744283,
+    "name": "Basílica de la Sagrada Família",
+    "source": "nominatim",
+    "osm_id": "relation/9194723",
+    "wikidata": "Q48435",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Barcelona",
+    "display": "Basílica de la Sagrada Família, 401, Carrer de Mallorca, la Sagrada Família, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08013, España",
+    "names_all": [
+     "Basílica de la Sagrada Família"
+    ],
+    "importance": 0.5397707924352323,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::park guell": {
+  "ok": true,
+  "lat": 41.414235,
+  "lng": 2.152458,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.739,
+  "name": "Parc Güell",
+  "locality": "Barcelona",
+  "osm_class": "leisure=park",
+  "wikidata": "Q212867",
+  "display": "Parc Güell, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.4142348,
+    "lng": 2.1524576,
+    "name": "Parc Güell",
+    "source": "nominatim",
+    "osm_id": "way/66713401",
+    "wikidata": "Q212867",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc Güell, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+    "names_all": [
+     "Parc Güell"
+    ],
+    "importance": 0.48802381862418537,
+    "rank": 0
+   },
+   {
+    "lat": 41.4132519,
+    "lng": 2.1605817,
+    "name": "Park Güell",
+    "source": "photon",
+    "osm_id": "N/11381138275",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Barcelona",
+    "display": "Park Güell, Barcelona, España",
+    "names_all": [
+     "Park Güell"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 41.4142348,
+    "lng": 2.1524576,
+    "name": "Parc Güell",
+    "source": "nominatim",
+    "osm_id": "way/66713401",
+    "wikidata": "Q212867",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc Güell, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+    "names_all": [
+     "Parc Güell"
+    ],
+    "importance": 0.48802381862418537,
+    "rank": 0
+   },
+   {
+    "lat": 41.4142348,
+    "lng": 2.1524576,
+    "name": "Parc Güell",
+    "source": "nominatim",
+    "osm_id": "way/66713401",
+    "wikidata": "Q212867",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc Güell, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+    "names_all": [
+     "Parc Güell"
+    ],
+    "importance": 0.48802381862418537,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::barri gotic el born": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "barcelona::passeig de gracia": {
+  "ok": true,
+  "lat": 41.393404,
+  "lng": 2.163081,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.797,
+  "name": "Passeig de Gràcia (lateral Llobregat)",
+  "locality": "Barcelona",
+  "osm_class": "highway=living_street",
+  "wikidata": "Q1419892",
+  "display": "Passeig de Gràcia (lateral Llobregat), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.3917422,
+    "lng": 2.1654245,
+    "name": "Passeig de Gràcia",
+    "source": "nominatim",
+    "osm_id": "way/293858828",
+    "wikidata": "Q1419892",
+    "osm_class": "highway=tertiary",
+    "locality": "Barcelona",
+    "display": "Passeig de Gràcia, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",
+    "names_all": [
+     "Passeig de Gràcia"
+    ],
+    "importance": 0.46154566722313745,
+    "rank": 0
+   },
+   {
+    "lat": 41.3889418,
+    "lng": 2.1688911,
+    "name": "Passeig de Gràcia",
+    "source": "photon",
+    "osm_id": "W/612296800",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Barcelona",
+    "display": "Passeig de Gràcia, Barcelona, España",
+    "names_all": [
+     "Passeig de Gràcia"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.3943949,
+    "lng": 2.1621566,
+    "name": "Passeig de Gràcia",
+    "source": "nominatim",
+    "osm_id": "way/294085186",
+    "wikidata": "Q1419892",
+    "osm_class": "highway=tertiary",
+    "locality": "Barcelona",
+    "display": "Passeig de Gràcia, la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",
+    "names_all": [
+     "Passeig de Gràcia"
+    ],
+    "importance": 0.46154566722313745,
+    "rank": 0
+   },
+   {
+    "lat": 41.3934042,
+    "lng": 2.1630811,
+    "name": "Passeig de Gràcia (lateral Llobregat)",
+    "source": "nominatim",
+    "osm_id": "way/908375873",
+    "wikidata": "Q1419892",
+    "osm_class": "highway=living_street",
+    "locality": "Barcelona",
+    "display": "Passeig de Gràcia (lateral Llobregat), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08008, España",
+    "names_all": [
+     "Passeig de Gràcia (lateral Llobregat)"
+    ],
+    "importance": 0.46154566722313745,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::bunkers del carmel": {
+  "ok": true,
+  "lat": 41.418348,
+  "lng": 2.153273,
+  "source": "photon",
+  "confidence": "medium",
+  "score": 0.666,
+  "name": "Turó del Carmel",
+  "locality": "Barcelona",
+  "osm_class": "natural=peak",
+  "wikidata": "",
+  "display": "Turó del Carmel, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.4193923,
+    "lng": 2.1616974,
+    "name": "Bateries antiaèries i barraques del Carmel",
+    "source": "nominatim",
+    "osm_id": "way/142894789",
+    "wikidata": "Q99463635",
+    "osm_class": "historic=fort",
+    "locality": "Barcelona",
+    "display": "Bateries antiaèries i barraques del Carmel, Carrer de Marià Labèrnia, Can Baró, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",
+    "names_all": [
+     "Bateries antiaèries i barraques del Carmel"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   },
+   {
+    "lat": 41.4183478,
+    "lng": 2.1532733,
+    "name": "Turó del Carmel",
+    "source": "photon",
+    "osm_id": "N/6285892140",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Barcelona",
+    "display": "Turó del Carmel, Barcelona, España",
+    "names_all": [
+     "Turó del Carmel"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.4193923,
+    "lng": 2.1616974,
+    "name": "Bateries antiaèries i barraques del Carmel",
+    "source": "nominatim",
+    "osm_id": "way/142894789",
+    "wikidata": "Q99463635",
+    "osm_class": "historic=fort",
+    "locality": "Barcelona",
+    "display": "Bateries antiaèries i barraques del Carmel, Carrer de Marià Labèrnia, Can Baró, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",
+    "names_all": [
+     "Bateries antiaèries i barraques del Carmel"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   },
+   {
+    "lat": 41.4193923,
+    "lng": 2.1616974,
+    "name": "Bateries antiaèries i barraques del Carmel",
+    "source": "nominatim",
+    "osm_id": "way/142894789",
+    "wikidata": "Q99463635",
+    "osm_class": "historic=fort",
+    "locality": "Barcelona",
+    "display": "Bateries antiaèries i barraques del Carmel, Carrer de Marià Labèrnia, Can Baró, Horta-Guinardó, Barcelona, Barcelonès, Barcelona, Catalunya, 08032, España",
+    "names_all": [
+     "Bateries antiaèries i barraques del Carmel"
+    ],
+    "importance": 0.10540294855860563,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::las ramblas mercado de la boqueria": {
+  "ok": true,
+  "lat": 41.382014,
+  "lng": 2.172457,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.705,
+  "name": "La Rambla / Mercat de la Boqueria",
+  "locality": "Barcelona",
+  "osm_class": "railway=subway_entrance",
+  "wikidata": "",
+  "display": "La Rambla / Mercat de la Boqueria, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.3820141,
+    "lng": 2.1724566,
+    "name": "La Rambla / Mercat de la Boqueria",
+    "source": "photon",
+    "osm_id": "N/1238021386",
+    "wikidata": "",
+    "osm_class": "railway=subway_entrance",
+    "locality": "Barcelona",
+    "display": "La Rambla / Mercat de la Boqueria, Barcelona, España",
+    "names_all": [
+     "La Rambla / Mercat de la Boqueria"
+    ],
+    "importance": 0.0,
+    "rank": 4
+   }
+  ]
+ },
+ "barcelona::museu picasso": {
+  "ok": true,
+  "lat": 41.385104,
+  "lng": 2.181201,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.929,
+  "name": "Museu Picasso",
+  "locality": "Barcelona",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1050032",
+  "display": "Museu Picasso, Plaça de Raimon Noguera, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.3851039,
+    "lng": 2.1812015,
+    "name": "Museu Picasso",
+    "source": "nominatim",
+    "osm_id": "way/188938001",
+    "wikidata": "Q1050032",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "Museu Picasso, Plaça de Raimon Noguera, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "Museu Picasso"
+    ],
+    "importance": 0.4813892303352466,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::mnac": {
+  "ok": true,
+  "lat": 41.368108,
+  "lng": 2.151918,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.723,
+  "name": "Zona bus MNAC",
+  "locality": "Barcelona",
+  "osm_class": "amenity=parking",
+  "wikidata": "",
+  "display": "Zona bus MNAC, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.3681082,
+    "lng": 2.1519175,
+    "name": "Zona bus MNAC",
+    "source": "photon",
+    "osm_id": "W/1418155763",
+    "wikidata": "",
+    "osm_class": "amenity=parking",
+    "locality": "Barcelona",
+    "display": "Zona bus MNAC, Barcelona, España",
+    "names_all": [
+     "Zona bus MNAC"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::fundacio joan miro": {
+  "ok": true,
+  "lat": 41.368645,
+  "lng": 2.160084,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.923,
+  "name": "Fundació Joan Miró",
+  "locality": "Barcelona",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q45275033",
+  "display": "Fundació Joan Miró, Avinguda de Miramar, Satalia, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08038, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.3686445,
+    "lng": 2.1600839,
+    "name": "Fundació Joan Miró",
+    "source": "nominatim",
+    "osm_id": "relation/3347844",
+    "wikidata": "Q45275033",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "Fundació Joan Miró, Avinguda de Miramar, Satalia, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08038, España",
+    "names_all": [
+     "Fundació Joan Miró"
+    ],
+    "importance": 0.486290654239578,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::palau de la musica catalana": {
+  "ok": true,
+  "lat": 41.387584,
+  "lng": 2.175232,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.782,
+  "name": "Palau de la Música Catalana",
+  "locality": "Barcelona",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q327940",
+  "display": "Palau de la Música Catalana, 4-6, Carrer del Palau de la Música, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.3875837,
+    "lng": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "source": "nominatim",
+    "osm_id": "way/377216661",
+    "wikidata": "Q327940",
+    "osm_class": "amenity=theatre",
+    "locality": "Barcelona",
+    "display": "Palau de la Música Catalana, 4-6, Carrer del Palau de la Música, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",
+    "names_all": [
+     "Palau de la Música Catalana"
+    ],
+    "importance": 0.5378810065780416,
+    "rank": 0
+   },
+   {
+    "lat": 41.3875837,
+    "lng": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "source": "photon",
+    "osm_id": "W/377216661",
+    "wikidata": "",
+    "osm_class": "amenity=theatre",
+    "locality": "Barcelona",
+    "display": "Palau de la Música Catalana, Barcelona, España",
+    "names_all": [
+     "Palau de la Música Catalana"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.3875837,
+    "lng": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "source": "nominatim",
+    "osm_id": "way/377216661",
+    "wikidata": "Q327940",
+    "osm_class": "amenity=theatre",
+    "locality": "Barcelona",
+    "display": "Palau de la Música Catalana, 4-6, Carrer del Palau de la Música, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",
+    "names_all": [
+     "Palau de la Música Catalana"
+    ],
+    "importance": 0.5378810065780416,
+    "rank": 0
+   },
+   {
+    "lat": 41.3875837,
+    "lng": 2.1752316,
+    "name": "Palau de la Música Catalana",
+    "source": "nominatim",
+    "osm_id": "way/377216661",
+    "wikidata": "Q327940",
+    "osm_class": "amenity=theatre",
+    "locality": "Barcelona",
+    "display": "Palau de la Música Catalana, 4-6, Carrer del Palau de la Música, Sant Pere, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08010, España",
+    "names_all": [
+     "Palau de la Música Catalana"
+    ],
+    "importance": 0.5378810065780416,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::casa batllo": {
+  "ok": true,
+  "lat": 41.391545,
+  "lng": 2.164696,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.867,
+  "name": "Casa Batlló",
+  "locality": "Barcelona",
+  "osm_class": "tourism=artwork",
+  "wikidata": "Q461371",
+  "display": "Casa Batlló, 43, Passeig de Gràcia (lateral Llobregat), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.3915446,
+    "lng": 2.1646961,
+    "name": "Casa Batlló",
+    "source": "nominatim",
+    "osm_id": "relation/9427554",
+    "wikidata": "Q461371",
+    "osm_class": "tourism=artwork",
+    "locality": "Barcelona",
+    "display": "Casa Batlló, 43, Passeig de Gràcia (lateral Llobregat), la Dreta de l'Eixample, l'Eixample, Barcelona, Barcelonès, Barcelona, Catalunya, 08007, España",
+    "names_all": [
+     "Casa Batlló"
+    ],
+    "importance": 0.4861734626768807,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::la pedrera": {
+  "ok": true,
+  "lat": 41.412749,
+  "lng": 2.146718,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.715,
+  "name": "la Pedrera",
+  "locality": "Barcelona",
+  "osm_class": "landuse=greenfield",
+  "wikidata": "",
+  "display": "la Pedrera, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+  "reason": "fuentes discrepan 6.3 km",
+  "alternatives": [
+   {
+    "lat": 41.4127487,
+    "lng": 2.1467184,
+    "name": "la Pedrera",
+    "source": "nominatim",
+    "osm_id": "way/802177327",
+    "wikidata": "",
+    "osm_class": "landuse=greenfield",
+    "locality": "Barcelona",
+    "display": "la Pedrera, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+    "names_all": [
+     "la Pedrera"
+    ],
+    "importance": 0.08008435721370258,
+    "rank": 5
+   },
+   {
+    "lat": 41.3558649,
+    "lng": 2.1484581,
+    "name": "El Fossar de la Pedrera",
+    "source": "photon",
+    "osm_id": "W/173829472",
+    "wikidata": "",
+    "osm_class": "landuse=cemetery",
+    "locality": "Barcelona",
+    "display": "El Fossar de la Pedrera, Barcelona, España",
+    "names_all": [
+     "El Fossar de la Pedrera"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 41.4127487,
+    "lng": 2.1467184,
+    "name": "la Pedrera",
+    "source": "nominatim",
+    "osm_id": "way/802177327",
+    "wikidata": "",
+    "osm_class": "landuse=greenfield",
+    "locality": "Barcelona",
+    "display": "la Pedrera, Vallcarca i els Penitents, Gràcia, Barcelona, Barcelonès, Barcelona, Catalunya, España",
+    "names_all": [
+     "la Pedrera"
+    ],
+    "importance": 0.08008435721370258,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::macba": {
+  "ok": true,
+  "lat": 41.382809,
+  "lng": 2.166476,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.726,
+  "name": "MACBA",
+  "locality": "Barcelona",
+  "osm_class": "amenity=bar",
+  "wikidata": "",
+  "display": "MACBA, Carrer de Ferlandina, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.3828093,
+    "lng": 2.1664756,
+    "name": "MACBA",
+    "source": "nominatim",
+    "osm_id": "node/10178145293",
+    "wikidata": "",
+    "osm_class": "amenity=bar",
+    "locality": "Barcelona",
+    "display": "MACBA, Carrer de Ferlandina, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",
+    "names_all": [
+     "MACBA"
+    ],
+    "importance": 8.435721370255616e-05,
+    "rank": 1
+   },
+   {
+    "lat": 41.3827931,
+    "lng": 2.1671423,
+    "name": "Obres d'ampliació del MACBA",
+    "source": "photon",
+    "osm_id": "W/1375267713",
+    "wikidata": "",
+    "osm_class": "landuse=construction",
+    "locality": "Barcelona",
+    "display": "Obres d'ampliació del MACBA, Barcelona, España",
+    "names_all": [
+     "Obres d'ampliació del MACBA"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 41.3828093,
+    "lng": 2.1664756,
+    "name": "MACBA",
+    "source": "nominatim",
+    "osm_id": "node/10178145293",
+    "wikidata": "",
+    "osm_class": "amenity=bar",
+    "locality": "Barcelona",
+    "display": "MACBA, 1, Carrer de Ferlandina, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",
+    "names_all": [
+     "MACBA"
+    ],
+    "importance": 8.435721370255616e-05,
+    "rank": 1
+   },
+   {
+    "lat": 41.3828093,
+    "lng": 2.1664756,
+    "name": "MACBA",
+    "source": "nominatim",
+    "osm_id": "node/10178145293",
+    "wikidata": "",
+    "osm_class": "amenity=bar",
+    "locality": "Barcelona",
+    "display": "MACBA, Carrer de Ferlandina, el Raval, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08001, España",
+    "names_all": [
+     "MACBA"
+    ],
+    "importance": 8.435721370255616e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::poble espanyol": {
+  "ok": true,
+  "lat": 41.368544,
+  "lng": 2.148258,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.885,
+  "name": "Poble Espanyol",
+  "locality": "Barcelona",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1062480",
+  "display": "Poble Espanyol, 13, Avinguda de Francesc Ferrer i Guàrdia, Magòria, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08038, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.368544,
+    "lng": 2.148258,
+    "name": "Poble Espanyol",
+    "source": "nominatim",
+    "osm_id": "way/40547571",
+    "wikidata": "Q1062480",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "Poble Espanyol, 13, Avinguda de Francesc Ferrer i Guàrdia, Magòria, el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08038, España",
+    "names_all": [
+     "Poble Espanyol"
+    ],
+    "importance": 8.435721370255616e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::el born": {
+  "ok": true,
+  "lat": 41.385712,
+  "lng": 2.183637,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.728,
+  "name": "El Born",
+  "locality": "Barcelona",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q18695772",
+  "display": "El Born, 12, Plaça Comercial, el Born, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.385712,
+    "lng": 2.1836373,
+    "name": "El Born",
+    "source": "nominatim",
+    "osm_id": "node/14022328893",
+    "wikidata": "Q18695772",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "El Born, 12, Plaça Comercial, el Born, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "El Born"
+    ],
+    "importance": 0.205345191009919,
+    "rank": 2
+   },
+   {
+    "lat": 41.385712,
+    "lng": 2.1836373,
+    "name": "El Born",
+    "source": "photon",
+    "osm_id": "N/14022328893",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "El Born, Barcelona, España",
+    "names_all": [
+     "El Born"
+    ],
+    "importance": 0.0,
+    "rank": 2
+   },
+   {
+    "lat": 41.385712,
+    "lng": 2.1836373,
+    "name": "El Born",
+    "source": "nominatim",
+    "osm_id": "node/14022328893",
+    "wikidata": "Q18695772",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "El Born, 12, Plaça Comercial, el Born, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "El Born"
+    ],
+    "importance": 0.205345191009919,
+    "rank": 2
+   },
+   {
+    "lat": 41.385712,
+    "lng": 2.1836373,
+    "name": "El Born",
+    "source": "nominatim",
+    "osm_id": "node/14022328893",
+    "wikidata": "Q18695772",
+    "osm_class": "tourism=museum",
+    "locality": "Barcelona",
+    "display": "El Born, 12, Plaça Comercial, el Born, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "El Born"
+    ],
+    "importance": 0.205345191009919,
+    "rank": 2
+   }
+  ]
+ },
+ "barcelona::gracia": {
+  "ok": true,
+  "lat": 41.406577,
+  "lng": 2.158281,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.865,
+  "name": "Gràcia",
+  "locality": "Barcelona",
+  "osm_class": "place=borough",
+  "wikidata": "",
+  "display": "Gràcia, Barcelona, España",
+  "reason": "fuentes discrepan 1.1 km",
+  "alternatives": [
+   {
+    "lat": 41.398106,
+    "lng": 2.1527071,
+    "name": "Gràcia",
+    "source": "nominatim",
+    "osm_id": "node/13482086622",
+    "wikidata": "Q2501185",
+    "osm_class": "railway=construction",
+    "locality": "Barcelona",
+    "display": "Gràcia, Travessera de Gràcia, Sant Gervasi - Galvany, Sarrià - Sant Gervasi, Barcelona, Barcelonès, Barcelona, Catalunya, 08006, España",
+    "names_all": [
+     "Gràcia"
+    ],
+    "importance": 0.3933592766861344,
+    "rank": 1
+   },
+   {
+    "lat": 41.4065767,
+    "lng": 2.1582812,
+    "name": "Gràcia",
+    "source": "photon",
+    "osm_id": "R/3773080",
+    "wikidata": "",
+    "osm_class": "place=borough",
+    "locality": "Barcelona",
+    "display": "Gràcia, Barcelona, España",
+    "names_all": [
+     "Gràcia"
+    ],
+    "importance": 0.0,
+    "rank": 3
+   }
+  ]
+ },
+ "barcelona::poble sec": {
+  "ok": true,
+  "lat": 41.372806,
+  "lng": 2.161972,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.9,
+  "name": "el Poble-sec",
+  "locality": "Barcelona",
+  "osm_class": "place=quarter",
+  "wikidata": "",
+  "display": "el Poble-sec, Barcelona, España",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 41.3728061,
+    "lng": 2.1619718,
+    "name": "el Poble-sec",
+    "source": "nominatim",
+    "osm_id": "relation/4129495",
+    "wikidata": "Q980253",
+    "osm_class": "boundary=administrative",
+    "locality": "Barcelona",
+    "display": "el Poble-sec, Sants-Montjuïc, Barcelona, Barcelonès, Barcelona, Catalunya, 08004, España",
+    "names_all": [
+     "el Poble-sec"
+    ],
+    "importance": 0.4297779689930391,
+    "rank": 0
+   },
+   {
+    "lat": 41.3728061,
+    "lng": 2.1619718,
+    "name": "el Poble-sec",
+    "source": "photon",
+    "osm_id": "R/4129495",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Barcelona",
+    "display": "el Poble-sec, Barcelona, España",
+    "names_all": [
+     "el Poble-sec"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::barceloneta": {
+  "ok": true,
+  "lat": 41.380653,
+  "lng": 2.189927,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.868,
+  "name": "la Barceloneta",
+  "locality": "Barcelona",
+  "osm_class": "place=quarter",
+  "wikidata": "",
+  "display": "la Barceloneta, Barcelona, España",
+  "reason": "fuentes discrepan 17.2 km",
+  "alternatives": [
+   {
+    "lat": 41.3056148,
+    "lng": 2.0092225,
+    "name": "Barceloneta",
+    "source": "nominatim",
+    "osm_id": "node/8515528947",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Gavà",
+    "display": "Barceloneta, Gavà, Baix Llobregat, Barcelona, Catalunya, 08850, España",
+    "names_all": [
+     "Barceloneta"
+    ],
+    "importance": 0.08006113603418018,
+    "rank": 3
+   },
+   {
+    "lat": 41.3806533,
+    "lng": 2.1899274,
+    "name": "la Barceloneta",
+    "source": "photon",
+    "osm_id": "R/4127656",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Barcelona",
+    "display": "la Barceloneta, Barcelona, España",
+    "names_all": [
+     "la Barceloneta"
+    ],
+    "importance": 0.0,
+    "rank": 3
+   }
+  ]
+ },
+ "barcelona::eixample": {
+  "ok": true,
+  "lat": 41.488169,
+  "lng": 2.293254,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.815,
+  "name": "Eixample",
+  "locality": "Alella",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q66986999",
+  "display": "Eixample, Alella, Maresme, Barcelona, Catalunya, 08328, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.4881693,
+    "lng": 2.2932544,
+    "name": "Eixample",
+    "source": "nominatim",
+    "osm_id": "node/12677415649",
+    "wikidata": "Q66986999",
+    "osm_class": "place=neighbourhood",
+    "locality": "Alella",
+    "display": "Eixample, Alella, Maresme, Barcelona, Catalunya, 08328, España",
+    "names_all": [
+     "Eixample"
+    ],
+    "importance": 0.08006048599984739,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::poblenou": {
+  "ok": true,
+  "lat": 41.400527,
+  "lng": 2.201729,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.854,
+  "name": "el Poblenou",
+  "locality": "Barcelona",
+  "osm_class": "place=quarter",
+  "wikidata": "",
+  "display": "el Poblenou, Barcelona, España",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 41.4036418,
+    "lng": 2.2032751,
+    "name": "Poblenou",
+    "source": "nominatim",
+    "osm_id": "node/5313340302",
+    "wikidata": "Q1716538",
+    "osm_class": "railway=station",
+    "locality": "Barcelona",
+    "display": "Poblenou, Carrer de Pujades, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",
+    "names_all": [
+     "Poblenou"
+    ],
+    "importance": 0.39287355974416627,
+    "rank": 0
+   },
+   {
+    "lat": 41.400527,
+    "lng": 2.2017292,
+    "name": "el Poblenou",
+    "source": "photon",
+    "osm_id": "R/4160731",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Barcelona",
+    "display": "el Poblenou, Barcelona, España",
+    "names_all": [
+     "el Poblenou"
+    ],
+    "importance": 0.0,
+    "rank": 6
+   }
+  ]
+ },
+ "barcelona::raval": {
+  "ok": true,
+  "lat": 41.446271,
+  "lng": 2.237569,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.831,
+  "name": "el Raval",
+  "locality": "Badalona",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q17600804",
+  "display": "el Raval, Districte 5, Badalona, Barcelonès, Barcelona, Catalunya, 08912, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.4462708,
+    "lng": 2.237569,
+    "name": "el Raval",
+    "source": "nominatim",
+    "osm_id": "node/2175499785",
+    "wikidata": "Q17600804",
+    "osm_class": "place=neighbourhood",
+    "locality": "Badalona",
+    "display": "el Raval, Districte 5, Badalona, Barcelonès, Barcelona, Catalunya, 08912, España",
+    "names_all": [
+     "el Raval"
+    ],
+    "importance": 0.24930035976498935,
+    "rank": 5
+   }
+  ]
+ },
+ "barcelona::parc de la ciutadella": {
+  "ok": true,
+  "lat": 41.388416,
+  "lng": 2.186255,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.794,
+  "name": "Parc de la Ciutadella",
+  "locality": "Barcelona",
+  "osm_class": "leisure=park",
+  "wikidata": "Q301135",
+  "display": "Parc de la Ciutadella, 21, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.388416,
+    "lng": 2.1862546,
+    "name": "Parc de la Ciutadella",
+    "source": "nominatim",
+    "osm_id": "relation/271463",
+    "wikidata": "Q301135",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc de la Ciutadella, 21, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "Parc de la Ciutadella"
+    ],
+    "importance": 0.47155967231028945,
+    "rank": 0
+   },
+   {
+    "lat": 41.388416,
+    "lng": 2.1862546,
+    "name": "Parc de la Ciutadella",
+    "source": "photon",
+    "osm_id": "R/271463",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc de la Ciutadella, Barcelona, España",
+    "names_all": [
+     "Parc de la Ciutadella"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.388416,
+    "lng": 2.1862546,
+    "name": "Parc de la Ciutadella",
+    "source": "nominatim",
+    "osm_id": "relation/271463",
+    "wikidata": "Q301135",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc de la Ciutadella, 21, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "Parc de la Ciutadella"
+    ],
+    "importance": 0.47155967231028945,
+    "rank": 0
+   },
+   {
+    "lat": 41.388416,
+    "lng": 2.1862546,
+    "name": "Parc de la Ciutadella",
+    "source": "nominatim",
+    "osm_id": "relation/271463",
+    "wikidata": "Q301135",
+    "osm_class": "leisure=park",
+    "locality": "Barcelona",
+    "display": "Parc de la Ciutadella, 21, Ciutat Vella, Barcelona, Barcelonès, Barcelona, Catalunya, 08003, España",
+    "names_all": [
+     "Parc de la Ciutadella"
+    ],
+    "importance": 0.47155967231028945,
+    "rank": 0
+   }
+  ]
+ },
+ "barcelona::montjuic completo": {
+  "ok": true,
+  "lat": 41.363151,
+  "lng": 2.165615,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.744,
+  "name": "Montjuïc",
+  "locality": "Barcelona",
+  "osm_class": "natural=peak",
+  "wikidata": "",
+  "display": "Montjuïc, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.3631512,
+    "lng": 2.1656148,
+    "name": "Montjuïc",
+    "source": "photon",
+    "osm_id": "N/10262292616",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Barcelona",
+    "display": "Montjuïc, Barcelona, España",
+    "names_all": [
+     "Montjuïc"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::el cementiri de poblenou": {
+  "ok": true,
+  "lat": 41.395274,
+  "lng": 2.201858,
+  "source": "photon",
+  "confidence": "medium",
+  "score": 0.741,
+  "name": "Cementiri del Poblenou",
+  "locality": "Barcelona",
+  "osm_class": "information=board",
+  "wikidata": "",
+  "display": "Cementiri del Poblenou, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.3963528,
+    "lng": 2.2048696,
+    "name": "Barraques de rere el cementiri",
+    "source": "nominatim",
+    "osm_id": "node/4996636114",
+    "wikidata": "",
+    "osm_class": "historic=memorial",
+    "locality": "Barcelona",
+    "display": "Barraques de rere el cementiri, Carrer Carmen Amaya, la Plata, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",
+    "names_all": [
+     "Barraques de rere el cementiri"
+    ],
+    "importance": 4.457236591129957e-05,
+    "rank": 1
+   },
+   {
+    "lat": 41.3952738,
+    "lng": 2.2018578,
+    "name": "Cementiri del Poblenou",
+    "source": "photon",
+    "osm_id": "N/9699875717",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Barcelona",
+    "display": "Cementiri del Poblenou, Barcelona, España",
+    "names_all": [
+     "Cementiri del Poblenou"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.3963528,
+    "lng": 2.2048696,
+    "name": "Barraques de rere el cementiri",
+    "source": "nominatim",
+    "osm_id": "node/4996636114",
+    "wikidata": "",
+    "osm_class": "historic=memorial",
+    "locality": "Barcelona",
+    "display": "Barraques de rere el cementiri, Carrer Carmen Amaya, la Plata, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",
+    "names_all": [
+     "Barraques de rere el cementiri"
+    ],
+    "importance": 4.457236591129957e-05,
+    "rank": 1
+   },
+   {
+    "lat": 41.3963528,
+    "lng": 2.2048696,
+    "name": "Barraques de rere el cementiri",
+    "source": "nominatim",
+    "osm_id": "node/4996636114",
+    "wikidata": "",
+    "osm_class": "historic=memorial",
+    "locality": "Barcelona",
+    "display": "Barraques de rere el cementiri, Carrer Carmen Amaya, la Plata, el Poblenou, Sant Martí, Barcelona, Barcelonès, Barcelona, Catalunya, 08005, España",
+    "names_all": [
+     "Barraques de rere el cementiri"
+    ],
+    "importance": 4.457236591129957e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::mercat del encants nous": {
+  "ok": true,
+  "lat": 41.40095,
+  "lng": 2.186228,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.723,
+  "name": "Mercat dels Encants",
+  "locality": "Barcelona",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Mercat dels Encants, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.4009503,
+    "lng": 2.1862283,
+    "name": "Mercat dels Encants",
+    "source": "photon",
+    "osm_id": "W/239567902",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Barcelona",
+    "display": "Mercat dels Encants, Barcelona, España",
+    "names_all": [
+     "Mercat dels Encants"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::retiro": {
+  "ok": true,
+  "lat": 40.420463,
+  "lng": -3.686427,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.77,
+  "name": "Retiro",
+  "locality": "Madrid",
+  "osm_class": "railway=station",
+  "wikidata": "Q2056874",
+  "display": "Retiro, Calle de Alcalá, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28009, España",
+  "reason": "fuentes discrepan 1.4 km",
+  "alternatives": [
+   {
+    "lat": 40.4204626,
+    "lng": -3.6864269,
+    "name": "Retiro",
+    "source": "nominatim",
+    "osm_id": "node/5303272000",
+    "wikidata": "Q2056874",
+    "osm_class": "railway=station",
+    "locality": "Madrid",
+    "display": "Retiro, Calle de Alcalá, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28009, España",
+    "names_all": [
+     "Retiro"
+    ],
+    "importance": 0.3943200352487266,
+    "rank": 1
+   },
+   {
+    "lat": 40.4111495,
+    "lng": -3.6760566,
+    "name": "Retiro",
+    "source": "photon",
+    "osm_id": "R/356879",
+    "wikidata": "",
+    "osm_class": "place=suburb",
+    "locality": "Madrid",
+    "display": "Retiro, Madrid, España",
+    "names_all": [
+     "Retiro"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4204626,
+    "lng": -3.6864269,
+    "name": "Retiro",
+    "source": "nominatim",
+    "osm_id": "node/5303272000",
+    "wikidata": "Q2056874",
+    "osm_class": "railway=station",
+    "locality": "Madrid",
+    "display": "Retiro, Calle de Alcalá, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28009, España",
+    "names_all": [
+     "Retiro"
+    ],
+    "importance": 0.3943200352487266,
+    "rank": 1
+   },
+   {
+    "lat": 40.4204626,
+    "lng": -3.6864269,
+    "name": "Retiro",
+    "source": "nominatim",
+    "osm_id": "node/5303272000",
+    "wikidata": "Q2056874",
+    "osm_class": "railway=station",
+    "locality": "Madrid",
+    "display": "Retiro, Calle de Alcalá, Recoletos, Salamanca, Madrid, Comunidad de Madrid, 28009, España",
+    "names_all": [
+     "Retiro"
+    ],
+    "importance": 0.3943200352487266,
+    "rank": 1
+   }
+  ]
+ },
+ "madrid::sol plaza mayor mercado de san miguel": {
+  "ok": true,
+  "lat": 40.415097,
+  "lng": -3.70801,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.702,
+  "name": "Mercado san miguel madrid",
+  "locality": "Madrid",
+  "osm_class": "amenity=fast_food",
+  "wikidata": "",
+  "display": "Mercado san miguel madrid, Madrid, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.415097,
+    "lng": -3.7080099,
+    "name": "Mercado san miguel madrid",
+    "source": "photon",
+    "osm_id": "N/12785527101",
+    "wikidata": "",
+    "osm_class": "amenity=fast_food",
+    "locality": "Madrid",
+    "display": "Mercado san miguel madrid, Madrid, España",
+    "names_all": [
+     "Mercado san miguel madrid"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::gran via": {
+  "ok": true,
+  "lat": 40.42204,
+  "lng": -3.708713,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.796,
+  "name": "Gran Vía",
+  "locality": "Madrid",
+  "osm_class": "highway=tertiary",
+  "wikidata": "Q1324163",
+  "display": "Gran Vía, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28013, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4220401,
+    "lng": -3.7087133,
+    "name": "Gran Vía",
+    "source": "nominatim",
+    "osm_id": "way/104799919",
+    "wikidata": "Q1324163",
+    "osm_class": "highway=tertiary",
+    "locality": "Madrid",
+    "display": "Gran Vía, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28013, España",
+    "names_all": [
+     "Gran Vía"
+    ],
+    "importance": 0.43955546351514724,
+    "rank": 0
+   },
+   {
+    "lat": 40.4201932,
+    "lng": -3.7041598,
+    "name": "Gran Vía",
+    "source": "photon",
+    "osm_id": "W/155551743",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Madrid",
+    "display": "Gran Vía, Madrid, España",
+    "names_all": [
+     "Gran Vía"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 40.4220401,
+    "lng": -3.7087133,
+    "name": "Gran Vía",
+    "source": "nominatim",
+    "osm_id": "way/104799919",
+    "wikidata": "Q1324163",
+    "osm_class": "highway=tertiary",
+    "locality": "Madrid",
+    "display": "Gran Vía, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28013, España",
+    "names_all": [
+     "Gran Vía"
+    ],
+    "importance": 0.43955546351514724,
+    "rank": 0
+   },
+   {
+    "lat": 40.4220401,
+    "lng": -3.7087133,
+    "name": "Gran Vía",
+    "source": "nominatim",
+    "osm_id": "way/104799919",
+    "wikidata": "Q1324163",
+    "osm_class": "highway=tertiary",
+    "locality": "Madrid",
+    "display": "Gran Vía, Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28013, España",
+    "names_all": [
+     "Gran Vía"
+    ],
+    "importance": 0.43955546351514724,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::barrio de la latina": {
+  "ok": true,
+  "lat": 40.412375,
+  "lng": -3.711055,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.785,
+  "name": "Barrio de la Latina",
+  "locality": "Madrid",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q3845152",
+  "display": "Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28005, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4123753,
+    "lng": -3.7110551,
+    "name": "Barrio de la Latina",
+    "source": "nominatim",
+    "osm_id": "node/347277264",
+    "wikidata": "Q3845152",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "Barrio de la Latina"
+    ],
+    "importance": 0.28939223170644257,
+    "rank": 0
+   },
+   {
+    "lat": 40.4123753,
+    "lng": -3.7110551,
+    "name": "Barrio de la Latina",
+    "source": "photon",
+    "osm_id": "N/347277264",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Barrio de la Latina, Madrid, España",
+    "names_all": [
+     "Barrio de la Latina"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4123753,
+    "lng": -3.7110551,
+    "name": "Barrio de la Latina",
+    "source": "nominatim",
+    "osm_id": "node/347277264",
+    "wikidata": "Q3845152",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "Barrio de la Latina"
+    ],
+    "importance": 0.28939223170644257,
+    "rank": 0
+   },
+   {
+    "lat": 40.4123753,
+    "lng": -3.7110551,
+    "name": "Barrio de la Latina",
+    "source": "nominatim",
+    "osm_id": "node/347277264",
+    "wikidata": "Q3845152",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "Barrio de la Latina"
+    ],
+    "importance": 0.28939223170644257,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::malasana": {
+  "ok": true,
+  "lat": 40.426708,
+  "lng": -3.704231,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.768,
+  "name": "Malasaña",
+  "locality": "Madrid",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28004, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4267079,
+    "lng": -3.7042311,
+    "name": "Malasaña",
+    "source": "nominatim",
+    "osm_id": "node/1862928844",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28004, España",
+    "names_all": [
+     "Malasaña"
+    ],
+    "importance": 0.08008580834668495,
+    "rank": 0
+   },
+   {
+    "lat": 40.4267079,
+    "lng": -3.7042311,
+    "name": "Malasaña",
+    "source": "photon",
+    "osm_id": "N/1862928844",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Malasaña, Madrid, España",
+    "names_all": [
+     "Malasaña"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   },
+   {
+    "lat": 40.4267079,
+    "lng": -3.7042311,
+    "name": "Malasaña",
+    "source": "nominatim",
+    "osm_id": "node/1862928844",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28004, España",
+    "names_all": [
+     "Malasaña"
+    ],
+    "importance": 0.08008580834668495,
+    "rank": 0
+   },
+   {
+    "lat": 40.4267079,
+    "lng": -3.7042311,
+    "name": "Malasaña",
+    "source": "nominatim",
+    "osm_id": "node/1862928844",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Malasaña, Universidad, Centro, Madrid, Comunidad de Madrid, 28004, España",
+    "names_all": [
+     "Malasaña"
+    ],
+    "importance": 0.08008580834668495,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::museo nacional del prado": {
+  "ok": true,
+  "lat": 40.413792,
+  "lng": -3.692041,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.94,
+  "name": "Museo del Prado",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q160112",
+  "display": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4137925,
+    "lng": -3.6920407,
+    "name": "Museo del Prado",
+    "source": "nominatim",
+    "osm_id": "relation/7726080",
+    "wikidata": "Q160112",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Museo del Prado, Paseo del Prado, Jerónimos, Retiro, Madrid, Comunidad de Madrid, 28014, España",
+    "names_all": [
+     "Museo del Prado"
+    ],
+    "importance": 0.635572056486556,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::museo reina sofia": {
+  "ok": true,
+  "lat": 40.408049,
+  "lng": -3.694422,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.884,
+  "name": "Museo Nacional Centro de Arte Reina Sofía",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.4080495,
+    "lng": -3.6944216,
+    "name": "Museo Nacional Centro de Arte Reina Sofía",
+    "source": "nominatim",
+    "osm_id": "way/991444051",
+    "wikidata": "Q460889",
+    "osm_class": "amenity=arts_centre",
+    "locality": "Madrid",
+    "display": "Museo Nacional Centro de Arte Reina Sofía, 52, Calle de Santa Isabel, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "Museo Nacional Centro de Arte Reina Sofía"
+    ],
+    "importance": 0.5479028277844017,
+    "rank": 0
+   },
+   {
+    "lat": 40.4080495,
+    "lng": -3.6944216,
+    "name": "Museo Nacional Centro de Arte Reina Sofía",
+    "source": "photon",
+    "osm_id": "W/991444051",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Museo Nacional Centro de Arte Reina Sofía, Madrid, España",
+    "names_all": [
+     "Museo Nacional Centro de Arte Reina Sofía"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "madrid::museo thyssen bornemisza": {
+  "ok": true,
+  "lat": 40.416216,
+  "lng": -3.694932,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.936,
+  "name": "Museo Thyssen-Bornemisza",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q176251",
+  "display": "Museo Thyssen-Bornemisza, 8, Paseo del Prado, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4162159,
+    "lng": -3.6949317,
+    "name": "Museo Thyssen-Bornemisza",
+    "source": "nominatim",
+    "osm_id": "relation/1869336",
+    "wikidata": "Q176251",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Museo Thyssen-Bornemisza, 8, Paseo del Prado, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+    "names_all": [
+     "Museo Thyssen-Bornemisza"
+    ],
+    "importance": 0.5440114671322142,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::palacio real de madrid": {
+  "ok": true,
+  "lat": 40.41674,
+  "lng": -3.713622,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.935,
+  "name": "Palacio Real de Madrid",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q171517",
+  "display": "Palacio Real de Madrid, Plaza de la Armería, Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28013, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4167403,
+    "lng": -3.7136222,
+    "name": "Palacio Real de Madrid",
+    "source": "nominatim",
+    "osm_id": "node/4451986389",
+    "wikidata": "Q171517",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Palacio Real de Madrid, Plaza de la Armería, Barrio de la Latina, Palacio, Centro, Madrid, Comunidad de Madrid, 28013, España",
+    "names_all": [
+     "Palacio Real de Madrid"
+    ],
+    "importance": 0.5379342437039742,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::templo de debod": {
+  "ok": true,
+  "lat": 40.424069,
+  "lng": -3.717613,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.922,
+  "name": "Templo de Debod",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1140249",
+  "display": "Templo de Debod, Calle Profesor Martín Almagro Basch, Casa de Campo, Moncloa-Aravaca, Madrid, Comunidad de Madrid, 28008, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4240689,
+    "lng": -3.7176131,
+    "name": "Templo de Debod",
+    "source": "nominatim",
+    "osm_id": "way/549109296",
+    "wikidata": "Q1140249",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Templo de Debod, Calle Profesor Martín Almagro Basch, Casa de Campo, Moncloa-Aravaca, Madrid, Comunidad de Madrid, 28008, España",
+    "names_all": [
+     "Templo de Debod"
+    ],
+    "importance": 0.4162648857824267,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::palacio de cibeles centrocentro": {
+  "ok": true,
+  "lat": 40.418845,
+  "lng": -3.691812,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.82,
+  "name": "Palacio de Cibeles",
+  "locality": "Madrid",
+  "osm_class": "building=public",
+  "wikidata": "",
+  "display": "Palacio de Cibeles, Madrid, España",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.4188454,
+    "lng": -3.691812,
+    "name": "Palacio de Cibeles",
+    "source": "photon",
+    "osm_id": "W/16322055",
+    "wikidata": "",
+    "osm_class": "building=public",
+    "locality": "Madrid",
+    "display": "Palacio de Cibeles, Madrid, España",
+    "names_all": [
+     "Palacio de Cibeles"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "madrid::barrio de los poetas": {
+  "ok": true,
+  "lat": 40.468409,
+  "lng": -3.71755,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.61,
+  "name": "Bar Los Poetas",
+  "locality": "Madrid",
+  "osm_class": "amenity=restaurant",
+  "wikidata": "",
+  "display": "Bar Los Poetas, Madrid, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.4684087,
+    "lng": -3.7175501,
+    "name": "Bar Los Poetas",
+    "source": "photon",
+    "osm_id": "N/1512638290",
+    "wikidata": "",
+    "osm_class": "amenity=restaurant",
+    "locality": "Madrid",
+    "display": "Bar Los Poetas, Madrid, España",
+    "names_all": [
+     "Bar Los Poetas"
+    ],
+    "importance": 0.0,
+    "rank": 5
+   }
+  ]
+ },
+ "madrid::matadero madrid": {
+  "ok": true,
+  "lat": 40.391545,
+  "lng": -3.697662,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.756,
+  "name": "Matadero Madrid, Centro de creación Contemporánea",
+  "locality": "Madrid",
+  "osm_class": "amenity=arts_centre",
+  "wikidata": "Q4043800",
+  "display": "Matadero Madrid, Centro de creación Contemporánea, Calle de Alejandro Saint Aubin, Colonia del Pico del Pañuelo, Chopera, Arganzuela, Madrid, Comunidad de Madrid, 28045, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3915448,
+    "lng": -3.6976625,
+    "name": "Matadero Madrid, Centro de creación Contemporánea",
+    "source": "nominatim",
+    "osm_id": "way/25850576",
+    "wikidata": "Q4043800",
+    "osm_class": "amenity=arts_centre",
+    "locality": "Madrid",
+    "display": "Matadero Madrid, Centro de creación Contemporánea, Calle de Alejandro Saint Aubin, Colonia del Pico del Pañuelo, Chopera, Arganzuela, Madrid, Comunidad de Madrid, 28045, España",
+    "names_all": [
+     "Matadero Madrid, Centro de creación Contemporánea"
+    ],
+    "importance": 0.3572718937775532,
+    "rank": 0
+   },
+   {
+    "lat": 40.3915448,
+    "lng": -3.6976625,
+    "name": "Matadero Madrid, Centro de creación Contemporánea",
+    "source": "photon",
+    "osm_id": "W/25850576",
+    "wikidata": "",
+    "osm_class": "amenity=arts_centre",
+    "locality": "Madrid",
+    "display": "Matadero Madrid, Centro de creación Contemporánea, Madrid, España",
+    "names_all": [
+     "Matadero Madrid, Centro de creación Contemporánea"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.3915448,
+    "lng": -3.6976625,
+    "name": "Matadero Madrid, Centro de creación Contemporánea",
+    "source": "nominatim",
+    "osm_id": "way/25850576",
+    "wikidata": "Q4043800",
+    "osm_class": "amenity=arts_centre",
+    "locality": "Madrid",
+    "display": "Matadero Madrid, Centro de creación Contemporánea, Calle de Enrique Trompeta, Colonia del Pico del Pañuelo, Chopera, Arganzuela, Madrid, Comunidad de Madrid, 28045, España",
+    "names_all": [
+     "Matadero Madrid, Centro de creación Contemporánea"
+    ],
+    "importance": 0.3572718937775532,
+    "rank": 0
+   },
+   {
+    "lat": 40.3915448,
+    "lng": -3.6976625,
+    "name": "Matadero Madrid, Centro de creación Contemporánea",
+    "source": "nominatim",
+    "osm_id": "way/25850576",
+    "wikidata": "Q4043800",
+    "osm_class": "amenity=arts_centre",
+    "locality": "Madrid",
+    "display": "Matadero Madrid, Centro de creación Contemporánea, Calle de Alejandro Saint Aubin, Colonia del Pico del Pañuelo, Chopera, Arganzuela, Madrid, Comunidad de Madrid, 28045, España",
+    "names_all": [
+     "Matadero Madrid, Centro de creación Contemporánea"
+    ],
+    "importance": 0.3572718937775532,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::lavapies": {
+  "ok": true,
+  "lat": 40.408402,
+  "lng": -3.700965,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.891,
+  "name": "Lavapiés",
+  "locality": "Madrid",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q2566034",
+  "display": "Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4084021,
+    "lng": -3.7009649,
+    "name": "Lavapiés",
+    "source": "nominatim",
+    "osm_id": "node/3434168948",
+    "wikidata": "Q2566034",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "Lavapiés"
+    ],
+    "importance": 0.3767390548248983,
+    "rank": 3
+   }
+  ]
+ },
+ "madrid::chueca": {
+  "ok": true,
+  "lat": 40.422742,
+  "lng": -3.699327,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.927,
+  "name": "Chueca",
+  "locality": "Madrid",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q284642",
+  "display": "Chueca, Justicia, Centro, Madrid, Comunidad de Madrid, 28004, España",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.4227415,
+    "lng": -3.6993271,
+    "name": "Chueca",
+    "source": "nominatim",
+    "osm_id": "node/1862926475",
+    "wikidata": "Q284642",
+    "osm_class": "place=neighbourhood",
+    "locality": "Madrid",
+    "display": "Chueca, Justicia, Centro, Madrid, Comunidad de Madrid, 28004, España",
+    "names_all": [
+     "Chueca"
+    ],
+    "importance": 0.42828097732087733,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::salamanca": {
+  "ok": true,
+  "lat": 40.427045,
+  "lng": -3.680602,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.878,
+  "name": "Salamanca",
+  "locality": "Madrid",
+  "osm_class": "place=suburb",
+  "wikidata": "",
+  "display": "Salamanca, Madrid, España",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.4270451,
+    "lng": -3.6806024,
+    "name": "Salamanca",
+    "source": "nominatim",
+    "osm_id": "relation/356962",
+    "wikidata": "Q1773521",
+    "osm_class": "boundary=administrative",
+    "locality": "Madrid",
+    "display": "Salamanca, Madrid, Comunidad de Madrid, España",
+    "names_all": [
+     "Salamanca"
+    ],
+    "importance": 0.465736727088338,
+    "rank": 0
+   },
+   {
+    "lat": 40.4270451,
+    "lng": -3.6806024,
+    "name": "Salamanca",
+    "source": "photon",
+    "osm_id": "R/356962",
+    "wikidata": "",
+    "osm_class": "place=suburb",
+    "locality": "Madrid",
+    "display": "Salamanca, Madrid, España",
+    "names_all": [
+     "Salamanca"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "madrid::lavapies el rastro": {
+  "ok": true,
+  "lat": 40.408633,
+  "lng": -3.70733,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.765,
+  "name": "El Rastro",
+  "locality": "Madrid",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "Q2916187",
+  "display": "El Rastro, Calle de Embajadores, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4069687,
+    "lng": -3.7121445,
+    "name": "Mujeres y hombres de Lavapiés, el Rastro y la Paloma",
+    "source": "nominatim",
+    "osm_id": "node/5283741568",
+    "wikidata": "",
+    "osm_class": "historic=memorial",
+    "locality": "Madrid",
+    "display": "Mujeres y hombres de Lavapiés, el Rastro y la Paloma, Ronda de Segovia, Palacio, Arganzuela, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "Mujeres y hombres de Lavapiés, el Rastro y la Paloma"
+    ],
+    "importance": 8.580834668493199e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "photon",
+    "osm_id": "R/12953502",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Madrid, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4069687,
+    "lng": -3.7121445,
+    "name": "Mujeres y hombres de Lavapiés, el Rastro y la Paloma",
+    "source": "nominatim",
+    "osm_id": "node/5283741568",
+    "wikidata": "",
+    "osm_class": "historic=memorial",
+    "locality": "Madrid",
+    "display": "Mujeres y hombres de Lavapiés, el Rastro y la Paloma, Ronda de Segovia, Palacio, Arganzuela, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "Mujeres y hombres de Lavapiés, el Rastro y la Paloma"
+    ],
+    "importance": 8.580834668493199e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "nominatim",
+    "osm_id": "relation/12953502",
+    "wikidata": "Q2916187",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Calle de Embajadores, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.3331894015087746,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::templo de debod al atardecer": {
+  "ok": true,
+  "lat": 40.424037,
+  "lng": -3.717725,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.769,
+  "name": "Templo de Debod",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Templo de Debod, Madrid, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.4240372,
+    "lng": -3.7177252,
+    "name": "Templo de Debod",
+    "source": "photon",
+    "osm_id": "R/6432785",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Templo de Debod, Madrid, España",
+    "names_all": [
+     "Templo de Debod"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::estadio bernabeu": {
+  "ok": true,
+  "lat": 40.453044,
+  "lng": -3.688197,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.786,
+  "name": "Bernabéu",
+  "locality": "Madrid",
+  "osm_class": "leisure=stadium",
+  "wikidata": "Q164027",
+  "display": "Bernabéu, Calle del Padre Damián, Hispanoamérica, Chamartín, Madrid, Comunidad de Madrid, 28020, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4530437,
+    "lng": -3.688197,
+    "name": "Bernabéu",
+    "source": "nominatim",
+    "osm_id": "way/1507411898",
+    "wikidata": "Q164027",
+    "osm_class": "leisure=stadium",
+    "locality": "Madrid",
+    "display": "Bernabéu, Calle del Padre Damián, Hispanoamérica, Chamartín, Madrid, Comunidad de Madrid, 28020, España",
+    "names_all": [
+     "Bernabéu"
+    ],
+    "importance": 0.5868678467637894,
+    "rank": 0
+   },
+   {
+    "lat": 40.4530437,
+    "lng": -3.688197,
+    "name": "Bernabéu",
+    "source": "photon",
+    "osm_id": "W/1507411898",
+    "wikidata": "",
+    "osm_class": "leisure=stadium",
+    "locality": "Madrid",
+    "display": "Bernabéu, Madrid, España",
+    "names_all": [
+     "Bernabéu"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4530437,
+    "lng": -3.688197,
+    "name": "Bernabéu",
+    "source": "nominatim",
+    "osm_id": "way/1507411898",
+    "wikidata": "Q164027",
+    "osm_class": "leisure=stadium",
+    "locality": "Madrid",
+    "display": "Bernabéu, Calle del Padre Damián, Hispanoamérica, Chamartín, Madrid, Comunidad de Madrid, 28020, España",
+    "names_all": [
+     "Bernabéu"
+    ],
+    "importance": 0.5868678467637894,
+    "rank": 0
+   },
+   {
+    "lat": 40.4530437,
+    "lng": -3.688197,
+    "name": "Bernabéu",
+    "source": "nominatim",
+    "osm_id": "way/1507411898",
+    "wikidata": "Q164027",
+    "osm_class": "leisure=stadium",
+    "locality": "Madrid",
+    "display": "Bernabéu, Calle del Padre Damián, Hispanoamérica, Chamartín, Madrid, Comunidad de Madrid, 28020, España",
+    "names_all": [
+     "Bernabéu"
+    ],
+    "importance": 0.5868678467637894,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::el rastro": {
+  "ok": true,
+  "lat": 40.408633,
+  "lng": -3.70733,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.787,
+  "name": "El Rastro",
+  "locality": "Madrid",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "Q2916187",
+  "display": "El Rastro, Plaza de Cascorro, Embajadores, Centro, Madrid, Comunidad de Madrid, 28005, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "nominatim",
+    "osm_id": "relation/12953502",
+    "wikidata": "Q2916187",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Plaza de Cascorro, Embajadores, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.3331894015087746,
+    "rank": 0
+   },
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "photon",
+    "osm_id": "R/12953502",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Madrid, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "nominatim",
+    "osm_id": "relation/12953502",
+    "wikidata": "Q2916187",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Calle de López Silva, Embajadores, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.3331894015087746,
+    "rank": 0
+   },
+   {
+    "lat": 40.4086332,
+    "lng": -3.7073295,
+    "name": "El Rastro",
+    "source": "nominatim",
+    "osm_id": "relation/12953502",
+    "wikidata": "Q2916187",
+    "osm_class": "amenity=marketplace",
+    "locality": "Madrid",
+    "display": "El Rastro, Plaza de Cascorro, Embajadores, Centro, Madrid, Comunidad de Madrid, 28005, España",
+    "names_all": [
+     "El Rastro"
+    ],
+    "importance": 0.3331894015087746,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::mercado de motores": {
+  "ok": true,
+  "lat": 40.404175,
+  "lng": -3.674039,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.632,
+  "name": "Andén 0 - Nave de Motores de Pacífico",
+  "locality": "Madrid",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Andén 0 - Nave de Motores de Pacífico, Madrid, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.4041746,
+    "lng": -3.674039,
+    "name": "Andén 0 - Nave de Motores de Pacífico",
+    "source": "photon",
+    "osm_id": "W/223452728",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Madrid",
+    "display": "Andén 0 - Nave de Motores de Pacífico, Madrid, España",
+    "names_all": [
+     "Andén 0 - Nave de Motores de Pacífico"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::la corrala de lavapies": {
+  "ok": true,
+  "lat": 40.40798,
+  "lng": -3.702753,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.695,
+  "name": "Plaza de la Corrala",
+  "locality": "Madrid",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Plaza de la Corrala, Madrid, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.4079802,
+    "lng": -3.7027533,
+    "name": "Plaza de la Corrala",
+    "source": "nominatim",
+    "osm_id": "way/355162344",
+    "wikidata": "Q56672440",
+    "osm_class": "highway=pedestrian",
+    "locality": "Madrid",
+    "display": "Plaza de la Corrala, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "Plaza de la Corrala"
+    ],
+    "importance": 0.053419141680018274,
+    "rank": 0
+   },
+   {
+    "lat": 40.4079802,
+    "lng": -3.7027533,
+    "name": "Plaza de la Corrala",
+    "source": "photon",
+    "osm_id": "W/355162344",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Madrid",
+    "display": "Plaza de la Corrala, Madrid, España",
+    "names_all": [
+     "Plaza de la Corrala"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4079802,
+    "lng": -3.7027533,
+    "name": "Plaza de la Corrala",
+    "source": "nominatim",
+    "osm_id": "way/355162344",
+    "wikidata": "Q56672440",
+    "osm_class": "highway=pedestrian",
+    "locality": "Madrid",
+    "display": "Plaza de la Corrala, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "Plaza de la Corrala"
+    ],
+    "importance": 0.053419141680018274,
+    "rank": 0
+   },
+   {
+    "lat": 40.4079802,
+    "lng": -3.7027533,
+    "name": "Plaza de la Corrala",
+    "source": "nominatim",
+    "osm_id": "way/355162344",
+    "wikidata": "Q56672440",
+    "osm_class": "highway=pedestrian",
+    "locality": "Madrid",
+    "display": "Plaza de la Corrala, Lavapiés, Embajadores, Centro, Madrid, Comunidad de Madrid, 28012, España",
+    "names_all": [
+     "Plaza de la Corrala"
+    ],
+    "importance": 0.053419141680018274,
+    "rank": 0
+   }
+  ]
+ },
+ "madrid::circulo de bellas artes": {
+  "ok": true,
+  "lat": 40.418207,
+  "lng": -3.696514,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.765,
+  "name": "Círculo de Bellas Artes",
+  "locality": "Madrid",
+  "osm_class": "building=civic",
+  "wikidata": "Q1092919",
+  "display": "Círculo de Bellas Artes, 42, Calle de Alcalá, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.4182071,
+    "lng": -3.6965142,
+    "name": "Círculo de Bellas Artes",
+    "source": "nominatim",
+    "osm_id": "way/4291319",
+    "wikidata": "Q1092919",
+    "osm_class": "building=civic",
+    "locality": "Madrid",
+    "display": "Círculo de Bellas Artes, 42, Calle de Alcalá, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+    "names_all": [
+     "Círculo de Bellas Artes"
+    ],
+    "importance": 8.580834668493199e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.4187215,
+    "lng": -3.6960818,
+    "name": "Círculo de Bellas Artes",
+    "source": "photon",
+    "osm_id": "N/1439699387",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Madrid",
+    "display": "Círculo de Bellas Artes, Madrid, España",
+    "names_all": [
+     "Círculo de Bellas Artes"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.4182071,
+    "lng": -3.6965142,
+    "name": "Círculo de Bellas Artes",
+    "source": "nominatim",
+    "osm_id": "way/4291319",
+    "wikidata": "Q1092919",
+    "osm_class": "building=civic",
+    "locality": "Madrid",
+    "display": "Círculo de Bellas Artes, 42, Calle de Alcalá, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+    "names_all": [
+     "Círculo de Bellas Artes"
+    ],
+    "importance": 8.580834668493199e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.4182071,
+    "lng": -3.6965142,
+    "name": "Círculo de Bellas Artes",
+    "source": "nominatim",
+    "osm_id": "way/4291319",
+    "wikidata": "Q1092919",
+    "osm_class": "building=civic",
+    "locality": "Madrid",
+    "display": "Círculo de Bellas Artes, 42, Calle de Alcalá, Barrio de las Letras, Cortes, Centro, Madrid, Comunidad de Madrid, 28014, España",
+    "names_all": [
+     "Círculo de Bellas Artes"
+    ],
+    "importance": 8.580834668493199e-05,
+    "rank": 0
+   }
+  ]
  }
 }

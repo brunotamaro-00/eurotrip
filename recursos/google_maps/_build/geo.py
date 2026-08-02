@@ -30,6 +30,7 @@ CACHE_PATH = HERE / "geocode_cache2.json"
 
 USER_AGENT = "TripItineraryMapper/2.0 (personal travel planning; github.com/brunotamaro-00/eurotrip)"
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
+PHOTON = "https://photon.komoot.io/api/"
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 WIKIDATA_ENTITY = "https://www.wikidata.org/wiki/Special:EntityData/{qid}.json"
 OVERPASS_HOSTS = [
@@ -39,6 +40,7 @@ OVERPASS_HOSTS = [
 ]
 
 SLEEP_NOMINATIM = 1.1
+SLEEP_PHOTON = 0.3
 SLEEP_OVERPASS = 2.0
 SLEEP_WIKIDATA = 0.2
 
@@ -332,7 +334,44 @@ def nominatim_search(query: str, area: Area | None, bounded: bool, limit: int = 
 # ---------------------------------------------------------------------------
 # Scoring
 # ---------------------------------------------------------------------------
-SOURCE_PRIOR = {"wikidata": 1.0, "overpass": 0.9, "nominatim": 0.7}
+SOURCE_PRIOR = {"wikidata": 1.0, "overpass": 0.9, "photon": 0.8, "nominatim": 0.7}
+
+
+def photon_search(query: str, area: Area | None, limit: int = 8) -> list[Candidate]:
+    """Photon (komoot) — el mismo OSM que Nominatim pero con otro índice y sin
+    el rate limit agresivo. Se usa como alternativa cuando Nominatim nos corta.
+
+    Acepta un sesgo por coordenada (`lat`/`lon`), que no acota como un bbox pero
+    reordena los resultados a favor de la zona correcta.
+    """
+    params = {"q": query, "limit": limit}
+    if area is not None:
+        params["lat"], params["lon"] = area.lat, area.lng
+    _throttle("photon", SLEEP_PHOTON)
+    try:
+        data = json.loads(_get(f"{PHOTON}?{urllib.parse.urlencode(params)}", timeout=25))
+    except Exception:
+        return []
+    out: list[Candidate] = []
+    for i, f in enumerate(data.get("features", [])):
+        try:
+            lng, lat = f["geometry"]["coordinates"][:2]
+        except Exception:
+            continue
+        pr = f.get("properties", {})
+        nombre = pr.get("name") or ""
+        if not nombre:
+            continue
+        out.append(Candidate(
+            lat=float(lat), lng=float(lng), name=nombre, source="photon",
+            osm_id=f"{pr.get('osm_type','')}/{pr.get('osm_id','')}",
+            osm_class=f"{pr.get('osm_key','')}={pr.get('osm_value','')}",
+            locality=pr.get("city") or pr.get("county") or pr.get("district") or "",
+            display=", ".join(x for x in (nombre, pr.get("city"), pr.get("country")) if x),
+            names_all=[nombre],
+            importance=0.0, rank=i,
+        ))
+    return out
 
 
 def best_name_sim(c: Candidate, target: str) -> float:
@@ -443,15 +482,29 @@ def resolve(
         if c is not None and haversine_km(c.lat, c.lng, area.lat, area.lng) <= area.max_km:
             res = _mk(c, 1.0, "high", "wikidata_qid")
 
+    q_full = f"{nombre_local}, {query_extra}" if query_extra else f"{nombre_local}, {area.locality}, {area.country_en}"
+
     # 2 — Nominatim libre (una sola request, resuelve la gran mayoría)
     if res is None:
-        q = f"{nombre_local}, {query_extra}" if query_extra else f"{nombre_local}, {area.locality}, {area.country_en}"
-        cands = nominatim_search(q, None, bounded=False, limit=10)
+        try:
+            cands = nominatim_search(q_full, None, bounded=False, limit=10)
+        except RateLimited:
+            cands = []          # se sigue con Photon en vez de abortar
         c, s = _pick(cands, nombre_local, tipo, area)
         if c is not None:
             found.append((c, s))
             if s >= TH_NOMINATIM_FREE:
                 res = _mk(c, s, "high", "nominatim_free")
+
+    # 2b — Photon: mismo OSM, otro índice y sin el rate limit de Nominatim.
+    # Va acá porque cuesta ~1 s y no se corta; sin esto, cuando Nominatim nos
+    # bloquea el pipeline avanza ~10 lugares por corrida.
+    if res is None:
+        c, s = _pick(photon_search(q_full, area, limit=8), nombre_local, tipo, area)
+        if c is not None:
+            found.append((c, s))
+            if s >= TH_NOMINATIM_FREE:
+                res = _mk(c, s, "high", "photon")
 
     # 2b — Nominatim solo con nombre + país. El sufijo de localidad ayuda a
     # desambiguar pero a veces impide el match: "Slap Savica, Bled, Slovenia"
