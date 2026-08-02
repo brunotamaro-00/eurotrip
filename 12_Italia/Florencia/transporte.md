@@ -48,11 +48,14 @@
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **Siena** | **Bus AT (rapida)** desde Autostazione | ~1h15 | **~€9–18** | ❌ No (barato) | El bus te deja **arriba** en el casco; el tren te deja abajo en el valle |
-| **Pisa** | Tren regional (Trenitalia) | ~1h | **~€10–20** | ❌ No | Combinable con Lucca |
-| **Lucca** | Tren regional | ~1h20 | **~€10–16** | ❌ No | Murallas ciclables |
-| **Cinque Terre** | Tren regional vía La Spezia | ~2h30 | **~€22–33** | ❌ No (regional) | Día largo; Cinque Terre Card aparte |
-| **San Gimignano** | Bus AT vía Poggibonsi | ~1h30 | **~€12–18** | ❌ No | Combinable con Siena |
+| **[Siena](Day_trips/Siena.md)** ⭐ | **Bus AT (rapida)** desde Autostazione | ~1h15 | **~€9–18** | ❌ No (barato) | El bus te deja **arriba** en el casco; el tren te deja abajo en el valle |
+| **[Lucca](Day_trips/Lucca.md)** ⭐ | Tren regional (Trenitalia) | ~1h20 | **~€10–16** | ❌ No | Murallas ciclables; combinable con Pisa |
+| **Pisa** | Tren regional (Trenitalia) | ~1h | **~€10–20** | ❌ No | 2–3h; ver [`Day_trips/Lucca.md`](Day_trips/Lucca.md). Torre **€20** |
+| **[Bologna](Day_trips/Bologna.md)** | **Frecciarossa / Italo** | **~37 min** | **desde ~€10–15 ida** | ❌ No (advance barato) | Otra región; ⚠️ no domingo. Reserva obligatoria |
+| **[San Gimignano](Day_trips/San%20Gimignano.md)** | Bus AT vía Poggibonsi | ~1h30 | **~€12–18** | ❌ No | Transbordo; pueblo de 2–3h |
+| **Fiesole** | **Bus urbano AT línea 7** (Piazza San Marco) | ~25 min | **€2.00** por viaje | — (urbano) | Medio día: teatro romano + mirador |
+| **Chianti (Greve)** | Bus AT 365 | ~1h | **~€10** | ❌ No | O tour de bodegas €70–110 pp |
+| **Cinque Terre** | Tren regional vía La Spezia | ~2h30 | **~€22–33** | ❌ No (regional) | ⚠️ Día muy largo; foros lo desaconsejan como day trip |
 
 ---
 

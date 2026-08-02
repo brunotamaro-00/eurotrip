@@ -59,11 +59,15 @@
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **Pompeya** | Circumvesuviana (o Campania Express si abre) | ~35 min | **€3.30** (o €6) | ❌ No conviene (barato) | Bajar en "Pompei Scavi" |
-| **Herculano (Ercolano)** | Circumvesuviana | ~20 min | **~€2.50** | ❌ No | Más chico y mejor conservado |
-| **Vesubio (cráter)** | Circumvesuviana a Ercolano + bus EAV/shuttle | ~1h total | bus **~€10** + entrada | ❌ No | Reservar entrada al cráter |
-| **Sorrento / Costa Amalfitana** | Circumvesuviana a Sorrento + SITA bus | ~1h10 + bus | tren €4–6 + bus | ❌ No | Ver opción Costa Amalfitana |
-| **Capri** | Ferry desde Molo Beverello | ~50 min | **~€22–25** ida | ❌ No | Día completo |
+| **[Pompeya](../Sur%20de%20Italia/Costa%20Amalfitana/Sorrento/Day_trips/Pompeya.md)** | Circumvesuviana (o Campania Express si abre) | ~35 min | **€3.30** (o €6) | ❌ No conviene (barato) | Bajar en "Pompei Scavi"; entrada **€20** |
+| **[Herculano (Ercolano)](../Sur%20de%20Italia/Costa%20Amalfitana/Sorrento/Day_trips/Herculano.md)** | Circumvesuviana | ~20 min | **~€2.50** | ❌ No | Más chico y mejor conservado; entrada **€16** |
+| **[Vesubio (cráter)](../Sur%20de%20Italia/Costa%20Amalfitana/Sorrento/Day_trips/Vesubio.md)** | Circumvesuviana a Ercolano + bus EAV/shuttle | ~1h total | bus **~€10–14** + entrada **€10** | ❌ No | ⚠️ **Reserva de franja horaria obligatoria** |
+| **[Procida](../Sur%20de%20Italia/Costa%20Amalfitana/Sorrento/Day_trips/Procida.md)** | Ferry desde Molo Beverello | ~40 min | **~€19–22** ida | ❌ No | Rinde mucho más desde Nápoles que desde Sorrento |
+| **[Capri](../Sur%20de%20Italia/Costa%20Amalfitana/Sorrento/Day_trips/Capri.md)** | Ferry desde Molo Beverello | ~50 min | **~€22–28** ida | ❌ No | Día completo; Gruta Azul suele cerrar en otoño/invierno |
+| **Campi Flegrei** (Pozzuoli/Baia/Cuma) | Metro L2 o **Cumana** | ~30–45 min | ticket urbano/regional | ❌ No | Anfiteatro Flavio + ciudad sumergida de Baia; ⚠️ verificar accesos (bradisismo) |
+| **Caserta (Reggia)** | Trenitalia regional | ~40 min | **~€6–8** | ❌ No | **€16** palacio+parque (**€3** solo parque); ⚠️ **cierra martes** |
+| **Oplontis (Torre Annunziata)** | Circumvesuviana | ~30 min | **~€2.50** | ❌ No | Villa de Poppea, **€8**, casi vacía; parada camino a Pompeya |
+| **Sorrento / Costa Amalfitana** | Circumvesuviana a Sorrento + SITA bus | ~1h15 + bus | tren **€5** + bus | ❌ No | ⚠️ Ferries de la costa **suspenden de fines de oct a abril** |
 
 ---
 
