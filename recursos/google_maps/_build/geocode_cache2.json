@@ -20445,5 +20445,6892 @@
  "__rt__::cairngorm mountain railway aviemore uk": null,
  "__rt__::river ness inverness uk": null,
  "__rt__::drumnadrochit uk": null,
- "__rt__::st andrews airdrie uk": null
+ "__rt__::st andrews airdrie uk": null,
+ "liubliana::presernov trg plaza preseren": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::rio ljubljanica paseo orillas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::plecnikova hisa casa plecnik": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::moderna galerija mg msum": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::museo de historia natural de eslovenia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::btc city": {
+  "ok": true,
+  "lat": 46.064203,
+  "lng": 14.544492,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.81,
+  "name": "Tržnica BTC City",
+  "locality": "Ljubljana",
+  "osm_class": "building=retail",
+  "wikidata": "",
+  "display": "Tržnica BTC City, Avstrijska ulica, BTC, Nove Jarše, Četrtna skupnost Jarše, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 46.0642034,
+    "lng": 14.5444921,
+    "name": "Tržnica BTC City",
+    "source": "nominatim",
+    "osm_id": "way/24961387",
+    "wikidata": "",
+    "osm_class": "building=retail",
+    "locality": "Ljubljana",
+    "display": "Tržnica BTC City, Avstrijska ulica, BTC, Nove Jarše, Četrtna skupnost Jarše, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Tržnica BTC City"
+    ],
+    "importance": 7.541695277328172e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "liubliana::barrio krakovo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "liubliana::barrio trnovo": {
+  "ok": true,
+  "lat": 46.041719,
+  "lng": 14.503884,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.621,
+  "name": "Četrtna skupnost Trnovo",
+  "locality": "Ljubljana",
+  "osm_class": "place=suburb",
+  "wikidata": "Q4863552",
+  "display": "Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.041719,
+    "lng": 14.5038838,
+    "name": "Četrtna skupnost Trnovo",
+    "source": "nominatim",
+    "osm_id": "relation/16868420",
+    "wikidata": "Q4863552",
+    "osm_class": "place=suburb",
+    "locality": "Ljubljana",
+    "display": "Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Četrtna skupnost Trnovo"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 0
+   },
+   {
+    "lat": 46.041719,
+    "lng": 14.5038838,
+    "name": "Četrtna skupnost Trnovo",
+    "source": "nominatim",
+    "osm_id": "relation/16868420",
+    "wikidata": "Q4863552",
+    "osm_class": "place=suburb",
+    "locality": "Ljubljana",
+    "display": "Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Četrtna skupnost Trnovo"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 0
+   },
+   {
+    "lat": 46.041719,
+    "lng": 14.5038838,
+    "name": "Četrtna skupnost Trnovo",
+    "source": "nominatim",
+    "osm_id": "relation/16868420",
+    "wikidata": "Q4863552",
+    "osm_class": "place=suburb",
+    "locality": "Ljubljana",
+    "display": "Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Četrtna skupnost Trnovo"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 0
+   }
+  ]
+ },
+ "bled::vuelta al lago a pie": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::kremna rezina bled cream cake": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::bano sup en el lago": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::vogar mirador sobre el lago": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::iglesia de san juan bautista sv janez krstnik": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::radovljica": {
+  "ok": true,
+  "lat": 46.343509,
+  "lng": 14.172023,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.762,
+  "name": "Radovljica",
+  "locality": "Radovljica",
+  "osm_class": "place=town",
+  "wikidata": "Q604194",
+  "display": "Radovljica, 4240, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.343509,
+    "lng": 14.1720227,
+    "name": "Radovljica",
+    "source": "nominatim",
+    "osm_id": "node/280339374",
+    "wikidata": "Q604194",
+    "osm_class": "place=town",
+    "locality": "Radovljica",
+    "display": "Radovljica, 4240, Slovenija",
+    "names_all": [
+     "Radovljica"
+    ],
+    "importance": 0.5003872257812424,
+    "rank": 1
+   },
+   {
+    "lat": 46.343509,
+    "lng": 14.1720227,
+    "name": "Radovljica",
+    "source": "nominatim",
+    "osm_id": "node/280339374",
+    "wikidata": "Q604194",
+    "osm_class": "place=town",
+    "locality": "Radovljica",
+    "display": "Radovljica, 4240, Slovenija",
+    "names_all": [
+     "Radovljica"
+    ],
+    "importance": 0.5003872257812424,
+    "rank": 1
+   }
+  ]
+ },
+ "bled::kropa": {
+  "ok": true,
+  "lat": 46.291089,
+  "lng": 14.204703,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.726,
+  "name": "Kropa",
+  "locality": "Kropa",
+  "osm_class": "place=village",
+  "wikidata": "Q1005154",
+  "display": "Kropa, Radovljica, 4245, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.2910887,
+    "lng": 14.2047026,
+    "name": "Kropa",
+    "source": "nominatim",
+    "osm_id": "node/276064782",
+    "wikidata": "Q1005154",
+    "osm_class": "place=village",
+    "locality": "Kropa",
+    "display": "Kropa, Radovljica, 4245, Slovenija",
+    "names_all": [
+     "Kropa"
+    ],
+    "importance": 0.14672250171663992,
+    "rank": 0
+   },
+   {
+    "lat": 46.2910887,
+    "lng": 14.2047026,
+    "name": "Kropa",
+    "source": "nominatim",
+    "osm_id": "node/276064782",
+    "wikidata": "Q1005154",
+    "osm_class": "place=village",
+    "locality": "Kropa",
+    "display": "Kropa, Radovljica, 4245, Slovenija",
+    "names_all": [
+     "Kropa"
+    ],
+    "importance": 0.14672250171663992,
+    "rank": 0
+   }
+  ]
+ },
+ "bled::bohinj bled por la campina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bled::kranjska gora vrsic": {
+  "ok": true,
+  "lat": 46.491065,
+  "lng": 13.87168,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.652,
+  "name": "Vršič",
+  "locality": "Kranjska Gora",
+  "osm_class": "natural=peak",
+  "wikidata": "",
+  "display": "Vršič, Kranjska Gora, 4282, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.4910652,
+    "lng": 13.8716799,
+    "name": "Vršič",
+    "source": "nominatim",
+    "osm_id": "node/10034845422",
+    "wikidata": "",
+    "osm_class": "natural=peak",
+    "locality": "Kranjska Gora",
+    "display": "Vršič, Kranjska Gora, 4282, Slovenija",
+    "names_all": [
+     "Vršič"
+    ],
+    "importance": 0.16005590371557182,
+    "rank": 1
+   }
+  ]
+ },
+ "bled::pokljuka meseta": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::skocjan caves unesco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::predjama castle": {
+  "ok": true,
+  "lat": 45.815734,
+  "lng": 14.126592,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.564,
+  "name": "Predjamski grad",
+  "locality": "Predjama",
+  "osm_class": "amenity=castle",
+  "wikidata": "Q79217",
+  "display": "Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.8157344,
+    "lng": 14.1265916,
+    "name": "Predjamski grad",
+    "source": "nominatim",
+    "osm_id": "way/426772755",
+    "wikidata": "Q79217",
+    "osm_class": "amenity=castle",
+    "locality": "Predjama",
+    "display": "Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija",
+    "names_all": [
+     "Predjamski grad"
+    ],
+    "importance": 0.4252794075783652,
+    "rank": 0
+   },
+   {
+    "lat": 45.8157344,
+    "lng": 14.1265916,
+    "name": "Predjamski grad",
+    "source": "nominatim",
+    "osm_id": "way/426772755",
+    "wikidata": "Q79217",
+    "osm_class": "amenity=castle",
+    "locality": "Predjama",
+    "display": "Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija",
+    "names_all": [
+     "Predjamski grad"
+    ],
+    "importance": 0.4252794075783652,
+    "rank": 0
+   },
+   {
+    "lat": 45.8157344,
+    "lng": 14.1265916,
+    "name": "Predjamski grad",
+    "source": "nominatim",
+    "osm_id": "way/426772755",
+    "wikidata": "Q79217",
+    "osm_class": "amenity=castle",
+    "locality": "Predjama",
+    "display": "Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija",
+    "names_all": [
+     "Predjamski grad"
+    ],
+    "importance": 0.4252794075783652,
+    "rank": 0
+   }
+  ]
+ },
+ "karst::krizna jama": {
+  "ok": true,
+  "lat": 45.745231,
+  "lng": 14.467352,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.828,
+  "name": "Križna jama",
+  "locality": "Bloška Polica",
+  "osm_class": "natural=cave_entrance",
+  "wikidata": "Q1779044",
+  "display": "Križna jama, Križna jama - Križna gora, Bloška Polica, Cerknica, 1384, Slovenija",
+  "reason": "nominatim_sin_localidad",
+  "alternatives": [
+   {
+    "lat": 45.7452309,
+    "lng": 14.4673519,
+    "name": "Križna jama",
+    "source": "nominatim",
+    "osm_id": "node/286921462",
+    "wikidata": "Q1779044",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Bloška Polica",
+    "display": "Križna jama, Križna jama - Križna gora, Bloška Polica, Cerknica, 1384, Slovenija",
+    "names_all": [
+     "Križna jama"
+    ],
+    "importance": 0.38850590600538054,
+    "rank": 0
+   }
+  ]
+ },
+ "karst::lago cerknica cerknisko jezero": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::vilenica": {
+  "ok": true,
+  "lat": 45.680775,
+  "lng": 13.921425,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.612,
+  "name": "Povir / Vilenica",
+  "locality": "Lokev",
+  "osm_class": "information=guidepost",
+  "wikidata": "",
+  "display": "Povir / Vilenica, Via Alpina, Lokev, Sežana, Upravna enota Sežana, 6219, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.6807751,
+    "lng": 13.9214245,
+    "name": "Povir / Vilenica",
+    "source": "nominatim",
+    "osm_id": "node/7261623339",
+    "wikidata": "",
+    "osm_class": "information=guidepost",
+    "locality": "Lokev",
+    "display": "Povir / Vilenica, Via Alpina, Lokev, Sežana, Upravna enota Sežana, 6219, Slovenija",
+    "names_all": [
+     "Povir / Vilenica"
+    ],
+    "importance": 5.9179827573007055e-05,
+    "rank": 1
+   },
+   {
+    "lat": 45.6807751,
+    "lng": 13.9214245,
+    "name": "Povir / Vilenica",
+    "source": "nominatim",
+    "osm_id": "node/7261623339",
+    "wikidata": "",
+    "osm_class": "information=guidepost",
+    "locality": "Lokev",
+    "display": "Povir / Vilenica, Via Alpina, Lokev, Sežana, Upravna enota Sežana, 6219, Slovenija",
+    "names_all": [
+     "Povir / Vilenica"
+    ],
+    "importance": 5.9179827573007055e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "karst::lipica stud farm": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::stanjel": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::vinedos del karst teran": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::lipica skocjan combinados": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::slap virje": {
+  "ok": true,
+  "lat": 46.334916,
+  "lng": 13.513972,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.737,
+  "name": "Slap Virje",
+  "locality": "Plužna",
+  "osm_class": "waterway=waterfall",
+  "wikidata": "Q12802847",
+  "display": "Slap Virje, Plužna, Bovec, 5230, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.334916,
+    "lng": 13.5139723,
+    "name": "Slap Virje",
+    "source": "nominatim",
+    "osm_id": "node/3575212552",
+    "wikidata": "Q12802847",
+    "osm_class": "waterway=waterfall",
+    "locality": "Plužna",
+    "display": "Slap Virje, Plužna, Bovec, 5230, Slovenija",
+    "names_all": [
+     "Slap Virje"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   },
+   {
+    "lat": 46.334916,
+    "lng": 13.5139723,
+    "name": "Slap Virje",
+    "source": "nominatim",
+    "osm_id": "node/3575212552",
+    "wikidata": "Q12802847",
+    "osm_class": "waterway=waterfall",
+    "locality": "Plužna",
+    "display": "Slap Virje, Plužna, Bovec, 5230, Slovenija",
+    "names_all": [
+     "Slap Virje"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   },
+   {
+    "lat": 46.334916,
+    "lng": 13.5139723,
+    "name": "Slap Virje",
+    "source": "nominatim",
+    "osm_id": "node/3575212552",
+    "wikidata": "Q12802847",
+    "osm_class": "waterway=waterfall",
+    "locality": "Plužna",
+    "display": "Slap Virje, Plužna, Bovec, 5230, Slovenija",
+    "names_all": [
+     "Slap Virje"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   }
+  ]
+ },
+ "soca::slap boka": {
+  "ok": true,
+  "lat": 46.322211,
+  "lng": 13.481585,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.735,
+  "name": "Slap Boka",
+  "locality": "Žaga",
+  "osm_class": "waterway=waterfall",
+  "wikidata": "Q352429",
+  "display": "Slap Boka, Žaga, Bovec, 5224, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.3222113,
+    "lng": 13.4815846,
+    "name": "Slap Boka",
+    "source": "nominatim",
+    "osm_id": "node/201330645",
+    "wikidata": "Q352429",
+    "osm_class": "waterway=waterfall",
+    "locality": "Žaga",
+    "display": "Slap Boka, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Slap Boka"
+    ],
+    "importance": 0.33861775862348764,
+    "rank": 0
+   },
+   {
+    "lat": 46.3222113,
+    "lng": 13.4815846,
+    "name": "Slap Boka",
+    "source": "nominatim",
+    "osm_id": "node/201330645",
+    "wikidata": "Q352429",
+    "osm_class": "waterway=waterfall",
+    "locality": "Žaga",
+    "display": "Slap Boka, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Slap Boka"
+    ],
+    "importance": 0.33861775862348764,
+    "rank": 0
+   },
+   {
+    "lat": 46.3222113,
+    "lng": 13.4815846,
+    "name": "Slap Boka",
+    "source": "nominatim",
+    "osm_id": "node/201330645",
+    "wikidata": "Q352429",
+    "osm_class": "waterway=waterfall",
+    "locality": "Žaga",
+    "display": "Slap Boka, Žaga, Bovec, 5224, Slovenija",
+    "names_all": [
+     "Slap Boka"
+    ],
+    "importance": 0.33861775862348764,
+    "rank": 0
+   }
+  ]
+ },
+ "soca::velika korita soce gran garganta": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::sunikov vodni gaj sunik water grove": {
+  "ok": true,
+  "lat": 46.312751,
+  "lng": 13.658013,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.619,
+  "name": "Šunikov vodni gaj parkirišče",
+  "locality": "Bovec",
+  "osm_class": "amenity=parking",
+  "wikidata": "",
+  "display": "Šunikov vodni gaj parkirišče, Šunikov vodni gaj, Lepena, Bovec, 5232, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.3127507,
+    "lng": 13.6580133,
+    "name": "Šunikov vodni gaj parkirišče",
+    "source": "nominatim",
+    "osm_id": "way/434999899",
+    "wikidata": "",
+    "osm_class": "amenity=parking",
+    "locality": "Bovec",
+    "display": "Šunikov vodni gaj parkirišče, Šunikov vodni gaj, Lepena, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Šunikov vodni gaj parkirišče"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.3127507,
+    "lng": 13.6580133,
+    "name": "Šunikov vodni gaj parkirišče",
+    "source": "nominatim",
+    "osm_id": "way/434999899",
+    "wikidata": "",
+    "osm_class": "amenity=parking",
+    "locality": "Bovec",
+    "display": "Šunikov vodni gaj parkirišče, Šunikov vodni gaj, Lepena, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Šunikov vodni gaj parkirišče"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.3127507,
+    "lng": 13.6580133,
+    "name": "Šunikov vodni gaj parkirišče",
+    "source": "nominatim",
+    "osm_id": "way/434999899",
+    "wikidata": "",
+    "osm_class": "amenity=parking",
+    "locality": "Bovec",
+    "display": "Šunikov vodni gaj parkirišče, Šunikov vodni gaj, Lepena, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Šunikov vodni gaj parkirišče"
+    ],
+    "importance": 5.779583428697669e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "soca::javorca memorial church of the holy spirit": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::napoleons bridge": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::walk of peace pot miru": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::zipline kanin ucja": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::trenta": {
+  "ok": true,
+  "lat": 46.380809,
+  "lng": 13.751843,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.821,
+  "name": "Trenta",
+  "locality": "Bovec",
+  "osm_class": "place=hamlet",
+  "wikidata": "Q1015857",
+  "display": "Trenta, Bovec, 5232, Slovenija",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 46.3808092,
+    "lng": 13.7518434,
+    "name": "Trenta",
+    "source": "nominatim",
+    "osm_id": "node/44825777",
+    "wikidata": "Q1015857",
+    "osm_class": "place=hamlet",
+    "locality": "Bovec",
+    "display": "Trenta, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Trenta"
+    ],
+    "importance": 0.13339112916762033,
+    "rank": 0
+   }
+  ]
+ },
+ "soca::most na soci": {
+  "ok": true,
+  "lat": 46.152094,
+  "lng": 13.744018,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.857,
+  "name": "Most na Soči",
+  "locality": "Most na Soči",
+  "osm_class": "place=village",
+  "wikidata": "Q2398575",
+  "display": "Most na Soči, Tolmin, 5216, Slovenija",
+  "reason": "nominatim_sin_localidad",
+  "alternatives": [
+   {
+    "lat": 46.1520936,
+    "lng": 13.7440176,
+    "name": "Most na Soči",
+    "source": "nominatim",
+    "osm_id": "node/567336337",
+    "wikidata": "Q2398575",
+    "osm_class": "place=village",
+    "locality": "Most na Soči",
+    "display": "Most na Soči, Tolmin, 5216, Slovenija",
+    "names_all": [
+     "Most na Soči"
+    ],
+    "importance": 0.4276151273745538,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::atardecer": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::izola": {
+  "ok": true,
+  "lat": 45.539894,
+  "lng": 13.65939,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.745,
+  "name": "Izola / Isola",
+  "locality": "Izola / Isola",
+  "osm_class": "place=town",
+  "wikidata": "Q15877",
+  "display": "Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, 6311, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 45.5398936,
+    "lng": 13.65939,
+    "name": "Izola / Isola",
+    "source": "nominatim",
+    "osm_id": "node/29098904",
+    "wikidata": "Q15877",
+    "osm_class": "place=town",
+    "locality": "Izola / Isola",
+    "display": "Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, 6311, Slovenija",
+    "names_all": [
+     "Izola / Isola"
+    ],
+    "importance": 0.5222789479586324,
+    "rank": 1
+   },
+   {
+    "lat": 45.5398936,
+    "lng": 13.65939,
+    "name": "Izola / Isola",
+    "source": "nominatim",
+    "osm_id": "node/29098904",
+    "wikidata": "Q15877",
+    "osm_class": "place=town",
+    "locality": "Izola / Isola",
+    "display": "Izola / Isola, Upravna enota Izola / Unità amministrativa Isola, 6311, Slovenija",
+    "names_all": [
+     "Izola / Isola"
+    ],
+    "importance": 0.5222789479586324,
+    "rank": 1
+   }
+  ]
+ },
+ "piran::portoroz": {
+  "ok": true,
+  "lat": 45.514649,
+  "lng": 13.591011,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.791,
+  "name": "Portorož / Portorose",
+  "locality": "Portorož / Portorose",
+  "osm_class": "place=town",
+  "wikidata": "Q564988",
+  "display": "Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 45.5146489,
+    "lng": 13.5910112,
+    "name": "Portorož / Portorose",
+    "source": "nominatim",
+    "osm_id": "node/59708796",
+    "wikidata": "Q564988",
+    "osm_class": "place=town",
+    "locality": "Portorož / Portorose",
+    "display": "Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Portorož / Portorose"
+    ],
+    "importance": 0.5014795402118524,
+    "rank": 0
+   },
+   {
+    "lat": 45.5146489,
+    "lng": 13.5910112,
+    "name": "Portorož / Portorose",
+    "source": "nominatim",
+    "osm_id": "node/59708796",
+    "wikidata": "Q564988",
+    "osm_class": "place=town",
+    "locality": "Portorož / Portorose",
+    "display": "Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Portorož / Portorose"
+    ],
+    "importance": 0.5014795402118524,
+    "rank": 0
+   },
+   {
+    "lat": 45.5146489,
+    "lng": 13.5910112,
+    "name": "Portorož / Portorose",
+    "source": "nominatim",
+    "osm_id": "node/59708796",
+    "wikidata": "Q564988",
+    "osm_class": "place=town",
+    "locality": "Portorož / Portorose",
+    "display": "Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Portorož / Portorose"
+    ],
+    "importance": 0.5014795402118524,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::secovlje salina nature park salinas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::strunjan nature park acantilados moon bay": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::parenzana a pie o bici": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::piazza unita ditalia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::molo audace waterfront": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::cafe historico": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::castillo de san giusto catedral": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::miramare castle": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::duomo brunelleschi pass": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::ponte vecchio": {
+  "ok": true,
+  "lat": 43.768025,
+  "lng": 11.253158,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.801,
+  "name": "Ponte Vecchio",
+  "locality": "Firenze",
+  "osm_class": "man_made=bridge",
+  "wikidata": "Q208633",
+  "display": "Ponte Vecchio, Lungarno degli Acciaioli, Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7680254,
+    "lng": 11.253158,
+    "name": "Ponte Vecchio",
+    "source": "nominatim",
+    "osm_id": "relation/5342094",
+    "wikidata": "Q208633",
+    "osm_class": "man_made=bridge",
+    "locality": "Firenze",
+    "display": "Ponte Vecchio, Lungarno degli Acciaioli, Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia",
+    "names_all": [
+     "Ponte Vecchio"
+    ],
+    "importance": 0.47881559724676087,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::piazza della signoria": {
+  "ok": true,
+  "lat": 43.769574,
+  "lng": 11.255864,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.804,
+  "name": "Piazza della Signoria",
+  "locality": "Firenze",
+  "osm_class": "place=square",
+  "wikidata": "Q849846",
+  "display": "Piazza della Signoria, Oltrarno, Quartiere 1, Firenze, Toscana, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7695737,
+    "lng": 11.2558641,
+    "name": "Piazza della Signoria",
+    "source": "nominatim",
+    "osm_id": "way/23298643",
+    "wikidata": "Q849846",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazza della Signoria, Oltrarno, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazza della Signoria"
+    ],
+    "importance": 0.4802435941101253,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::piazzale michelangelo": {
+  "ok": true,
+  "lat": 43.762828,
+  "lng": 11.264993,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.758,
+  "name": "Piazzale Michelangiolo",
+  "locality": "Firenze",
+  "osm_class": "place=square",
+  "wikidata": "Q1348158",
+  "display": "Piazzale Michelangiolo, San Niccolò, Quartiere 1, Firenze, Toscana, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7628279,
+    "lng": 11.2649932,
+    "name": "Piazzale Michelangiolo",
+    "source": "nominatim",
+    "osm_id": "way/233265215",
+    "wikidata": "Q1348158",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazzale Michelangiolo, San Niccolò, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazzale Michelangiolo"
+    ],
+    "importance": 0.43433333885256975,
+    "rank": 0
+   },
+   {
+    "lat": 43.7628279,
+    "lng": 11.2649932,
+    "name": "Piazzale Michelangiolo",
+    "source": "nominatim",
+    "osm_id": "way/233265215",
+    "wikidata": "Q1348158",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazzale Michelangiolo, San Niccolò, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazzale Michelangiolo"
+    ],
+    "importance": 0.43433333885256975,
+    "rank": 0
+   },
+   {
+    "lat": 43.7628279,
+    "lng": 11.2649932,
+    "name": "Piazzale Michelangiolo",
+    "source": "nominatim",
+    "osm_id": "way/233265215",
+    "wikidata": "Q1348158",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazzale Michelangiolo, San Niccolò, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazzale Michelangiolo"
+    ],
+    "importance": 0.43433333885256975,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::mercado central san lorenzo": {
+  "ok": true,
+  "lat": 43.776585,
+  "lng": 11.253209,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.684,
+  "name": "Mercato di San Lorenzo",
+  "locality": "Firenze",
+  "osm_class": "amenity=food_court",
+  "wikidata": "Q3854843",
+  "display": "Mercato di San Lorenzo, Via di Signa, Quartiere 1, Firenze, Toscana, 50123, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 43.7765847,
+    "lng": 11.2532087,
+    "name": "Mercato di San Lorenzo",
+    "source": "nominatim",
+    "osm_id": "way/480015428",
+    "wikidata": "Q3854843",
+    "osm_class": "amenity=food_court",
+    "locality": "Firenze",
+    "display": "Mercato di San Lorenzo, Via di Signa, Quartiere 1, Firenze, Toscana, 50123, Italia",
+    "names_all": [
+     "Mercato di San Lorenzo"
+    ],
+    "importance": 0.33478681080244976,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::mercato di santambrogio": {
+  "ok": true,
+  "lat": 43.770482,
+  "lng": 11.266782,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.76,
+  "name": "Mercato di Sant'Ambrogio",
+  "locality": "Firenze",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "Q3854857",
+  "display": "Mercato di Sant'Ambrogio, Piazza Lorenzo Ghiberti, Quartiere 1, Firenze, Toscana, 50121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7704822,
+    "lng": 11.2667825,
+    "name": "Mercato di Sant'Ambrogio",
+    "source": "nominatim",
+    "osm_id": "way/25025766",
+    "wikidata": "Q3854857",
+    "osm_class": "amenity=marketplace",
+    "locality": "Firenze",
+    "display": "Mercato di Sant'Ambrogio, Piazza Lorenzo Ghiberti, Quartiere 1, Firenze, Toscana, 50121, Italia",
+    "names_all": [
+     "Mercato di Sant'Ambrogio"
+    ],
+    "importance": 8.105668726630072e-05,
+    "rank": 0
+   },
+   {
+    "lat": 43.7704822,
+    "lng": 11.2667825,
+    "name": "Mercato di Sant'Ambrogio",
+    "source": "nominatim",
+    "osm_id": "way/25025766",
+    "wikidata": "Q3854857",
+    "osm_class": "amenity=marketplace",
+    "locality": "Firenze",
+    "display": "Mercato di Sant'Ambrogio, Piazza Lorenzo Ghiberti, Quartiere 1, Firenze, Toscana, 50121, Italia",
+    "names_all": [
+     "Mercato di Sant'Ambrogio"
+    ],
+    "importance": 8.105668726630072e-05,
+    "rank": 0
+   },
+   {
+    "lat": 43.7704822,
+    "lng": 11.2667825,
+    "name": "Mercato di Sant'Ambrogio",
+    "source": "nominatim",
+    "osm_id": "way/25025766",
+    "wikidata": "Q3854857",
+    "osm_class": "amenity=marketplace",
+    "locality": "Firenze",
+    "display": "Mercato di Sant'Ambrogio, Piazza Lorenzo Ghiberti, Quartiere 1, Firenze, Toscana, 50121, Italia",
+    "names_all": [
+     "Mercato di Sant'Ambrogio"
+    ],
+    "importance": 8.105668726630072e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::jardines de boboli bardini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::caminar el centro historico": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::orillas del arno lungarni": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::galleria degli uffizi": {
+  "ok": true,
+  "lat": 43.768313,
+  "lng": 11.255801,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.942,
+  "name": "Galleria degli Uffizi",
+  "locality": "Firenze",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q51252",
+  "display": "Galleria degli Uffizi, Piazzale degli Uffizi, Oltrarno, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7683129,
+    "lng": 11.2558009,
+    "name": "Galleria degli Uffizi",
+    "source": "nominatim",
+    "osm_id": "way/477279033",
+    "wikidata": "Q51252",
+    "osm_class": "tourism=museum",
+    "locality": "Firenze",
+    "display": "Galleria degli Uffizi, Piazzale degli Uffizi, Oltrarno, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Galleria degli Uffizi"
+    ],
+    "importance": 0.5953961616172283,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::galleria dellaccademia david": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::palazzo vecchio museo civico": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::museo del bargello": {
+  "ok": true,
+  "lat": 43.770379,
+  "lng": 11.258262,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.845,
+  "name": "Palazzo del Bargello",
+  "locality": "Firenze",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q388448",
+  "display": "Palazzo del Bargello, Piazza San Firenze, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7703791,
+    "lng": 11.2582616,
+    "name": "Palazzo del Bargello",
+    "source": "nominatim",
+    "osm_id": "way/43837065",
+    "wikidata": "Q388448",
+    "osm_class": "tourism=museum",
+    "locality": "Firenze",
+    "display": "Palazzo del Bargello, Piazza San Firenze, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo del Bargello"
+    ],
+    "importance": 0.4995319563481823,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::officina profumo farmaceutica di santa maria novella": {
+  "ok": true,
+  "lat": 43.774139,
+  "lng": 11.247779,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.877,
+  "name": "Museo dell'Officina Profumo - Farmaceutica di Santa Maria Novella",
+  "locality": "Firenze",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q2517185",
+  "display": "Museo dell'Officina Profumo - Farmaceutica di Santa Maria Novella, Via della Scala, San Frediano, Quartiere 1, Firenze, Toscana, 50100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7741387,
+    "lng": 11.2477788,
+    "name": "Museo dell'Officina Profumo - Farmaceutica di Santa Maria Novella",
+    "source": "nominatim",
+    "osm_id": "node/5883143685",
+    "wikidata": "Q2517185",
+    "osm_class": "tourism=museum",
+    "locality": "Firenze",
+    "display": "Museo dell'Officina Profumo - Farmaceutica di Santa Maria Novella, Via della Scala, San Frediano, Quartiere 1, Firenze, Toscana, 50100, Italia",
+    "names_all": [
+     "Museo dell'Officina Profumo - Farmaceutica di Santa Maria Novella"
+    ],
+    "importance": 0.32592895108882386,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::basilica di santa croce": {
+  "ok": true,
+  "lat": 43.768365,
+  "lng": 11.26302,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.779,
+  "name": "Basilica di Santa Croce",
+  "locality": "Firenze",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q51177",
+  "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.768365,
+    "lng": 11.2630201,
+    "name": "Basilica di Santa Croce",
+    "source": "nominatim",
+    "osm_id": "way/777563049",
+    "wikidata": "Q51177",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Firenze",
+    "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Basilica di Santa Croce"
+    ],
+    "importance": 0.5232183774663921,
+    "rank": 0
+   },
+   {
+    "lat": 43.768365,
+    "lng": 11.2630201,
+    "name": "Basilica di Santa Croce",
+    "source": "nominatim",
+    "osm_id": "way/777563049",
+    "wikidata": "Q51177",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Firenze",
+    "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Basilica di Santa Croce"
+    ],
+    "importance": 0.5232183774663921,
+    "rank": 0
+   },
+   {
+    "lat": 43.768365,
+    "lng": 11.2630201,
+    "name": "Basilica di Santa Croce",
+    "source": "nominatim",
+    "osm_id": "way/777563049",
+    "wikidata": "Q51177",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Firenze",
+    "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Basilica di Santa Croce"
+    ],
+    "importance": 0.5232183774663921,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::museo nazionale del bargello accademia combo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::oltrarno santo spirito san frediano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::santa croce": {
+  "ok": true,
+  "lat": 43.768365,
+  "lng": 11.26302,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.753,
+  "name": "Basilica di Santa Croce",
+  "locality": "Firenze",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q51177",
+  "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7692594,
+    "lng": 11.2592579,
+    "name": "Santa Croce",
+    "source": "nominatim",
+    "osm_id": "node/9977590122",
+    "wikidata": "",
+    "osm_class": "tourism=hotel",
+    "locality": "Firenze",
+    "display": "Santa Croce, Via dei Bentaccordi, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Santa Croce"
+    ],
+    "importance": 8.105668726630072e-05,
+    "rank": 1
+   },
+   {
+    "lat": 43.768365,
+    "lng": 11.2630201,
+    "name": "Basilica di Santa Croce",
+    "source": "nominatim",
+    "osm_id": "way/777563049",
+    "wikidata": "Q51177",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Firenze",
+    "display": "Basilica di Santa Croce, 16, Piazza Santa Croce, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Basilica di Santa Croce"
+    ],
+    "importance": 0.5232183774663921,
+    "rank": 2
+   }
+  ]
+ },
+ "florencia::san lorenzo": {
+  "ok": true,
+  "lat": 43.820765,
+  "lng": 11.127133,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.793,
+  "name": "San Lorenzo",
+  "locality": "Campi Bisenzio",
+  "osm_class": "place=suburb",
+  "wikidata": "Q3947481",
+  "display": "San Lorenzo, San Piero a Ponti, Campi Bisenzio, Firenze, Toscana, 50013, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.820765,
+    "lng": 11.1271333,
+    "name": "San Lorenzo",
+    "source": "nominatim",
+    "osm_id": "node/5474253056",
+    "wikidata": "Q3947481",
+    "osm_class": "place=suburb",
+    "locality": "Campi Bisenzio",
+    "display": "San Lorenzo, San Piero a Ponti, Campi Bisenzio, Firenze, Toscana, 50013, Italia",
+    "names_all": [
+     "San Lorenzo"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   },
+   {
+    "lat": 43.820765,
+    "lng": 11.1271333,
+    "name": "San Lorenzo",
+    "source": "nominatim",
+    "osm_id": "node/5474253056",
+    "wikidata": "Q3947481",
+    "osm_class": "place=suburb",
+    "locality": "Campi Bisenzio",
+    "display": "San Lorenzo, San Piero a Ponti, Campi Bisenzio, Firenze, Toscana, 50013, Italia",
+    "names_all": [
+     "San Lorenzo"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::borghini via romana": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::san miniato al monte": {
+  "ok": true,
+  "lat": 43.759432,
+  "lng": 11.265143,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.788,
+  "name": "Basilica di San Miniato al Monte",
+  "locality": "Firenze",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q844337",
+  "display": "Basilica di San Miniato al Monte, Via delle Porte Sante, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7594316,
+    "lng": 11.2651429,
+    "name": "Basilica di San Miniato al Monte",
+    "source": "nominatim",
+    "osm_id": "way/184781037",
+    "wikidata": "Q844337",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Firenze",
+    "display": "Basilica di San Miniato al Monte, Via delle Porte Sante, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Basilica di San Miniato al Monte"
+    ],
+    "importance": 0.44643167394590155,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::jardines bardini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::mercato nuovo il porcellino": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::piazza della repubblica": {
+  "ok": true,
+  "lat": 43.771519,
+  "lng": 11.254011,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.797,
+  "name": "Piazza della Repubblica",
+  "locality": "Firenze",
+  "osm_class": "place=square",
+  "wikidata": "Q1283790",
+  "display": "Piazza della Repubblica, Quartiere 1, Firenze, Toscana, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7715188,
+    "lng": 11.2540114,
+    "name": "Piazza della Repubblica",
+    "source": "nominatim",
+    "osm_id": "way/23298757",
+    "wikidata": "Q1283790",
+    "osm_class": "highway=pedestrian",
+    "locality": "Firenze",
+    "display": "Piazza della Repubblica, Quartiere 1, Firenze, Toscana, 50123, Italia",
+    "names_all": [
+     "Piazza della Repubblica"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 0
+   },
+   {
+    "lat": 43.7715188,
+    "lng": 11.2540114,
+    "name": "Piazza della Repubblica",
+    "source": "nominatim",
+    "osm_id": "way/23298757",
+    "wikidata": "Q1283790",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazza della Repubblica, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazza della Repubblica"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 1
+   },
+   {
+    "lat": 43.7715188,
+    "lng": 11.2540114,
+    "name": "Piazza della Repubblica",
+    "source": "nominatim",
+    "osm_id": "way/23298757",
+    "wikidata": "Q1283790",
+    "osm_class": "place=square",
+    "locality": "Firenze",
+    "display": "Piazza della Repubblica, Quartiere 1, Firenze, Toscana, Italia",
+    "names_all": [
+     "Piazza della Repubblica"
+    ],
+    "importance": 0.42856428216416703,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::oltrarno nocturno": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "roma::circus maximus": {
+  "ok": true,
+  "lat": 41.886158,
+  "lng": 12.485309,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.645,
+  "name": "Circo Massimo",
+  "locality": "Roma",
+  "osm_class": "leisure=park",
+  "wikidata": "Q207808",
+  "display": "Circo Massimo, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.8861584,
+    "lng": 12.4853087,
+    "name": "Circo Massimo",
+    "source": "nominatim",
+    "osm_id": "relation/11384819",
+    "wikidata": "Q207808",
+    "osm_class": "leisure=park",
+    "locality": "Roma",
+    "display": "Circo Massimo, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",
+    "names_all": [
+     "Circo Massimo"
+    ],
+    "importance": 0.5376854326915298,
+    "rank": 0
+   },
+   {
+    "lat": 41.8861584,
+    "lng": 12.4853087,
+    "name": "Circo Massimo",
+    "source": "nominatim",
+    "osm_id": "relation/11384819",
+    "wikidata": "Q207808",
+    "osm_class": "leisure=park",
+    "locality": "Roma",
+    "display": "Circo Massimo, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",
+    "names_all": [
+     "Circo Massimo"
+    ],
+    "importance": 0.5376854326915298,
+    "rank": 0
+   },
+   {
+    "lat": 41.8861584,
+    "lng": 12.4853087,
+    "name": "Circo Massimo",
+    "source": "nominatim",
+    "osm_id": "relation/11384819",
+    "wikidata": "Q207808",
+    "osm_class": "leisure=park",
+    "locality": "Roma",
+    "display": "Circo Massimo, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia",
+    "names_all": [
+     "Circo Massimo"
+    ],
+    "importance": 0.5376854326915298,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::cupula de san pedro": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "roma::musei capitolini": {
+  "ok": true,
+  "lat": 41.892666,
+  "lng": 12.482201,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.931,
+  "name": "Musei Capitolini",
+  "locality": "Roma",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q333906",
+  "display": "Musei Capitolini, Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.8926663,
+    "lng": 12.482201,
+    "name": "Musei Capitolini",
+    "source": "nominatim",
+    "osm_id": "relation/9909127",
+    "wikidata": "Q333906",
+    "osm_class": "tourism=museum",
+    "locality": "Roma",
+    "display": "Musei Capitolini, Piazza del Campidoglio, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+    "names_all": [
+     "Musei Capitolini"
+    ],
+    "importance": 0.5461583686409974,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::palazzo doria pamphilj": {
+  "ok": true,
+  "lat": 41.897824,
+  "lng": 12.481561,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.926,
+  "name": "Palazzo Doria Pamphilj",
+  "locality": "Roma",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1203458",
+  "display": "Palazzo Doria Pamphilj, 305, Via del Corso, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.8978235,
+    "lng": 12.4815609,
+    "name": "Palazzo Doria Pamphilj",
+    "source": "nominatim",
+    "osm_id": "node/706793341",
+    "wikidata": "Q1203458",
+    "osm_class": "tourism=museum",
+    "locality": "Roma",
+    "display": "Palazzo Doria Pamphilj, 305, Via del Corso, Pigna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia",
+    "names_all": [
+     "Palazzo Doria Pamphilj"
+    ],
+    "importance": 0.4623381293366233,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::testaccio": {
+  "ok": true,
+  "lat": 41.878818,
+  "lng": 12.476769,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.915,
+  "name": "Testaccio",
+  "locality": "Roma",
+  "osm_class": "place=quarter",
+  "wikidata": "Q1751443",
+  "display": "Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.878818,
+    "lng": 12.4767691,
+    "name": "Testaccio",
+    "source": "nominatim",
+    "osm_id": "relation/5454344",
+    "wikidata": "Q1751443",
+    "osm_class": "place=quarter",
+    "locality": "Roma",
+    "display": "Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia",
+    "names_all": [
+     "Testaccio"
+    ],
+    "importance": 0.4545822443087463,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::aventino": {
+  "ok": true,
+  "lat": 41.883694,
+  "lng": 12.479417,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.77,
+  "name": "Aventino",
+  "locality": "Roma",
+  "osm_class": "natural=peak",
+  "wikidata": "Q194103",
+  "display": "Aventino, Roma, Roma Capitale, Lazio, 00153, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.8836945,
+    "lng": 12.4794173,
+    "name": "Aventino",
+    "source": "nominatim",
+    "osm_id": "node/13121237513",
+    "wikidata": "Q194103",
+    "osm_class": "natural=peak",
+    "locality": "Roma",
+    "display": "Aventino, Roma, Roma Capitale, Lazio, 00153, Italia",
+    "names_all": [
+     "Aventino"
+    ],
+    "importance": 0.533437399761279,
+    "rank": 0
+   },
+   {
+    "lat": 41.8836945,
+    "lng": 12.4794173,
+    "name": "Aventino",
+    "source": "nominatim",
+    "osm_id": "node/13121237513",
+    "wikidata": "Q194103",
+    "osm_class": "natural=peak",
+    "locality": "Roma",
+    "display": "Aventino, Roma, Roma Capitale, Lazio, 00153, Italia",
+    "names_all": [
+     "Aventino"
+    ],
+    "importance": 0.533437399761279,
+    "rank": 0
+   },
+   {
+    "lat": 41.8836945,
+    "lng": 12.4794173,
+    "name": "Aventino",
+    "source": "nominatim",
+    "osm_id": "node/13121237513",
+    "wikidata": "Q194103",
+    "osm_class": "natural=peak",
+    "locality": "Roma",
+    "display": "Aventino, Roma, Roma Capitale, Lazio, 00153, Italia",
+    "names_all": [
+     "Aventino"
+    ],
+    "importance": 0.533437399761279,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::pigneto": {
+  "ok": true,
+  "lat": 41.888534,
+  "lng": 12.533628,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.873,
+  "name": "Pigneto",
+  "locality": "Roma",
+  "osm_class": "place=quarter",
+  "wikidata": "Q3904918",
+  "display": "Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.888534,
+    "lng": 12.5336278,
+    "name": "Pigneto",
+    "source": "nominatim",
+    "osm_id": "node/365298294",
+    "wikidata": "Q3904918",
+    "osm_class": "place=quarter",
+    "locality": "Roma",
+    "display": "Pigneto, Municipio Roma V, Roma, Roma Capitale, Lazio, 00176, Italia",
+    "names_all": [
+     "Pigneto"
+    ],
+    "importance": 0.26244239079806453,
+    "rank": 2
+   }
+  ]
+ },
+ "roma::ostiense": {
+  "ok": true,
+  "lat": 41.857283,
+  "lng": 12.477881,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.88,
+  "name": "Ostiense",
+  "locality": "Roma",
+  "osm_class": "place=suburb",
+  "wikidata": "Q1114050",
+  "display": "Ostiense, Roma, Roma Capitale, Lazio, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.8572827,
+    "lng": 12.4778813,
+    "name": "Ostiense",
+    "source": "nominatim",
+    "osm_id": "relation/5460386",
+    "wikidata": "Q1114050",
+    "osm_class": "place=suburb",
+    "locality": "Roma",
+    "display": "Ostiense, Roma, Roma Capitale, Lazio, Italia",
+    "names_all": [
+     "Ostiense"
+    ],
+    "importance": 0.14675562905317766,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::centrale montemartini": {
+  "ok": true,
+  "lat": 41.866547,
+  "lng": 12.478015,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.767,
+  "name": "Centrale Montemartini",
+  "locality": "Roma",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1054090",
+  "display": "Centrale Montemartini, 106, Via Ostiense, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.8665472,
+    "lng": 12.478015,
+    "name": "Centrale Montemartini",
+    "source": "nominatim",
+    "osm_id": "way/130039228",
+    "wikidata": "Q1054090",
+    "osm_class": "tourism=museum",
+    "locality": "Roma",
+    "display": "Centrale Montemartini, 106, Via Ostiense, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",
+    "names_all": [
+     "Centrale Montemartini"
+    ],
+    "importance": 0.33029660482760953,
+    "rank": 0
+   },
+   {
+    "lat": 41.8665472,
+    "lng": 12.478015,
+    "name": "Centrale Montemartini",
+    "source": "nominatim",
+    "osm_id": "way/130039228",
+    "wikidata": "Q1054090",
+    "osm_class": "tourism=museum",
+    "locality": "Roma",
+    "display": "Centrale Montemartini, 106, Via Ostiense, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",
+    "names_all": [
+     "Centrale Montemartini"
+    ],
+    "importance": 0.33029660482760953,
+    "rank": 0
+   },
+   {
+    "lat": 41.8665472,
+    "lng": 12.478015,
+    "name": "Centrale Montemartini",
+    "source": "nominatim",
+    "osm_id": "way/130039228",
+    "wikidata": "Q1054090",
+    "osm_class": "tourism=museum",
+    "locality": "Roma",
+    "display": "Centrale Montemartini, 106, Via Ostiense, Garbatella, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00154, Italia",
+    "names_all": [
+     "Centrale Montemartini"
+    ],
+    "importance": 0.33029660482760953,
+    "rank": 0
+   }
+  ]
+ },
+ "roma::catacumbas de la via appia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "napoles::museo di capodimonte": {
+  "ok": true,
+  "lat": 40.867031,
+  "lng": 14.250875,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.788,
+  "name": "Museo Nazionale di Capodimonte",
+  "locality": "Napoli",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q290549",
+  "display": "Museo Nazionale di Capodimonte, 2, Via Lucio Amelio, Capodimonte, Stella, Municipalità 3, Napoli, Campania, 80131, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.8670307,
+    "lng": 14.2508753,
+    "name": "Museo Nazionale di Capodimonte",
+    "source": "nominatim",
+    "osm_id": "relation/9734895",
+    "wikidata": "Q290549",
+    "osm_class": "tourism=museum",
+    "locality": "Napoli",
+    "display": "Museo Nazionale di Capodimonte, 2, Via Lucio Amelio, Capodimonte, Stella, Municipalità 3, Napoli, Campania, 80131, Italia",
+    "names_all": [
+     "Museo Nazionale di Capodimonte"
+    ],
+    "importance": 0.5053551395128999,
+    "rank": 0
+   },
+   {
+    "lat": 40.8670307,
+    "lng": 14.2508753,
+    "name": "Museo Nazionale di Capodimonte",
+    "source": "nominatim",
+    "osm_id": "relation/9734895",
+    "wikidata": "Q290549",
+    "osm_class": "tourism=museum",
+    "locality": "Napoli",
+    "display": "Museo Nazionale di Capodimonte, 2, Via Lucio Amelio, Capodimonte, Stella, Municipalità 3, Napoli, Campania, 80131, Italia",
+    "names_all": [
+     "Museo Nazionale di Capodimonte"
+    ],
+    "importance": 0.5053551395128999,
+    "rank": 0
+   },
+   {
+    "lat": 40.8670307,
+    "lng": 14.2508753,
+    "name": "Museo Nazionale di Capodimonte",
+    "source": "nominatim",
+    "osm_id": "relation/9734895",
+    "wikidata": "Q290549",
+    "osm_class": "tourism=museum",
+    "locality": "Napoli",
+    "display": "Museo Nazionale di Capodimonte, 2, Via Lucio Amelio, Capodimonte, Stella, Municipalità 3, Napoli, Campania, 80131, Italia",
+    "names_all": [
+     "Museo Nazionale di Capodimonte"
+    ],
+    "importance": 0.5053551395128999,
+    "rank": 0
+   }
+  ]
+ },
+ "napoles::mergellina": {
+  "ok": true,
+  "lat": 40.827476,
+  "lng": 14.220085,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.755,
+  "name": "Mergellina",
+  "locality": "Napoli",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q3855120",
+  "display": "Mergellina, Chiaia, Municipalità 1, Napoli, Campania, 80122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.8274764,
+    "lng": 14.2200851,
+    "name": "Mergellina",
+    "source": "nominatim",
+    "osm_id": "node/10093548898",
+    "wikidata": "Q3855120",
+    "osm_class": "place=neighbourhood",
+    "locality": "Napoli",
+    "display": "Mergellina, Chiaia, Municipalità 1, Napoli, Campania, 80122, Italia",
+    "names_all": [
+     "Mergellina"
+    ],
+    "importance": 0.34397419227863374,
+    "rank": 0
+   },
+   {
+    "lat": 40.8274764,
+    "lng": 14.2200851,
+    "name": "Mergellina",
+    "source": "nominatim",
+    "osm_id": "node/10093548898",
+    "wikidata": "Q3855120",
+    "osm_class": "place=neighbourhood",
+    "locality": "Napoli",
+    "display": "Mergellina, Chiaia, Municipalità 1, Napoli, Campania, 80122, Italia",
+    "names_all": [
+     "Mergellina"
+    ],
+    "importance": 0.34397419227863374,
+    "rank": 0
+   },
+   {
+    "lat": 40.8274764,
+    "lng": 14.2200851,
+    "name": "Mergellina",
+    "source": "nominatim",
+    "osm_id": "node/10093548898",
+    "wikidata": "Q3855120",
+    "osm_class": "place=neighbourhood",
+    "locality": "Napoli",
+    "display": "Mergellina, Chiaia, Municipalità 1, Napoli, Campania, 80122, Italia",
+    "names_all": [
+     "Mergellina"
+    ],
+    "importance": 0.34397419227863374,
+    "rank": 0
+   }
+  ]
+ },
+ "napoles::piazza bellini": {
+  "ok": true,
+  "lat": 40.84994,
+  "lng": 14.252176,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.777,
+  "name": "Piazza Vincenzo Bellini",
+  "locality": "Napoli",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "Q1235318",
+  "display": "Piazza Vincenzo Bellini, San Lorenzo, Municipalità 4, Napoli, Campania, 80130, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.8499402,
+    "lng": 14.2521762,
+    "name": "Piazza Vincenzo Bellini",
+    "source": "nominatim",
+    "osm_id": "way/269923048",
+    "wikidata": "Q1235318",
+    "osm_class": "highway=pedestrian",
+    "locality": "Napoli",
+    "display": "Piazza Vincenzo Bellini, San Lorenzo, Municipalità 4, Napoli, Campania, 80130, Italia",
+    "names_all": [
+     "Piazza Vincenzo Bellini"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 0
+   },
+   {
+    "lat": 40.8499402,
+    "lng": 14.2521762,
+    "name": "Piazza Vincenzo Bellini",
+    "source": "nominatim",
+    "osm_id": "way/269923048",
+    "wikidata": "Q1235318",
+    "osm_class": "highway=pedestrian",
+    "locality": "Napoli",
+    "display": "Piazza Vincenzo Bellini, San Lorenzo, Municipalità 4, Napoli, Campania, 80130, Italia",
+    "names_all": [
+     "Piazza Vincenzo Bellini"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 0
+   },
+   {
+    "lat": 40.8499402,
+    "lng": 14.2521762,
+    "name": "Piazza Vincenzo Bellini",
+    "source": "nominatim",
+    "osm_id": "way/269923048",
+    "wikidata": "Q1235318",
+    "osm_class": "highway=pedestrian",
+    "locality": "Napoli",
+    "display": "Piazza Vincenzo Bellini, San Lorenzo, Municipalità 4, Napoli, Campania, 80130, Italia",
+    "names_all": [
+     "Piazza Vincenzo Bellini"
+    ],
+    "importance": 0.26001653813030656,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::basilica di san nicola": {
+  "ok": true,
+  "lat": 41.130271,
+  "lng": 16.870186,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.791,
+  "name": "Basilica di San Nicola",
+  "locality": "Bari",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q550514",
+  "display": "Basilica di San Nicola, 13, Lago Abate Elia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1302708,
+    "lng": 16.8701858,
+    "name": "Basilica di San Nicola",
+    "source": "nominatim",
+    "osm_id": "way/417998763",
+    "wikidata": "Q550514",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Basilica di San Nicola, 13, Lago Abate Elia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Basilica di San Nicola"
+    ],
+    "importance": 0.3955795074137208,
+    "rank": 0
+   },
+   {
+    "lat": 41.1302708,
+    "lng": 16.8701858,
+    "name": "Basilica di San Nicola",
+    "source": "nominatim",
+    "osm_id": "way/417998763",
+    "wikidata": "Q550514",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Basilica di San Nicola, 13, Lago Abate Elia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Basilica di San Nicola"
+    ],
+    "importance": 0.3955795074137208,
+    "rank": 0
+   },
+   {
+    "lat": 41.1302708,
+    "lng": 16.8701858,
+    "name": "Basilica di San Nicola",
+    "source": "nominatim",
+    "osm_id": "way/417998763",
+    "wikidata": "Q550514",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Basilica di San Nicola, 13, Lago Abate Elia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Basilica di San Nicola"
+    ],
+    "importance": 0.3955795074137208,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::cattedrale di san sabino": {
+  "ok": true,
+  "lat": 41.12855,
+  "lng": 16.869077,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.789,
+  "name": "Cattedrale di San Sabino",
+  "locality": "Bari",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q383884",
+  "display": "Cattedrale di San Sabino, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.12855,
+    "lng": 16.8690772,
+    "name": "Cattedrale di San Sabino",
+    "source": "nominatim",
+    "osm_id": "way/417998768",
+    "wikidata": "Q383884",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Cattedrale di San Sabino, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Cattedrale di San Sabino"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   },
+   {
+    "lat": 41.12855,
+    "lng": 16.8690772,
+    "name": "Cattedrale di San Sabino",
+    "source": "nominatim",
+    "osm_id": "way/417998768",
+    "wikidata": "Q383884",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Cattedrale di San Sabino, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Cattedrale di San Sabino"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   },
+   {
+    "lat": 41.12855,
+    "lng": 16.8690772,
+    "name": "Cattedrale di San Sabino",
+    "source": "nominatim",
+    "osm_id": "way/417998768",
+    "wikidata": "Q383884",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Cattedrale di San Sabino, Piazza dell'Odegitria, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Cattedrale di San Sabino"
+    ],
+    "importance": 0.35411856752696674,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::castello svevo normanno svevo": {
+  "ok": true,
+  "lat": 41.128301,
+  "lng": 16.866381,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.788,
+  "name": "Castello Normanno-Svevo di Bari",
+  "locality": "Bari",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q790430",
+  "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "historic=castle",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   },
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "historic=castle",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   },
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "tourism=attraction",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::strada delle orecchiette via dellarco basso": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::callejeo por bari vecchia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::piazza mercantile y colonna della giustizia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::muraglia paseo de las murallas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::chiesa di san marco dei veneziani vallisa": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::teatro petruzzelli": {
+  "ok": true,
+  "lat": 41.123565,
+  "lng": 16.873161,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.79,
+  "name": "Teatro Petruzzelli",
+  "locality": "Bari",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q845510",
+  "display": "Teatro Petruzzelli, Via Salvatore Cognetti, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1235648,
+    "lng": 16.8731612,
+    "name": "Teatro Petruzzelli",
+    "source": "nominatim",
+    "osm_id": "way/418005660",
+    "wikidata": "Q845510",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Petruzzelli, Via Salvatore Cognetti, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Teatro Petruzzelli"
+    ],
+    "importance": 0.4022453104308014,
+    "rank": 0
+   },
+   {
+    "lat": 41.1235648,
+    "lng": 16.8731612,
+    "name": "Teatro Petruzzelli",
+    "source": "nominatim",
+    "osm_id": "way/418005660",
+    "wikidata": "Q845510",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Petruzzelli, Via Salvatore Cognetti, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Teatro Petruzzelli"
+    ],
+    "importance": 0.4022453104308014,
+    "rank": 0
+   },
+   {
+    "lat": 41.1235648,
+    "lng": 16.8731612,
+    "name": "Teatro Petruzzelli",
+    "source": "nominatim",
+    "osm_id": "way/418005660",
+    "wikidata": "Q845510",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Petruzzelli, Via Salvatore Cognetti, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Teatro Petruzzelli"
+    ],
+    "importance": 0.4022453104308014,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::teatro margherita": {
+  "ok": true,
+  "lat": 41.126362,
+  "lng": 16.872861,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.779,
+  "name": "Teatro Margherita",
+  "locality": "Bari",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q3982048",
+  "display": "Teatro Margherita, Lungomare Araldo di Crollalanza, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1263619,
+    "lng": 16.872861,
+    "name": "Teatro Margherita",
+    "source": "nominatim",
+    "osm_id": "way/417998793",
+    "wikidata": "Q3982048",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Margherita, Lungomare Araldo di Crollalanza, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Teatro Margherita"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   },
+   {
+    "lat": 41.1263619,
+    "lng": 16.872861,
+    "name": "Teatro Margherita",
+    "source": "nominatim",
+    "osm_id": "way/417998793",
+    "wikidata": "Q3982048",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Margherita, Lungomare Araldo di Crollalanza, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Teatro Margherita"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   },
+   {
+    "lat": 41.1263619,
+    "lng": 16.872861,
+    "name": "Teatro Margherita",
+    "source": "nominatim",
+    "osm_id": "way/417998793",
+    "wikidata": "Q3982048",
+    "osm_class": "amenity=theatre",
+    "locality": "Bari",
+    "display": "Teatro Margherita, Lungomare Araldo di Crollalanza, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Teatro Margherita"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::lungomare nazario sauro": {
+  "ok": true,
+  "lat": 41.120972,
+  "lng": 16.883747,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.758,
+  "name": "Lungomare Nazario Sauro",
+  "locality": "Bari",
+  "osm_class": "highway=secondary",
+  "wikidata": "",
+  "display": "Lungomare Nazario Sauro, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1209717,
+    "lng": 16.8837471,
+    "name": "Lungomare Nazario Sauro",
+    "source": "nominatim",
+    "osm_id": "way/68558009",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Bari",
+    "display": "Lungomare Nazario Sauro, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Lungomare Nazario Sauro"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   },
+   {
+    "lat": 41.1209717,
+    "lng": 16.8837471,
+    "name": "Lungomare Nazario Sauro",
+    "source": "nominatim",
+    "osm_id": "way/68558009",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Bari",
+    "display": "Lungomare Nazario Sauro, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Lungomare Nazario Sauro"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   },
+   {
+    "lat": 41.1209717,
+    "lng": 16.8837471,
+    "name": "Lungomare Nazario Sauro",
+    "source": "nominatim",
+    "osm_id": "way/68558009",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Bari",
+    "display": "Lungomare Nazario Sauro, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Lungomare Nazario Sauro"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::pinacoteca metropolitana corrado giaquinto": {
+  "ok": true,
+  "lat": 41.121393,
+  "lng": 16.88123,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.78,
+  "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+  "locality": "Bari",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3388587",
+  "display": "Pinacoteca Metropolitana \"Corrado Giaquinto\", 19, Via Spalato, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1213932,
+    "lng": 16.8812304,
+    "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+    "source": "nominatim",
+    "osm_id": "node/11608392521",
+    "wikidata": "Q3388587",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Pinacoteca Metropolitana \"Corrado Giaquinto\", 19, Via Spalato, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Pinacoteca Metropolitana \"Corrado Giaquinto\""
+    ],
+    "importance": 0.33557113795112237,
+    "rank": 0
+   },
+   {
+    "lat": 41.1213932,
+    "lng": 16.8812304,
+    "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+    "source": "nominatim",
+    "osm_id": "node/11608392521",
+    "wikidata": "Q3388587",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Pinacoteca Metropolitana \"Corrado Giaquinto\", 19, Via Spalato, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Pinacoteca Metropolitana \"Corrado Giaquinto\""
+    ],
+    "importance": 0.33557113795112237,
+    "rank": 0
+   },
+   {
+    "lat": 41.1213932,
+    "lng": 16.8812304,
+    "name": "Pinacoteca Metropolitana \"Corrado Giaquinto\"",
+    "source": "nominatim",
+    "osm_id": "node/11608392521",
+    "wikidata": "Q3388587",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Pinacoteca Metropolitana \"Corrado Giaquinto\", 19, Via Spalato, Madonnella, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Pinacoteca Metropolitana \"Corrado Giaquinto\""
+    ],
+    "importance": 0.33557113795112237,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::via sparano": {
+  "ok": true,
+  "lat": 41.123685,
+  "lng": 16.869537,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.767,
+  "name": "Via Sparano da Bari",
+  "locality": "Bari",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Via Sparano da Bari, Murat, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1236852,
+    "lng": 16.8695372,
+    "name": "Via Sparano da Bari",
+    "source": "nominatim",
+    "osm_id": "way/24884087",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Via Sparano da Bari, Murat, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Via Sparano da Bari"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   },
+   {
+    "lat": 41.1236852,
+    "lng": 16.8695372,
+    "name": "Via Sparano da Bari",
+    "source": "nominatim",
+    "osm_id": "way/24884087",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Via Sparano da Bari, Murat, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Via Sparano da Bari"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::palazzo dellacquedotto pugliese": {
+  "ok": true,
+  "lat": 41.123498,
+  "lng": 16.874284,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.761,
+  "name": "Palazzo dell'Acquedotto Pugliese",
+  "locality": "Bari",
+  "osm_class": "historic=building",
+  "wikidata": "",
+  "display": "Palazzo dell'Acquedotto Pugliese, Via Giuseppe Bozzi, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1234982,
+    "lng": 16.8742836,
+    "name": "Palazzo dell'Acquedotto Pugliese",
+    "source": "nominatim",
+    "osm_id": "relation/6213123",
+    "wikidata": "",
+    "osm_class": "historic=building",
+    "locality": "Bari",
+    "display": "Palazzo dell'Acquedotto Pugliese, Via Giuseppe Bozzi, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Palazzo dell'Acquedotto Pugliese"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.1234982,
+    "lng": 16.8742836,
+    "name": "Palazzo dell'Acquedotto Pugliese",
+    "source": "nominatim",
+    "osm_id": "relation/6213123",
+    "wikidata": "",
+    "osm_class": "historic=building",
+    "locality": "Bari",
+    "display": "Palazzo dell'Acquedotto Pugliese, Via Giuseppe Bozzi, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Palazzo dell'Acquedotto Pugliese"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   },
+   {
+    "lat": 41.1234982,
+    "lng": 16.8742836,
+    "name": "Palazzo dell'Acquedotto Pugliese",
+    "source": "nominatim",
+    "osm_id": "relation/6213123",
+    "wikidata": "",
+    "osm_class": "historic=building",
+    "locality": "Bari",
+    "display": "Palazzo dell'Acquedotto Pugliese, Via Giuseppe Bozzi, Quartiere Umbertino, Municipio 1, Bari, Puglia, 70121, Italia",
+    "names_all": [
+     "Palazzo dell'Acquedotto Pugliese"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "liubliana::presernov trg": {
+  "ok": true,
+  "lat": 46.051376,
+  "lng": 14.50599,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.795,
+  "name": "Prešernov trg",
+  "locality": "Ljubljana",
+  "osm_class": "place=square",
+  "wikidata": "Q1889515",
+  "display": "Prešernov trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.0513764,
+    "lng": 14.5059895,
+    "name": "Prešernov trg",
+    "source": "nominatim",
+    "osm_id": "relation/9375924",
+    "wikidata": "Q1889515",
+    "osm_class": "place=square",
+    "locality": "Ljubljana",
+    "display": "Prešernov trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Prešernov trg"
+    ],
+    "importance": 0.43249580853699826,
+    "rank": 0
+   },
+   {
+    "lat": 46.0513764,
+    "lng": 14.5059895,
+    "name": "Prešernov trg",
+    "source": "nominatim",
+    "osm_id": "relation/9375924",
+    "wikidata": "Q1889515",
+    "osm_class": "highway=pedestrian",
+    "locality": "Ljubljana",
+    "display": "Prešernov trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Prešernov trg"
+    ],
+    "importance": 0.43249580853699826,
+    "rank": 0
+   },
+   {
+    "lat": 46.0513764,
+    "lng": 14.5059895,
+    "name": "Prešernov trg",
+    "source": "nominatim",
+    "osm_id": "relation/9375924",
+    "wikidata": "Q1889515",
+    "osm_class": "place=square",
+    "locality": "Ljubljana",
+    "display": "Prešernov trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Prešernov trg"
+    ],
+    "importance": 0.43249580853699826,
+    "rank": 0
+   }
+  ]
+ },
+ "liubliana::rio ljubljanica": {
+  "ok": true,
+  "lat": 46.009171,
+  "lng": 14.487358,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.762,
+  "name": "Ljubljanica",
+  "locality": "",
+  "osm_class": "waterway=river",
+  "wikidata": "Q339990",
+  "display": "Ljubljanica, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.0502219,
+    "lng": 14.5624561,
+    "name": "Ljubljanica",
+    "source": "nominatim",
+    "osm_id": "way/1108265109",
+    "wikidata": "",
+    "osm_class": "waterway=river",
+    "locality": "Ljubljana",
+    "display": "Ljubljanica, Nove Fužine, Četrtna skupnost Moste, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Ljubljanica"
+    ],
+    "importance": 0.14674208361943994,
+    "rank": 0
+   },
+   {
+    "lat": 46.009171,
+    "lng": 14.4873576,
+    "name": "Ljubljanica",
+    "source": "nominatim",
+    "osm_id": "relation/2196672",
+    "wikidata": "Q339990",
+    "osm_class": "waterway=river",
+    "locality": "",
+    "display": "Ljubljanica, Slovenija",
+    "names_all": [
+     "Ljubljanica"
+    ],
+    "importance": 0.5103791506829329,
+    "rank": 0
+   },
+   {
+    "lat": 46.009171,
+    "lng": 14.4873576,
+    "name": "Ljubljanica",
+    "source": "nominatim",
+    "osm_id": "relation/2196672",
+    "wikidata": "Q339990",
+    "osm_class": "waterway=river",
+    "locality": "",
+    "display": "Ljubljanica, Slovenija",
+    "names_all": [
+     "Ljubljanica"
+    ],
+    "importance": 0.5103791506829329,
+    "rank": 0
+   }
+  ]
+ },
+ "liubliana::plecnikova hisa": {
+  "ok": true,
+  "lat": 46.042365,
+  "lng": 14.502127,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.912,
+  "name": "Plečnikova hiša",
+  "locality": "Ljubljana",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q28788742",
+  "display": "Plečnikova hiša, 4-6, Karunova ulica, Krakovo, Murgle, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 46.0423646,
+    "lng": 14.5021271,
+    "name": "Plečnikova hiša",
+    "source": "nominatim",
+    "osm_id": "way/178573747",
+    "wikidata": "Q28788742",
+    "osm_class": "tourism=museum",
+    "locality": "Ljubljana",
+    "display": "Plečnikova hiša, 4-6, Karunova ulica, Krakovo, Murgle, Četrtna skupnost Trnovo, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Plečnikova hiša"
+    ],
+    "importance": 0.33029660482760953,
+    "rank": 0
+   }
+  ]
+ },
+ "liubliana::moderna galerija": {
+  "ok": true,
+  "lat": 46.052968,
+  "lng": 14.498762,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.923,
+  "name": "Moderna Galerija",
+  "locality": "Ljubljana",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q11234584",
+  "display": "Moderna Galerija, 14, Tomšičeva ulica, Vrtača, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 46.0529684,
+    "lng": 14.4987624,
+    "name": "Moderna Galerija",
+    "source": "nominatim",
+    "osm_id": "relation/15308087",
+    "wikidata": "Q11234584",
+    "osm_class": "tourism=museum",
+    "locality": "Ljubljana",
+    "display": "Moderna Galerija, 14, Tomšičeva ulica, Vrtača, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija",
+    "names_all": [
+     "Moderna Galerija"
+    ],
+    "importance": 0.3898810858579735,
+    "rank": 0
+   }
+  ]
+ },
+ "bled::vogar": {
+  "ok": true,
+  "lat": 46.299885,
+  "lng": 13.866653,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.79,
+  "name": "Planina Zgornji Vogar",
+  "locality": "Bohinj",
+  "osm_class": "place=locality",
+  "wikidata": "",
+  "display": "Planina Zgornji Vogar, Bohinj, 4265, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.2998846,
+    "lng": 13.8666534,
+    "name": "Planina Zgornji Vogar",
+    "source": "nominatim",
+    "osm_id": "node/2425905431",
+    "wikidata": "",
+    "osm_class": "place=locality",
+    "locality": "Bohinj",
+    "display": "Planina Zgornji Vogar, Bohinj, 4265, Slovenija",
+    "names_all": [
+     "Planina Zgornji Vogar"
+    ],
+    "importance": 0.06671966353856718,
+    "rank": 1
+   },
+   {
+    "lat": 46.2998846,
+    "lng": 13.8666534,
+    "name": "Planina Zgornji Vogar",
+    "source": "nominatim",
+    "osm_id": "node/2425905431",
+    "wikidata": "",
+    "osm_class": "place=locality",
+    "locality": "Bohinj",
+    "display": "Planina Zgornji Vogar, Bohinj, 4265, Slovenija",
+    "names_all": [
+     "Planina Zgornji Vogar"
+    ],
+    "importance": 0.06671966353856718,
+    "rank": 1
+   }
+  ]
+ },
+ "bled::sv janez krstnik": {
+  "ok": true,
+  "lat": 46.390442,
+  "lng": 14.109666,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.697,
+  "name": "Sveti Janez Krstnik",
+  "locality": "Zasip",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q66458785",
+  "display": "Sveti Janez Krstnik, Stagne, Zasip, Bled, 4260, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.3904417,
+    "lng": 14.1096664,
+    "name": "Sveti Janez Krstnik",
+    "source": "nominatim",
+    "osm_id": "way/496952012",
+    "wikidata": "Q66458785",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Zasip",
+    "display": "Sveti Janez Krstnik, Stagne, Zasip, Bled, 4260, Slovenija",
+    "names_all": [
+     "Sveti Janez Krstnik"
+    ],
+    "importance": 6.338673990992626e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.2786858,
+    "lng": 13.8867061,
+    "name": "Sv. Janez Krstnik",
+    "source": "nominatim",
+    "osm_id": "way/426519905",
+    "wikidata": "Q15699449",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ribčev Laz",
+    "display": "Sv. Janez Krstnik, 633, Ribčev Laz, Bohinj, 4265, Slovenija",
+    "names_all": [
+     "Sv. Janez Krstnik"
+    ],
+    "importance": 0.1570394422394589,
+    "rank": 0
+   },
+   {
+    "lat": 46.3904417,
+    "lng": 14.1096664,
+    "name": "Sveti Janez Krstnik",
+    "source": "nominatim",
+    "osm_id": "way/496952012",
+    "wikidata": "Q66458785",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Zasip",
+    "display": "Sveti Janez Krstnik, Stagne, Zasip, Bled, 4260, Slovenija",
+    "names_all": [
+     "Sveti Janez Krstnik"
+    ],
+    "importance": 6.338673990992626e-05,
+    "rank": 4
+   }
+  ]
+ },
+ "bled::pokljuka": {
+  "ok": true,
+  "lat": 46.344147,
+  "lng": 13.921891,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.718,
+  "name": "Športni center Triglav Pokljuka",
+  "locality": "Bohinj",
+  "osm_class": "leisure=sports_centre",
+  "wikidata": "Q855869",
+  "display": "Športni center Triglav Pokljuka, 906, Bohinj, 4267, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.3378077,
+    "lng": 13.9609319,
+    "name": "Sport Hotel Pokljuka",
+    "source": "nominatim",
+    "osm_id": "way/1290512438",
+    "wikidata": "",
+    "osm_class": "tourism=hotel",
+    "locality": "Zgornje Gorje",
+    "display": "Sport Hotel Pokljuka, 103, 906, Zgornji Goreljek, Zgornje Gorje, Bohinj, 4247, Slovenija",
+    "names_all": [
+     "Sport Hotel Pokljuka"
+    ],
+    "importance": 5.2996871900465664e-05,
+    "rank": 0
+   },
+   {
+    "lat": 46.3441471,
+    "lng": 13.9218914,
+    "name": "Športni center Triglav Pokljuka",
+    "source": "nominatim",
+    "osm_id": "node/4548144996",
+    "wikidata": "Q855869",
+    "osm_class": "leisure=sports_centre",
+    "locality": "Bohinj",
+    "display": "Športni center Triglav Pokljuka, 906, Bohinj, 4267, Slovenija",
+    "names_all": [
+     "Športni center Triglav Pokljuka"
+    ],
+    "importance": 0.2901765588551152,
+    "rank": 0
+   },
+   {
+    "lat": 46.3441471,
+    "lng": 13.9218914,
+    "name": "Športni center Triglav Pokljuka",
+    "source": "nominatim",
+    "osm_id": "node/4548144996",
+    "wikidata": "Q855869",
+    "osm_class": "leisure=sports_centre",
+    "locality": "Bohinj",
+    "display": "Športni center Triglav Pokljuka, 906, Bohinj, 4267, Slovenija",
+    "names_all": [
+     "Športni center Triglav Pokljuka"
+    ],
+    "importance": 0.2901765588551152,
+    "rank": 0
+   }
+  ]
+ },
+ "karst::skocjan caves": {
+  "ok": true,
+  "lat": 45.666551,
+  "lng": 13.978656,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.586,
+  "name": "Škocjanske jame",
+  "locality": "Matavun",
+  "osm_class": "natural=cave",
+  "wikidata": "",
+  "display": "Škocjanske jame, Škocjan, Matavun, Divača, Upravna enota Sežana, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 45.6665513,
+    "lng": 13.9786565,
+    "name": "Škocjanske jame",
+    "source": "nominatim",
+    "osm_id": "way/1471783845",
+    "wikidata": "",
+    "osm_class": "natural=cave",
+    "locality": "Matavun",
+    "display": "Škocjanske jame, Škocjan, Matavun, Divača, Upravna enota Sežana, Slovenija",
+    "names_all": [
+     "Škocjanske jame"
+    ],
+    "importance": 0.10671679179064619,
+    "rank": 2
+   },
+   {
+    "lat": 45.6665513,
+    "lng": 13.9786565,
+    "name": "Škocjanske jame",
+    "source": "nominatim",
+    "osm_id": "way/1471783845",
+    "wikidata": "",
+    "osm_class": "natural=cave",
+    "locality": "Matavun",
+    "display": "Škocjanske jame, Škocjan, Matavun, Divača, Upravna enota Sežana, Slovenija",
+    "names_all": [
+     "Škocjanske jame"
+    ],
+    "importance": 0.10671679179064619,
+    "rank": 2
+   }
+  ]
+ },
+ "karst::cerknisko jezero": {
+  "ok": true,
+  "lat": 45.741074,
+  "lng": 14.376964,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.747,
+  "name": "Cerkniško jezero",
+  "locality": "Otok",
+  "osm_class": "natural=water",
+  "wikidata": "",
+  "display": "Cerkniško jezero, Otok, Cerknica, 1384, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 45.7410738,
+    "lng": 14.3769636,
+    "name": "Cerkniško jezero",
+    "source": "nominatim",
+    "osm_id": "node/1988614035",
+    "wikidata": "",
+    "osm_class": "natural=water",
+    "locality": "Otok",
+    "display": "Cerkniško jezero, Otok, Cerknica, 1384, Slovenija",
+    "names_all": [
+     "Cerkniško jezero"
+    ],
+    "importance": 0.10672501335164414,
+    "rank": 2
+   },
+   {
+    "lat": 45.7410738,
+    "lng": 14.3769636,
+    "name": "Cerkniško jezero",
+    "source": "nominatim",
+    "osm_id": "node/1988614035",
+    "wikidata": "",
+    "osm_class": "natural=water",
+    "locality": "Otok",
+    "display": "Cerkniško jezero, Otok, Cerknica, 1384, Slovenija",
+    "names_all": [
+     "Cerkniško jezero"
+    ],
+    "importance": 0.10672501335164414,
+    "rank": 2
+   }
+  ]
+ },
+ "soca::velika korita soce": {
+  "ok": true,
+  "lat": 46.338444,
+  "lng": 13.646209,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.726,
+  "name": "Velika Korita Soče",
+  "locality": "Soča",
+  "osm_class": "natural=gorge",
+  "wikidata": "",
+  "display": "Velika Korita Soče, Podklanec, Soča, Bovec, 5232, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 46.3384442,
+    "lng": 13.6462088,
+    "name": "Velika Korita Soče",
+    "source": "nominatim",
+    "osm_id": "relation/17868961",
+    "wikidata": "",
+    "osm_class": "natural=gorge",
+    "locality": "Soča",
+    "display": "Velika Korita Soče, Podklanec, Soča, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Velika Korita Soče"
+    ],
+    "importance": 0.10672446250095366,
+    "rank": 0
+   },
+   {
+    "lat": 46.3384442,
+    "lng": 13.6462088,
+    "name": "Velika Korita Soče",
+    "source": "nominatim",
+    "osm_id": "relation/17868961",
+    "wikidata": "",
+    "osm_class": "natural=gorge",
+    "locality": "Soča",
+    "display": "Velika Korita Soče, Podklanec, Soča, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Velika Korita Soče"
+    ],
+    "importance": 0.10672446250095366,
+    "rank": 0
+   },
+   {
+    "lat": 46.3384442,
+    "lng": 13.6462088,
+    "name": "Velika Korita Soče",
+    "source": "nominatim",
+    "osm_id": "relation/17868961",
+    "wikidata": "",
+    "osm_class": "natural=gorge",
+    "locality": "Soča",
+    "display": "Velika Korita Soče, Podklanec, Soča, Bovec, 5232, Slovenija",
+    "names_all": [
+     "Velika Korita Soče"
+    ],
+    "importance": 0.10672446250095366,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::secovlje salina nature park": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::strunjan nature park": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::parenzana": {
+  "ok": true,
+  "lat": 45.502641,
+  "lng": 13.593563,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.721,
+  "name": "Parenzana",
+  "locality": "Portorož / Portorose",
+  "osm_class": "highway=living_street",
+  "wikidata": "",
+  "display": "Parenzana, Seča / Sezza (naselje), Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 45.5026409,
+    "lng": 13.5935627,
+    "name": "Parenzana",
+    "source": "nominatim",
+    "osm_id": "way/438505158",
+    "wikidata": "",
+    "osm_class": "highway=living_street",
+    "locality": "Portorož / Portorose",
+    "display": "Parenzana, Seča / Sezza (naselje), Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Parenzana"
+    ],
+    "importance": 0.05339375829709312,
+    "rank": 2
+   },
+   {
+    "lat": 45.5238887,
+    "lng": 13.6153857,
+    "name": "Parenzana",
+    "source": "nominatim",
+    "osm_id": "way/42723692",
+    "wikidata": "",
+    "osm_class": "highway=unclassified",
+    "locality": "Strunjan / Strugnano",
+    "display": "Parenzana, Karbonar / Carbonaro, Strunjan / Strugnano (naselje), Strunjan / Strugnano, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Parenzana"
+    ],
+    "importance": 0.05339375829709312,
+    "rank": 2
+   },
+   {
+    "lat": 45.5026409,
+    "lng": 13.5935627,
+    "name": "Parenzana",
+    "source": "nominatim",
+    "osm_id": "way/438505158",
+    "wikidata": "",
+    "osm_class": "highway=living_street",
+    "locality": "Portorož / Portorose",
+    "display": "Parenzana, Seča / Sezza (naselje), Portorož / Portorose, Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6320, Slovenija",
+    "names_all": [
+     "Parenzana"
+    ],
+    "importance": 0.05339375829709312,
+    "rank": 3
+   }
+  ]
+ },
+ "florencia::orillas del arno": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::galleria dellaccademia": {
+  "ok": true,
+  "lat": 43.776917,
+  "lng": 11.258758,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.927,
+  "name": "Galleria dell'Accademia",
+  "locality": "Firenze",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q10855544",
+  "display": "Galleria dell'Accademia, 58/60, Via Ricasoli, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.7769174,
+    "lng": 11.2587579,
+    "name": "Galleria dell'Accademia",
+    "source": "nominatim",
+    "osm_id": "node/560308250",
+    "wikidata": "Q10855544",
+    "osm_class": "tourism=museum",
+    "locality": "Firenze",
+    "display": "Galleria dell'Accademia, 58/60, Via Ricasoli, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Galleria dell'Accademia"
+    ],
+    "importance": 0.4747084034521312,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::palazzo vecchio": {
+  "ok": true,
+  "lat": 43.769143,
+  "lng": 11.25614,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.785,
+  "name": "Palazzo Vecchio",
+  "locality": "Firenze",
+  "osm_class": "amenity=townhall",
+  "wikidata": "Q271928",
+  "display": "Palazzo Vecchio, Via della Ninna, Oltrarno, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7691435,
+    "lng": 11.2561399,
+    "name": "Palazzo Vecchio",
+    "source": "nominatim",
+    "osm_id": "relation/1461712",
+    "wikidata": "Q271928",
+    "osm_class": "amenity=townhall",
+    "locality": "Firenze",
+    "display": "Palazzo Vecchio, Piazza della Signoria, Oltrarno, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo Vecchio"
+    ],
+    "importance": 0.5309986406473749,
+    "rank": 0
+   },
+   {
+    "lat": 43.7691435,
+    "lng": 11.2561399,
+    "name": "Palazzo Vecchio",
+    "source": "nominatim",
+    "osm_id": "relation/1461712",
+    "wikidata": "Q271928",
+    "osm_class": "amenity=townhall",
+    "locality": "Firenze",
+    "display": "Palazzo Vecchio, Piazza del Grano, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo Vecchio"
+    ],
+    "importance": 0.5309986406473749,
+    "rank": 0
+   },
+   {
+    "lat": 43.7691435,
+    "lng": 11.2561399,
+    "name": "Palazzo Vecchio",
+    "source": "nominatim",
+    "osm_id": "relation/1461712",
+    "wikidata": "Q271928",
+    "osm_class": "amenity=townhall",
+    "locality": "Firenze",
+    "display": "Palazzo Vecchio, Via della Ninna, Oltrarno, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo Vecchio"
+    ],
+    "importance": 0.5309986406473749,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::oltrarno": {
+  "ok": true,
+  "lat": 43.766103,
+  "lng": 11.250474,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.901,
+  "name": "Oltrarno",
+  "locality": "Firenze",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 43.766103,
+    "lng": 11.2504739,
+    "name": "Oltrarno",
+    "source": "nominatim",
+    "osm_id": "node/6145608304",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Firenze",
+    "display": "Oltrarno, Quartiere 1, Firenze, Toscana, 50125, Italia",
+    "names_all": [
+     "Oltrarno"
+    ],
+    "importance": 0.08008105668726631,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::mercato nuovo": {
+  "ok": true,
+  "lat": 43.770011,
+  "lng": 11.254052,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.767,
+  "name": "Piazza del Mercato Nuovo",
+  "locality": "Firenze",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "Q110473417",
+  "display": "Piazza del Mercato Nuovo, Oltrarno, Quartiere 1, Firenze, Toscana, 50123, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7700114,
+    "lng": 11.254052,
+    "name": "Piazza del Mercato Nuovo",
+    "source": "nominatim",
+    "osm_id": "way/685067337",
+    "wikidata": "Q110473417",
+    "osm_class": "highway=pedestrian",
+    "locality": "Firenze",
+    "display": "Piazza del Mercato Nuovo, Oltrarno, Quartiere 1, Firenze, Toscana, 50123, Italia",
+    "names_all": [
+     "Piazza del Mercato Nuovo"
+    ],
+    "importance": 0.2432038182346074,
+    "rank": 1
+   },
+   {
+    "lat": 43.7700231,
+    "lng": 11.2542361,
+    "name": "Mercato del Porcellino",
+    "source": "nominatim",
+    "osm_id": "way/27590454",
+    "wikidata": "Q917483",
+    "osm_class": "amenity=marketplace",
+    "locality": "Firenze",
+    "display": "Mercato del Porcellino, Via Por Santa Maria, Oltrarno, Quartiere 1, Firenze, Toscana, 50123, Italia",
+    "names_all": [
+     "Mercato del Porcellino"
+    ],
+    "importance": 0.4021043189142469,
+    "rank": 1
+   },
+   {
+    "lat": 43.7700114,
+    "lng": 11.254052,
+    "name": "Piazza del Mercato Nuovo",
+    "source": "nominatim",
+    "osm_id": "way/685067337",
+    "wikidata": "Q110473417",
+    "osm_class": "highway=pedestrian",
+    "locality": "Firenze",
+    "display": "Piazza del Mercato Nuovo, Oltrarno, Quartiere 1, Firenze, Toscana, 50123, Italia",
+    "names_all": [
+     "Piazza del Mercato Nuovo"
+    ],
+    "importance": 0.2432038182346074,
+    "rank": 1
+   }
+  ]
+ },
+ "bari::castello svevo": {
+  "ok": true,
+  "lat": 41.128301,
+  "lng": 16.866381,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.788,
+  "name": "Castello Normanno-Svevo di Bari",
+  "locality": "Bari",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q790430",
+  "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "historic=castle",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   },
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "historic=castle",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 1
+   },
+   {
+    "lat": 41.1283014,
+    "lng": 16.8663805,
+    "name": "Castello Normanno-Svevo di Bari",
+    "source": "nominatim",
+    "osm_id": "relation/2312960",
+    "wikidata": "Q790430",
+    "osm_class": "tourism=attraction",
+    "locality": "Bari",
+    "display": "Castello Normanno-Svevo di Bari, Piazza Federico Secondo di Svevia, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Castello Normanno-Svevo di Bari"
+    ],
+    "importance": 0.31827171020639217,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::strada delle orecchiette": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::muraglia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::museo archeologico di santa scolastica": {
+  "ok": true,
+  "lat": 41.132152,
+  "lng": 16.87096,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.782,
+  "name": "Museo Archeologico di Santa Scolastica",
+  "locality": "Bari",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q62566513",
+  "display": "Museo Archeologico di Santa Scolastica, 73, Via Venezia, San Nicola, Municipio 1, Bari, Puglia, 70120, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.132152,
+    "lng": 16.8709598,
+    "name": "Museo Archeologico di Santa Scolastica",
+    "source": "nominatim",
+    "osm_id": "node/5211288721",
+    "wikidata": "Q62566513",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo Archeologico di Santa Scolastica, 73, Via Venezia, San Nicola, Municipio 1, Bari, Puglia, 70120, Italia",
+    "names_all": [
+     "Museo Archeologico di Santa Scolastica"
+    ],
+    "importance": 0.29396319343666205,
+    "rank": 0
+   },
+   {
+    "lat": 41.132152,
+    "lng": 16.8709598,
+    "name": "Museo Archeologico di Santa Scolastica",
+    "source": "nominatim",
+    "osm_id": "node/5211288721",
+    "wikidata": "Q62566513",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo Archeologico di Santa Scolastica, 73, Via Venezia, San Nicola, Municipio 1, Bari, Puglia, 70120, Italia",
+    "names_all": [
+     "Museo Archeologico di Santa Scolastica"
+    ],
+    "importance": 0.29396319343666205,
+    "rank": 0
+   },
+   {
+    "lat": 41.132152,
+    "lng": 16.8709598,
+    "name": "Museo Archeologico di Santa Scolastica",
+    "source": "nominatim",
+    "osm_id": "node/5211288721",
+    "wikidata": "Q62566513",
+    "osm_class": "tourism=museum",
+    "locality": "Bari",
+    "display": "Museo Archeologico di Santa Scolastica, 73, Via Venezia, San Nicola, Municipio 1, Bari, Puglia, 70120, Italia",
+    "names_all": [
+     "Museo Archeologico di Santa Scolastica"
+    ],
+    "importance": 0.29396319343666205,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::mercato del pesce nderr la lanz": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::mercato coperto": {
+  "ok": true,
+  "lat": 41.107934,
+  "lng": 16.896322,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.873,
+  "name": "Mercato coperto",
+  "locality": "Bari",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Mercato coperto, Via dei Caduti Partigiani, Japigia, Municipio 1, Bari, Puglia, 70126, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.1079345,
+    "lng": 16.8963223,
+    "name": "Mercato coperto",
+    "source": "nominatim",
+    "osm_id": "way/418000393",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Bari",
+    "display": "Mercato coperto, Via dei Caduti Partigiani, Japigia, Municipio 1, Bari, Puglia, 70126, Italia",
+    "names_all": [
+     "Mercato coperto"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::sgagliozze": {
+  "ok": true,
+  "lat": 41.129006,
+  "lng": 16.868999,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.83,
+  "name": "Da Maria Sgagliozze",
+  "locality": "Bari",
+  "osm_class": "amenity=fast_food",
+  "wikidata": "",
+  "display": "Da Maria Sgagliozze, Strada Filioli, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.1290059,
+    "lng": 16.8689985,
+    "name": "Da Maria Sgagliozze",
+    "source": "nominatim",
+    "osm_id": "node/4826617390",
+    "wikidata": "",
+    "osm_class": "amenity=fast_food",
+    "locality": "Bari",
+    "display": "Da Maria Sgagliozze, Strada Filioli, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+    "names_all": [
+     "Da Maria Sgagliozze"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::panzerotti": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::focaccia barese": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::parco 2 giugno": {
+  "ok": true,
+  "lat": 41.102474,
+  "lng": 16.874768,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.752,
+  "name": "Parco 2 Giugno",
+  "locality": "Bari",
+  "osm_class": "leisure=park",
+  "wikidata": "",
+  "display": "Parco 2 Giugno, Municipio 2, Bari, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1024744,
+    "lng": 16.874768,
+    "name": "Parco 2 Giugno",
+    "source": "nominatim",
+    "osm_id": "way/340004412",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Bari",
+    "display": "Parco 2 Giugno, Municipio 2, Bari, Puglia, Italia",
+    "names_all": [
+     "Parco 2 Giugno"
+    ],
+    "importance": 0.0800718722819867,
+    "rank": 0
+   },
+   {
+    "lat": 41.1024744,
+    "lng": 16.874768,
+    "name": "Parco 2 Giugno",
+    "source": "nominatim",
+    "osm_id": "way/340004412",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Bari",
+    "display": "Parco 2 Giugno, Municipio 2, Bari, Puglia, Italia",
+    "names_all": [
+     "Parco 2 Giugno"
+    ],
+    "importance": 0.0800718722819867,
+    "rank": 0
+   },
+   {
+    "lat": 41.1024744,
+    "lng": 16.874768,
+    "name": "Parco 2 Giugno",
+    "source": "nominatim",
+    "osm_id": "way/340004412",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Bari",
+    "display": "Parco 2 Giugno, Municipio 2, Bari, Puglia, Italia",
+    "names_all": [
+     "Parco 2 Giugno"
+    ],
+    "importance": 0.0800718722819867,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::pane e pomodoro": {
+  "ok": true,
+  "lat": 41.118344,
+  "lng": 16.891917,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.756,
+  "name": "Pane e Pomodoro",
+  "locality": "Bari",
+  "osm_class": "natural=beach",
+  "wikidata": "",
+  "display": "Pane e Pomodoro, Japigia, Municipio 1, Bari, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.118344,
+    "lng": 16.891917,
+    "name": "Pane e Pomodoro",
+    "source": "nominatim",
+    "osm_id": "way/472101497",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Pane e Pomodoro, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Pane e Pomodoro"
+    ],
+    "importance": 0.10673853894865337,
+    "rank": 0
+   },
+   {
+    "lat": 41.118344,
+    "lng": 16.891917,
+    "name": "Pane e Pomodoro",
+    "source": "nominatim",
+    "osm_id": "way/472101497",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Pane e Pomodoro, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Pane e Pomodoro"
+    ],
+    "importance": 0.10673853894865337,
+    "rank": 0
+   },
+   {
+    "lat": 41.118344,
+    "lng": 16.891917,
+    "name": "Pane e Pomodoro",
+    "source": "nominatim",
+    "osm_id": "way/472101497",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Pane e Pomodoro, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Pane e Pomodoro"
+    ],
+    "importance": 0.10673853894865337,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::torre quetta": {
+  "ok": true,
+  "lat": 41.113653,
+  "lng": 16.913671,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.74,
+  "name": "Torre Quetta",
+  "locality": "Bari",
+  "osm_class": "natural=beach",
+  "wikidata": "",
+  "display": "Torre Quetta, Japigia, Municipio 1, Bari, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.113653,
+    "lng": 16.9136713,
+    "name": "Torre Quetta",
+    "source": "nominatim",
+    "osm_id": "way/162744565",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Torre Quetta, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Torre Quetta"
+    ],
+    "importance": 0.10670416800183105,
+    "rank": 0
+   },
+   {
+    "lat": 41.113653,
+    "lng": 16.9136713,
+    "name": "Torre Quetta",
+    "source": "nominatim",
+    "osm_id": "way/162744565",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Torre Quetta, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Torre Quetta"
+    ],
+    "importance": 0.10670416800183105,
+    "rank": 0
+   },
+   {
+    "lat": 41.113653,
+    "lng": 16.9136713,
+    "name": "Torre Quetta",
+    "source": "nominatim",
+    "osm_id": "way/162744565",
+    "wikidata": "",
+    "osm_class": "natural=beach",
+    "locality": "Bari",
+    "display": "Torre Quetta, Japigia, Municipio 1, Bari, Puglia, Italia",
+    "names_all": [
+     "Torre Quetta"
+    ],
+    "importance": 0.10670416800183105,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::san cataldo": {
+  "ok": true,
+  "lat": 41.137998,
+  "lng": 16.843545,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.762,
+  "name": "San Cataldo",
+  "locality": "Bari",
+  "osm_class": "place=quarter",
+  "wikidata": "",
+  "display": "San Cataldo, Municipio 3, Bari, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1379979,
+    "lng": 16.8435445,
+    "name": "San Cataldo",
+    "source": "nominatim",
+    "osm_id": "relation/17729389",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Bari",
+    "display": "San Cataldo, Municipio 3, Bari, Puglia, Italia",
+    "names_all": [
+     "San Cataldo"
+    ],
+    "importance": 0.13340520561532004,
+    "rank": 0
+   },
+   {
+    "lat": 41.1379979,
+    "lng": 16.8435445,
+    "name": "San Cataldo",
+    "source": "nominatim",
+    "osm_id": "relation/17729389",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Bari",
+    "display": "San Cataldo, Municipio 3, Bari, Puglia, Italia",
+    "names_all": [
+     "San Cataldo"
+    ],
+    "importance": 0.13340520561532004,
+    "rank": 7
+   },
+   {
+    "lat": 41.1379979,
+    "lng": 16.8435445,
+    "name": "San Cataldo",
+    "source": "nominatim",
+    "osm_id": "relation/17729389",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Bari",
+    "display": "San Cataldo, Municipio 3, Bari, Puglia, Italia",
+    "names_all": [
+     "San Cataldo"
+    ],
+    "importance": 0.13340520561532004,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::succorpo de la cattedrale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::cripta ortodoxa de san nicola": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::teatro margherita sobre el agua": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::barrio liberta": {
+  "ok": true,
+  "lat": 41.123528,
+  "lng": 16.858067,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.784,
+  "name": "Libertà",
+  "locality": "Bari",
+  "osm_class": "place=suburb",
+  "wikidata": "Q3831746",
+  "display": "Libertà, Municipio 1, Bari, Puglia, 70123, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1235275,
+    "lng": 16.8580672,
+    "name": "Libertà",
+    "source": "nominatim",
+    "osm_id": "relation/17848881",
+    "wikidata": "Q3831746",
+    "osm_class": "place=suburb",
+    "locality": "Bari",
+    "display": "Libertà, Municipio 1, Bari, Puglia, 70123, Italia",
+    "names_all": [
+     "Libertà"
+    ],
+    "importance": 0.2548773901198179,
+    "rank": 0
+   },
+   {
+    "lat": 41.1235275,
+    "lng": 16.8580672,
+    "name": "Libertà",
+    "source": "nominatim",
+    "osm_id": "relation/17848881",
+    "wikidata": "Q3831746",
+    "osm_class": "place=suburb",
+    "locality": "Bari",
+    "display": "Libertà, Municipio 1, Bari, Puglia, 70123, Italia",
+    "names_all": [
+     "Libertà"
+    ],
+    "importance": 0.2548773901198179,
+    "rank": 0
+   },
+   {
+    "lat": 41.1235275,
+    "lng": 16.8580672,
+    "name": "Libertà",
+    "source": "nominatim",
+    "osm_id": "relation/17848881",
+    "wikidata": "Q3831746",
+    "osm_class": "place=suburb",
+    "locality": "Bari",
+    "display": "Libertà, Municipio 1, Bari, Puglia, 70123, Italia",
+    "names_all": [
+     "Libertà"
+    ],
+    "importance": 0.2548773901198179,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::bari sotterranea": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "bari::santa claus village en diciembre": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::basilica di santa croce": {
+  "ok": true,
+  "lat": 40.354689,
+  "lng": 18.173255,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Basilica di Santa Croce",
+  "locality": "Lecce",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q844111",
+  "display": "Basilica di Santa Croce, Vico della Saponea, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3546892,
+    "lng": 18.1732552,
+    "name": "Basilica di Santa Croce",
+    "source": "nominatim",
+    "osm_id": "way/299719056",
+    "wikidata": "Q844111",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Lecce",
+    "display": "Basilica di Santa Croce, Vico della Saponea, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Basilica di Santa Croce"
+    ],
+    "importance": 0.29960026554141705,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::piazza del duomo": {
+  "ok": true,
+  "lat": 40.351989,
+  "lng": 18.169279,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.617,
+  "name": "Campanile del Duomo",
+  "locality": "Lecce",
+  "osm_class": "man_made=tower",
+  "wikidata": "",
+  "display": "Campanile del Duomo, Piazza Duomo, Lecce, Puglia, 73100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.3519888,
+    "lng": 18.1692785,
+    "name": "Campanile del Duomo",
+    "source": "nominatim",
+    "osm_id": "way/231330891",
+    "wikidata": "",
+    "osm_class": "man_made=tower",
+    "locality": "Lecce",
+    "display": "Campanile del Duomo, Piazza Duomo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Campanile del Duomo"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::cattedrale campanario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::chiesa di san matteo": {
+  "ok": true,
+  "lat": 40.350591,
+  "lng": 18.171962,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.912,
+  "name": "Chiesa di San Matteo",
+  "locality": "Lecce",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1255885",
+  "display": "Chiesa di San Matteo, Corte dei Castromediano, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3505905,
+    "lng": 18.1719618,
+    "name": "Chiesa di San Matteo",
+    "source": "nominatim",
+    "osm_id": "way/299721492",
+    "wikidata": "Q1255885",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Lecce",
+    "display": "Chiesa di San Matteo, Corte dei Castromediano, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Chiesa di San Matteo"
+    ],
+    "importance": 0.18157831638402872,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::chiesa del rosario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::chiesa di santirene": {
+  "ok": true,
+  "lat": 40.352827,
+  "lng": 18.170341,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.744,
+  "name": "Chiesa di Sant'Irene",
+  "locality": "Lecce",
+  "osm_class": "information=board",
+  "wikidata": "",
+  "display": "Chiesa di Sant'Irene, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3528272,
+    "lng": 18.1703414,
+    "name": "Chiesa di Sant'Irene",
+    "source": "nominatim",
+    "osm_id": "node/7836990092",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Lecce",
+    "display": "Chiesa di Sant'Irene, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Chiesa di Sant'Irene"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3528272,
+    "lng": 18.1703414,
+    "name": "Chiesa di Sant'Irene",
+    "source": "nominatim",
+    "osm_id": "node/7836990092",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Lecce",
+    "display": "Chiesa di Sant'Irene, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Chiesa di Sant'Irene"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3528272,
+    "lng": 18.1703414,
+    "name": "Chiesa di Sant'Irene",
+    "source": "nominatim",
+    "osm_id": "node/7836990092",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Lecce",
+    "display": "Chiesa di Sant'Irene, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Chiesa di Sant'Irene"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::chiesa di santa chiara santa teresa santi niccolo e cataldo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::palazzo dei celestini": {
+  "ok": true,
+  "lat": 40.355172,
+  "lng": 18.173577,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.846,
+  "name": "Palazzo dei Celestini",
+  "locality": "Lecce",
+  "osm_class": "building=yes",
+  "wikidata": "Q3891191",
+  "display": "Palazzo dei Celestini, Viale Venticinque Luglio, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3551724,
+    "lng": 18.1735771,
+    "name": "Palazzo dei Celestini",
+    "source": "nominatim",
+    "osm_id": "relation/3985405",
+    "wikidata": "Q3891191",
+    "osm_class": "building=yes",
+    "locality": "Lecce",
+    "display": "Palazzo dei Celestini, Viale Venticinque Luglio, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Palazzo dei Celestini"
+    ],
+    "importance": 0.205345191009919,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::anfiteatro romano": {
+  "ok": true,
+  "lat": 40.352549,
+  "lng": 18.172479,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.923,
+  "name": "Anfiteatro Romano di Lecce",
+  "locality": "Lecce",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q2844410",
+  "display": "Anfiteatro Romano di Lecce, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3525492,
+    "lng": 18.1724794,
+    "name": "Anfiteatro Romano di Lecce",
+    "source": "nominatim",
+    "osm_id": "way/300753266",
+    "wikidata": "Q2844410",
+    "osm_class": "tourism=attraction",
+    "locality": "Lecce",
+    "display": "Anfiteatro Romano di Lecce, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Anfiteatro Romano di Lecce"
+    ],
+    "importance": 0.3378692872294172,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::teatro romano": {
+  "ok": true,
+  "lat": 40.351728,
+  "lng": 18.170293,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.801,
+  "name": "Museo del Teatro Romano",
+  "locality": "Lecce",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q55369969",
+  "display": "Museo del Teatro Romano, Via degli Ammirati, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3517283,
+    "lng": 18.1702929,
+    "name": "Museo del Teatro Romano",
+    "source": "nominatim",
+    "osm_id": "node/4142364689",
+    "wikidata": "Q55369969",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo del Teatro Romano, Via degli Ammirati, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo del Teatro Romano"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 3
+   }
+  ]
+ },
+ "lecce::colonna di santoronzo": {
+  "ok": true,
+  "lat": 40.352911,
+  "lng": 18.172757,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.745,
+  "name": "Colonna di Sant'Oronzo",
+  "locality": "Lecce",
+  "osm_class": "historic=monument",
+  "wikidata": "Q1296666",
+  "display": "Colonna di Sant'Oronzo, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3529111,
+    "lng": 18.1727572,
+    "name": "Colonna di Sant'Oronzo",
+    "source": "nominatim",
+    "osm_id": "way/299717949",
+    "wikidata": "Q1296666",
+    "osm_class": "historic=monument",
+    "locality": "Lecce",
+    "display": "Colonna di Sant'Oronzo, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Colonna di Sant'Oronzo"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3529111,
+    "lng": 18.1727572,
+    "name": "Colonna di Sant'Oronzo",
+    "source": "nominatim",
+    "osm_id": "way/299717949",
+    "wikidata": "Q1296666",
+    "osm_class": "historic=monument",
+    "locality": "Lecce",
+    "display": "Colonna di Sant'Oronzo, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Colonna di Sant'Oronzo"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3529111,
+    "lng": 18.1727572,
+    "name": "Colonna di Sant'Oronzo",
+    "source": "nominatim",
+    "osm_id": "way/299717949",
+    "wikidata": "Q1296666",
+    "osm_class": "historic=monument",
+    "locality": "Lecce",
+    "display": "Colonna di Sant'Oronzo, Piazza Sant'Oronzo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Colonna di Sant'Oronzo"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::museo faggiano": {
+  "ok": true,
+  "lat": 40.350109,
+  "lng": 18.172383,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.833,
+  "name": "Museo Archeologico Faggiano",
+  "locality": "Lecce",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q69328386",
+  "display": "Museo Archeologico Faggiano, 56, Via Ascanio Grandi, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3501088,
+    "lng": 18.1723829,
+    "name": "Museo Archeologico Faggiano",
+    "source": "nominatim",
+    "osm_id": "node/3874335810",
+    "wikidata": "Q69328386",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo Archeologico Faggiano, 56, Via Ascanio Grandi, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo Archeologico Faggiano"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::cripta della cattedrale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::museo archeologico provinciale sigismondo castromediano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::castello carlo v": {
+  "ok": true,
+  "lat": 40.352381,
+  "lng": 18.174646,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.918,
+  "name": "Castello di Carlo V",
+  "locality": "Lecce",
+  "osm_class": "historic=castle",
+  "wikidata": "Q3662651",
+  "display": "Castello di Carlo V, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3523807,
+    "lng": 18.1746463,
+    "name": "Castello di Carlo V",
+    "source": "nominatim",
+    "osm_id": "relation/3987172",
+    "wikidata": "Q3662651",
+    "osm_class": "historic=castle",
+    "locality": "Lecce",
+    "display": "Castello di Carlo V, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Castello di Carlo V"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::porta napoli": {
+  "ok": true,
+  "lat": 40.356455,
+  "lng": 18.168549,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.908,
+  "name": "Porta Napoli",
+  "locality": "Lecce",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q22100579",
+  "display": "Porta Napoli, Piazza Angelo Rizzo, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.356455,
+    "lng": 18.1685486,
+    "name": "Porta Napoli",
+    "source": "nominatim",
+    "osm_id": "way/299716997",
+    "wikidata": "Q22100579",
+    "osm_class": "tourism=attraction",
+    "locality": "Lecce",
+    "display": "Porta Napoli, Piazza Angelo Rizzo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Porta Napoli"
+    ],
+    "importance": 0.18554865524912875,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::porta rudiae": {
+  "ok": true,
+  "lat": 40.351338,
+  "lng": 18.164582,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.842,
+  "name": "Porta Rudiae",
+  "locality": "Lecce",
+  "osm_class": "historic=city_gate",
+  "wikidata": "Q3908775",
+  "display": "Porta Rudiae, Via Adua, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.351338,
+    "lng": 18.1645816,
+    "name": "Porta Rudiae",
+    "source": "nominatim",
+    "osm_id": "way/348332419",
+    "wikidata": "Q3908775",
+    "osm_class": "historic=city_gate",
+    "locality": "Lecce",
+    "display": "Porta Rudiae, Via Adua, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Porta Rudiae"
+    ],
+    "importance": 0.18929199030239088,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::obelisco di porta napoli": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::cartapesta": {
+  "ok": true,
+  "lat": 40.352521,
+  "lng": 18.169738,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.747,
+  "name": "Cartapesta Claudio Riso Presepi",
+  "locality": "Lecce",
+  "osm_class": "shop=gift",
+  "wikidata": "",
+  "display": "Cartapesta Claudio Riso Presepi, 27, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3522477,
+    "lng": 18.1751021,
+    "name": "Museo della Cartapesta",
+    "source": "nominatim",
+    "osm_id": "node/6562994435",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo della Cartapesta, Viale venticinque luglio, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo della Cartapesta"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 1
+   },
+   {
+    "lat": 40.3525214,
+    "lng": 18.169738,
+    "name": "Cartapesta Claudio Riso Presepi",
+    "source": "nominatim",
+    "osm_id": "node/6134558087",
+    "wikidata": "",
+    "osm_class": "shop=gift",
+    "locality": "Lecce",
+    "display": "Cartapesta Claudio Riso Presepi, 27, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Cartapesta Claudio Riso Presepi"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 3
+   },
+   {
+    "lat": 40.3525214,
+    "lng": 18.169738,
+    "name": "Cartapesta Claudio Riso Presepi",
+    "source": "nominatim",
+    "osm_id": "node/6134558087",
+    "wikidata": "",
+    "osm_class": "shop=gift",
+    "locality": "Lecce",
+    "display": "Cartapesta Claudio Riso Presepi, 27, Via Vittorio Emanuele Secondo, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Cartapesta Claudio Riso Presepi"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "lecce::museo della cartapesta": {
+  "ok": true,
+  "lat": 40.352248,
+  "lng": 18.175102,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.768,
+  "name": "Museo della Cartapesta",
+  "locality": "Lecce",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo della Cartapesta, Viale venticinque luglio, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3522477,
+    "lng": 18.1751021,
+    "name": "Museo della Cartapesta",
+    "source": "nominatim",
+    "osm_id": "node/6562994435",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo della Cartapesta, Viale venticinque luglio, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo della Cartapesta"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3522477,
+    "lng": 18.1751021,
+    "name": "Museo della Cartapesta",
+    "source": "nominatim",
+    "osm_id": "node/6562994435",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo della Cartapesta, Viale venticinque luglio, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo della Cartapesta"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.3522477,
+    "lng": 18.1751021,
+    "name": "Museo della Cartapesta",
+    "source": "nominatim",
+    "osm_id": "node/6562994435",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Lecce",
+    "display": "Museo della Cartapesta, Viale venticinque luglio, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Museo della Cartapesta"
+    ],
+    "importance": 6.734645609211899e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::talleres de pietra leccese": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::teatro politeama greco teatro paisiello": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::palazzo taurino": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::must museo storico della citta": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::callejear sin rumbo por el casco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::piazza santoronzo": {
+  "ok": true,
+  "lat": 40.352793,
+  "lng": 18.172641,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.838,
+  "name": "Piazza Sant'Oronzo",
+  "locality": "Lecce",
+  "osm_class": "place=square",
+  "wikidata": "",
+  "display": "Piazza Sant'Oronzo, Lecce, Puglia, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.3527927,
+    "lng": 18.1726414,
+    "name": "Piazza Sant'Oronzo",
+    "source": "nominatim",
+    "osm_id": "way/1105277540",
+    "wikidata": "",
+    "osm_class": "place=square",
+    "locality": "Lecce",
+    "display": "Piazza Sant'Oronzo, Lecce, Puglia, Italia",
+    "names_all": [
+     "Piazza Sant'Oronzo"
+    ],
+    "importance": 0.06673401312275883,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::via palmieri y via libertini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::giardini pubblici giuseppe garibaldi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::quartiere universitario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::sasso barisano": {
+  "ok": true,
+  "lat": 40.668252,
+  "lng": 16.610145,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.902,
+  "name": "Sasso Barisano",
+  "locality": "Matera",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6682524,
+    "lng": 16.6101447,
+    "name": "Sasso Barisano",
+    "source": "nominatim",
+    "osm_id": "way/326515348",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Matera",
+    "display": "Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Sasso Barisano"
+    ],
+    "importance": 0.0800642198825055,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::sasso caveoso": {
+  "ok": true,
+  "lat": 40.663531,
+  "lng": 16.611301,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.901,
+  "name": "Sasso Caveoso",
+  "locality": "Matera",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "",
+  "display": "Sasso Caveoso, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6635312,
+    "lng": 16.6113012,
+    "name": "Sasso Caveoso",
+    "source": "nominatim",
+    "osm_id": "way/326515081",
+    "wikidata": "",
+    "osm_class": "place=neighbourhood",
+    "locality": "Matera",
+    "display": "Sasso Caveoso, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Sasso Caveoso"
+    ],
+    "importance": 0.0800642198825055,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::caminar los sassi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::civita": {
+  "ok": true,
+  "lat": 40.66765,
+  "lng": 16.612073,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.745,
+  "name": "Via Civita",
+  "locality": "Matera",
+  "osm_class": "highway=steps",
+  "wikidata": "",
+  "display": "Via Civita, Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6676501,
+    "lng": 16.612073,
+    "name": "Via Civita",
+    "source": "nominatim",
+    "osm_id": "way/243265297",
+    "wikidata": "",
+    "osm_class": "highway=steps",
+    "locality": "Matera",
+    "display": "Via Civita, Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Via Civita"
+    ],
+    "importance": 0.04006421988250552,
+    "rank": 1
+   },
+   {
+    "lat": 40.6676501,
+    "lng": 16.612073,
+    "name": "Via Civita",
+    "source": "nominatim",
+    "osm_id": "way/243265297",
+    "wikidata": "",
+    "osm_class": "highway=steps",
+    "locality": "Matera",
+    "display": "Via Civita, Sasso Barisano, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Via Civita"
+    ],
+    "importance": 0.04006421988250552,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::piazza vittorio veneto": {
+  "ok": true,
+  "lat": 40.666645,
+  "lng": 16.60641,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.82,
+  "name": "Piazza Vittorio Veneto",
+  "locality": "Matera",
+  "osm_class": "place=square",
+  "wikidata": "Q115035643",
+  "display": "Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6666446,
+    "lng": 16.6064104,
+    "name": "Piazza Vittorio Veneto",
+    "source": "nominatim",
+    "osm_id": "way/234081672",
+    "wikidata": "Q115035643",
+    "osm_class": "place=square",
+    "locality": "Matera",
+    "display": "Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Piazza Vittorio Veneto"
+    ],
+    "importance": 0.0667308865491722,
+    "rank": 1
+   }
+  ]
+ },
+ "matera::casa grotta di vico solitario": {
+  "ok": true,
+  "lat": 40.663857,
+  "lng": 16.61231,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.791,
+  "name": "Casa Grotta nei Sassi",
+  "locality": "Matera",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Casa Grotta nei Sassi, 11, Vico Solitario, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6638574,
+    "lng": 16.6123099,
+    "name": "Casa Grotta nei Sassi",
+    "source": "nominatim",
+    "osm_id": "way/244741856",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Casa Grotta nei Sassi, 11, Vico Solitario, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Casa Grotta nei Sassi"
+    ],
+    "importance": 0.5008888311756161,
+    "rank": 0
+   },
+   {
+    "lat": 40.6638574,
+    "lng": 16.6123099,
+    "name": "Casa Grotta nei Sassi",
+    "source": "nominatim",
+    "osm_id": "way/244741856",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Casa Grotta nei Sassi, 11, Vico Solitario, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Casa Grotta nei Sassi"
+    ],
+    "importance": 0.5008888311756161,
+    "rank": 0
+   },
+   {
+    "lat": 40.6638574,
+    "lng": 16.6123099,
+    "name": "Casa Grotta nei Sassi",
+    "source": "nominatim",
+    "osm_id": "way/244741856",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Casa Grotta nei Sassi, 11, Vico Solitario, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Casa Grotta nei Sassi"
+    ],
+    "importance": 0.5008888311756161,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::casa noha": {
+  "ok": true,
+  "lat": 40.666342,
+  "lng": 16.612136,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.896,
+  "name": "Casa Noha",
+  "locality": "Matera",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Casa Noha, 9, Recinto Canove, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6663417,
+    "lng": 16.6121361,
+    "name": "Casa Noha",
+    "source": "nominatim",
+    "osm_id": "node/3103273454",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Casa Noha, 9, Recinto Canove, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Casa Noha"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::palombaro lungo": {
+  "ok": true,
+  "lat": 40.666943,
+  "lng": 16.606484,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.745,
+  "name": "Palombaro Lungo - Cisterna Ipogea",
+  "locality": "Matera",
+  "osm_class": "natural=cave_entrance",
+  "wikidata": "",
+  "display": "Palombaro Lungo - Cisterna Ipogea, Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6669434,
+    "lng": 16.6064838,
+    "name": "Palombaro Lungo - Cisterna Ipogea",
+    "source": "nominatim",
+    "osm_id": "node/7229912065",
+    "wikidata": "",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Matera",
+    "display": "Palombaro Lungo - Cisterna Ipogea, Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Palombaro Lungo - Cisterna Ipogea"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.6669434,
+    "lng": 16.6064838,
+    "name": "Palombaro Lungo - Cisterna Ipogea",
+    "source": "nominatim",
+    "osm_id": "node/7229912065",
+    "wikidata": "",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Matera",
+    "display": "Palombaro Lungo - Cisterna Ipogea, Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Palombaro Lungo - Cisterna Ipogea"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.6669434,
+    "lng": 16.6064838,
+    "name": "Palombaro Lungo - Cisterna Ipogea",
+    "source": "nominatim",
+    "osm_id": "node/7229912065",
+    "wikidata": "",
+    "osm_class": "natural=cave_entrance",
+    "locality": "Matera",
+    "display": "Palombaro Lungo - Cisterna Ipogea, Piazza Vittorio Veneto, Sassi di Matera, Centro storico, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Palombaro Lungo - Cisterna Ipogea"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::casa cava": {
+  "ok": true,
+  "lat": 40.668515,
+  "lng": 16.609247,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.831,
+  "name": "Casa Cava",
+  "locality": "Matera",
+  "osm_class": "building=yes",
+  "wikidata": "Q29904967",
+  "display": "Casa Cava, Via San Pietro Barisano, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6685145,
+    "lng": 16.6092471,
+    "name": "Casa Cava",
+    "source": "nominatim",
+    "osm_id": "way/244636560",
+    "wikidata": "Q29904967",
+    "osm_class": "building=yes",
+    "locality": "Matera",
+    "display": "Casa Cava, Via San Pietro Barisano, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Casa Cava"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::musma museo della scultura contemporanea": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::museo archeologico nazionale domenico ridola": {
+  "ok": true,
+  "lat": 40.663891,
+  "lng": 16.609206,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Museo Archeologico Nazionale Domenico Ridola",
+  "locality": "Matera",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q3867699",
+  "display": "Museo Archeologico Nazionale Domenico Ridola, 24, Via Domenico Ridola, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6638909,
+    "lng": 16.609206,
+    "name": "Museo Archeologico Nazionale Domenico Ridola",
+    "source": "nominatim",
+    "osm_id": "way/243609821",
+    "wikidata": "Q3867699",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Museo Archeologico Nazionale Domenico Ridola, 24, Via Domenico Ridola, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Museo Archeologico Nazionale Domenico Ridola"
+    ],
+    "importance": 0.30723887866744215,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::palazzo lanfranchi": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::santa maria de idris san giovanni in monterrone": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::san pietro barisano": {
+  "ok": true,
+  "lat": 40.668742,
+  "lng": 16.60925,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.897,
+  "name": "San Pietro Barisano",
+  "locality": "Matera",
+  "osm_class": "building=church",
+  "wikidata": "Q99501082",
+  "display": "San Pietro Barisano, Rione San Biagio, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6687419,
+    "lng": 16.6092499,
+    "name": "San Pietro Barisano",
+    "source": "nominatim",
+    "osm_id": "way/244636573",
+    "wikidata": "Q99501082",
+    "osm_class": "building=church",
+    "locality": "Matera",
+    "display": "San Pietro Barisano, Rione San Biagio, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "San Pietro Barisano"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::santa lucia alle malve": {
+  "ok": true,
+  "lat": 40.663199,
+  "lng": 16.612482,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.916,
+  "name": "Santa Lucia alle Malve",
+  "locality": "Matera",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q24798546",
+  "display": "Santa Lucia alle Malve, Rione Malve, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.663199,
+    "lng": 16.6124822,
+    "name": "Santa Lucia alle Malve",
+    "source": "nominatim",
+    "osm_id": "node/2505720174",
+    "wikidata": "Q24798546",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Matera",
+    "display": "Santa Lucia alle Malve, Rione Malve, Sassi di Matera, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Santa Lucia alle Malve"
+    ],
+    "importance": 0.2885983973306146,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::madonna delle virtu san nicola dei greci": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::cripta del peccato originale": {
+  "ok": true,
+  "lat": 40.620667,
+  "lng": 16.563423,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.708,
+  "name": "Cripta del Peccato Originale",
+  "locality": "Matera",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q50880532",
+  "display": "Cripta del Peccato Originale, Ciclabile Agriturismo Casal Dragone - Lago San Giuliano, Trione della Chiesa, Matera, Basilicata, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6206668,
+    "lng": 16.5634234,
+    "name": "Cripta del Peccato Originale",
+    "source": "nominatim",
+    "osm_id": "node/3989955325",
+    "wikidata": "Q50880532",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Cripta del Peccato Originale, Ciclabile Agriturismo Casal Dragone - Lago San Giuliano, Trione della Chiesa, Matera, Basilicata, Italia",
+    "names_all": [
+     "Cripta del Peccato Originale"
+    ],
+    "importance": 0.13618373728802152,
+    "rank": 0
+   },
+   {
+    "lat": 40.6206668,
+    "lng": 16.5634234,
+    "name": "Cripta del Peccato Originale",
+    "source": "nominatim",
+    "osm_id": "node/3989955325",
+    "wikidata": "Q50880532",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Cripta del Peccato Originale, Ciclabile Agriturismo Casal Dragone - Lago San Giuliano, Trione della Chiesa, Matera, Basilicata, Italia",
+    "names_all": [
+     "Cripta del Peccato Originale"
+    ],
+    "importance": 0.13618373728802152,
+    "rank": 0
+   },
+   {
+    "lat": 40.6206668,
+    "lng": 16.5634234,
+    "name": "Cripta del Peccato Originale",
+    "source": "nominatim",
+    "osm_id": "node/3989955325",
+    "wikidata": "Q50880532",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Cripta del Peccato Originale, Ciclabile Agriturismo Casal Dragone - Lago San Giuliano, Trione della Chiesa, Matera, Basilicata, Italia",
+    "names_all": [
+     "Cripta del Peccato Originale"
+    ],
+    "importance": 0.13618373728802152,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::cattedrale di matera": {
+  "ok": true,
+  "lat": 40.666806,
+  "lng": 16.61133,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.809,
+  "name": "Cattedrale della Madonna della Bruna e di Sant'Eustachio",
+  "locality": "Matera",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q2942710",
+  "display": "Cattedrale della Madonna della Bruna e di Sant'Eustachio, Piazza del Duomo, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6668064,
+    "lng": 16.6113301,
+    "name": "Cattedrale della Madonna della Bruna e di Sant'Eustachio",
+    "source": "nominatim",
+    "osm_id": "way/145667236",
+    "wikidata": "Q2942710",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Matera",
+    "display": "Cattedrale della Madonna della Bruna e di Sant'Eustachio, Piazza del Duomo, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Cattedrale della Madonna della Bruna e di Sant'Eustachio"
+    ],
+    "importance": 0.3583819294050449,
+    "rank": 1
+   }
+  ]
+ },
+ "matera::chiesa di san francesco dassisi san giovanni battista purgatorio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::parco della murgia materana": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::belvedere di murgia timone": {
+  "ok": true,
+  "lat": 40.664026,
+  "lng": 16.617793,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.786,
+  "name": "Belvedere di Murgia Timone",
+  "locality": "Matera",
+  "osm_class": "tourism=viewpoint",
+  "wikidata": "Q3895535",
+  "display": "Belvedere di Murgia Timone, Strada Belvedere Murgia Timone, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6640264,
+    "lng": 16.6177932,
+    "name": "Belvedere di Murgia Timone",
+    "source": "nominatim",
+    "osm_id": "node/304848354",
+    "wikidata": "Q3895535",
+    "osm_class": "tourism=viewpoint",
+    "locality": "Matera",
+    "display": "Belvedere di Murgia Timone, Strada Belvedere Murgia Timone, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Belvedere di Murgia Timone"
+    ],
+    "importance": 0.36831991052132845,
+    "rank": 0
+   },
+   {
+    "lat": 40.6640264,
+    "lng": 16.6177932,
+    "name": "Belvedere di Murgia Timone",
+    "source": "nominatim",
+    "osm_id": "node/304848354",
+    "wikidata": "Q3895535",
+    "osm_class": "tourism=viewpoint",
+    "locality": "Matera",
+    "display": "Belvedere di Murgia Timone, Strada Belvedere Murgia Timone, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Belvedere di Murgia Timone"
+    ],
+    "importance": 0.36831991052132845,
+    "rank": 0
+   },
+   {
+    "lat": 40.6640264,
+    "lng": 16.6177932,
+    "name": "Belvedere di Murgia Timone",
+    "source": "nominatim",
+    "osm_id": "node/304848354",
+    "wikidata": "Q3895535",
+    "osm_class": "tourism=viewpoint",
+    "locality": "Matera",
+    "display": "Belvedere di Murgia Timone, Strada Belvedere Murgia Timone, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Belvedere di Murgia Timone"
+    ],
+    "importance": 0.36831991052132845,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::iglesias rupestres del parque": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::ponte tibetano della gravina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::cammino materano": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::villaggio saraceno cripte del parco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::la pasion de cristo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::no time to die": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::el evangelio segun san mateo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "matera::tours tematicos de cine": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::callejear por la terra": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::concattedrale di santa maria assunta": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::piazza della liberta": {
+  "ok": true,
+  "lat": 40.732169,
+  "lng": 17.578165,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.839,
+  "name": "Piazza della Libertà",
+  "locality": "Ostuni",
+  "osm_class": "place=square",
+  "wikidata": "",
+  "display": "Piazza della Libertà, Ostuni, Brindisi, Puglia, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.7321693,
+    "lng": 17.5781652,
+    "name": "Piazza della Libertà",
+    "source": "nominatim",
+    "osm_id": "way/79628531",
+    "wikidata": "",
+    "osm_class": "place=square",
+    "locality": "Ostuni",
+    "display": "Piazza della Libertà, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Piazza della Libertà"
+    ],
+    "importance": 0.06672135423819332,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::palazzo vescovile y arco scoppa": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::porta san demetrio y las murallas aragonesas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::chiesa di san vito martire museo di civilta preclassiche della murgia": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::chiesa dello spirito santo": {
+  "ok": true,
+  "lat": 40.731465,
+  "lng": 17.578498,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.749,
+  "name": "Chiesa dello Spirito Santo",
+  "locality": "Ostuni",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q55172943",
+  "display": "Chiesa dello Spirito Santo, Piazza della Libertà, Ostuni, Brindisi, Puglia, 72017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7314648,
+    "lng": 17.5784975,
+    "name": "Chiesa dello Spirito Santo",
+    "source": "nominatim",
+    "osm_id": "way/421170860",
+    "wikidata": "Q55172943",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ostuni",
+    "display": "Chiesa dello Spirito Santo, Piazza della Libertà, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Chiesa dello Spirito Santo"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   },
+   {
+    "lat": 40.7314648,
+    "lng": 17.5784975,
+    "name": "Chiesa dello Spirito Santo",
+    "source": "nominatim",
+    "osm_id": "way/421170860",
+    "wikidata": "Q55172943",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ostuni",
+    "display": "Chiesa dello Spirito Santo, Piazza della Libertà, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Chiesa dello Spirito Santo"
+    ],
+    "importance": 0.04539457909600718,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::miradores del casco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::ulivi secolari monumentali": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::frantoi ipogei": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::masserie con cata de aceite": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::bodegas del valle ditria": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::marina di ostuni": {
+  "ok": true,
+  "lat": 40.793788,
+  "lng": 17.545018,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.725,
+  "name": "Rosa Marina di Ostuni",
+  "locality": "Ostuni",
+  "osm_class": "place=village",
+  "wikidata": "Q2636160",
+  "display": "Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7937878,
+    "lng": 17.5450183,
+    "name": "Rosa Marina di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/1401336708",
+    "wikidata": "Q2636160",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Rosa Marina di Ostuni"
+    ],
+    "importance": 0.32221217881594816,
+    "rank": 0
+   },
+   {
+    "lat": 40.7937878,
+    "lng": 17.5450183,
+    "name": "Rosa Marina di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/1401336708",
+    "wikidata": "Q2636160",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Rosa Marina di Ostuni"
+    ],
+    "importance": 0.32221217881594816,
+    "rank": 0
+   },
+   {
+    "lat": 40.7937878,
+    "lng": 17.5450183,
+    "name": "Rosa Marina di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/1401336708",
+    "wikidata": "Q2636160",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Rosa Marina di Ostuni"
+    ],
+    "importance": 0.32221217881594816,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::torre guaceto": {
+  "ok": true,
+  "lat": 40.705729,
+  "lng": 17.783026,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.747,
+  "name": "Riserva Naturale Statale di Torre Guaceto",
+  "locality": "Carovigno",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "Q3936925",
+  "display": "Riserva Naturale Statale di Torre Guaceto, Carovigno, Brindisi, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7197307,
+    "lng": 17.759074,
+    "name": "Parcheggio Porta della Riserva di Torre Guaceto",
+    "source": "nominatim",
+    "osm_id": "way/515850144",
+    "wikidata": "",
+    "osm_class": "amenity=parking",
+    "locality": "Carovigno",
+    "display": "Parcheggio Porta della Riserva di Torre Guaceto, Egnazia e delle Terme di Torre Canne, Torre Santa Sabina, Pantanagianni, Carovigno, Brindisi, Puglia, 72012, Italia",
+    "names_all": [
+     "Parcheggio Porta della Riserva di Torre Guaceto"
+    ],
+    "importance": 5.166018158231506e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.7057288,
+    "lng": 17.7830263,
+    "name": "Riserva Naturale Statale di Torre Guaceto",
+    "source": "nominatim",
+    "osm_id": "way/447480422",
+    "wikidata": "Q3936925",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Carovigno",
+    "display": "Riserva Naturale Statale di Torre Guaceto, Carovigno, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Riserva Naturale Statale di Torre Guaceto"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   },
+   {
+    "lat": 40.7057288,
+    "lng": 17.7830263,
+    "name": "Riserva Naturale Statale di Torre Guaceto",
+    "source": "nominatim",
+    "osm_id": "way/447480422",
+    "wikidata": "Q3936925",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Carovigno",
+    "display": "Riserva Naturale Statale di Torre Guaceto, Carovigno, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Riserva Naturale Statale di Torre Guaceto"
+    ],
+    "importance": 0.24158668584662718,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::egnazia": {
+  "ok": true,
+  "lat": 40.769108,
+  "lng": 17.624258,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.716,
+  "name": "Egnazia e delle Terme di Torre Canne",
+  "locality": "Ostuni",
+  "osm_class": "highway=trunk",
+  "wikidata": "",
+  "display": "Egnazia e delle Terme di Torre Canne, Villanova, Ostuni, Brindisi, Puglia, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7691079,
+    "lng": 17.6242576,
+    "name": "Egnazia e delle Terme di Torre Canne",
+    "source": "nominatim",
+    "osm_id": "way/513800072",
+    "wikidata": "",
+    "osm_class": "highway=trunk",
+    "locality": "Ostuni",
+    "display": "Egnazia e delle Terme di Torre Canne, Villanova, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Egnazia e delle Terme di Torre Canne"
+    ],
+    "importance": 0.053388020904859966,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::dune costiere di ostuni fasano": {
+  "ok": true,
+  "lat": 40.805951,
+  "lng": 17.514232,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.621,
+  "name": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo",
+  "locality": "Ostuni",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "Q3895662",
+  "display": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo, Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.8059513,
+    "lng": 17.5142315,
+    "name": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo",
+    "source": "nominatim",
+    "osm_id": "relation/9387026",
+    "wikidata": "Q3895662",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Ostuni",
+    "display": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo, Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo"
+    ],
+    "importance": 0.32771111640952466,
+    "rank": 0
+   },
+   {
+    "lat": 40.8059513,
+    "lng": 17.5142315,
+    "name": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo",
+    "source": "nominatim",
+    "osm_id": "relation/9387026",
+    "wikidata": "Q3895662",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Ostuni",
+    "display": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo, Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo"
+    ],
+    "importance": 0.32771111640952466,
+    "rank": 0
+   },
+   {
+    "lat": 40.8059513,
+    "lng": 17.5142315,
+    "name": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo",
+    "source": "nominatim",
+    "osm_id": "relation/9387026",
+    "wikidata": "Q3895662",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Ostuni",
+    "display": "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo, Rosa Marina di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Parco naturale regionale Dune costiere da Torre Canne a Torre San Leonardo"
+    ],
+    "importance": 0.32771111640952466,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::alberobello": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::locorotondo": {
+  "ok": true,
+  "lat": 40.657484,
+  "lng": 17.718164,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.625,
+  "name": "Ivo Locorotondo",
+  "locality": "San Vito dei Normanni",
+  "osm_class": "shop=car_repair",
+  "wikidata": "",
+  "display": "Ivo Locorotondo, Via Vincent Vangogh, San Vito dei Normanni, Brindisi, Puglia, 72019, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.6574838,
+    "lng": 17.7181642,
+    "name": "Ivo Locorotondo",
+    "source": "nominatim",
+    "osm_id": "node/9310794904",
+    "wikidata": "",
+    "osm_class": "shop=car_repair",
+    "locality": "San Vito dei Normanni",
+    "display": "Ivo Locorotondo, Via Vincent Vangogh, San Vito dei Normanni, Brindisi, Puglia, 72019, Italia",
+    "names_all": [
+     "Ivo Locorotondo"
+    ],
+    "importance": 5.277561608296357e-05,
+    "rank": 5
+   }
+  ]
+ },
+ "ostuni::cisternino": {
+  "ok": true,
+  "lat": 40.726671,
+  "lng": 17.519626,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.722,
+  "name": "Strada Provinciale 17 Ostuni-Cisternino",
+  "locality": "Ostuni",
+  "osm_class": "highway=secondary",
+  "wikidata": "",
+  "display": "Strada Provinciale 17 Ostuni-Cisternino, Contrada Badessa, Ostuni, Brindisi, Puglia, 72017, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.726671,
+    "lng": 17.5196263,
+    "name": "Strada Provinciale 17 Ostuni-Cisternino",
+    "source": "nominatim",
+    "osm_id": "way/470230662",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Ostuni",
+    "display": "Strada Provinciale 17 Ostuni-Cisternino, Contrada Badessa, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Strada Provinciale 17 Ostuni-Cisternino"
+    ],
+    "importance": 0.053388020904859966,
+    "rank": 0
+   },
+   {
+    "lat": 40.7429852,
+    "lng": 17.425745,
+    "name": "Cisternino",
+    "source": "nominatim",
+    "osm_id": "relation/40737",
+    "wikidata": "Q51863",
+    "osm_class": "boundary=administrative",
+    "locality": "Cisternino",
+    "display": "Cisternino, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Cisternino"
+    ],
+    "importance": 0.4400317604083171,
+    "rank": 0
+   },
+   {
+    "lat": 40.7429852,
+    "lng": 17.425745,
+    "name": "Cisternino",
+    "source": "nominatim",
+    "osm_id": "relation/40737",
+    "wikidata": "Q51863",
+    "osm_class": "boundary=administrative",
+    "locality": "Cisternino",
+    "display": "Cisternino, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Cisternino"
+    ],
+    "importance": 0.4400317604083171,
+    "rank": 0
+   }
+  ]
+ }
 }

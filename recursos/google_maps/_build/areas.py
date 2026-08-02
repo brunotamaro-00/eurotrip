@@ -135,11 +135,30 @@ _KATIA: list[Area] = [
     _a("chantilly", "París", 49.1937, 2.4855, "fr", "Chantilly", "France", "katia", 15, 0.18),
     _a("trossachs", "Highlands", 56.2400, -4.2200, "gb", "Callander", "UK", "occidental", 20, 0.25, "highlands"),
     _a("kamnik", "Liubliana", 46.3100, 14.6100, "si", "Kamnik", "Slovenia", "katia", 20, 0.25),
+]
+
+# ---------------------------------------------------------------------------
+# Destinos que faltaban en los 3 CSV regionales y salen de las notas propias
+# (`actividades.md`): Puglia, Sicilia y España.
+# ---------------------------------------------------------------------------
+_PROPIOS: list[Area] = [
+    _a("bari", "Bari", 41.1258, 16.8620, "it", "Bari", "Italy", "sur", 15, 0.18),
+    _a("lecce", "Lecce", 40.3515, 18.1750, "it", "Lecce", "Italy", "sur", 15, 0.18),
+    _a("matera", "Matera", 40.6664, 16.6043, "it", "Matera", "Italy", "sur", 15, 0.18),
+    _a("ostuni", "Ostuni", 40.7305, 17.5772, "it", "Ostuni", "Italy", "sur", 20, 0.25),
+    _a("palermo", "Palermo", 38.1157, 13.3615, "it", "Palermo", "Italy", "sur", 20, 0.25),
+    _a("catania", "Catania", 37.5079, 15.0830, "it", "Catania", "Italy", "sur", 25, 0.30),
+    _a("siracusa", "Siracusa", 37.0755, 15.2866, "it", "Siracusa", "Italy", "sur", 20, 0.25),
+    _a("agrigento", "Agrigento", 37.3111, 13.5765, "it", "Agrigento", "Italy", "sur", 20, 0.25),
+    _a("noto", "Noto", 36.8908, 15.0694, "it", "Noto", "Italy", "sur", 20, 0.25),
+    _a("ragusa", "Ragusa", 36.9270, 14.7255, "it", "Ragusa", "Italy", "sur", 20, 0.25),
+    _a("barcelona", "Barcelona", 41.3874, 2.1686, "es", "Barcelona", "Spain", "sur", 20, 0.25),
+    _a("madrid", "Madrid", 40.4168, -3.7038, "es", "Madrid", "Spain", "sur", 20, 0.25),
     _a("piran", "Costa Eslovena", 45.5285, 13.5683, "si", "Piran", "Slovenia", "katia", 20, 0.25),
 ]
 
 AREAS: dict[str, Area] = {
-    a.key: a for a in _BASE + _HIGHLANDS + _HIGHLANDS_EXTRA + _KATIA
+    a.key: a for a in _BASE + _HIGHLANDS + _HIGHLANDS_EXTRA + _KATIA + _PROPIOS
 }
 
 # Áreas que representan la base "Highlands" del CSV.

@@ -1,0 +1,60 @@
+ciudad,katia,regional,archivo,motivo
+Roma,Vittoriano (Altare della Patria),Monumento a Vittorio Emanuele II (Vittoriano / Altare della Patria),europa_del_sur.csv,mismo lugar_busqueda
+Roma,Piazza Navona,Piazza Navona,europa_del_sur.csv,mismo nombre
+Roma,Coliseo,Coliseo,europa_del_sur.csv,mismo nombre
+Roma,Foro Romano,Foro Romano + Palatino,europa_del_sur.csv,mismo lugar_busqueda
+Roma,Fontana di Trevi,Fontana di Trevi,europa_del_sur.csv,mismo nombre
+Roma,Campo de' Fiori,Campo de' Fiori,europa_del_sur.csv,mismo nombre
+Roma,Trastevere,Trastevere,europa_del_sur.csv,mismo nombre
+Roma,Basílica de San Pedro,Basílica de San Pedro,europa_del_sur.csv,mismo nombre
+Roma,Museos Vaticanos,Museos Vaticanos + Capilla Sixtina,europa_del_sur.csv,mismo lugar_busqueda
+Roma,Arco de Constantino,Arco de Constantino,europa_del_sur.csv,mismo nombre
+Roma,Castel Sant'Angelo,Castel Sant'Angelo,europa_del_sur.csv,mismo nombre
+Roma,Galleria Borghese,Galleria Borghese,europa_del_sur.csv,mismo nombre
+Roma,Monti,Monti,europa_del_sur.csv,mismo nombre
+Roma,Giardino degli Aranci,Giardino degli Aranci (Terraza del Aventino),europa_del_sur.csv,mismo lugar_busqueda
+Roma,Panteón de Roma,Panteón,europa_del_sur.csv,mismo lugar_busqueda
+Roma,Aventine Keyhole,Aventine Keyhole (Buco della serratura),europa_del_sur.csv,mismo lugar_busqueda
+Roma,Via Appia Antica,Via Appia Antica,europa_del_sur.csv,mismo nombre
+Roma,Quartiere Coppedè,Quartiere Coppedè,europa_del_sur.csv,mismo nombre
+Nápoles,Cappella Sansevero,Cappella Sansevero,europa_del_sur.csv,mismo nombre
+Nápoles,San Domenico Maggiore,Piazza del Gesù Nuovo e Piazza San Domenico Maggiore,europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Via dei Tribunali,Via dei Tribunali,europa_del_sur.csv,mismo nombre
+Nápoles,Spaccanapoli,Spaccanapoli,europa_del_sur.csv,mismo nombre
+Nápoles,Napoli Sotterranea,Napoli Sotterranea,europa_del_sur.csv,mismo nombre
+Nápoles,Quartieri Spagnoli,Quartieri Spagnoli (Barrio Español),europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Murales de Vico Totò,Quartieri Spagnoli (Barrio Español),europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Rione Sanità,Rione Sanità en general,europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Catacumbas de San Gennaro,Catacumbas de San Gennaro,europa_del_sur.csv,mismo nombre
+Nápoles,Lungomare Caracciolo,Lungomare,europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Castel dell'Ovo,Castel dell'Ovo,europa_del_sur.csv,mismo nombre
+Nápoles,Palacio Real de Nápoles,Palazzo Reale di Napoli,europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Piazza del Plebiscito,Piazza del Plebiscito,europa_del_sur.csv,mismo nombre
+Nápoles,Museo Arqueológico Nacional,Museo Arqueológico Nacional (MANN),europa_del_sur.csv,mismo lugar_busqueda
+Nápoles,Castel Sant'Elmo,Castel Sant'Elmo,europa_del_sur.csv,mismo nombre
+Nápoles,Cimitero delle Fontanelle,Cimitero delle Fontanelle,europa_del_sur.csv,mismo nombre
+Liubliana,Museo Nacional de Eslovenia,Galería Nacional de Eslovenia (Narodna Galerija),europa_central.csv,mismo lugar_busqueda
+Liubliana,Casco histórico de Liubliana,Stari trg y Mestni trg,europa_central.csv,mismo lugar_busqueda
+Liubliana,Castillo de Liubliana,Castillo de Liubliana (Ljubljanski grad),europa_central.csv,mismo lugar_busqueda
+Liubliana,Parque Tivoli,Tivoli Park,europa_central.csv,mismo nombre
+Liubliana,Puente de los Dragones,Puente del Dragón (Zmajski most),europa_central.csv,mismo lugar_busqueda
+Liubliana,Mercado Central de Liubliana,Plečnikove Arkade (Mercado Central),europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Castillo de Bled,Bled Castle / Blejski grad,europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Isla de Bled,Bled Island (isla),europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Mirador Ojstrica,Miradores Ojstrica + Mala Osojnica,europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Garganta de Vintgar,Vintgar Gorge,europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Lago Bohinj,Orillas del lago Bohinj,europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Cascada Savica,Slap Savica (cascada Savica),europa_central.csv,mismo lugar_busqueda
+Lagos Alpinos,Garganta de Mostnica,Mostnica Gorge + Valle de Voje,europa_central.csv,mismo lugar_busqueda
+Karst y Cuevas,Cuevas de Postojna,Postojna Cave,europa_central.csv,mismo lugar_busqueda
+Karst y Cuevas,Castillo de Predjama,Predjama Castle,europa_central.csv,mismo nombre
+Karst y Cuevas,Cuevas de Škocjan,Škocjan Caves (UNESCO),europa_central.csv,mismo lugar_busqueda
+Karst y Cuevas,Rakov Škocjan,Rakov Škocjan,europa_central.csv,mismo nombre
+Valle del Soča,Valle del Soča,SUP / baño en pozas del Soča,europa_central.csv,mismo lugar_busqueda
+Valle del Soča,Bovec,Bovec,europa_central.csv,mismo nombre
+Valle del Soča,Kobarid,Kobariški muzej / Museo de Kobarid,europa_central.csv,mismo lugar_busqueda
+Valle del Soča,Tolmin,Tolminska korita / Tolmin Gorges,europa_central.csv,mismo lugar_busqueda
+Valle del Soča,Cascada Kozjak,Slap Kozjak,europa_central.csv,mismo lugar_busqueda
+Costa Eslovena,Piran,Murallas de Piran (Piranske obzidje),europa_central.csv,mismo lugar_busqueda
+Costa Eslovena,Iglesia de San Jorge,Iglesia/campanario de San Jorge (Sv. Jurij),europa_central.csv,mismo lugar_busqueda
+Costa Eslovena,Koper,Koper,europa_central.csv,mismo nombre

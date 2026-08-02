@@ -1,108 +1,49 @@
 ciudad,nombre,prioridad,lat,lng,lugar_busqueda,tipo,precio,notas
-Roma,Vittoriano (Altare della Patria),Solo mapeado,41.894687,12.483066,"Altare della Patria, Roma, Italy",Monumento,,Vistas hermosas desde arriba
-Roma,Piazza Navona,Solo mapeado,41.898928,12.473118,"Piazza Navona, Roma, Italy",Plaza,,
 Roma,Piazza Venezia,Solo mapeado,41.896245,12.482370,"Piazza Venezia, Roma, Italy",Plaza,,
 Roma,Villa Borghese,Solo mapeado,41.914411,12.484844,"Villa Borghese, Roma, Italy",Parque,,
-Roma,Coliseo,Solo mapeado,41.890942,12.491903,"Colosseo, Roma, Italy",Sitio histórico,,Con guía o audio tour (Rick Steves es gratis); reservar por internet para evitar filas
-Roma,Foro Romano,Solo mapeado,41.892629,12.487049,"Foro Romano, Roma, Italy",Sitio histórico,,Entrada combinada con el Coliseo
 Roma,Museo Palatino,Solo mapeado,41.888304,12.486564,"Museo Palatino, Roma, Italy",Museo,,Historia de la fundación de Roma
 Roma,Basílica de Majencio,Solo mapeado,41.891816,12.488417,"Basilica di Massenzio, Roma, Italy",Sitio histórico,,"Está dentro del Foro Romano, no es una iglesia"
 Roma,Santa Maria Maggiore,Solo mapeado,41.897627,12.498470,"Basilica di Santa Maria Maggiore, Roma, Italy",Iglesia,,
 Roma,Santa Maria della Vittoria,Solo mapeado,41.904719,12.494189,"Santa Maria della Vittoria, Roma, Italy",Iglesia,,"El Éxtasis de Santa Teresa, de Bernini"
-Roma,Fontana di Trevi,Solo mapeado,41.900978,12.483285,"Fontana di Trevi, Roma, Italy",Monumento,,Katia: ir después de la 1 AM
-Roma,Campo de' Fiori,Solo mapeado,41.895577,12.472159,"Campo de' Fiori, Roma, Italy",Plaza,,Muy turístico
 Roma,Barrio judío (Ghetto),Solo mapeado,41.893147,12.477071,"Portico d'Ottavia, Roma, Italy",Barrio,,Ver las piedras de la memoria (Stolpersteine)
 Roma,Parioli,Solo mapeado,41.931050,12.488590,"Parioli, Roma, Italy",Barrio,,Katia: es tipo Palermo Chico
-Roma,Trastevere,Solo mapeado,41.891159,12.466846,"Trastevere, Roma, Italy",Barrio,,Bohemio; el mejor barrio para comer. Reddit avisa que se gentrificó y satura de turistas
 Roma,Muralla Aureliana,Solo mapeado,41.909053,12.487409,"Mura aureliane, Roma, Italy",Sitio histórico,,Menos turístico; Alan lo hizo con el tour de la Vespa
 Roma,Pirámide Cestia,Solo mapeado,41.876449,12.480854,"Piramide di Caio Cestio, Roma, Italy",Sitio histórico,,
-Roma,Basílica de San Pedro,Solo mapeado,41.902162,12.453713,"Basilica di San Pietro, Vatican City",Iglesia,,Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes
-Roma,Museos Vaticanos,Solo mapeado,41.904927,12.454622,"Musei Vaticani, Vatican City",Museo,,"No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)"
-Roma,Arco de Constantino,Solo mapeado,41.889762,12.490667,"Arco di Costantino, Roma, Italy",Monumento,,
-Roma,Castel Sant'Angelo,Solo mapeado,41.903118,12.466343,"Castel Sant'Angelo, Roma, Italy",Castillo,,Buenas vistas
-Roma,Galleria Borghese,Solo mapeado,41.914113,12.492105,"Galleria Borghese, Roma, Italy",Museo,,Katia: MUST. Reservar con anticipación
-Roma,Monti,Solo mapeado,41.891973,12.495658,"Monti, Roma, Italy",Barrio,,Buena escena vintage; vale callejear sin lista rígida
 Roma,Manufactus,Solo mapeado,41.899829,12.472619,"Manufactus, Roma, Italy",Tienda,,Souvenirs de cuero
-Roma,Giardino degli Aranci,Solo mapeado,41.885426,12.479908,"Giardino degli Aranci, Roma, Italy",Mirador,,"El mejor atardecer sobre Roma, lejos de Piazza di Spagna. Al lado del Aventine Keyhole"
 Roma,Biblioteca Angelica,Solo mapeado,41.900644,12.474552,"Biblioteca Angelica, Roma, Italy",Sitio histórico,,
-Roma,Panteón de Roma,Solo mapeado,41.898616,12.476833,"Pantheon, Roma, Italy",Sitio histórico,,Empezaron a cobrarlo. Tip de Reddit: ir mientras llueve para ver el agua caer por el óculo
-Roma,Aventine Keyhole,Solo mapeado,41.883486,12.477480,"Villa del Priorato di Malta, Roma, Italy",Mirador,,Por la cerradura de la puerta verde se ve la cúpula de San Pedro enmarcada
-Roma,Via Appia Antica,Solo mapeado,41.869763,12.502111,"Via Appia Antica, Roma, Italy",Sitio histórico,,"Alquilar bici eléctrica el domingo, cuando cierran al tráfico. Ruinas, catacumbas y campo"
-Roma,Quartiere Coppedè,Solo mapeado,41.918364,12.502189,"Quartiere Coppedè, Roma, Italy",Barrio,,Barrio minúsculo que parece un cuento de hadas. Cero turistas
 Roma,Auditorium Parco della Musica,Solo mapeado,41.929193,12.475128,"Auditorium Parco della Musica Ennio Morricone, Roma, Italy",Teatro,,Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche
 Nápoles,Catedral de Nápoles,Solo mapeado,40.852653,14.259870,"Cattedrale di Santa Maria Assunta, Napoli, Italy",Catedral,,
-Nápoles,Cappella Sansevero,Solo mapeado,40.849299,14.254933,"Cappella Sansevero, Napoli, Italy",Iglesia,,El Cristo Velado. Reservar con anticipación
-Nápoles,San Domenico Maggiore,Solo mapeado,40.848975,14.254270,"Basilica di San Domenico Maggiore, Napoli, Italy",Iglesia,,
 Nápoles,Santa Chiara,Solo mapeado,40.846823,14.252910,"Basilica di Santa Chiara, Napoli, Italy",Iglesia,,Ir al claustro de mayólicas
 Nápoles,Gesù Nuovo,Solo mapeado,40.847558,14.251874,"Chiesa del Gesù Nuovo, Napoli, Italy",Iglesia,,Fachada de puntas de diamante
-Nápoles,Via dei Tribunali,Solo mapeado,40.849883,14.253935,"Via dei Tribunali, Napoli, Italy",Calle,,Calle principal del centro storico
 Nápoles,Via San Gregorio Armeno,Solo mapeado,40.849777,14.257981,"Via San Gregorio Armeno, Napoli, Italy",Calle,,La calle de los pesebres
-Nápoles,Spaccanapoli,Solo mapeado,40.849562,14.261901,"Spaccanapoli, Napoli, Italy",Calle,,La calle que parte Nápoles al medio
-Nápoles,Napoli Sotterranea,Solo mapeado,40.851079,14.256847,"Napoli Sotterranea, Napoli, Italy",Sitio histórico,,Túneles griegos y romanos. Acceso habitual por Piazza San Gaetano
 Nápoles,San Lorenzo Maggiore,Solo mapeado,40.850920,14.258040,"Basilica di San Lorenzo Maggiore, Napoli, Italy",Iglesia,,Otro acceso a la Nápoles subterránea
-Nápoles,Quartieri Spagnoli,Solo mapeado,40.841483,14.246423,"Quartieri Spagnoli, Napoli, Italy",Barrio,,
 Nápoles,Via Toledo,Solo mapeado,40.841677,14.248754,"Via Toledo, Napoli, Italy",Calle,,
-Nápoles,Murales de Vico Totò,Solo mapeado,40.858438,14.252230,"Quartieri Spagnoli, Napoli, Italy",Sitio histórico,,Murales del callejón
 Nápoles,Mural de Maradona,Solo mapeado,40.849694,14.201474,"Murales di Maradona, Napoli, Italy",Sitio histórico,,En los Quartieri Spagnoli
-Nápoles,Rione Sanità,Solo mapeado,40.857644,14.251961,"Rione Sanità, Napoli, Italy",Barrio,,Vibrante y auténtico; solía ser peligroso y renace por cooperativas locales
-Nápoles,Catacumbas de San Gennaro,Solo mapeado,40.863784,14.247058,"Catacombe di San Gennaro, Napoli, Italy",Sitio histórico,,En el Rione Sanità
-Nápoles,Lungomare Caracciolo,Solo mapeado,40.830442,14.244684,"Via Partenope, Napoli, Italy",Paseo,,Vistas al Vesubio. Evitar los restaurantes turísticos del paseo
-Nápoles,Castel dell'Ovo,Solo mapeado,40.828315,14.247656,"Castel dell'Ovo, Napoli, Italy",Castillo,,Vistas del Vesubio desde el Lungomare
 Nápoles,Castel Nuovo,Solo mapeado,40.838317,14.253731,"Castel Nuovo, Napoli, Italy",Castillo,,
 Nápoles,Galleria Umberto I,Solo mapeado,40.838514,14.249240,"Galleria Umberto I, Napoli, Italy",Sitio histórico,,
 Nápoles,Teatro di San Carlo,Solo mapeado,40.837374,14.249813,"Teatro di San Carlo, Napoli, Italy",Teatro,,teatrosancarlo.it
-Nápoles,Palacio Real de Nápoles,Solo mapeado,40.836480,14.250320,"Palazzo Reale di Napoli, Napoli, Italy",Palacio,,Sobre la Piazza del Plebiscito
-Nápoles,Piazza del Plebiscito,Solo mapeado,40.835856,14.248565,"Piazza del Plebiscito, Napoli, Italy",Plaza,,
 Nápoles,Palazzo Salerno,Solo mapeado,40.834876,14.249748,"Palazzo Salerno, Napoli, Italy",Palacio,,En la Piazza del Plebiscito
 Nápoles,San Francesco di Paola,Solo mapeado,40.835599,14.247336,"Basilica di San Francesco di Paola, Napoli, Italy",Iglesia,,En la Piazza del Plebiscito
 Nápoles,Palazzo della Prefettura,Solo mapeado,40.836569,14.248216,"Palazzo della Prefettura, Napoli, Italy",Palacio,,En la Piazza del Plebiscito
-Nápoles,Museo Arqueológico Nacional,Solo mapeado,40.853606,14.251150,"Museo Archeologico Nazionale di Napoli, Napoli, Italy",Museo,,Los mosaicos y frescos de Pompeya están acá
-Nápoles,Castel Sant'Elmo,Solo mapeado,40.843707,14.239252,"Castel Sant'Elmo, Napoli, Italy",Castillo,,Funicular hasta Vomero. Las mejores vistas 360° del Vesubio y la ciudad
 Nápoles,Real Bosco di Capodimonte,Solo mapeado,40.874251,14.255113,"Real Bosco di Capodimonte, Napoli, Italy",Parque,,
 Nápoles,Piazza Dante,Solo mapeado,40.849156,14.250303,"Piazza Dante, Napoli, Italy",Plaza,,
-Nápoles,Cimitero delle Fontanelle,Solo mapeado,40.858026,14.239010,"Cimitero delle Fontanelle, Napoli, Italy",Cementerio,,"Cantera con miles de cráneos; los napolitanos adoptaban uno y le rezaban. Suele estar en restauración, verificar antes"
 Nápoles,Vomero,Solo mapeado,40.843846,14.225482,"Vomero, Napoli, Italy",Barrio,,Barrio en la colina; se llega en funicular
 Liubliana,Metelkova Mesto,Solo mapeado,46.056914,14.516926,"Metelkova, Ljubljana, Slovenia",Barrio,,Ex cuartel militar yugoslavo okupado y autogestionado desde los 90. Recorrer de día; de noche siempre hay bandas en vivo
-Liubliana,Museo Nacional de Eslovenia,Solo mapeado,46.052072,14.499536,"Narodni muzej Slovenije, Ljubljana, Slovenia",Museo,,
 Liubliana,Museo Etnográfico Esloveno,Solo mapeado,46.054976,14.516175,"Slovenski etnografski muzej, Ljubljana, Slovenia",Museo,,
-Liubliana,Casco histórico de Liubliana,Solo mapeado,46.046713,14.506748,"Stari trg, Ljubljana, Slovenia",Casco histórico,,Paseo por el río; restaurantes a la orilla
-Liubliana,Castillo de Liubliana,Solo mapeado,46.048782,14.508538,"Ljubljanski grad, Ljubljana, Slovenia",Castillo,,Se sube caminando o en funicular. Museo y tour de la historia del castillo
 Liubliana,Catedral de San Nicolás,Solo mapeado,46.050763,14.508252,"Stolnica sv. Nikolaja, Ljubljana, Slovenia",Catedral,,Puertas de bronce
 Liubliana,Iglesia Franciscana de la Anunciación,Solo mapeado,46.051899,14.506077,"Frančiškanska cerkev Marijinega oznanjenja, Ljubljana, Slovenia",Iglesia,,La iglesia rosa de Prešernov trg
 Liubliana,Plaza del Congreso,Solo mapeado,46.050172,14.503852,"Kongresni trg, Ljubljana, Slovenia",Plaza,,
 Liubliana,Triple Puente,Solo mapeado,46.051133,14.506210,"Tromostovje, Ljubljana, Slovenia",Puente,,De Plečnik. Entender a Plečnik es entender Liubliana
-Liubliana,Parque Tivoli,Solo mapeado,46.055146,14.495728,"Park Tivoli, Ljubljana, Slovenia",Parque,,
-Liubliana,Puente de los Dragones,Solo mapeado,46.051932,14.510414,"Zmajski most, Ljubljana, Slovenia",Puente,,A Liubliana le dicen la ciudad de los dragones
-Liubliana,Mercado Central de Liubliana,Solo mapeado,46.051396,14.508070,"Plečnikove arkade, Ljubljana, Slovenia",Mercado,,Arcadas de Plečnik. Los viernes Open Kitchen con food trucks (verano)
 Liubliana,Biblioteca Nacional (NUK),Solo mapeado,46.047533,14.503717,"Narodna in univerzitetna knjižnica, Ljubljana, Slovenia",Sitio histórico,,Obra maestra de Plečnik
 Liubliana,Cementerio Žale,Solo mapeado,46.071457,14.532351,"Žale, Ljubljana, Slovenia",Cementerio,,De Plečnik
 Liubliana,Velika Planina,Solo mapeado,46.295936,14.652010,"Velika planina, Kamnik, Slovenia",Paisaje,,Day trip: meseta alpina con cabañas tradicionales. Auto hasta Kamnik + teleférico + caminata. Solo si el clima acompaña
 Lagos Alpinos,Lago Bled,Solo mapeado,46.363913,14.093807,"Blejsko jezero, Bled, Slovenia",Lago,,40' en auto. Caminatas alrededor del lago
-Lagos Alpinos,Castillo de Bled,Solo mapeado,46.369703,14.100521,"Blejski grad, Bled, Slovenia",Castillo,,
-Lagos Alpinos,Isla de Bled,Solo mapeado,46.362293,14.090048,"Blejski otok, Bled, Slovenia",Sitio histórico,,Se llega en pletna (barca típica) o en bote de remos
-Lagos Alpinos,Mirador Ojstrica,Solo mapeado,46.359633,14.078458,"Ojstrica, Bled, Slovenia",Mirador,,"Mini trekking. Con lluvia reciente, priorizar Ojstrica sobre los miradores más altos"
 Lagos Alpinos,Mirador Mala Osojnica,Solo mapeado,46.357560,14.081014,"Mala Osojnica, Bled, Slovenia",Mirador,,Mini trekking. La postal clásica del lago
-Lagos Alpinos,Garganta de Vintgar,Solo mapeado,46.398617,14.092748,"Soteska Vintgar, Podhom, Slovenia",Naturaleza,,Reservar slot por horario en tickets.vintgar.si; abre 9-15h. Recorrido en un solo sentido; se vuelve por el bosque (40-60') o en shuttle
-Lagos Alpinos,Lago Bohinj,Solo mapeado,46.282265,13.864531,"Bohinjsko jezero, Ribčev Laz, Slovenia",Lago,,"30' en auto desde Bled. El lago alpino más grande de Eslovenia, dentro del PN Triglav. Más salvaje y menos turístico que Bled"
-Lagos Alpinos,Cascada Savica,Solo mapeado,46.283727,13.842399,"Savica, Ukanc, Slovenia",Cascada,,Subida de ~550 escalones; sendero corto pero pica
-Lagos Alpinos,Garganta de Mostnica,Solo mapeado,46.298117,13.885490,"Korita Mostnice, Stara Fužina, Slovenia",Naturaleza,,"2-3 hs solo la garganta, 3-3.5 hs si se estira hacia Voje"
 Lagos Alpinos,Teleférico de Vogel,Solo mapeado,46.257834,13.835595,"Vogel, Ukanc, Slovenia",Teleférico,,Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento
-Karst y Cuevas,Cuevas de Postojna,Solo mapeado,45.782711,14.203855,"Postojnska jama, Veliki Otok, Slovenia",Cueva,,"Katia: descartado en favor de Škocjan. 1 hs desde Bled, 40' desde Liubliana. Se recomienda reserva previa"
-Karst y Cuevas,Castillo de Predjama,Solo mapeado,45.815734,14.126592,"Predjamski grad, Predjama, Slovenia",Castillo,,Castillo encastrado en la boca de una cueva
-Karst y Cuevas,Cuevas de Škocjan,Solo mapeado,45.662066,13.984480,"Škocjanske jame, Matavun, Slovenia",Cueva,,"Alan dice que son las mejores de todas. Tours cada hora de 10 a 15h en octubre; 1.5-3 hs; 12°C adentro, llevar abrigo y calzado con agarre"
-Karst y Cuevas,Rakov Škocjan,Solo mapeado,45.786116,14.299133,"Rakov Škocjan, Cerknica, Slovenia",Naturaleza,,"Valle kárstico con puentes naturales. Circular, ~3 hs, sin depender de horarios de tour"
 Karst y Cuevas,Veliki naravni most,Solo mapeado,45.795392,14.288260,"Veliki naravni most, Cerknica, Slovenia",Naturaleza,,En Rakov Škocjan
 Karst y Cuevas,Mali naravni most,Solo mapeado,45.791628,14.306230,"Mali naravni most, Zelše, Slovenia",Naturaleza,,En Rakov Škocjan
-Valle del Soča,Valle del Soča,Solo mapeado,46.323930,13.565052,"Soča, Bovec, Slovenia",Valle,,1 hs 30' en auto desde Bled; hay que entrar y salir de Italia. En bus no se puede. Capital del hiking en Eslovenia
-Valle del Soča,Bovec,Solo mapeado,46.338585,13.552419,"Bovec, Slovenia",Pueblo,,Base de actividades de naturaleza del valle
-Valle del Soča,Kobarid,Solo mapeado,46.245546,13.579170,"Kobarid, Slovenia",Pueblo,,Frente del Isonzo en la Primera Guerra: de lo más duro entre Italia y el Imperio austrohúngaro
-Valle del Soča,Tolmin,Solo mapeado,46.182921,13.733338,"Tolmin, Slovenia",Pueblo,,
-Valle del Soča,Cascada Kozjak,Solo mapeado,46.259103,13.590393,"Slap Kozjak, Kobarid, Slovenia",Cascada,,
 Valle del Soča,Gargantas de Tolmin,Solo mapeado,46.198201,13.740314,"Tolminska korita, Zadlaz - Čadrg, Slovenia",Naturaleza,,
 Valle del Soča,Paso de Vršič,Solo mapeado,46.434779,13.743712,"Prelaz Vršič, Bovec, Slovenia",Ruta,,Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla
-Costa Eslovena,Piran,Solo mapeado,45.528492,13.568449,"Piran, Slovenia",Pueblo,,Katia: descartado — la costa adriática la vamos a tener en Italia y no es verano. 1 hs 30' desde Liubliana. El casco es sin autos: estacionar en Fornače/Arze
-Costa Eslovena,Iglesia de San Jorge,Solo mapeado,45.529670,13.568329,"Sv. Jurij, Piran, Slovenia",Iglesia,,"Katia: descartado — junto con todo Piran. Es mirador, 20-40 min"
-Costa Eslovena,Koper,Solo mapeado,45.547986,13.730478,"Koper, Slovenia",Ciudad,,Noche del Día 4 y donde se devuelve el auto; al otro día bus a Trieste
 Trieste,Piazza Unità d'Italia,Solo mapeado,45.650100,13.767703,"Piazza Unità d'Italia, Trieste, Italy",Plaza,,"La plaza principal, abierta al mar. Recorrer también el waterfront"
 Trieste,Castillo de Miramare,Solo mapeado,45.702532,13.712456,"Castello di Miramare, Trieste, Italy",Castillo,,"El wow visual de Trieste, pero consume traslado. Solo si da el horario"
 Trieste,Caffè degli Specchi,Solo mapeado,45.650106,13.768416,"Caffè degli Specchi, Trieste, Italy",Café,,"Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana"
