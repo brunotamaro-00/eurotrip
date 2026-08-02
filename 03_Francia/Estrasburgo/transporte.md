@@ -62,7 +62,9 @@
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
+| **[Baden-Baden](Day_trips/Baden-Baden.md)** 🇩🇪 | TER + DB vía **Appenweier** (+ bus 201 al centro) | ~45 min–1h | **~€15–25** | ❌ No conviene | Termas Friedrichsbad (~€35–45) / Caracalla (~€19–25) |
 | **Obernai** | TER (línea Estrasburgo–Sélestat) | ~30 min | **~€8–12 return** | ❌ No conviene (barato) | Pueblo alsaciano clásico |
+| **Sélestat** | TER | ~25 min | **~€8–14** | ❌ No conviene | Bibliothèque Humaniste (UNESCO Memoria del Mundo) |
 | **Kehl (Alemania)** | **Tram línea D** | ~15 min | **€1.90** (o pase 24h) | — (urbano) | Cruzar a pie el puente de los Dos Orillas |
 | **Barrio europeo** (Parlamento/UE) | Tram E/A + a pie, o bici | ~15 min | €1.90 | — | Instituciones europeas |
 | **Colmar** (como ida y vuelta) | TER directo | 30–35 min | **€7–12 ida** | ❌ No conviene | Mejor base propia (ver Colmar) |
