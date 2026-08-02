@@ -150,7 +150,7 @@ LABEL_TO_KEYS: dict[str, list[str]] = {}
 for _area in AREAS.values():
     LABEL_TO_KEYS.setdefault(_area.label, []).append(_area.key)
 
-COUNTRIES_EN: set[str] = {a.country_en for a in AREAS.values()}
+COUNTRIES_EN: set[str] = {a.country_en for a in AREAS.values()} | {"Vatican City"}
 
 
 def area_for_label(label: str) -> Area:

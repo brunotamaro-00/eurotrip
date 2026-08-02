@@ -77,6 +77,15 @@ está en su docstring. El reemplazo:
 `overrides.json` tiene ese esquema a propósito: 92 de las 585 filas originales se habían
 tipeado a mano sin dejar ninguna traza de dónde salieron.
 
+### Ojo con el rate limit de Nominatim
+
+`nominatim_search()` tragaba el HTTP 429 con un `except` genérico y devolvía lista vacía, así
+que **un rate limit se veía idéntico a "este lugar no existe"**. Ya está arreglado (lanza
+`RateLimited` y reintenta con backoff), pero los conteos de "sin resolver" y los FAIL del
+round-trip que se midieron antes del arreglo están inflados: parte de esos casos eran 429, no
+lugares inexistentes. Conviene re-correr `build_katia.py --geocode` y `verify_search.py` con el
+código nuevo, sin otro proceso consumiendo el límite en paralelo.
+
 ### Pendiente
 
 - Auditoría de coordenadas de las 512 filas fuera de Highlands (`audit_existing.py --out audit_full.csv`).

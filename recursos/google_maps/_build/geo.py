@@ -272,17 +272,43 @@ def _primary_class(tags: dict) -> str:
 # ---------------------------------------------------------------------------
 # Nominatim
 # ---------------------------------------------------------------------------
+class RateLimited(Exception):
+    """Nominatim devolvió 429. NO es lo mismo que 'no hay resultados'."""
+
+
 def nominatim_search(query: str, area: Area | None, bounded: bool, limit: int = 8) -> list[Candidate]:
+    """Devuelve candidatos. Lanza RateLimited si nos están limitando.
+
+    Distinguir el 429 de la lista vacía es importante: con un `except Exception:
+    return []` genérico, un rate limit se veía exactamente igual que "este lugar
+    no existe", y eso marcaba lugares perfectamente válidos como sin resolver.
+    """
     params = {"q": query, "format": "jsonv2", "limit": limit, "addressdetails": 1, "extratags": 1}
     if area is not None and bounded:
         params["countrycodes"] = area.country
         params["viewbox"] = area.viewbox
         params["bounded"] = 1
-    _throttle("nominatim", SLEEP_NOMINATIM)
-    try:
-        data = json.loads(_get(f"{NOMINATIM}?{urllib.parse.urlencode(params)}"))
-    except Exception:
-        return []
+
+    url = f"{NOMINATIM}?{urllib.parse.urlencode(params)}"
+    for intento in range(4):
+        _throttle("nominatim", SLEEP_NOMINATIM)
+        try:
+            data = json.loads(_get(url))
+            break
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                if intento == 3:
+                    raise RateLimited(f"429 tras {intento + 1} intentos: {query!r}") from e
+                time.sleep(20 * (intento + 1))   # 20s, 40s, 60s
+                continue
+            if e.code in (502, 503, 504):
+                time.sleep(5 * (intento + 1))
+                continue
+            return []
+        except Exception:
+            return []
+    else:
+        raise RateLimited(f"sin respuesta utilizable: {query!r}")
     out: list[Candidate] = []
     for i, r in enumerate(data):
         addr = r.get("address", {})
