@@ -10720,16 +10720,17 @@
   "region": "sur",
   "seccion": "🏺 Noto Antica y alrededores inmediatos",
   "nombre": "Riserva Naturale di Vendicari",
-  "nombre_local": "Riserva Naturale di Vendicari",
+  "nombre_local": "Riserva naturale orientata Oasi Faunistica di Vendicari",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "A 15 min. Ver ../Siracusa/Day_trips/Vendicari.md",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.804325,
+  "lng": 15.092826,
+  "origen_geo": "nominatim",
+  "locality": "Noto"
  },
  {
   "id": "noto--lido-di-noto-noto-marina",
@@ -10743,16 +10744,17 @@
   "region": "sur",
   "seccion": "🏺 Noto Antica y alrededores inmediatos",
   "nombre": "Lido di Noto / Noto Marina",
-  "nombre_local": "Lido di Noto / Noto Marina",
+  "nombre_local": "Lido di Noto",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "La playa, a 7 km. En noviembre está vacía; el paseo funciona. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.861456,
+  "lng": 15.115043,
+  "origen_geo": "nominatim",
+  "locality": "Noto"
  },
  {
   "id": "noto--terrazas-y-campanarios",
@@ -10842,9 +10844,10 @@
   "precio": "~€4-6",
   "notas": "Colonia griega junto al mar, fundada por Siracusa, casi sin visitantes. A 15 min. (~€4-6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.842278,
+  "lng": 15.107004,
+  "origen_geo": "nominatim",
+  "locality": "Noto"
  },
  {
   "id": "noto--cava-grande-del-cassibile",
@@ -10911,9 +10914,10 @@
   "precio": "",
   "notas": "Obra maestra de Rosario Gagliardi (1738-75): fachada convexa de tres cuerpos que se eleva sobre una escalinata monumental, con cúpula neoclásica. Está girada respecto de la plaza, de modo qu",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.926547,
+  "lng": 14.7423,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--piazza-duomo",
@@ -10934,9 +10938,10 @@
   "precio": "",
   "notas": "Plaza alargada en pendiente, con palmeras y palacios, delante de San Giorgio. La postal de Ibla. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.926279,
+  "lng": 14.743782,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--chiesa-di-san-giuseppe",
@@ -10957,9 +10962,10 @@
   "precio": "~€2-3",
   "notas": "La otra iglesia de Gagliardi, con fachada curva más íntima y pavimento de mayólica adentro. (~€2-3)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.925695,
+  "lng": 14.744787,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--duomo-di-san-giorgio-vecchio-portale",
@@ -11003,9 +11009,10 @@
   "precio": "",
   "notas": "Jardín público del s. XIX en el borde del espolón, con paseo de palmeras, tres iglesias dentro y un mirador sobre el valle del Irminio. Es el mejor lugar de Ibla al atardecer. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.925979,
+  "lng": 14.74867,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--chiesa-di-santa-maria-dei-miracoli-san-giacomo-dei-cappuccin",
@@ -11049,9 +11056,10 @@
   "precio": "",
   "notas": "Salón del casino aristocrático del s. XIX, con interiores neoclásicos intactos; se puede espiar desde la puerta. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.926372,
+  "lng": 14.744253,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--palazzo-cosentini-palazzo-la-rocca-palazzo-nicastro",
@@ -11141,9 +11149,10 @@
   "precio": "",
   "notas": "La catedral de la ciudad nueva (1718-60), con fachada de tres cuerpos y campanario. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.925673,
+  "lng": 14.728682,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--chiesa-di-santa-maria-delle-scale",
@@ -11164,9 +11173,10 @@
   "precio": "",
   "notas": "En el borde del barranco, en el arranque de la escalinata; mezcla de gótico superviviente y barroco. Desde su atrio se ve Ibla entera — el mirador más famoso de la ciudad. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.925224,
+  "lng": 14.735157,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--corso-italia-y-via-roma",

@@ -33746,5 +33746,778 @@
     "rank": 0
    }
   ]
+ },
+ "noto::riserva naturale di vendicari": {
+  "ok": true,
+  "lat": 36.804325,
+  "lng": 15.092826,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.729,
+  "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+  "locality": "Noto",
+  "osm_class": "leisure=nature_reserve",
+  "wikidata": "Q639351",
+  "display": "Riserva naturale orientata Oasi Faunistica di Vendicari, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8043252,
+    "lng": 15.0928261,
+    "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+    "source": "nominatim",
+    "osm_id": "relation/3094037",
+    "wikidata": "Q639351",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Noto",
+    "display": "Riserva naturale orientata Oasi Faunistica di Vendicari, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Riserva naturale orientata Oasi Faunistica di Vendicari"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   },
+   {
+    "lat": 36.8043252,
+    "lng": 15.0928261,
+    "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+    "source": "nominatim",
+    "osm_id": "relation/3094037",
+    "wikidata": "Q639351",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Noto",
+    "display": "Riserva naturale orientata Oasi Faunistica di Vendicari, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Riserva naturale orientata Oasi Faunistica di Vendicari"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   },
+   {
+    "lat": 36.8043252,
+    "lng": 15.0928261,
+    "name": "Riserva naturale orientata Oasi Faunistica di Vendicari",
+    "source": "nominatim",
+    "osm_id": "relation/3094037",
+    "wikidata": "Q639351",
+    "osm_class": "leisure=nature_reserve",
+    "locality": "Noto",
+    "display": "Riserva naturale orientata Oasi Faunistica di Vendicari, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Riserva naturale orientata Oasi Faunistica di Vendicari"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::lido di noto noto marina": {
+  "ok": true,
+  "lat": 36.861456,
+  "lng": 15.115043,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.738,
+  "name": "Lido di Noto",
+  "locality": "Noto",
+  "osm_class": "tourism=apartment",
+  "wikidata": "",
+  "display": "Lido di Noto, Via Vela, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8614558,
+    "lng": 15.1150431,
+    "name": "Lido di Noto",
+    "source": "nominatim",
+    "osm_id": "node/7882160900",
+    "wikidata": "",
+    "osm_class": "tourism=apartment",
+    "locality": "Noto",
+    "display": "Lido di Noto, Via Vela, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Lido di Noto"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   },
+   {
+    "lat": 36.8614558,
+    "lng": 15.1150431,
+    "name": "Lido di Noto",
+    "source": "nominatim",
+    "osm_id": "node/7882160900",
+    "wikidata": "",
+    "osm_class": "tourism=apartment",
+    "locality": "Noto",
+    "display": "Lido di Noto, Via Vela, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Lido di Noto"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   },
+   {
+    "lat": 36.8614558,
+    "lng": 15.1150431,
+    "name": "Lido di Noto",
+    "source": "nominatim",
+    "osm_id": "node/7882160900",
+    "wikidata": "",
+    "osm_class": "tourism=apartment",
+    "locality": "Noto",
+    "display": "Lido di Noto, Via Vela, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Lido di Noto"
+    ],
+    "importance": 5.8925001907332225e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::terrazas y campanarios": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::noto de noche": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::convento del santissimo salvatore museo civico": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::eloro": {
+  "ok": true,
+  "lat": 36.842278,
+  "lng": 15.107004,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.762,
+  "name": "Eloro",
+  "locality": "Noto",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q1333237",
+  "display": "Eloro, ex Via Elorina, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.8422783,
+    "lng": 15.1070043,
+    "name": "Eloro",
+    "source": "nominatim",
+    "osm_id": "way/66420957",
+    "wikidata": "Q1333237",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Noto",
+    "display": "Eloro, ex Via Elorina, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Eloro"
+    ],
+    "importance": 0.43346475139721696,
+    "rank": 0
+   },
+   {
+    "lat": 36.8422783,
+    "lng": 15.1070043,
+    "name": "Eloro",
+    "source": "nominatim",
+    "osm_id": "way/66420957",
+    "wikidata": "Q1333237",
+    "osm_class": "tourism=attraction",
+    "locality": "Noto",
+    "display": "Eloro, ex Via Elorina, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Eloro"
+    ],
+    "importance": 0.43346475139721696,
+    "rank": 0
+   },
+   {
+    "lat": 36.8422783,
+    "lng": 15.1070043,
+    "name": "Eloro",
+    "source": "nominatim",
+    "osm_id": "way/66420957",
+    "wikidata": "Q1333237",
+    "osm_class": "tourism=attraction",
+    "locality": "Noto",
+    "display": "Eloro, ex Via Elorina, Lido di Noto, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Eloro"
+    ],
+    "importance": 0.43346475139721696,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::cava grande del cassibile": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::infiorata di noto": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::duomo di san giorgio": {
+  "ok": true,
+  "lat": 36.926547,
+  "lng": 14.7423,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.762,
+  "name": "Duomo di San Giorgio",
+  "locality": "Ragusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q752501",
+  "display": "Duomo di San Giorgio, Via Capitano Bocchieri, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.926547,
+    "lng": 14.7422996,
+    "name": "Duomo di San Giorgio",
+    "source": "nominatim",
+    "osm_id": "way/160916407",
+    "wikidata": "Q752501",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Duomo di San Giorgio, Via Capitano Bocchieri, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Duomo di San Giorgio"
+    ],
+    "importance": 0.3298727163953751,
+    "rank": 0
+   },
+   {
+    "lat": 36.926547,
+    "lng": 14.7422996,
+    "name": "Duomo di San Giorgio",
+    "source": "nominatim",
+    "osm_id": "way/160916407",
+    "wikidata": "Q752501",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Duomo di San Giorgio, Via Capitano Bocchieri, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Duomo di San Giorgio"
+    ],
+    "importance": 0.3298727163953751,
+    "rank": 0
+   },
+   {
+    "lat": 36.926547,
+    "lng": 14.7422996,
+    "name": "Duomo di San Giorgio",
+    "source": "nominatim",
+    "osm_id": "way/160916407",
+    "wikidata": "Q752501",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Duomo di San Giorgio, Via Capitano Bocchieri, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Duomo di San Giorgio"
+    ],
+    "importance": 0.3298727163953751,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::piazza duomo": {
+  "ok": true,
+  "lat": 36.926279,
+  "lng": 14.743782,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.83,
+  "name": "Piazza Duomo",
+  "locality": "Ragusa",
+  "osm_class": "place=square",
+  "wikidata": "Q125823484",
+  "display": "Piazza Duomo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 36.9262793,
+    "lng": 14.743782,
+    "name": "Piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "way/208603224",
+    "wikidata": "Q125823484",
+    "osm_class": "place=square",
+    "locality": "Ragusa",
+    "display": "Piazza Duomo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Piazza Duomo"
+    ],
+    "importance": 0.06672789272907606,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::chiesa di san giuseppe": {
+  "ok": true,
+  "lat": 36.925695,
+  "lng": 14.744787,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.759,
+  "name": "Chiesa di San Giuseppe",
+  "locality": "Ragusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1255764",
+  "display": "Chiesa di San Giuseppe, Piazza Pola, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.925695,
+    "lng": 14.7447872,
+    "name": "Chiesa di San Giuseppe",
+    "source": "nominatim",
+    "osm_id": "way/207083335",
+    "wikidata": "Q1255764",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di San Giuseppe, Piazza Pola, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di San Giuseppe"
+    ],
+    "importance": 0.31243468429384014,
+    "rank": 0
+   },
+   {
+    "lat": 36.925695,
+    "lng": 14.7447872,
+    "name": "Chiesa di San Giuseppe",
+    "source": "nominatim",
+    "osm_id": "way/207083335",
+    "wikidata": "Q1255764",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di San Giuseppe, Piazza Pola, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di San Giuseppe"
+    ],
+    "importance": 0.31243468429384014,
+    "rank": 1
+   },
+   {
+    "lat": 36.925695,
+    "lng": 14.7447872,
+    "name": "Chiesa di San Giuseppe",
+    "source": "nominatim",
+    "osm_id": "way/207083335",
+    "wikidata": "Q1255764",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di San Giuseppe, Piazza Pola, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di San Giuseppe"
+    ],
+    "importance": 0.31243468429384014,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::duomo di san giorgio vecchio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::giardino ibleo": {
+  "ok": true,
+  "lat": 36.925979,
+  "lng": 14.74867,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.753,
+  "name": "Giardino Ibleo",
+  "locality": "Ragusa",
+  "osm_class": "leisure=park",
+  "wikidata": "Q3763861",
+  "display": "Giardino Ibleo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9259794,
+    "lng": 14.7486699,
+    "name": "Giardino Ibleo",
+    "source": "nominatim",
+    "osm_id": "way/203627531",
+    "wikidata": "Q3763861",
+    "osm_class": "leisure=park",
+    "locality": "Ragusa",
+    "display": "Giardino Ibleo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Giardino Ibleo"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   },
+   {
+    "lat": 36.9259794,
+    "lng": 14.7486699,
+    "name": "Giardino Ibleo",
+    "source": "nominatim",
+    "osm_id": "way/203627531",
+    "wikidata": "Q3763861",
+    "osm_class": "leisure=park",
+    "locality": "Ragusa",
+    "display": "Giardino Ibleo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Giardino Ibleo"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   },
+   {
+    "lat": 36.9259794,
+    "lng": 14.7486699,
+    "name": "Giardino Ibleo",
+    "source": "nominatim",
+    "osm_id": "way/203627531",
+    "wikidata": "Q3763861",
+    "osm_class": "leisure=park",
+    "locality": "Ragusa",
+    "display": "Giardino Ibleo, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Giardino Ibleo"
+    ],
+    "importance": 0.2574973608523206,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::chiesa di santa maria dei miracoli san giacomo dei cappuccini": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::circolo di conversazione": {
+  "ok": true,
+  "lat": 36.926372,
+  "lng": 14.744253,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.755,
+  "name": "Circolo di Conversazione",
+  "locality": "Ragusa",
+  "osm_class": "office=association",
+  "wikidata": "Q3677583",
+  "display": "Circolo di Conversazione, Via Alloro, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9263715,
+    "lng": 14.7442526,
+    "name": "Circolo di Conversazione",
+    "source": "nominatim",
+    "osm_id": "way/206557674",
+    "wikidata": "Q3677583",
+    "osm_class": "office=association",
+    "locality": "Ragusa",
+    "display": "Circolo di Conversazione, Via Alloro, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Circolo di Conversazione"
+    ],
+    "importance": 0.25352702198722055,
+    "rank": 0
+   },
+   {
+    "lat": 36.9263715,
+    "lng": 14.7442526,
+    "name": "Circolo di Conversazione",
+    "source": "nominatim",
+    "osm_id": "way/206557674",
+    "wikidata": "Q3677583",
+    "osm_class": "office=association",
+    "locality": "Ragusa",
+    "display": "Circolo di Conversazione, Via Pietro Novelli, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Circolo di Conversazione"
+    ],
+    "importance": 0.25352702198722055,
+    "rank": 0
+   },
+   {
+    "lat": 36.9263715,
+    "lng": 14.7442526,
+    "name": "Circolo di Conversazione",
+    "source": "nominatim",
+    "osm_id": "way/206557674",
+    "wikidata": "Q3677583",
+    "osm_class": "office=association",
+    "locality": "Ragusa",
+    "display": "Circolo di Conversazione, Via Alloro, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Circolo di Conversazione"
+    ],
+    "importance": 0.25352702198722055,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::palazzo cosentini palazzo la rocca palazzo nicastro": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::callejear sin rumbo por ibla": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::scalinata di santa maria delle scale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ragusa::cattedrale di san giovanni battista": {
+  "ok": true,
+  "lat": 36.925673,
+  "lng": 14.728682,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.771,
+  "name": "Cattedrale di San Giovanni Battista",
+  "locality": "Ragusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q251201",
+  "display": "Cattedrale di San Giovanni Battista, Via Roma, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9256729,
+    "lng": 14.7286819,
+    "name": "Cattedrale di San Giovanni Battista",
+    "source": "nominatim",
+    "osm_id": "way/202343390",
+    "wikidata": "Q251201",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Cattedrale di San Giovanni Battista, Via Roma, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Cattedrale di San Giovanni Battista"
+    ],
+    "importance": 0.3656661556590361,
+    "rank": 0
+   },
+   {
+    "lat": 36.9256729,
+    "lng": 14.7286819,
+    "name": "Cattedrale di San Giovanni Battista",
+    "source": "nominatim",
+    "osm_id": "way/202343390",
+    "wikidata": "Q251201",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Cattedrale di San Giovanni Battista, Via Roma, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Cattedrale di San Giovanni Battista"
+    ],
+    "importance": 0.3656661556590361,
+    "rank": 1
+   },
+   {
+    "lat": 36.9256729,
+    "lng": 14.7286819,
+    "name": "Cattedrale di San Giovanni Battista",
+    "source": "nominatim",
+    "osm_id": "way/202343390",
+    "wikidata": "Q251201",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Cattedrale di San Giovanni Battista, Via Roma, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Cattedrale di San Giovanni Battista"
+    ],
+    "importance": 0.3656661556590361,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::chiesa di santa maria delle scale": {
+  "ok": true,
+  "lat": 36.925224,
+  "lng": 14.735157,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.764,
+  "name": "Chiesa di Santa Maria delle Scale",
+  "locality": "Ragusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1256359",
+  "display": "Chiesa di Santa Maria delle Scale, Via Santa Maria delle Scale, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9252236,
+    "lng": 14.7351567,
+    "name": "Chiesa di Santa Maria delle Scale",
+    "source": "nominatim",
+    "osm_id": "way/215561581",
+    "wikidata": "Q1256359",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria delle Scale, Via Santa Maria delle Scale, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria delle Scale"
+    ],
+    "importance": 0.3078369698940717,
+    "rank": 0
+   },
+   {
+    "lat": 36.9252236,
+    "lng": 14.7351567,
+    "name": "Chiesa di Santa Maria delle Scale",
+    "source": "nominatim",
+    "osm_id": "way/215561581",
+    "wikidata": "Q1256359",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria delle Scale, Via Santa Maria delle Scale, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria delle Scale"
+    ],
+    "importance": 0.3078369698940717,
+    "rank": 0
+   },
+   {
+    "lat": 36.9252236,
+    "lng": 14.7351567,
+    "name": "Chiesa di Santa Maria delle Scale",
+    "source": "nominatim",
+    "osm_id": "way/215561581",
+    "wikidata": "Q1256359",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria delle Scale, Via Santa Maria delle Scale, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria delle Scale"
+    ],
+    "importance": 0.3078369698940717,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::corso italia y via roma": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
  }
 }
