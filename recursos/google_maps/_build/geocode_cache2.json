@@ -18976,5 +18976,1293 @@
    "alternatives": []
   },
   "area_key": ""
+ },
+ "__rt__::altare della patria roma italy": {
+  "lat": 41.8946867,
+  "lng": 12.4830664,
+  "display": "Altare della Patria, Scala dell'Arce Capitolina, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"
+ },
+ "__rt__::piazza navona roma italy": {
+  "lat": 41.8989282,
+  "lng": 12.4731178,
+  "display": "Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::piazza venezia roma italy": {
+  "lat": 41.8962446,
+  "lng": 12.4823704,
+  "display": "Piazza Venezia, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::villa borghese roma italy": {
+  "lat": 41.9144111,
+  "lng": 12.4848439,
+  "display": "Villa Borghese, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::colosseo roma italy": {
+  "lat": 41.8909421,
+  "lng": 12.491903,
+  "display": "Colosseo, Celio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::foro romano roma italy": {
+  "lat": 41.8916414,
+  "lng": 12.4867296,
+  "display": "Forum Romanum, Via di San Teodoro, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::museo palatino roma italy": {
+  "lat": 41.8883043,
+  "lng": 12.4865638,
+  "display": "Museo Palatino, Criptoportico Neroniano, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::basilica di massenzio roma italy": {
+  "lat": 41.8918158,
+  "lng": 12.4884167,
+  "display": "Basilica di Massenzio, Piazza di Santa Francesca Romana, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::basilica di santa maria maggiore roma italy": {
+  "lat": 41.8976275,
+  "lng": 12.4984704,
+  "display": "Basilica di Santa Maria Maggiore, Piazza di Santa Maria Maggiore, Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00185, Italia"
+ },
+ "__rt__::santa maria della vittoria roma italy": {
+  "lat": 41.9047187,
+  "lng": 12.494189,
+  "display": "Santa Maria della Vittoria, 17, Via Venti Settembre, Sallustiano, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"
+ },
+ "__rt__::fontana di trevi roma italy": {
+  "lat": 41.9009778,
+  "lng": 12.4832848,
+  "display": "Fontana di Trevi, Piazza di Trevi, Trevi, Municipio Roma I, Roma, Roma Capitale, Lazio, 00187, Italia"
+ },
+ "__rt__::campo de fiori roma italy": {
+  "lat": 41.8955774,
+  "lng": 12.4721586,
+  "display": "Campo de' Fiori, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::ghetto di roma roma italy": {
+  "lat": 42.1368951,
+  "lng": 12.1000381,
+  "display": "Via del Ghetto, Canale Monterano, Roma Capitale, Lazio, 00066, Italia"
+ },
+ "__rt__::parioli roma italy": {
+  "lat": 41.9310501,
+  "lng": 12.4885897,
+  "display": "Parioli, Municipio Roma II, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::trastevere roma italy": {
+  "lat": 41.8911586,
+  "lng": 12.4668459,
+  "display": "Trastevere, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::mura aureliane roma italy": {
+  "lat": 41.8741095,
+  "lng": 12.4944228,
+  "display": "Mura Aureliane, Viale delle Terme di Caracalla, San Saba, Municipio Roma I, Roma, Roma Capitale, Lazio, 00154, Italia"
+ },
+ "__rt__::piramide di caio cestio roma italy": {
+  "lat": 41.8764486,
+  "lng": 12.480854,
+  "display": "Piramide di Caio Cestio, Via Raffaele Persichetti, Testaccio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia"
+ },
+ "__rt__::basilica di san pietro in vaticano roma italy": null,
+ "__rt__::musei vaticani roma italy": {
+  "lat": 41.7950294,
+  "lng": 12.2496797,
+  "display": "Musei Vaticani, Via Leonardo da Vinci, Fiumicino, Roma Capitale, Lazio, 00054, Italia"
+ },
+ "__rt__::arco di costantino roma italy": {
+  "lat": 41.8897622,
+  "lng": 12.4906668,
+  "display": "Arco di Costantino, Piazza dell'Arco di Costantino, Campitelli, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::castel santangelo roma italy": {
+  "lat": 41.9031178,
+  "lng": 12.4663427,
+  "display": "Castel Sant’Angelo, Lungotevere Vaticano, Borgo, Municipio Roma I, Roma, Roma Capitale, Lazio, 00193, Italia"
+ },
+ "__rt__::galleria borghese roma italy": {
+  "lat": 41.9141133,
+  "lng": 12.4921053,
+  "display": "Galleria Borghese, 5, Piazzale Scipione Borghese, Pinciano, Municipio Roma II, Roma, Roma Capitale, Lazio, 00197, Italia"
+ },
+ "__rt__::monti roma italy": {
+  "lat": 41.8919732,
+  "lng": 12.4956579,
+  "display": "Monti, Municipio Roma I, Roma, Roma Capitale, Lazio, 00184, Italia"
+ },
+ "__rt__::manufactus roma italy": {
+  "lat": 41.8998289,
+  "lng": 12.472619,
+  "display": "Manufactus, 41, Piazza Navona, Parione, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"
+ },
+ "__rt__::giardino degli aranci roma italy": {
+  "lat": 41.8849257,
+  "lng": 12.480451,
+  "display": "Giardino degli Aranci, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::biblioteca angelica roma italy": {
+  "lat": 41.9006444,
+  "lng": 12.4745524,
+  "display": "Biblioteca Angelica, 8, Piazza di Sant'Agostino, Sant'Eustachio, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"
+ },
+ "__rt__::pantheon roma italy": {
+  "lat": 41.898616,
+  "lng": 12.4768334,
+  "display": "Pantheon, Piazza della Rotonda, Colonna, Municipio Roma I, Roma, Roma Capitale, Lazio, 00186, Italia"
+ },
+ "__rt__::villa del priorato di malta roma italy": {
+  "lat": 41.8834861,
+  "lng": 12.4774796,
+  "display": "Villa del Priorato di Malta, Lungotevere Aventino, Ripa, Municipio Roma I, Roma, Roma Capitale, Lazio, 00153, Italia"
+ },
+ "__rt__::via appia antica roma italy": {
+  "lat": 41.8629951,
+  "lng": 12.5083804,
+  "display": "Via Appia Antica, Municipio Roma VIII, Roma, Roma Capitale, Lazio, 00014, Italia"
+ },
+ "__rt__::quartiere coppede roma italy": {
+  "lat": 41.9183644,
+  "lng": 12.5021894,
+  "display": "Quartiere Coppedè, Trieste, Municipio Roma II, Roma, Roma Capitale, Lazio, Italia"
+ },
+ "__rt__::auditorium parco della musica roma italy": null,
+ "__rt__::cattedrale di santa maria assunta napoli italy": {
+  "lat": 40.8526527,
+  "lng": 14.2598704,
+  "display": "Cattedrale di Santa Maria Assunta, Vico Sedil Capuano, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, 80187, Italia"
+ },
+ "__rt__::cappella sansevero napoli italy": {
+  "lat": 40.8492993,
+  "lng": 14.2549332,
+  "display": "Cappella Sansevero, 19;21, Via Francesco de Sanctis, Porto, Municipalità 2, Napoli, Campania, 80134, Italia"
+ },
+ "__rt__::basilica di san domenico maggiore napoli italy": {
+  "lat": 40.8489751,
+  "lng": 14.2542699,
+  "display": "Basilica di San Domenico Maggiore, Vico San Domenico Maggiore, Porto, Municipalità 2, Napoli, Campania, 80130, Italia"
+ },
+ "__rt__::basilica di santa chiara napoli italy": {
+  "lat": 40.8468226,
+  "lng": 14.2529101,
+  "display": "Basilica di Santa Chiara, Via Santa Chiara, Rione Carità, Porto, Municipalità 2, Napoli, Campania, 80100, Italia"
+ },
+ "__rt__::chiesa del gesu nuovo napoli italy": {
+  "lat": 40.8475578,
+  "lng": 14.2518743,
+  "display": "Chiesa del Gesù Nuovo, Piazza del Gesù Nuovo, San Giuseppe, Municipalità 2, Napoli, Campania, 80100, Italia"
+ },
+ "__rt__::via dei tribunali napoli italy": {
+  "lat": 40.8518143,
+  "lng": 14.2597663,
+  "display": "Via dei Tribunali, Pendino, Municipalità 2, Napoli, Campania, 80187, Italia"
+ },
+ "__rt__::via san gregorio armeno napoli italy": {
+  "lat": 40.8497774,
+  "lng": 14.2579807,
+  "display": "Via San Gregorio Armeno, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, 80138, Italia"
+ },
+ "__rt__::spaccanapoli napoli italy": {
+  "lat": 40.8485444,
+  "lng": 14.2557339,
+  "display": "Piazzetta del Nilo, Porto, Municipalità 2, Napoli, Campania, 80130, Italia"
+ },
+ "__rt__::napoli sotterranea napoli italy": {
+  "lat": 40.8510787,
+  "lng": 14.256847,
+  "display": "Napoli Sotterranea, 69, Vicoletto I San Paolo, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, 80138, Italia"
+ },
+ "__rt__::basilica di san lorenzo maggiore napoli italy": {
+  "lat": 40.8509198,
+  "lng": 14.2580403,
+  "display": "Basilica di San Lorenzo Maggiore, Vico Scorziata, Rione Forcella, San Lorenzo, Municipalità 4, Napoli, Campania, 80138, Italia"
+ },
+ "__rt__::quartieri spagnoli napoli italy": {
+  "lat": 40.8414829,
+  "lng": 14.246423,
+  "display": "Quartieri Spagnoli, Montecalvario, Municipalità 2, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::via toledo napoli italy": {
+  "lat": 40.843369,
+  "lng": 14.248973,
+  "display": "Via Toledo, Rione Carità, San Giuseppe, Municipalità 2, Napoli, Campania, 80134, Italia"
+ },
+ "__rt__::vico toto napoli italy": null,
+ "__rt__::murales di maradona napoli italy": {
+  "lat": 40.8496944,
+  "lng": 14.2014745,
+  "display": "Murales di Diego Armando Maradona, Traversa Vicinale Paradiso, Verdolino, Soccavo, Municipalità 9, Camaldoli, Napoli, Campania, 80126, Italia"
+ },
+ "__rt__::rione sanita napoli italy": {
+  "lat": 40.8576443,
+  "lng": 14.2519606,
+  "display": "Rione Sanità, Stella, Municipalità 3, Napoli, Campania, 80137, Italia"
+ },
+ "__rt__::catacombe di san gennaro napoli italy": {
+  "lat": 40.8637841,
+  "lng": 14.2470579,
+  "display": "Catacombe di San Gennaro, Penninata S. Gennaro dei Poveri, Capodimonte, Stella, Municipalità 3, Napoli, Campania, 80136, Italia"
+ },
+ "__rt__::via partenope napoli italy": {
+  "lat": 40.8304417,
+  "lng": 14.2446836,
+  "display": "Via Partenope, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80121, Italia"
+ },
+ "__rt__::castel dellovo napoli italy": {
+  "lat": 40.8277417,
+  "lng": 14.2480285,
+  "display": "Castel dell'Ovo, Piazzetta Marinari, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::castel nuovo napoli italy": {
+  "lat": 40.8383171,
+  "lng": 14.2537307,
+  "display": "Castel Nuovo, Via Ferdinando Acton, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80133, Italia"
+ },
+ "__rt__::galleria umberto i napoli italy": {
+  "lat": 40.8384577,
+  "lng": 14.2493423,
+  "display": "Galleria Umberto I, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::teatro di san carlo napoli italy": {
+  "lat": 40.8373743,
+  "lng": 14.2498127,
+  "display": "Teatro di San Carlo, 98, Via San Carlo, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::palazzo reale di napoli napoli italy": {
+  "lat": 40.8363844,
+  "lng": 14.2501293,
+  "display": "Biglietteria Palazzo Reale di Napoli, Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::piazza del plebiscito napoli italy": {
+  "lat": 40.8358559,
+  "lng": 14.2485652,
+  "display": "Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, Italia"
+ },
+ "__rt__::palazzo salerno napoli italy": {
+  "lat": 40.8348761,
+  "lng": 14.2497484,
+  "display": "Palazzo Salerno, Rampe Paggeria, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::basilica di san francesco di paola napoli italy": {
+  "lat": 40.8355986,
+  "lng": 14.2473359,
+  "display": "Basilica di San Francesco di Paola, Piazza del Plebiscito, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80132, Italia"
+ },
+ "__rt__::palazzo della prefettura napoli italy": {
+  "lat": 40.8367224,
+  "lng": 14.2485101,
+  "display": "Gran Caffè Gambrinus, 1/2, Via Chiaia, Pizzofalcone, San Ferdinando, Municipalità 1, Napoli, Campania, 80121, Italia"
+ },
+ "__rt__::museo archeologico nazionale di napoli napoli italy": {
+  "lat": 40.8536064,
+  "lng": 14.25115,
+  "display": "Museo archeologico nazionale di Napoli, 19, Piazza Museo Nazionale, Rione Sanità, Stella, Municipalità 3, Napoli, Campania, 80135, Italia"
+ },
+ "__rt__::castel santelmo napoli italy": {
+  "lat": 40.8437067,
+  "lng": 14.2392516,
+  "display": "Castel Sant'Elmo, 22, Via Tito Angelini, Vomero, Municipalità 5, Napoli, Campania, 80129, Italia"
+ },
+ "__rt__::real bosco di capodimonte napoli italy": {
+  "lat": 40.8742505,
+  "lng": 14.2551127,
+  "display": "Real Bosco di Capodimonte, Napoli, Campania, Italia"
+ },
+ "__rt__::piazza dante napoli italy": {
+  "lat": 40.8491564,
+  "lng": 14.250303,
+  "display": "Piazza Dante, Rione Montesanto, San Giuseppe, Municipalità 2, Napoli, Campania, Italia"
+ },
+ "__rt__::cimitero delle fontanelle napoli italy": {
+  "lat": 40.858026,
+  "lng": 14.2390098,
+  "display": "Cimitero delle Fontanelle, 80, Avvocata, Municipalità 2, Napoli, Campania, 80136, Italia"
+ },
+ "__rt__::vomero napoli italy": {
+  "lat": 40.8438464,
+  "lng": 14.2254818,
+  "display": "Vomero, Municipalità 5, Napoli, Campania, 80127, Italia"
+ },
+ "__rt__::metelkova ljubljana slovenia": {
+  "lat": 46.0569137,
+  "lng": 14.5169257,
+  "display": "Metelkova, Maistrova ulica, Tabor, Poljane, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::narodni muzej slovenije ljubljana slovenia": {
+  "lat": 46.0520716,
+  "lng": 14.4995355,
+  "display": "Narodni muzej Slovenije – Prešernova, 20, Prešernova cesta, Vrtača, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::slovenski etnografski muzej ljubljana slovenia": {
+  "lat": 46.054976,
+  "lng": 14.5161747,
+  "display": "Slovenski etnografski muzej, 2, Metelkova ulica, Tabor, Poljane, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::stari trg ljubljana slovenia": {
+  "lat": 46.0467134,
+  "lng": 14.5067484,
+  "display": "Stari trg, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::ljubljanski grad ljubljana slovenia": {
+  "lat": 46.0487819,
+  "lng": 14.5085383,
+  "display": "Ljubljanski grad, Ovinki, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::stolnica sv nikolaja ljubljana slovenia": {
+  "lat": 46.0507631,
+  "lng": 14.5082522,
+  "display": "Stolnica sv. Nikolaja, 1, Dolničarjeva ulica, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::franciskanska cerkev marijinega oznanjenja ljubljana slovenia": {
+  "lat": 46.0518985,
+  "lng": 14.5060771,
+  "display": "Frančiškanska cerkev Marijinega oznanjenja, Miklošičeva cesta, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::kongresni trg ljubljana slovenia": {
+  "lat": 46.0501723,
+  "lng": 14.5038517,
+  "display": "Kongresni trg, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::tromostovje ljubljana slovenia": {
+  "lat": 46.0511325,
+  "lng": 14.5062101,
+  "display": "Tromostovje, Hribarjevo nabrežje, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::park tivoli ljubljana slovenia": {
+  "lat": 46.0551457,
+  "lng": 14.4957283,
+  "display": "Park Tivoli, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::zmajski most ljubljana slovenia": {
+  "lat": 46.0519324,
+  "lng": 14.5104135,
+  "display": "Zmajski most, Resljeva cesta, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::plecnikove arkade ljubljana slovenia": {
+  "lat": 46.0513956,
+  "lng": 14.5080698,
+  "display": "Plečnikove arkade, Pogačarjev trg, Ledina, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::narodna in univerzitetna knjiznica ljubljana slovenia": {
+  "lat": 46.0475326,
+  "lng": 14.5037167,
+  "display": "Narodna in univerzitetna knjižnica, 1, Turjaška ulica, Žabjak, Grajski grič, Četrtna skupnost Center, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::zale ljubljana slovenia": {
+  "lat": 46.0714567,
+  "lng": 14.5323513,
+  "display": "Centralno pokopališče Žale, Četrtna skupnost Bežigrad, Ljubljana, Upravna Enota Ljubljana, 1000, Slovenija"
+ },
+ "__rt__::velika planina kamnik slovenia": {
+  "lat": 46.2959357,
+  "lng": 14.6520101,
+  "display": "Velika Planina, Kamnik, Upravna Enota Kamnik, 1242, Slovenija"
+ },
+ "__rt__::blejsko jezero bled slovenia": {
+  "lat": 46.3639132,
+  "lng": 14.0938069,
+  "display": "Blejsko jezero, Bled, Slovenija"
+ },
+ "__rt__::blejski grad bled slovenia": {
+  "lat": 46.3697035,
+  "lng": 14.1005205,
+  "display": "Blejski grad, Grajska cesta, Bled, 4260, Slovenija"
+ },
+ "__rt__::blejski otok bled slovenia": {
+  "lat": 46.3622932,
+  "lng": 14.0900478,
+  "display": "Blejski otok, Mlino, Bled, Slovenija"
+ },
+ "__rt__::ojstrica bled slovenia": {
+  "lat": 46.3596329,
+  "lng": 14.0784584,
+  "display": "Ojstrica, Bled, 4263, Slovenija"
+ },
+ "__rt__::mala osojnica bled slovenia": {
+  "lat": 46.3575598,
+  "lng": 14.0810138,
+  "display": "Mala Osojnica, Bled, 4263, Slovenija"
+ },
+ "__rt__::soteska vintgar podhom slovenia": {
+  "lat": 46.3986171,
+  "lng": 14.0927482,
+  "display": "Soteska Vintgar, Podhom, Gorje, 4273, Slovenija"
+ },
+ "__rt__::bohinjsko jezero ribcev laz slovenia": {
+  "lat": 46.2822654,
+  "lng": 13.8645306,
+  "display": "Bohinjsko jezero, Ribčev Laz, Bohinj, Slovenija"
+ },
+ "__rt__::savica ukanc slovenia": {
+  "lat": 46.2837267,
+  "lng": 13.842399,
+  "display": "Savica, Ukanc, Bohinj, Slovenija"
+ },
+ "__rt__::korita mostnice stara fuzina slovenia": {
+  "lat": 46.2981168,
+  "lng": 13.8854905,
+  "display": "Korita Mostnice, Stara Fužina, Bohinj, 4265, Slovenija"
+ },
+ "__rt__::vogel ukanc slovenia": {
+  "lat": 46.2578343,
+  "lng": 13.8355948,
+  "display": "Vogel, Ukanc, Bohinj, Slovenija"
+ },
+ "__rt__::postojnska jama veliki otok slovenia": {
+  "lat": 45.7827107,
+  "lng": 14.2038553,
+  "display": "Postojnska jama, Pot pastirčka Jakoba, Sovič, Veliki Otok, Postojna, 6230, Slovenija"
+ },
+ "__rt__::predjamski grad predjama slovenia": {
+  "lat": 45.8157344,
+  "lng": 14.1265916,
+  "display": "Predjamski grad, 1, Predjama, Pristava, Predjama, Postojna, 6230, Slovenija"
+ },
+ "__rt__::skocjanske jame matavun slovenia": {
+  "lat": 45.6658589,
+  "lng": 13.9893738,
+  "display": "Škocjanske jame (izhod), Izhod / Exit 2-3, Škocjan, Matavun, Divača, Upravna enota Sežana, 6215, Slovenija"
+ },
+ "__rt__::rakov skocjan cerknica slovenia": {
+  "lat": 45.7861164,
+  "lng": 14.2991326,
+  "display": "Rakov Škocjan, Cerknica, 1381, Slovenija"
+ },
+ "__rt__::veliki naravni most cerknica slovenia": {
+  "lat": 45.7954261,
+  "lng": 14.2881425,
+  "display": "Veliki naravni most, 914, Cerknica, 1381, Slovenija"
+ },
+ "__rt__::mali naravni most zelse slovenia": {
+  "lat": 45.791469,
+  "lng": 14.304784,
+  "display": "Mali naravni most, Rakov Škocjan, Zelše, Cerknica, 1381, Slovenija"
+ },
+ "__rt__::soca bovec slovenia": {
+  "lat": 46.3239296,
+  "lng": 13.5650522,
+  "display": "Soča, Bovec, Slovenija"
+ },
+ "__rt__::bovec slovenia": {
+  "lat": 46.3563397,
+  "lng": 13.6144183,
+  "display": "Bovec, Slovenija"
+ },
+ "__rt__::kobarid slovenia": {
+  "lat": 46.2430308,
+  "lng": 13.5468788,
+  "display": "Kobarid, Slovenija"
+ },
+ "__rt__::tolmin slovenia": {
+  "lat": 46.1437264,
+  "lng": 13.789284,
+  "display": "Tolmin, Slovenija"
+ },
+ "__rt__::slap kozjak kobarid slovenia": {
+  "lat": 46.2591028,
+  "lng": 13.5903935,
+  "display": "Slap Kozjak, Kobarid, 5222, Slovenija"
+ },
+ "__rt__::tolminska korita zadlaz cadrg slovenia": {
+  "lat": 46.1982012,
+  "lng": 13.7403139,
+  "display": "Tolminska korita, Zatolmin, Ralne, Zadlaz - Čadrg, Tolmin, 5220, Slovenija"
+ },
+ "__rt__::prelaz vrsic bovec slovenia": {
+  "lat": 46.4347793,
+  "lng": 13.7437123,
+  "display": "Prelaz Vršič, Bovec, Slovenija"
+ },
+ "__rt__::piran slovenia": {
+  "lat": 45.5284919,
+  "lng": 13.5684485,
+  "display": "Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6630, Slovenija"
+ },
+ "__rt__::sv jurij piran slovenia": {
+  "lat": 45.52967,
+  "lng": 13.5683292,
+  "display": "Sv. Jurij / San Giorgio, Adamičeva ulica, Raštel, Piran / Pirano (naselje), Piran / Pirano, Upravna enota Piran / Unità amministrativa Pirano, 6630, Slovenija"
+ },
+ "__rt__::koper slovenia": {
+  "lat": 45.5479864,
+  "lng": 13.7304781,
+  "display": "Koper / Capodistria, Upravna enota Koper / Unità amministrativa Capodistria, 6000, Slovenija"
+ },
+ "__rt__::piazza unita ditalia trieste italy": {
+  "lat": 45.6501002,
+  "lng": 13.7677033,
+  "display": "Piazza Unità d'Italia, Cavana, San Vito, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, Trieste, Friuli-Venezia Giulia, Italia"
+ },
+ "__rt__::castello di miramare trieste italy": {
+  "lat": 45.7025321,
+  "lng": 13.7124557,
+  "display": "Castello di Miramare, Viale Miramare, Roiano-Gretta-Barcola-Cologna-Scorcola, Miramare / Miramar, Trieste, Friuli-Venezia Giulia, 34151, Italia"
+ },
+ "__rt__::caffe degli specchi trieste italy": {
+  "lat": 45.6501065,
+  "lng": 13.7684164,
+  "display": "Caffè degli Specchi, 7, Piazza Unità d'Italia, Cavana, San Vito, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, Trieste, Friuli-Venezia Giulia, 34121, Italia"
+ },
+ "__rt__::antico caffe san marco trieste italy": {
+  "lat": 45.6528187,
+  "lng": 13.7802784,
+  "display": "Caffè San Marco, 18, Via Cesare Battisti, Barriera Nuova, Città Nuova-Barriera Nuova-San Vito-Città Vecchia, Opicina / Opčine, Trieste, Friuli-Venezia Giulia, 34125, Italia"
+ },
+ "__rt__::altstadt bern switzerland": {
+  "lat": 46.9482888,
+  "lng": 7.4512729,
+  "display": "Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::aare bern switzerland": {
+  "lat": 46.9459901,
+  "lng": 7.4533109,
+  "display": "Aare, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::kramgasse bern switzerland": {
+  "lat": 46.9479718,
+  "lng": 7.450213,
+  "display": "Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::marktgasse bern switzerland": {
+  "lat": 46.9482364,
+  "lng": 7.4437918,
+  "display": "Marktgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::spitalgasse bern switzerland": {
+  "lat": 46.9481388,
+  "lng": 7.4429924,
+  "display": "Spitalgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::einsteinhaus bern bern switzerland": {
+  "lat": 46.9476741,
+  "lng": 7.449971,
+  "display": "Einsteinhaus, 49, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::zytglogge bern switzerland": {
+  "lat": 46.9479474,
+  "lng": 7.4477951,
+  "display": "Zytglogge, 3, Bim Zytglogge, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::berner munster bern switzerland": {
+  "lat": 46.9472379,
+  "lng": 7.4515787,
+  "display": "Münster, 1, Münsterplatz, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3000, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::munsterplattform bern switzerland": {
+  "lat": 46.9468205,
+  "lng": 7.4518243,
+  "display": "Münsterplattform, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::bundeshaus bern switzerland": {
+  "lat": 46.9462017,
+  "lng": 7.4425372,
+  "display": "Eidgenössisches Departement für auswärtige Angelegenheiten, 3, Bundesgasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3003, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::bundesplatz bern switzerland": {
+  "lat": 46.9470085,
+  "lng": 7.4441612,
+  "display": "Bundesplatz, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::zahringerbrunnen bern switzerland": {
+  "lat": 46.947958,
+  "lng": 7.4491851,
+  "display": "Zähringerbrunnen, Kramgasse, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::kindlifresserbrunnen bern switzerland": {
+  "lat": 46.9484631,
+  "lng": 7.4475054,
+  "display": "Kindlifresserbrunnen, Kornhausplatz, Altstadt, Grünes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::bernisches historisches museum bern switzerland": {
+  "lat": 46.9429677,
+  "lng": 7.4488696,
+  "display": "Bernisches Historisches Museum, 5, Helvetiaplatz, Dalmazi, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3005, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::nydeggbrucke bern switzerland": {
+  "lat": 46.9484726,
+  "lng": 7.4584854,
+  "display": "Nydeggbrücke, Nydeggasse, Matte, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3011, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::barenpark bern switzerland": {
+  "lat": 46.9476825,
+  "lng": 7.4591848,
+  "display": "Bärenpark, Grosser Muristalden, Gryphenhübeli, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, 3006, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::rosengarten bern switzerland": {
+  "lat": 46.9519684,
+  "lng": 7.4602976,
+  "display": "Rosengarten, Schosshalde, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Verwaltungsregion Bern-Mittelland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::kandersteg switzerland": {
+  "lat": 46.4975866,
+  "lng": 7.6756638,
+  "display": "Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, Bern/Berne, 3718, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::oeschinensee kandersteg switzerland": {
+  "lat": 46.4984951,
+  "lng": 7.7268429,
+  "display": "Oeschinensee, Kandersteg, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, Bern/Berne, 3718, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::blausee kandergrund switzerland": {
+  "lat": 46.5324219,
+  "lng": 7.6648521,
+  "display": "Blausee, Blausee-Mitholz, Kandergrund, Verwaltungskreis Frutigen-Niedersimmental, Verwaltungsregion Oberland, Bern/Berne, 3717, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::stonegate york uk": {
+  "lat": 53.9609109,
+  "lng": -1.0833749,
+  "display": "Stonegate, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 8ZW, United Kingdom"
+ },
+ "__rt__::bootham bar york uk": {
+  "lat": 53.9627185,
+  "lng": -1.0850495,
+  "display": "Bootham Bar, High Petergate, Bootham, Bishophill, York, York and North Yorkshire, England, YO30 7BN, United Kingdom"
+ },
+ "__rt__::st giles cathedral city of edinburgh uk": {
+  "lat": 55.9494789,
+  "lng": -3.1908519,
+  "display": "St Giles' Cathedral, High Street, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH1 1RE, United Kingdom"
+ },
+ "__rt__::the vennel city of edinburgh uk": {
+  "lat": 55.989617,
+  "lng": -3.3951596,
+  "display": "The Vennel, Scotstoun, City of Edinburgh, Alba / Scotland, EH30 9HW, United Kingdom"
+ },
+ "__rt__::cowgate city of edinburgh uk": {
+  "lat": 55.9492159,
+  "lng": -3.1834277,
+  "display": "Cowgate, Abbeyhill, Old Town, City of Edinburgh, Alba / Scotland, EH8 9UE, United Kingdom"
+ },
+ "__rt__::royal yacht britannia city of edinburgh uk": {
+  "lat": 55.9821463,
+  "lng": -3.1773092,
+  "display": "HMY Britannia, 100, Ocean Drive, Fort, North Leith, Leith, City of Edinburgh, Alba / Scotland, EH6 6JJ, United Kingdom"
+ },
+ "__rt__::oink city of edinburgh uk": {
+  "lat": 55.9529899,
+  "lng": -3.1973604,
+  "display": "Oink, 38, Hanover Street, New Town, New Town/Broughton, City of Edinburgh, Alba / Scotland, EH2 2DR, United Kingdom"
+ },
+ "__rt__::leicester square city of westminster uk": {
+  "lat": 51.5104338,
+  "lng": -0.1301524,
+  "display": "Leicester Square, East Marylebone, Covent Garden, City of Westminster, Greater London, England, WC2H 7LU, United Kingdom"
+ },
+ "__rt__::millennium bridge city of london uk": {
+  "lat": 51.5098883,
+  "lng": -0.0985076,
+  "display": "Millennium Bridge, St Paul's, City of London, Greater London, England, EC4V 3AL, United Kingdom"
+ },
+ "__rt__::waterloo bridge greater london uk": {
+  "lat": 51.5028379,
+  "lng": -0.112801,
+  "display": "London Waterloo, The Balcony, South Bank, Waterloo, London Borough of Lambeth, Greater London, England, SE1 8SW, United Kingdom"
+ },
+ "__rt__::brockwell park greater london uk": {
+  "lat": 51.4505301,
+  "lng": -0.1060926,
+  "display": "Brockwell Park, Herne Hill, London Borough of Lambeth, Greater London, England, SE24 9BJ, United Kingdom"
+ },
+ "__rt__::great scotland yard city of westminster uk": {
+  "lat": 51.5060619,
+  "lng": -0.126704,
+  "display": "Great Scotland Yard, Westminster, Covent Garden, City of Westminster, Greater London, England, SW1A 2HP, United Kingdom"
+ },
+ "__rt__::prime meridian of the world greater london uk": {
+  "lat": 51.4779429,
+  "lng": -0.0014747,
+  "display": "Greenwich Meridian, Meridian Courtyard, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, Greater London, England, SE10 8XJ, United Kingdom"
+ },
+ "__rt__::grande galerie de levolution paris france": {
+  "lat": 48.8421055,
+  "lng": 2.3562438,
+  "display": "Grande Galerie de l'Évolution, Cour Censier, Quartier du Jardin des Plantes, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France"
+ },
+ "__rt__::musee des arts et metiers paris france": {
+  "lat": 48.8660977,
+  "lng": 2.3554138,
+  "display": "Musée des Arts et Métiers, 60, Rue Réaumur, Quartier des Arts-et-Métiers, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France"
+ },
+ "__rt__::musee rodin paris france": {
+  "lat": 48.8547473,
+  "lng": 2.315867,
+  "display": "Musée Rodin, 77, Rue de Varenne, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "__rt__::place des vosges paris france": {
+  "lat": 48.8550655,
+  "lng": 2.3653311,
+  "display": "Place des Vosges, Quartier de l'Arsenal, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France"
+ },
+ "__rt__::jardin des tuileries paris france": {
+  "lat": 48.8635662,
+  "lng": 2.3269552,
+  "display": "Jardin des Tuileries, 113, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::jardin des plantes paris france": {
+  "lat": 48.844036,
+  "lng": 2.3597321,
+  "display": "Jardin des Plantes, Paris, Île-de-France, France métropolitaine, France"
+ },
+ "__rt__::parc des buttes chaumont paris france": {
+  "lat": 48.8795551,
+  "lng": 2.3820982,
+  "display": "Parc des Buttes-Chaumont, Paris, Île-de-France, France métropolitaine, France"
+ },
+ "__rt__::eglise saint eustache paris france": {
+  "lat": 48.8633997,
+  "lng": 2.3451276,
+  "display": "Église Saint-Eustache, Rue de Turbigo, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::eglise saint sulpice paris france": {
+  "lat": 48.8509871,
+  "lng": 2.3348702,
+  "display": "Église Saint-Sulpice, 2, Rue Palatine, Quartier de l'Odéon, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France"
+ },
+ "__rt__::chateau de versailles versailles france": {
+  "lat": 48.8044252,
+  "lng": 2.1202853,
+  "display": "Château de Versailles, La Cour de Marbre, Notre-Dame, Versailles, Yvelines, Île-de-France, France métropolitaine, 78000, France"
+ },
+ "__rt__::shakespeare and company paris france": {
+  "lat": 48.8525747,
+  "lng": 2.3471123,
+  "display": "Shakespeare and Company, 37, Rue de la Bûcherie, Quartier de la Sorbonne, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France"
+ },
+ "__rt__::villa leandre paris france": {
+  "lat": 48.8883987,
+  "lng": 2.3350682,
+  "display": "Villa Léandre, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France"
+ },
+ "__rt__::les halles paris france": {
+  "lat": 48.8626996,
+  "lng": 2.346214,
+  "display": "Les Halles, Allée Saint-John Perse, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::rue montorgueil paris france": {
+  "lat": 48.8638613,
+  "lng": 2.3464827,
+  "display": "Rue Montorgueil, Quartier Les Halles, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::batignolles paris france": {
+  "lat": 48.8863552,
+  "lng": 2.321457,
+  "display": "Quartier des Batignolles, Paris 17e Arrondissement, Paris, Île-de-France, France métropolitaine, 75017, France"
+ },
+ "__rt__::la defense courbevoie france": {
+  "lat": 48.891008,
+  "lng": 2.2412078,
+  "display": "La Défense, Quartier Gambetta, Courbevoie, Nanterre, Hauts-de-Seine, Île-de-France, France métropolitaine, 92400, France"
+ },
+ "__rt__::moulin rouge paris france": {
+  "lat": 48.8841094,
+  "lng": 2.3323564,
+  "display": "Moulin Rouge, 82, Boulevard de Clichy, Quartier des Grandes-Carrières, Paris 18e Arrondissement, Paris, Île-de-France, France métropolitaine, 75018, France"
+ },
+ "__rt__::canal de lourcq paris france": {
+  "lat": 48.891596,
+  "lng": 2.3850593,
+  "display": "Canal de l'Ourcq, Quai de l'Oise, Quartier du Pont-de-Flandre, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France"
+ },
+ "__rt__::avenue des champs elysees paris france": {
+  "lat": 48.8690056,
+  "lng": 2.3104979,
+  "display": "Avenue des Champs-Élysées, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "__rt__::pont alexandre iii paris france": {
+  "lat": 48.8634697,
+  "lng": 2.3135181,
+  "display": "Pont Alexandre III, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "__rt__::passerelle debilly paris france": {
+  "lat": 48.862561,
+  "lng": 2.2969296,
+  "display": "Passerelle Debilly, Quartier du Gros-Caillou, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "__rt__::rue de luniversite paris france": {
+  "lat": 48.8609603,
+  "lng": 2.3151993,
+  "display": "Rue de l'Université, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "__rt__::passage des panoramas paris france": {
+  "lat": 48.8712593,
+  "lng": 2.3417456,
+  "display": "Passage des Panoramas, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France"
+ },
+ "__rt__::marche des enfants rouges paris france": {
+  "lat": 48.8627951,
+  "lng": 2.361973,
+  "display": "Marché couvert des Enfants Rouges, Rue Charlot, Quartier des Enfants-Rouges, Paris 3e Arrondissement, Paris, Île-de-France, France métropolitaine, 75003, France"
+ },
+ "__rt__::marche daligre paris france": {
+  "lat": 48.8488749,
+  "lng": 2.3780461,
+  "display": "Marché d'Aligre, Rue Charles Baudelaire, Quartier des Quinze-Vingts, Paris 12e Arrondissement, Paris, Île-de-France, France métropolitaine, 75012, France"
+ },
+ "__rt__::marche saint quentin paris france": {
+  "lat": 48.8773562,
+  "lng": 2.3545046,
+  "display": "Marché Saint-Quentin, Rue des Petits Hôtels, Quartier Saint-Vincent-de-Paul, Paris 10e Arrondissement, Paris, Île-de-France, France métropolitaine, 75010, France"
+ },
+ "__rt__::place du trocadero et du 11 novembre paris france": {
+  "lat": 48.8628402,
+  "lng": 2.287142,
+  "display": "Place du Trocadéro et du 11 Novembre, Quartier de la Muette, Paris 16e Arrondissement, Paris, Île-de-France, France métropolitaine, France"
+ },
+ "__rt__::institut du monde arabe paris france": {
+  "lat": 48.8489159,
+  "lng": 2.3571469,
+  "display": "Institut du Monde arabe, Quai Saint-Bernard, Quartier Saint-Victor, Paris 5e Arrondissement, Paris, Île-de-France, France métropolitaine, 75005, France"
+ },
+ "__rt__::galeries lafayette haussmann paris france": {
+  "lat": 48.8736459,
+  "lng": 2.3321271,
+  "display": "Galeries Lafayette, 40, Boulevard Haussmann, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+ },
+ "__rt__::philharmonie de paris paris france": {
+  "lat": 48.8919212,
+  "lng": 2.3941386,
+  "display": "Philharmonie de Paris, Boulevard Sérurier, Quartier du Pont-de-Flandre, Paris 19e Arrondissement, Paris, Île-de-France, France métropolitaine, 75019, France"
+ },
+ "__rt__::hotel de ville de paris paris france": {
+  "lat": 48.8564263,
+  "lng": 2.3525276,
+  "display": "Hôtel de Ville, Place de l'Hôtel de Ville, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France"
+ },
+ "__rt__::tour saint jacques paris france": {
+  "lat": 48.8580032,
+  "lng": 2.3489217,
+  "display": "Tour Saint-Jacques, Allée Waslaw Nijinsky, Quartier Saint-Merri, Paris 4e Arrondissement, Paris, Île-de-France, France métropolitaine, 75004, France"
+ },
+ "__rt__::galerie vivienne paris france": {
+  "lat": 48.8667277,
+  "lng": 2.339757,
+  "display": "Galerie Vivienne, Rue des Petits Champs, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::bibliotheque nationale de france richelieu paris france": {
+  "lat": 48.8672823,
+  "lng": 2.3381642,
+  "display": "Bibliothèque nationale de France, Richelieu, 58, Rue de Richelieu, Vivienne, Paris 2e Arrondissement, Paris, Île-de-France, France métropolitaine, 75002, France"
+ },
+ "__rt__::bibliotheque mazarine paris france": {
+  "lat": 48.8572708,
+  "lng": 2.3373594,
+  "display": "Bibliothèque Mazarine, 23, Quai de Conti, Quartier de la Monnaie, Paris 6e Arrondissement, Paris, Île-de-France, France métropolitaine, 75006, France"
+ },
+ "__rt__::palais garnier paris france": {
+  "lat": 48.8720949,
+  "lng": 2.3323339,
+  "display": "L'Opéra Restaurant, Place Jacques Rouché, Quartier de la Chaussée-d'Antin, Paris 9e Arrondissement, Paris, Île-de-France, France métropolitaine, 75009, France"
+ },
+ "__rt__::place de la concorde paris france": {
+  "lat": 48.8655715,
+  "lng": 2.3212248,
+  "display": "Place de la Concorde, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "__rt__::place vendome paris france": {
+  "lat": 48.8674634,
+  "lng": 2.3294281,
+  "display": "Place Vendôme, Quartier Vendôme, Paris 1er Arrondissement, Paris, Île-de-France, France métropolitaine, 75001, France"
+ },
+ "__rt__::grand palais paris france": {
+  "lat": 48.8661614,
+  "lng": 2.3122229,
+  "display": "Grand Palais, Avenue de Selves, Quartier des Champs-Élysées, Paris 8e Arrondissement, Paris, Île-de-France, France métropolitaine, 75008, France"
+ },
+ "__rt__::hotel des invalides paris france": {
+  "lat": 48.8559537,
+  "lng": 2.3133431,
+  "display": "Hôtel des Invalides, 129, Rue de Grenelle, Quartier des Invalides, Paris 7e Arrondissement, Paris, Île-de-France, France métropolitaine, 75007, France"
+ },
+ "__rt__::oosterpark amsterdam netherlands": {
+  "lat": 52.3602065,
+  "lng": 4.9205433,
+  "display": "Oosterpark, Oost, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::de negen straatjes amsterdam netherlands": {
+  "lat": 52.3688508,
+  "lng": 4.8849938,
+  "display": "De 9 Straatjes, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::singel amsterdam netherlands": {
+  "lat": 52.3670469,
+  "lng": 4.8935232,
+  "display": "Singel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 CK, Nederland"
+ },
+ "__rt__::herengracht amsterdam netherlands": {
+  "lat": 52.365416,
+  "lng": 4.8993016,
+  "display": "Herengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 CE, Nederland"
+ },
+ "__rt__::keizersgracht amsterdam netherlands": {
+  "lat": 52.3658854,
+  "lng": 4.8865795,
+  "display": "Keizersgracht, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::prinsengracht amsterdam netherlands": {
+  "lat": 52.375223,
+  "lng": 4.8832819,
+  "display": "Prinsengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 TH, Nederland"
+ },
+ "__rt__::damrak amsterdam netherlands": {
+  "lat": 52.3761096,
+  "lng": 4.8980545,
+  "display": "Damrak, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 JP, Nederland"
+ },
+ "__rt__::beurspassage amsterdam netherlands": {
+  "lat": 52.3747503,
+  "lng": 4.8944809,
+  "display": "Beurspassage, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 LW, Nederland"
+ },
+ "__rt__::waterloopleinmarkt amsterdam netherlands": {
+  "lat": 52.368622,
+  "lng": 4.9011934,
+  "display": "Waterloopleinmarkt, Waterlooplein, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 NZ, Nederland"
+ },
+ "__rt__::foodhallen amsterdam netherlands": {
+  "lat": 52.3669479,
+  "lng": 4.8682,
+  "display": "Foodhallen, Hannie Dankbaarpassage, Kinkerbuurt, West, Amsterdam, Noord-Holland, Nederland, 1053 EH, Nederland"
+ },
+ "__rt__::zevenlandenhuizen amsterdam netherlands": {
+  "lat": 52.3616372,
+  "lng": 4.8772961,
+  "display": "Zevenlandenhuizen, Roemer Visscherstraat, Oud-West, West, Amsterdam, Noord-Holland, Nederland, 1054 EX, Nederland"
+ },
+ "__rt__::dam amsterdam netherlands": {
+  "lat": 52.3731162,
+  "lng": 4.8923511,
+  "display": "Dam, Centrum, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::oude kerk amsterdam netherlands": {
+  "lat": 52.3743621,
+  "lng": 4.8980733,
+  "display": "Oude Kerk, 23, Oudekerksplein, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 GX, Nederland"
+ },
+ "__rt__::nieuwe kerk amsterdam netherlands": {
+  "lat": 52.3739231,
+  "lng": 4.8916924,
+  "display": "Nieuwe Kerk, 12, Dam, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 NP, Nederland"
+ },
+ "__rt__::koninklijk paleis amsterdam amsterdam netherlands": {
+  "lat": 52.3731449,
+  "lng": 4.8913363,
+  "display": "Koninklijk Paleis, 147, Nieuwezijds Voorburgwal, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 RJ, Nederland"
+ },
+ "__rt__::leidseplein amsterdam netherlands": {
+  "lat": 52.3639577,
+  "lng": 4.882758,
+  "display": "Leidseplein, Centrum, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::museumplein amsterdam netherlands": {
+  "lat": 52.3572706,
+  "lng": 4.8815398,
+  "display": "Museumplein, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DJ, Nederland"
+ },
+ "__rt__::amsterdam centrum amsterdam netherlands": {
+  "lat": 52.3353857,
+  "lng": 4.9377136,
+  "display": "Amsterdam-Centrum, Ringweg-Oost, Oost, Amsterdam, Noord-Holland, Nederland, 1115 CK, Nederland"
+ },
+ "__rt__::amsterdam noord amsterdam netherlands": {
+  "lat": 52.4097558,
+  "lng": 4.9319456,
+  "display": "Amsterdam-Noord, Ringweg-Noord, Noord, Amsterdam, Noord-Holland, Nederland, 1025 MS, Nederland"
+ },
+ "__rt__::plantage amsterdam netherlands": {
+  "lat": 52.3657049,
+  "lng": 4.9136608,
+  "display": "Plantage, Centrum, Amsterdam, Noord-Holland, Nederland"
+ },
+ "__rt__::houseboat museum amsterdam netherlands": {
+  "lat": 52.3701526,
+  "lng": 4.882602,
+  "display": "Houseboat Museum, 296K, Prinsengracht, Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 HW, Nederland"
+ },
+ "__rt__::dorfstrasse grindelwald switzerland": {
+  "lat": 46.6238298,
+  "lng": 8.0354886,
+  "display": "Dorfstrasse, Swiss Alp Resort, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3818, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::schwarze lutschine grindelwald switzerland": {
+  "lat": 46.6321282,
+  "lng": 7.998837,
+  "display": "Schwarze Lütschine, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3818, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::alpiglen grindelwald switzerland": {
+  "lat": 46.6000697,
+  "lng": 8.0019524,
+  "display": "Alpiglen, Eigertrail, Grindelwald, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3818, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::wilderswil switzerland": {
+  "lat": 46.6633947,
+  "lng": 7.8629948,
+  "display": "Wilderswil, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3812, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::weisse lutschine lauterbrunnen switzerland": {
+  "lat": 46.5716824,
+  "lng": 7.9091812,
+  "display": "Weisse Lütschine, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::grutschalp isenfluh switzerland": {
+  "lat": 46.5965617,
+  "lng": 7.890707,
+  "display": "Grütschalp, Grütsch-Trail, Greifenbach, Isenfluh, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, 3822, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::obersteinberg lauterbrunnen switzerland": {
+  "lat": 46.5185415,
+  "lng": 7.8854184,
+  "display": "Obersteinberg, Lauterbrunnen, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern/Berne, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::wasserturm luzern switzerland": {
+  "lat": 47.0512781,
+  "lng": 8.3072946,
+  "display": "Wasserturm, 1, Kapellbrücke, Bramberg, Altstadt, Luzern, 6006, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::weinmarkt luzern switzerland": {
+  "lat": 47.0520093,
+  "lng": 8.3048158,
+  "display": "Weinmarkt, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::hirschenplatz luzern switzerland": {
+  "lat": 47.0523604,
+  "lng": 8.3052177,
+  "display": "Hirschenplatz, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::kornmarkt luzern switzerland": {
+  "lat": 47.0521148,
+  "lng": 8.305876,
+  "display": "Kornmarkt, Altstadt, Luzern, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::rathausquai luzern switzerland": {
+  "lat": 47.0519413,
+  "lng": 8.3069287,
+  "display": "Rathausquai, Altstadt, Luzern, 6002, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::rathaus luzern luzern switzerland": {
+  "lat": 47.051882,
+  "lng": 8.3061291,
+  "display": "Rathaus, Rathausquai, Altstadt, Luzern, 6002, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::reuss luzern switzerland": {
+  "lat": 47.1229421,
+  "lng": 8.3950057,
+  "display": "Reuss, Luzern, Schweiz/Suisse/Svizzera/Svizra"
+ },
+ "__rt__::altes rathaus innsbruck innsbruck austria": {
+  "lat": 47.2682623,
+  "lng": 11.3935548,
+  "display": "Altes Rathaus, 21, Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::altes landhaus innsbruck austria": {
+  "lat": 47.2646187,
+  "lng": 11.3950168,
+  "display": "Altes Landhaus, 43, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::spitalskirche innsbruck innsbruck austria": {
+  "lat": 47.2666186,
+  "lng": 11.39342,
+  "display": "Spitalskirche, 2, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::annasaule innsbruck austria": {
+  "lat": 47.2656731,
+  "lng": 11.3941984,
+  "display": "Annasäule, Maria-Theresien-Straße, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::katzunghaus innsbruck austria": {
+  "lat": 47.2681199,
+  "lng": 11.3928947,
+  "display": "Katzunghaus, Seilergasse, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::helblinghaus innsbruck austria": {
+  "lat": 47.2684139,
+  "lng": 11.3929214,
+  "display": "Helblinghaus, Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::herzog friedrich straße innsbruck austria": {
+  "lat": 47.2675072,
+  "lng": 11.3935046,
+  "display": "Herzog-Friedrich-Straße, Altstadt, Innenstadt, Innsbruck, Tirol, 6020, Österreich"
+ },
+ "__rt__::hall in tirol austria": {
+  "lat": 47.2816648,
+  "lng": 11.5075337,
+  "display": "Hall in Tirol, Bezirk Innsbruck-Land, Tirol, 6060, Österreich"
+ },
+ "__rt__::volksgarten wien austria": {
+  "lat": 48.2080354,
+  "lng": 16.3617874,
+  "display": "Volksgarten, Innere Stadt, Wien, Österreich"
+ },
+ "__rt__::peterskirche wien austria": {
+  "lat": 48.2094369,
+  "lng": 16.3700108,
+  "display": "Peterskirche, 6, Petersplatz, Widmerviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::votivkirche wien austria": {
+  "lat": 48.2154147,
+  "lng": 16.3591401,
+  "display": "Votivkirche, Rooseveltplatz, Alservorstadt, Katastralgemeinde Alsergrund, Alsergrund, Wien, 1090, Österreich"
+ },
+ "__rt__::kaisergruft wien austria": {
+  "lat": 48.2057727,
+  "lng": 16.3701652,
+  "display": "Kaisergruft, Neuer Markt, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::prunksaal der osterreichischen nationalbibliothek wien austria": {
+  "lat": 48.2061679,
+  "lng": 16.3666909,
+  "display": "Prunksaal der Österreichischen Nationalbibliothek, Josefsplatz, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::wiener rathaus wien austria": {
+  "lat": 48.2108257,
+  "lng": 16.3565728,
+  "display": "Rathaus, 1, Rathausplatz, Regierungsviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::parlamentsgebaude wien austria": {
+  "lat": 48.208087,
+  "lng": 16.3584649,
+  "display": "Parlament, 3, Dr.-Karl-Renner-Ring, Regierungsviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::donaukanal wien austria": {
+  "lat": 48.1999641,
+  "lng": 16.4081925,
+  "display": "Donaukanal, Wien, Österreich"
+ },
+ "__rt__::brunnenmarkt wien austria": {
+  "lat": 48.2110967,
+  "lng": 16.3359792,
+  "display": "Brunnenmarkt, Brunnengasse, Katastralgemeinde Neulerchenfeld, Katastralgemeinde Ottakring, Ottakring, Wien, 1160, Österreich"
+ },
+ "__rt__::karmelitermarkt wien austria": {
+  "lat": 48.2174834,
+  "lng": 16.3769565,
+  "display": "Karmelitermarkt, Im Werd, Karmeliterviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, 1020, Österreich"
+ },
+ "__rt__::hannovermarkt wien austria": {
+  "lat": 48.2318209,
+  "lng": 16.3688919,
+  "display": "Hannovermarkt, Hannovergasse, Brigittenau, Katastralgemeinde Brigittenau, Brigittenau, Wien, 1200, Österreich"
+ },
+ "__rt__::meiselmarkt wien austria": {
+  "lat": 48.198347,
+  "lng": 16.3198137,
+  "display": "Meiselmarkt, 81B, Hütteldorfer Straße, Neu-Rudolfsheim, Katastralgemeinde Rudolfsheim, Rudolfsheim-Fünfhaus, Wien, 1150, Österreich"
+ },
+ "__rt__::vorgartenmarkt wien austria": {
+  "lat": 48.2217099,
+  "lng": 16.4020286,
+  "display": "Vorgartenmarkt, Stuwerviertel, Leopoldstadt, Katastralgemeinde Leopoldstadt, Leopoldstadt, Wien, Österreich"
+ },
+ "__rt__::kutschkermarkt wien austria": {
+  "lat": 48.2245071,
+  "lng": 16.3443617,
+  "display": "Kutschkermarkt, Schulgasse, Katastralgemeinde Währing, Währing, Wien, 1180, Österreich"
+ },
+ "__rt__::wiener staatsoper wien austria": {
+  "lat": 48.2032864,
+  "lng": 16.3691936,
+  "display": "Wiener Staatsoper, 2, Opernring, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::wiener musikverein wien austria": {
+  "lat": 48.2004865,
+  "lng": 16.3727252,
+  "display": "Musikverein, 1, Musikvereinsplatz, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::wiener konzerthaus wien austria": {
+  "lat": 48.2006491,
+  "lng": 16.3776125,
+  "display": "Wiener Konzerthaus, 20, Lothringerstraße, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1030, Österreich"
+ },
+ "__rt__::ankeruhr wien austria": {
+  "lat": 48.210761,
+  "lng": 16.3736753,
+  "display": "Ankeruhr, Bauernmarkt, Stubenviertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::grinzing wien austria": {
+  "lat": 48.2563022,
+  "lng": 16.3406235,
+  "display": "Katastralgemeinde Grinzing, Döbling, Wien, 1190, Österreich"
+ },
+ "__rt__::karntner straße wien austria": {
+  "lat": 48.206005,
+  "lng": 16.3713883,
+  "display": "Kärntner Straße, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::stephansplatz wien austria": {
+  "lat": 48.2080838,
+  "lng": 16.3715166,
+  "display": "Stephansplatz, Stock-im-Eisen-Platz, Kärntner Viertel, Katastralgemeinde Innere Stadt, Innere Stadt, Wien, 1010, Österreich"
+ },
+ "__rt__::katedrala svateho vita praha czechia": {
+  "lat": 50.0908638,
+  "lng": 14.400571,
+  "display": "Katedrála svatého Víta, Václava a Vojtěcha, náměstí U Svatého Jiří, Malá Strana, obvod Praha 1, Praha, 119 00, Česko"
+ },
+ "__rt__::zlata ulicka praha czechia": {
+  "lat": 50.0920574,
+  "lng": 14.4042704,
+  "display": "Zlatá ulička, Zlatá ulička u Daliborky, Malá Strana, obvod Praha 1, Praha, 119 00, Česko"
+ },
+ "__rt__::bazilika svateho jiri praha czechia": {
+  "lat": 50.0911941,
+  "lng": 14.4025673,
+  "display": "Bazilika svatého Jiří, náměstí U Svatého Jiří, Malá Strana, obvod Praha 1, Praha, 119 00, Česko"
+ },
+ "__rt__::kostel svateho mikulase praha czechia": {
+  "lat": 50.0879759,
+  "lng": 14.4032216,
+  "display": "svatý Mikuláš, Malostranské náměstí, Malá Strana, obvod Praha 1, Praha, 118 00, Česko"
+ },
+ "__rt__::loreta praha praha czechia": {
+  "lat": 50.0892818,
+  "lng": 14.3915455,
+  "display": "Loreta, Loretánské náměstí, Hradčany, obvod Praha 1, Praha, 160 41, Česko"
+ },
+ "__rt__::strahovsky klaster praha czechia": {
+  "lat": 50.0862584,
+  "lng": 14.3890688,
+  "display": "Strahovský klášter, Strahovské nádvoří, Hradčany, obvod Praha 1, Praha, 160 41, Česko"
+ },
+ "__rt__::klementinum praha czechia": {
+  "lat": 50.0866547,
+  "lng": 14.4161186,
+  "display": "Klementinum, Seminářská, Staré Město, obvod Praha 1, Praha, 115 72, Česko"
+ },
+ "__rt__::prasna brana praha czechia": {
+  "lat": 50.0872433,
+  "lng": 14.4277558,
+  "display": "Prašná brána, Celetná, Nové Město, obvod Praha 1, Praha, 110 05, Česko"
+ },
+ "__rt__::obecni dum praha czechia": {
+  "lat": 50.0877557,
+  "lng": 14.4277637,
+  "display": "Obecní dům, 5, náměstí Republiky, Josefov, obvod Praha 1, Praha, 110 00, Česko"
+ },
+ "__rt__::celetna praha czechia": {
+  "lat": 50.0872545,
+  "lng": 14.4268486,
+  "display": "Celetná, Josefov, obvod Praha 1, Praha, 110 05, Česko"
+ },
+ "__rt__::nove mesto praha czechia": {
+  "lat": 50.080215,
+  "lng": 14.4214725,
+  "display": "Nové Město, obvod Praha 1, Praha, Česko"
+ },
+ "__rt__::naplavka praha czechia": {
+  "lat": 50.0931572,
+  "lng": 14.4214082,
+  "display": "Staroměstská náplavka, Josefov, obvod Praha 1, Praha, 110 05, Česko"
+ },
+ "__rt__::vaclavske namesti praha czechia": {
+  "lat": 50.0815867,
+  "lng": 14.4271699,
+  "display": "Václavské náměstí, Nové Město, obvod Praha 1, Praha, Česko"
+ },
+ "__rt__::havelske trziste praha czechia": {
+  "lat": 50.0847723,
+  "lng": 14.4209935,
+  "display": "Havelské tržiště, V Kotcích, Staré Město, obvod Praha 1, Praha, 110 00, Česko"
+ },
+ "__rt__::farmarske trhy dejvicka praha czechia": {
+  "lat": 50.1016608,
+  "lng": 14.3934357,
+  "display": "Farmářské trhy na Kulaťáku, Dejvická, Ořechovka, Praha 6, obvod Praha 6, Praha, 166 29, Česko"
  }
 }
