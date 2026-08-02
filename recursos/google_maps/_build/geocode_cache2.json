@@ -44951,5 +44951,1541 @@
    ]
   },
   "area_key": "loch_ness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::culloden battlefield": {
+  "res": {
+   "ok": true,
+   "lat": 57.476543,
+   "lng": -4.100123,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.734,
+   "name": "Culloden Battlefield",
+   "locality": "Newlands of Culloden",
+   "osm_class": "natural=heath",
+   "wikidata": "Q651919",
+   "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.4765425,
+     "lng": -4.1001226,
+     "name": "Culloden Battlefield",
+     "source": "nominatim",
+     "osm_id": "way/89401134",
+     "wikidata": "Q651919",
+     "osm_class": "natural=heath",
+     "locality": "Newlands of Culloden",
+     "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+     "names_all": [
+      "Culloden Battlefield"
+     ],
+     "importance": 0.10673193331807429,
+     "rank": 0
+    },
+    {
+     "lat": 57.4765425,
+     "lng": -4.1001226,
+     "name": "Culloden Battlefield",
+     "source": "photon",
+     "osm_id": "W/89401134",
+     "wikidata": "",
+     "osm_class": "natural=heath",
+     "locality": "Newlands of Culloden",
+     "display": "Culloden Battlefield, Newlands of Culloden, United Kingdom",
+     "names_all": [
+      "Culloden Battlefield"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.4765425,
+     "lng": -4.1001226,
+     "name": "Culloden Battlefield",
+     "source": "nominatim",
+     "osm_id": "way/89401134",
+     "wikidata": "Q651919",
+     "osm_class": "natural=heath",
+     "locality": "Newlands of Culloden",
+     "display": "Culloden Battlefield, Leanach, Newlands of Culloden, Highland, Alba / Scotland, IV2 5EU, United Kingdom",
+     "names_all": [
+      "Culloden Battlefield"
+     ],
+     "importance": 0.10673193331807429,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::fort george": {
+  "res": {
+   "ok": true,
+   "lat": 57.583811,
+   "lng": -4.070286,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.709,
+   "name": "Fort George",
+   "locality": "Fortrose",
+   "osm_class": "military=barracks",
+   "wikidata": "Q1426707",
+   "display": "Fort George, Skinner Road, Fortrose, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5838113,
+     "lng": -4.0702864,
+     "name": "Fort George",
+     "source": "nominatim",
+     "osm_id": "way/34652563",
+     "wikidata": "Q1426707",
+     "osm_class": "military=barracks",
+     "locality": "Ardersier",
+     "display": "Fort George, Skinner Road, Ardersier, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+     "names_all": [
+      "Fort George"
+     ],
+     "importance": 0.38288639822487014,
+     "rank": 0
+    },
+    {
+     "lat": 57.5838113,
+     "lng": -4.0702864,
+     "name": "Fort George",
+     "source": "photon",
+     "osm_id": "W/34652563",
+     "wikidata": "",
+     "osm_class": "military=barracks",
+     "locality": "Fortrose",
+     "display": "Fort George, Fortrose, United Kingdom",
+     "names_all": [
+      "Fort George"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.5838113,
+     "lng": -4.0702864,
+     "name": "Fort George",
+     "source": "nominatim",
+     "osm_id": "way/34652563",
+     "wikidata": "Q1426707",
+     "osm_class": "military=barracks",
+     "locality": "Fortrose",
+     "display": "Fort George, Skinner Road, Fortrose, Highland, Alba / Scotland, IV2 7TD, United Kingdom",
+     "names_all": [
+      "Fort George"
+     ],
+     "importance": 0.38288639822487014,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::cawdor castle": {
+  "res": {
+   "ok": true,
+   "lat": 57.524183,
+   "lng": -3.926553,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.816,
+   "name": "Cawdor Castle",
+   "locality": "Cawdor",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q1051919",
+   "display": "Cawdor Castle, Smiddy Brae, Cawdor, Highland, Alba / Scotland, IV12 5RD, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.5241827,
+     "lng": -3.9265525,
+     "name": "Cawdor Castle",
+     "source": "nominatim",
+     "osm_id": "way/62452643",
+     "wikidata": "Q1051919",
+     "osm_class": "tourism=attraction",
+     "locality": "Cawdor",
+     "display": "Cawdor Castle, Smiddy Brae, Cawdor, Highland, Alba / Scotland, IV12 5RD, United Kingdom",
+     "names_all": [
+      "Cawdor Castle"
+     ],
+     "importance": 0.33029660482760953,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::chanonry point": {
+  "res": {
+   "ok": true,
+   "lat": 57.574137,
+   "lng": -4.091792,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.715,
+   "name": "Chanonry Point",
+   "locality": "Fortrose",
+   "osm_class": "tourism=viewpoint",
+   "wikidata": "Q5072570",
+   "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.5741373,
+     "lng": -4.0917924,
+     "name": "Chanonry Point",
+     "source": "nominatim",
+     "osm_id": "node/429637701",
+     "wikidata": "Q5072570",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Fortrose",
+     "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+     "names_all": [
+      "Chanonry Point"
+     ],
+     "importance": 0.32547572759041243,
+     "rank": 0
+    },
+    {
+     "lat": 57.5741373,
+     "lng": -4.0917924,
+     "name": "Chanonry Point",
+     "source": "photon",
+     "osm_id": "N/429637701",
+     "wikidata": "",
+     "osm_class": "natural=peninsula",
+     "locality": "Fortrose",
+     "display": "Chanonry Point, Fortrose, United Kingdom",
+     "names_all": [
+      "Chanonry Point"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.5741373,
+     "lng": -4.0917924,
+     "name": "Chanonry Point",
+     "source": "nominatim",
+     "osm_id": "node/429637701",
+     "wikidata": "Q5072570",
+     "osm_class": "tourism=viewpoint",
+     "locality": "Fortrose",
+     "display": "Chanonry Point, Ness Road, Fortrose, Highland, Alba / Scotland, IV10 8SD, United Kingdom",
+     "names_all": [
+      "Chanonry Point"
+     ],
+     "importance": 0.32547572759041243,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "inverness"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::glen affric": {
+  "res": {
+   "ok": true,
+   "lat": 57.263658,
+   "lng": -4.999046,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.787,
+   "name": "Glen Affric",
+   "locality": "Tomich",
+   "osm_class": "natural=valley",
+   "wikidata": "Q1140082",
+   "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.2636584,
+     "lng": -4.9990459,
+     "name": "Glen Affric",
+     "source": "nominatim",
+     "osm_id": "way/670705954",
+     "wikidata": "Q1140082",
+     "osm_class": "natural=valley",
+     "locality": "Tomich",
+     "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Affric"
+     ],
+     "importance": 0.3708703066864196,
+     "rank": 0
+    },
+    {
+     "lat": 57.2636584,
+     "lng": -4.9990459,
+     "name": "Glen Affric",
+     "source": "photon",
+     "osm_id": "W/670705954",
+     "wikidata": "",
+     "osm_class": "natural=valley",
+     "locality": "Tomich",
+     "display": "Glen Affric, Tomich, United Kingdom",
+     "names_all": [
+      "Glen Affric"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.2636584,
+     "lng": -4.9990459,
+     "name": "Glen Affric",
+     "source": "nominatim",
+     "osm_id": "way/670705954",
+     "wikidata": "Q1140082",
+     "osm_class": "natural=valley",
+     "locality": "Tomich",
+     "display": "Glen Affric, Tomich, Highland, Alba / Scotland, United Kingdom",
+     "names_all": [
+      "Glen Affric"
+     ],
+     "importance": 0.3708703066864196,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "glen_affric"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::aviemore": {
+  "res": {
+   "ok": true,
+   "lat": 57.193753,
+   "lng": -3.82875,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.801,
+   "name": "Aviemore",
+   "locality": "Aviemore",
+   "osm_class": "place=town",
+   "wikidata": "Q790938",
+   "display": "Aviemore, Highland, Alba / Scotland, PH22 1RN, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.1937528,
+     "lng": -3.8287496,
+     "name": "Aviemore",
+     "source": "nominatim",
+     "osm_id": "node/26500540",
+     "wikidata": "Q790938",
+     "osm_class": "place=town",
+     "locality": "Aviemore",
+     "display": "Aviemore, Highland, Alba / Scotland, PH22 1RN, United Kingdom",
+     "names_all": [
+      "Aviemore"
+     ],
+     "importance": 0.4697259166710002,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "cairngorms"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::corrieshalloch gorge": {
+  "res": {
+   "ok": true,
+   "lat": 57.757699,
+   "lng": -5.023221,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.744,
+   "name": "Corrieshalloch Gorge",
+   "locality": "Highland",
+   "osm_class": "highway=bus_stop",
+   "wikidata": "",
+   "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 57.757699,
+     "lng": -5.0232214,
+     "name": "Corrieshalloch Gorge",
+     "source": "nominatim",
+     "osm_id": "node/562716566",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Highland",
+     "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+     "names_all": [
+      "Corrieshalloch Gorge"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 0
+    },
+    {
+     "lat": 57.7572999,
+     "lng": -5.024271,
+     "name": "Corrieshalloch Gorge National Nature Reserve",
+     "source": "photon",
+     "osm_id": "W/670280025",
+     "wikidata": "",
+     "osm_class": "leisure=nature_reserve",
+     "locality": "Highland",
+     "display": "Corrieshalloch Gorge National Nature Reserve, United Kingdom",
+     "names_all": [
+      "Corrieshalloch Gorge National Nature Reserve"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 57.757699,
+     "lng": -5.0232214,
+     "name": "Corrieshalloch Gorge",
+     "source": "nominatim",
+     "osm_id": "node/562716566",
+     "wikidata": "",
+     "osm_class": "highway=bus_stop",
+     "locality": "Highland",
+     "display": "Corrieshalloch Gorge, A835, Auchlunachan, Highland, Alba / Scotland, IV23 2RS, United Kingdom",
+     "names_all": [
+      "Corrieshalloch Gorge"
+     ],
+     "importance": 9.99999999995449e-06,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "ullapool"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::pitlochry": {
+  "res": {
+   "ok": true,
+   "lat": 56.701969,
+   "lng": -3.730685,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.927,
+   "name": "Pitlochry",
+   "locality": "Pitlochry",
+   "osm_class": "place=town",
+   "wikidata": "Q1011665",
+   "display": "Pitlochry, Perth and Kinross, Alba / Scotland, PH16 5BX, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.701969,
+     "lng": -3.7306846,
+     "name": "Pitlochry",
+     "source": "nominatim",
+     "osm_id": "node/260624619",
+     "wikidata": "Q1011665",
+     "osm_class": "place=town",
+     "locality": "Pitlochry",
+     "display": "Pitlochry, Perth and Kinross, Alba / Scotland, PH16 5BX, United Kingdom",
+     "names_all": [
+      "Pitlochry"
+     ],
+     "importance": 0.43424699667243644,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::blair castle": {
+  "res": {
+   "ok": true,
+   "lat": 56.773376,
+   "lng": -3.856823,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.877,
+   "name": "Blair Castle",
+   "locality": "Pitlochry",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q532627",
+   "display": "Blair Castle, Hercules Walk, Old Blair, Pitlochry, Perth and Kinross, Alba / Scotland, PH18 5TL, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.7733765,
+     "lng": -3.8568231,
+     "name": "Blair Castle",
+     "source": "nominatim",
+     "osm_id": "way/1534398796",
+     "wikidata": "Q532627",
+     "osm_class": "tourism=attraction",
+     "locality": "Pitlochry",
+     "display": "Blair Castle, Hercules Walk, Old Blair, Pitlochry, Perth and Kinross, Alba / Scotland, PH18 5TL, United Kingdom",
+     "names_all": [
+      "Blair Castle"
+     ],
+     "importance": 0.36760675791195535,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::dunkeld": {
+  "res": {
+   "ok": true,
+   "lat": 56.565571,
+   "lng": -3.586255,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.847,
+   "name": "Dunkeld",
+   "locality": "Dunkeld",
+   "osm_class": "place=town",
+   "wikidata": "Q1265921",
+   "display": "Dunkeld, Perth and Kinross, Alba / Scotland, PH8 0AJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.5655711,
+     "lng": -3.5862546,
+     "name": "Dunkeld",
+     "source": "nominatim",
+     "osm_id": "node/26880090",
+     "wikidata": "Q1265921",
+     "osm_class": "place=town",
+     "locality": "Dunkeld",
+     "display": "Dunkeld, Perth and Kinross, Alba / Scotland, PH8 0AJ, United Kingdom",
+     "names_all": [
+      "Dunkeld"
+     ],
+     "importance": 0.44635990349034044,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "perthshire"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::stirling castle": {
+  "res": {
+   "ok": true,
+   "lat": 56.124031,
+   "lng": -3.948011,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.903,
+   "name": "Stirling Castle",
+   "locality": "Stirling",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q756268",
+   "display": "Stirling Castle, Lower Square, Top of the Town, Raploch, Stirling, Alba / Scotland, FK8 1EJ, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 56.1240308,
+     "lng": -3.9480115,
+     "name": "Stirling Castle",
+     "source": "nominatim",
+     "osm_id": "way/100542995",
+     "wikidata": "Q756268",
+     "osm_class": "tourism=attraction",
+     "locality": "Stirling",
+     "display": "Stirling Castle, Lower Square, Top of the Town, Raploch, Stirling, Alba / Scotland, FK8 1EJ, United Kingdom",
+     "names_all": [
+      "Stirling Castle"
+     ],
+     "importance": 0.5012935754844979,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::the kelpies": {
+  "res": {
+   "ok": true,
+   "lat": 56.019136,
+   "lng": -3.755499,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.729,
+   "name": "The Kelpies",
+   "locality": "Falkirk",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q16988858",
+   "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.0191363,
+     "lng": -3.7554986,
+     "name": "The Kelpies",
+     "source": "nominatim",
+     "osm_id": "way/654222141",
+     "wikidata": "Q16988858",
+     "osm_class": "tourism=attraction",
+     "locality": "Falkirk",
+     "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+     "names_all": [
+      "The Kelpies"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    },
+    {
+     "lat": 56.0191363,
+     "lng": -3.7554986,
+     "name": "The Kelpies",
+     "source": "photon",
+     "osm_id": "W/654222141",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "Falkirk",
+     "display": "The Kelpies, Falkirk, United Kingdom",
+     "names_all": [
+      "The Kelpies"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.0191363,
+     "lng": -3.7554986,
+     "name": "The Kelpies",
+     "source": "nominatim",
+     "osm_id": "way/654222141",
+     "wikidata": "Q16988858",
+     "osm_class": "tourism=attraction",
+     "locality": "Falkirk",
+     "display": "The Kelpies, Forth and Clyde Canal Towpath, Middlefield, Falkirk, Alba / Scotland, FK2 7ZT, United Kingdom",
+     "names_all": [
+      "The Kelpies"
+     ],
+     "importance": 0.26704010519783294,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::falkirk wheel": {
+  "res": {
+   "ok": true,
+   "lat": 56.000356,
+   "lng": -3.841725,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.735,
+   "name": "Falkirk Wheel",
+   "locality": "Falkirk",
+   "osm_class": "waterway=boat_lift",
+   "wikidata": "Q99327",
+   "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 56.0003559,
+     "lng": -3.841725,
+     "name": "Falkirk Wheel",
+     "source": "nominatim",
+     "osm_id": "way/32466476",
+     "wikidata": "Q99327",
+     "osm_class": "waterway=boat_lift",
+     "locality": "Falkirk",
+     "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+     "names_all": [
+      "Falkirk Wheel"
+     ],
+     "importance": 0.13339637216754405,
+     "rank": 0
+    },
+    {
+     "lat": 56.0004762,
+     "lng": -3.8417445,
+     "name": "Falkirk Wheel",
+     "source": "photon",
+     "osm_id": "N/287599984",
+     "wikidata": "",
+     "osm_class": "waterway=lock_gate",
+     "locality": "Falkirk",
+     "display": "Falkirk Wheel, Falkirk, United Kingdom",
+     "names_all": [
+      "Falkirk Wheel"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 56.0003559,
+     "lng": -3.841725,
+     "name": "Falkirk Wheel",
+     "source": "nominatim",
+     "osm_id": "way/32466476",
+     "wikidata": "Q99327",
+     "osm_class": "waterway=boat_lift",
+     "locality": "Falkirk",
+     "display": "Falkirk Wheel, Tamfourhill, Falkirk, Alba / Scotland, FK1 4LS, United Kingdom",
+     "names_all": [
+      "Falkirk Wheel"
+     ],
+     "importance": 0.13339637216754405,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "stirling_falkirk"
+ },
+ "multi::cairngorms|easter_ross|fort_william|glen_affric|glen_shiel|glencoe|glenfinnan|inverness|loch_lomond|loch_ness|oban_appin|perthshire|road_to_isles|skye_noroeste|skye_norte|skye_oeste|skye_sur|stirling_falkirk|torridon_applecross|ullapool::tomatin distillery": {
+  "res": {
+   "ok": true,
+   "lat": 57.338986,
+   "lng": -4.009283,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.833,
+   "name": "Tomatin Distillery",
+   "locality": "Tomatin",
+   "osm_class": "craft=distillery",
+   "wikidata": "Q982680",
+   "display": "Tomatin Distillery, Allt Dubhag Road, Tomatin, Highland, Alba / Scotland, IV13 7YT, United Kingdom",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 57.3389857,
+     "lng": -4.0092831,
+     "name": "Tomatin Distillery",
+     "source": "nominatim",
+     "osm_id": "relation/14006844",
+     "wikidata": "Q982680",
+     "osm_class": "craft=distillery",
+     "locality": "Tomatin",
+     "display": "Tomatin Distillery, Allt Dubhag Road, Tomatin, Highland, Alba / Scotland, IV13 7YT, United Kingdom",
+     "names_all": [
+      "Tomatin Distillery"
+     ],
+     "importance": 0.3754795826599041,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "cairngorms"
+ },
+ "multi::amsterdam::anne frank house": {
+  "res": {
+   "ok": true,
+   "lat": 52.375156,
+   "lng": 4.884081,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.879,
+   "name": "Anne Frank Huis",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q165366",
+   "display": "Anne Frank Huis, 267, Prinsengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 GV, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3751558,
+     "lng": 4.8840807,
+     "name": "Anne Frank Huis",
+     "source": "nominatim",
+     "osm_id": "way/601081859",
+     "wikidata": "Q165366",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Anne Frank Huis, 267, Prinsengracht, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1016 GV, Nederland",
+     "names_all": [
+      "Anne Frank Huis"
+     ],
+     "importance": 0.4523925829638384,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::rijksmuseum": {
+  "res": {
+   "ok": true,
+   "lat": 52.359843,
+   "lng": 4.88504,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.934,
+   "name": "Rijksmuseum",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q190804",
+   "display": "Rijksmuseum, Hobbemakade, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 ZC, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3598431,
+     "lng": 4.8850395,
+     "name": "Rijksmuseum",
+     "source": "nominatim",
+     "osm_id": "way/29989787",
+     "wikidata": "Q190804",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Rijksmuseum, Hobbemakade, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 ZC, Nederland",
+     "names_all": [
+      "Rijksmuseum"
+     ],
+     "importance": 0.602736659721957,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::van gogh museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.358367,
+   "lng": 4.88109,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.926,
+   "name": "Van Gogh Museum",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q224124",
+   "display": "Van Gogh Museum, 7, Paulus Potterstraat, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 CX, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3583673,
+     "lng": 4.88109,
+     "name": "Van Gogh Museum",
+     "source": "nominatim",
+     "osm_id": "relation/6577680",
+     "wikidata": "Q224124",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Van Gogh Museum, 7, Paulus Potterstraat, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 CX, Nederland",
+     "names_all": [
+      "Van Gogh Museum"
+     ],
+     "importance": 0.5166358004538341,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::stedelijk museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.3579,
+   "lng": 4.87986,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.927,
+   "name": "Stedelijk Museum Amsterdam",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q42175133",
+   "display": "Stedelijk Museum Amsterdam, 10, Museumplein, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DJ, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3579003,
+     "lng": 4.8798598,
+     "name": "Stedelijk Museum Amsterdam",
+     "source": "nominatim",
+     "osm_id": "way/44508819",
+     "wikidata": "Q42175133",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Stedelijk Museum Amsterdam, 10, Museumplein, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DJ, Nederland",
+     "names_all": [
+      "Stedelijk Museum Amsterdam"
+     ],
+     "importance": 0.5402519635727236,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::rembrandt house museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.369369,
+   "lng": 4.90125,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.789,
+   "name": "Rembrandthuis",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q277316",
+   "display": "Rembrandthuis, 4, Jodenbreestraat, Uilenburg, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 NK, Nederland",
+   "reason": "fuentes discrepan 1.3 km",
+   "alternatives": [
+    {
+     "lat": 52.3693692,
+     "lng": 4.9012497,
+     "name": "Rembrandthuis",
+     "source": "nominatim",
+     "osm_id": "node/250624673",
+     "wikidata": "Q277316",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Rembrandthuis, 4, Jodenbreestraat, Uilenburg, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 NK, Nederland",
+     "names_all": [
+      "Rembrandthuis"
+     ],
+     "importance": 0.4349345676509025,
+     "rank": 0
+    },
+    {
+     "lat": 52.3701526,
+     "lng": 4.882602,
+     "name": "Houseboat Museum",
+     "source": "photon",
+     "osm_id": "N/1727571380",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Houseboat Museum, Amsterdam, Nederland",
+     "names_all": [
+      "Houseboat Museum"
+     ],
+     "importance": 0.0,
+     "rank": 3
+    },
+    {
+     "lat": 52.3693692,
+     "lng": 4.9012497,
+     "name": "Rembrandthuis",
+     "source": "nominatim",
+     "osm_id": "node/250624673",
+     "wikidata": "Q277316",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Rembrandthuis, 4, Jodenbreestraat, Uilenburg, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 NK, Nederland",
+     "names_all": [
+      "Rembrandthuis"
+     ],
+     "importance": 0.4349345676509025,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::hortus botanicus": {
+  "res": {
+   "ok": true,
+   "lat": 52.366806,
+   "lng": 4.907778,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.796,
+   "name": "Hortus Botanicus",
+   "locality": "Amsterdam",
+   "osm_class": "leisure=garden",
+   "wikidata": "Q1576733",
+   "display": "Hortus Botanicus, 2a, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 DD, Nederland",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 52.366806,
+     "lng": 4.9077777,
+     "name": "Hortus Botanicus",
+     "source": "nominatim",
+     "osm_id": "way/31527079",
+     "wikidata": "Q1576733",
+     "osm_class": "leisure=garden",
+     "locality": "Amsterdam",
+     "display": "Hortus Botanicus, 2a, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 DD, Nederland",
+     "names_all": [
+      "Hortus Botanicus"
+     ],
+     "importance": 0.40554112705548934,
+     "rank": 0
+    },
+    {
+     "lat": 52.366806,
+     "lng": 4.9077777,
+     "name": "Hortus Botanicus",
+     "source": "photon",
+     "osm_id": "W/31527079",
+     "wikidata": "",
+     "osm_class": "leisure=garden",
+     "locality": "Amsterdam",
+     "display": "Hortus Botanicus, Amsterdam, Nederland",
+     "names_all": [
+      "Hortus Botanicus"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 52.366806,
+     "lng": 4.9077777,
+     "name": "Hortus Botanicus",
+     "source": "nominatim",
+     "osm_id": "way/31527079",
+     "wikidata": "Q1576733",
+     "osm_class": "leisure=garden",
+     "locality": "Amsterdam",
+     "display": "Hortus Botanicus, 2a, Centrum, Amsterdam, Noord-Holland, Nederland, 1018 DD, Nederland",
+     "names_all": [
+      "Hortus Botanicus"
+     ],
+     "importance": 0.40554112705548934,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::red light secrets": {
+  "res": {
+   "ok": true,
+   "lat": 52.373646,
+   "lng": 4.898975,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.896,
+   "name": "Red Light Secrets",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "",
+   "display": "Red Light Secrets, 60, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 DP, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3736461,
+     "lng": 4.8989754,
+     "name": "Red Light Secrets",
+     "source": "nominatim",
+     "osm_id": "node/4866733949",
+     "wikidata": "",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Red Light Secrets, 60, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 DP, Nederland",
+     "names_all": [
+      "Red Light Secrets"
+     ],
+     "importance": 8.268177309829888e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::hash marihuana hemp museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.371762,
+   "lng": 4.896959,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.915,
+   "name": "Hash Marihuana & Hemp Museum",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q3783595",
+   "display": "Hash Marihuana & Hemp Museum, 148, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 DV, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3717617,
+     "lng": 4.896959,
+     "name": "Hash Marihuana & Hemp Museum",
+     "source": "nominatim",
+     "osm_id": "node/1310974825",
+     "wikidata": "Q3783595",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Hash Marihuana & Hemp Museum, 148, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 DV, Nederland",
+     "names_all": [
+      "Hash Marihuana & Hemp Museum"
+     ],
+     "importance": 0.26244239079806453,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::amsterdam museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.370431,
+   "lng": 4.890429,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.926,
+   "name": "Amsterdam Museum",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q1820897",
+   "display": "Amsterdam Museum, 92, Kalverstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 PH, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3704312,
+     "lng": 4.8904288,
+     "name": "Amsterdam Museum",
+     "source": "nominatim",
+     "osm_id": "node/34050790",
+     "wikidata": "Q1820897",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Amsterdam Museum, 92, Kalverstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 PH, Nederland",
+     "names_all": [
+      "Amsterdam Museum"
+     ],
+     "importance": 0.439794044959862,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::moco museum": {
+  "res": {
+   "ok": true,
+   "lat": 52.358716,
+   "lng": 4.881962,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.905,
+   "name": "Moco Museum",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=museum",
+   "wikidata": "Q26832671",
+   "display": "Moco Museum, 20, Honthorststraat, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DE, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3587165,
+     "lng": 4.8819619,
+     "name": "Moco Museum",
+     "source": "nominatim",
+     "osm_id": "node/2816504554",
+     "wikidata": "Q26832671",
+     "osm_class": "tourism=museum",
+     "locality": "Amsterdam",
+     "display": "Moco Museum, 20, Honthorststraat, Museumkwartier, Oud-Zuid, Zuid, Amsterdam, Noord-Holland, Nederland, 1071 DE, Nederland",
+     "names_all": [
+      "Moco Museum"
+     ],
+     "importance": 0.22898814784265079,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::magere brug": {
+  "res": {
+   "ok": true,
+   "lat": 52.363584,
+   "lng": 4.902375,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.792,
+   "name": "Magere Brug",
+   "locality": "Amsterdam",
+   "osm_class": "man_made=bridge",
+   "wikidata": "Q1344400",
+   "display": "Magere Brug, Amstel, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 AL, Nederland",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 52.3635843,
+     "lng": 4.9023753,
+     "name": "Magere Brug",
+     "source": "nominatim",
+     "osm_id": "way/601096321",
+     "wikidata": "Q1344400",
+     "osm_class": "man_made=bridge",
+     "locality": "Amsterdam",
+     "display": "Magere Brug, Amstel, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 AL, Nederland",
+     "names_all": [
+      "Magere Brug"
+     ],
+     "importance": 0.3575511715318858,
+     "rank": 0
+    },
+    {
+     "lat": 52.3635843,
+     "lng": 4.9023753,
+     "name": "Magere Brug",
+     "source": "photon",
+     "osm_id": "W/601096321",
+     "wikidata": "",
+     "osm_class": "man_made=bridge",
+     "locality": "Amsterdam",
+     "display": "Magere Brug, Amsterdam, Nederland",
+     "names_all": [
+      "Magere Brug"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 52.3635843,
+     "lng": 4.9023753,
+     "name": "Magere Brug",
+     "source": "nominatim",
+     "osm_id": "way/601096321",
+     "wikidata": "Q1344400",
+     "osm_class": "man_made=bridge",
+     "locality": "Amsterdam",
+     "display": "Magere Brug, Amstel, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1017 AL, Nederland",
+     "names_all": [
+      "Magere Brug"
+     ],
+     "importance": 0.3575511715318858,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::jordaan": {
+  "res": {
+   "ok": true,
+   "lat": 52.375416,
+   "lng": 4.881096,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.923,
+   "name": "Jordaan",
+   "locality": "Amsterdam",
+   "osm_class": "place=quarter",
+   "wikidata": "Q1401387",
+   "display": "Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3754157,
+     "lng": 4.8810958,
+     "name": "Jordaan",
+     "source": "nominatim",
+     "osm_id": "relation/12011952",
+     "wikidata": "Q1401387",
+     "osm_class": "place=quarter",
+     "locality": "Amsterdam",
+     "display": "Jordaan, Centrum, Amsterdam, Noord-Holland, Nederland",
+     "names_all": [
+      "Jordaan"
+     ],
+     "importance": 0.47141288733854275,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::de pijp": {
+  "res": {
+   "ok": true,
+   "lat": 52.353346,
+   "lng": 4.896962,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.922,
+   "name": "De Pijp",
+   "locality": "Amsterdam",
+   "osm_class": "place=quarter",
+   "wikidata": "Q163319",
+   "display": "De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3533455,
+     "lng": 4.8969623,
+     "name": "De Pijp",
+     "source": "nominatim",
+     "osm_id": "relation/17927600",
+     "wikidata": "Q163319",
+     "osm_class": "place=quarter",
+     "locality": "Amsterdam",
+     "display": "De Pijp, Zuid, Amsterdam, Noord-Holland, Nederland",
+     "names_all": [
+      "De Pijp"
+     ],
+     "importance": 0.44394624380380954,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::de wallen": {
+  "res": {
+   "ok": true,
+   "lat": 52.373408,
+   "lng": 4.898281,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.773,
+   "name": "de Wallen",
+   "locality": "Amsterdam",
+   "osm_class": "tourism=attraction",
+   "wikidata": "Q447664",
+   "display": "de Wallen, Oudebrugsteeg, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 JP, Nederland",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 52.3734085,
+     "lng": 4.8982807,
+     "name": "de Wallen",
+     "source": "nominatim",
+     "osm_id": "way/266949472",
+     "wikidata": "Q447664",
+     "osm_class": "tourism=attraction",
+     "locality": "Amsterdam",
+     "display": "de Wallen, Nieuwmarkt, Nieuwmarktbuurt, Nieuwmarkt/Lastage, Centrum, Amsterdam, Noord-Holland, Nederland, 1011 JR, Nederland",
+     "names_all": [
+      "de Wallen"
+     ],
+     "importance": 0.4263602961431367,
+     "rank": 0
+    },
+    {
+     "lat": 52.3734085,
+     "lng": 4.8982807,
+     "name": "de Wallen",
+     "source": "photon",
+     "osm_id": "W/266949472",
+     "wikidata": "",
+     "osm_class": "tourism=attraction",
+     "locality": "Amsterdam",
+     "display": "de Wallen, Amsterdam, Nederland",
+     "names_all": [
+      "de Wallen"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 52.3734085,
+     "lng": 4.8982807,
+     "name": "de Wallen",
+     "source": "nominatim",
+     "osm_id": "way/266949472",
+     "wikidata": "Q447664",
+     "osm_class": "tourism=attraction",
+     "locality": "Amsterdam",
+     "display": "de Wallen, Oudebrugsteeg, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 JP, Nederland",
+     "names_all": [
+      "de Wallen"
+     ],
+     "importance": 0.4263602961431367,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::oud west": {
+  "res": {
+   "ok": true,
+   "lat": 52.364815,
+   "lng": 4.869762,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.914,
+   "name": "Oud-West",
+   "locality": "Amsterdam",
+   "osm_class": "place=quarter",
+   "wikidata": "Q478612",
+   "display": "Oud-West, West, Amsterdam, Noord-Holland, Nederland",
+   "reason": "nominatim_free",
+   "alternatives": [
+    {
+     "lat": 52.3648147,
+     "lng": 4.8697619,
+     "name": "Oud-West",
+     "source": "nominatim",
+     "osm_id": "way/410270082",
+     "wikidata": "Q478612",
+     "osm_class": "place=quarter",
+     "locality": "Amsterdam",
+     "display": "Oud-West, West, Amsterdam, Noord-Holland, Nederland",
+     "names_all": [
+      "Oud-West"
+     ],
+     "importance": 0.40473259167301984,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::amsterdam oost": {
+  "res": {
+   "ok": true,
+   "lat": 52.351814,
+   "lng": 4.930553,
+   "source": "photon",
+   "confidence": "high",
+   "score": 0.893,
+   "name": "Oost",
+   "locality": "Amsterdam",
+   "osm_class": "place=suburb",
+   "wikidata": "",
+   "display": "Oost, Amsterdam, Nederland",
+   "reason": "photon",
+   "alternatives": [
+    {
+     "lat": 52.3518137,
+     "lng": 4.9305528,
+     "name": "Oost",
+     "source": "photon",
+     "osm_id": "R/15419240",
+     "wikidata": "",
+     "osm_class": "place=suburb",
+     "locality": "Amsterdam",
+     "display": "Oost, Amsterdam, Nederland",
+     "names_all": [
+      "Oost"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::grey area coffeeshop": {
+  "res": {
+   "ok": true,
+   "lat": 52.37469,
+   "lng": 4.888872,
+   "source": "nominatim",
+   "confidence": "high",
+   "score": 0.76,
+   "name": "Grey Area Coffeeshop",
+   "locality": "Amsterdam",
+   "osm_class": "shop=cannabis",
+   "wikidata": "",
+   "display": "Grey Area Coffeeshop, 2, Oude Leliestraat, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 AW, Nederland",
+   "reason": "nominatim_bounded",
+   "alternatives": [
+    {
+     "lat": 52.3746905,
+     "lng": 4.8888723,
+     "name": "Grey Area Coffeeshop",
+     "source": "nominatim",
+     "osm_id": "node/4785073316",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Grey Area Coffeeshop, 2, Oude Leliestraat, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 AW, Nederland",
+     "names_all": [
+      "Grey Area Coffeeshop"
+     ],
+     "importance": 8.268177309829888e-05,
+     "rank": 0
+    },
+    {
+     "lat": 52.3746905,
+     "lng": 4.8888723,
+     "name": "Grey Area Coffeeshop",
+     "source": "photon",
+     "osm_id": "N/4785073316",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Grey Area Coffeeshop, Amsterdam, Nederland",
+     "names_all": [
+      "Grey Area Coffeeshop"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 52.3746905,
+     "lng": 4.8888723,
+     "name": "Grey Area Coffeeshop",
+     "source": "nominatim",
+     "osm_id": "node/4785073316",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Grey Area Coffeeshop, 2, Oude Leliestraat, Grachtengordel, Centrum, Amsterdam, Noord-Holland, Nederland, 1015 AW, Nederland",
+     "names_all": [
+      "Grey Area Coffeeshop"
+     ],
+     "importance": 8.268177309829888e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
+ },
+ "multi::amsterdam::dampkring": {
+  "res": {
+   "ok": true,
+   "lat": 52.380066,
+   "lng": 4.892923,
+   "source": "nominatim",
+   "confidence": "review",
+   "score": 0.758,
+   "name": "Dampkring",
+   "locality": "Amsterdam",
+   "osm_class": "shop=cannabis",
+   "wikidata": "",
+   "display": "Dampkring, 44, Haarlemmerstraat, Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 ES, Nederland",
+   "reason": "fuentes discrepan 1.4 km",
+   "alternatives": [
+    {
+     "lat": 52.3677317,
+     "lng": 4.8904809,
+     "name": "Dampkring",
+     "source": "nominatim",
+     "osm_id": "node/5040954429",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Dampkring, 29, Handboogstraat, Centrum, Amsterdam, Noord-Holland, Nederland, 1012 XM, Nederland",
+     "names_all": [
+      "Dampkring"
+     ],
+     "importance": 8.268177309829888e-05,
+     "rank": 4
+    },
+    {
+     "lat": 52.3677317,
+     "lng": 4.8904809,
+     "name": "Dampkring",
+     "source": "photon",
+     "osm_id": "N/5040954429",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Dampkring, Amsterdam, Nederland",
+     "names_all": [
+      "Dampkring"
+     ],
+     "importance": 0.0,
+     "rank": 0
+    },
+    {
+     "lat": 52.380066,
+     "lng": 4.8929225,
+     "name": "Dampkring",
+     "source": "nominatim",
+     "osm_id": "node/2399746758",
+     "wikidata": "",
+     "osm_class": "shop=cannabis",
+     "locality": "Amsterdam",
+     "display": "Dampkring, 44, Haarlemmerstraat, Haarlemmerbuurt, Centrum, Amsterdam, Noord-Holland, Nederland, 1013 ES, Nederland",
+     "names_all": [
+      "Dampkring"
+     ],
+     "importance": 8.268177309829888e-05,
+     "rank": 0
+    }
+   ]
+  },
+  "area_key": "amsterdam"
  }
 }
