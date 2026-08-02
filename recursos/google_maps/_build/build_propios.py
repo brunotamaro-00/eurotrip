@@ -96,6 +96,37 @@ def cruzar() -> list[dict]:
 # ---------------------------------------------------------------------------
 # 2 — geocodificar el resto
 # ---------------------------------------------------------------------------
+import re as _re
+
+# Nombres que describen una actividad, un plato o una película, no un punto fijo.
+NO_ES_LUGAR = _re.compile(
+    r"(?i)^(caminar|callejear|callejeo|pasear|paseo por|recorrer|subir|bajar|"
+    r"ba[ñn]o|atardecer|amanecer|vuelta al|tours? tem|tour de|combinados?$)|"
+    r"(?i)(nocturno|sin rumbo|a pie|en bici|combo)$|"
+    r"(?i)^(panzerotti|focaccia|orecchiette|arancini|granita|cannoli|"
+    r"kremna rezina|gelato|pasticciotto|rustico|puccia|sfogliatella)\b|"
+    r"(?i)^(la pasi[oó]n de cristo|no time to die|el evangelio seg[uú]n)"
+)
+
+# Separadores de nombre compuesto: `A + B`, `A / B`, `A y B`
+_SEPARADORES = _re.compile(r"\s+\+\s+|\s+/\s+|\s+y\s+(?=[A-ZÁÉÍÓÚÑ])")
+
+
+def variantes_consulta(nombre: str) -> list[str]:
+    """Nombre completo y, si es compuesto, cada componente por separado.
+
+    Es el fallo más común de este lote: `Palazzo dei Normanni + Cappella
+    Palatina` o `Chiesa di Santa Chiara / Santa Teresa` no resuelven enteros,
+    pero su primer componente sí. El marcador conserva el nombre compuesto.
+    """
+    partes = [p.strip(" .,;") for p in _SEPARADORES.split(nombre) if p.strip(" .,;")]
+    out = [nombre]
+    for p in partes:
+        if p != nombre and len(p) > 3 and p not in out:
+            out.append(p)
+    return out
+
+
 def geocode(skip_overpass: bool = True, solo_cache: bool = False) -> list[dict]:
     """`solo_cache` resuelve sin tocar la red, usando lo que ya está cacheado.
 
@@ -125,15 +156,25 @@ def geocode(skip_overpass: bool = True, solo_cache: bool = False) -> list[dict]:
             if interrumpido["v"]:
                 break
             a = AREAS[p["area_key"]]
+            if NO_ES_LUGAR.search(p["nombre_local"]):
+                p["origen_geo"] = "descartado_no_es_lugar"
+                continue
             if solo_cache and geo.cache_key(p["area_key"], p["nombre_local"]) not in cache:
                 continue
-            try:
-                r = geo.resolve(p["nombre_local"], a, p.get("tipo", ""),
-                                query_extra=f"{a.locality}, {a.country_en}", cache=cache)
-            except geo.RateLimited as e:
-                print(f"  RATE LIMIT, corto acá: {e}", flush=True)
-                break
-            if r.ok:
+            r = None
+            for variante in variantes_consulta(p["nombre_local"]):
+                if solo_cache and geo.cache_key(p["area_key"], variante) not in cache:
+                    continue
+                try:
+                    r = geo.resolve(variante, a, p.get("tipo", ""),
+                                    query_extra=f"{a.locality}, {a.country_en}", cache=cache)
+                except geo.RateLimited as e:
+                    print(f"  RATE LIMIT, corto acá: {e}", flush=True)
+                    r = None
+                    break
+                if r.ok:
+                    break
+            if r is not None and r.ok:
                 p["lat"], p["lng"] = r.lat, r.lng
                 p["locality"] = r.locality or a.locality
                 p["origen_geo"] = r.source

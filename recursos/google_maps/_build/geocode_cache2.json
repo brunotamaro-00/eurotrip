@@ -37536,5 +37536,2389 @@
     "rank": 0
    }
   ]
+ },
+ "karst::vinedos del karst": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::teran": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::lipica": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "karst::skocjan combinados": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "soca::walk of peace": {
+  "ok": true,
+  "lat": 46.340924,
+  "lng": 13.583121,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.568,
+  "name": "The Walks of Peace",
+  "locality": "Kal-Koritnica",
+  "osm_class": "highway=path",
+  "wikidata": "",
+  "display": "The Walks of Peace, Kal-Koritnica, Slovenija",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 46.3409242,
+    "lng": 13.583121,
+    "name": "The Walks of Peace",
+    "source": "photon",
+    "osm_id": "W/76482700",
+    "wikidata": "",
+    "osm_class": "highway=path",
+    "locality": "Kal-Koritnica",
+    "display": "The Walks of Peace, Kal-Koritnica, Slovenija",
+    "names_all": [
+     "The Walks of Peace"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "piran::molo audace": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::waterfront": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::castillo de san giusto": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "piran::catedral": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "florencia::duomo": {
+  "ok": true,
+  "lat": 43.773328,
+  "lng": 11.257986,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.755,
+  "name": "Museo dell'Opera del Duomo",
+  "locality": "Firenze",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Museo dell'Opera del Duomo, Firenze, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 43.7733279,
+    "lng": 11.2579865,
+    "name": "Museo dell'Opera del Duomo",
+    "source": "photon",
+    "osm_id": "W/456578419",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Firenze",
+    "display": "Museo dell'Opera del Duomo, Firenze, Italia",
+    "names_all": [
+     "Museo dell'Opera del Duomo"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "florencia::jardines de boboli": {
+  "ok": true,
+  "lat": 43.763278,
+  "lng": 11.249899,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.67,
+  "name": "Giardino di Boboli",
+  "locality": "Firenze",
+  "osm_class": "leisure=park",
+  "wikidata": "",
+  "display": "Giardino di Boboli, Firenze, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 43.7632781,
+    "lng": 11.2498992,
+    "name": "Giardino di Boboli",
+    "source": "photon",
+    "osm_id": "W/24267141",
+    "wikidata": "",
+    "osm_class": "leisure=park",
+    "locality": "Firenze",
+    "display": "Giardino di Boboli, Firenze, Italia",
+    "names_all": [
+     "Giardino di Boboli"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "florencia::borghini": {
+  "ok": true,
+  "lat": 43.768373,
+  "lng": 11.261553,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.741,
+  "name": "Palazzo Borghini",
+  "locality": "Firenze",
+  "osm_class": "historic=building",
+  "wikidata": "Q16586014",
+  "display": "Palazzo Borghini, Via Antonio Magliabechi, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 43.7683734,
+    "lng": 11.2615529,
+    "name": "Palazzo Borghini",
+    "source": "nominatim",
+    "osm_id": "relation/4100876",
+    "wikidata": "Q16586014",
+    "osm_class": "historic=building",
+    "locality": "Firenze",
+    "display": "Palazzo Borghini, Via Antonio Magliabechi, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo Borghini"
+    ],
+    "importance": 0.23094323434513592,
+    "rank": 1
+   },
+   {
+    "lat": 43.7683734,
+    "lng": 11.2615529,
+    "name": "Palazzo Borghini",
+    "source": "photon",
+    "osm_id": "R/4100876",
+    "wikidata": "",
+    "osm_class": "building=yes",
+    "locality": "Firenze",
+    "display": "Palazzo Borghini, Firenze, Italia",
+    "names_all": [
+     "Palazzo Borghini"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 43.7872642,
+    "lng": 11.2689497,
+    "name": "Borghini",
+    "source": "nominatim",
+    "osm_id": "node/661648694",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Firenze",
+    "display": "Borghini, Via Vincenzo Borghini, Le Cure, Quartiere 2, Firenze, Toscana, 50133, Italia",
+    "names_all": [
+     "Borghini"
+    ],
+    "importance": 8.105668726630072e-05,
+    "rank": 1
+   },
+   {
+    "lat": 43.7683734,
+    "lng": 11.2615529,
+    "name": "Palazzo Borghini",
+    "source": "nominatim",
+    "osm_id": "relation/4100876",
+    "wikidata": "Q16586014",
+    "osm_class": "historic=building",
+    "locality": "Firenze",
+    "display": "Palazzo Borghini, Via Antonio Magliabechi, San Niccolò, Quartiere 1, Firenze, Toscana, 50122, Italia",
+    "names_all": [
+     "Palazzo Borghini"
+    ],
+    "importance": 0.23094323434513592,
+    "rank": 1
+   }
+  ]
+ },
+ "bari::piazza mercantile": {
+  "ok": true,
+  "lat": 41.127971,
+  "lng": 16.871604,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.766,
+  "name": "Piazza Mercantile",
+  "locality": "Bari",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Piazza Mercantile, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.127971,
+    "lng": 16.8716042,
+    "name": "Piazza Mercantile",
+    "source": "nominatim",
+    "osm_id": "way/30008924",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Piazza Mercantile, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Piazza Mercantile"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   },
+   {
+    "lat": 41.1281479,
+    "lng": 16.871425,
+    "name": "Piazza Mercantile",
+    "source": "photon",
+    "osm_id": "W/677660104",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Piazza Mercantile, Bari, Italia",
+    "names_all": [
+     "Piazza Mercantile"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.127971,
+    "lng": 16.8716042,
+    "name": "Piazza Mercantile",
+    "source": "nominatim",
+    "osm_id": "way/30008924",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Piazza Mercantile, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Piazza Mercantile"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   },
+   {
+    "lat": 41.127971,
+    "lng": 16.8716042,
+    "name": "Piazza Mercantile",
+    "source": "nominatim",
+    "osm_id": "way/30008924",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Bari",
+    "display": "Piazza Mercantile, San Nicola, Municipio 1, Bari, Puglia, 70122, Italia",
+    "names_all": [
+     "Piazza Mercantile"
+    ],
+    "importance": 0.05340520561532002,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::chiesa di san marco dei veneziani": {
+  "ok": true,
+  "lat": 41.129657,
+  "lng": 16.869741,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.773,
+  "name": "Chiesa di San Marco dei veneziani",
+  "locality": "Bari",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1255831",
+  "display": "Chiesa di San Marco dei veneziani, Strada San Marco, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 41.1296566,
+    "lng": 16.8697412,
+    "name": "Chiesa di San Marco dei veneziani",
+    "source": "nominatim",
+    "osm_id": "way/417998780",
+    "wikidata": "Q1255831",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Chiesa di San Marco dei veneziani, Strada San Marco, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+    "names_all": [
+     "Chiesa di San Marco dei veneziani"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   },
+   {
+    "lat": 41.1296566,
+    "lng": 16.8697412,
+    "name": "Chiesa di San Marco dei veneziani",
+    "source": "photon",
+    "osm_id": "W/417998780",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Chiesa di San Marco dei veneziani, Bari, Italia",
+    "names_all": [
+     "Chiesa di San Marco dei veneziani"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 41.1296566,
+    "lng": 16.8697412,
+    "name": "Chiesa di San Marco dei veneziani",
+    "source": "nominatim",
+    "osm_id": "way/417998780",
+    "wikidata": "Q1255831",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Chiesa di San Marco dei veneziani, Strada San Marco, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+    "names_all": [
+     "Chiesa di San Marco dei veneziani"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   },
+   {
+    "lat": 41.1296566,
+    "lng": 16.8697412,
+    "name": "Chiesa di San Marco dei veneziani",
+    "source": "nominatim",
+    "osm_id": "way/417998780",
+    "wikidata": "Q1255831",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Bari",
+    "display": "Chiesa di San Marco dei veneziani, Strada San Marco, San Nicola, Municipio 1, Bari, Puglia, 71123, Italia",
+    "names_all": [
+     "Chiesa di San Marco dei veneziani"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   }
+  ]
+ },
+ "bari::mercato del pesce": {
+  "ok": true,
+  "lat": 41.128318,
+  "lng": 16.874669,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.874,
+  "name": "Mercato del pesce",
+  "locality": "Bari",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Mercato del pesce, Molo Sant'Antonio, Municipio 1, Bari, Puglia, 71123, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 41.1283184,
+    "lng": 16.8746695,
+    "name": "Mercato del pesce",
+    "source": "nominatim",
+    "osm_id": "node/5647316923",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Bari",
+    "display": "Mercato del pesce, Molo Sant'Antonio, Municipio 1, Bari, Puglia, 71123, Italia",
+    "names_all": [
+     "Mercato del pesce"
+    ],
+    "importance": 7.187228198667914e-05,
+    "rank": 1
+   }
+  ]
+ },
+ "lecce::cattedrale": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::campanario": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "lecce::chiesa di santa chiara": {
+  "ok": true,
+  "lat": 40.351792,
+  "lng": 18.171262,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.911,
+  "name": "Chiesa di Santa Chiara",
+  "locality": "Lecce",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1256154",
+  "display": "Chiesa di Santa Chiara, Via Arte della Cartapesta, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.351792,
+    "lng": 18.1712622,
+    "name": "Chiesa di Santa Chiara",
+    "source": "nominatim",
+    "osm_id": "way/299719063",
+    "wikidata": "Q1256154",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Lecce",
+    "display": "Chiesa di Santa Chiara, Via Arte della Cartapesta, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Chiesa di Santa Chiara"
+    ],
+    "importance": 0.17283327415591612,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::teatro politeama greco": {
+  "ok": true,
+  "lat": 40.353127,
+  "lng": 18.174812,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.789,
+  "name": "Teatro Politeama Greco",
+  "locality": "Lecce",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q25297559",
+  "display": "Teatro Politeama Greco, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.3531274,
+    "lng": 18.1748118,
+    "name": "Teatro Politeama Greco",
+    "source": "nominatim",
+    "osm_id": "way/299748941",
+    "wikidata": "Q25297559",
+    "osm_class": "amenity=theatre",
+    "locality": "Lecce",
+    "display": "Teatro Politeama Greco, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Teatro Politeama Greco"
+    ],
+    "importance": 0.3047903492217065,
+    "rank": 0
+   },
+   {
+    "lat": 40.3531274,
+    "lng": 18.1748118,
+    "name": "Teatro Politeama Greco",
+    "source": "photon",
+    "osm_id": "W/299748941",
+    "wikidata": "",
+    "osm_class": "amenity=theatre",
+    "locality": "Lecce",
+    "display": "Teatro Politeama Greco, Lecce, Italia",
+    "names_all": [
+     "Teatro Politeama Greco"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.3531274,
+    "lng": 18.1748118,
+    "name": "Teatro Politeama Greco",
+    "source": "nominatim",
+    "osm_id": "way/299748941",
+    "wikidata": "Q25297559",
+    "osm_class": "amenity=theatre",
+    "locality": "Lecce",
+    "display": "Teatro Politeama Greco, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Teatro Politeama Greco"
+    ],
+    "importance": 0.3047903492217065,
+    "rank": 0
+   },
+   {
+    "lat": 40.3531274,
+    "lng": 18.1748118,
+    "name": "Teatro Politeama Greco",
+    "source": "nominatim",
+    "osm_id": "way/299748941",
+    "wikidata": "Q25297559",
+    "osm_class": "amenity=theatre",
+    "locality": "Lecce",
+    "display": "Teatro Politeama Greco, Piazzetta Colonnello De Cristoforis, Lecce, Puglia, 73100, Italia",
+    "names_all": [
+     "Teatro Politeama Greco"
+    ],
+    "importance": 0.3047903492217065,
+    "rank": 0
+   }
+  ]
+ },
+ "lecce::via palmieri": {
+  "ok": true,
+  "lat": 40.332482,
+  "lng": 18.22356,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.714,
+  "name": "Via Palmieri",
+  "locality": "Lizzanello",
+  "osm_class": "highway=unclassified",
+  "wikidata": "",
+  "display": "Via Palmieri, Merine, Lizzanello, Lecce, Puglia, 73023, Italia",
+  "reason": "fuentes discrepan 5.2 km",
+  "alternatives": [
+   {
+    "lat": 40.3324815,
+    "lng": 18.2235596,
+    "name": "Via Palmieri",
+    "source": "nominatim",
+    "osm_id": "way/1022839546",
+    "wikidata": "",
+    "osm_class": "highway=unclassified",
+    "locality": "Lizzanello",
+    "display": "Via Palmieri, Merine, Lizzanello, Lecce, Puglia, 73023, Italia",
+    "names_all": [
+     "Via Palmieri"
+    ],
+    "importance": 0.053384273289082136,
+    "rank": 0
+   },
+   {
+    "lat": 40.3536359,
+    "lng": 18.1685829,
+    "name": "Via Giuseppe Palmieri",
+    "source": "photon",
+    "osm_id": "W/51112731",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Lecce",
+    "display": "Via Giuseppe Palmieri, Lecce, Italia",
+    "names_all": [
+     "Via Giuseppe Palmieri"
+    ],
+    "importance": 0.0,
+    "rank": 3
+   },
+   {
+    "lat": 40.3324815,
+    "lng": 18.2235596,
+    "name": "Via Palmieri",
+    "source": "nominatim",
+    "osm_id": "way/1022839546",
+    "wikidata": "",
+    "osm_class": "highway=unclassified",
+    "locality": "Lizzanello",
+    "display": "Via Palmieri, Merine, Lizzanello, Lecce, Puglia, 73023, Italia",
+    "names_all": [
+     "Via Palmieri"
+    ],
+    "importance": 0.053384273289082136,
+    "rank": 9
+   },
+   {
+    "lat": 40.3324815,
+    "lng": 18.2235596,
+    "name": "Via Palmieri",
+    "source": "nominatim",
+    "osm_id": "way/1022839546",
+    "wikidata": "",
+    "osm_class": "highway=unclassified",
+    "locality": "Lizzanello",
+    "display": "Via Palmieri, Merine, Lizzanello, Lecce, Puglia, 73023, Italia",
+    "names_all": [
+     "Via Palmieri"
+    ],
+    "importance": 0.053384273289082136,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::santa maria de idris": {
+  "ok": true,
+  "lat": 40.662537,
+  "lng": 16.611151,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.825,
+  "name": "Chiesa di Santa Maria de Armenis",
+  "locality": "Matera",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa di Santa Maria de Armenis, Matera, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.6625375,
+    "lng": 16.6111505,
+    "name": "Chiesa di Santa Maria de Armenis",
+    "source": "photon",
+    "osm_id": "N/2506015717",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Matera",
+    "display": "Chiesa di Santa Maria de Armenis, Matera, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria de Armenis"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::madonna delle virtu": {
+  "ok": true,
+  "lat": 40.668418,
+  "lng": 16.61122,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.867,
+  "name": "Chiesa Madonna delle Virtù",
+  "locality": "Matera",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa Madonna delle Virtù, Matera, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 40.668324,
+    "lng": 16.6115107,
+    "name": "Madonna delle virtù",
+    "source": "nominatim",
+    "osm_id": "node/12144198582",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Matera",
+    "display": "Madonna delle virtù, Via Madonna delle Virtù, Sassi di Matera, Rioni Sassi, Pedale della Palomba, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Madonna delle virtù"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.6684181,
+    "lng": 16.6112198,
+    "name": "Chiesa Madonna delle Virtù",
+    "source": "photon",
+    "osm_id": "N/6593463299",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Matera",
+    "display": "Chiesa Madonna delle Virtù, Matera, Italia",
+    "names_all": [
+     "Chiesa Madonna delle Virtù"
+    ],
+    "importance": 0.0,
+    "rank": 6
+   }
+  ]
+ },
+ "matera::chiesa di san francesco dassisi": {
+  "ok": true,
+  "lat": 40.665464,
+  "lng": 16.609293,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.918,
+  "name": "Chiesa di San Francesco d'Assisi",
+  "locality": "Matera",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q24694608",
+  "display": "Chiesa di San Francesco d'Assisi, Piazza San Francesco, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 40.6654644,
+    "lng": 16.6092935,
+    "name": "Chiesa di San Francesco d'Assisi",
+    "source": "nominatim",
+    "osm_id": "way/242627556",
+    "wikidata": "Q24694608",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Matera",
+    "display": "Chiesa di San Francesco d'Assisi, Piazza San Francesco, Rioni Sassi, Matera, Basilicata, 75100, Italia",
+    "names_all": [
+     "Chiesa di San Francesco d'Assisi"
+    ],
+    "importance": 0.2885983973306146,
+    "rank": 0
+   }
+  ]
+ },
+ "matera::villaggio saraceno": {
+  "ok": true,
+  "lat": 40.616784,
+  "lng": 16.655333,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.713,
+  "name": "Villaggio Saraceno",
+  "locality": "Matera",
+  "osm_class": "historic=ruins",
+  "wikidata": "Q16621650",
+  "display": "Villaggio Saraceno, Sentiero per il Villaggio Saraceno, Matera, Basilicata, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.6167837,
+    "lng": 16.655333,
+    "name": "Villaggio Saraceno",
+    "source": "nominatim",
+    "osm_id": "way/243684879",
+    "wikidata": "Q16621650",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Villaggio Saraceno, Sentiero per il Villaggio Saraceno, Matera, Basilicata, Italia",
+    "names_all": [
+     "Villaggio Saraceno"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.6167837,
+    "lng": 16.655333,
+    "name": "Villaggio Saraceno",
+    "source": "photon",
+    "osm_id": "W/243684879",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Villaggio Saraceno, Matera, Italia",
+    "names_all": [
+     "Villaggio Saraceno"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.6167837,
+    "lng": 16.655333,
+    "name": "Villaggio Saraceno",
+    "source": "nominatim",
+    "osm_id": "way/243684879",
+    "wikidata": "Q16621650",
+    "osm_class": "tourism=attraction",
+    "locality": "Matera",
+    "display": "Villaggio Saraceno, Sentiero per il Villaggio Saraceno, Matera, Basilicata, Italia",
+    "names_all": [
+     "Villaggio Saraceno"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.6167837,
+    "lng": 16.655333,
+    "name": "Villaggio Saraceno",
+    "source": "nominatim",
+    "osm_id": "way/243684879",
+    "wikidata": "Q16621650",
+    "osm_class": "historic=ruins",
+    "locality": "Matera",
+    "display": "Villaggio Saraceno, Sentiero per il Villaggio Saraceno, Matera, Basilicata, Italia",
+    "names_all": [
+     "Villaggio Saraceno"
+    ],
+    "importance": 6.421988250548589e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::palazzo vescovile": {
+  "ok": true,
+  "lat": 40.734294,
+  "lng": 17.578535,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.744,
+  "name": "Palazzo Vescovile",
+  "locality": "Ostuni",
+  "osm_class": "historic=castle",
+  "wikidata": "Q118727970",
+  "display": "Palazzo Vescovile, Largo Beato Papa Giovanni Paolo II, Ostuni, Brindisi, Puglia, 72017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7342939,
+    "lng": 17.5785354,
+    "name": "Palazzo Vescovile",
+    "source": "nominatim",
+    "osm_id": "way/421164811",
+    "wikidata": "Q118727970",
+    "osm_class": "building=house",
+    "locality": "Ostuni",
+    "display": "Palazzo Vescovile, Largo Beato Papa Giovanni Paolo II, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Palazzo Vescovile"
+    ],
+    "importance": 5.468757152661963e-05,
+    "rank": 0
+   },
+   {
+    "lat": 40.7342939,
+    "lng": 17.5785354,
+    "name": "Palazzo Vescovile",
+    "source": "photon",
+    "osm_id": "W/421164811",
+    "wikidata": "",
+    "osm_class": "building=house",
+    "locality": "Ostuni",
+    "display": "Palazzo Vescovile, Ostuni, Italia",
+    "names_all": [
+     "Palazzo Vescovile"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 40.7342939,
+    "lng": 17.5785354,
+    "name": "Palazzo Vescovile",
+    "source": "nominatim",
+    "osm_id": "way/421164811",
+    "wikidata": "Q118727970",
+    "osm_class": "historic=castle",
+    "locality": "Ostuni",
+    "display": "Palazzo Vescovile, Largo Beato Papa Giovanni Paolo II, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Palazzo Vescovile"
+    ],
+    "importance": 5.468757152661963e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::chiesa di san vito martire": {
+  "ok": true,
+  "lat": 40.733714,
+  "lng": 17.578667,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.754,
+  "name": "Chiesa San Vito Martire",
+  "locality": "Ostuni",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa San Vito Martire, Ostuni, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7337141,
+    "lng": 17.5786667,
+    "name": "Chiesa San Vito Martire",
+    "source": "photon",
+    "osm_id": "W/421166542",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ostuni",
+    "display": "Chiesa San Vito Martire, Ostuni, Italia",
+    "names_all": [
+     "Chiesa San Vito Martire"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::cavallino bianco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::cortili": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::palazzo dei normanni": {
+  "ok": true,
+  "lat": 38.111206,
+  "lng": 13.35325,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.861,
+  "name": "Palazzo dei Normanni",
+  "locality": "Palermo",
+  "osm_class": "building=yes",
+  "wikidata": "Q1473825",
+  "display": "Palazzo dei Normanni, 1, Piazza del Parlamento, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1112064,
+    "lng": 13.3532496,
+    "name": "Palazzo dei Normanni",
+    "source": "nominatim",
+    "osm_id": "relation/395010",
+    "wikidata": "Q1473825",
+    "osm_class": "building=yes",
+    "locality": "Palermo",
+    "display": "Palazzo dei Normanni, 1, Piazza del Parlamento, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Palazzo dei Normanni"
+    ],
+    "importance": 0.4291272415115571,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::terraza del grand hotel wagner": {
+  "ok": true,
+  "lat": 38.123604,
+  "lng": 13.358526,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.839,
+  "name": "Grand Hotel Wagner",
+  "locality": "Palermo",
+  "osm_class": "tourism=hotel",
+  "wikidata": "",
+  "display": "Grand Hotel Wagner, Palermo, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 38.1236045,
+    "lng": 13.3585263,
+    "name": "Grand Hotel Wagner",
+    "source": "photon",
+    "osm_id": "W/278479436",
+    "wikidata": "",
+    "osm_class": "tourism=hotel",
+    "locality": "Palermo",
+    "display": "Grand Hotel Wagner, Palermo, Italia",
+    "names_all": [
+     "Grand Hotel Wagner"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::via maqueda": {
+  "ok": true,
+  "lat": 38.118456,
+  "lng": 13.359669,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.767,
+  "name": "Via Maqueda",
+  "locality": "Palermo",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "Q4010658",
+  "display": "Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1184556,
+    "lng": 13.3596687,
+    "name": "Via Maqueda",
+    "source": "nominatim",
+    "osm_id": "way/86273383",
+    "wikidata": "Q4010658",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Via Maqueda"
+    ],
+    "importance": 0.3022467077917196,
+    "rank": 0
+   },
+   {
+    "lat": 38.1152535,
+    "lng": 13.3617406,
+    "name": "Via Maqueda",
+    "source": "photon",
+    "osm_id": "W/1112272544",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Via Maqueda, Palermo, Italia",
+    "names_all": [
+     "Via Maqueda"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 38.1184556,
+    "lng": 13.3596687,
+    "name": "Via Maqueda",
+    "source": "nominatim",
+    "osm_id": "way/86273383",
+    "wikidata": "Q4010658",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Via Maqueda"
+    ],
+    "importance": 0.3022467077917196,
+    "rank": 0
+   },
+   {
+    "lat": 38.1184556,
+    "lng": 13.3596687,
+    "name": "Via Maqueda",
+    "source": "nominatim",
+    "osm_id": "way/86273383",
+    "wikidata": "Q4010658",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Via Maqueda, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Via Maqueda"
+    ],
+    "importance": 0.3022467077917196,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::antico mercato di santanna": {
+  "ok": true,
+  "lat": 38.115367,
+  "lng": 13.365132,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.596,
+  "name": "Chiesa di Sant'Anna la Misericordia",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Chiesa di Sant'Anna la Misericordia, Palermo, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 38.1153669,
+    "lng": 13.3651323,
+    "name": "Chiesa di Sant'Anna la Misericordia",
+    "source": "photon",
+    "osm_id": "W/49863590",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Chiesa di Sant'Anna la Misericordia, Palermo, Italia",
+    "names_all": [
+     "Chiesa di Sant'Anna la Misericordia"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::cimitero dei rotoli": {
+  "ok": true,
+  "lat": 38.160424,
+  "lng": 13.368614,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.757,
+  "name": "Cimitero di Santa Maria dei Rotoli",
+  "locality": "Palermo",
+  "osm_class": "landuse=cemetery",
+  "wikidata": "Q3676947",
+  "display": "Cimitero di Santa Maria dei Rotoli, VII Circoscrizione, Palermo, Sicilia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1604245,
+    "lng": 13.3686141,
+    "name": "Cimitero di Santa Maria dei Rotoli",
+    "source": "nominatim",
+    "osm_id": "way/25453095",
+    "wikidata": "Q3676947",
+    "osm_class": "landuse=cemetery",
+    "locality": "Palermo",
+    "display": "Cimitero di Santa Maria dei Rotoli, VII Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Cimitero di Santa Maria dei Rotoli"
+    ],
+    "importance": 0.244781979759108,
+    "rank": 0
+   },
+   {
+    "lat": 38.1604245,
+    "lng": 13.3686141,
+    "name": "Cimitero di Santa Maria dei Rotoli",
+    "source": "photon",
+    "osm_id": "W/25453095",
+    "wikidata": "",
+    "osm_class": "landuse=cemetery",
+    "locality": "Palermo",
+    "display": "Cimitero di Santa Maria dei Rotoli, Palermo, Italia",
+    "names_all": [
+     "Cimitero di Santa Maria dei Rotoli"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 38.1604245,
+    "lng": 13.3686141,
+    "name": "Cimitero di Santa Maria dei Rotoli",
+    "source": "nominatim",
+    "osm_id": "way/25453095",
+    "wikidata": "Q3676947",
+    "osm_class": "landuse=cemetery",
+    "locality": "Palermo",
+    "display": "Cimitero di Santa Maria dei Rotoli, VII Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Cimitero di Santa Maria dei Rotoli"
+    ],
+    "importance": 0.244781979759108,
+    "rank": 0
+   },
+   {
+    "lat": 38.1604245,
+    "lng": 13.3686141,
+    "name": "Cimitero di Santa Maria dei Rotoli",
+    "source": "nominatim",
+    "osm_id": "way/25453095",
+    "wikidata": "Q3676947",
+    "osm_class": "landuse=cemetery",
+    "locality": "Palermo",
+    "display": "Cimitero di Santa Maria dei Rotoli, VII Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Cimitero di Santa Maria dei Rotoli"
+    ],
+    "importance": 0.244781979759108,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::teatro greco romano": {
+  "ok": true,
+  "lat": 37.502879,
+  "lng": 15.083576,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.854,
+  "name": "Teatro Greco Romano",
+  "locality": "Catania",
+  "osm_class": "building=ruins",
+  "wikidata": "Q600690",
+  "display": "Teatro Greco Romano, Via Teatro Greco, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.5028795,
+    "lng": 15.083576,
+    "name": "Teatro Greco Romano",
+    "source": "nominatim",
+    "osm_id": "way/29315736",
+    "wikidata": "Q600690",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Catania",
+    "display": "Teatro Greco Romano, Via Teatro Greco, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Teatro Greco Romano"
+    ],
+    "importance": 0.3041636407631838,
+    "rank": 0
+   },
+   {
+    "lat": 37.5028795,
+    "lng": 15.083576,
+    "name": "Teatro Greco Romano",
+    "source": "photon",
+    "osm_id": "W/29315736",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Catania",
+    "display": "Teatro Greco Romano, Catania, Italia",
+    "names_all": [
+     "Teatro Greco Romano"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 37.5028795,
+    "lng": 15.083576,
+    "name": "Teatro Greco Romano",
+    "source": "nominatim",
+    "osm_id": "way/29315736",
+    "wikidata": "Q600690",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Catania",
+    "display": "Teatro Greco Romano, Via Teatro Greco, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Teatro Greco Romano"
+    ],
+    "importance": 0.3041636407631838,
+    "rank": 1
+   },
+   {
+    "lat": 37.5028795,
+    "lng": 15.083576,
+    "name": "Teatro Greco Romano",
+    "source": "nominatim",
+    "osm_id": "way/29315736",
+    "wikidata": "Q600690",
+    "osm_class": "building=ruins",
+    "locality": "Catania",
+    "display": "Teatro Greco Romano, Via Teatro Greco, Giudecca, Centro storico, Catania, Sicilia, 95124, Italia",
+    "names_all": [
+     "Teatro Greco Romano"
+    ],
+    "importance": 0.3041636407631838,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::chiesa della badia di santagata": {
+  "ok": true,
+  "lat": 37.503107,
+  "lng": 15.088078,
+  "source": "photon",
+  "confidence": "high",
+  "score": 0.907,
+  "name": "Badia di Sant'Agata",
+  "locality": "Catania",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Badia di Sant'Agata, Catania, Italia",
+  "reason": "photon",
+  "alternatives": [
+   {
+    "lat": 37.5031074,
+    "lng": 15.0880782,
+    "name": "Badia di Sant'Agata",
+    "source": "photon",
+    "osm_id": "W/74454083",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Catania",
+    "display": "Badia di Sant'Agata, Catania, Italia",
+    "names_all": [
+     "Badia di Sant'Agata"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::piazza del duomo": {
+  "ok": true,
+  "lat": 37.502408,
+  "lng": 15.08719,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.857,
+  "name": "Piazza Duomo",
+  "locality": "Catania",
+  "osm_class": "place=square",
+  "wikidata": "Q3382260",
+  "display": "Piazza Duomo, Giudecca, Centro storico, Catania, Sicilia, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.5024076,
+    "lng": 15.0871898,
+    "name": "Piazza Duomo",
+    "source": "nominatim",
+    "osm_id": "way/25419082",
+    "wikidata": "Q3382260",
+    "osm_class": "place=square",
+    "locality": "Catania",
+    "display": "Piazza Duomo, Giudecca, Centro storico, Catania, Sicilia, Italia",
+    "names_all": [
+     "Piazza Duomo"
+    ],
+    "importance": 0.3552828743550627,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::il fortino": {
+  "ok": true,
+  "lat": 37.499884,
+  "lng": 15.074498,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.763,
+  "name": "Il Braciere del Fortino",
+  "locality": "Catania",
+  "osm_class": "amenity=fast_food",
+  "wikidata": "",
+  "display": "Il Braciere del Fortino, Via Brancato, Fortino, Centro storico, Catania, Sicilia, 95122, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.4998838,
+    "lng": 15.0744984,
+    "name": "Il Braciere del Fortino",
+    "source": "nominatim",
+    "osm_id": "node/11472703261",
+    "wikidata": "",
+    "osm_class": "amenity=fast_food",
+    "locality": "Catania",
+    "display": "Il Braciere del Fortino, Via Brancato, Fortino, Centro storico, Catania, Sicilia, 95122, Italia",
+    "names_all": [
+     "Il Braciere del Fortino"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.4998838,
+    "lng": 15.0744984,
+    "name": "Il Braciere del Fortino",
+    "source": "photon",
+    "osm_id": "N/11472703261",
+    "wikidata": "",
+    "osm_class": "amenity=fast_food",
+    "locality": "Catania",
+    "display": "Il Braciere del Fortino, Catania, Italia",
+    "names_all": [
+     "Il Braciere del Fortino"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 37.4998838,
+    "lng": 15.0744984,
+    "name": "Il Braciere del Fortino",
+    "source": "nominatim",
+    "osm_id": "node/11472703261",
+    "wikidata": "",
+    "osm_class": "amenity=fast_food",
+    "locality": "Catania",
+    "display": "Il Braciere del Fortino, Via Brancato, Fortino, Centro storico, Catania, Sicilia, 95122, Italia",
+    "names_all": [
+     "Il Braciere del Fortino"
+    ],
+    "importance": 7.121309224074186e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "catania::grotta del gelo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "catania::colata de 1669": {
+  "ok": true,
+  "lat": 37.70274,
+  "lng": 15.09445,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.462,
+  "name": "La colata lavica del 1992",
+  "locality": "Zafferana Etnea",
+  "osm_class": "tourism=viewpoint",
+  "wikidata": "",
+  "display": "La colata lavica del 1992, Zafferana Etnea, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.7027396,
+    "lng": 15.09445,
+    "name": "La colata lavica del 1992",
+    "source": "photon",
+    "osm_id": "N/2082301306",
+    "wikidata": "",
+    "osm_class": "tourism=viewpoint",
+    "locality": "Zafferana Etnea",
+    "display": "La colata lavica del 1992, Zafferana Etnea, Italia",
+    "names_all": [
+     "La colata lavica del 1992"
+    ],
+    "importance": 0.0,
+    "rank": 7
+   }
+  ]
+ },
+ "siracusa::tecnoparco archimede": {
+  "ok": true,
+  "lat": 37.074086,
+  "lng": 15.274297,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.894,
+  "name": "Tecnoparco Archimede",
+  "locality": "Siracusa",
+  "osm_class": "tourism=museum",
+  "wikidata": "",
+  "display": "Tecnoparco Archimede, Viale Giuseppe Agnello, Neapolis, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0740858,
+    "lng": 15.2742967,
+    "name": "Tecnoparco Archimede",
+    "source": "nominatim",
+    "osm_id": "way/685989791",
+    "wikidata": "",
+    "osm_class": "tourism=museum",
+    "locality": "Siracusa",
+    "display": "Tecnoparco Archimede, Viale Giuseppe Agnello, Neapolis, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Tecnoparco Archimede"
+    ],
+    "importance": 6.980621042186644e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::miqwe": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "siracusa::bagno ebraico di ortigia": {
+  "ok": true,
+  "lat": 37.059618,
+  "lng": 15.297609,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.727,
+  "name": "Bagno ebraico - Mikveh",
+  "locality": "Siracusa",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "",
+  "display": "Bagno ebraico - Mikveh, Via Giovanni Battista Alagona, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 37.0596175,
+    "lng": 15.2976091,
+    "name": "Bagno ebraico - Mikveh",
+    "source": "nominatim",
+    "osm_id": "node/6261435195",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Bagno ebraico - Mikveh, Via Giovanni Battista Alagona, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Bagno ebraico - Mikveh"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0596175,
+    "lng": 15.2976091,
+    "name": "Bagno ebraico - Mikveh",
+    "source": "photon",
+    "osm_id": "N/6261435195",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Bagno ebraico - Mikveh, Siracusa, Italia",
+    "names_all": [
+     "Bagno ebraico - Mikveh"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 37.0596175,
+    "lng": 15.2976091,
+    "name": "Bagno ebraico - Mikveh",
+    "source": "nominatim",
+    "osm_id": "node/6261435195",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Siracusa",
+    "display": "Bagno ebraico - Mikveh, Via Giovanni Battista Alagona, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Bagno ebraico - Mikveh"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.0596175,
+    "lng": 15.2976091,
+    "name": "Bagno ebraico - Mikveh",
+    "source": "nominatim",
+    "osm_id": "node/6261435195",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Siracusa",
+    "display": "Bagno ebraico - Mikveh, Via Giovanni Battista Alagona, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Bagno ebraico - Mikveh"
+    ],
+    "importance": 3.500190737769158e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::lungomare di levante": {
+  "ok": true,
+  "lat": 37.065543,
+  "lng": 15.294793,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.743,
+  "name": "Lungomare di Levante Elio Vittorini",
+  "locality": "Siracusa",
+  "osm_class": "highway=tertiary",
+  "wikidata": "",
+  "display": "Lungomare di Levante Elio Vittorini, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.065543,
+    "lng": 15.2947933,
+    "name": "Lungomare di Levante Elio Vittorini",
+    "source": "nominatim",
+    "osm_id": "way/966780628",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Lungomare di Levante Elio Vittorini, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Lungomare di Levante Elio Vittorini"
+    ],
+    "importance": 0.05336833524071104,
+    "rank": 0
+   },
+   {
+    "lat": 37.0663327,
+    "lng": 15.29356,
+    "name": "Lungomare di Levante Elio Vittorini",
+    "source": "photon",
+    "osm_id": "W/835824286",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Lungomare di Levante Elio Vittorini, Siracusa, Italia",
+    "names_all": [
+     "Lungomare di Levante Elio Vittorini"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 37.065543,
+    "lng": 15.2947933,
+    "name": "Lungomare di Levante Elio Vittorini",
+    "source": "nominatim",
+    "osm_id": "way/966780628",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Lungomare di Levante Elio Vittorini, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Lungomare di Levante Elio Vittorini"
+    ],
+    "importance": 0.05336833524071104,
+    "rank": 2
+   },
+   {
+    "lat": 37.065543,
+    "lng": 15.2947933,
+    "name": "Lungomare di Levante Elio Vittorini",
+    "source": "nominatim",
+    "osm_id": "way/966780628",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Siracusa",
+    "display": "Lungomare di Levante Elio Vittorini, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Lungomare di Levante Elio Vittorini"
+    ],
+    "importance": 0.05336833524071104,
+    "rank": 0
+   }
+  ]
+ },
+ "siracusa::piazza archimede": {
+  "ok": true,
+  "lat": 37.061265,
+  "lng": 15.293874,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.812,
+  "name": "Piazza Archimede",
+  "locality": "Siracusa",
+  "osm_class": "place=square",
+  "wikidata": "",
+  "display": "Piazza Archimede, Ortigia, Siracusa, Sicilia, 96100, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 37.0612652,
+    "lng": 15.2938739,
+    "name": "Piazza Archimede",
+    "source": "nominatim",
+    "osm_id": "way/173226095",
+    "wikidata": "",
+    "osm_class": "place=square",
+    "locality": "Siracusa",
+    "display": "Piazza Archimede, Ortigia, Siracusa, Sicilia, 96100, Italia",
+    "names_all": [
+     "Piazza Archimede"
+    ],
+    "importance": 0.0667016685740444,
+    "rank": 1
+   }
+  ]
+ },
+ "agrigento::necropoli paleocristiana": {
+  "ok": true,
+  "lat": 37.290309,
+  "lng": 13.589653,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.753,
+  "name": "Necropoli Paleocristiana",
+  "locality": "Agrigento",
+  "osm_class": "information=board",
+  "wikidata": "",
+  "display": "Necropoli Paleocristiana, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 37.2903091,
+    "lng": 13.5896526,
+    "name": "Necropoli Paleocristiana",
+    "source": "nominatim",
+    "osm_id": "node/11584064757",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Necropoli Paleocristiana, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Necropoli Paleocristiana"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   },
+   {
+    "lat": 37.2903091,
+    "lng": 13.5896526,
+    "name": "Necropoli Paleocristiana",
+    "source": "photon",
+    "osm_id": "N/11584064757",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Necropoli Paleocristiana, Agrigento, Italia",
+    "names_all": [
+     "Necropoli Paleocristiana"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 37.2903091,
+    "lng": 13.5896526,
+    "name": "Necropoli Paleocristiana",
+    "source": "nominatim",
+    "osm_id": "node/11584064757",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Necropoli Paleocristiana, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Necropoli Paleocristiana"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 1
+   },
+   {
+    "lat": 37.2903091,
+    "lng": 13.5896526,
+    "name": "Necropoli Paleocristiana",
+    "source": "nominatim",
+    "osm_id": "node/11584064757",
+    "wikidata": "",
+    "osm_class": "information=board",
+    "locality": "Agrigento",
+    "display": "Necropoli Paleocristiana, Via Sacra, Portella, Villaggio Mosè, Agrigento, Sicilia, 92100, Italia",
+    "names_all": [
+     "Necropoli Paleocristiana"
+    ],
+    "importance": 6.601129167615804e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "agrigento::scalinata dei giganti": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "agrigento::callejeo del casco": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "noto::piazza municipio piazza xvi maggio": {
+  "ok": true,
+  "lat": 36.890718,
+  "lng": 15.070101,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.738,
+  "name": "Piazza Municipio",
+  "locality": "Noto",
+  "osm_class": "place=square",
+  "wikidata": "",
+  "display": "Piazza Municipio, Noto, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.8907185,
+    "lng": 15.0701008,
+    "name": "Piazza Municipio",
+    "source": "photon",
+    "osm_id": "W/302350746",
+    "wikidata": "",
+    "osm_class": "place=square",
+    "locality": "Noto",
+    "display": "Piazza Municipio, Noto, Italia",
+    "names_all": [
+     "Piazza Municipio"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "noto::cava carosello": {
+  "ok": true,
+  "lat": 36.947343,
+  "lng": 15.019644,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.731,
+  "name": "Cava del Carosello",
+  "locality": "Noto",
+  "osm_class": "waterway=stream",
+  "wikidata": "",
+  "display": "Cava del Carosello, Noto, Siracusa, Sicilia, 96017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9473432,
+    "lng": 15.0196438,
+    "name": "Cava del Carosello",
+    "source": "nominatim",
+    "osm_id": "way/129025332",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Noto",
+    "display": "Cava del Carosello, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Cava del Carosello"
+    ],
+    "importance": 0.10672559166857402,
+    "rank": 0
+   },
+   {
+    "lat": 36.9473432,
+    "lng": 15.0196438,
+    "name": "Cava del Carosello",
+    "source": "photon",
+    "osm_id": "W/129025332",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Noto",
+    "display": "Cava del Carosello, Noto, Italia",
+    "names_all": [
+     "Cava del Carosello"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.9473432,
+    "lng": 15.0196438,
+    "name": "Cava del Carosello",
+    "source": "nominatim",
+    "osm_id": "way/129025332",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Noto",
+    "display": "Cava del Carosello, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Cava del Carosello"
+    ],
+    "importance": 0.10672559166857402,
+    "rank": 0
+   },
+   {
+    "lat": 36.9473432,
+    "lng": 15.0196438,
+    "name": "Cava del Carosello",
+    "source": "nominatim",
+    "osm_id": "way/129025332",
+    "wikidata": "",
+    "osm_class": "waterway=stream",
+    "locality": "Noto",
+    "display": "Cava del Carosello, Noto, Siracusa, Sicilia, 96017, Italia",
+    "names_all": [
+     "Cava del Carosello"
+    ],
+    "importance": 0.10672559166857402,
+    "rank": 0
+   }
+  ]
+ },
+ "noto::convento del santissimo salvatore": {
+  "ok": true,
+  "lat": 36.8908,
+  "lng": 15.071924,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.706,
+  "name": "Basilica del Santissimo Salvatore",
+  "locality": "Noto",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "",
+  "display": "Basilica del Santissimo Salvatore, Noto, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.8907998,
+    "lng": 15.0719237,
+    "name": "Basilica del Santissimo Salvatore",
+    "source": "photon",
+    "osm_id": "W/301730135",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Noto",
+    "display": "Basilica del Santissimo Salvatore, Noto, Italia",
+    "names_all": [
+     "Basilica del Santissimo Salvatore"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::chiesa di santa maria dei miracoli": {
+  "ok": true,
+  "lat": 36.924434,
+  "lng": 14.741119,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.759,
+  "name": "Chiesa di Santa Maria dei Miracoli",
+  "locality": "Ragusa",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1256260",
+  "display": "Chiesa di Santa Maria dei Miracoli, Via Avvocato Giovanni Ottaviano, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9244337,
+    "lng": 14.7411193,
+    "name": "Chiesa di Santa Maria dei Miracoli",
+    "source": "nominatim",
+    "osm_id": "way/660229104",
+    "wikidata": "Q1256260",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria dei Miracoli, Via Avvocato Giovanni Ottaviano, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria dei Miracoli"
+    ],
+    "importance": 0.2827546027204031,
+    "rank": 0
+   },
+   {
+    "lat": 36.9244337,
+    "lng": 14.7411193,
+    "name": "Chiesa di Santa Maria dei Miracoli",
+    "source": "photon",
+    "osm_id": "W/660229104",
+    "wikidata": "",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria dei Miracoli, Ragusa, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria dei Miracoli"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.9244337,
+    "lng": 14.7411193,
+    "name": "Chiesa di Santa Maria dei Miracoli",
+    "source": "nominatim",
+    "osm_id": "way/660229104",
+    "wikidata": "Q1256260",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria dei Miracoli, Via Avvocato Giovanni Ottaviano, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria dei Miracoli"
+    ],
+    "importance": 0.2827546027204031,
+    "rank": 4
+   },
+   {
+    "lat": 36.9244337,
+    "lng": 14.7411193,
+    "name": "Chiesa di Santa Maria dei Miracoli",
+    "source": "nominatim",
+    "osm_id": "way/660229104",
+    "wikidata": "Q1256260",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Ragusa",
+    "display": "Chiesa di Santa Maria dei Miracoli, Via Avvocato Giovanni Ottaviano, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Chiesa di Santa Maria dei Miracoli"
+    ],
+    "importance": 0.2827546027204031,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::corso italia": {
+  "ok": true,
+  "lat": 36.926905,
+  "lng": 14.725545,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.751,
+  "name": "Corso Italia",
+  "locality": "Ragusa",
+  "osm_class": "highway=tertiary",
+  "wikidata": "",
+  "display": "Corso Italia, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9269053,
+    "lng": 14.7255453,
+    "name": "Corso Italia",
+    "source": "nominatim",
+    "osm_id": "way/407601201",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Ragusa",
+    "display": "Corso Italia, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Corso Italia"
+    ],
+    "importance": 0.0533945593957427,
+    "rank": 0
+   },
+   {
+    "lat": 36.9269053,
+    "lng": 14.7255453,
+    "name": "Corso Italia",
+    "source": "photon",
+    "osm_id": "W/407601201",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Ragusa",
+    "display": "Corso Italia, Ragusa, Italia",
+    "names_all": [
+     "Corso Italia"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.9269053,
+    "lng": 14.7255453,
+    "name": "Corso Italia",
+    "source": "nominatim",
+    "osm_id": "way/407601201",
+    "wikidata": "",
+    "osm_class": "highway=tertiary",
+    "locality": "Ragusa",
+    "display": "Corso Italia, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Corso Italia"
+    ],
+    "importance": 0.0533945593957427,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::palazzo zacco": {
+  "ok": true,
+  "lat": 36.924392,
+  "lng": 14.731286,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.75,
+  "name": "Palazzo Zacco",
+  "locality": "Ragusa",
+  "osm_class": "tourism=attraction",
+  "wikidata": "Q1228273",
+  "display": "Palazzo Zacco, Via dei Vespri Siciliani, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9243917,
+    "lng": 14.7312865,
+    "name": "Palazzo Zacco",
+    "source": "nominatim",
+    "osm_id": "way/218124548",
+    "wikidata": "Q1228273",
+    "osm_class": "tourism=attraction",
+    "locality": "Ragusa",
+    "display": "Palazzo Zacco, Via dei Vespri Siciliani, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Palazzo Zacco"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   },
+   {
+    "lat": 36.9243917,
+    "lng": 14.7312865,
+    "name": "Palazzo Zacco",
+    "source": "photon",
+    "osm_id": "W/218124548",
+    "wikidata": "",
+    "osm_class": "tourism=attraction",
+    "locality": "Ragusa",
+    "display": "Palazzo Zacco, Ragusa, Italia",
+    "names_all": [
+     "Palazzo Zacco"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.9243917,
+    "lng": 14.7312865,
+    "name": "Palazzo Zacco",
+    "source": "nominatim",
+    "osm_id": "way/218124548",
+    "wikidata": "Q1228273",
+    "osm_class": "tourism=attraction",
+    "locality": "Ragusa",
+    "display": "Palazzo Zacco, Corso Vittorio Veneto, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Palazzo Zacco"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   },
+   {
+    "lat": 36.9243917,
+    "lng": 14.7312865,
+    "name": "Palazzo Zacco",
+    "source": "nominatim",
+    "osm_id": "way/218124548",
+    "wikidata": "Q1228273",
+    "osm_class": "tourism=attraction",
+    "locality": "Ragusa",
+    "display": "Palazzo Zacco, Via dei Vespri Siciliani, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Palazzo Zacco"
+    ],
+    "importance": 0.09078915819201436,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::ponte dei cappuccini": {
+  "ok": true,
+  "lat": 36.923075,
+  "lng": 14.72903,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.751,
+  "name": "Ponte dei Cappucini",
+  "locality": "Ragusa",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "Q3908046",
+  "display": "Ponte dei Cappucini, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 36.9230752,
+    "lng": 14.7290304,
+    "name": "Ponte dei Cappucini",
+    "source": "nominatim",
+    "osm_id": "way/203390194",
+    "wikidata": "Q3908046",
+    "osm_class": "highway=pedestrian",
+    "locality": "Ragusa",
+    "display": "Ponte dei Cappucini, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Ponte dei Cappucini"
+    ],
+    "importance": 0.26124069590558274,
+    "rank": 0
+   },
+   {
+    "lat": 36.9230752,
+    "lng": 14.7290304,
+    "name": "Ponte dei Cappucini",
+    "source": "photon",
+    "osm_id": "W/203390194",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Ragusa",
+    "display": "Ponte dei Cappucini, Ragusa, Italia",
+    "names_all": [
+     "Ponte dei Cappucini"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   },
+   {
+    "lat": 36.9230752,
+    "lng": 14.7290304,
+    "name": "Ponte dei Cappucini",
+    "source": "nominatim",
+    "osm_id": "way/203390194",
+    "wikidata": "Q3908046",
+    "osm_class": "highway=pedestrian",
+    "locality": "Ragusa",
+    "display": "Ponte dei Cappucini, Cappuccini, Ragusa Ibla, Ragusa, Sicilia, 97100, Italia",
+    "names_all": [
+     "Ponte dei Cappucini"
+    ],
+    "importance": 0.26124069590558274,
+    "rank": 0
+   }
+  ]
+ },
+ "ragusa::valle dellirminio": {
+  "ok": true,
+  "lat": 36.92808,
+  "lng": 14.734101,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.615,
+  "name": "Via della Valle",
+  "locality": "Ragusa",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "",
+  "display": "Via della Valle, Ragusa, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 36.9280799,
+    "lng": 14.7341013,
+    "name": "Via della Valle",
+    "source": "photon",
+    "osm_id": "W/1300072095",
+    "wikidata": "",
+    "osm_class": "highway=pedestrian",
+    "locality": "Ragusa",
+    "display": "Via della Valle, Ragusa, Italia",
+    "names_all": [
+     "Via della Valle"
+    ],
+    "importance": 0.0,
+    "rank": 1
+   }
+  ]
+ },
+ "barcelona::barri gotic": {
+  "ok": true,
+  "lat": 41.38384,
+  "lng": 2.174512,
+  "source": "photon",
+  "confidence": "review",
+  "score": 0.67,
+  "name": "el Gòtic",
+  "locality": "Barcelona",
+  "osm_class": "place=quarter",
+  "wikidata": "",
+  "display": "el Gòtic, Barcelona, España",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 41.38384,
+    "lng": 2.1745119,
+    "name": "el Gòtic",
+    "source": "photon",
+    "osm_id": "R/4127655",
+    "wikidata": "",
+    "osm_class": "place=quarter",
+    "locality": "Barcelona",
+    "display": "el Gòtic, Barcelona, España",
+    "names_all": [
+     "el Gòtic"
+    ],
+    "importance": 0.0,
+    "rank": 0
+   }
+  ]
  }
 }

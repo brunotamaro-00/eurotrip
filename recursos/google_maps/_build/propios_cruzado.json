@@ -366,7 +366,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bled--miradores-ojstrica-mala-osojnica",
@@ -467,7 +467,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bled--bano-sup-en-el-lago",
@@ -490,7 +490,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bled--orillas-del-lago-bohinj",
@@ -1311,16 +1311,17 @@
   "region": "central",
   "seccion": "🎖️ Historia — Frente del Isonzo (WWI) — el alma del valle",
   "nombre": "Walk of Peace / Pot miru",
-  "nombre_local": "Walk of Peace / Pot miru",
+  "nombre_local": "The Walks of Peace",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "red de sitios WWI señalizados a lo largo del valle (trincheras, fortines, cementerios) — se puede tomar tramos sueltos en auto",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 46.340924,
+  "lng": 13.583121,
+  "origen_geo": "photon",
+  "locality": "Kal-Koritnica"
  },
  {
   "id": "soca--zipline-kanin-ucja",
@@ -1622,7 +1623,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "piran--koper",
@@ -1902,9 +1903,10 @@
   "precio": "Brunelleschi Pass cuesta €30",
   "notas": "Complejo catedralicio más importante del Renacimiento; el Brunelleschi Pass cuesta €30 e incluye Cúpula de Brunelleschi + Campanario de Giotto + Baptisterio + interior Catedral + Museo dell'",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 43.773328,
+  "lng": 11.257986,
+  "origen_geo": "photon",
+  "locality": "Firenze"
  },
  {
   "id": "florencia--ponte-vecchio",
@@ -2038,16 +2040,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Jardines de Boboli + Bardini",
-  "nombre_local": "Jardines de Boboli + Bardini",
+  "nombre_local": "Giardino di Boboli",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "€10",
   "notas": "Boboli: parque monumental detrás del Palazzo Pitti con fuentes, estatuas y vistas sobre el Oltrarno; €10 adulto en alta temporada (incluye ambos jardines + Museo de la Porcelana; hasta oct 3",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 43.763278,
+  "lng": 11.249899,
+  "origen_geo": "photon",
+  "locality": "Firenze"
  },
  {
   "id": "florencia--caminar-el-centro-historico",
@@ -2070,7 +2073,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "florencia--orillas-del-arno-lungarni",
@@ -2260,7 +2263,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "florencia--oltrarno-santo-spirito-san-frediano",
@@ -2346,16 +2349,17 @@
   "region": "sur",
   "seccion": "🌇 Barrios",
   "nombre": "Borghini / vía Romana",
-  "nombre_local": "Borghini / vía Romana",
+  "nombre_local": "Palazzo Borghini",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "La arteria principal del Oltrarno hacia Porta Romana; anticuarios, talleres de restauración de muebles, ateliers de moda local: GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 43.768373,
+  "lng": 11.261553,
+  "origen_geo": "nominatim",
+  "locality": "Firenze"
  },
  {
   "id": "florencia--san-miniato-al-monte",
@@ -2473,7 +2477,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "roma--coliseo",
@@ -3759,7 +3763,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bari--piazza-mercantile-y-colonna-della-giustizia",
@@ -3773,16 +3777,17 @@
   "region": "sur",
   "seccion": "⛪ Bari Vecchia (la ciudad vieja)",
   "nombre": "Piazza Mercantile y Colonna della Giustizia",
-  "nombre_local": "Piazza Mercantile y Colonna della Giustizia",
+  "nombre_local": "Piazza Mercantile",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Plaza del comercio medieval, con la columna donde se ataba a los deudores insolventes. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.127971,
+  "lng": 16.871604,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--muraglia-paseo-de-las-murallas",
@@ -3819,16 +3824,17 @@
   "region": "sur",
   "seccion": "⛪ Bari Vecchia (la ciudad vieja)",
   "nombre": "Chiesa di San Marco dei Veneziani / Vallisa",
-  "nombre_local": "Chiesa di San Marco dei Veneziani / Vallisa",
+  "nombre_local": "Chiesa di San Marco dei veneziani",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Iglesias menores del casco, testimonio de las colonias mercantiles",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.129657,
+  "lng": 16.869741,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--teatro-petruzzelli",
@@ -4010,16 +4016,17 @@
   "region": "sur",
   "seccion": "🐟 Mercados y vida callejera",
   "nombre": "Mercato del Pesce / N'derr la lanz (Molo San Nicola)",
-  "nombre_local": "Mercato del Pesce / N'derr la lanz",
+  "nombre_local": "Mercato del pesce",
   "alias_es": [],
   "tipo": "Mercado",
   "prioridad": "Solo mapeado",
   "precio": "€5-15",
   "notas": "Los pescadores venden directo del barco en el puerto viejo, y en algunos puestos se come pulpo y erizos crudos en el momento. Muy de mañana. GRATIS mirar; degustación €5-15",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.128318,
+  "lng": 16.874669,
+  "origen_geo": "nominatim",
+  "locality": "Bari"
  },
  {
   "id": "bari--mercato-coperto-via-trevisani",
@@ -4090,7 +4097,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bari--focaccia-barese",
@@ -4113,7 +4120,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "bari--parco-2-giugno",
@@ -4504,16 +4511,17 @@
   "region": "sur",
   "seccion": "⛪ El barroco leccese",
   "nombre": "Chiesa di Santa Chiara / Santa Teresa / Santi Niccolò e Cataldo",
-  "nombre_local": "Chiesa di Santa Chiara / Santa Teresa / Santi Niccolò e Cataldo",
+  "nombre_local": "Chiesa di Santa Chiara",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€2-3",
   "notas": "Más barroco, más rosetones. GRATIS o ~€2-3",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.351792,
+  "lng": 18.171262,
+  "origen_geo": "nominatim",
+  "locality": "Lecce"
  },
  {
   "id": "lecce--palazzo-dei-celestini",
@@ -4859,16 +4867,17 @@
   "region": "sur",
   "seccion": "🎨 Artesanía y cultura",
   "nombre": "Teatro Politeama Greco / Teatro Paisiello",
-  "nombre_local": "Teatro Politeama Greco / Teatro Paisiello",
+  "nombre_local": "Teatro Politeama Greco",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Programación de temporada; verificar cartelera de noviembre",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.353127,
+  "lng": 18.174812,
+  "origen_geo": "nominatim",
+  "locality": "Lecce"
  },
  {
   "id": "lecce--museo-ebraico-di-lecce-palazzo-taurino",
@@ -4937,7 +4946,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "lecce--piazza-sant-oronzo",
@@ -4975,16 +4984,17 @@
   "region": "sur",
   "seccion": "🌆 Barrios y callejeo",
   "nombre": "Via Palmieri y Via Libertini",
-  "nombre_local": "Via Palmieri y Via Libertini",
+  "nombre_local": "Via Palmieri",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Las dos calles con más palacios barrocos seguidos. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.332482,
+  "lng": 18.22356,
+  "origen_geo": "nominatim",
+  "locality": "Lizzanello"
  },
  {
   "id": "lecce--giardini-pubblici-giuseppe-garibaldi-villa-comunale",
@@ -5101,7 +5111,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "matera--civita",
@@ -5329,16 +5339,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias rupestres",
   "nombre": "Santa Maria de Idris + San Giovanni in Monterrone",
-  "nombre_local": "Santa Maria de Idris + San Giovanni in Monterrone",
+  "nombre_local": "Chiesa di Santa Maria de Armenis",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€3-5",
   "notas": "Dos iglesias unidas, excavadas dentro de un peñón que sobresale del Sasso Caveoso, con frescos del s. XII-XVII. La ubicación es espectacular. (~€3-5, o combinada)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.662537,
+  "lng": 16.611151,
+  "origen_geo": "photon",
+  "locality": "Matera"
  },
  {
   "id": "matera--san-pietro-barisano",
@@ -5400,16 +5411,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias rupestres",
   "nombre": "Madonna delle Virtù + San Nicola dei Greci",
-  "nombre_local": "Madonna delle Virtù + San Nicola dei Greci",
+  "nombre_local": "Chiesa Madonna delle Virtù",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€3-5",
   "notas": "Complejo rupestre en el borde del cañón, con dos niveles y frescos. (~€3-5)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.668418,
+  "lng": 16.61122,
+  "origen_geo": "photon",
+  "locality": "Matera"
  },
  {
   "id": "matera--cripta-del-peccato-originale",
@@ -5471,16 +5483,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias rupestres",
   "nombre": "Chiesa di San Francesco d'Assisi / San Giovanni Battista / Purgatorio",
-  "nombre_local": "Chiesa di San Francesco d'Assisi / San Giovanni Battista / Purgatorio",
+  "nombre_local": "Chiesa di San Francesco d'Assisi",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "En la ciudad de arriba; la del Purgatorio tiene una puerta cubierta de calaveras. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.665464,
+  "lng": 16.609293,
+  "origen_geo": "nominatim",
+  "locality": "Matera"
  },
  {
   "id": "matera--parco-della-murgia-materana",
@@ -5610,16 +5623,17 @@
   "region": "sur",
   "seccion": "🏞️ El cañón y el parque",
   "nombre": "Villaggio Saraceno / Cripte del parco",
-  "nombre_local": "Villaggio Saraceno / Cripte del parco",
+  "nombre_local": "Villaggio Saraceno",
   "alias_es": [],
   "tipo": "Naturaleza",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Asentamientos rupestres prehistóricos en la meseta",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.616784,
+  "lng": 16.655333,
+  "origen_geo": "nominatim",
+  "locality": "Matera"
  },
  {
   "id": "matera--la-pasion-de-cristo",
@@ -5642,7 +5656,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "matera--no-time-to-die",
@@ -5665,7 +5679,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "matera--el-evangelio-segun-san-mateo",
@@ -5688,7 +5702,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "matera--tours-tematicos-de-cine",
@@ -5711,7 +5725,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "ostuni--callejear-por-la-terra",
@@ -5734,7 +5748,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "ostuni--concattedrale-di-santa-maria-assunta",
@@ -5795,16 +5809,17 @@
   "region": "sur",
   "seccion": "🤍 El casco blanco",
   "nombre": "Palazzo Vescovile y Arco Scoppa",
-  "nombre_local": "Palazzo Vescovile y Arco Scoppa",
+  "nombre_local": "Palazzo Vescovile",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Arco elevado que une el palacio episcopal con el seminario, junto a la catedral: el encuadre más fotografiado de Ostuni. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.734294,
+  "lng": 17.578535,
+  "origen_geo": "nominatim",
+  "locality": "Ostuni"
  },
  {
   "id": "ostuni--porta-san-demetrio-y-las-murallas-aragonesas",
@@ -5841,16 +5856,17 @@
   "region": "sur",
   "seccion": "🤍 El casco blanco",
   "nombre": "Chiesa di San Vito Martire / Museo di Civiltà Preclassiche della Murgia",
-  "nombre_local": "Chiesa di San Vito Martire / Museo di Civiltà Preclassiche della Murgia",
+  "nombre_local": "Chiesa San Vito Martire",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "~€5",
   "notas": "Alberga a \"Delia\", el esqueleto de una mujer embarazada de 25.000 años hallado en la cueva de Santa Maria di Agnano, cerca del pueblo — es el enterramiento de una gestante más antiguo del mu",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.733714,
+  "lng": 17.578667,
+  "origen_geo": "photon",
+  "locality": "Ostuni"
  },
  {
   "id": "ostuni--chiesa-dello-spirito-santo",
@@ -6359,16 +6375,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Palacios",
   "nombre": "Palazzo dei Normanni + Cappella Palatina",
-  "nombre_local": "Palazzo dei Normanni + Cappella Palatina",
+  "nombre_local": "Palazzo dei Normanni",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€15.50",
   "notas": "Palacio real normando; la Capilla Palatina tiene mosaicos bizantinos dorados y techo de mocárabes árabe. Lo mejor de Palermo, sin discusión. (€15.50 ma-ju sin Apartamentos Reales / €19 vi-lu",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.111206,
+  "lng": 13.35325,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--palazzo-abatellis-galleria-regionale-della-sicilia",
@@ -7091,16 +7108,17 @@
   "region": "sur",
   "seccion": "🌆 Miradores y Panorámicas",
   "nombre": "Terraza del Grand Hotel Wagner / rooftop bars",
-  "nombre_local": "Terraza del Grand Hotel Wagner / rooftop bars",
+  "nombre_local": "Grand Hotel Wagner",
   "alias_es": [],
   "tipo": "Mirador",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Ver nightlife.md",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.123604,
+  "lng": 13.358526,
+  "origen_geo": "photon",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--quattro-canti-piazza-vigliena",
@@ -7234,16 +7252,17 @@
   "region": "sur",
   "seccion": "🚶 Barrios y Callejeo (gratis)",
   "nombre": "Via Maqueda + Via Vittorio Emanuele (Cassaro)",
-  "nombre_local": "Via Maqueda + Via Vittorio Emanuele",
+  "nombre_local": "Via Maqueda",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Los dos ejes peatonales del centro. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.118456,
+  "lng": 13.359669,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--piazza-pretoria-piazza-della-vergogna",
@@ -7501,9 +7520,10 @@
   "precio": "",
   "notas": "Anticuarios en la zona de Piazza Sant'Anna",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.115367,
+  "lng": 13.365132,
+  "origen_geo": "photon",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--tre-erre-ceramica",
@@ -7540,16 +7560,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Cimitero dei Rotoli / Cimitero di Sant'Orsola",
-  "nombre_local": "Cimitero dei Rotoli / Cimitero di Sant'Orsola",
+  "nombre_local": "Cimitero di Santa Maria dei Rotoli",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Cementerios monumentales, esculturas del XIX",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.160424,
+  "lng": 13.368614,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--stanze-al-genio",
@@ -7633,16 +7654,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Atracciones Pagadas",
   "nombre": "Teatro Greco-Romano + Odeon",
-  "nombre_local": "Teatro Greco-Romano + Odeon",
+  "nombre_local": "Teatro Greco Romano",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "€6-8",
   "notas": "Teatro romano de cavea de piedra de lava metido entre casas del barrio: se entra por un patio y aparece de golpe. Incluye el Odeon (sala menor) y el Antiquarium. (€6-8 · €4 reducido; abierto",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502879,
+  "lng": 15.083576,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--terme-achilliane",
@@ -7871,16 +7893,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y barroco",
   "nombre": "Chiesa della Badia di Sant'Agata + cúpula",
-  "nombre_local": "Chiesa della Badia di Sant'Agata + cúpula",
+  "nombre_local": "Badia di Sant'Agata",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€5",
   "notas": "Iglesia de Vaccarini pegada a la catedral; se sube a la cúpula para la mejor vista de la Piazza del Duomo y el Etna al fondo. (~€5)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.503107,
+  "lng": 15.088078,
+  "origen_geo": "photon",
+  "locality": "Catania"
  },
  {
   "id": "catania--via-dei-crociferi",
@@ -8125,16 +8148,17 @@
   "region": "sur",
   "seccion": "🚶 Barrios y callejeo (gratis)",
   "nombre": "Piazza del Duomo + Fontana dell'Elefante (\"u Liotru\")",
-  "nombre_local": "Piazza del Duomo + Fontana dell'Elefante",
+  "nombre_local": "Piazza Duomo",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El elefante de piedra de lava con obelisco egipcio encima, símbolo de la ciudad. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.502408,
+  "lng": 15.08719,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--via-etnea",
@@ -8570,16 +8594,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Il Fortino / Mercato di San Berillo",
-  "nombre_local": "Il Fortino / Mercato di San Berillo",
+  "nombre_local": "Il Braciere del Fortino",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Zona de anticuarios y objetos raros.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.499884,
+  "lng": 15.074498,
+  "origen_geo": "nominatim",
+  "locality": "Catania"
  },
  {
   "id": "catania--grotta-del-gelo-colata-de-1669",
@@ -8593,16 +8618,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Grotta del Gelo / colata de 1669",
-  "nombre_local": "Grotta del Gelo / colata de 1669",
+  "nombre_local": "La colata lavica del 1992",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Los restos del río de lava que sepultó parte de la ciudad todavía se ven en el barrio de la Marina y en el Castello Ursino.",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.70274,
+  "lng": 15.09445,
+  "origen_geo": "photon",
+  "locality": "Zafferana Etnea"
  },
  {
   "id": "catania--acquedotto-greco-romano",
@@ -8829,16 +8855,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos",
   "nombre": "Tecnoparco Archimede / Museo di Archimede",
-  "nombre_local": "Tecnoparco Archimede / Museo di Archimede",
+  "nombre_local": "Tecnoparco Archimede",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€8",
   "notas": "Máquinas de Arquímedes reconstruidas; el matemático nació y murió en Siracusa (lo mató un soldado romano en el 212 a.C. mientras resolvía un problema). (~€8)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.074086,
+  "lng": 15.274297,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--museo-dei-pupi-casa-delle-marionette",
@@ -9066,16 +9093,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias y subterráneos",
   "nombre": "Miqwe / Bagno Ebraico di Ortigia",
-  "nombre_local": "Miqwe / Bagno Ebraico di Ortigia",
+  "nombre_local": "Bagno ebraico - Mikveh",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€5-8",
   "notas": "El baño ritual judío más antiguo de Europa, del s. VI, redescubierto en los 90 bajo un hotel, a 18 m de profundidad. Solo con visita guiada. (~€5-8)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.059618,
+  "lng": 15.297609,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--castello-maniace",
@@ -9185,16 +9213,17 @@
   "region": "sur",
   "seccion": "🏰 Ortigia",
   "nombre": "Lungomare di Levante y Lungomare d'Ortigia",
-  "nombre_local": "Lungomare di Levante y Lungomare d'Ortigia",
+  "nombre_local": "Lungomare di Levante Elio Vittorini",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Paseos junto a las murallas mirando al mar abierto. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.065543,
+  "lng": 15.294793,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--la-giudecca",
@@ -9232,16 +9261,17 @@
   "region": "sur",
   "seccion": "🏰 Ortigia",
   "nombre": "Piazza Archimede + Fontana di Diana",
-  "nombre_local": "Piazza Archimede + Fontana di Diana",
+  "nombre_local": "Piazza Archimede",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Plaza con fuente art nouveau, centro social de Ortigia. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.061265,
+  "lng": 15.293874,
+  "origen_geo": "nominatim",
+  "locality": "Siracusa"
  },
  {
   "id": "siracusa--forte-vigliena-y-las-murallas-espanolas",
@@ -9287,7 +9317,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "siracusa--riserva-naturale-del-fiume-ciane",
@@ -9333,7 +9363,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "siracusa--plemmirio-area-marina-protetta",
@@ -9795,16 +9825,17 @@
   "region": "sur",
   "seccion": "🏛️ Valle dei Templi (el motivo del viaje)",
   "nombre": "Necropoli Paleocristiana y Tomba di Terone",
-  "nombre_local": "Necropoli Paleocristiana y Tomba di Terone",
+  "nombre_local": "Necropoli Paleocristiana",
   "alias_es": [],
   "tipo": "Sitio histórico",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Catacumbas cristianas excavadas en la roca y un monumento funerario romano",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 37.290309,
+  "lng": 13.589653,
+  "origen_geo": "nominatim",
+  "locality": "Agrigento"
  },
  {
   "id": "agrigento--santuario-delle-divinita-ctonie",
@@ -10506,16 +10537,17 @@
   "region": "sur",
   "seccion": "⛪ El eje barroco (Corso Vittorio Emanuele)",
   "nombre": "Piazza Municipio, Piazza XVI Maggio y Piazza dell'Immacolata",
-  "nombre_local": "Piazza Municipio, Piazza XVI Maggio y Piazza dell'Immacolata",
+  "nombre_local": "Piazza Municipio",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Las tres plazas escalonadas del Corso. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.890718,
+  "lng": 15.070101,
+  "origen_geo": "photon",
+  "locality": "Noto"
  },
  {
   "id": "noto--palazzo-nicolaci-di-villadorata",
@@ -10673,16 +10705,17 @@
   "region": "sur",
   "seccion": "🏺 Noto Antica y alrededores inmediatos",
   "nombre": "Cava Carosello / Eremo di San Corrado",
-  "nombre_local": "Cava Carosello / Eremo di San Corrado",
+  "nombre_local": "Cava del Carosello",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Cañón junto a Noto Antica con ermita rupestre. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.947343,
+  "lng": 15.019644,
+  "origen_geo": "nominatim",
+  "locality": "Noto"
  },
  {
   "id": "noto--villa-romana-del-tellaro",
@@ -10814,16 +10847,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Convento del Santissimo Salvatore + Museo Civico",
-  "nombre_local": "Convento del Santissimo Salvatore + Museo Civico",
+  "nombre_local": "Basilica del Santissimo Salvatore",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "~€4-6",
   "notas": "Torre panorámica del convento y museo con material de Noto Antica y Eloro. (~€4-6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.8908,
+  "lng": 15.071924,
+  "origen_geo": "photon",
+  "locality": "Noto"
  },
  {
   "id": "noto--eloro-parque-arqueologico",
@@ -11026,16 +11060,17 @@
   "region": "sur",
   "seccion": "⛪ Ragusa Ibla (la ciudad baja)",
   "nombre": "Chiesa di Santa Maria dei Miracoli / San Giacomo / dei Cappuccini",
-  "nombre_local": "Chiesa di Santa Maria dei Miracoli / San Giacomo / dei Cappuccini",
+  "nombre_local": "Chiesa di Santa Maria dei Miracoli",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Las tres iglesias dentro o junto al Giardino Ibleo",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.924434,
+  "lng": 14.741119,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--circolo-di-conversazione",
@@ -11105,7 +11140,7 @@
   "descartado": false,
   "lat": null,
   "lng": null,
-  "origen_geo": ""
+  "origen_geo": "descartado_no_es_lugar"
  },
  {
   "id": "ragusa--scalinata-di-santa-maria-delle-scale",
@@ -11190,16 +11225,17 @@
   "region": "sur",
   "seccion": "⛪ Ragusa Superiore (la ciudad alta)",
   "nombre": "Corso Italia y Via Roma",
-  "nombre_local": "Corso Italia y Via Roma",
+  "nombre_local": "Corso Italia",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Los ejes del trazado dieciochesco, con palacios y comercios. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.926905,
+  "lng": 14.725545,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--museo-archeologico-ibleo",
@@ -11237,16 +11273,17 @@
   "region": "sur",
   "seccion": "⛪ Ragusa Superiore (la ciudad alta)",
   "nombre": "Palazzo Zacco y Palazzo Bertini",
-  "nombre_local": "Palazzo Zacco y Palazzo Bertini",
+  "nombre_local": "Palazzo Zacco",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Más balcones con máscaras; los \"tres poderosos\" de Bertini (el pobre, el noble y el rico) son las ménsulas más comentadas de la ciudad",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.924392,
+  "lng": 14.731286,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--ponte-dei-cappuccini-ponte-nuovo",
@@ -11260,16 +11297,17 @@
   "region": "sur",
   "seccion": "⛪ Ragusa Superiore (la ciudad alta)",
   "nombre": "Ponte dei Cappuccini / Ponte Nuovo",
-  "nombre_local": "Ponte dei Cappuccini / Ponte Nuovo",
+  "nombre_local": "Ponte dei Cappucini",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Los puentes que cruzan el barranco de la ciudad alta, con vistas",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.923075,
+  "lng": 14.72903,
+  "origen_geo": "nominatim",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--ragusa-ibla",
@@ -11384,9 +11422,10 @@
   "precio": "",
   "notas": "Reserva en la desembocadura del río, con dunas y bosque mediterráneo. A 20 min. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 36.92808,
+  "lng": 14.734101,
+  "origen_geo": "photon",
+  "locality": "Ragusa"
  },
  {
   "id": "ragusa--cava-d-ispica",
@@ -11543,16 +11582,17 @@
   "region": "sur",
   "seccion": "📍 Imprescindibles",
   "nombre": "Barri Gòtic + El Born",
-  "nombre_local": "Barri Gòtic + El Born",
+  "nombre_local": "el Gòtic",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "Gratis",
   "notas": "El núcleo medieval de Barcelona; el Call (barrio judío medieval), la Catedral Gótica (GRATIS por la mañana), Plaça del Rei, el Pont del Bisbe; El Born con el Passeig del Born y el Mercado me",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 41.38384,
+  "lng": 2.174512,
+  "origen_geo": "photon",
+  "locality": "Barcelona"
  },
  {
   "id": "barcelona--passeig-de-gracia",
