@@ -27332,5 +27332,1396 @@
     "rank": 0
    }
   ]
+ },
+ "ostuni::martina franca": {
+  "ok": true,
+  "lat": 40.719489,
+  "lng": 17.377177,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.649,
+  "name": "Strada Provinciale 13 Martina Franca-Cisternino",
+  "locality": "Martina Franca",
+  "osm_class": "highway=secondary",
+  "wikidata": "",
+  "display": "Strada Provinciale 13 Martina Franca-Cisternino, Martina Franca, Taranto, Puglia, 74015, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7194889,
+    "lng": 17.3771774,
+    "name": "Strada Provinciale 13 Martina Franca-Cisternino",
+    "source": "nominatim",
+    "osm_id": "way/358495565",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Martina Franca",
+    "display": "Strada Provinciale 13 Martina Franca-Cisternino, Martina Franca, Taranto, Puglia, 74015, Italia",
+    "names_all": [
+     "Strada Provinciale 13 Martina Franca-Cisternino"
+    ],
+    "importance": 0.05338992217898829,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::ceglie messapica": {
+  "ok": true,
+  "lat": 40.64696,
+  "lng": 17.522042,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.694,
+  "name": "Ceglie Messapica",
+  "locality": "Ceglie Messapica",
+  "osm_class": "railway=station",
+  "wikidata": "Q18149867",
+  "display": "Ceglie Messapica, Via Ostuni, Ceglie Messapica, Brindisi, Puglia, 72013, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.6469604,
+    "lng": 17.522042,
+    "name": "Ceglie Messapica",
+    "source": "nominatim",
+    "osm_id": "node/1768783534",
+    "wikidata": "Q18149867",
+    "osm_class": "railway=station",
+    "locality": "Ceglie Messapica",
+    "display": "Ceglie Messapica, Via Ostuni, Ceglie Messapica, Brindisi, Puglia, 72013, Italia",
+    "names_all": [
+     "Ceglie Messapica"
+    ],
+    "importance": 0.12743869505990896,
+    "rank": 0
+   },
+   {
+    "lat": 40.6460444,
+    "lng": 17.5170566,
+    "name": "Ceglie Messapica",
+    "source": "nominatim",
+    "osm_id": "relation/40627",
+    "wikidata": "Q51861",
+    "osm_class": "boundary=administrative",
+    "locality": "Ceglie Messapica",
+    "display": "Ceglie Messapica, Brindisi, Puglia, 72013, Italia",
+    "names_all": [
+     "Ceglie Messapica"
+    ],
+    "importance": 0.45252343322544014,
+    "rank": 0
+   },
+   {
+    "lat": 40.6460444,
+    "lng": 17.5170566,
+    "name": "Ceglie Messapica",
+    "source": "nominatim",
+    "osm_id": "relation/40627",
+    "wikidata": "Q51861",
+    "osm_class": "boundary=administrative",
+    "locality": "Ceglie Messapica",
+    "display": "Ceglie Messapica, Brindisi, Puglia, 72013, Italia",
+    "names_all": [
+     "Ceglie Messapica"
+    ],
+    "importance": 0.45252343322544014,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::fasano": {
+  "ok": true,
+  "lat": 40.7611,
+  "lng": 17.527547,
+  "source": "nominatim",
+  "confidence": "review",
+  "score": 0.718,
+  "name": "Strada Provinciale 93 Fasano-Ostuni",
+  "locality": "Ostuni",
+  "osm_class": "highway=secondary",
+  "wikidata": "",
+  "display": "Strada Provinciale 93 Fasano-Ostuni, Ostuni, Brindisi, Puglia, 72017, Italia",
+  "reason": "bajo_umbral",
+  "alternatives": [
+   {
+    "lat": 40.7611001,
+    "lng": 17.5275467,
+    "name": "Strada Provinciale 93 Fasano-Ostuni",
+    "source": "nominatim",
+    "osm_id": "way/816156560",
+    "wikidata": "",
+    "osm_class": "highway=secondary",
+    "locality": "Ostuni",
+    "display": "Strada Provinciale 93 Fasano-Ostuni, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Strada Provinciale 93 Fasano-Ostuni"
+    ],
+    "importance": 0.053388020904859966,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::grotta di santa maria di agnano": {
+  "ok": true,
+  "lat": 40.747055,
+  "lng": 17.547644,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.75,
+  "name": "Grotta Santa Maria di Agnano",
+  "locality": "Ostuni",
+  "osm_class": "historic=archaeological_site",
+  "wikidata": "",
+  "display": "Grotta Santa Maria di Agnano, Strada Comunale 10, Ostuni, Brindisi, Puglia, 72017, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7470547,
+    "lng": 17.5476442,
+    "name": "Grotta Santa Maria di Agnano",
+    "source": "nominatim",
+    "osm_id": "node/4686642684",
+    "wikidata": "",
+    "osm_class": "historic=archaeological_site",
+    "locality": "Ostuni",
+    "display": "Grotta Santa Maria di Agnano, Strada Comunale 10, Ostuni, Brindisi, Puglia, 72017, Italia",
+    "names_all": [
+     "Grotta Santa Maria di Agnano"
+    ],
+    "importance": 5.468757152661963e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::frantoi ipogei del centro": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::villanova di ostuni": {
+  "ok": true,
+  "lat": 40.790025,
+  "lng": 17.585773,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.753,
+  "name": "Villanova di Ostuni",
+  "locality": "Ostuni",
+  "osm_class": "place=village",
+  "wikidata": "Q2312822",
+  "display": "Villanova di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 40.7900255,
+    "lng": 17.5857728,
+    "name": "Villanova di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/4629950599",
+    "wikidata": "Q2312822",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Villanova di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Villanova di Ostuni"
+    ],
+    "importance": 0.3272701010450185,
+    "rank": 0
+   },
+   {
+    "lat": 40.7900255,
+    "lng": 17.5857728,
+    "name": "Villanova di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/4629950599",
+    "wikidata": "Q2312822",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Villanova di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Villanova di Ostuni"
+    ],
+    "importance": 0.3272701010450185,
+    "rank": 0
+   },
+   {
+    "lat": 40.7900255,
+    "lng": 17.5857728,
+    "name": "Villanova di Ostuni",
+    "source": "nominatim",
+    "osm_id": "node/4629950599",
+    "wikidata": "Q2312822",
+    "osm_class": "place=village",
+    "locality": "Ostuni",
+    "display": "Villanova di Ostuni, Ostuni, Brindisi, Puglia, Italia",
+    "names_all": [
+     "Villanova di Ostuni"
+    ],
+    "importance": 0.3272701010450185,
+    "rank": 0
+   }
+  ]
+ },
+ "ostuni::cavallino bianco cortili": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "ostuni::cavalcata di santoronzo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::palazzo dei normanni cappella palatina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::palazzo abatellis": {
+  "ok": true,
+  "lat": 38.116573,
+  "lng": 13.371174,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.859,
+  "name": "Palazzo Abatellis",
+  "locality": "Palermo",
+  "osm_class": "building=yes",
+  "wikidata": "Q1255652",
+  "display": "Palazzo Abatellis, Via Alloro, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1165732,
+    "lng": 13.3711737,
+    "name": "Palazzo Abatellis",
+    "source": "nominatim",
+    "osm_id": "way/143737450",
+    "wikidata": "Q1255652",
+    "osm_class": "building=yes",
+    "locality": "Palermo",
+    "display": "Palazzo Abatellis, Via Alloro, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Palazzo Abatellis"
+    ],
+    "importance": 0.39817807251303894,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::palazzo chiaramonte steri": {
+  "ok": true,
+  "lat": 38.117583,
+  "lng": 13.37002,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Palazzo Chiaramonte-Steri",
+  "locality": "Palermo",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q2047529",
+  "display": "Palazzo Chiaramonte-Steri, Piazza Marina, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1175832,
+    "lng": 13.3700201,
+    "name": "Palazzo Chiaramonte-Steri",
+    "source": "nominatim",
+    "osm_id": "relation/1291721",
+    "wikidata": "Q2047529",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Palazzo Chiaramonte-Steri, Piazza Marina, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Palazzo Chiaramonte-Steri"
+    ],
+    "importance": 0.31353539144981896,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::palazzo conte federico": {
+  "ok": true,
+  "lat": 38.112341,
+  "lng": 13.358453,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.843,
+  "name": "Palazzo Conte Federico",
+  "locality": "Palermo",
+  "osm_class": "building=yes",
+  "wikidata": "Q22263733",
+  "display": "Palazzo Conte Federico, Via del Fondaco, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1123408,
+    "lng": 13.3584534,
+    "name": "Palazzo Conte Federico",
+    "source": "nominatim",
+    "osm_id": "way/279881853",
+    "wikidata": "Q22263733",
+    "osm_class": "building=yes",
+    "locality": "Palermo",
+    "display": "Palazzo Conte Federico, Via del Fondaco, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Palazzo Conte Federico"
+    ],
+    "importance": 0.14389741120638372,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::palazzo mirto": {
+  "ok": true,
+  "lat": 38.116507,
+  "lng": 13.36804,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.832,
+  "name": "Palazzo Mirto",
+  "locality": "Palermo",
+  "osm_class": "building=yes",
+  "wikidata": "",
+  "display": "Palazzo Mirto, Via Lungarini, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1165068,
+    "lng": 13.3680395,
+    "name": "Palazzo Mirto",
+    "source": "nominatim",
+    "osm_id": "relation/403480",
+    "wikidata": "",
+    "osm_class": "building=yes",
+    "locality": "Palermo",
+    "display": "Palazzo Mirto, Via Lungarini, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Palazzo Mirto"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::museo archeologico regionale antonino salinas": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::la zisa": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::museo delle marionette antonio pasqualino": {
+  "ok": true,
+  "lat": 38.11854,
+  "lng": 13.370556,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.92,
+  "name": "Museo internazionale delle marionette Antonio Pasqualino",
+  "locality": "Palermo",
+  "osm_class": "tourism=museum",
+  "wikidata": "Q1954250",
+  "display": "Museo internazionale delle marionette Antonio Pasqualino, 5, Piazzetta Antonio Pasqualino, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1185396,
+    "lng": 13.3705559,
+    "name": "Museo internazionale delle marionette Antonio Pasqualino",
+    "source": "nominatim",
+    "osm_id": "node/1816345209",
+    "wikidata": "Q1954250",
+    "osm_class": "tourism=museum",
+    "locality": "Palermo",
+    "display": "Museo internazionale delle marionette Antonio Pasqualino, 5, Piazzetta Antonio Pasqualino, Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Museo internazionale delle marionette Antonio Pasqualino"
+    ],
+    "importance": 0.33029660482760953,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::gam galleria darte moderna": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::arte contemporaneo": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::catacumbas de los capuchinos": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::cattedrale di palermo": {
+  "ok": true,
+  "lat": 38.114331,
+  "lng": 13.355912,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.865,
+  "name": "Cattedrale di Palermo",
+  "locality": "Palermo",
+  "osm_class": "building=cathedral",
+  "wikidata": "Q1478407",
+  "display": "Cattedrale di Palermo, Via Vittorio Emanuele, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1143313,
+    "lng": 13.3559116,
+    "name": "Cattedrale di Palermo",
+    "source": "nominatim",
+    "osm_id": "way/355368162",
+    "wikidata": "Q1478407",
+    "osm_class": "building=cathedral",
+    "locality": "Palermo",
+    "display": "Cattedrale di Palermo, Via Vittorio Emanuele, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Cattedrale di Palermo"
+    ],
+    "importance": 0.45881286497844737,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::chiesa della martorana": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::san cataldo": {
+  "ok": true,
+  "lat": 38.114752,
+  "lng": 13.36247,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.923,
+  "name": "Chiesa di San Cataldo",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q2066497",
+  "display": "Chiesa di San Cataldo, Via Maqueda, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1147522,
+    "lng": 13.3624703,
+    "name": "Chiesa di San Cataldo",
+    "source": "nominatim",
+    "osm_id": "way/86870896",
+    "wikidata": "Q2066497",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Chiesa di San Cataldo, Via Maqueda, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Chiesa di San Cataldo"
+    ],
+    "importance": 0.32316133360556143,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::chiesa del gesu": {
+  "ok": true,
+  "lat": 38.112931,
+  "lng": 13.361554,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.928,
+  "name": "Chiesa del Gesù (Casa Professa)",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q654981",
+  "display": "Chiesa del Gesù (Casa Professa), Vicolo Casa Professa, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1129307,
+    "lng": 13.3615541,
+    "name": "Chiesa del Gesù (Casa Professa)",
+    "source": "nominatim",
+    "osm_id": "way/332578307",
+    "wikidata": "Q654981",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Chiesa del Gesù (Casa Professa), Vicolo Casa Professa, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Chiesa del Gesù (Casa Professa)"
+    ],
+    "importance": 0.39832776522768565,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::chiesa e monastero di santa caterina dalessandria": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::oratorio del rosario di santa cita": {
+  "ok": true,
+  "lat": 38.120772,
+  "lng": 13.363085,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.913,
+  "name": "Oratorio del Rosario di Santa Cita",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q1562597",
+  "display": "Oratorio del Rosario di Santa Cita, Via Santa Maria del Piliero, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1207718,
+    "lng": 13.3630847,
+    "name": "Oratorio del Rosario di Santa Cita",
+    "source": "nominatim",
+    "osm_id": "way/143736591",
+    "wikidata": "Q1562597",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Oratorio del Rosario di Santa Cita, Via Santa Maria del Piliero, La Loggia, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Oratorio del Rosario di Santa Cita"
+    ],
+    "importance": 0.22052600253021823,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::santa maria dello spasimo": {
+  "ok": true,
+  "lat": 38.114184,
+  "lng": 13.371874,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.915,
+  "name": "Santa Maria dello Spasimo",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q494404",
+  "display": "Santa Maria dello Spasimo, Via dello Spasimo, Kalsa, I Circoscrizione, Palermo, Sicilia, 90123, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1141837,
+    "lng": 13.3718742,
+    "name": "Santa Maria dello Spasimo",
+    "source": "nominatim",
+    "osm_id": "relation/403706",
+    "wikidata": "Q494404",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Santa Maria dello Spasimo, Via dello Spasimo, Kalsa, I Circoscrizione, Palermo, Sicilia, 90123, Italia",
+    "names_all": [
+     "Santa Maria dello Spasimo"
+    ],
+    "importance": 0.2753675655596695,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::san giovanni degli eremiti": {
+  "ok": true,
+  "lat": 38.10956,
+  "lng": 13.354596,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.919,
+  "name": "Chiesa di San Giovanni degli Eremiti",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q745359",
+  "display": "Chiesa di San Giovanni degli Eremiti, Via Benedettini, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1095602,
+    "lng": 13.3545956,
+    "name": "Chiesa di San Giovanni degli Eremiti",
+    "source": "nominatim",
+    "osm_id": "way/49786077",
+    "wikidata": "Q745359",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Chiesa di San Giovanni degli Eremiti, Via Benedettini, Albergheria, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Chiesa di San Giovanni degli Eremiti"
+    ],
+    "importance": 0.33155205287302,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::santuario di santa rosalia": {
+  "ok": true,
+  "lat": 38.168035,
+  "lng": 13.351852,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.88,
+  "name": "Santuario di Santa Rosalia",
+  "locality": "Palermo",
+  "osm_class": "amenity=place_of_worship",
+  "wikidata": "Q3950110",
+  "display": "Santuario di Santa Rosalia, Via Monte Erta, VIII Circoscrizione, Palermo, Sicilia, 90167, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1680346,
+    "lng": 13.3518521,
+    "name": "Santuario di Santa Rosalia",
+    "source": "nominatim",
+    "osm_id": "way/278476831",
+    "wikidata": "Q3950110",
+    "osm_class": "amenity=place_of_worship",
+    "locality": "Palermo",
+    "display": "Santuario di Santa Rosalia, Via Monte Erta, VIII Circoscrizione, Palermo, Sicilia, 90167, Italia",
+    "names_all": [
+     "Santuario di Santa Rosalia"
+    ],
+    "importance": 0.19283288150311992,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::mercato ballaro": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::mercato del capo": {
+  "ok": true,
+  "lat": 38.118619,
+  "lng": 13.35407,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.897,
+  "name": "Mercato del Capo",
+  "locality": "Palermo",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Mercato del Capo, Via Porta Carini, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1186189,
+    "lng": 13.3540701,
+    "name": "Mercato del Capo",
+    "source": "nominatim",
+    "osm_id": "node/8842292218",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Palermo",
+    "display": "Mercato del Capo, Via Porta Carini, Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Mercato del Capo"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::mercato della vucciria": {
+  "ok": true,
+  "lat": 38.117383,
+  "lng": 13.363704,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.899,
+  "name": "Mercato Della Vucciria",
+  "locality": "Palermo",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Mercato Della Vucciria, Piazza Caracciolo, Vucciria, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1173828,
+    "lng": 13.3637039,
+    "name": "Mercato Della Vucciria",
+    "source": "nominatim",
+    "osm_id": "node/4738003924",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Palermo",
+    "display": "Mercato Della Vucciria, Piazza Caracciolo, Vucciria, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Mercato Della Vucciria"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::mercato di borgo vecchio": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::mercato delle pulci": {
+  "ok": true,
+  "lat": 38.115935,
+  "lng": 13.351061,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.742,
+  "name": "Alberto Amedeo - Mercato delle Pulci",
+  "locality": "Palermo",
+  "osm_class": "highway=bus_stop",
+  "wikidata": "",
+  "display": "Alberto Amedeo - Mercato delle Pulci, Corso Alberto Amedeo, V Circoscrizione, Palermo, Sicilia, 90138, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1159353,
+    "lng": 13.3510608,
+    "name": "Alberto Amedeo - Mercato delle Pulci",
+    "source": "nominatim",
+    "osm_id": "node/6401035333",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Palermo",
+    "display": "Alberto Amedeo - Mercato delle Pulci, Corso Alberto Amedeo, V Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Alberto Amedeo - Mercato delle Pulci"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   },
+   {
+    "lat": 38.1159353,
+    "lng": 13.3510608,
+    "name": "Alberto Amedeo - Mercato delle Pulci",
+    "source": "nominatim",
+    "osm_id": "node/6401035333",
+    "wikidata": "",
+    "osm_class": "highway=bus_stop",
+    "locality": "Palermo",
+    "display": "Alberto Amedeo - Mercato delle Pulci, Corso Alberto Amedeo, V Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Alberto Amedeo - Mercato delle Pulci"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::teatro massimo": {
+  "ok": true,
+  "lat": 38.120171,
+  "lng": 13.357154,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.931,
+  "name": "Teatro Massimo Vittorio Emanuele",
+  "locality": "Palermo",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q261439",
+  "display": "Teatro Massimo Vittorio Emanuele, Piazza Giuseppe Verdi, Il Capo, I Circoscrizione, Palermo, Sicilia, 90138, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1201712,
+    "lng": 13.3571544,
+    "name": "Teatro Massimo Vittorio Emanuele",
+    "source": "nominatim",
+    "osm_id": "way/24937131",
+    "wikidata": "Q261439",
+    "osm_class": "amenity=theatre",
+    "locality": "Palermo",
+    "display": "Teatro Massimo Vittorio Emanuele, Piazza Giuseppe Verdi, Il Capo, I Circoscrizione, Palermo, Sicilia, 90138, Italia",
+    "names_all": [
+     "Teatro Massimo Vittorio Emanuele"
+    ],
+    "importance": 0.46546909069565495,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::teatro politeama garibaldi": {
+  "ok": true,
+  "lat": 38.125195,
+  "lng": 13.356783,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.921,
+  "name": "Politeama Garibaldi",
+  "locality": "Palermo",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q1478356",
+  "display": "Politeama Garibaldi, Via Isidoro La Lumia, VIII Circoscrizione, Palermo, Sicilia, 90139, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1251954,
+    "lng": 13.356783,
+    "name": "Politeama Garibaldi",
+    "source": "nominatim",
+    "osm_id": "way/30877778",
+    "wikidata": "Q1478356",
+    "osm_class": "amenity=theatre",
+    "locality": "Palermo",
+    "display": "Politeama Garibaldi, Via Isidoro La Lumia, VIII Circoscrizione, Palermo, Sicilia, 90139, Italia",
+    "names_all": [
+     "Politeama Garibaldi"
+    ],
+    "importance": 0.37653081765694324,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::teatro de marionetas": {
+  "ok": true,
+  "lat": 38.120813,
+  "lng": 13.359311,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.73,
+  "name": "Teatro dei Pupi",
+  "locality": "Palermo",
+  "osm_class": "amenity=theatre",
+  "wikidata": "Q1772945",
+  "display": "Teatro dei Pupi, 95, Via Bara All'Olivella, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1208126,
+    "lng": 13.3593113,
+    "name": "Teatro dei Pupi",
+    "source": "nominatim",
+    "osm_id": "node/6558498885",
+    "wikidata": "Q1772945",
+    "osm_class": "amenity=theatre",
+    "locality": "Palermo",
+    "display": "Teatro dei Pupi, 95, Via Bara All'Olivella, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Teatro dei Pupi"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   },
+   {
+    "lat": 38.1208126,
+    "lng": 13.3593113,
+    "name": "Teatro dei Pupi",
+    "source": "nominatim",
+    "osm_id": "node/6558498885",
+    "wikidata": "Q1772945",
+    "osm_class": "amenity=theatre",
+    "locality": "Palermo",
+    "display": "Teatro dei Pupi, 95, Via Bara All'Olivella, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Teatro dei Pupi"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   },
+   {
+    "lat": 38.1208126,
+    "lng": 13.3593113,
+    "name": "Teatro dei Pupi",
+    "source": "nominatim",
+    "osm_id": "node/6558498885",
+    "wikidata": "Q1772945",
+    "osm_class": "amenity=theatre",
+    "locality": "Palermo",
+    "display": "Teatro dei Pupi, 95, Via Bara All'Olivella, Il Capo, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Teatro dei Pupi"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::techo de la catedral": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::techo de santa caterina": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::monte pellegrino": {
+  "ok": true,
+  "lat": 38.16611,
+  "lng": 13.353803,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.894,
+  "name": "Monte Pellegrino",
+  "locality": "Palermo",
+  "osm_class": "natural=peak",
+  "wikidata": "Q731916",
+  "display": "Monte Pellegrino, Palermo, Sicilia, 90167, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1661097,
+    "lng": 13.3538035,
+    "name": "Monte Pellegrino",
+    "source": "nominatim",
+    "osm_id": "node/493236385",
+    "wikidata": "Q731916",
+    "osm_class": "natural=peak",
+    "locality": "Palermo",
+    "display": "Monte Pellegrino, Palermo, Sicilia, 90167, Italia",
+    "names_all": [
+     "Monte Pellegrino"
+    ],
+    "importance": 0.36831991052132845,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::terraza del grand hotel wagner rooftop bars": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::quattro canti": {
+  "ok": true,
+  "lat": 38.115682,
+  "lng": 13.361459,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.77,
+  "name": "Quattro Canti",
+  "locality": "Palermo",
+  "osm_class": "highway=pedestrian",
+  "wikidata": "Q1665695",
+  "display": "Quattro Canti, La Loggia, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1156818,
+    "lng": 13.3614594,
+    "name": "Quattro Canti",
+    "source": "nominatim",
+    "osm_id": "way/426480998",
+    "wikidata": "Q1665695",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Quattro Canti, La Loggia, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Quattro Canti"
+    ],
+    "importance": 0.3212490653681812,
+    "rank": 0
+   },
+   {
+    "lat": 38.1156818,
+    "lng": 13.3614594,
+    "name": "Quattro Canti",
+    "source": "nominatim",
+    "osm_id": "way/426480998",
+    "wikidata": "Q1665695",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Quattro Canti, La Loggia, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Quattro Canti"
+    ],
+    "importance": 0.3212490653681812,
+    "rank": 0
+   },
+   {
+    "lat": 38.1156818,
+    "lng": 13.3614594,
+    "name": "Quattro Canti",
+    "source": "nominatim",
+    "osm_id": "way/426480998",
+    "wikidata": "Q1665695",
+    "osm_class": "highway=pedestrian",
+    "locality": "Palermo",
+    "display": "Quattro Canti, La Loggia, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Quattro Canti"
+    ],
+    "importance": 0.3212490653681812,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::kalsa": {
+  "ok": true,
+  "lat": 38.115137,
+  "lng": 13.367461,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.904,
+  "name": "Kalsa",
+  "locality": "Palermo",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q2282338",
+  "display": "Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1151367,
+    "lng": 13.3674607,
+    "name": "Kalsa",
+    "source": "nominatim",
+    "osm_id": "node/1008203344",
+    "wikidata": "Q2282338",
+    "osm_class": "place=neighbourhood",
+    "locality": "Palermo",
+    "display": "Kalsa, I Circoscrizione, Palermo, Sicilia, 90133, Italia",
+    "names_all": [
+     "Kalsa"
+    ],
+    "importance": 0.08007561226825358,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::albergheria ballaro": {
+  "ok": true,
+  "lat": 38.111356,
+  "lng": 13.361578,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.744,
+  "name": "Ballarò",
+  "locality": "Palermo",
+  "osm_class": "amenity=marketplace",
+  "wikidata": "",
+  "display": "Ballarò, Piazza del Carmine, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1113556,
+    "lng": 13.3615778,
+    "name": "Ballarò",
+    "source": "nominatim",
+    "osm_id": "node/3450499385",
+    "wikidata": "",
+    "osm_class": "amenity=marketplace",
+    "locality": "Palermo",
+    "display": "Ballarò, Piazza del Carmine, Albergheria, I Circoscrizione, Palermo, Sicilia, 90140, Italia",
+    "names_all": [
+     "Ballarò"
+    ],
+    "importance": 7.561226825355943e-05,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::il capo": {
+  "ok": true,
+  "lat": 38.117661,
+  "lng": 13.355602,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.903,
+  "name": "Il Capo",
+  "locality": "Palermo",
+  "osm_class": "place=neighbourhood",
+  "wikidata": "Q3862170",
+  "display": "Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1176612,
+    "lng": 13.3556021,
+    "name": "Il Capo",
+    "source": "nominatim",
+    "osm_id": "node/1008203365",
+    "wikidata": "Q3862170",
+    "osm_class": "place=neighbourhood",
+    "locality": "Palermo",
+    "display": "Il Capo, I Circoscrizione, Palermo, Sicilia, 90134, Italia",
+    "names_all": [
+     "Il Capo"
+    ],
+    "importance": 0.08007561226825358,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::foro italico": {
+  "ok": true,
+  "lat": 38.117219,
+  "lng": 13.375043,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.76,
+  "name": "Foro Italico",
+  "locality": "Palermo",
+  "osm_class": "leisure=park",
+  "wikidata": "Q604483",
+  "display": "Foro Italico, I Circoscrizione, Palermo, Sicilia, Italia",
+  "reason": "nominatim_bounded",
+  "alternatives": [
+   {
+    "lat": 38.1172193,
+    "lng": 13.3750432,
+    "name": "Foro Italico",
+    "source": "nominatim",
+    "osm_id": "way/24705750",
+    "wikidata": "Q604483",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Foro Italico, I Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Foro Italico"
+    ],
+    "importance": 0.28187552194901133,
+    "rank": 0
+   },
+   {
+    "lat": 38.1172193,
+    "lng": 13.3750432,
+    "name": "Foro Italico",
+    "source": "nominatim",
+    "osm_id": "way/24705750",
+    "wikidata": "Q604483",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Foro Italico, I Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Foro Italico"
+    ],
+    "importance": 0.28187552194901133,
+    "rank": 0
+   },
+   {
+    "lat": 38.1172193,
+    "lng": 13.3750432,
+    "name": "Foro Italico",
+    "source": "nominatim",
+    "osm_id": "way/24705750",
+    "wikidata": "Q604483",
+    "osm_class": "leisure=park",
+    "locality": "Palermo",
+    "display": "Foro Italico, I Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Foro Italico"
+    ],
+    "importance": 0.28187552194901133,
+    "rank": 0
+   }
+  ]
+ },
+ "palermo::via maqueda via vittorio emanuele": {
+  "ok": false,
+  "lat": null,
+  "lng": null,
+  "source": "",
+  "confidence": "review",
+  "score": 0.0,
+  "name": "",
+  "locality": "",
+  "osm_class": "",
+  "wikidata": "",
+  "display": "",
+  "reason": "sin_candidatos",
+  "alternatives": []
+ },
+ "palermo::piazza pretoria": {
+  "ok": true,
+  "lat": 38.115402,
+  "lng": 13.362076,
+  "source": "nominatim",
+  "confidence": "high",
+  "score": 0.855,
+  "name": "Piazza Pretoria",
+  "locality": "Palermo",
+  "osm_class": "place=square",
+  "wikidata": "Q972315",
+  "display": "Piazza Pretoria, La Loggia, I Circoscrizione, Palermo, Sicilia, Italia",
+  "reason": "nominatim_free",
+  "alternatives": [
+   {
+    "lat": 38.1154024,
+    "lng": 13.3620761,
+    "name": "Piazza Pretoria",
+    "source": "nominatim",
+    "osm_id": "way/442849022",
+    "wikidata": "Q972315",
+    "osm_class": "place=square",
+    "locality": "Palermo",
+    "display": "Piazza Pretoria, La Loggia, I Circoscrizione, Palermo, Sicilia, Italia",
+    "names_all": [
+     "Piazza Pretoria"
+    ],
+    "importance": 0.2853231881743613,
+    "rank": 0
+   }
+  ]
  }
 }

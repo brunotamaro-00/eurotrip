@@ -6170,16 +6170,17 @@
   "region": "sur",
   "seccion": "🏘️ Los pueblos vecinos (el motivo real de basarse acá)",
   "nombre": "Martina Franca",
-  "nombre_local": "Martina Franca",
+  "nombre_local": "Strada Provinciale 13 Martina Franca-Cisternino",
   "alias_es": [],
   "tipo": "Pueblo",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "el barroco del Valle d'Itria → Day_trips/Martina_Franca.md",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.719489,
+  "lng": 17.377177,
+  "origen_geo": "nominatim",
+  "locality": "Martina Franca"
  },
  {
   "id": "ostuni--ceglie-messapica",
@@ -6200,9 +6201,10 @@
   "precio": "",
   "notas": "capital gastronómica del interior, muy poco turística",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.64696,
+  "lng": 17.522042,
+  "origen_geo": "nominatim",
+  "locality": "Ceglie Messapica"
  },
  {
   "id": "ostuni--fasano",
@@ -6216,16 +6218,17 @@
   "region": "sur",
   "seccion": "🏘️ Los pueblos vecinos (el motivo real de basarse acá)",
   "nombre": "Fasano",
-  "nombre_local": "Fasano",
+  "nombre_local": "Strada Provinciale 93 Fasano-Ostuni",
   "alias_es": [],
   "tipo": "Pueblo",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "con la Selva di Fasano (bosque en altura) y el Zoosafari",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.7611,
+  "lng": 17.527547,
+  "origen_geo": "nominatim",
+  "locality": "Ostuni"
  },
  {
   "id": "ostuni--grotta-di-santa-maria-di-agnano",
@@ -6239,16 +6242,17 @@
   "region": "sur",
   "seccion": "💎 Off the Beaten Path",
   "nombre": "Grotta di Santa Maria di Agnano",
-  "nombre_local": "Grotta di Santa Maria di Agnano",
+  "nombre_local": "Grotta Santa Maria di Agnano",
   "alias_es": [],
   "tipo": "Sitio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "La cueva donde se halló a \"Delia\", la gestante de 25.000 años. Zona arqueológica visitable con guía — verificar",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.747055,
+  "lng": 17.547644,
+  "origen_geo": "nominatim",
+  "locality": "Ostuni"
  },
  {
   "id": "ostuni--frantoi-ipogei-del-centro",
@@ -6292,9 +6296,10 @@
   "precio": "",
   "notas": "Pequeño puerto histórico con torre aragonesa, en la costa",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 40.790025,
+  "lng": 17.585773,
+  "origen_geo": "nominatim",
+  "locality": "Ostuni"
  },
  {
   "id": "ostuni--cavallino-bianco-cortili",
@@ -6384,9 +6389,10 @@
   "precio": "€8",
   "notas": "Palacio gótico-catalán con el fresco *Trionfo della Morte* y la *Annunziata* de Antonello da Messina. Museo chico y perfecto. (€8 · €4 reducido; GRATIS 1er domingo del mes) — el montaje muse",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.116573,
+  "lng": 13.371174,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--palazzo-chiaramonte-steri",
@@ -6407,9 +6413,10 @@
   "precio": "€8",
   "notas": "Sede de la Inquisición siciliana; las celdas de los penitenciados conservan grafitis y dibujos de los presos en las paredes. Sobrecogedor. (€8) — solo con visita guiada, salidas cada hora; r",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.117583,
+  "lng": 13.37002,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--palazzo-conte-federico",
@@ -6430,9 +6437,10 @@
   "precio": "~€10",
   "notas": "Palacio aristocrático todavía habitado por la misma familia; te guían los propios condes. Torre árabe del siglo XII adentro. (~€10, verificar) — joya rara, mencionada como \"hidden gem\" top d",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.112341,
+  "lng": 13.358453,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--palazzo-mirto",
@@ -6453,9 +6461,10 @@
   "precio": "~€6",
   "notas": "Palacio nobiliario del s. XVIII con interiores intactos: salón chino, establos, cocina. (~€6, verificar)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.116507,
+  "lng": 13.36804,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--museo-archeologico-regionale-antonino-salinas",
@@ -6515,16 +6524,17 @@
   "region": "sur",
   "seccion": "🏛️ Museos y Palacios",
   "nombre": "Museo delle Marionette Antonio Pasqualino",
-  "nombre_local": "Museo delle Marionette Antonio Pasqualino",
+  "nombre_local": "Museo internazionale delle marionette Antonio Pasqualino",
   "alias_es": [],
   "tipo": "Museo",
   "prioridad": "Solo mapeado",
   "precio": "~€5",
   "notas": "Colección mundial de *pupi* (marionetas sicilianas). Patrimonio inmaterial UNESCO. (~€5) — ver también función abajo",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.11854,
+  "lng": 13.370556,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--gam-galleria-d-arte-moderna",
@@ -6614,9 +6624,10 @@
   "precio": "techo/rooftop ~€7",
   "notas": "Collage de 800 años: ábside árabe-normando, cúpula neoclásica, portal gótico-catalán. Nave GRATIS; tesoro + criptas + tumbas reales ~€7; techo/rooftop ~€7 (vistas 360° sobre la ciudad)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.114331,
+  "lng": 13.355912,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--chiesa-della-martorana-santa-maria-dell-ammiraglio",
@@ -6653,16 +6664,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias (el circuito árabe-normando UNESCO)",
   "nombre": "San Cataldo",
-  "nombre_local": "San Cataldo",
+  "nombre_local": "Chiesa di San Cataldo",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "€2.50",
   "notas": "Pegada a la Martorana: tres cúpulas rojas árabes, interior desnudo de piedra. Contraste total con la vecina. (€2.50) — visitar las dos juntas, están en Piazza Bellini",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.114752,
+  "lng": 13.36247,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--chiesa-del-gesu-casa-professa",
@@ -6676,16 +6688,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias (el circuito árabe-normando UNESCO)",
   "nombre": "Chiesa del Gesù (Casa Professa)",
-  "nombre_local": "Chiesa del Gesù",
+  "nombre_local": "Chiesa del Gesù (Casa Professa)",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "~€5-6",
   "notas": "Barroco jesuita al extremo: cada centímetro cubierto de mármol policromado. (~€5-6 completo con museo/cripta/oratorio · ~€2-3 solo nave)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.112931,
+  "lng": 13.361554,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--chiesa-e-monastero-di-santa-caterina-d-alessandria",
@@ -6729,9 +6742,10 @@
   "precio": "~€4-8",
   "notas": "y Oratorio di San Lorenzo - Estucos de Giacomo Serpotta, el mejor estuquista del barroco europeo. Pequeños, íntimos, muy poco visitados. (~€4-8 c/u; hay ticket combinado de oratorios)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.120772,
+  "lng": 13.363085,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--santa-maria-dello-spasimo",
@@ -6752,9 +6766,10 @@
   "precio": "~€3",
   "notas": "Iglesia gótica sin techo, abandonada y colonizada por un árbol. Hoy espacio de conciertos. Atmósfera irreal. (GRATIS o ~€3)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.114184,
+  "lng": 13.371874,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--san-giovanni-degli-eremiti",
@@ -6768,16 +6783,17 @@
   "region": "sur",
   "seccion": "⛪ Iglesias (el circuito árabe-normando UNESCO)",
   "nombre": "San Giovanni degli Eremiti",
-  "nombre_local": "San Giovanni degli Eremiti",
+  "nombre_local": "Chiesa di San Giovanni degli Eremiti",
   "alias_es": [],
   "tipo": "Iglesia",
   "prioridad": "Solo mapeado",
   "precio": "€6",
   "notas": "Cúpulas rojas árabes y claustro con jardín de cítricos. (€6)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.10956,
+  "lng": 13.354596,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--santuario-di-santa-rosalia-monte-pellegrino",
@@ -6798,9 +6814,10 @@
   "precio": "",
   "notas": "Cueva-santuario de la patrona de Palermo, en la montaña sobre la ciudad. GRATIS — bus 812; vistas enormes",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.168035,
+  "lng": 13.351852,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--mercato-ballaro",
@@ -6844,9 +6861,10 @@
   "precio": "",
   "notas": "El más \"de barrio\", menos turístico que Ballarò. Callejón cubierto de toldos. GRATIS — arranca junto a Porta Carini",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.118619,
+  "lng": 13.35407,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--mercato-della-vucciria",
@@ -6860,16 +6878,17 @@
   "region": "sur",
   "seccion": "🛒 Mercados (el corazón de Palermo)",
   "nombre": "Mercato della Vucciria",
-  "nombre_local": "Mercato della Vucciria",
+  "nombre_local": "Mercato Della Vucciria",
   "alias_es": [],
   "tipo": "Mercado",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "El histórico y famoso; hoy casi muerto de día y fiesta de noche (ver nightlife.md). GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.117383,
+  "lng": 13.363704,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--mercato-di-borgo-vecchio",
@@ -6906,16 +6925,17 @@
   "region": "sur",
   "seccion": "🛒 Mercados (el corazón de Palermo)",
   "nombre": "Mercato delle Pulci (Piazza Peranni)",
-  "nombre_local": "Mercato delle Pulci",
+  "nombre_local": "Alberto Amedeo - Mercato delle Pulci",
   "alias_es": [],
   "tipo": "Mercado",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Mercado de antigüedades y chatarra. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.115935,
+  "lng": 13.351061,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--teatro-massimo",
@@ -6929,16 +6949,17 @@
   "region": "sur",
   "seccion": "🎭 Cultura y Espectáculos",
   "nombre": "Teatro Massimo",
-  "nombre_local": "Teatro Massimo",
+  "nombre_local": "Teatro Massimo Vittorio Emanuele",
   "alias_es": [],
   "tipo": "Teatro",
   "prioridad": "Solo mapeado",
   "precio": "€12",
   "notas": "La ópera más grande de Italia y tercera de Europa; escalinata de la escena final de *El Padrino III*. Tour guiado 30-40 min (€12 adultos · €6 menores de 26 · €9 grupos) — también se puede ir",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.120171,
+  "lng": 13.357154,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--teatro-politeama-garibaldi",
@@ -6952,16 +6973,17 @@
   "region": "sur",
   "seccion": "🎭 Cultura y Espectáculos",
   "nombre": "Teatro Politeama Garibaldi",
-  "nombre_local": "Teatro Politeama Garibaldi",
+  "nombre_local": "Politeama Garibaldi",
   "alias_es": [],
   "tipo": "Teatro",
   "prioridad": "Solo mapeado",
   "precio": "€10-25",
   "notas": "Sede de la Orquesta Sinfónica Siciliana. Conciertos baratos (€10-25)",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.125195,
+  "lng": 13.356783,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--opera-dei-pupi-teatro-de-marionetas",
@@ -6975,16 +6997,17 @@
   "region": "sur",
   "seccion": "🎭 Cultura y Espectáculos",
   "nombre": "Ópera dei Pupi (teatro de marionetas)",
-  "nombre_local": "teatro de marionetas",
+  "nombre_local": "Teatro dei Pupi",
   "alias_es": [],
   "tipo": "Teatro",
   "prioridad": "Solo mapeado",
   "precio": "~€10",
   "notas": "Funciones de caballerías carolingias con marionetas de un metro y armadura. Patrimonio UNESCO. Teatro dei Pupi di Mimmo Cuticchio (Via Bara all'Olivella) y Teatro Argento. (~€10) — funciones",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.120813,
+  "lng": 13.359311,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--techo-de-la-catedral",
@@ -7051,9 +7074,10 @@
   "precio": "",
   "notas": "Montaña de 600m sobre la ciudad; Goethe la llamó \"el promontorio más bello del mundo\". Bus 812 o auto. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.16611,
+  "lng": 13.353803,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--terraza-del-grand-hotel-wagner-rooftop-bars",
@@ -7097,9 +7121,10 @@
   "precio": "",
   "notas": "Cruce barroco de las dos calles principales, con cuatro fachadas curvas. Centro exacto de la ciudad vieja. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.115682,
+  "lng": 13.361459,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--kalsa",
@@ -7120,9 +7145,10 @@
   "precio": "",
   "notas": "Ex barrio árabe; el más golpeado por los bombardeos del 43 y hoy el más vivo de arte y bares. Piazza Marina, Giardino Garibaldi (ficus enormes). GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.115137,
+  "lng": 13.367461,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--albergheria-ballaro",
@@ -7136,16 +7162,17 @@
   "region": "sur",
   "seccion": "🚶 Barrios y Callejeo (gratis)",
   "nombre": "Albergheria / Ballarò",
-  "nombre_local": "Albergheria / Ballarò",
+  "nombre_local": "Ballarò",
   "alias_es": [],
   "tipo": "Barrio",
   "prioridad": "Solo mapeado",
   "precio": "",
   "notas": "Barrio del mercado, multicultural (bengalí, tamil, africano). Murales de arte urbano. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.111356,
+  "lng": 13.361578,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--il-capo",
@@ -7166,9 +7193,10 @@
   "precio": "",
   "notas": "Laberinto entre la Catedral y el mercado. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.117661,
+  "lng": 13.355602,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--foro-italico-paseo-maritimo",
@@ -7189,9 +7217,10 @@
   "precio": "",
   "notas": "Explanada verde frente al mar, donde los palermitanos hacen la *passeggiata*. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.117219,
+  "lng": 13.375043,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--via-maqueda-via-vittorio-emanuele-cassaro",
@@ -7235,9 +7264,10 @@
   "precio": "",
   "notas": "Fuente manierista con decenas de desnudos que escandalizaron a las monjas vecinas. GRATIS",
   "descartado": false,
-  "lat": null,
-  "lng": null,
-  "origen_geo": ""
+  "lat": 38.115402,
+  "lng": 13.362076,
+  "origen_geo": "nominatim",
+  "locality": "Palermo"
  },
  {
   "id": "palermo--murales-urbanos",
