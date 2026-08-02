@@ -128,6 +128,13 @@ _KATIA: list[Area] = [
     _a("karst", "Karst y Cuevas", 45.7800, 14.2000, "si", "Postojna", "Slovenia", "katia", 25, 0.30),
     _a("soca", "Valle del Soča", 46.2500, 13.6000, "si", "Bovec", "Slovenia", "katia", 25, 0.30),
     _a("trieste", "Trieste", 45.6495, 13.7768, "it", "Trieste", "Italy", "katia", 15, 0.18),
+    # Day trips que el CSV asigna a su ciudad base pero caen lejos de ella:
+    # Fontainebleau está a 57 km de París y Chantilly a 40; con el radio de
+    # París (20 km) quedaban rechazados por distancia.
+    _a("fontainebleau", "París", 48.4020, 2.6997, "fr", "Fontainebleau", "France", "katia", 15, 0.18),
+    _a("chantilly", "París", 49.1937, 2.4855, "fr", "Chantilly", "France", "katia", 15, 0.18),
+    _a("trossachs", "Highlands", 56.2400, -4.2200, "gb", "Callander", "UK", "occidental", 20, 0.25, "highlands"),
+    _a("kamnik", "Liubliana", 46.3100, 14.6100, "si", "Kamnik", "Slovenia", "katia", 20, 0.25),
     _a("piran", "Costa Eslovena", 45.5285, 13.5683, "si", "Piran", "Slovenia", "katia", 20, 0.25),
 ]
 

@@ -31,8 +31,18 @@ Cada fila incluye **`lat` / `lng` verificadas** (no solo `lugar_busqueda`), para
 ## Cómo importar cada CSV
 
 1. Crear un mapa nuevo por región → **Importar** → subir el CSV.
-2. Columna a ubicar en el mapa: **`lat`** y **`lng`** (no `lugar_busqueda`). Título de marcadores: **`nombre`**.
+2. Columna a ubicar en el mapa: **`lugar_busqueda`** *o* **`lat` + `lng`** — los dos funcionan (ver abajo). Título de marcadores: **`nombre`**.
 3. **Estilo uniforme** → **Agrupar lugares por** → elegir **`prioridad`** (color por categoría) o **`ciudad`** (color por ciudad) → asignar colores.
+
+### ¿Por `lugar_busqueda` o por `lat`/`lng`?
+
+| | `lugar_busqueda` | `lat` + `lng` |
+|---|---|---|
+| Qué hace | My Maps busca el texto y pincha lo que encuentra | pincha la coordenada exacta |
+| Ventaja | el pin queda **enlazado a la ficha real** del lugar (horarios, fotos, reseñas, cómo llegar) | no depende del buscador |
+| Riesgo | si el nombre es ambiguo puede caer en otro lado | ninguno |
+
+`lugar_busqueda` está escrito como **`Nombre local, Localidad, País`** y **siempre en idioma local** (`Karlův most`, no `Puente de Carlos`), porque una búsqueda por texto resuelve mucho mejor el topónimo local. Cada fila pasó un *round-trip test*: se consulta el término tal cual lo haría My Maps y se verifica que caiga sobre la coordenada verificada.
 
 > Cada CSV importado = **1 capa**. Si querés una capa por ciudad (para prender/apagar ciudades por separado), importá el mismo CSV varias veces filtrando, o pedí de vuelta los CSVs por ciudad.
 

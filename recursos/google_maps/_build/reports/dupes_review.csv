@@ -1,0 +1,88 @@
+new_id,nombre_nuevo,nombre_existente,area_key,regla,score,dist_m,accion
+berna--simsonbrunnen,Simsonbrunnen,Kramgasse,berna,F,0.0,,drop
+budapest--biblioteca-nacional,Biblioteca Nacional Széchényi,Széchenyi,budapest,C,100.0,,drop
+budapest--gellert-termas,Balneario Gellért,Colina Gellért (Gellért-hegy),budapest,C,100.0,,drop
+colmar--place-ancienne-douane,Place de l'Ancienne Douane,Fontaine Roesselmann,colmar,A,100.0,,drop
+colmar--maison-adolph,Maison Adolph,Maison Pfister,colmar,E,0.0,11.5,drop
+cracovia--sukiennice,Lonja de los Paños (Sukiennice),"Galería de Arte Polaco del s. XIX (Sukiennice, planta alta)",cracovia,A,100.0,,drop
+cracovia--torre-ayuntamiento,Torre del Antiguo Ayuntamiento,Stare Miasto,cracovia,F,0.0,,drop
+edimburgo--royal-mile,Royal Mile,Old Town,edimburgo,A,100.0,,drop
+edimburgo--water-of-leith,Water of Leith,Leith,edimburgo,C,100.0,,drop
+estrasburgo--tribunal-ddhh,Tribunal Europeo de Derechos Humanos,Palais des Droits de l'Homme,estrasburgo,A,100.0,,drop
+highlands--ben-nevis-inn,Ben Nevis Inn,Ben Nevis,fort_william,C,100.0,,drop
+highlands--glenfinnan-viewpoint-east,Glenfinnan Viaduct Viewpoint (East),Glenfinnan Viaduct,glenfinnan,C,100.0,,drop
+grindelwald--iglesia,Iglesia de Grindelwald,Grindelwald pueblo,grindelwald,B,100.0,,drop
+innsbruck--stadtturm,Stadtturm,Antiguo Ayuntamiento,innsbruck,F,0.0,,drop
+interlaken--thun,Thun,Spiez (Lago de Thun),interlaken,C,100.0,,drop
+londres--london-bridge,London Bridge,Tower of London,londres,B,100.0,,drop
+piran--tartinijev-trg,Plaza Tartini,Piran,piran,F,0.0,,drop
+praga--stare-mesto,Staré Město (Ciudad Vieja),Plaza de la Ciudad Vieja (Staroměstské náměstí),praga,C,100.0,,drop
+praga--zizkov-tower,Torre de Televisión de Žižkov,Žižkov,praga,C,100.0,,drop
+praga--torre-petrin,Torre de Petřín,Colina Petřín,praga,E,0.0,11.1,drop
+soca--rio-soca,Río Soča,Valle del Soča,soca,B,100.0,,drop
+viena--gloriette,Gloriette,Schönbrunn — jardines y Gloriette,viena,A,100.0,,drop
+amsterdam--centrum,Centrum (Old Centre),Amsterdam Museum,amsterdam,D,78.79,,review
+amsterdam--noord,Amsterdam-Noord,Amsterdam Museum,amsterdam,D,75.0,,review
+amsterdam--koninklijk-paleis,Palacio Real de Ámsterdam,Amsterdam Museum,amsterdam,D,72.0,,review
+amsterdam--waterlooplein,Waterlooplein Market,Rembrandt House,amsterdam,E,0.0,83.2,review
+amsterdam--oude-kerk,Oude Kerk,Red Light Secrets,amsterdam,E,0.0,100.4,review
+amsterdam--museumplein,Museumplein,Moco Museum,amsterdam,E,0.0,100.4,review
+budapest--szabadsag-ter,Szabadság tér,Puente de la Libertad (Szabadság híd),budapest,D,81.82,,review
+budapest--gozsdu-udvar,Gozsdu Udvar,Kazinczy utca (no confundir con Kazimierz),budapest,E,0.0,146.2,review
+budapest--biblioteca-nacional,Biblioteca Nacional Széchényi,Castillo de Buda (Budavári Palota),budapest,E,0.0,75.5,review
+budapest--citadella,Citadella,Colina Gellért (Gellért-hegy),budapest,E,0.0,128.3,review
+colmar--place-ancienne-douane,Place de l'Ancienne Douane,Maison Pfister,colmar,E,0.0,133.3,review
+colmar--koifhus,Koïfhus,Maison Pfister,colmar,E,0.0,112.0,review
+colmar--eglise-des-dominicains,Église des Dominicains,Maison des Têtes,colmar,E,0.0,80.9,review
+colmar--rue-des-marchands,Rue des Marchands,Maison Pfister,colmar,E,0.0,84.0,review
+colmar--grand-rue,Grand'Rue,Petite Venise,colmar,E,0.0,109.7,review
+cracovia--florianska,Calle Floriańska,Floriańska Gate y Barbican,cracovia,D,76.92,,review
+cracovia--museo-nowa-huta,Museo de Nowa Huta,Avenida Solidarności,cracovia,E,0.0,86.9,review
+cracovia--czartoryski,Museo Czartoryski,Floriańska Gate y Barbican,cracovia,E,0.0,113.8,review
+cracovia--stare-miasto,Stare Miasto,Plaza del Mercado (Rynek Główny),cracovia,E,0.0,86.8,review
+cracovia--maly-rynek,Mały Rynek,Kościół Mariacki (Basílica de Santa María),cracovia,E,0.0,85.4,review
+cracovia--nowa-huta,Nowa Huta,Plac Centralny,cracovia,E,0.0,49.8,review
+cracovia--sukiennice,Lonja de los Paños (Sukiennice),Plaza del Mercado (Rynek Główny),cracovia,E,0.0,3.6,review
+cracovia--torre-ayuntamiento,Torre del Antiguo Ayuntamiento,Plaza del Mercado (Rynek Główny),cracovia,E,0.0,67.5,review
+edimburgo--st-giles,St Giles' Cathedral,Old Town,edimburgo,E,0.0,111.8,review
+edimburgo--royal-mile,Royal Mile,John Knox House,edimburgo,E,0.0,45.3,review
+edimburgo--water-of-leith,Water of Leith,Stockbridge Market,edimburgo,E,0.0,57.6,review
+estrasburgo--maison-des-tanneurs,Maison des Tanneurs,Petite France,estrasburgo,E,0.0,27.7,review
+estrasburgo--rue-des-moulins,Rue des Moulins,Petite France,estrasburgo,E,0.0,136.2,review
+estrasburgo--casa-kammerzell,Maison Kammerzell,Catedral Notre-Dame,estrasburgo,E,0.0,95.9,review
+estrasburgo--marche-aux-cochons,Place du Marché-aux-Cochons-de-Lait,Palais Rohan (3 museos),estrasburgo,E,0.0,107.5,review
+estrasburgo--rue-vieux-marche-poissons,Rue du Vieux-Marché-aux-Poissons,Place Gutenberg,estrasburgo,E,0.0,109.7,review
+estrasburgo--rue-merciere,Rue Mercière,Catedral Notre-Dame,estrasburgo,E,0.0,130.5,review
+estrasburgo--tribunal-ddhh,Tribunal Europeo de Derechos Humanos,Palais des Droits de l'Homme,estrasburgo,E,0.0,0.0,review
+estrasburgo--pavillon-josephine,Pavillon Joséphine,Parc de l'Orangerie,estrasburgo,E,0.0,93.0,review
+friburgo--konviktstrasse,Konviktstraße,Schwabentor,friburgo,E,0.0,136.4,review
+friburgo--munsterplatz,Münsterplatz,Freiburger Münster,friburgo,E,0.0,14.9,review
+friburgo--historisches-kaufhaus,Historisches Kaufhaus,Freiburger Münster,friburgo,E,0.0,67.3,review
+friburgo--augustinerplatz,Augustinerplatz,Augustinermuseum,friburgo,E,0.0,82.3,review
+friburgo--bertoldsbrunnen,Bertoldsbrunnen,Martinstor,friburgo,E,0.0,146.1,review
+innsbruck--altes-rathaus,Antiguo Ayuntamiento,Goldenes Dachl (Tejadillo de Oro),innsbruck,E,0.0,42.2,review
+innsbruck--spitalskirche,Spitalskirche,María-Theresien-Strasse,innsbruck,E,0.0,69.5,review
+innsbruck--annasaule,Columna de Santa Ana,María-Theresien-Strasse,innsbruck,E,0.0,52.3,review
+innsbruck--katzunghaus,Katzunghaus,Goldenes Dachl (Tejadillo de Oro),innsbruck,E,0.0,61.5,review
+innsbruck--helblinghaus,Helblinghaus,Goldenes Dachl (Tejadillo de Oro),innsbruck,E,0.0,35.3,review
+innsbruck--stadtturm,Stadtturm,Goldenes Dachl (Tejadillo de Oro),innsbruck,E,0.0,42.8,review
+innsbruck--herzog-friedrich-strasse,Herzog-Friedrich-Straße,Goldenes Dachl (Tejadillo de Oro),innsbruck,E,0.0,122.5,review
+highlands--river-ness,River Ness,Ness Islands,inverness,D,57.14,,review
+lauterbrunnen--weisse-lutschine,Río Weisse Lütschine,Trümmelbachfälle,lauterbrunnen,E,0.0,211.6,review
+londres--prime-meridian,Prime Meridian,Greenwich Observatory,londres,E,0.0,77.9,review
+lucerna--wasserturm,Wasserturm,Kapellbrücke,lucerna,E,0.0,31.2,review
+lucerna--hirschenplatz,Hirschenplatz,Altstadt de Lucerna,lucerna,E,0.0,140.8,review
+lucerna--kornmarkt,Kornmarkt,Kapellbrücke,lucerna,E,0.0,133.7,review
+lucerna--rathausquai,Rathausquai,Kapellbrücke,lucerna,E,0.0,58.3,review
+lucerna--rathaus,Ayuntamiento de Lucerna,Kapellbrücke,lucerna,E,0.0,105.5,review
+lucerna--reuss,Río Reuss,Kapellbrücke,lucerna,E,0.0,375.4,review
+paris--passage-des-panoramas,Passage des Panoramas,Montmartre (18ème sur),paris,E,0.0,142.2,review
+praga--san-vito,Catedral de San Vito,Castillo de Praga (Hradčany),praga,E,0.0,78.0,review
+praga--san-jorge,Basílica de San Jorge,Castillo de Praga (Hradčany),praga,E,0.0,69.8,review
+praga--san-nicolas,Iglesia de San Nicolás,Malá Strana (Ciudad Pequeña),praga,E,0.0,146.0,review
+praga--torre-ayuntamiento-viejo,Torre del Ayuntamiento Viejo,Reloj Astronómico (Orloj),praga,E,0.0,36.2,review
+viena--peterskirche,Peterskirche,Graben & Kohlmarkt,viena,E,0.0,110.9,review
+viena--nationalbibliothek,Biblioteca Nacional Austriaca (Prunksaal),Hofburg,viena,E,0.0,80.9,review
+viena--staatsoper,Ópera Estatal de Viena,Ringstrasse,viena,E,0.0,79.6,review
+viena--stephansplatz,Stephansplatz,Catedral San Esteban (Stephansdom),viena,E,0.0,68.9,review
+york--stonegate,Stonegate,Barley Hall,york,E,0.0,51.0,review

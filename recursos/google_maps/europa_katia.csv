@@ -1,0 +1,327 @@
+ciudad,nombre,prioridad,lat,lng,lugar_busqueda,tipo,precio,notas
+Roma,Vittoriano (Altare della Patria),Solo mapeado,41.894687,12.483066,"Altare della Patria, Roma, Italy",Monumento,,Vistas hermosas desde arriba
+Roma,Piazza Navona,Solo mapeado,41.898928,12.473118,"Piazza Navona, Roma, Italy",Plaza,,
+Roma,Piazza Venezia,Solo mapeado,41.896245,12.482370,"Piazza Venezia, Roma, Italy",Plaza,,
+Roma,Villa Borghese,Solo mapeado,41.914411,12.484844,"Villa Borghese, Roma, Italy",Parque,,
+Roma,Coliseo,Solo mapeado,41.890942,12.491903,"Colosseo, Roma, Italy",Sitio histórico,,Con guía o audio tour (Rick Steves es gratis); reservar por internet para evitar filas
+Roma,Foro Romano,Solo mapeado,41.892629,12.487049,"Foro Romano, Roma, Italy",Sitio histórico,,Entrada combinada con el Coliseo
+Roma,Museo Palatino,Solo mapeado,41.888304,12.486564,"Museo Palatino, Roma, Italy",Museo,,Historia de la fundación de Roma
+Roma,Basílica de Majencio,Solo mapeado,41.891816,12.488417,"Basilica di Massenzio, Roma, Italy",Sitio histórico,,"Está dentro del Foro Romano, no es una iglesia"
+Roma,Santa Maria Maggiore,Solo mapeado,41.897627,12.498470,"Basilica di Santa Maria Maggiore, Roma, Italy",Iglesia,,
+Roma,Santa Maria della Vittoria,Solo mapeado,41.904719,12.494189,"Santa Maria della Vittoria, Roma, Italy",Iglesia,,"El Éxtasis de Santa Teresa, de Bernini"
+Roma,Fontana di Trevi,Solo mapeado,41.900978,12.483285,"Fontana di Trevi, Roma, Italy",Monumento,,Katia: ir después de la 1 AM
+Roma,Campo de' Fiori,Solo mapeado,41.895577,12.472159,"Campo de' Fiori, Roma, Italy",Plaza,,Muy turístico
+Roma,Barrio judío (Ghetto),Solo mapeado,41.893147,12.477071,"Ghetto di Roma, Roma, Italy",Barrio,,Ver las piedras de la memoria (Stolpersteine)
+Roma,Parioli,Solo mapeado,41.931050,12.488590,"Parioli, Roma, Italy",Barrio,,Katia: es tipo Palermo Chico
+Roma,Trastevere,Solo mapeado,41.891159,12.466846,"Trastevere, Roma, Italy",Barrio,,Bohemio; el mejor barrio para comer. Reddit avisa que se gentrificó y satura de turistas
+Roma,Muralla Aureliana,Solo mapeado,41.909053,12.487409,"Mura aureliane, Roma, Italy",Sitio histórico,,Menos turístico; Alan lo hizo con el tour de la Vespa
+Roma,Pirámide Cestia,Solo mapeado,41.876449,12.480854,"Piramide di Caio Cestio, Roma, Italy",Sitio histórico,,
+Roma,Basílica de San Pedro,Solo mapeado,41.902162,12.453713,"Basilica di San Pietro in Vaticano, Roma, Italy",Iglesia,,Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes
+Roma,Museos Vaticanos,Solo mapeado,41.904927,12.454622,"Musei Vaticani, Roma, Italy",Museo,,"No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)"
+Roma,Arco de Constantino,Solo mapeado,41.889762,12.490667,"Arco di Costantino, Roma, Italy",Monumento,,
+Roma,Castel Sant'Angelo,Solo mapeado,41.903118,12.466343,"Castel Sant'Angelo, Roma, Italy",Castillo,,Buenas vistas
+Roma,Galleria Borghese,Solo mapeado,41.914113,12.492105,"Galleria Borghese, Roma, Italy",Museo,,Katia: MUST. Reservar con anticipación
+Roma,Monti,Solo mapeado,41.891973,12.495658,"Monti, Roma, Italy",Barrio,,Buena escena vintage; vale callejear sin lista rígida
+Roma,Manufactus,Solo mapeado,41.899829,12.472619,"Manufactus, Roma, Italy",Tienda,,Souvenirs de cuero
+Roma,Giardino degli Aranci,Solo mapeado,41.885426,12.479908,"Giardino degli Aranci, Roma, Italy",Mirador,,"El mejor atardecer sobre Roma, lejos de Piazza di Spagna. Al lado del Aventine Keyhole"
+Roma,Biblioteca Angelica,Solo mapeado,41.900644,12.474552,"Biblioteca Angelica, Roma, Italy",Sitio histórico,,
+Roma,Panteón de Roma,Solo mapeado,41.898616,12.476833,"Pantheon, Roma, Italy",Sitio histórico,,Empezaron a cobrarlo. Tip de Reddit: ir mientras llueve para ver el agua caer por el óculo
+Roma,Aventine Keyhole,Solo mapeado,41.883486,12.477480,"Villa del Priorato di Malta, Roma, Italy",Mirador,,Por la cerradura de la puerta verde se ve la cúpula de San Pedro enmarcada
+Roma,Via Appia Antica,Solo mapeado,41.869763,12.502111,"Via Appia Antica, Roma, Italy",Sitio histórico,,"Alquilar bici eléctrica el domingo, cuando cierran al tráfico. Ruinas, catacumbas y campo"
+Roma,Quartiere Coppedè,Solo mapeado,41.918364,12.502189,"Quartiere Coppedè, Roma, Italy",Barrio,,Barrio minúsculo que parece un cuento de hadas. Cero turistas
+Roma,Auditorium Parco della Musica,Solo mapeado,41.929193,12.475128,"Auditorium Parco della Musica, Roma, Italy",Teatro,,Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche
+Nápoles,Catedral de Nápoles,Solo mapeado,40.852653,14.259870,"Cattedrale di Santa Maria Assunta, Napoli, Italy",Catedral,,
+Nápoles,Cappella Sansevero,Solo mapeado,40.849299,14.254933,"Cappella Sansevero, Napoli, Italy",Iglesia,,El Cristo Velado. Reservar con anticipación
+Nápoles,San Domenico Maggiore,Solo mapeado,40.848975,14.254270,"Basilica di San Domenico Maggiore, Napoli, Italy",Iglesia,,
+Nápoles,Santa Chiara,Solo mapeado,40.846823,14.252910,"Basilica di Santa Chiara, Napoli, Italy",Iglesia,,Ir al claustro de mayólicas
+Nápoles,Gesù Nuovo,Solo mapeado,40.847558,14.251874,"Chiesa del Gesù Nuovo, Napoli, Italy",Iglesia,,Fachada de puntas de diamante
+Nápoles,Via dei Tribunali,Solo mapeado,40.849883,14.253935,"Via dei Tribunali, Napoli, Italy",Calle,,Calle principal del centro storico
+Nápoles,Via San Gregorio Armeno,Solo mapeado,40.849777,14.257981,"Via San Gregorio Armeno, Napoli, Italy",Calle,,La calle de los pesebres
+Nápoles,Spaccanapoli,Solo mapeado,40.849562,14.261901,"Spaccanapoli, Napoli, Italy",Calle,,La calle que parte Nápoles al medio
+Nápoles,Napoli Sotterranea,Solo mapeado,40.851079,14.256847,"Napoli Sotterranea, Napoli, Italy",Sitio histórico,,Túneles griegos y romanos. Acceso habitual por Piazza San Gaetano
+Nápoles,San Lorenzo Maggiore,Solo mapeado,40.850920,14.258040,"Basilica di San Lorenzo Maggiore, Napoli, Italy",Iglesia,,Otro acceso a la Nápoles subterránea
+Nápoles,Quartieri Spagnoli,Solo mapeado,40.841483,14.246423,"Quartieri Spagnoli, Napoli, Italy",Barrio,,
+Nápoles,Via Toledo,Solo mapeado,40.841677,14.248754,"Via Toledo, Napoli, Italy",Calle,,
+Nápoles,Murales de Vico Totò,Solo mapeado,40.858438,14.252230,"Vico Totò, Napoli, Italy",Sitio histórico,,Murales del callejón
+Nápoles,Mural de Maradona,Solo mapeado,40.849694,14.201474,"Murales di Maradona, Napoli, Italy",Sitio histórico,,En los Quartieri Spagnoli
+Nápoles,Rione Sanità,Solo mapeado,40.857644,14.251961,"Rione Sanità, Napoli, Italy",Barrio,,Vibrante y auténtico; solía ser peligroso y renace por cooperativas locales
+Nápoles,Catacumbas de San Gennaro,Solo mapeado,40.863784,14.247058,"Catacombe di San Gennaro, Napoli, Italy",Sitio histórico,,En el Rione Sanità
+Nápoles,Lungomare Caracciolo,Solo mapeado,40.830442,14.244684,"Via Partenope, Napoli, Italy",Paseo,,Vistas al Vesubio. Evitar los restaurantes turísticos del paseo
+Nápoles,Castel dell'Ovo,Solo mapeado,40.828315,14.247656,"Castel dell'Ovo, Napoli, Italy",Castillo,,Vistas del Vesubio desde el Lungomare
+Nápoles,Castel Nuovo,Solo mapeado,40.838317,14.253731,"Castel Nuovo, Napoli, Italy",Castillo,,
+Nápoles,Galleria Umberto I,Solo mapeado,40.838514,14.249240,"Galleria Umberto I, Napoli, Italy",Sitio histórico,,
+Nápoles,Teatro di San Carlo,Solo mapeado,40.837374,14.249813,"Teatro di San Carlo, Napoli, Italy",Teatro,,teatrosancarlo.it
+Nápoles,Palacio Real de Nápoles,Solo mapeado,40.836480,14.250320,"Palazzo Reale di Napoli, Napoli, Italy",Palacio,,Sobre la Piazza del Plebiscito
+Nápoles,Piazza del Plebiscito,Solo mapeado,40.835856,14.248565,"Piazza del Plebiscito, Napoli, Italy",Plaza,,
+Nápoles,Palazzo Salerno,Solo mapeado,40.834876,14.249748,"Palazzo Salerno, Napoli, Italy",Palacio,,En la Piazza del Plebiscito
+Nápoles,San Francesco di Paola,Solo mapeado,40.835599,14.247336,"Basilica di San Francesco di Paola, Napoli, Italy",Iglesia,,En la Piazza del Plebiscito
+Nápoles,Palazzo della Prefettura,Solo mapeado,40.836569,14.248216,"Palazzo della Prefettura, Napoli, Italy",Palacio,,En la Piazza del Plebiscito
+Nápoles,Museo Arqueológico Nacional,Solo mapeado,40.853606,14.251150,"Museo Archeologico Nazionale di Napoli, Napoli, Italy",Museo,,Los mosaicos y frescos de Pompeya están acá
+Nápoles,Castel Sant'Elmo,Solo mapeado,40.843707,14.239252,"Castel Sant'Elmo, Napoli, Italy",Castillo,,Funicular hasta Vomero. Las mejores vistas 360° del Vesubio y la ciudad
+Nápoles,Real Bosco di Capodimonte,Solo mapeado,40.874251,14.255113,"Real Bosco di Capodimonte, Napoli, Italy",Parque,,
+Nápoles,Piazza Dante,Solo mapeado,40.849156,14.250303,"Piazza Dante, Napoli, Italy",Plaza,,
+Nápoles,Cimitero delle Fontanelle,Solo mapeado,40.858026,14.239010,"Cimitero delle Fontanelle, Napoli, Italy",Cementerio,,"Cantera con miles de cráneos; los napolitanos adoptaban uno y le rezaban. Suele estar en restauración, verificar antes"
+Nápoles,Vomero,Solo mapeado,40.843846,14.225482,"Vomero, Napoli, Italy",Barrio,,Barrio en la colina; se llega en funicular
+Liubliana,Metelkova Mesto,Solo mapeado,46.056914,14.516926,"Metelkova, Ljubljana, Slovenia",Barrio,,Ex cuartel militar yugoslavo okupado y autogestionado desde los 90. Recorrer de día; de noche siempre hay bandas en vivo
+Liubliana,Museo Nacional de Eslovenia,Solo mapeado,46.052072,14.499536,"Narodni muzej Slovenije, Ljubljana, Slovenia",Museo,,
+Liubliana,Museo Etnográfico Esloveno,Solo mapeado,46.054976,14.516175,"Slovenski etnografski muzej, Ljubljana, Slovenia",Museo,,
+Liubliana,Casco histórico de Liubliana,Solo mapeado,46.046713,14.506748,"Stari trg, Ljubljana, Slovenia",Casco histórico,,Paseo por el río; restaurantes a la orilla
+Liubliana,Castillo de Liubliana,Solo mapeado,46.048782,14.508538,"Ljubljanski grad, Ljubljana, Slovenia",Castillo,,Se sube caminando o en funicular. Museo y tour de la historia del castillo
+Liubliana,Catedral de San Nicolás,Solo mapeado,46.050763,14.508252,"Stolnica sv. Nikolaja, Ljubljana, Slovenia",Catedral,,Puertas de bronce
+Liubliana,Iglesia Franciscana de la Anunciación,Solo mapeado,46.051899,14.506077,"Frančiškanska cerkev Marijinega oznanjenja, Ljubljana, Slovenia",Iglesia,,La iglesia rosa de Prešernov trg
+Liubliana,Plaza del Congreso,Solo mapeado,46.050172,14.503852,"Kongresni trg, Ljubljana, Slovenia",Plaza,,
+Liubliana,Triple Puente,Solo mapeado,46.051133,14.506210,"Tromostovje, Ljubljana, Slovenia",Puente,,De Plečnik. Entender a Plečnik es entender Liubliana
+Liubliana,Parque Tivoli,Solo mapeado,46.055146,14.495728,"Park Tivoli, Ljubljana, Slovenia",Parque,,
+Liubliana,Puente de los Dragones,Solo mapeado,46.051932,14.510414,"Zmajski most, Ljubljana, Slovenia",Puente,,A Liubliana le dicen la ciudad de los dragones
+Liubliana,Mercado Central de Liubliana,Solo mapeado,46.051396,14.508070,"Plečnikove arkade, Ljubljana, Slovenia",Mercado,,Arcadas de Plečnik. Los viernes Open Kitchen con food trucks (verano)
+Liubliana,Biblioteca Nacional (NUK),Solo mapeado,46.047533,14.503717,"Narodna in univerzitetna knjižnica, Ljubljana, Slovenia",Sitio histórico,,Obra maestra de Plečnik
+Liubliana,Cementerio Žale,Solo mapeado,46.071457,14.532351,"Žale, Ljubljana, Slovenia",Cementerio,,De Plečnik
+Liubliana,Velika Planina,Solo mapeado,46.295936,14.652010,"Velika planina, Kamnik, Slovenia",Paisaje,,Day trip: meseta alpina con cabañas tradicionales. Auto hasta Kamnik + teleférico + caminata. Solo si el clima acompaña
+Lagos Alpinos,Lago Bled,Solo mapeado,46.363913,14.093807,"Blejsko jezero, Bled, Slovenia",Lago,,40' en auto. Caminatas alrededor del lago
+Lagos Alpinos,Castillo de Bled,Solo mapeado,46.369703,14.100521,"Blejski grad, Bled, Slovenia",Castillo,,
+Lagos Alpinos,Isla de Bled,Solo mapeado,46.362293,14.090048,"Blejski otok, Bled, Slovenia",Sitio histórico,,Se llega en pletna (barca típica) o en bote de remos
+Lagos Alpinos,Mirador Ojstrica,Solo mapeado,46.359633,14.078458,"Ojstrica, Bled, Slovenia",Mirador,,"Mini trekking. Con lluvia reciente, priorizar Ojstrica sobre los miradores más altos"
+Lagos Alpinos,Mirador Mala Osojnica,Solo mapeado,46.357560,14.081014,"Mala Osojnica, Bled, Slovenia",Mirador,,Mini trekking. La postal clásica del lago
+Lagos Alpinos,Garganta de Vintgar,Solo mapeado,46.398617,14.092748,"Soteska Vintgar, Podhom, Slovenia",Naturaleza,,Reservar slot por horario en tickets.vintgar.si; abre 9-15h. Recorrido en un solo sentido; se vuelve por el bosque (40-60') o en shuttle
+Lagos Alpinos,Lago Bohinj,Solo mapeado,46.282265,13.864531,"Bohinjsko jezero, Ribčev Laz, Slovenia",Lago,,"30' en auto desde Bled. El lago alpino más grande de Eslovenia, dentro del PN Triglav. Más salvaje y menos turístico que Bled"
+Lagos Alpinos,Cascada Savica,Solo mapeado,46.283727,13.842399,"Savica, Ukanc, Slovenia",Cascada,,Subida de ~550 escalones; sendero corto pero pica
+Lagos Alpinos,Garganta de Mostnica,Solo mapeado,46.298117,13.885490,"Korita Mostnice, Stara Fužina, Slovenia",Naturaleza,,"2-3 hs solo la garganta, 3-3.5 hs si se estira hacia Voje"
+Lagos Alpinos,Teleférico de Vogel,Solo mapeado,46.257834,13.835595,"Vogel, Ukanc, Slovenia",Teleférico,,Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento
+Karst y Cuevas,Cuevas de Postojna,Solo mapeado,45.782711,14.203855,"Postojnska jama, Veliki Otok, Slovenia",Cueva,,"Katia: descartado en favor de Škocjan. 1 hs desde Bled, 40' desde Liubliana. Se recomienda reserva previa"
+Karst y Cuevas,Castillo de Predjama,Solo mapeado,45.815734,14.126592,"Predjamski grad, Predjama, Slovenia",Castillo,,Castillo encastrado en la boca de una cueva
+Karst y Cuevas,Cuevas de Škocjan,Solo mapeado,45.662066,13.984480,"Škocjanske jame, Matavun, Slovenia",Cueva,,"Alan dice que son las mejores de todas. Tours cada hora de 10 a 15h en octubre; 1.5-3 hs; 12°C adentro, llevar abrigo y calzado con agarre"
+Karst y Cuevas,Rakov Škocjan,Solo mapeado,45.786116,14.299133,"Rakov Škocjan, Cerknica, Slovenia",Naturaleza,,"Valle kárstico con puentes naturales. Circular, ~3 hs, sin depender de horarios de tour"
+Karst y Cuevas,Veliki naravni most,Solo mapeado,45.795392,14.288260,"Veliki naravni most, Cerknica, Slovenia",Naturaleza,,En Rakov Škocjan
+Karst y Cuevas,Mali naravni most,Solo mapeado,45.791628,14.306230,"Mali naravni most, Zelše, Slovenia",Naturaleza,,En Rakov Škocjan
+Valle del Soča,Valle del Soča,Solo mapeado,46.323930,13.565052,"Soča, Bovec, Slovenia",Valle,,1 hs 30' en auto desde Bled; hay que entrar y salir de Italia. En bus no se puede. Capital del hiking en Eslovenia
+Valle del Soča,Bovec,Solo mapeado,46.338585,13.552419,"Bovec, Slovenia",Pueblo,,Base de actividades de naturaleza del valle
+Valle del Soča,Kobarid,Solo mapeado,46.245546,13.579170,"Kobarid, Slovenia",Pueblo,,Frente del Isonzo en la Primera Guerra: de lo más duro entre Italia y el Imperio austrohúngaro
+Valle del Soča,Tolmin,Solo mapeado,46.182921,13.733338,"Tolmin, Slovenia",Pueblo,,
+Valle del Soča,Cascada Kozjak,Solo mapeado,46.259103,13.590393,"Slap Kozjak, Kobarid, Slovenia",Cascada,,
+Valle del Soča,Gargantas de Tolmin,Solo mapeado,46.198201,13.740314,"Tolminska korita, Zadlaz - Čadrg, Slovenia",Naturaleza,,
+Valle del Soča,Paso de Vršič,Solo mapeado,46.434779,13.743712,"Prelaz Vršič, Bovec, Slovenia",Ruta,,Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla
+Costa Eslovena,Piran,Solo mapeado,45.528492,13.568449,"Piran, Slovenia",Pueblo,,Katia: descartado — la costa adriática la vamos a tener en Italia y no es verano. 1 hs 30' desde Liubliana. El casco es sin autos: estacionar en Fornače/Arze
+Costa Eslovena,Iglesia de San Jorge,Solo mapeado,45.529670,13.568329,"Sv. Jurij, Piran, Slovenia",Iglesia,,"Katia: descartado — junto con todo Piran. Es mirador, 20-40 min"
+Costa Eslovena,Koper,Solo mapeado,45.547986,13.730478,"Koper, Slovenia",Ciudad,,Noche del Día 4 y donde se devuelve el auto; al otro día bus a Trieste
+Trieste,Piazza Unità d'Italia,Solo mapeado,45.650100,13.767703,"Piazza Unità d'Italia, Trieste, Italy",Plaza,,"La plaza principal, abierta al mar. Recorrer también el waterfront"
+Trieste,Castillo de Miramare,Solo mapeado,45.702532,13.712456,"Castello di Miramare, Trieste, Italy",Castillo,,"El wow visual de Trieste, pero consume traslado. Solo si da el horario"
+Trieste,Caffè degli Specchi,Solo mapeado,45.650106,13.768416,"Caffè degli Specchi, Trieste, Italy",Café,,"Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana"
+Trieste,Antico Caffè San Marco,Solo mapeado,45.652819,13.780278,"Antico Caffè San Marco, Trieste, Italy",Café,,"Histórico y muy lindo, estilo Mitteleuropa"
+Berna,Casco Antiguo de Berna,Solo mapeado,46.948289,7.451273,"Altstadt, Bern, Switzerland",Casco histórico,,"Sobre una península rodeada por el Aare, con el trazado medieval intacto. Patrimonio UNESCO"
+Berna,Río Aare,Solo mapeado,46.945990,7.453311,"Aare, Bern, Switzerland",Naturaleza,,Vale la pena recorrer sus senderos y bajar a la ribera si el tiempo acompaña
+Berna,Kramgasse,Solo mapeado,46.947972,7.450213,"Kramgasse, Bern, Switzerland",Calle,,La calle principal del casco histórico y probablemente la más linda de la ciudad
+Berna,Marktgasse,Solo mapeado,46.947989,7.445398,"Marktgasse, Bern, Switzerland",Calle,,"Continuación de Kramgasse; eje comercial con tiendas, librerías y cafeterías"
+Berna,Spitalgasse,Solo mapeado,46.947906,7.441651,"Spitalgasse, Bern, Switzerland",Calle,,Continuación del eje comercial de Kramgasse y Marktgasse
+Berna,Einsteinhaus,Solo mapeado,46.947674,7.449971,"Einsteinhaus Bern, Bern, Switzerland",Museo,,"El departamento donde vivió Einstein, ambientado como en la época"
+Berna,Zytglogge,Solo mapeado,46.947947,7.447795,"Zytglogge, Bern, Switzerland",Sitio histórico,,El símbolo de Berna. Cada hora en punto hay un espectáculo mecánico; llegar unos minutos antes. La visita al mecanismo es paga y requiere reserva
+Berna,Catedral de Berna,Solo mapeado,46.947238,7.451579,"Berner Münster, Bern, Switzerland",Catedral,,"La iglesia más importante de Suiza. Entrada gratis; subir a la torre CHF 7-10, con las mejores vistas de la ciudad y el Aare"
+Berna,Münsterplattform,Solo mapeado,46.946821,7.451824,"Münsterplattform, Bern, Switzerland",Mirador,,"Terraza arbolada detrás de la catedral, con vistas al Aare y las montañas. Muy frecuentada por estudiantes y vecinos"
+Berna,Bundeshaus,Solo mapeado,46.946488,7.444332,"Bundeshaus, Bern, Switzerland",Sitio histórico,,"El Parlamento suizo. Visitas guiadas gratuitas, conviene reservar con anticipación"
+Berna,Bundesplatz,Solo mapeado,46.947009,7.444161,"Bundesplatz, Bern, Switzerland",Plaza,,La plaza del Parlamento
+Berna,Zähringerbrunnen,Solo mapeado,46.947958,7.449185,"Zähringerbrunnen, Bern, Switzerland",Monumento,,Una de las más de cien fuentes renacentistas del casco antiguo
+Berna,Kindlifresserbrunnen,Solo mapeado,46.948463,7.447505,"Kindlifresserbrunnen, Bern, Switzerland",Monumento,,"La fuente del ogro comeniños, la más famosa de Berna"
+Berna,Museo de Historia de Berna / Museo Einstein,Solo mapeado,46.942968,7.448870,"Bernisches Historisches Museum, Bern, Switzerland",Museo,,El Museo Einstein está adentro
+Berna,Nydeggbrücke,Solo mapeado,46.948473,7.458485,"Nydeggbrücke, Bern, Switzerland",Puente,,Conecta el casco antiguo con el BärenPark. Muy buenas vistas del Aare
+Berna,BärenPark,Solo mapeado,46.947682,7.459185,"BärenPark, Bern, Switzerland",Parque,,Osos en un recinto junto al río. El oso es el símbolo histórico de Berna
+Berna,Rosengarten,Solo mapeado,46.951968,7.460298,"Rosengarten, Bern, Switzerland",Mirador,,"Antiguo cementerio, hoy parque de rosas con vista panorámica espectacular del casco histórico"
+Kandersteg,Kandersteg,Solo mapeado,46.497587,7.675664,"Kandersteg, Switzerland",Pueblo,,1 hs 30' desde Interlaken
+Kandersteg,Oeschinensee,Solo mapeado,46.498495,7.726843,"Oeschinensee, Kandersteg, Switzerland",Lago,,Teleférico + 30' caminando. Ida y vuelta CHF 36-40. Se puede subir a pie (1h30) pero el sendero no es lindo. Arriba vale mucho la pena caminar por la orilla
+Kandersteg,Blausee,Solo mapeado,46.532422,7.664852,"Blausee, Kandergrund, Switzerland",Lago,,Caminata por el lago. Se hace junto con Oeschinensee en un día
+York,Stonegate,Solo mapeado,53.960911,-1.083375,"Stonegate, York, UK",Calle,,Calles medievales y comercios históricos
+York,Bootham Bar,Solo mapeado,53.962719,-1.085050,"Bootham Bar, York, UK",Sitio histórico,,Una de las puertas por donde subir a caminar las murallas
+Edimburgo,St Giles' Cathedral,Solo mapeado,55.949479,-3.190852,"St Giles' Cathedral, City of Edinburgh, UK",Catedral,,Es gratis
+Edimburgo,The Vennel,Solo mapeado,55.941928,-3.149322,"The Vennel, City of Edinburgh, UK",Mirador,,Callejón con escalinata y una de las mejores vistas del castillo. Buen punto para el cañón de las 13h: estar ahí 12:45
+Edimburgo,Cowgate,Solo mapeado,55.948656,-3.187621,"Cowgate, City of Edinburgh, UK",Barrio,,Zona universitaria; pubs junto con Grassmarket
+Edimburgo,Royal Yacht Britannia,Solo mapeado,55.982146,-3.177309,"Royal Yacht Britannia, City of Edinburgh, UK",Museo,,Katia: descartado — 'otros que creo que no nos interesan'
+Edimburgo,Oink,Solo mapeado,55.952990,-3.197360,"Oink, City of Edinburgh, UK",Tienda,,"Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)"
+Londres,Leicester Square,Solo mapeado,51.510595,-0.130767,"Leicester Square, City of Westminster, UK",Plaza,,Plaza llena de referencias de cines y teatros. Katia: prescindible salvo que pasemos
+Londres,Millennium Bridge,Solo mapeado,51.509888,-0.098508,"Millennium Bridge, City of London, UK",Puente,,Puente peatonal. Para pasar / ver por afuera
+Londres,Waterloo Bridge,Solo mapeado,51.508265,-0.116595,"Waterloo Bridge, Greater London, UK",Puente,,Abajo está el South Bank Book Market
+Londres,Brockwell Park,Solo mapeado,51.450530,-0.106093,"Brockwell Park, Greater London, UK",Parque,,Katia: de los parques más locales
+Londres,Great Scotland Yard,Solo mapeado,51.506379,-0.126358,"Great Scotland Yard, City of Westminster, UK",Harry Potter,,La entrada al Ministerio de Magia en las películas
+Londres,Prime Meridian,Solo mapeado,51.477943,-0.001475,"Prime Meridian of the World, Greater London, UK",Sitio histórico,,"En Greenwich Park, junto al observatorio"
+París,Grande Galerie de l'Évolution,Solo mapeado,48.842106,2.356244,"Grande Galerie de l'Évolution, Paris, France",Museo,,~15 €. Katia: al pedo si ya fuimos al de Londres
+París,Musée des Arts et Métiers,Solo mapeado,48.866098,2.355414,"Musée des Arts et Métiers, Paris, France",Museo,,"Katia: descartado (meh). Ciencia e inventos, revolución industrial; está dentro de una iglesia"
+París,Musée Rodin,Solo mapeado,48.854747,2.315867,"Musée Rodin, Paris, France",Museo,,Katia: descartado (no iría). ~15 €; muy buenos jardines
+París,Place des Vosges,Solo mapeado,48.856178,2.365765,"Place des Vosges, Paris, France",Plaza,,"En Le Marais. Silenciosa, residencial, muy parisina"
+París,Jardin des Tuileries,Solo mapeado,48.863566,2.326955,"Jardin des Tuileries, Paris, France",Jardín,,"El de las sillas verdes y la fuente. Más gente, ambiente menos relajado"
+París,Jardin des Plantes,Solo mapeado,48.844036,2.359732,"Jardin des Plantes, Paris, France",Jardín,,Jardín botánico principal. Más tranquilo y relajado
+París,Parc des Buttes-Chaumont,Solo mapeado,48.879555,2.382098,"Parc des Buttes-Chaumont, Paris, France",Parque,,"Parque grande, más salvaje, con colinas y lago. Muy residencial"
+París,Église Saint-Eustache,Solo mapeado,48.863400,2.345128,"Église Saint-Eustache, Paris, France",Iglesia,,"Katia: yo iría, y un domingo. Los domingos 17h hay recital de órgano. Entrada gratis"
+París,Église Saint-Sulpice,Solo mapeado,48.850987,2.334870,"Église Saint-Sulpice, Paris, France",Iglesia,,Estilo más francés y menos medieval. Gratis
+París,Palacio de Versalles,Solo mapeado,48.804425,2.120285,"Château de Versailles, Versailles, France",Palacio,,"Jardines + Hall of Mirrors + Domaine de Marie-Antoinette, ~35 €. Ir al primer horario (9h) y evitar los martes. Alan hizo 1 hs de fila con entrada comprada"
+París,Shakespeare and Company,Solo mapeado,48.852575,2.347112,"Shakespeare and Company, Paris, France",Tienda,,Librería del Barrio Latino
+París,Villa Léandre,Solo mapeado,48.888399,2.335068,"Villa Léandre, Paris, France",Calle,,"Callecita de Montmartre, fuera del circuito de la plaza principal"
+París,Les Halles,Solo mapeado,48.862700,2.346214,"Les Halles, Paris, France",Barrio,,Zona comercial y central. Históricamente el gran mercado de París. El barrio no es especialmente lindo
+París,Rue Montorgueil,Solo mapeado,48.863861,2.346483,"Rue Montorgueil, Paris, France",Calle,,Top de calles para brunch y boulangeries
+París,Batignolles,Solo mapeado,48.886355,2.321457,"Batignolles, Paris, France",Barrio,,Barrio más residencial
+París,La Défense,Solo mapeado,48.891008,2.241208,"La Défense, Courbevoie, France",Barrio,,Distrito financiero. Katia: no prioritario
+París,Moulin Rouge,Solo mapeado,48.884109,2.332356,"Moulin Rouge, Paris, France",Sitio histórico,,"En Pigalle norte, la zona más turística y de barrio rojo"
+París,Canal de l'Ourcq,Solo mapeado,48.889736,2.383347,"Canal de l'Ourcq, Paris, France",Paseo,,Mismo plan que el Saint-Martin pero más local. Mejor para picnic de día que para la noche
+París,Avenue des Champs-Élysées,Solo mapeado,48.867027,2.316247,"Avenue des Champs-Élysées, Paris, France",Calle,,Zona de lujo y marcas. Caminarla desde el Arco del Triunfo hacia Concorde
+París,Pont Alexandre III,Solo mapeado,48.863470,2.313518,"Pont Alexandre III, Paris, France",Puente,,Muy lindo para el atardecer
+París,Passerelle Debilly,Solo mapeado,48.862561,2.296930,"Passerelle Debilly, Paris, France",Puente,,Muy buenas vistas de la Torre
+París,Rue de l'Université,Solo mapeado,48.859716,2.296294,"Rue de l'Université, Paris, France",Calle,,La calle famosa para fotos con la Torre Eiffel
+París,Passage des Panoramas,Solo mapeado,48.870997,2.341671,"Passage des Panoramas, Paris, France",Sitio histórico,,Galerías muy lindas para caminar
+París,Marché des Enfants Rouges,Solo mapeado,48.862795,2.361973,"Marché des Enfants Rouges, Paris, France",Mercado,,"El mercado más antiguo. Puestos chicos de comida, sirve para almorzar"
+París,Marché d'Aligre,Solo mapeado,48.848875,2.378046,"Marché d'Aligre, Paris, France",Mercado,,Menos turístico
+París,Marché Couvert Saint-Quentin,Solo mapeado,48.877356,2.354505,"Marché Saint-Quentin, Paris, France",Mercado,,Menos turístico
+París,Place du Trocadéro,Solo mapeado,48.862840,2.287142,"Place du Trocadéro et du 11 Novembre, Paris, France",Mirador,,Katia: ir sí o sí. Probablemente la mejor vista de la Torre; temprano a la mañana o de noche
+París,Institut du Monde Arabe,Solo mapeado,48.848916,2.357147,"Institut du monde arabe, Paris, France",Mirador,,La terraza es gratis y muy linda para tomar algo
+París,Galeries Lafayette Haussmann,Solo mapeado,48.873646,2.332127,"Galeries Lafayette Haussmann, Paris, France",Mirador,,Terraza panorámica con vista a la Torre. El mejor rooftop gratis de París según GPT
+París,Philharmonie de Paris,Solo mapeado,48.891921,2.394139,"Philharmonie de Paris, Paris, France",Mirador,,Rooftop gratuito moderno
+París,Hôtel de Ville,Solo mapeado,48.856426,2.352528,"Hôtel de Ville de Paris, Paris, France",Sitio histórico,,Muy lindo para pasar caminando de noche
+París,Tour Saint-Jacques,Solo mapeado,48.858003,2.348922,"Tour Saint-Jacques, Paris, France",Monumento,,Junto al Hôtel de Ville
+París,Galerie Vivienne,Solo mapeado,48.866728,2.339757,"Galerie Vivienne, Paris, France",Sitio histórico,,"Muy linda, cerca del Palais Royal"
+París,BnF Richelieu,Solo mapeado,48.867282,2.338164,"Bibliothèque nationale de France - Richelieu, Paris, France",Sitio histórico,,La sede más linda y antigua. Gratis
+París,Bibliothèque Mazarine,Solo mapeado,48.857271,2.337359,"Bibliothèque Mazarine, Paris, France",Sitio histórico,,Mucho más pequeña y antigua. Gratis
+París,Palais Garnier,Solo mapeado,48.871433,2.331965,"Palais Garnier, Paris, France",Teatro,,La ópera. Entrada libre ~15 €; hay obras desde 15 € aunque las buenas son caras
+París,Place de la Concorde,Solo mapeado,48.865572,2.321225,"Place de la Concorde, Paris, France",Plaza,,"Plaza monumental, muy importante en la Revolución Francesa. Más para paseo que para chill"
+París,Place Vendôme,Solo mapeado,48.867463,2.329428,"Place Vendôme, Paris, France",Plaza,,"Plaza de lujo, la del Ritz. Katia: no prioritario"
+París,Grand Palais,Solo mapeado,48.866161,2.312223,"Grand Palais, Paris, France",Museo,,Espacio de exposiciones y ferias; el precio depende de la muestra. Katia: pasar por afuera
+París,Les Invalides,Solo mapeado,48.855954,2.313343,"Hôtel des Invalides, Paris, France",Sitio histórico,,Tumba de Napoleón. ~17 €; la iglesia y los jardines son gratis
+Ámsterdam,Oosterpark,Solo mapeado,52.360206,4.920543,"Oosterpark, Amsterdam, Netherlands",Parque,,"Del otro lado de la ciudad, mucho menos turístico. No es prioritario, pero si paseamos pasamos"
+Ámsterdam,De Negen Straatjes,Solo mapeado,52.368851,4.884994,"De Negen Straatjes, Amsterdam, Netherlands",Barrio,,"Micro barrio entre canales: boutiques, cafés, librerías, diseño y vintage"
+Ámsterdam,Singel,Solo mapeado,52.367047,4.893523,"Singel, Amsterdam, Netherlands",Paseo,,El canal más antiguo. Conectado con el centro histórico y el Bloemenmarkt
+Ámsterdam,Herengracht,Solo mapeado,52.365564,4.890390,"Herengracht, Amsterdam, Netherlands",Paseo,,El canal más elegante y señorial. Casas impresionantes
+Ámsterdam,Keizersgracht,Solo mapeado,52.365885,4.886579,"Keizersgracht, Amsterdam, Netherlands",Paseo,,Muy lindo para caminar un tramo largo. Menos caótico
+Ámsterdam,Prinsengracht,Solo mapeado,52.362403,4.900552,"Prinsengracht, Amsterdam, Netherlands",Paseo,,El canal más famoso y vivo. Cruza muchísimos puntos importantes
+Ámsterdam,Damrak,Solo mapeado,52.376110,4.898054,"Damrak, Amsterdam, Netherlands",Calle,,Conecta la estación central con Dam Square. Ahí están las típicas casas inclinadas
+Ámsterdam,Beurspassage,Solo mapeado,52.374750,4.894481,"Beurspassage, Amsterdam, Netherlands",Sitio histórico,,"Pasaje con techo y paredes de estética marítima. Curiosidad visual corta, se pasa rápido"
+Ámsterdam,Waterlooplein Market,Solo mapeado,52.368622,4.901193,"Waterloopleinmarkt, Amsterdam, Netherlands",Mercado,,El mercado de pulgas y vintage más clásico del centro. Opcional si ya vamos al IJ-Hallen
+Ámsterdam,Foodhallen,Solo mapeado,52.366948,4.868200,"Foodhallen, Amsterdam, Netherlands",Mercado,,Food hall moderno indoor. Más urbano moderno que experiencia neerlandesa
+Ámsterdam,Zevenlandenhuizen,Solo mapeado,52.361637,4.877296,"Zevenlandenhuizen, Amsterdam, Netherlands",Sitio histórico,,"Siete casas con estilos de distintos países europeos. Curiosidad arquitectónica, zona Museumplein/Vondelpark"
+Ámsterdam,Dam Square,Solo mapeado,52.373116,4.892351,"Dam, Amsterdam, Netherlands",Plaza,,Centro simbólico de Ámsterdam. Más útil como punto de paso; lo interesante es meterse por las callejuelas
+Ámsterdam,Oude Kerk,Solo mapeado,52.374362,4.898073,"Oude Kerk, Amsterdam, Netherlands",Iglesia,,El edificio más antiguo de Ámsterdam. Se llega caminando desde Dam Square y se puede visitar
+Ámsterdam,Nieuwe Kerk,Solo mapeado,52.373923,4.891692,"Nieuwe Kerk, Amsterdam, Netherlands",Iglesia,,En Dam Square
+Ámsterdam,Palacio Real de Ámsterdam,Solo mapeado,52.373145,4.891336,"Koninklijk Paleis Amsterdam, Amsterdam, Netherlands",Palacio,,En Dam Square
+Ámsterdam,Leidseplein,Solo mapeado,52.363958,4.882758,"Leidseplein, Amsterdam, Netherlands",Plaza,,"La zona más de boliches, fiestas y jóvenes"
+Ámsterdam,Museumplein,Solo mapeado,52.358712,4.883441,"Museumplein, Amsterdam, Netherlands",Plaza,,La explanada de los museos
+Ámsterdam,Centrum (Old Centre),Solo mapeado,52.336726,4.940597,"Amsterdam-Centrum, Amsterdam, Netherlands",Barrio,,
+Ámsterdam,Amsterdam-Noord,Solo mapeado,52.409756,4.931946,"Amsterdam-Noord, Amsterdam, Netherlands",Barrio,,Del otro lado del IJ; se cruza en ferry
+Ámsterdam,Plantage,Solo mapeado,52.365705,4.913661,"Plantage, Amsterdam, Netherlands",Barrio,,Más residencial
+Ámsterdam,Houseboat Museum,Solo mapeado,52.370153,4.882602,"Houseboat Museum, Amsterdam, Netherlands",Museo,,Katia: descartado
+Grindelwald,Dorfstrasse,Solo mapeado,46.624689,8.044968,"Dorfstrasse, Grindelwald, Switzerland",Calle,,La calle principal del pueblo
+Grindelwald,Río Schwarze Lütschine,Solo mapeado,46.632128,7.998837,"Schwarze Lütschine, Grindelwald, Switzerland",Naturaleza,,Caminar alrededor
+Grindelwald,Alpiglen,Solo mapeado,46.600070,8.001952,"Alpiglen, Grindelwald, Switzerland",Trekking,,Fin del Eiger Trail; se vuelve en tren
+Grindelwald,Wilderswil,Solo mapeado,46.663395,7.862995,"Wilderswil, Switzerland",Pueblo,,Desde acá sale el tren cremallera a Schynige Platte
+Lauterbrunnen,Río Weisse Lütschine,Solo mapeado,46.571682,7.909181,"Weisse Lütschine, Lauterbrunnen, Switzerland",Naturaleza,,Atraviesa todo el valle. Muy lindo para caminar
+Lauterbrunnen,Grütschalp,Solo mapeado,46.596562,7.890707,"Grütschalp, Isenfluh, Switzerland",Teleférico,,"Sendero Grütschalp → Mürren: muy fácil, todo plano, 1 hs"
+Lauterbrunnen,Obersteinberg,Solo mapeado,46.518541,7.885418,"Obersteinberg, Lauterbrunnen, Switzerland",Trekking,,"Trekking desde Gimmelwald. El más alpino y menos turístico. Media, 3-4 hs, ~500 m de desnivel"
+Lucerna,Wasserturm,Solo mapeado,47.051278,8.307295,"Wasserturm, Luzern, Switzerland",Sitio histórico,,La torre junto al Kapellbrücke
+Lucerna,Weinmarkt,Solo mapeado,47.052009,8.304816,"Weinmarkt, Luzern, Switzerland",Plaza,,Calle recomendada del casco histórico
+Lucerna,Hirschenplatz,Solo mapeado,47.052360,8.305218,"Hirschenplatz, Luzern, Switzerland",Plaza,,Calle recomendada del casco histórico
+Lucerna,Kornmarkt,Solo mapeado,47.052115,8.305876,"Kornmarkt, Luzern, Switzerland",Plaza,,Calle recomendada del casco histórico
+Lucerna,Rathausquai,Solo mapeado,47.051941,8.306929,"Rathausquai, Luzern, Switzerland",Paseo,,Calle recomendada del casco histórico
+Lucerna,Ayuntamiento de Lucerna,Solo mapeado,47.051882,8.306129,"Rathaus Luzern, Luzern, Switzerland",Sitio histórico,,Solo verlo por fuera. Uno de los edificios renacentistas más importantes de Suiza
+Lucerna,Río Reuss,Solo mapeado,47.051703,8.302480,"Reuss, Luzern, Switzerland",Naturaleza,,"Desde el puente, caminar bordeando el río. Muchos cafés y vida local"
+Innsbruck,Antiguo Ayuntamiento,Solo mapeado,47.268262,11.393555,"Altes Rathaus Innsbruck, Innsbruck, Austria",Sitio histórico,,
+Innsbruck,Altes Landhaus,Solo mapeado,47.264619,11.395017,"Altes Landhaus, Innsbruck, Austria",Sitio histórico,,
+Innsbruck,Spitalskirche,Solo mapeado,47.266619,11.393420,"Spitalskirche Innsbruck, Innsbruck, Austria",Iglesia,,
+Innsbruck,Columna de Santa Ana,Solo mapeado,47.265673,11.394198,"Annasäule, Innsbruck, Austria",Monumento,,Sobre la Maria-Theresien-Straße
+Innsbruck,Katzunghaus,Solo mapeado,47.268120,11.392895,"Katzunghaus, Innsbruck, Austria",Sitio histórico,,Fachada del casco antiguo
+Innsbruck,Helblinghaus,Solo mapeado,47.268414,11.392921,"Helblinghaus, Innsbruck, Austria",Sitio histórico,,Fachada rococó frente al Tejadillo de Oro
+Innsbruck,Herzog-Friedrich-Straße,Solo mapeado,47.267507,11.393505,"Herzog-Friedrich-Straße, Innsbruck, Austria",Calle,,Lleva hasta el Tejadillo de Oro
+Innsbruck,Hall in Tirol,Solo mapeado,47.281665,11.507534,"Hall in Tirol, Austria",Pueblo,,Pueblo cercano
+Viena,Volksgarten,Solo mapeado,48.208035,16.361787,"Volksgarten, Wien, Austria",Jardín,,Jardín clásico lleno de rosas en primavera y verano
+Viena,Peterskirche,Solo mapeado,48.209437,16.370011,"Peterskirche, Wien, Austria",Iglesia,,"Pequeña, con uno de los interiores barrocos más bellos. Suele haber conciertos gratuitos de órgano"
+Viena,Votivkirche,Solo mapeado,48.215415,16.359140,"Votivkirche, Wien, Austria",Iglesia,,"Neogótica, cerca de la Universidad. Muy linda desde afuera"
+Viena,Cripta Imperial,Solo mapeado,48.205773,16.370165,"Kaisergruft, Wien, Austria",Sitio histórico,,Katia: descartado. Entierro de los Habsburgo; recomendable si interesa el Imperio Austrohúngaro
+Viena,Biblioteca Nacional Austriaca (Prunksaal),Solo mapeado,48.206168,16.366691,"Prunksaal der Österreichischen Nationalbibliothek, Wien, Austria",Sitio histórico,,De las bibliotecas históricas más espectaculares de Europa
+Viena,Ayuntamiento de Viena,Solo mapeado,48.210826,16.356573,"Wiener Rathaus, Wien, Austria",Sitio histórico,,Neogótico. Las visitas guiadas gratuitas son un buen agregado si coinciden con el horario
+Viena,Parlamento Austriaco,Solo mapeado,48.208087,16.358465,"Parlamentsgebäude, Wien, Austria",Sitio histórico,,Recientemente restaurado. Interesante incluso solo desde afuera
+Viena,Donaukanal,Solo mapeado,48.199964,16.408192,"Donaukanal, Wien, Austria",Paseo,,Se llena de bares y terrazas al atardecer. La Viena más moderna y joven
+Viena,Brunnenmarkt,Solo mapeado,48.211097,16.335979,"Brunnenmarkt, Wien, Austria",Mercado,,El mercado más auténtico de la ciudad
+Viena,Karmelitermarkt,Solo mapeado,48.217483,16.376956,"Karmelitermarkt, Wien, Austria",Mercado,,"Pequeño, muy agradable"
+Viena,Hannovermarkt,Solo mapeado,48.231821,16.368892,"Hannovermarkt, Wien, Austria",Mercado,,"Opcional, si justo pasamos para almorzar"
+Viena,Meiselmarkt,Solo mapeado,48.198347,16.319814,"Meiselmarkt, Wien, Austria",Mercado,,"Opcional, si justo pasamos para almorzar"
+Viena,Vorgartenmarkt,Solo mapeado,48.221710,16.402029,"Vorgartenmarkt, Wien, Austria",Mercado,,"Opcional, si justo pasamos para almorzar"
+Viena,Kutschkermarkt,Solo mapeado,48.224507,16.344362,"Kutschkermarkt, Wien, Austria",Mercado,,"Opcional, si justo pasamos para almorzar"
+Viena,Ópera Estatal de Viena,Solo mapeado,48.203286,16.369194,"Wiener Staatsoper, Wien, Austria",Teatro,,Standing tickets 4-15 €. Ir 80 min antes y hacer fila en la entrada lateral de Operngasse. Llevar bufanda para reservar el lugar en la barra
+Viena,Musikverein,Solo mapeado,48.200486,16.372725,"Wiener Musikverein, Wien, Austria",Teatro,,"Sala dorada, acústica perfecta. Donde toca la Filarmónica de Viena. Standing 7-10 €"
+Viena,Wiener Konzerthaus,Solo mapeado,48.200649,16.377613,"Wiener Konzerthaus, Wien, Austria",Teatro,,Otra opción de concierto además del Musikverein
+Viena,Ankeruhr,Solo mapeado,48.210761,16.373675,"Ankeruhr, Wien, Austria",Sitio histórico,,Reloj histórico. Ver el desfile de figuras a las 12 del mediodía
+Viena,Grinzing,Solo mapeado,48.256302,16.340623,"Grinzing, Wien, Austria",Barrio,,"Zona de Heurigen: más que un mercado, una experiencia gastronómica local"
+Viena,Kärntner Straße,Solo mapeado,48.206005,16.371388,"Kärntner Straße, Wien, Austria",Calle,,Paseo nocturno junto con Graben y Stephansplatz
+Viena,Stephansplatz,Solo mapeado,48.208583,16.373921,"Stephansplatz, Wien, Austria",Plaza,,Paseo nocturno junto con Graben y Kärntner Straße
+Praga,Catedral de San Vito,Solo mapeado,50.090864,14.400571,"Katedrála svatého Víta, Praha, Czechia",Catedral,,"La iglesia más importante del país, dentro del Castillo. La nave principal se ve gratis"
+Praga,Callejón del Oro,Solo mapeado,50.092057,14.404270,"Zlatá ulička, Praha, Czechia",Calle,,Calle medieval dentro del castillo; incluida en el circuito
+Praga,Basílica de San Jorge,Solo mapeado,50.091194,14.402567,"Bazilika svatého Jiří, Praha, Czechia",Iglesia,,La iglesia románica más antigua del castillo; incluida en el circuito
+Praga,Iglesia de San Nicolás,Solo mapeado,50.087976,14.403222,"Kostel svatého Mikuláše, Praha, Czechia",Iglesia,,De las iglesias barrocas más impresionantes de Europa. ~150 CZK
+Praga,Santuario de Loreto,Solo mapeado,50.089277,14.391784,"Loreta Praha, Praha, Czechia",Iglesia,,Complejo barroco famoso por su carillón. ~230 CZK
+Praga,Monasterio de Strahov,Solo mapeado,50.086258,14.389069,"Strahovský klášter, Praha, Czechia",Sitio histórico,,Monasterio + biblioteca barroca. ~180 CZK la biblioteca
+Praga,Clementinum,Solo mapeado,50.086655,14.416119,"Klementinum, Praha, Czechia",Sitio histórico,,La biblioteca barroca es de las salas más lindas de Europa. Incluye la Torre Astronómica. ~380 CZK
+Praga,Torre de la Pólvora,Solo mapeado,50.087243,14.427756,"Prašná brána, Praha, Czechia",Sitio histórico,,Antigua puerta medieval de la ciudad. ~190 CZK
+Praga,Casa Municipal,Solo mapeado,50.087756,14.427764,"Obecní dům, Praha, Czechia",Sitio histórico,,Art Nouveau. Vale la pena entrar aunque no se haga la visita guiada; el edificio es gratuito
+Praga,Celetná,Solo mapeado,50.087147,14.423953,"Celetná, Praha, Czechia",Calle,,De las calles medievales más importantes; formaba parte del Camino Real
+Praga,Nové Město,Solo mapeado,50.078966,14.423329,"Nové Město, Praha, Czechia",Barrio,,Menos medieval y bastante más local
+Praga,Náplavka,Solo mapeado,50.093157,14.421408,"Náplavka, Praha, Czechia",Paseo,,"Ribera del Moldava, muy buen ambiente al atardecer. Ahí se hace el farmers market más famoso"
+Praga,Plaza de San Wenceslao,Solo mapeado,50.081587,14.427170,"Václavské náměstí, Praha, Czechia",Plaza,,Avenida-plaza donde ocurrieron acontecimientos clave de la historia checa reciente
+Praga,Mercado de Havelská,Solo mapeado,50.084772,14.420993,"Havelské tržiště, Praha, Czechia",Mercado,,El único mercado permanente. Para ir si no coinciden los farmers markets
+Praga,Dejvice Market,Solo mapeado,50.101661,14.393436,"Farmářské trhy Dejvická, Praha, Czechia",Mercado,,"Más pequeño, también local"
+Praga,Torre del Ayuntamiento Viejo,Solo mapeado,50.086979,14.420293,"Staroměstská radnice, Praha, Czechia",Mirador,,De las mejores vistas del casco histórico. ~300 CZK. Es el mismo edificio del Reloj Astronómico
+Praga,Casa Danzante,Solo mapeado,50.075426,14.414172,"Tančící dům, Praha, Czechia",Sitio histórico,,Contrasta fuerte con la arquitectura histórica de Praga
+Praga,Pasaje Lucerna,Solo mapeado,50.081132,14.426039,"Palác Lucerna, Praha, Czechia",Sitio histórico,,"Galería comercial histórica, famosa por la escultura invertida de San Wenceslao"
+Cracovia,Museo de Nowa Huta,Solo mapeado,50.069961,20.041216,"Muzeum Nowej Huty, Kraków, Poland",Museo,,Historia comunista. ~20 PLN
+Cracovia,Museo Czartoryski,Solo mapeado,50.064799,19.940338,"Muzeum Czartoryskich, Kraków, Poland",Museo,,"Katia: descartado. Arte, ~75 PLN"
+Cracovia,Błonia,Solo mapeado,50.059729,19.910145,"Błonia, Kraków, Poland",Parque,,"Gran pradera que usan los locales para caminar, correr y hacer picnic"
+Cracovia,Iglesia de San Pedro y San Pablo,Solo mapeado,50.056927,19.939064,"Kościół świętych Piotra i Pawła, Kraków, Poland",Iglesia,,La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis
+Cracovia,Iglesia de San Francisco,Solo mapeado,50.059219,19.936092,"Bazylika św. Franciszka z Asyżu, Kraków, Poland",Iglesia,,Vitrales Art Nouveau de Stanisław Wyspiański. Gratis
+Cracovia,Iglesia de San José,Solo mapeado,50.043274,19.949897,"Kościół św. Józefa, Kraków, Poland",Iglesia,,"Neogótica, en Podgórze"
+Cracovia,Stare Miasto,Solo mapeado,50.061432,19.936158,"Stare Miasto, Kraków, Poland",Casco histórico,,
+Cracovia,Calle Floriańska,Solo mapeado,50.063411,19.940262,"ulica Floriańska, Kraków, Poland",Calle,,"Primer tramo del Camino Real, de la Puerta de San Florián a la Plaza del Mercado"
+Cracovia,Mały Rynek,Solo mapeado,50.061144,19.940262,"Mały Rynek, Kraków, Poland",Plaza,,Detrás de la Basílica de Santa María
+Cracovia,Puente del Padre Bernatek,Solo mapeado,50.046558,19.947504,"Kładka Ojca Bernatka, Kraków, Poland",Puente,,Puente peatonal que conecta Kazimierz con Podgórze
+Cracovia,Podgórze,Solo mapeado,50.138188,20.103765,"Podgórze, Luborzyca, Poland",Barrio,,Antiguo gueto judío durante la ocupación nazi. Muy importante históricamente
+Cracovia,Nowa Huta,Solo mapeado,50.072728,20.037512,"Nowa Huta, Kraków, Poland",Barrio,,Ciudad socialista construida por los soviéticos. Muy distinta al resto de Cracovia
+Cracovia,Stary Kleparz,Solo mapeado,50.067384,19.941086,"Stary Kleparz, Kraków, Poland",Mercado,,Mercado tradicional de alimentos que usan los cracovianos
+Cracovia,Montículo Kościuszko,Solo mapeado,50.054915,19.893354,"Kopiec Kościuszki, Kraków, Poland",Mirador,,"Katia: descartado. El mejor mirador panorámico de Cracovia, ~30 PLN"
+Cracovia,Teatro Juliusz Słowacki,Solo mapeado,50.063947,19.943066,"Teatr im. Juliusza Słowackiego, Kraków, Poland",Teatro,,Exterior gratuito; visitas según programación
+Budapest,Belváros,Solo mapeado,47.491918,19.054694,"Belváros, Budapest, Hungary",Barrio,,El centro de Pest
+Budapest,Váci utca,Solo mapeado,47.489366,19.056045,"Váci utca, Budapest, Hungary",Calle,,La calle comercial peatonal de Pest
+Budapest,Szabadság tér,Solo mapeado,47.504582,19.050335,"Szabadság tér, Budapest, Hungary",Plaza,,Ver también los edificios y monumentos de alrededor
+Budapest,Vörösmarty tér,Solo mapeado,47.496630,19.050221,"Vörösmarty tér, Budapest, Hungary",Plaza,,
+Budapest,Erzsébet tér,Solo mapeado,47.498423,19.053591,"Erzsébet tér, Budapest, Hungary",Plaza,,Está la Gran Noria (Budapest Eye)
+Budapest,Parque Városliget,Solo mapeado,47.514576,19.087602,"Városliget, Budapest, Hungary",Parque,,Junto a la Plaza de los Héroes; adentro está el castillo Vajdahunyad
+Budapest,Castillo Vajdahunyad,Solo mapeado,47.515355,19.081875,"Vajdahunyad vára, Budapest, Hungary",Castillo,,En el parque Városliget
+Budapest,Ópera Estatal Húngara,Solo mapeado,47.502870,19.058158,"Magyar Állami Operaház, Budapest, Hungary",Teatro,,También hay visitas guiadas
+Budapest,Holocaust Memorial Center,Solo mapeado,47.483663,19.073840,"Holokauszt Emlékközpont, Budapest, Hungary",Museo,,
+Budapest,Museo Nacional de Hungría,Solo mapeado,47.491184,19.062884,"Magyar Nemzeti Múzeum, Budapest, Hungary",Museo,,
+Budapest,Gozsdu Udvar,Solo mapeado,47.497823,19.060613,"Gozsdu udvar, Budapest, Hungary",Sitio histórico,,Siete patios interiores conectados que atraviesan una manzana del Barrio Judío. Zona gastronómica y de ocio
+Budapest,Barrio Judío de Budapest,Solo mapeado,47.371167,18.923843,"Erzsébetváros, Érd, Hungary",Barrio,,Muchos bares y nightlife; ahí está el Szimpla Kert
+Budapest,Funicular del Castillo,Solo mapeado,47.497760,19.039171,"Budavári Sikló, Budapest, Hungary",Teleférico,,Turístico y bastante caro; se puede subir caminando sin problema
+Budapest,Citadella,Solo mapeado,47.486990,19.046266,"Citadella, Budapest, Hungary",Mirador,,En la colina Gellért
+Colmar,Koïfhus,Solo mapeado,48.075868,7.358876,"Koïfhus, Colmar, France",Sitio histórico,,La antigua aduana medieval; durante siglos el centro económico de la ciudad
+Colmar,Église des Dominicains,Solo mapeado,48.078289,7.356542,"Église des Dominicains, Colmar, France",Iglesia,,Katia: opcional
+Colmar,Église Saint-Matthieu,Solo mapeado,48.077033,7.360729,"Église Saint-Matthieu, Colmar, France",Iglesia,,"Protestante, sencilla y tranquila. Katia: opcional"
+Colmar,Rue des Marchands,Solo mapeado,48.077094,7.357144,"Rue des Marchands, Colmar, France",Calle,,Probablemente la calle más importante de Colmar. Las callejuelas perpendiculares son las más fotogénicas
+Colmar,Grand'Rue,Solo mapeado,48.074962,7.357392,"Grand'Rue, Colmar, France",Calle,,La otra gran calle comercial del centro
+Estrasburgo,Musée Alsacien,Solo mapeado,48.579132,7.750604,"Musée Alsacien, Strasbourg, France",Museo,,"Vida cotidiana alsaciana en casas medievales conectadas por pasarelas. 6,50 €"
+Estrasburgo,Saint-Pierre-le-Jeune,Solo mapeado,48.585438,7.746794,"Église Saint-Pierre-le-Jeune, Strasbourg, France",Iglesia,,"Muy linda y menos turística. Mezcla católica, protestante y medieval. Gratis"
+Estrasburgo,Maison des Tanneurs,Solo mapeado,48.581405,7.741809,"Maison des Tanneurs, Strasbourg, France",Sitio histórico,,"Antigua casa de curtidores convertida en restaurante, en La Petite France"
+Estrasburgo,Rue des Moulins,Solo mapeado,48.580146,7.742358,"Rue des Moulins, Strasbourg, France",Calle,,En La Petite France
+Estrasburgo,Maison Kammerzell,Solo mapeado,48.581969,7.749754,"Maison Kammerzell, Strasbourg, France",Sitio histórico,,La casa alsaciana más famosa de Estrasburgo. Muy impresionante visualmente
+Estrasburgo,Place du Marché-aux-Cochons-de-Lait,Solo mapeado,48.580382,7.751119,"Place du Marché-aux-Cochons-de-Lait, Strasbourg, France",Plaza,,Mini plaza alsaciana rodeada de casas con entramado de madera. Muy linda para café y fotos
+Estrasburgo,Rue du Vieux-Marché-aux-Poissons,Solo mapeado,48.580528,7.749645,"Rue du Vieux-Marché-aux-Poissons, Strasbourg, France",Calle,,"Peatonal con casas alsacianas, cafés y restaurantes típicos"
+Estrasburgo,Rue Mercière,Solo mapeado,48.581311,7.749507,"Rue Mercière, Strasbourg, France",Calle,,Fantásticas vistas de la Catedral
+Estrasburgo,Biblioteca Nacional y Universitaria,Solo mapeado,48.587539,7.756261,"Bibliothèque nationale et universitaire de Strasbourg, Strasbourg, France",Sitio histórico,,Destacado del Neustadt
+Estrasburgo,Palais du Rhin,Solo mapeado,48.587646,7.752543,"Palais du Rhin, Strasbourg, France",Palacio,,Destacado del Neustadt
+Estrasburgo,Palais Universitaire,Solo mapeado,48.584800,7.762594,"Palais Universitaire, Strasbourg, France",Sitio histórico,,Destacado del Neustadt
+Estrasburgo,Église Saint-Paul,Solo mapeado,48.586326,7.759902,"Église Saint-Paul de Strasbourg, Strasbourg, France",Iglesia,,Destacado del Neustadt
+Estrasburgo,Gare de Strasbourg,Solo mapeado,48.585293,7.733925,"Gare de Strasbourg, Strasbourg, France",Sitio histórico,,Destacado del Neustadt: la cúpula de vidrio sobre la fachada histórica
+Estrasburgo,Pavillon Joséphine,Solo mapeado,48.592538,7.774807,"Pavillon Joséphine, Strasbourg, France",Sitio histórico,,En el Parc de l'Orangerie
+Friburgo,Seepark Freiburg,Solo mapeado,48.010574,7.820720,"Seepark, Freiburg im Breisgau, Germany",Parque,,"No es wow, pero lindo para descansar o picnic"
+Friburgo,Konviktstraße,Solo mapeado,47.994082,7.854611,"Konviktstraße, Freiburg im Breisgau, Germany",Calle,,"Katia: la calle más linda. También zona de bares, tranquila y pintoresca"
+Friburgo,Münsterplatz,Solo mapeado,47.995596,7.852733,"Münsterplatz, Freiburg im Breisgau, Germany",Plaza,,"La plaza principal, donde está la catedral. El mercado es de lunes a sábado: probar la Lange Rote"
+Friburgo,Historisches Kaufhaus,Solo mapeado,47.994967,7.852671,"Historisches Kaufhaus, Freiburg im Breisgau, Germany",Sitio histórico,,El edificio rojo de la plaza de la Catedral. Una de las fachadas más famosas de Friburgo
+Friburgo,Schlossbergbahn,Solo mapeado,47.996615,7.858877,"Schlossbergbahn, Freiburg im Breisgau, Germany",Teleférico,,Funicular al Schlossberg; también se sube caminando en 20-30 min
+Friburgo,Augustinerplatz,Solo mapeado,47.993753,7.852147,"Augustinerplatz, Freiburg im Breisgau, Germany",Plaza,,La plaza donde los estudiantes se sientan en las escalinatas a tomar cerveza al aire libre
+Friburgo,Bertoldsbrunnen,Solo mapeado,47.994878,7.849857,"Bertoldsbrunnen, Freiburg im Breisgau, Germany",Monumento,,Una de las mejores zonas para salir de noche
+Friburgo,Kaiser-Joseph-Straße,Solo mapeado,47.991891,7.848479,"Kaiser-Joseph-Straße, Freiburg im Breisgau, Germany",Calle,,La calle principal; una de las mejores zonas de noche
+Highlands,Cluanie Inn,Solo mapeado,57.156131,-5.182119,"Cluanie Inn, Highland, UK",Sitio histórico,,El único punto de servicio en un tramo largo de la A87
+Highlands,Rothiemurchus Forest,Solo mapeado,57.173967,-3.782826,"Rothiemurchus, Aviemore, UK",Naturaleza,,Red de senderos gratuita en las Cairngorms
+Highlands,Loch an Eilein,Solo mapeado,57.147982,-3.819462,"Loch an Eilein, Highland, UK",Lago,,"Isla con castillo en ruinas dentro del loch. Circuito de ~3 km, parking £4"
+Highlands,Cairngorm Mountain Gondola,Solo mapeado,57.191152,-3.829352,"Cairngorm Mountain, Aviemore, UK",Teleférico,,~£20. También está el rebaño de renos único en el UK
+Highlands,River Ness,Solo mapeado,57.455780,-4.257835,"River Ness, Inverness, UK",Paseo,,Muy lindo para caminar de noche o cenar tranquilos
+Highlands,Drumnadrochit,Solo mapeado,57.344384,-4.485421,"Drumnadrochit, UK",Pueblo,,"Sede de los Glenurquhart Highland Games (22 de agosto), junto al Lago Ness"
+Highlands,St Andrews,Solo mapeado,55.863454,-3.982368,"St Andrews, Airdrie, UK",Pueblo,,"Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra"

@@ -50,6 +50,12 @@ MIN_NAME_SIM = 0.60  # rechazo duro
 
 _last_call: dict[str, float] = {}
 
+# Overpass resuelve ~10% de los casos pero cuesta hasta 70 s cada uno, contra
+# ~3 s de Nominatim. En una corrida masiva eso multiplica el tiempo total por
+# tres. Se apaga para el barrido y se corre después solo sobre lo que quedó sin
+# resolver (`build_katia.py --overpass-pass`).
+SKIP_OVERPASS = False
+
 
 # ---------------------------------------------------------------------------
 # Clases OSM esperadas por tipo, y clases que nunca son el lugar buscado
@@ -411,34 +417,45 @@ def resolve(
         if c is not None and haversine_km(c.lat, c.lng, area.lat, area.lng) <= area.max_km:
             res = _mk(c, 1.0, "high", "wikidata_qid")
 
-    # 2 — Overpass sobre el bbox del área
+    # 2 — Nominatim libre (una sola request, resuelve la gran mayoría)
     if res is None:
-        cands = overpass_named(nombre_local, area)
+        q = f"{nombre_local}, {query_extra}" if query_extra else f"{nombre_local}, {area.locality}, {area.country_en}"
+        cands = nominatim_search(q, None, bounded=False, limit=10)
         c, s = _pick(cands, nombre_local, tipo, area)
         if c is not None:
             found.append((c, s))
-            if s >= TH_OVERPASS:
-                res = _mk(c, s, "high", "overpass")
+            if s >= TH_NOMINATIM_FREE:
+                res = _mk(c, s, "high", "nominatim_free")
+
+    # 2b — Nominatim solo con nombre + país. El sufijo de localidad ayuda a
+    # desambiguar pero a veces impide el match: "Slap Savica, Bled, Slovenia"
+    # devuelve vacío y "Slap Savica, Slovenia" resuelve bien.
+    if res is None:
+        cands = nominatim_search(f"{nombre_local}, {area.country_en}", None, bounded=False, limit=10)
+        c, s = _pick(cands, nombre_local, tipo, area)
+        if c is not None:
+            found.append((c, s))
+            if s >= TH_NOMINATIM_FREE:
+                res = _mk(c, s, "high", "nominatim_sin_localidad")
 
     # 3 — Nominatim acotado al viewbox del área (bounded=1)
     if res is None:
-        q = f"{nombre_local}, {query_extra}" if query_extra else nombre_local
-        cands = nominatim_search(q, area, bounded=True)
+        cands = nominatim_search(nombre_local, area, bounded=True)
         c, s = _pick(cands, nombre_local, tipo, area)
         if c is not None:
             found.append((c, s))
             if s >= TH_NOMINATIM_BOUNDED:
                 res = _mk(c, s, "high", "nominatim_bounded")
 
-    # 4 — Nominatim libre, pero SIEMPRE filtrado por max_km después
-    if res is None:
-        q = f"{nombre_local}, {area.locality}, {area.country_en}"
-        cands = nominatim_search(q, None, bounded=False, limit=10)
+    # 4 — Overpass, último porque es la fuente más lenta y frágil: con Overpass
+    # primero, cada lugar tardaba ~1 minuto y los 371 no terminaban nunca.
+    if res is None and not SKIP_OVERPASS:
+        cands = overpass_named(nombre_local, area)
         c, s = _pick(cands, nombre_local, tipo, area)
         if c is not None:
             found.append((c, s))
-            if s >= TH_NOMINATIM_FREE:
-                res = _mk(c, s, "medium", "nominatim_free")
+            if s >= TH_OVERPASS:
+                res = _mk(c, s, "high", "overpass")
 
     if res is None:
         if found:
@@ -616,7 +633,11 @@ def load_overrides(path: Path | None = None) -> dict[str, dict]:
         for campo in ("lat", "lng", "source", "url", "checked_at"):
             assert v.get(campo) not in (None, ""), f"override {k}: falta {campo}"
         assert str(v["url"]).startswith("http"), f"override {k}: url inválida"
-        assert min(decimals(v["lat"]), decimals(v["lng"])) >= 5, \
+        # >=4 decimales (~11 m). No se puede exigir 5: repr(float) descarta los
+        # ceros finales, así que una coordenada legítima como -5.082300 se lee
+        # como 4 decimales. El umbral que importa es el que caza las coordenadas
+        # tipeadas a mano, que tienen 2-3.
+        assert min(decimals(v["lat"]), decimals(v["lng"])) >= 4, \
             f"override {k}: precisión insuficiente ({v['lat']},{v['lng']})"
         out[k] = v
     return out

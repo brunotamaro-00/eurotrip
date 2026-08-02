@@ -16,7 +16,15 @@
   ],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Vistas hermosas desde arriba"
+  "notas": "Vistas hermosas desde arriba",
+  "lat": 41.894687,
+  "lng": 12.483066,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Altare della Patria",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "roma--piazza-navona",
@@ -32,7 +40,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.898928,
+  "lng": 12.473118,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piazza Navona",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "roma--piazza-venezia",
@@ -48,7 +64,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.896245,
+  "lng": 12.48237,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piazza Venezia",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "roma--villa-borghese",
@@ -64,7 +88,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.914411,
+  "lng": 12.484844,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Villa Borghese",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "roma--colosseo",
@@ -82,7 +114,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Con guía o audio tour (Rick Steves es gratis); reservar por internet para evitar filas"
+  "notas": "Con guía o audio tour (Rick Steves es gratis); reservar por internet para evitar filas",
+  "lat": 41.890942,
+  "lng": 12.491903,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Colosseo",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.803
  },
  {
   "id": "roma--foro-romano",
@@ -98,7 +138,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Entrada combinada con el Coliseo"
+  "notas": "Entrada combinada con el Coliseo",
+  "lat": 41.892629,
+  "lng": 12.487049,
+  "geo_source": "overpass",
+  "confianza": "high",
+  "geo_name": "Foro Romano",
+  "locality": "Roma",
+  "geo_reason": "overpass",
+  "score": 0.815
  },
  {
   "id": "roma--museo-palatino",
@@ -114,7 +162,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Historia de la fundación de Roma"
+  "notas": "Historia de la fundación de Roma",
+  "lat": 41.888304,
+  "lng": 12.486564,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Museo Palatino",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.913
  },
  {
   "id": "roma--basilica-di-massenzio",
@@ -132,7 +188,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Está dentro del Foro Romano, no es una iglesia"
+  "notas": "Está dentro del Foro Romano, no es una iglesia",
+  "lat": 41.891816,
+  "lng": 12.488417,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di Massenzio",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "roma--santa-maria-maggiore",
@@ -150,7 +214,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.897627,
+  "lng": 12.49847,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di Santa Maria Maggiore",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.939
  },
  {
   "id": "roma--santa-maria-della-vittoria",
@@ -168,7 +240,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "El Éxtasis de Santa Teresa, de Bernini"
+  "notas": "El Éxtasis de Santa Teresa, de Bernini",
+  "lat": 41.904719,
+  "lng": 12.494189,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Santa Maria della Vittoria",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.934
  },
  {
   "id": "roma--fontana-di-trevi",
@@ -184,7 +264,15 @@
   "alias_es": [],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Katia: ir después de la 1 AM"
+  "notas": "Katia: ir después de la 1 AM",
+  "lat": 41.900978,
+  "lng": 12.483285,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Fontana di Trevi",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.799
  },
  {
   "id": "roma--campo-de-fiori",
@@ -202,7 +290,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Muy turístico"
+  "notas": "Muy turístico",
+  "lat": 41.895577,
+  "lng": 12.472159,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Campo de' Fiori",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "roma--ghetto-ebraico",
@@ -220,7 +316,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Ver las piedras de la memoria (Stolpersteine)"
+  "notas": "Ver las piedras de la memoria (Stolpersteine)",
+  "lat": 41.893147,
+  "lng": 12.477071,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Ba' Ghetto Milky",
+  "locality": "Roma",
+  "geo_reason": "bajo_umbral",
+  "score": 0.555
  },
  {
   "id": "roma--parioli",
@@ -236,7 +340,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Katia: es tipo Palermo Chico"
+  "notas": "Katia: es tipo Palermo Chico",
+  "lat": 41.93105,
+  "lng": 12.48859,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Parioli",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.892
  },
  {
   "id": "roma--trastevere",
@@ -252,7 +364,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Bohemio; el mejor barrio para comer. Reddit avisa que se gentrificó y satura de turistas"
+  "notas": "Bohemio; el mejor barrio para comer. Reddit avisa que se gentrificó y satura de turistas",
+  "lat": 41.891159,
+  "lng": 12.466846,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Trastevere",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "roma--mura-aureliane",
@@ -270,7 +390,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Menos turístico; Alan lo hizo con el tour de la Vespa"
+  "notas": "Menos turístico; Alan lo hizo con el tour de la Vespa",
+  "lat": 41.909053,
+  "lng": 12.487409,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Mura Aureliane",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.801
  },
  {
   "id": "roma--piramide-cestia",
@@ -288,7 +416,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.876449,
+  "lng": 12.480854,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piramide di Caio Cestio",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.784
  },
  {
   "id": "roma--basilica-san-pietro",
@@ -306,7 +442,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes"
+  "notas": "Gratis pero con entrada. Ir muy temprano o en el tour nocturno de los viernes",
+  "lat": 41.902162,
+  "lng": 12.453713,
+  "geo_source": "overpass",
+  "confianza": "high",
+  "geo_name": "Basilica di San Pietro in Vaticano",
+  "locality": "Roma",
+  "geo_reason": "overpass",
+  "score": 0.802
  },
  {
   "id": "roma--musei-vaticani",
@@ -324,7 +468,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)"
+  "notas": "No ir miércoles (audiencia del papa) ni el último domingo (entrada gratis, quilombo)",
+  "lat": 41.904927,
+  "lng": 12.454622,
+  "geo_source": "overpass",
+  "confianza": "high",
+  "geo_name": "Musei Vaticani",
+  "locality": "Roma",
+  "geo_reason": "overpass",
+  "score": 0.934
  },
  {
   "id": "roma--arco-di-costantino",
@@ -342,7 +494,15 @@
   ],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.889762,
+  "lng": 12.490667,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Arco di Costantino",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.797
  },
  {
   "id": "roma--castel-santangelo",
@@ -360,7 +520,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "Buenas vistas"
+  "notas": "Buenas vistas",
+  "lat": 41.903118,
+  "lng": 12.466343,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Castel Sant’Angelo",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "roma--galleria-borghese",
@@ -376,7 +544,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Katia: MUST. Reservar con anticipación"
+  "notas": "Katia: MUST. Reservar con anticipación",
+  "lat": 41.914113,
+  "lng": 12.492105,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Galleria Borghese",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.931
  },
  {
   "id": "roma--monti",
@@ -392,7 +568,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Buena escena vintage; vale callejear sin lista rígida"
+  "notas": "Buena escena vintage; vale callejear sin lista rígida",
+  "lat": 41.891973,
+  "lng": 12.495658,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Monti",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "roma--manufactus",
@@ -408,7 +592,15 @@
   "alias_es": [],
   "tipo": "Tienda",
   "descartado": false,
-  "notas": "Souvenirs de cuero"
+  "notas": "Souvenirs de cuero",
+  "lat": 41.899829,
+  "lng": 12.472619,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Manufactus",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.757
  },
  {
   "id": "roma--giardino-degli-aranci",
@@ -426,7 +618,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "El mejor atardecer sobre Roma, lejos de Piazza di Spagna. Al lado del Aventine Keyhole"
+  "notas": "El mejor atardecer sobre Roma, lejos de Piazza di Spagna. Al lado del Aventine Keyhole",
+  "lat": 41.885426,
+  "lng": 12.479908,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Giardino degli Aranci",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.869
  },
  {
   "id": "roma--biblioteca-angelica",
@@ -444,7 +644,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 41.900644,
+  "lng": 12.474552,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Biblioteca Angelica",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.783
  },
  {
   "id": "roma--pantheon",
@@ -462,7 +670,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Empezaron a cobrarlo. Tip de Reddit: ir mientras llueve para ver el agua caer por el óculo"
+  "notas": "Empezaron a cobrarlo. Tip de Reddit: ir mientras llueve para ver el agua caer por el óculo",
+  "lat": 41.898616,
+  "lng": 12.476833,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Pantheon",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.8
  },
  {
   "id": "roma--buco-della-serratura",
@@ -481,7 +697,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Por la cerradura de la puerta verde se ve la cúpula de San Pedro enmarcada"
+  "notas": "Por la cerradura de la puerta verde se ve la cúpula de San Pedro enmarcada",
+  "lat": 41.883486,
+  "lng": 12.47748,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Villa del Priorato di Malta",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.757
  },
  {
   "id": "roma--via-appia-antica",
@@ -499,7 +723,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Alquilar bici eléctrica el domingo, cuando cierran al tráfico. Ruinas, catacumbas y campo"
+  "notas": "Alquilar bici eléctrica el domingo, cuando cierran al tráfico. Ruinas, catacumbas y campo",
+  "lat": 41.869763,
+  "lng": 12.502111,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Via Appia Antica",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.72
  },
  {
   "id": "roma--quartiere-coppede",
@@ -515,7 +747,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Barrio minúsculo que parece un cuento de hadas. Cero turistas"
+  "notas": "Barrio minúsculo que parece un cuento de hadas. Cero turistas",
+  "lat": 41.918364,
+  "lng": 12.502189,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Quartiere Coppedè",
+  "locality": "Roma",
+  "geo_reason": "nominatim_free",
+  "score": 0.896
  },
  {
   "id": "roma--auditorium-parco-della-musica",
@@ -531,7 +771,15 @@
   "alias_es": [],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche"
+  "notas": "Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche",
+  "lat": 41.929193,
+  "lng": 12.475128,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Auditorium Parco della Musica Ennio Morricone",
+  "locality": "Roma",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.911
  },
  {
   "id": "napoles--duomo-di-napoli",
@@ -550,7 +798,15 @@
   ],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.852653,
+  "lng": 14.25987,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cattedrale di Santa Maria Assunta",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.928
  },
  {
   "id": "napoles--cappella-sansevero",
@@ -568,7 +824,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "El Cristo Velado. Reservar con anticipación"
+  "notas": "El Cristo Velado. Reservar con anticipación",
+  "lat": 40.849299,
+  "lng": 14.254933,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cappella Sansevero",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.766
  },
  {
   "id": "napoles--san-domenico-maggiore",
@@ -586,7 +850,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.848975,
+  "lng": 14.25427,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di San Domenico Maggiore",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "napoles--santa-chiara",
@@ -605,7 +877,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Ir al claustro de mayólicas"
+  "notas": "Ir al claustro de mayólicas",
+  "lat": 40.846823,
+  "lng": 14.25291,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di Santa Chiara",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.919
  },
  {
   "id": "napoles--gesu-nuovo",
@@ -623,7 +903,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Fachada de puntas de diamante"
+  "notas": "Fachada de puntas de diamante",
+  "lat": 40.847558,
+  "lng": 14.251874,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Chiesa del Gesù Nuovo",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "napoles--via-tribunali",
@@ -641,7 +929,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Calle principal del centro storico"
+  "notas": "Calle principal del centro storico",
+  "lat": 40.849883,
+  "lng": 14.253935,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Via dei Tribunali",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.737
  },
  {
   "id": "napoles--via-san-gregorio-armeno",
@@ -657,7 +953,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle de los pesebres"
+  "notas": "La calle de los pesebres",
+  "lat": 40.849777,
+  "lng": 14.257981,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Via San Gregorio Armeno",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.766
  },
  {
   "id": "napoles--spaccanapoli",
@@ -675,7 +979,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle que parte Nápoles al medio"
+  "notas": "La calle que parte Nápoles al medio",
+  "lat": 40.849562,
+  "lng": 14.261901,
+  "geo_source": "overpass",
+  "confianza": "high",
+  "geo_name": "Spaccanapoli",
+  "locality": "Napoli",
+  "geo_reason": "overpass",
+  "score": 0.818
  },
  {
   "id": "napoles--napoli-sotterranea",
@@ -693,7 +1005,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Túneles griegos y romanos. Acceso habitual por Piazza San Gaetano"
+  "notas": "Túneles griegos y romanos. Acceso habitual por Piazza San Gaetano",
+  "lat": 40.851079,
+  "lng": 14.256847,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Napoli Sotterranea",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.79
  },
  {
   "id": "napoles--san-lorenzo-maggiore",
@@ -711,7 +1031,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Otro acceso a la Nápoles subterránea"
+  "notas": "Otro acceso a la Nápoles subterránea",
+  "lat": 40.85092,
+  "lng": 14.25804,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di San Lorenzo Maggiore",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "napoles--quartieri-spagnoli",
@@ -729,7 +1057,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.841483,
+  "lng": 14.246423,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Quartieri Spagnoli",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.909
  },
  {
   "id": "napoles--via-toledo",
@@ -745,7 +1081,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.841677,
+  "lng": 14.248754,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Via Toledo",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.78
  },
  {
   "id": "napoles--murales-vico-toto",
@@ -763,7 +1107,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Murales del callejón"
+  "notas": "Murales del callejón",
+  "lat": 40.858438,
+  "lng": 14.25223,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Casa di Antonio De Curtis in arte Totò",
+  "locality": "Napoli",
+  "geo_reason": "bajo_umbral",
+  "score": 0.584
  },
  {
   "id": "napoles--murales-maradona",
@@ -781,7 +1133,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En los Quartieri Spagnoli"
+  "notas": "En los Quartieri Spagnoli",
+  "lat": 40.849694,
+  "lng": 14.201474,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Murales di Diego Armando Maradona",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.724
  },
  {
   "id": "napoles--rione-sanita",
@@ -797,7 +1157,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Vibrante y auténtico; solía ser peligroso y renace por cooperativas locales"
+  "notas": "Vibrante y auténtico; solía ser peligroso y renace por cooperativas locales",
+  "lat": 40.857644,
+  "lng": 14.251961,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rione Sanità",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.915
  },
  {
   "id": "napoles--catacombe-san-gennaro",
@@ -815,7 +1183,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En el Rione Sanità"
+  "notas": "En el Rione Sanità",
+  "lat": 40.863784,
+  "lng": 14.247058,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Catacombe di San Gennaro",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.775
  },
  {
   "id": "napoles--lungomare",
@@ -834,7 +1210,15 @@
   ],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Vistas al Vesubio. Evitar los restaurantes turísticos del paseo"
+  "notas": "Vistas al Vesubio. Evitar los restaurantes turísticos del paseo",
+  "lat": 40.830442,
+  "lng": 14.244684,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Via Partenope",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.759
  },
  {
   "id": "napoles--castel-dellovo",
@@ -853,7 +1237,15 @@
   "tipo": "Castillo",
   "descartado": false,
   "notas": "Vistas del Vesubio desde el Lungomare",
-  "wikidata": "Q645041"
+  "wikidata": "Q645041",
+  "lat": 40.828315,
+  "lng": 14.247656,
+  "geo_source": "wikidata",
+  "confianza": "high",
+  "geo_name": "Castel dell'Ovo",
+  "locality": "Napoli",
+  "geo_reason": "wikidata_qid",
+  "score": 1.0
  },
  {
   "id": "napoles--castel-nuovo",
@@ -871,7 +1263,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.838317,
+  "lng": 14.253731,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Castel Nuovo",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.918
  },
  {
   "id": "napoles--galleria-umberto-i",
@@ -889,7 +1289,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.838514,
+  "lng": 14.24924,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Galleria Umberto I",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.778
  },
  {
   "id": "napoles--teatro-san-carlo",
@@ -907,7 +1315,15 @@
   ],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "teatrosancarlo.it"
+  "notas": "teatrosancarlo.it",
+  "lat": 40.837374,
+  "lng": 14.249813,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Teatro di San Carlo",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "napoles--palazzo-reale",
@@ -926,7 +1342,15 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "Sobre la Piazza del Plebiscito"
+  "notas": "Sobre la Piazza del Plebiscito",
+  "lat": 40.83648,
+  "lng": 14.25032,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palazzo Reale",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.784
  },
  {
   "id": "napoles--piazza-del-plebiscito",
@@ -944,7 +1368,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.835856,
+  "lng": 14.248565,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piazza del Plebiscito",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.91
  },
  {
   "id": "napoles--palazzo-salerno",
@@ -962,7 +1394,15 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "En la Piazza del Plebiscito"
+  "notas": "En la Piazza del Plebiscito",
+  "lat": 40.834876,
+  "lng": 14.249748,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palazzo Salerno",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.771
  },
  {
   "id": "napoles--san-francesco-di-paola",
@@ -981,7 +1421,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "En la Piazza del Plebiscito"
+  "notas": "En la Piazza del Plebiscito",
+  "lat": 40.835599,
+  "lng": 14.247336,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Basilica di San Francesco di Paola",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.906
  },
  {
   "id": "napoles--palazzo-della-prefettura",
@@ -999,7 +1447,15 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "En la Piazza del Plebiscito"
+  "notas": "En la Piazza del Plebiscito",
+  "lat": 40.836569,
+  "lng": 14.248216,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palazzo della Prefettura",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.732
  },
  {
   "id": "napoles--mann",
@@ -1017,7 +1473,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Los mosaicos y frescos de Pompeya están acá"
+  "notas": "Los mosaicos y frescos de Pompeya están acá",
+  "lat": 40.853606,
+  "lng": 14.25115,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Museo archeologico nazionale di Napoli",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "napoles--castel-santelmo",
@@ -1035,7 +1499,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "Funicular hasta Vomero. Las mejores vistas 360° del Vesubio y la ciudad"
+  "notas": "Funicular hasta Vomero. Las mejores vistas 360° del Vesubio y la ciudad",
+  "lat": 40.843707,
+  "lng": 14.239252,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Castel Sant'Elmo",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.843
  },
  {
   "id": "napoles--capodimonte",
@@ -1051,7 +1523,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.874251,
+  "lng": 14.255113,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Real Bosco di Capodimonte",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.744
  },
  {
   "id": "napoles--piazza-dante",
@@ -1069,7 +1549,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 40.849156,
+  "lng": 14.250303,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piazza Dante",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.913
  },
  {
   "id": "napoles--cimitero-delle-fontanelle",
@@ -1085,7 +1573,15 @@
   "alias_es": [],
   "tipo": "Cementerio",
   "descartado": false,
-  "notas": "Cantera con miles de cráneos; los napolitanos adoptaban uno y le rezaban. Suele estar en restauración, verificar antes"
+  "notas": "Cantera con miles de cráneos; los napolitanos adoptaban uno y le rezaban. Suele estar en restauración, verificar antes",
+  "lat": 40.858026,
+  "lng": 14.23901,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cimitero delle Fontanelle",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.901
  },
  {
   "id": "napoles--vomero",
@@ -1101,7 +1597,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Barrio en la colina; se llega en funicular"
+  "notas": "Barrio en la colina; se llega en funicular",
+  "lat": 40.843846,
+  "lng": 14.225482,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Vomero",
+  "locality": "Napoli",
+  "geo_reason": "nominatim_free",
+  "score": 0.902
  },
  {
   "id": "liubliana--metelkova",
@@ -1120,7 +1624,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Ex cuartel militar yugoslavo okupado y autogestionado desde los 90. Recorrer de día; de noche siempre hay bandas en vivo"
+  "notas": "Ex cuartel militar yugoslavo okupado y autogestionado desde los 90. Recorrer de día; de noche siempre hay bandas en vivo",
+  "lat": 46.056914,
+  "lng": 14.516926,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Metelkova",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.74
  },
  {
   "id": "liubliana--museo-nacional",
@@ -1138,7 +1650,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.052072,
+  "lng": 14.499536,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Narodni muzej Slovenije – Prešernova",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "liubliana--museo-etnografico",
@@ -1156,7 +1676,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.054976,
+  "lng": 14.516175,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Slovenski etnografski muzej",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.917
  },
  {
   "id": "liubliana--casco-historico",
@@ -1175,7 +1703,15 @@
   ],
   "tipo": "Casco histórico",
   "descartado": false,
-  "notas": "Paseo por el río; restaurantes a la orilla"
+  "notas": "Paseo por el río; restaurantes a la orilla",
+  "lat": 46.046713,
+  "lng": 14.506748,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stari trg",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.784
  },
  {
   "id": "liubliana--castillo",
@@ -1193,7 +1729,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "Se sube caminando o en funicular. Museo y tour de la historia del castillo"
+  "notas": "Se sube caminando o en funicular. Museo y tour de la historia del castillo",
+  "lat": 46.048782,
+  "lng": 14.508538,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Ljubljanski grad",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "liubliana--catedral",
@@ -1212,7 +1756,15 @@
   ],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": "Puertas de bronce"
+  "notas": "Puertas de bronce",
+  "lat": 46.050763,
+  "lng": 14.508252,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stolnica sv. Nikolaja",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "liubliana--iglesia-franciscana",
@@ -1230,7 +1782,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "La iglesia rosa de Prešernov trg"
+  "notas": "La iglesia rosa de Prešernov trg",
+  "lat": 46.051899,
+  "lng": 14.506077,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Frančiškanska cerkev Marijinega oznanjenja",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.928
  },
  {
   "id": "liubliana--kongresni-trg",
@@ -1248,7 +1808,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.050172,
+  "lng": 14.503852,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kongresni trg",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "liubliana--tromostovje",
@@ -1267,7 +1835,15 @@
   ],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "De Plečnik. Entender a Plečnik es entender Liubliana"
+  "notas": "De Plečnik. Entender a Plečnik es entender Liubliana",
+  "lat": 46.051133,
+  "lng": 14.50621,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tromostovje",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "liubliana--tivoli",
@@ -1285,7 +1861,15 @@
   ],
   "tipo": "Parque",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.055146,
+  "lng": 14.495728,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Park Tivoli",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.925
  },
  {
   "id": "liubliana--zmajski-most",
@@ -1303,7 +1887,15 @@
   ],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "A Liubliana le dicen la ciudad de los dragones"
+  "notas": "A Liubliana le dicen la ciudad de los dragones",
+  "lat": 46.051932,
+  "lng": 14.510414,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Zmajski most",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "liubliana--mercado-central",
@@ -1321,7 +1913,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Arcadas de Plečnik. Los viernes Open Kitchen con food trucks (verano)"
+  "notas": "Arcadas de Plečnik. Los viernes Open Kitchen con food trucks (verano)",
+  "lat": 46.051396,
+  "lng": 14.50807,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Plečnikove arkade",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.896
  },
  {
   "id": "liubliana--nuk",
@@ -1339,7 +1939,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Obra maestra de Plečnik"
+  "notas": "Obra maestra de Plečnik",
+  "lat": 46.047533,
+  "lng": 14.503717,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Narodna in univerzitetna knjižnica",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.795
  },
  {
   "id": "liubliana--zale",
@@ -1357,7 +1965,15 @@
   ],
   "tipo": "Cementerio",
   "descartado": false,
-  "notas": "De Plečnik"
+  "notas": "De Plečnik",
+  "lat": 46.071457,
+  "lng": 14.532351,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Centralno pokopališče Žale",
+  "locality": "Ljubljana",
+  "geo_reason": "nominatim_free",
+  "score": 0.911
  },
  {
   "id": "liubliana--velika-planina",
@@ -1373,7 +1989,15 @@
   "alias_es": [],
   "tipo": "Paisaje",
   "descartado": false,
-  "notas": "Day trip: meseta alpina con cabañas tradicionales. Auto hasta Kamnik + teleférico + caminata. Solo si el clima acompaña"
+  "notas": "Day trip: meseta alpina con cabañas tradicionales. Auto hasta Kamnik + teleférico + caminata. Solo si el clima acompaña",
+  "lat": 46.295936,
+  "lng": 14.65201,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Velika Planina",
+  "locality": "Kamnik",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.757
  },
  {
   "id": "bled--lago-bled",
@@ -1391,7 +2015,15 @@
   ],
   "tipo": "Lago",
   "descartado": false,
-  "notas": "40' en auto. Caminatas alrededor del lago"
+  "notas": "40' en auto. Caminatas alrededor del lago",
+  "lat": 46.363913,
+  "lng": 14.093807,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Blejsko jezero",
+  "locality": "Bled",
+  "geo_reason": "nominatim_free",
+  "score": 0.925
  },
  {
   "id": "bled--castillo-bled",
@@ -1409,7 +2041,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.369703,
+  "lng": 14.100521,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Blejski grad",
+  "locality": "Bled",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "bled--isla-bled",
@@ -1427,7 +2067,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Se llega en pletna (barca típica) o en bote de remos"
+  "notas": "Se llega en pletna (barca típica) o en bote de remos",
+  "lat": 46.362293,
+  "lng": 14.090048,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Blejski otok",
+  "locality": "Bled",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.785
  },
  {
   "id": "bled--ojstrica",
@@ -1443,7 +2091,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Mini trekking. Con lluvia reciente, priorizar Ojstrica sobre los miradores más altos"
+  "notas": "Mini trekking. Con lluvia reciente, priorizar Ojstrica sobre los miradores más altos",
+  "lat": 46.359633,
+  "lng": 14.078458,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Ojstrica",
+  "locality": "Bled",
+  "geo_reason": "nominatim_free",
+  "score": 0.899
  },
  {
   "id": "bled--mala-osojnica",
@@ -1459,7 +2115,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Mini trekking. La postal clásica del lago"
+  "notas": "Mini trekking. La postal clásica del lago",
+  "lat": 46.35756,
+  "lng": 14.081014,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Mala Osojnica",
+  "locality": "Bled",
+  "geo_reason": "nominatim_free",
+  "score": 0.899
  },
  {
   "id": "bled--vintgar",
@@ -1477,7 +2141,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Reservar slot por horario en tickets.vintgar.si; abre 9-15h. Recorrido en un solo sentido; se vuelve por el bosque (40-60') o en shuttle"
+  "notas": "Reservar slot por horario en tickets.vintgar.si; abre 9-15h. Recorrido en un solo sentido; se vuelve por el bosque (40-60') o en shuttle",
+  "lat": 46.398617,
+  "lng": 14.092748,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Soteska Vintgar",
+  "locality": "Podhom",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.779
  },
  {
   "id": "bled--lago-bohinj",
@@ -1495,7 +2167,15 @@
   ],
   "tipo": "Lago",
   "descartado": false,
-  "notas": "30' en auto desde Bled. El lago alpino más grande de Eslovenia, dentro del PN Triglav. Más salvaje y menos turístico que Bled"
+  "notas": "30' en auto desde Bled. El lago alpino más grande de Eslovenia, dentro del PN Triglav. Más salvaje y menos turístico que Bled",
+  "lat": 46.282265,
+  "lng": 13.864531,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bohinjsko jezero",
+  "locality": "Ribčev Laz",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.831
  },
  {
   "id": "bled--savica",
@@ -1514,7 +2194,15 @@
   ],
   "tipo": "Cascada",
   "descartado": false,
-  "notas": "Subida de ~550 escalones; sendero corto pero pica"
+  "notas": "Subida de ~550 escalones; sendero corto pero pica",
+  "lat": 46.283727,
+  "lng": 13.842399,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Savica",
+  "locality": "Ukanc",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.737
  },
  {
   "id": "bled--mostnica",
@@ -1532,7 +2220,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "2-3 hs solo la garganta, 3-3.5 hs si se estira hacia Voje"
+  "notas": "2-3 hs solo la garganta, 3-3.5 hs si se estira hacia Voje",
+  "lat": 46.298117,
+  "lng": 13.88549,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Korita Mostnice",
+  "locality": "Stara Fužina",
+  "geo_reason": "bajo_umbral",
+  "score": 0.684
  },
  {
   "id": "bled--vogel",
@@ -1548,7 +2244,15 @@
   "alias_es": [],
   "tipo": "Teleférico",
   "descartado": true,
-  "notas": "Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento"
+  "notas": "Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento",
+  "lat": 46.257834,
+  "lng": 13.835595,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Vogel",
+  "locality": "Ukanc",
+  "geo_reason": "bajo_umbral",
+  "score": 0.639
  },
  {
   "id": "karst--postojna",
@@ -1567,7 +2271,15 @@
   ],
   "tipo": "Cueva",
   "descartado": true,
-  "notas": "Katia: descartado en favor de Škocjan. 1 hs desde Bled, 40' desde Liubliana. Se recomienda reserva previa"
+  "notas": "Katia: descartado en favor de Škocjan. 1 hs desde Bled, 40' desde Liubliana. Se recomienda reserva previa",
+  "lat": 45.782711,
+  "lng": 14.203855,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Postojnska jama",
+  "locality": "Veliki Otok",
+  "geo_reason": "nominatim_free",
+  "score": 0.931
  },
  {
   "id": "karst--predjama",
@@ -1585,7 +2297,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "Castillo encastrado en la boca de una cueva"
+  "notas": "Castillo encastrado en la boca de una cueva",
+  "lat": 45.815734,
+  "lng": 14.126592,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Predjamski grad",
+  "locality": "Predjama",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.744
  },
  {
   "id": "karst--skocjan",
@@ -1603,7 +2323,15 @@
   ],
   "tipo": "Cueva",
   "descartado": false,
-  "notas": "Alan dice que son las mejores de todas. Tours cada hora de 10 a 15h en octubre; 1.5-3 hs; 12°C adentro, llevar abrigo y calzado con agarre"
+  "notas": "Alan dice que son las mejores de todas. Tours cada hora de 10 a 15h en octubre; 1.5-3 hs; 12°C adentro, llevar abrigo y calzado con agarre",
+  "lat": 45.662066,
+  "lng": 13.98448,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Škocjanske jame (umetni vhod)",
+  "locality": "Matavun",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.814
  },
  {
   "id": "karst--rakov-skocjan",
@@ -1619,7 +2347,15 @@
   "alias_es": [],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Valle kárstico con puentes naturales. Circular, ~3 hs, sin depender de horarios de tour"
+  "notas": "Valle kárstico con puentes naturales. Circular, ~3 hs, sin depender de horarios de tour",
+  "lat": 45.786116,
+  "lng": 14.299133,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rakov Škocjan",
+  "locality": "Cerknica",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.742
  },
  {
   "id": "karst--veliki-naravni-most",
@@ -1637,7 +2373,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "En Rakov Škocjan"
+  "notas": "En Rakov Škocjan",
+  "lat": 45.795392,
+  "lng": 14.28826,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Veliki naravni most",
+  "locality": "Cerknica",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.735
  },
  {
   "id": "karst--mali-naravni-most",
@@ -1655,7 +2399,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "En Rakov Škocjan"
+  "notas": "En Rakov Škocjan",
+  "lat": 45.791628,
+  "lng": 14.30623,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Mali naravni most",
+  "locality": "Zelše",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.711
  },
  {
   "id": "soca--valle-soca",
@@ -1674,7 +2426,15 @@
   ],
   "tipo": "Valle",
   "descartado": false,
-  "notas": "1 hs 30' en auto desde Bled; hay que entrar y salir de Italia. En bus no se puede. Capital del hiking en Eslovenia"
+  "notas": "1 hs 30' en auto desde Bled; hay que entrar y salir de Italia. En bus no se puede. Capital del hiking en Eslovenia",
+  "lat": 46.32393,
+  "lng": 13.565052,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Soča",
+  "locality": "Bovec",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.748
  },
  {
   "id": "soca--bovec",
@@ -1690,7 +2450,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Base de actividades de naturaleza del valle"
+  "notas": "Base de actividades de naturaleza del valle",
+  "lat": 46.338585,
+  "lng": 13.552419,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bovec",
+  "locality": "Bovec",
+  "geo_reason": "nominatim_free",
+  "score": 0.887
  },
  {
   "id": "soca--kobarid",
@@ -1706,7 +2474,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Frente del Isonzo en la Primera Guerra: de lo más duro entre Italia y el Imperio austrohúngaro"
+  "notas": "Frente del Isonzo en la Primera Guerra: de lo más duro entre Italia y el Imperio austrohúngaro",
+  "lat": 46.245546,
+  "lng": 13.57917,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kobarid",
+  "locality": "Kobarid",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.912
  },
  {
   "id": "soca--tolmin",
@@ -1722,7 +2498,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.182921,
+  "lng": 13.733338,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tolmin",
+  "locality": "Tolmin",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.834
  },
  {
   "id": "soca--rio-soca",
@@ -1740,7 +2524,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Se hace rafting, pero en octubre va a hacer frío"
+  "notas": "Se hace rafting, pero en octubre va a hacer frío",
+  "lat": 46.32393,
+  "lng": 13.565052,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Soča",
+  "locality": "Bovec",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.748
  },
  {
   "id": "soca--slap-kozjak",
@@ -1758,7 +2550,15 @@
   ],
   "tipo": "Cascada",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.259103,
+  "lng": 13.590393,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Slap Kozjak",
+  "locality": "Kobarid",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.905
  },
  {
   "id": "soca--tolminska-korita",
@@ -1776,7 +2576,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 46.198201,
+  "lng": 13.740314,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tolminska korita",
+  "locality": "Zadlaz - Čadrg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.722
  },
  {
   "id": "soca--vrsic",
@@ -1794,7 +2602,15 @@
   ],
   "tipo": "Ruta",
   "descartado": false,
-  "notas": "Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla"
+  "notas": "Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla",
+  "lat": 46.434779,
+  "lng": 13.743712,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Prelaz Vršič",
+  "locality": "Bovec",
+  "geo_reason": "bajo_umbral",
+  "score": 0.684
  },
  {
   "id": "piran--piran",
@@ -1810,7 +2626,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": true,
-  "notas": "Katia: descartado — la costa adriática la vamos a tener en Italia y no es verano. 1 hs 30' desde Liubliana. El casco es sin autos: estacionar en Fornače/Arze"
+  "notas": "Katia: descartado — la costa adriática la vamos a tener en Italia y no es verano. 1 hs 30' desde Liubliana. El casco es sin autos: estacionar en Fornače/Arze",
+  "lat": 45.528492,
+  "lng": 13.568449,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piran / Pirano",
+  "locality": "Piran / Pirano",
+  "geo_reason": "nominatim_free",
+  "score": 0.94
  },
  {
   "id": "piran--tartinijev-trg",
@@ -1828,7 +2652,15 @@
   ],
   "tipo": "Plaza",
   "descartado": true,
-  "notas": "Katia: descartado — junto con todo Piran"
+  "notas": "Katia: descartado — junto con todo Piran",
+  "lat": 45.528534,
+  "lng": 13.568419,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tartinijev Trg - Piazza Giuseppe Tartini",
+  "locality": "Piran / Pirano",
+  "geo_reason": "nominatim_free",
+  "score": 0.923
  },
  {
   "id": "piran--murallas",
@@ -1847,7 +2679,11 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": true,
-  "notas": "Katia: descartado — junto con todo Piran. Verificar si están abiertas"
+  "notas": "Katia: descartado — junto con todo Piran. Verificar si están abiertas",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "piran--sv-jurij",
@@ -1866,7 +2702,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": true,
-  "notas": "Katia: descartado — junto con todo Piran. Es mirador, 20-40 min"
+  "notas": "Katia: descartado — junto con todo Piran. Es mirador, 20-40 min",
+  "lat": 45.52967,
+  "lng": 13.568329,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Sv. Jurij / San Giorgio",
+  "locality": "Piran / Pirano",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "piran--koper",
@@ -1882,7 +2726,15 @@
   "alias_es": [],
   "tipo": "Ciudad",
   "descartado": false,
-  "notas": "Noche del Día 4 y donde se devuelve el auto; al otro día bus a Trieste"
+  "notas": "Noche del Día 4 y donde se devuelve el auto; al otro día bus a Trieste",
+  "lat": 45.547986,
+  "lng": 13.730478,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Koper / Capodistria",
+  "locality": "Koper / Capodistria",
+  "geo_reason": "nominatim_sin_localidad",
+  "score": 0.867
  },
  {
   "id": "trieste--piazza-unita",
@@ -1898,7 +2750,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La plaza principal, abierta al mar. Recorrer también el waterfront"
+  "notas": "La plaza principal, abierta al mar. Recorrer también el waterfront",
+  "lat": 45.6501,
+  "lng": 13.767703,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Piazza Unità d'Italia",
+  "locality": "Trieste",
+  "geo_reason": "nominatim_free",
+  "score": 0.9
  },
  {
   "id": "trieste--miramare",
@@ -1916,7 +2776,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "El wow visual de Trieste, pero consume traslado. Solo si da el horario"
+  "notas": "El wow visual de Trieste, pero consume traslado. Solo si da el horario",
+  "lat": 45.702532,
+  "lng": 13.712456,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Castello di Miramare",
+  "locality": "Trieste",
+  "geo_reason": "nominatim_free",
+  "score": 0.871
  },
  {
   "id": "trieste--caffe-degli-specchi",
@@ -1932,7 +2800,15 @@
   "alias_es": [],
   "tipo": "Café",
   "descartado": false,
-  "notas": "Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana"
+  "notas": "Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana",
+  "lat": 45.650106,
+  "lng": 13.768416,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Caffè degli Specchi",
+  "locality": "Trieste",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.764
  },
  {
   "id": "trieste--antico-caffe-san-marco",
@@ -1948,7 +2824,15 @@
   "alias_es": [],
   "tipo": "Café",
   "descartado": false,
-  "notas": "Histórico y muy lindo, estilo Mitteleuropa"
+  "notas": "Histórico y muy lindo, estilo Mitteleuropa",
+  "lat": 45.652819,
+  "lng": 13.780278,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Caffè San Marco",
+  "locality": "Trieste",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.765
  },
  {
   "id": "berna--altstadt",
@@ -1968,7 +2852,15 @@
   ],
   "tipo": "Casco histórico",
   "descartado": false,
-  "notas": "Sobre una península rodeada por el Aare, con el trazado medieval intacto. Patrimonio UNESCO"
+  "notas": "Sobre una península rodeada por el Aare, con el trazado medieval intacto. Patrimonio UNESCO",
+  "lat": 46.948289,
+  "lng": 7.451273,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Altstadt",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "berna--aare",
@@ -1986,7 +2878,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Vale la pena recorrer sus senderos y bajar a la ribera si el tiempo acompaña"
+  "notas": "Vale la pena recorrer sus senderos y bajar a la ribera si el tiempo acompaña",
+  "lat": 46.94599,
+  "lng": 7.453311,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Aare",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.775
  },
  {
   "id": "berna--kramgasse",
@@ -2002,7 +2902,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle principal del casco histórico y probablemente la más linda de la ciudad"
+  "notas": "La calle principal del casco histórico y probablemente la más linda de la ciudad",
+  "lat": 46.947972,
+  "lng": 7.450213,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kramgasse",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.791
  },
  {
   "id": "berna--marktgasse",
@@ -2018,7 +2926,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Continuación de Kramgasse; eje comercial con tiendas, librerías y cafeterías"
+  "notas": "Continuación de Kramgasse; eje comercial con tiendas, librerías y cafeterías",
+  "lat": 46.947989,
+  "lng": 7.445398,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Marktgasse",
+  "locality": "Bern",
+  "geo_reason": "bajo_umbral",
+  "score": 0.683
  },
  {
   "id": "berna--spitalgasse",
@@ -2034,7 +2950,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Continuación del eje comercial de Kramgasse y Marktgasse"
+  "notas": "Continuación del eje comercial de Kramgasse y Marktgasse",
+  "lat": 46.947906,
+  "lng": 7.441651,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Spitalgasse",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.7
  },
  {
   "id": "berna--einstein-haus",
@@ -2052,7 +2976,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "El departamento donde vivió Einstein, ambientado como en la época"
+  "notas": "El departamento donde vivió Einstein, ambientado como en la época",
+  "lat": 46.947674,
+  "lng": 7.449971,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Einsteinhaus",
+  "locality": "Bern",
+  "geo_reason": "nominatim_free",
+  "score": 0.924
  },
  {
   "id": "berna--zytglogge",
@@ -2070,7 +3002,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "El símbolo de Berna. Cada hora en punto hay un espectáculo mecánico; llegar unos minutos antes. La visita al mecanismo es paga y requiere reserva"
+  "notas": "El símbolo de Berna. Cada hora en punto hay un espectáculo mecánico; llegar unos minutos antes. La visita al mecanismo es paga y requiere reserva",
+  "lat": 46.947947,
+  "lng": 7.447795,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Zytglogge",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "berna--berner-munster",
@@ -2088,7 +3028,15 @@
   ],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": "La iglesia más importante de Suiza. Entrada gratis; subir a la torre CHF 7-10, con las mejores vistas de la ciudad y el Aare"
+  "notas": "La iglesia más importante de Suiza. Entrada gratis; subir a la torre CHF 7-10, con las mejores vistas de la ciudad y el Aare",
+  "lat": 46.947238,
+  "lng": 7.451579,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Münster",
+  "locality": "Bern",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "berna--munsterplattform",
@@ -2106,7 +3054,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Terraza arbolada detrás de la catedral, con vistas al Aare y las montañas. Muy frecuentada por estudiantes y vecinos"
+  "notas": "Terraza arbolada detrás de la catedral, con vistas al Aare y las montañas. Muy frecuentada por estudiantes y vecinos",
+  "lat": 46.946821,
+  "lng": 7.451824,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Münsterplattform",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.758
  },
  {
   "id": "berna--bundeshaus",
@@ -2124,7 +3080,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "El Parlamento suizo. Visitas guiadas gratuitas, conviene reservar con anticipación"
+  "notas": "El Parlamento suizo. Visitas guiadas gratuitas, conviene reservar con anticipación",
+  "lat": 46.946488,
+  "lng": 7.444332,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bundeshaus – Parlamentsgebäude",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.781
  },
  {
   "id": "berna--bundesplatz",
@@ -2140,7 +3104,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La plaza del Parlamento"
+  "notas": "La plaza del Parlamento",
+  "lat": 46.947009,
+  "lng": 7.444161,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bundesplatz",
+  "locality": "Bern",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "berna--zahringerbrunnen",
@@ -2156,7 +3128,15 @@
   "alias_es": [],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Una de las más de cien fuentes renacentistas del casco antiguo"
+  "notas": "Una de las más de cien fuentes renacentistas del casco antiguo",
+  "lat": 46.947958,
+  "lng": 7.449185,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Zähringerbrunnen",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.79
  },
  {
   "id": "berna--simsonbrunnen",
@@ -2174,7 +3154,15 @@
   ],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Fuente renacentista del casco antiguo"
+  "notas": "Fuente renacentista del casco antiguo",
+  "lat": 46.947971,
+  "lng": 7.450431,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Simsonbrunnen",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.789
  },
  {
   "id": "berna--kindlifresserbrunnen",
@@ -2190,7 +3178,15 @@
   "alias_es": [],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "La fuente del ogro comeniños, la más famosa de Berna"
+  "notas": "La fuente del ogro comeniños, la más famosa de Berna",
+  "lat": 46.948463,
+  "lng": 7.447505,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kindlifresserbrunnen",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.792
  },
  {
   "id": "berna--historisches-museum",
@@ -2209,7 +3205,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "El Museo Einstein está adentro"
+  "notas": "El Museo Einstein está adentro",
+  "lat": 46.942968,
+  "lng": 7.44887,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bernisches Historisches Museum",
+  "locality": "Bern",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "berna--nydeggbrucke",
@@ -2227,7 +3231,15 @@
   ],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Conecta el casco antiguo con el BärenPark. Muy buenas vistas del Aare"
+  "notas": "Conecta el casco antiguo con el BärenPark. Muy buenas vistas del Aare",
+  "lat": 46.948473,
+  "lng": 7.458485,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Nydeggbrücke",
+  "locality": "Bern",
+  "geo_reason": "nominatim_free",
+  "score": 0.912
  },
  {
   "id": "berna--barenpark",
@@ -2245,7 +3257,15 @@
   ],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Osos en un recinto junto al río. El oso es el símbolo histórico de Berna"
+  "notas": "Osos en un recinto junto al río. El oso es el símbolo histórico de Berna",
+  "lat": 46.947682,
+  "lng": 7.459185,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bärenpark",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.743
  },
  {
   "id": "berna--rosengarten",
@@ -2261,7 +3281,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Antiguo cementerio, hoy parque de rosas con vista panorámica espectacular del casco histórico"
+  "notas": "Antiguo cementerio, hoy parque de rosas con vista panorámica espectacular del casco histórico",
+  "lat": 46.951968,
+  "lng": 7.460298,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rosengarten",
+  "locality": "Bern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.75
  },
  {
   "id": "kandersteg--kandersteg",
@@ -2277,7 +3305,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "1 hs 30' desde Interlaken"
+  "notas": "1 hs 30' desde Interlaken",
+  "lat": 46.497587,
+  "lng": 7.675664,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kandersteg",
+  "locality": "Kandersteg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.713
  },
  {
   "id": "kandersteg--oeschinensee",
@@ -2293,7 +3329,15 @@
   "alias_es": [],
   "tipo": "Lago",
   "descartado": false,
-  "notas": "Teleférico + 30' caminando. Ida y vuelta CHF 36-40. Se puede subir a pie (1h30) pero el sendero no es lindo. Arriba vale mucho la pena caminar por la orilla"
+  "notas": "Teleférico + 30' caminando. Ida y vuelta CHF 36-40. Se puede subir a pie (1h30) pero el sendero no es lindo. Arriba vale mucho la pena caminar por la orilla",
+  "lat": 46.498495,
+  "lng": 7.726843,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Oeschinensee",
+  "locality": "Kandersteg",
+  "geo_reason": "nominatim_free",
+  "score": 0.896
  },
  {
   "id": "kandersteg--blausee",
@@ -2309,7 +3353,15 @@
   "alias_es": [],
   "tipo": "Lago",
   "descartado": false,
-  "notas": "Caminata por el lago. Se hace junto con Oeschinensee en un día"
+  "notas": "Caminata por el lago. Se hace junto con Oeschinensee en un día",
+  "lat": 46.532422,
+  "lng": 7.664852,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Blausee",
+  "locality": "Kandergrund",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.886
  },
  {
   "id": "york--stonegate",
@@ -2325,7 +3377,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Calles medievales y comercios históricos"
+  "notas": "Calles medievales y comercios históricos",
+  "lat": 53.960911,
+  "lng": -1.083375,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stonegate",
+  "locality": "York",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.788
  },
  {
   "id": "york--bootham-bar",
@@ -2341,7 +3401,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Una de las puertas por donde subir a caminar las murallas"
+  "notas": "Una de las puertas por donde subir a caminar las murallas",
+  "lat": 53.962719,
+  "lng": -1.08505,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bootham Bar",
+  "locality": "York",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.764
  },
  {
   "id": "edimburgo--st-giles",
@@ -2357,7 +3425,15 @@
   "alias_es": [],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": "Es gratis"
+  "notas": "Es gratis",
+  "lat": 55.949479,
+  "lng": -3.190852,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "St Giles' Cathedral",
+  "locality": "City of Edinburgh",
+  "geo_reason": "nominatim_free",
+  "score": 0.93
  },
  {
   "id": "edimburgo--royal-mile",
@@ -2375,7 +3451,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Eje histórico de la ciudad. Evitar comer acá (trampas para turistas); sirve más para pubs históricos"
+  "notas": "Eje histórico de la ciudad. Evitar comer acá (trampas para turistas); sirve más para pubs históricos",
+  "lat": 55.95042,
+  "lng": -3.1857,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "High Street",
+  "locality": "City of Edinburgh",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.799
  },
  {
   "id": "edimburgo--the-vennel",
@@ -2391,7 +3475,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Callejón con escalinata y una de las mejores vistas del castillo. Buen punto para el cañón de las 13h: estar ahí 12:45"
+  "notas": "Callejón con escalinata y una de las mejores vistas del castillo. Buen punto para el cañón de las 13h: estar ahí 12:45",
+  "lat": 55.941928,
+  "lng": -3.149322,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "The Vennel",
+  "locality": "City of Edinburgh",
+  "geo_reason": "bajo_umbral",
+  "score": 0.662
  },
  {
   "id": "edimburgo--cowgate",
@@ -2407,7 +3499,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Zona universitaria; pubs junto con Grassmarket"
+  "notas": "Zona universitaria; pubs junto con Grassmarket",
+  "lat": 55.948656,
+  "lng": -3.187621,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cowgate",
+  "locality": "City of Edinburgh",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.772
  },
  {
   "id": "edimburgo--water-of-leith",
@@ -2425,7 +3525,15 @@
   ],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Sendero peatonal junto al río, muy lindo"
+  "notas": "Sendero peatonal junto al río, muy lindo",
+  "lat": 55.958086,
+  "lng": -3.208877,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Water of Leith Walkway",
+  "locality": "City of Edinburgh",
+  "geo_reason": "bajo_umbral",
+  "score": 0.761
  },
  {
   "id": "edimburgo--spoon-cafe",
@@ -2444,7 +3552,11 @@
   ],
   "tipo": "Café",
   "descartado": false,
-  "notas": "Otra cafetería donde escribía J.K. Rowling"
+  "notas": "Otra cafetería donde escribía J.K. Rowling",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "edimburgo--royal-yacht-britannia",
@@ -2460,7 +3572,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado — 'otros que creo que no nos interesan'"
+  "notas": "Katia: descartado — 'otros que creo que no nos interesan'",
+  "lat": 55.982146,
+  "lng": -3.177309,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "HMY Britannia",
+  "locality": "City of Edinburgh",
+  "geo_reason": "nominatim_free",
+  "score": 0.827
  },
  {
   "id": "edimburgo--oink",
@@ -2476,7 +3596,15 @@
   "alias_es": [],
   "tipo": "Tienda",
   "descartado": false,
-  "notas": "Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)"
+  "notas": "Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)",
+  "lat": 55.95299,
+  "lng": -3.19736,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Oink",
+  "locality": "City of Edinburgh",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.764
  },
  {
   "id": "londres--leicester-square",
@@ -2492,7 +3620,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Plaza llena de referencias de cines y teatros. Katia: prescindible salvo que pasemos"
+  "notas": "Plaza llena de referencias de cines y teatros. Katia: prescindible salvo que pasemos",
+  "lat": 51.510595,
+  "lng": -0.130767,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Leicester Square",
+  "locality": "City of Westminster",
+  "geo_reason": "nominatim_free",
+  "score": 0.918
  },
  {
   "id": "londres--millennium-bridge",
@@ -2508,7 +3644,15 @@
   "alias_es": [],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Puente peatonal. Para pasar / ver por afuera"
+  "notas": "Puente peatonal. Para pasar / ver por afuera",
+  "lat": 51.509888,
+  "lng": -0.098508,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Millennium Bridge",
+  "locality": "City of London",
+  "geo_reason": "nominatim_free",
+  "score": 0.925
  },
  {
   "id": "londres--london-bridge",
@@ -2524,7 +3668,15 @@
   "alias_es": [],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Para pasar / ver por afuera"
+  "notas": "Para pasar / ver por afuera",
+  "lat": 51.508049,
+  "lng": -0.087671,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "London Bridge",
+  "locality": "Greater London",
+  "geo_reason": "nominatim_free",
+  "score": 0.925
  },
  {
   "id": "londres--waterloo-bridge",
@@ -2540,7 +3692,15 @@
   "alias_es": [],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Abajo está el South Bank Book Market"
+  "notas": "Abajo está el South Bank Book Market",
+  "lat": 51.508265,
+  "lng": -0.116595,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Waterloo Bridge",
+  "locality": "Greater London",
+  "geo_reason": "nominatim_free",
+  "score": 0.914
  },
  {
   "id": "londres--brockwell-park",
@@ -2556,7 +3716,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Katia: de los parques más locales"
+  "notas": "Katia: de los parques más locales",
+  "lat": 51.45053,
+  "lng": -0.106093,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Brockwell Park",
+  "locality": "Greater London",
+  "geo_reason": "nominatim_free",
+  "score": 0.894
  },
  {
   "id": "londres--great-scotland-yard",
@@ -2574,7 +3742,15 @@
   ],
   "tipo": "Harry Potter",
   "descartado": false,
-  "notas": "La entrada al Ministerio de Magia en las películas"
+  "notas": "La entrada al Ministerio de Magia en las películas",
+  "lat": 51.506379,
+  "lng": -0.126358,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Great Scotland Yard Hotel",
+  "locality": "City of Westminster",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.742
  },
  {
   "id": "londres--prime-meridian",
@@ -2592,7 +3768,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En Greenwich Park, junto al observatorio"
+  "notas": "En Greenwich Park, junto al observatorio",
+  "lat": 51.477943,
+  "lng": -0.001475,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Greenwich Meridian",
+  "locality": "Greater London",
+  "geo_reason": "bajo_umbral",
+  "score": 0.545
  },
  {
   "id": "paris--grande-galerie-evolution",
@@ -2610,7 +3794,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "~15 €. Katia: al pedo si ya fuimos al de Londres"
+  "notas": "~15 €. Katia: al pedo si ya fuimos al de Londres",
+  "lat": 48.842106,
+  "lng": 2.356244,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Grande Galerie de l'Évolution",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.914
  },
  {
   "id": "paris--arts-et-metiers",
@@ -2626,7 +3818,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado (meh). Ciencia e inventos, revolución industrial; está dentro de una iglesia"
+  "notas": "Katia: descartado (meh). Ciencia e inventos, revolución industrial; está dentro de una iglesia",
+  "lat": 48.866098,
+  "lng": 2.355414,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Musée des Arts et Métiers",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.93
  },
  {
   "id": "paris--musee-rodin",
@@ -2642,7 +3842,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado (no iría). ~15 €; muy buenos jardines"
+  "notas": "Katia: descartado (no iría). ~15 €; muy buenos jardines",
+  "lat": 48.854747,
+  "lng": 2.315867,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Musée Rodin",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.923
  },
  {
   "id": "paris--place-des-vosges",
@@ -2658,7 +3866,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "En Le Marais. Silenciosa, residencial, muy parisina"
+  "notas": "En Le Marais. Silenciosa, residencial, muy parisina",
+  "lat": 48.856178,
+  "lng": 2.365765,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place des Vosges",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.815
  },
  {
   "id": "paris--tuileries",
@@ -2674,7 +3890,15 @@
   "alias_es": [],
   "tipo": "Jardín",
   "descartado": false,
-  "notas": "El de las sillas verdes y la fuente. Más gente, ambiente menos relajado"
+  "notas": "El de las sillas verdes y la fuente. Más gente, ambiente menos relajado",
+  "lat": 48.863566,
+  "lng": 2.326955,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Jardin des Tuileries",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "paris--jardin-des-plantes",
@@ -2690,7 +3914,15 @@
   "alias_es": [],
   "tipo": "Jardín",
   "descartado": false,
-  "notas": "Jardín botánico principal. Más tranquilo y relajado"
+  "notas": "Jardín botánico principal. Más tranquilo y relajado",
+  "lat": 48.844036,
+  "lng": 2.359732,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Jardin des Plantes",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "paris--buttes-chaumont",
@@ -2706,7 +3938,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Parque grande, más salvaje, con colinas y lago. Muy residencial"
+  "notas": "Parque grande, más salvaje, con colinas y lago. Muy residencial",
+  "lat": 48.879555,
+  "lng": 2.382098,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Parc des Buttes-Chaumont",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.917
  },
  {
   "id": "paris--saint-eustache",
@@ -2722,7 +3962,15 @@
   "alias_es": [],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Katia: yo iría, y un domingo. Los domingos 17h hay recital de órgano. Entrada gratis"
+  "notas": "Katia: yo iría, y un domingo. Los domingos 17h hay recital de órgano. Entrada gratis",
+  "lat": 48.8634,
+  "lng": 2.345128,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église Saint-Eustache",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.932
  },
  {
   "id": "paris--saint-sulpice",
@@ -2740,7 +3988,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Estilo más francés y menos medieval. Gratis"
+  "notas": "Estilo más francés y menos medieval. Gratis",
+  "lat": 48.850987,
+  "lng": 2.33487,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église Saint-Sulpice",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.93
  },
  {
   "id": "paris--versalles",
@@ -2758,7 +4014,15 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "Jardines + Hall of Mirrors + Domaine de Marie-Antoinette, ~35 €. Ir al primer horario (9h) y evitar los martes. Alan hizo 1 hs de fila con entrada comprada"
+  "notas": "Jardines + Hall of Mirrors + Domaine de Marie-Antoinette, ~35 €. Ir al primer horario (9h) y evitar los martes. Alan hizo 1 hs de fila con entrada comprada",
+  "lat": 48.804425,
+  "lng": 2.120285,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Château de Versailles",
+  "locality": "Versailles",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.708
  },
  {
   "id": "paris--fontainebleau",
@@ -2776,7 +4040,11 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "17 €. Más auténtico y tranquilo que Versalles, menos icónico. En vez de jardines tiene bosques"
+  "notas": "17 €. Más auténtico y tranquilo que Versalles, menos icónico. En vez de jardines tiene bosques",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "paris--chantilly",
@@ -2792,7 +4060,11 @@
   "alias_es": [],
   "tipo": "Palacio",
   "descartado": true,
-  "notas": "Katia: descartado (no iría). 20 € con jardines y museo. Alan fue y dice muy lindo"
+  "notas": "Katia: descartado (no iría). 20 € con jardines y museo. Alan fue y dice muy lindo",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "paris--shakespeare-and-company",
@@ -2808,7 +4080,15 @@
   "alias_es": [],
   "tipo": "Tienda",
   "descartado": false,
-  "notas": "Librería del Barrio Latino"
+  "notas": "Librería del Barrio Latino",
+  "lat": 48.852575,
+  "lng": 2.347112,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Shakespeare and Company",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.792
  },
  {
   "id": "paris--villa-leandre",
@@ -2824,7 +4104,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Callecita de Montmartre, fuera del circuito de la plaza principal"
+  "notas": "Callecita de Montmartre, fuera del circuito de la plaza principal",
+  "lat": 48.888399,
+  "lng": 2.335068,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Villa Léandre",
+  "locality": "Paris",
+  "geo_reason": "bajo_umbral",
+  "score": 0.666
  },
  {
   "id": "paris--les-halles",
@@ -2840,7 +4128,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Zona comercial y central. Históricamente el gran mercado de París. El barrio no es especialmente lindo"
+  "notas": "Zona comercial y central. Históricamente el gran mercado de París. El barrio no es especialmente lindo",
+  "lat": 48.8627,
+  "lng": 2.346214,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Les Halles",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.774
  },
  {
   "id": "paris--rue-montorgueil",
@@ -2856,7 +4152,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Top de calles para brunch y boulangeries"
+  "notas": "Top de calles para brunch y boulangeries",
+  "lat": 48.863861,
+  "lng": 2.346483,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue Montorgueil",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.767
  },
  {
   "id": "paris--batignolles",
@@ -2872,7 +4176,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Barrio más residencial"
+  "notas": "Barrio más residencial",
+  "lat": 48.886355,
+  "lng": 2.321457,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Quartier des Batignolles",
+  "locality": "Paris",
+  "geo_reason": "bajo_umbral",
+  "score": 0.668
  },
  {
   "id": "paris--la-defense",
@@ -2888,7 +4200,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Distrito financiero. Katia: no prioritario"
+  "notas": "Distrito financiero. Katia: no prioritario",
+  "lat": 48.891008,
+  "lng": 2.241208,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "La Défense",
+  "locality": "Courbevoie",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.888
  },
  {
   "id": "paris--moulin-rouge",
@@ -2904,7 +4224,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En Pigalle norte, la zona más turística y de barrio rojo"
+  "notas": "En Pigalle norte, la zona más turística y de barrio rojo",
+  "lat": 48.884109,
+  "lng": 2.332356,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Moulin Rouge",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.787
  },
  {
   "id": "paris--canal-de-lourcq",
@@ -2920,7 +4248,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Mismo plan que el Saint-Martin pero más local. Mejor para picnic de día que para la noche"
+  "notas": "Mismo plan que el Saint-Martin pero más local. Mejor para picnic de día que para la noche",
+  "lat": 48.889736,
+  "lng": 2.383347,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Canal de l'Ourcq",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.743
  },
  {
   "id": "paris--champs-elysees",
@@ -2938,7 +4274,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Zona de lujo y marcas. Caminarla desde el Arco del Triunfo hacia Concorde"
+  "notas": "Zona de lujo y marcas. Caminarla desde el Arco del Triunfo hacia Concorde",
+  "lat": 48.867027,
+  "lng": 2.316247,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Avenue des Champs-Élysées",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.794
  },
  {
   "id": "paris--pont-alexandre-iii",
@@ -2954,7 +4298,15 @@
   "alias_es": [],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Muy lindo para el atardecer"
+  "notas": "Muy lindo para el atardecer",
+  "lat": 48.86347,
+  "lng": 2.313518,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Pont Alexandre III",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "paris--passerelle-debilly",
@@ -2970,7 +4322,15 @@
   "alias_es": [],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Muy buenas vistas de la Torre"
+  "notas": "Muy buenas vistas de la Torre",
+  "lat": 48.862561,
+  "lng": 2.29693,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Passerelle Debilly",
+  "locality": "Paris",
+  "geo_reason": "bajo_umbral",
+  "score": 0.687
  },
  {
   "id": "paris--rue-de-luniversite",
@@ -2986,7 +4346,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle famosa para fotos con la Torre Eiffel"
+  "notas": "La calle famosa para fotos con la Torre Eiffel",
+  "lat": 48.859716,
+  "lng": 2.296294,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue de l'Université",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.717
  },
  {
   "id": "paris--passage-des-panoramas",
@@ -3002,7 +4370,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Galerías muy lindas para caminar"
+  "notas": "Galerías muy lindas para caminar",
+  "lat": 48.870997,
+  "lng": 2.341671,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Passage des Panoramas",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.772
  },
  {
   "id": "paris--marche-enfants-rouges",
@@ -3018,7 +4394,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "El mercado más antiguo. Puestos chicos de comida, sirve para almorzar"
+  "notas": "El mercado más antiguo. Puestos chicos de comida, sirve para almorzar",
+  "lat": 48.862795,
+  "lng": 2.361973,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Marché couvert des Enfants Rouges",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.91
  },
  {
   "id": "paris--marche-daligre",
@@ -3034,7 +4418,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Menos turístico"
+  "notas": "Menos turístico",
+  "lat": 48.848875,
+  "lng": 2.378046,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Marché d'Aligre",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.902
  },
  {
   "id": "paris--marche-saint-quentin",
@@ -3052,7 +4444,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Menos turístico"
+  "notas": "Menos turístico",
+  "lat": 48.877356,
+  "lng": 2.354505,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Marché Saint-Quentin",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.821
  },
  {
   "id": "paris--trocadero",
@@ -3070,7 +4470,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Katia: ir sí o sí. Probablemente la mejor vista de la Torre; temprano a la mañana o de noche"
+  "notas": "Katia: ir sí o sí. Probablemente la mejor vista de la Torre; temprano a la mañana o de noche",
+  "lat": 48.86284,
+  "lng": 2.287142,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place du Trocadéro et du 11 Novembre",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.747
  },
  {
   "id": "paris--institut-du-monde-arabe",
@@ -3086,7 +4494,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "La terraza es gratis y muy linda para tomar algo"
+  "notas": "La terraza es gratis y muy linda para tomar algo",
+  "lat": 48.848916,
+  "lng": 2.357147,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Institut du Monde arabe",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.865
  },
  {
   "id": "paris--galeries-lafayette",
@@ -3102,7 +4518,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Terraza panorámica con vista a la Torre. El mejor rooftop gratis de París según GPT"
+  "notas": "Terraza panorámica con vista a la Torre. El mejor rooftop gratis de París según GPT",
+  "lat": 48.873646,
+  "lng": 2.332127,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Galeries Lafayette",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.761
  },
  {
   "id": "paris--philharmonie",
@@ -3118,7 +4542,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Rooftop gratuito moderno"
+  "notas": "Rooftop gratuito moderno",
+  "lat": 48.891921,
+  "lng": 2.394139,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Philharmonie de Paris",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.717
  },
  {
   "id": "paris--hotel-de-ville",
@@ -3136,7 +4568,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Muy lindo para pasar caminando de noche"
+  "notas": "Muy lindo para pasar caminando de noche",
+  "lat": 48.856426,
+  "lng": 2.352528,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Hôtel de Ville",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.808
  },
  {
   "id": "paris--tour-saint-jacques",
@@ -3154,7 +4594,15 @@
   ],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Junto al Hôtel de Ville"
+  "notas": "Junto al Hôtel de Ville",
+  "lat": 48.858003,
+  "lng": 2.348922,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tour Saint-Jacques",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.801
  },
  {
   "id": "paris--galerie-vivienne",
@@ -3172,7 +4620,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Muy linda, cerca del Palais Royal"
+  "notas": "Muy linda, cerca del Palais Royal",
+  "lat": 48.866728,
+  "lng": 2.339757,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Galerie Vivienne",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.792
  },
  {
   "id": "paris--bnf-richelieu",
@@ -3190,7 +4646,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La sede más linda y antigua. Gratis"
+  "notas": "La sede más linda y antigua. Gratis",
+  "lat": 48.867282,
+  "lng": 2.338164,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bibliothèque nationale de France, Richelieu",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.778
  },
  {
   "id": "paris--bibliotheque-mazarine",
@@ -3206,7 +4670,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Mucho más pequeña y antigua. Gratis"
+  "notas": "Mucho más pequeña y antigua. Gratis",
+  "lat": 48.857271,
+  "lng": 2.337359,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bibliothèque Mazarine",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.794
  },
  {
   "id": "paris--palais-garnier",
@@ -3222,7 +4694,15 @@
   "alias_es": [],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "La ópera. Entrada libre ~15 €; hay obras desde 15 € aunque las buenas son caras"
+  "notas": "La ópera. Entrada libre ~15 €; hay obras desde 15 € aunque las buenas son caras",
+  "lat": 48.871433,
+  "lng": 2.331965,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palais Garnier",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.716
  },
  {
   "id": "paris--place-de-la-concorde",
@@ -3238,7 +4718,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Plaza monumental, muy importante en la Revolución Francesa. Más para paseo que para chill"
+  "notas": "Plaza monumental, muy importante en la Revolución Francesa. Más para paseo que para chill",
+  "lat": 48.865572,
+  "lng": 2.321225,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place de la Concorde",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "paris--place-vendome",
@@ -3254,7 +4742,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Plaza de lujo, la del Ritz. Katia: no prioritario"
+  "notas": "Plaza de lujo, la del Ritz. Katia: no prioritario",
+  "lat": 48.867463,
+  "lng": 2.329428,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place Vendôme",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "paris--grand-palais",
@@ -3270,7 +4766,15 @@
   "alias_es": [],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Espacio de exposiciones y ferias; el precio depende de la muestra. Katia: pasar por afuera"
+  "notas": "Espacio de exposiciones y ferias; el precio depende de la muestra. Katia: pasar por afuera",
+  "lat": 48.866161,
+  "lng": 2.312223,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Grand Palais",
+  "locality": "Paris",
+  "geo_reason": "nominatim_free",
+  "score": 0.923
  },
  {
   "id": "paris--les-invalides",
@@ -3288,7 +4792,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Tumba de Napoleón. ~17 €; la iglesia y los jardines son gratis"
+  "notas": "Tumba de Napoleón. ~17 €; la iglesia y los jardines son gratis",
+  "lat": 48.855954,
+  "lng": 2.313343,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Hôtel des Invalides",
+  "locality": "Paris",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.752
  },
  {
   "id": "amsterdam--oosterpark",
@@ -3304,7 +4816,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Del otro lado de la ciudad, mucho menos turístico. No es prioritario, pero si paseamos pasamos"
+  "notas": "Del otro lado de la ciudad, mucho menos turístico. No es prioritario, pero si paseamos pasamos",
+  "lat": 52.360206,
+  "lng": 4.920543,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Oosterpark",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "amsterdam--negen-straatjes",
@@ -3322,7 +4842,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Micro barrio entre canales: boutiques, cafés, librerías, diseño y vintage"
+  "notas": "Micro barrio entre canales: boutiques, cafés, librerías, diseño y vintage",
+  "lat": 52.368851,
+  "lng": 4.884994,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "De 9 Straatjes",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.709
  },
  {
   "id": "amsterdam--singel",
@@ -3338,7 +4866,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "El canal más antiguo. Conectado con el centro histórico y el Bloemenmarkt"
+  "notas": "El canal más antiguo. Conectado con el centro histórico y el Bloemenmarkt",
+  "lat": 52.367047,
+  "lng": 4.893523,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Singel",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.786
  },
  {
   "id": "amsterdam--herengracht",
@@ -3354,7 +4890,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "El canal más elegante y señorial. Casas impresionantes"
+  "notas": "El canal más elegante y señorial. Casas impresionantes",
+  "lat": 52.365564,
+  "lng": 4.89039,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Herengracht",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.795
  },
  {
   "id": "amsterdam--keizersgracht",
@@ -3370,7 +4914,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Muy lindo para caminar un tramo largo. Menos caótico"
+  "notas": "Muy lindo para caminar un tramo largo. Menos caótico",
+  "lat": 52.365885,
+  "lng": 4.886579,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Keizersgracht",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.794
  },
  {
   "id": "amsterdam--prinsengracht",
@@ -3386,7 +4938,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "El canal más famoso y vivo. Cruza muchísimos puntos importantes"
+  "notas": "El canal más famoso y vivo. Cruza muchísimos puntos importantes",
+  "lat": 52.362403,
+  "lng": 4.900552,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Prinsengracht",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.738
  },
  {
   "id": "amsterdam--damrak",
@@ -3404,7 +4964,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Conecta la estación central con Dam Square. Ahí están las típicas casas inclinadas"
+  "notas": "Conecta la estación central con Dam Square. Ahí están las típicas casas inclinadas",
+  "lat": 52.37611,
+  "lng": 4.898054,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Damrak",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.792
  },
  {
   "id": "amsterdam--beurspassage",
@@ -3422,7 +4990,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Pasaje con techo y paredes de estética marítima. Curiosidad visual corta, se pasa rápido"
+  "notas": "Pasaje con techo y paredes de estética marítima. Curiosidad visual corta, se pasa rápido",
+  "lat": 52.37475,
+  "lng": 4.894481,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Beurspassage",
+  "locality": "Amsterdam",
+  "geo_reason": "bajo_umbral",
+  "score": 0.677
  },
  {
   "id": "amsterdam--waterlooplein",
@@ -3440,7 +5016,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "El mercado de pulgas y vintage más clásico del centro. Opcional si ya vamos al IJ-Hallen"
+  "notas": "El mercado de pulgas y vintage más clásico del centro. Opcional si ya vamos al IJ-Hallen",
+  "lat": 52.368622,
+  "lng": 4.901193,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Waterloopleinmarkt",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.899
  },
  {
   "id": "amsterdam--foodhallen",
@@ -3456,7 +5040,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Food hall moderno indoor. Más urbano moderno que experiencia neerlandesa"
+  "notas": "Food hall moderno indoor. Más urbano moderno que experiencia neerlandesa",
+  "lat": 52.366948,
+  "lng": 4.8682,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Foodhallen",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.819
  },
  {
   "id": "amsterdam--zevenlandenhuizen",
@@ -3474,7 +5066,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Siete casas con estilos de distintos países europeos. Curiosidad arquitectónica, zona Museumplein/Vondelpark"
+  "notas": "Siete casas con estilos de distintos países europeos. Curiosidad arquitectónica, zona Museumplein/Vondelpark",
+  "lat": 52.361637,
+  "lng": 4.877296,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Zevenlandenhuizen",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.756
  },
  {
   "id": "amsterdam--de-gooyer",
@@ -3493,7 +5093,11 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Molino enorme en el este; al lado está Brouwerij 't IJ. Muy buen plan de tarde relajada con buen clima"
+  "notas": "Molino enorme en el este; al lado está Brouwerij 't IJ. Muy buen plan de tarde relajada con buen clima",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "amsterdam--dam-square",
@@ -3512,7 +5116,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Centro simbólico de Ámsterdam. Más útil como punto de paso; lo interesante es meterse por las callejuelas"
+  "notas": "Centro simbólico de Ámsterdam. Más útil como punto de paso; lo interesante es meterse por las callejuelas",
+  "lat": 52.373116,
+  "lng": 4.892351,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Dam",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.928
  },
  {
   "id": "amsterdam--oude-kerk",
@@ -3530,7 +5142,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "El edificio más antiguo de Ámsterdam. Se llega caminando desde Dam Square y se puede visitar"
+  "notas": "El edificio más antiguo de Ámsterdam. Se llega caminando desde Dam Square y se puede visitar",
+  "lat": 52.374362,
+  "lng": 4.898073,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Oude Kerk",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.773
  },
  {
   "id": "amsterdam--nieuwe-kerk",
@@ -3546,7 +5166,15 @@
   "alias_es": [],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "En Dam Square"
+  "notas": "En Dam Square",
+  "lat": 52.373923,
+  "lng": 4.891692,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Nieuwe Kerk",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.772
  },
  {
   "id": "amsterdam--koninklijk-paleis",
@@ -3564,7 +5192,15 @@
   ],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "En Dam Square"
+  "notas": "En Dam Square",
+  "lat": 52.373145,
+  "lng": 4.891336,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Koninklijk Paleis",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "amsterdam--leidseplein",
@@ -3580,7 +5216,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La zona más de boliches, fiestas y jóvenes"
+  "notas": "La zona más de boliches, fiestas y jóvenes",
+  "lat": 52.363958,
+  "lng": 4.882758,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Leidseplein",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "amsterdam--museumplein",
@@ -3596,7 +5240,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La explanada de los museos"
+  "notas": "La explanada de los museos",
+  "lat": 52.358712,
+  "lng": 4.883441,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Museumplein",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.903
  },
  {
   "id": "amsterdam--centrum",
@@ -3615,7 +5267,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 52.336726,
+  "lng": 4.940597,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Amsterdam-Centrum",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.719
  },
  {
   "id": "amsterdam--noord",
@@ -3631,7 +5291,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Del otro lado del IJ; se cruza en ferry"
+  "notas": "Del otro lado del IJ; se cruza en ferry",
+  "lat": 52.409756,
+  "lng": 4.931946,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Amsterdam-Noord",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.713
  },
  {
   "id": "amsterdam--plantage",
@@ -3647,7 +5315,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Más residencial"
+  "notas": "Más residencial",
+  "lat": 52.365705,
+  "lng": 4.913661,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Plantage",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.928
  },
  {
   "id": "amsterdam--houseboat-museum",
@@ -3665,7 +5341,15 @@
   ],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado"
+  "notas": "Katia: descartado",
+  "lat": 52.370153,
+  "lng": 4.882602,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Houseboat Museum",
+  "locality": "Amsterdam",
+  "geo_reason": "nominatim_free",
+  "score": 0.899
  },
  {
   "id": "interlaken--thun",
@@ -3681,7 +5365,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Ciudad medieval fortificada a orillas del Aare. La mejor forma de llegar es en barco desde el muelle de Interlaken West"
+  "notas": "Ciudad medieval fortificada a orillas del Aare. La mejor forma de llegar es en barco desde el muelle de Interlaken West",
+  "lat": 46.758283,
+  "lng": 7.628086,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Thun",
+  "locality": "Thun",
+  "geo_reason": "bajo_umbral",
+  "score": 0.604
  },
  {
   "id": "grindelwald--dorfstrasse",
@@ -3697,7 +5389,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle principal del pueblo"
+  "notas": "La calle principal del pueblo",
+  "lat": 46.624689,
+  "lng": 8.044968,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Dorfstrasse",
+  "locality": "Grindelwald",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.74
  },
  {
   "id": "grindelwald--iglesia",
@@ -3715,7 +5415,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Vista al Eiger"
+  "notas": "Vista al Eiger",
+  "lat": 46.625107,
+  "lng": 8.046196,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kirche",
+  "locality": "Grindelwald",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.744
  },
  {
   "id": "grindelwald--schwarze-lutschine",
@@ -3733,7 +5441,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Caminar alrededor"
+  "notas": "Caminar alrededor",
+  "lat": 46.632128,
+  "lng": 7.998837,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Schwarze Lütschine",
+  "locality": "Grindelwald",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.754
  },
  {
   "id": "grindelwald--panorama-trail",
@@ -3752,7 +5468,11 @@
   ],
   "tipo": "Trekking",
   "descartado": false,
-  "notas": "Muy fácil, 1,5 hs. Telecabina ~22 CHF. Termina muy cerca del inicio del Eiger Trail"
+  "notas": "Muy fácil, 1,5 hs. Telecabina ~22 CHF. Termina muy cerca del inicio del Eiger Trail",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "grindelwald--royal-walk",
@@ -3771,7 +5491,11 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Subida de ~20' desde Männlichen, antes del Panorama Trail. Mejores vistas"
+  "notas": "Subida de ~20' desde Männlichen, antes del Panorama Trail. Mejores vistas",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "grindelwald--alpiglen",
@@ -3787,7 +5511,15 @@
   "alias_es": [],
   "tipo": "Trekking",
   "descartado": false,
-  "notas": "Fin del Eiger Trail; se vuelve en tren"
+  "notas": "Fin del Eiger Trail; se vuelve en tren",
+  "lat": 46.60007,
+  "lng": 8.001952,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Alpiglen",
+  "locality": "Grindelwald",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.753
  },
  {
   "id": "grindelwald--wilderswil",
@@ -3803,7 +5535,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Desde acá sale el tren cremallera a Schynige Platte"
+  "notas": "Desde acá sale el tren cremallera a Schynige Platte",
+  "lat": 46.663395,
+  "lng": 7.862995,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Wilderswil",
+  "locality": "Wilderswil",
+  "geo_reason": "bajo_umbral",
+  "score": 0.597
  },
  {
   "id": "lauterbrunnen--iglesia",
@@ -3822,7 +5562,11 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "lauterbrunnen--weisse-lutschine",
@@ -3840,7 +5584,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Atraviesa todo el valle. Muy lindo para caminar"
+  "notas": "Atraviesa todo el valle. Muy lindo para caminar",
+  "lat": 46.571682,
+  "lng": 7.909181,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Weisse Lütschine",
+  "locality": "Lauterbrunnen",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.743
  },
  {
   "id": "lauterbrunnen--grutschalp",
@@ -3856,7 +5608,15 @@
   "alias_es": [],
   "tipo": "Teleférico",
   "descartado": false,
-  "notas": "Sendero Grütschalp → Mürren: muy fácil, todo plano, 1 hs"
+  "notas": "Sendero Grütschalp → Mürren: muy fácil, todo plano, 1 hs",
+  "lat": 46.596562,
+  "lng": 7.890707,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Grütschalp",
+  "locality": "Isenfluh",
+  "geo_reason": "nominatim_free",
+  "score": 0.906
  },
  {
   "id": "lauterbrunnen--north-face-trail",
@@ -3874,7 +5634,11 @@
   ],
   "tipo": "Trekking",
   "descartado": false,
-  "notas": "El más famoso del lado oeste del valle; mira la cara norte del Eiger. Media, 2-2,5 hs. ~20 CHF de teleférico + funicular Allmendhubel"
+  "notas": "El más famoso del lado oeste del valle; mira la cara norte del Eiger. Media, 2-2,5 hs. ~20 CHF de teleférico + funicular Allmendhubel",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "lauterbrunnen--obersteinberg",
@@ -3890,7 +5654,15 @@
   "alias_es": [],
   "tipo": "Trekking",
   "descartado": false,
-  "notas": "Trekking desde Gimmelwald. El más alpino y menos turístico. Media, 3-4 hs, ~500 m de desnivel"
+  "notas": "Trekking desde Gimmelwald. El más alpino y menos turístico. Media, 3-4 hs, ~500 m de desnivel",
+  "lat": 46.518541,
+  "lng": 7.885418,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Obersteinberg",
+  "locality": "Lauterbrunnen",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.708
  },
  {
   "id": "lucerna--wasserturm",
@@ -3908,7 +5680,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La torre junto al Kapellbrücke"
+  "notas": "La torre junto al Kapellbrücke",
+  "lat": 47.051278,
+  "lng": 8.307295,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Wasserturm",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.781
  },
  {
   "id": "lucerna--weinmarkt",
@@ -3924,7 +5704,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Calle recomendada del casco histórico"
+  "notas": "Calle recomendada del casco histórico",
+  "lat": 47.052009,
+  "lng": 8.304816,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Weinmarkt",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_free",
+  "score": 0.903
  },
  {
   "id": "lucerna--hirschenplatz",
@@ -3940,7 +5728,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Calle recomendada del casco histórico"
+  "notas": "Calle recomendada del casco histórico",
+  "lat": 47.05236,
+  "lng": 8.305218,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Hirschenplatz",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_free",
+  "score": 0.903
  },
  {
   "id": "lucerna--kornmarkt",
@@ -3956,7 +5752,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Calle recomendada del casco histórico"
+  "notas": "Calle recomendada del casco histórico",
+  "lat": 47.052115,
+  "lng": 8.305876,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kornmarkt",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_free",
+  "score": 0.904
  },
  {
   "id": "lucerna--rathausquai",
@@ -3972,7 +5776,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Calle recomendada del casco histórico"
+  "notas": "Calle recomendada del casco histórico",
+  "lat": 47.051941,
+  "lng": 8.306929,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rathausquai",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.771
  },
  {
   "id": "lucerna--rathaus",
@@ -3991,7 +5803,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Solo verlo por fuera. Uno de los edificios renacentistas más importantes de Suiza"
+  "notas": "Solo verlo por fuera. Uno de los edificios renacentistas más importantes de Suiza",
+  "lat": 47.051882,
+  "lng": 8.306129,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rathaus",
+  "locality": "Luzern",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.781
  },
  {
   "id": "lucerna--reuss",
@@ -4009,7 +5829,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Desde el puente, caminar bordeando el río. Muchos cafés y vida local"
+  "notas": "Desde el puente, caminar bordeando el río. Muchos cafés y vida local",
+  "lat": 47.051703,
+  "lng": 8.30248,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Reuss",
+  "locality": "Luzern",
+  "geo_reason": "bajo_umbral",
+  "score": 0.758
  },
  {
   "id": "innsbruck--altes-rathaus",
@@ -4027,7 +5855,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.268262,
+  "lng": 11.393555,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Altes Rathaus",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.775
  },
  {
   "id": "innsbruck--altes-landhaus",
@@ -4045,7 +5881,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.264619,
+  "lng": 11.395017,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Altes Landhaus",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.782
  },
  {
   "id": "innsbruck--spitalskirche",
@@ -4063,7 +5907,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.266619,
+  "lng": 11.39342,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Spitalskirche",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_free",
+  "score": 0.913
  },
  {
   "id": "innsbruck--annasaule",
@@ -4081,7 +5933,15 @@
   ],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Sobre la Maria-Theresien-Straße"
+  "notas": "Sobre la Maria-Theresien-Straße",
+  "lat": 47.265673,
+  "lng": 11.394198,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Annasäule",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.78
  },
  {
   "id": "innsbruck--katzunghaus",
@@ -4097,7 +5957,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Fachada del casco antiguo"
+  "notas": "Fachada del casco antiguo",
+  "lat": 47.26812,
+  "lng": 11.392895,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Katzunghaus",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.764
  },
  {
   "id": "innsbruck--helblinghaus",
@@ -4113,7 +5981,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Fachada rococó frente al Tejadillo de Oro"
+  "notas": "Fachada rococó frente al Tejadillo de Oro",
+  "lat": 47.268414,
+  "lng": 11.392921,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Helblinghaus",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.778
  },
  {
   "id": "innsbruck--stadtturm",
@@ -4129,7 +6005,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Torre mirador del casco antiguo"
+  "notas": "Torre mirador del casco antiguo",
+  "lat": 47.268228,
+  "lng": 11.393447,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stadtturm",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.754
  },
  {
   "id": "innsbruck--herzog-friedrich-strasse",
@@ -4147,7 +6031,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Lleva hasta el Tejadillo de Oro"
+  "notas": "Lleva hasta el Tejadillo de Oro",
+  "lat": 47.267507,
+  "lng": 11.393505,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Herzog-Friedrich-Straße",
+  "locality": "Innsbruck",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.777
  },
  {
   "id": "innsbruck--hall-in-tirol",
@@ -4163,7 +6055,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Pueblo cercano"
+  "notas": "Pueblo cercano",
+  "lat": 47.281665,
+  "lng": 11.507534,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Hall in Tirol",
+  "locality": "Hall in Tirol",
+  "geo_reason": "bajo_umbral",
+  "score": 0.672
  },
  {
   "id": "viena--volksgarten",
@@ -4179,7 +6079,15 @@
   "alias_es": [],
   "tipo": "Jardín",
   "descartado": false,
-  "notas": "Jardín clásico lleno de rosas en primavera y verano"
+  "notas": "Jardín clásico lleno de rosas en primavera y verano",
+  "lat": 48.208035,
+  "lng": 16.361787,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Volksgarten",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.789
  },
  {
   "id": "viena--peterskirche",
@@ -4197,7 +6105,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Pequeña, con uno de los interiores barrocos más bellos. Suele haber conciertos gratuitos de órgano"
+  "notas": "Pequeña, con uno de los interiores barrocos más bellos. Suele haber conciertos gratuitos de órgano",
+  "lat": 48.209437,
+  "lng": 16.370011,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Peterskirche",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.927
  },
  {
   "id": "viena--votivkirche",
@@ -4213,7 +6129,15 @@
   "alias_es": [],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Neogótica, cerca de la Universidad. Muy linda desde afuera"
+  "notas": "Neogótica, cerca de la Universidad. Muy linda desde afuera",
+  "lat": 48.215415,
+  "lng": 16.35914,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Votivkirche",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "viena--kaisergruft",
@@ -4231,7 +6155,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": true,
-  "notas": "Katia: descartado. Entierro de los Habsburgo; recomendable si interesa el Imperio Austrohúngaro"
+  "notas": "Katia: descartado. Entierro de los Habsburgo; recomendable si interesa el Imperio Austrohúngaro",
+  "lat": 48.205773,
+  "lng": 16.370165,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kaisergruft",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.803
  },
  {
   "id": "viena--nationalbibliothek",
@@ -4249,7 +6181,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "De las bibliotecas históricas más espectaculares de Europa"
+  "notas": "De las bibliotecas históricas más espectaculares de Europa",
+  "lat": 48.206168,
+  "lng": 16.366691,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Prunksaal der Österreichischen Nationalbibliothek",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.806
  },
  {
   "id": "viena--rathaus",
@@ -4267,7 +6207,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Neogótico. Las visitas guiadas gratuitas son un buen agregado si coinciden con el horario"
+  "notas": "Neogótico. Las visitas guiadas gratuitas son un buen agregado si coinciden con el horario",
+  "lat": 48.210826,
+  "lng": 16.356573,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rathaus",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.792
  },
  {
   "id": "viena--parlament",
@@ -4285,7 +6233,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Recientemente restaurado. Interesante incluso solo desde afuera"
+  "notas": "Recientemente restaurado. Interesante incluso solo desde afuera",
+  "lat": 48.208087,
+  "lng": 16.358465,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Parlament",
+  "locality": "Wien",
+  "geo_reason": "bajo_umbral",
+  "score": 0.652
  },
  {
   "id": "viena--donaukanal",
@@ -4301,7 +6257,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Se llena de bares y terrazas al atardecer. La Viena más moderna y joven"
+  "notas": "Se llena de bares y terrazas al atardecer. La Viena más moderna y joven",
+  "lat": 48.199964,
+  "lng": 16.408192,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Donaukanal",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.782
  },
  {
   "id": "viena--brunnenmarkt",
@@ -4317,7 +6281,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "El mercado más auténtico de la ciudad"
+  "notas": "El mercado más auténtico de la ciudad",
+  "lat": 48.211097,
+  "lng": 16.335979,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Brunnenmarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.882
  },
  {
   "id": "viena--karmelitermarkt",
@@ -4333,7 +6305,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Pequeño, muy agradable"
+  "notas": "Pequeño, muy agradable",
+  "lat": 48.217483,
+  "lng": 16.376956,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Karmelitermarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.894
  },
  {
   "id": "viena--brunnenmarkt-hannover",
@@ -4349,7 +6329,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Opcional, si justo pasamos para almorzar"
+  "notas": "Opcional, si justo pasamos para almorzar",
+  "lat": 48.231821,
+  "lng": 16.368892,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Hannovermarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.883
  },
  {
   "id": "viena--meiselmarkt",
@@ -4365,7 +6353,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Opcional, si justo pasamos para almorzar"
+  "notas": "Opcional, si justo pasamos para almorzar",
+  "lat": 48.198347,
+  "lng": 16.319814,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Meiselmarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.887
  },
  {
   "id": "viena--vorgartenmarkt",
@@ -4381,7 +6377,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Opcional, si justo pasamos para almorzar"
+  "notas": "Opcional, si justo pasamos para almorzar",
+  "lat": 48.22171,
+  "lng": 16.402029,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Vorgartenmarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.735
  },
  {
   "id": "viena--kutschkermarkt",
@@ -4397,7 +6401,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Opcional, si justo pasamos para almorzar"
+  "notas": "Opcional, si justo pasamos para almorzar",
+  "lat": 48.224507,
+  "lng": 16.344362,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kutschkermarkt",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.882
  },
  {
   "id": "viena--gloriette",
@@ -4413,7 +6425,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "En los jardines de Schönbrunn. Una de las mejores vistas de la ciudad"
+  "notas": "En los jardines de Schönbrunn. Una de las mejores vistas de la ciudad",
+  "lat": 48.178267,
+  "lng": 16.308726,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Gloriette",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.862
  },
  {
   "id": "viena--staatsoper",
@@ -4431,7 +6451,15 @@
   ],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "Standing tickets 4-15 €. Ir 80 min antes y hacer fila en la entrada lateral de Operngasse. Llevar bufanda para reservar el lugar en la barra"
+  "notas": "Standing tickets 4-15 €. Ir 80 min antes y hacer fila en la entrada lateral de Operngasse. Llevar bufanda para reservar el lugar en la barra",
+  "lat": 48.203286,
+  "lng": 16.369194,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Wiener Staatsoper",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.94
  },
  {
   "id": "viena--musikverein",
@@ -4447,7 +6475,15 @@
   "alias_es": [],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "Sala dorada, acústica perfecta. Donde toca la Filarmónica de Viena. Standing 7-10 €"
+  "notas": "Sala dorada, acústica perfecta. Donde toca la Filarmónica de Viena. Standing 7-10 €",
+  "lat": 48.200486,
+  "lng": 16.372725,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Musikverein",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.933
  },
  {
   "id": "viena--konzerthaus",
@@ -4465,7 +6501,15 @@
   ],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "Otra opción de concierto además del Musikverein"
+  "notas": "Otra opción de concierto además del Musikverein",
+  "lat": 48.200649,
+  "lng": 16.377613,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Wiener Konzerthaus",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.929
  },
  {
   "id": "viena--ankeruhr",
@@ -4481,7 +6525,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Reloj histórico. Ver el desfile de figuras a las 12 del mediodía"
+  "notas": "Reloj histórico. Ver el desfile de figuras a las 12 del mediodía",
+  "lat": 48.210761,
+  "lng": 16.373675,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Ankeruhr",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.767
  },
  {
   "id": "viena--grinzing",
@@ -4497,7 +6549,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Zona de Heurigen: más que un mercado, una experiencia gastronómica local"
+  "notas": "Zona de Heurigen: más que un mercado, una experiencia gastronómica local",
+  "lat": 48.256302,
+  "lng": 16.340623,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Katastralgemeinde Grinzing",
+  "locality": "Wien",
+  "geo_reason": "bajo_umbral",
+  "score": 0.668
  },
  {
   "id": "viena--nussdorf",
@@ -4515,7 +6575,11 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "La otra zona de Heurigen además de Grinzing"
+  "notas": "La otra zona de Heurigen además de Grinzing",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "viena--karntner-strasse",
@@ -4531,7 +6595,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Paseo nocturno junto con Graben y Stephansplatz"
+  "notas": "Paseo nocturno junto con Graben y Stephansplatz",
+  "lat": 48.206005,
+  "lng": 16.371388,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kärntner Straße",
+  "locality": "Wien",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.771
  },
  {
   "id": "viena--stephansplatz",
@@ -4547,7 +6619,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Paseo nocturno junto con Graben y Kärntner Straße"
+  "notas": "Paseo nocturno junto con Graben y Kärntner Straße",
+  "lat": 48.208583,
+  "lng": 16.373921,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stephansplatz",
+  "locality": "Wien",
+  "geo_reason": "nominatim_free",
+  "score": 0.9
  },
  {
   "id": "praga--stromovka",
@@ -4565,7 +6645,11 @@
   ],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "El parque urbano más grande de Praga. Antiguo coto de caza real"
+  "notas": "El parque urbano más grande de Praga. Antiguo coto de caza real",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "praga--san-vito",
@@ -4583,7 +6667,15 @@
   ],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": "La iglesia más importante del país, dentro del Castillo. La nave principal se ve gratis"
+  "notas": "La iglesia más importante del país, dentro del Castillo. La nave principal se ve gratis",
+  "lat": 50.090864,
+  "lng": 14.400571,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Katedrála svatého Víta, Václava a Vojtěcha",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.919
  },
  {
   "id": "praga--callejon-del-oro",
@@ -4601,7 +6693,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Calle medieval dentro del castillo; incluida en el circuito"
+  "notas": "Calle medieval dentro del castillo; incluida en el circuito",
+  "lat": 50.092057,
+  "lng": 14.40427,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Zlatá ulička",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.774
  },
  {
   "id": "praga--san-jorge",
@@ -4619,7 +6719,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "La iglesia románica más antigua del castillo; incluida en el circuito"
+  "notas": "La iglesia románica más antigua del castillo; incluida en el circuito",
+  "lat": 50.091194,
+  "lng": 14.402567,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bazilika svatého Jiří",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.908
  },
  {
   "id": "praga--tyn",
@@ -4638,7 +6746,11 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Uno de los símbolos de Praga; la fachada domina la Plaza Vieja"
+  "notas": "Uno de los símbolos de Praga; la fachada domina la Plaza Vieja",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "praga--san-nicolas",
@@ -4656,7 +6768,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "De las iglesias barrocas más impresionantes de Europa. ~150 CZK"
+  "notas": "De las iglesias barrocas más impresionantes de Europa. ~150 CZK",
+  "lat": 50.087976,
+  "lng": 14.403222,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "svatý Mikuláš",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.76
  },
  {
   "id": "praga--loreta",
@@ -4674,7 +6794,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Complejo barroco famoso por su carillón. ~230 CZK"
+  "notas": "Complejo barroco famoso por su carillón. ~230 CZK",
+  "lat": 50.089277,
+  "lng": 14.391784,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Loreta",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.875
  },
  {
   "id": "praga--strahov",
@@ -4692,7 +6820,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Monasterio + biblioteca barroca. ~180 CZK la biblioteca"
+  "notas": "Monasterio + biblioteca barroca. ~180 CZK la biblioteca",
+  "lat": 50.086258,
+  "lng": 14.389069,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Strahovský klášter",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.777
  },
  {
   "id": "praga--clementinum",
@@ -4710,7 +6846,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La biblioteca barroca es de las salas más lindas de Europa. Incluye la Torre Astronómica. ~380 CZK"
+  "notas": "La biblioteca barroca es de las salas más lindas de Europa. Incluye la Torre Astronómica. ~380 CZK",
+  "lat": 50.086655,
+  "lng": 14.416119,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Klementinum",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.756
  },
  {
   "id": "praga--torre-polvora",
@@ -4728,7 +6872,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Antigua puerta medieval de la ciudad. ~190 CZK"
+  "notas": "Antigua puerta medieval de la ciudad. ~190 CZK",
+  "lat": 50.087243,
+  "lng": 14.427756,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Prašná brána",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.786
  },
  {
   "id": "praga--obecni-dum",
@@ -4746,7 +6898,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Art Nouveau. Vale la pena entrar aunque no se haga la visita guiada; el edificio es gratuito"
+  "notas": "Art Nouveau. Vale la pena entrar aunque no se haga la visita guiada; el edificio es gratuito",
+  "lat": 50.087756,
+  "lng": 14.427764,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Obecní dům",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.789
  },
  {
   "id": "praga--stare-mesto",
@@ -4764,7 +6924,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Caminar desde la Plaza Vieja hasta el Castillo cruzando el Puente Carlos"
+  "notas": "Caminar desde la Plaza Vieja hasta el Castillo cruzando el Puente Carlos",
+  "lat": 50.084285,
+  "lng": 14.417839,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Staré Město",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.91
  },
  {
   "id": "praga--celetna",
@@ -4780,7 +6948,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "De las calles medievales más importantes; formaba parte del Camino Real"
+  "notas": "De las calles medievales más importantes; formaba parte del Camino Real",
+  "lat": 50.087147,
+  "lng": 14.423953,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Celetná",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.783
  },
  {
   "id": "praga--nove-mesto",
@@ -4796,7 +6972,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Menos medieval y bastante más local"
+  "notas": "Menos medieval y bastante más local",
+  "lat": 50.078966,
+  "lng": 14.423329,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Nové Město",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.914
  },
  {
   "id": "praga--naplavka",
@@ -4812,7 +6996,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Ribera del Moldava, muy buen ambiente al atardecer. Ahí se hace el farmers market más famoso"
+  "notas": "Ribera del Moldava, muy buen ambiente al atardecer. Ahí se hace el farmers market más famoso",
+  "lat": 50.093157,
+  "lng": 14.421408,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Staroměstská náplavka",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.758
  },
  {
   "id": "praga--wenceslao",
@@ -4830,7 +7022,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Avenida-plaza donde ocurrieron acontecimientos clave de la historia checa reciente"
+  "notas": "Avenida-plaza donde ocurrieron acontecimientos clave de la historia checa reciente",
+  "lat": 50.081587,
+  "lng": 14.42717,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Václavské náměstí",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.929
  },
  {
   "id": "praga--havelska",
@@ -4848,7 +7048,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "El único mercado permanente. Para ir si no coinciden los farmers markets"
+  "notas": "El único mercado permanente. Para ir si no coinciden los farmers markets",
+  "lat": 50.084772,
+  "lng": 14.420993,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Havelské tržiště",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.89
  },
  {
   "id": "praga--jiriho-market",
@@ -4867,7 +7075,11 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Más local, barrio residencial. Viernes y sábados"
+  "notas": "Más local, barrio residencial. Viernes y sábados",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "praga--dejvice-market",
@@ -4885,7 +7097,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Más pequeño, también local"
+  "notas": "Más pequeño, también local",
+  "lat": 50.101661,
+  "lng": 14.393436,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Farmářské trhy na Kulaťáku",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.763
  },
  {
   "id": "praga--torre-petrin",
@@ -4903,7 +7123,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Inspirada en la Torre Eiffel. Una de las mejores panorámicas; en días despejados se ve gran parte de Bohemia. ~220 CZK"
+  "notas": "Inspirada en la Torre Eiffel. Una de las mejores panorámicas; en días despejados se ve gran parte de Bohemia. ~220 CZK",
+  "lat": 50.083517,
+  "lng": 14.395086,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Petřínská rozhledna",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.907
  },
  {
   "id": "praga--torre-ayuntamiento-viejo",
@@ -4921,7 +7149,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "De las mejores vistas del casco histórico. ~300 CZK. Es el mismo edificio del Reloj Astronómico"
+  "notas": "De las mejores vistas del casco histórico. ~300 CZK. Es el mismo edificio del Reloj Astronómico",
+  "lat": 50.086979,
+  "lng": 14.420293,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Staroměstská radnice",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.919
  },
  {
   "id": "praga--zizkov-tower",
@@ -4939,7 +7175,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "El edificio más alto de la ciudad. Observatorio ~300 CZK. Vista completamente distinta a la de los miradores históricos"
+  "notas": "El edificio más alto de la ciudad. Observatorio ~300 CZK. Vista completamente distinta a la de los miradores históricos",
+  "lat": 50.081022,
+  "lng": 14.451058,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Žižkovský vysílač",
+  "locality": "Praha",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "praga--casa-danzante",
@@ -4957,7 +7201,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Contrasta fuerte con la arquitectura histórica de Praga"
+  "notas": "Contrasta fuerte con la arquitectura histórica de Praga",
+  "lat": 50.075426,
+  "lng": 14.414172,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Tančící dům",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.758
  },
  {
   "id": "praga--pasaje-lucerna",
@@ -4975,7 +7227,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Galería comercial histórica, famosa por la escultura invertida de San Wenceslao"
+  "notas": "Galería comercial histórica, famosa por la escultura invertida de San Wenceslao",
+  "lat": 50.081132,
+  "lng": 14.426039,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "palác Lucerna",
+  "locality": "Praha",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.79
  },
  {
   "id": "praga--museo-kafka",
@@ -4993,7 +7253,11 @@
   ],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado"
+  "notas": "Katia: descartado",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "praga--dox",
@@ -5012,7 +7276,11 @@
   ],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado"
+  "notas": "Katia: descartado",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--rynek-underground",
@@ -5032,7 +7300,11 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Museo arqueológico bajo la Plaza del Mercado. ~38 PLN"
+  "notas": "Museo arqueológico bajo la Plaza del Mercado. ~38 PLN",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--museo-nowa-huta",
@@ -5050,7 +7322,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Historia comunista. ~20 PLN"
+  "notas": "Historia comunista. ~20 PLN",
+  "lat": 50.069961,
+  "lng": 20.041216,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Muzeum Nowej Huty",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.796
  },
  {
   "id": "cracovia--czartoryski",
@@ -5068,7 +7348,15 @@
   ],
   "tipo": "Museo",
   "descartado": true,
-  "notas": "Katia: descartado. Arte, ~75 PLN"
+  "notas": "Katia: descartado. Arte, ~75 PLN",
+  "lat": 50.064799,
+  "lng": 19.940338,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Muzeum Książąt Czartoryskich w Krakowie",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.93
  },
  {
   "id": "cracovia--blonia",
@@ -5084,7 +7372,15 @@
   "alias_es": [],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Gran pradera que usan los locales para caminar, correr y hacer picnic"
+  "notas": "Gran pradera que usan los locales para caminar, correr y hacer picnic",
+  "lat": 50.059729,
+  "lng": 19.910145,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Błonia",
+  "locality": "Kraków",
+  "geo_reason": "bajo_umbral",
+  "score": 0.67
  },
  {
   "id": "cracovia--catedral-wawel",
@@ -5103,7 +7399,11 @@
   ],
   "tipo": "Catedral",
   "descartado": false,
-  "notas": "La iglesia más importante de Polonia. ~25 PLN criptas y campanario"
+  "notas": "La iglesia más importante de Polonia. ~25 PLN criptas y campanario",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--san-pedro-san-pablo",
@@ -5121,7 +7421,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis"
+  "notas": "La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis",
+  "lat": 50.056927,
+  "lng": 19.939064,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kościół pw. Świętych Apostołów Piotra i Pawła",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.922
  },
  {
   "id": "cracovia--san-francisco",
@@ -5139,7 +7447,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Vitrales Art Nouveau de Stanisław Wyspiański. Gratis"
+  "notas": "Vitrales Art Nouveau de Stanisław Wyspiański. Gratis",
+  "lat": 50.059219,
+  "lng": 19.936092,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bazylika Świętego Franciszka z Asyżu",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.9
  },
  {
   "id": "cracovia--san-jose",
@@ -5157,7 +7473,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Neogótica, en Podgórze"
+  "notas": "Neogótica, en Podgórze",
+  "lat": 50.043274,
+  "lng": 19.949897,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kościół pw. Świętego Józefa",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.861
  },
  {
   "id": "cracovia--stare-miasto",
@@ -5175,7 +7499,15 @@
   ],
   "tipo": "Casco histórico",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 50.061432,
+  "lng": 19.936158,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stare Miasto",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.748
  },
  {
   "id": "cracovia--florianska",
@@ -5193,7 +7525,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Primer tramo del Camino Real, de la Puerta de San Florián a la Plaza del Mercado"
+  "notas": "Primer tramo del Camino Real, de la Puerta de San Florián a la Plaza del Mercado",
+  "lat": 50.063411,
+  "lng": 19.940262,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Floriańska",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.79
  },
  {
   "id": "cracovia--maly-rynek",
@@ -5211,7 +7551,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Detrás de la Basílica de Santa María"
+  "notas": "Detrás de la Basílica de Santa María",
+  "lat": 50.061144,
+  "lng": 19.940262,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Mały Rynek",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.916
  },
  {
   "id": "cracovia--grodzka",
@@ -5230,7 +7578,11 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "De la Plaza del Mercado hacia Wawel. Tramo del Camino Real"
+  "notas": "De la Plaza del Mercado hacia Wawel. Tramo del Camino Real",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--bernatek",
@@ -5248,7 +7600,15 @@
   ],
   "tipo": "Puente",
   "descartado": false,
-  "notas": "Puente peatonal que conecta Kazimierz con Podgórze"
+  "notas": "Puente peatonal que conecta Kazimierz con Podgórze",
+  "lat": 50.046558,
+  "lng": 19.947504,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kładka Ojca Bernatka",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.903
  },
  {
   "id": "cracovia--podgorze",
@@ -5264,7 +7624,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Antiguo gueto judío durante la ocupación nazi. Muy importante históricamente"
+  "notas": "Antiguo gueto judío durante la ocupación nazi. Muy importante históricamente",
+  "lat": 50.138188,
+  "lng": 20.103765,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Podgórze",
+  "locality": "Luborzyca",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.715
  },
  {
   "id": "cracovia--nowa-huta",
@@ -5280,7 +7648,15 @@
   "alias_es": [],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Ciudad socialista construida por los soviéticos. Muy distinta al resto de Cracovia"
+  "notas": "Ciudad socialista construida por los soviéticos. Muy distinta al resto de Cracovia",
+  "lat": 50.072728,
+  "lng": 20.037512,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Nowa Huta",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.84
  },
  {
   "id": "cracovia--tytano",
@@ -5298,7 +7674,11 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Antigua fábrica reconvertida en polo gastronómico y de bares"
+  "notas": "Antigua fábrica reconvertida en polo gastronómico y de bares",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--kanonicza",
@@ -5317,7 +7697,11 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Último tramo del Camino Real antes de Wawel. De las calles medievales mejor conservadas de Polonia"
+  "notas": "Último tramo del Camino Real antes de Wawel. De las calles medievales mejor conservadas de Polonia",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "cracovia--sukiennice",
@@ -5335,7 +7719,15 @@
   ],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Mercado de artesanías y recuerdos, en la Plaza del Mercado"
+  "notas": "Mercado de artesanías y recuerdos, en la Plaza del Mercado",
+  "lat": 50.061701,
+  "lng": 19.937351,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Sukiennice",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.771
  },
  {
   "id": "cracovia--stary-kleparz",
@@ -5351,7 +7743,15 @@
   "alias_es": [],
   "tipo": "Mercado",
   "descartado": false,
-  "notas": "Mercado tradicional de alimentos que usan los cracovianos"
+  "notas": "Mercado tradicional de alimentos que usan los cracovianos",
+  "lat": 50.067384,
+  "lng": 19.941086,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Stary Kleparz",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.915
  },
  {
   "id": "cracovia--torre-ayuntamiento",
@@ -5369,7 +7769,15 @@
   ],
   "tipo": "Mirador",
   "descartado": true,
-  "notas": "Katia: descartado. Excelente vista de la Plaza del Mercado, ~20 PLN"
+  "notas": "Katia: descartado. Excelente vista de la Plaza del Mercado, ~20 PLN",
+  "lat": 50.061486,
+  "lng": 19.936415,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Wieża Ratuszowa",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.855
  },
  {
   "id": "cracovia--kopiec-kosciuszki",
@@ -5387,7 +7795,15 @@
   ],
   "tipo": "Mirador",
   "descartado": true,
-  "notas": "Katia: descartado. El mejor mirador panorámico de Cracovia, ~30 PLN"
+  "notas": "Katia: descartado. El mejor mirador panorámico de Cracovia, ~30 PLN",
+  "lat": 50.054915,
+  "lng": 19.893354,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kopiec Kościuszki",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.9
  },
  {
   "id": "cracovia--teatro-slowacki",
@@ -5405,7 +7821,15 @@
   ],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "Exterior gratuito; visitas según programación"
+  "notas": "Exterior gratuito; visitas según programación",
+  "lat": 50.063947,
+  "lng": 19.943066,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Teatr im. Juliusza Słowackiego",
+  "locality": "Kraków",
+  "geo_reason": "nominatim_free",
+  "score": 0.933
  },
  {
   "id": "budapest--belvaros",
@@ -5423,7 +7847,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "El centro de Pest"
+  "notas": "El centro de Pest",
+  "lat": 47.491918,
+  "lng": 19.054694,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Belváros",
+  "locality": "Budapest",
+  "geo_reason": "bajo_umbral",
+  "score": 0.699
  },
  {
   "id": "budapest--vaci-utca",
@@ -5441,7 +7873,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle comercial peatonal de Pest"
+  "notas": "La calle comercial peatonal de Pest",
+  "lat": 47.489366,
+  "lng": 19.056045,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Váci utca",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.763
  },
  {
   "id": "budapest--szabadsag-ter",
@@ -5459,7 +7899,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Ver también los edificios y monumentos de alrededor"
+  "notas": "Ver también los edificios y monumentos de alrededor",
+  "lat": 47.504582,
+  "lng": 19.050335,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Szabadság tér",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.925
  },
  {
   "id": "budapest--vorosmarty-ter",
@@ -5477,7 +7925,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.49663,
+  "lng": 19.050221,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Vörösmarty tér",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "budapest--erzsebet-ter",
@@ -5495,7 +7951,15 @@
   ],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Está la Gran Noria (Budapest Eye)"
+  "notas": "Está la Gran Noria (Budapest Eye)",
+  "lat": 47.498423,
+  "lng": 19.053591,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Erzsébet tér",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.88
  },
  {
   "id": "budapest--varosliget",
@@ -5513,7 +7977,15 @@
   ],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "Junto a la Plaza de los Héroes; adentro está el castillo Vajdahunyad"
+  "notas": "Junto a la Plaza de los Héroes; adentro está el castillo Vajdahunyad",
+  "lat": 47.514576,
+  "lng": 19.087602,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Városliget",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.89
  },
  {
   "id": "budapest--vajdahunyad",
@@ -5531,7 +8003,15 @@
   ],
   "tipo": "Castillo",
   "descartado": false,
-  "notas": "En el parque Városliget"
+  "notas": "En el parque Városliget",
+  "lat": 47.515355,
+  "lng": 19.081875,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Vajdahunyad vára",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.908
  },
  {
   "id": "budapest--opera",
@@ -5549,7 +8029,15 @@
   ],
   "tipo": "Teatro",
   "descartado": false,
-  "notas": "También hay visitas guiadas"
+  "notas": "También hay visitas guiadas",
+  "lat": 47.50287,
+  "lng": 19.058158,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Magyar Állami Operaház",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.93
  },
  {
   "id": "budapest--holocaust-memorial",
@@ -5567,7 +8055,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.483663,
+  "lng": 19.07384,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Holokauszt Emlékközpont",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.91
  },
  {
   "id": "budapest--museo-nacional",
@@ -5585,7 +8081,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": ""
+  "notas": "",
+  "lat": 47.491184,
+  "lng": 19.062884,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Magyar Nemzeti Múzeum",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.926
  },
  {
   "id": "budapest--duna-korzo",
@@ -5603,7 +8107,11 @@
   ],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Bordea el Danubio del Puente Margarita al Erzsébet. Muy recomendable al atardecer"
+  "notas": "Bordea el Danubio del Puente Margarita al Erzsébet. Muy recomendable al atardecer",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "budapest--gozsdu-udvar",
@@ -5621,7 +8129,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Siete patios interiores conectados que atraviesan una manzana del Barrio Judío. Zona gastronómica y de ocio"
+  "notas": "Siete patios interiores conectados que atraviesan una manzana del Barrio Judío. Zona gastronómica y de ocio",
+  "lat": 47.497823,
+  "lng": 19.060613,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Gozsdu udvar",
+  "locality": "Budapest",
+  "geo_reason": "bajo_umbral",
+  "score": 0.741
  },
  {
   "id": "budapest--barrio-judio",
@@ -5639,7 +8155,15 @@
   ],
   "tipo": "Barrio",
   "descartado": false,
-  "notas": "Muchos bares y nightlife; ahí está el Szimpla Kert"
+  "notas": "Muchos bares y nightlife; ahí está el Szimpla Kert",
+  "lat": 47.371167,
+  "lng": 18.923843,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Erzsébetváros",
+  "locality": "Érd",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.775
  },
  {
   "id": "budapest--funicular",
@@ -5657,7 +8181,15 @@
   ],
   "tipo": "Teleférico",
   "descartado": false,
-  "notas": "Turístico y bastante caro; se puede subir caminando sin problema"
+  "notas": "Turístico y bastante caro; se puede subir caminando sin problema",
+  "lat": 47.49776,
+  "lng": 19.039171,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Budavári Sikló",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.781
  },
  {
   "id": "budapest--biblioteca-nacional",
@@ -5675,7 +8207,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En la colina del castillo"
+  "notas": "En la colina del castillo",
+  "lat": 47.495334,
+  "lng": 19.039546,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Országos Széchényi Könyvtár",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_free",
+  "score": 0.813
  },
  {
   "id": "budapest--citadella",
@@ -5693,7 +8233,15 @@
   ],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "En la colina Gellért"
+  "notas": "En la colina Gellért",
+  "lat": 47.48699,
+  "lng": 19.046266,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Citadella",
+  "locality": "Budapest",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.769
  },
  {
   "id": "budapest--gellert-termas",
@@ -5711,7 +8259,15 @@
   ],
   "tipo": "Termas",
   "descartado": false,
-  "notas": "Mucho más elegante y Art Nouveau"
+  "notas": "Mucho más elegante y Art Nouveau",
+  "lat": 47.483816,
+  "lng": 19.050953,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Szent Gellért Gyógyfürdő és Uszoda",
+  "locality": "Budapest",
+  "geo_reason": "bajo_umbral",
+  "score": 0.767
  },
  {
   "id": "colmar--place-ancienne-douane",
@@ -5727,7 +8283,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Tiene el edificio público más antiguo de la ciudad"
+  "notas": "Tiene el edificio público más antiguo de la ciudad",
+  "lat": 48.075884,
+  "lng": 7.359391,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place de l'Ancienne Douane",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_free",
+  "score": 0.909
  },
  {
   "id": "colmar--koifhus",
@@ -5743,7 +8307,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La antigua aduana medieval; durante siglos el centro económico de la ciudad"
+  "notas": "La antigua aduana medieval; durante siglos el centro económico de la ciudad",
+  "lat": 48.075868,
+  "lng": 7.358876,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Ancienne douane (Koïfhus)",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.765
  },
  {
   "id": "colmar--eglise-des-dominicains",
@@ -5761,7 +8333,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Katia: opcional"
+  "notas": "Katia: opcional",
+  "lat": 48.078289,
+  "lng": 7.356542,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église des Dominicains",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_free",
+  "score": 0.915
  },
  {
   "id": "colmar--saint-matthieu",
@@ -5779,7 +8359,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Protestante, sencilla y tranquila. Katia: opcional"
+  "notas": "Protestante, sencilla y tranquila. Katia: opcional",
+  "lat": 48.077033,
+  "lng": 7.360729,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église Saint-Matthieu",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_free",
+  "score": 0.913
  },
  {
   "id": "colmar--maison-adolph",
@@ -5797,7 +8385,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La casa más antigua de la ciudad"
+  "notas": "La casa más antigua de la ciudad",
+  "lat": 48.076848,
+  "lng": 7.358096,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Maison Adolph",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.766
  },
  {
   "id": "colmar--rue-des-marchands",
@@ -5813,7 +8409,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Probablemente la calle más importante de Colmar. Las callejuelas perpendiculares son las más fotogénicas"
+  "notas": "Probablemente la calle más importante de Colmar. Las callejuelas perpendiculares son las más fotogénicas",
+  "lat": 48.077094,
+  "lng": 7.357144,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue des Marchands",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.77
  },
  {
   "id": "colmar--grand-rue",
@@ -5831,7 +8435,15 @@
   ],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La otra gran calle comercial del centro"
+  "notas": "La otra gran calle comercial del centro",
+  "lat": 48.074962,
+  "lng": 7.357392,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Grand'Rue",
+  "locality": "Colmar",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.768
  },
  {
   "id": "estrasburgo--musee-alsacien",
@@ -5849,7 +8461,15 @@
   ],
   "tipo": "Museo",
   "descartado": false,
-  "notas": "Vida cotidiana alsaciana en casas medievales conectadas por pasarelas. 6,50 €"
+  "notas": "Vida cotidiana alsaciana en casas medievales conectadas por pasarelas. 6,50 €",
+  "lat": 48.579132,
+  "lng": 7.750604,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Musée Alsacien",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_free",
+  "score": 0.921
  },
  {
   "id": "estrasburgo--saint-pierre-le-jeune",
@@ -5867,7 +8487,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Muy linda y menos turística. Mezcla católica, protestante y medieval. Gratis"
+  "notas": "Muy linda y menos turística. Mezcla católica, protestante y medieval. Gratis",
+  "lat": 48.585438,
+  "lng": 7.746794,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église Saint-Pierre-le-Jeune",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.736
  },
  {
   "id": "estrasburgo--maison-des-tanneurs",
@@ -5883,7 +8511,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Antigua casa de curtidores convertida en restaurante, en La Petite France"
+  "notas": "Antigua casa de curtidores convertida en restaurante, en La Petite France",
+  "lat": 48.581405,
+  "lng": 7.741809,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Maison des Tanneurs",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.772
  },
  {
   "id": "estrasburgo--rue-des-moulins",
@@ -5899,7 +8535,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "En La Petite France"
+  "notas": "En La Petite France",
+  "lat": 48.580146,
+  "lng": 7.742358,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue des Moulins",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.765
  },
  {
   "id": "estrasburgo--casa-kammerzell",
@@ -5917,7 +8561,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "La casa alsaciana más famosa de Estrasburgo. Muy impresionante visualmente"
+  "notas": "La casa alsaciana más famosa de Estrasburgo. Muy impresionante visualmente",
+  "lat": 48.581969,
+  "lng": 7.749754,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "La Maison Kammerzell",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.782
  },
  {
   "id": "estrasburgo--marche-aux-cochons",
@@ -5933,7 +8585,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "Mini plaza alsaciana rodeada de casas con entramado de madera. Muy linda para café y fotos"
+  "notas": "Mini plaza alsaciana rodeada de casas con entramado de madera. Muy linda para café y fotos",
+  "lat": 48.580382,
+  "lng": 7.751119,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Place du Marché aux Cochons de Lait",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_free",
+  "score": 0.899
  },
  {
   "id": "estrasburgo--rue-vieux-marche-poissons",
@@ -5949,7 +8609,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Peatonal con casas alsacianas, cafés y restaurantes típicos"
+  "notas": "Peatonal con casas alsacianas, cafés y restaurantes típicos",
+  "lat": 48.580528,
+  "lng": 7.749645,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue du Vieux Marché aux Poissons",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.766
  },
  {
   "id": "estrasburgo--rue-merciere",
@@ -5965,7 +8633,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Fantásticas vistas de la Catedral"
+  "notas": "Fantásticas vistas de la Catedral",
+  "lat": 48.581311,
+  "lng": 7.749507,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rue Mercière",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.766
  },
  {
   "id": "estrasburgo--bnu",
@@ -5983,7 +8659,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Destacado del Neustadt"
+  "notas": "Destacado del Neustadt",
+  "lat": 48.587539,
+  "lng": 7.756261,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Bibliothèque nationale et universitaire - Bâtiment adminisratif",
+  "locality": "Strasbourg",
+  "geo_reason": "bajo_umbral",
+  "score": 0.688
  },
  {
   "id": "estrasburgo--palais-du-rhin",
@@ -5999,7 +8683,15 @@
   "alias_es": [],
   "tipo": "Palacio",
   "descartado": false,
-  "notas": "Destacado del Neustadt"
+  "notas": "Destacado del Neustadt",
+  "lat": 48.587646,
+  "lng": 7.752543,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palais du Rhin",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.779
  },
  {
   "id": "estrasburgo--palais-universitaire",
@@ -6015,7 +8707,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Destacado del Neustadt"
+  "notas": "Destacado del Neustadt",
+  "lat": 48.5848,
+  "lng": 7.762594,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Palais Universitaire",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.757
  },
  {
   "id": "estrasburgo--saint-paul",
@@ -6033,7 +8733,15 @@
   ],
   "tipo": "Iglesia",
   "descartado": false,
-  "notas": "Destacado del Neustadt"
+  "notas": "Destacado del Neustadt",
+  "lat": 48.586326,
+  "lng": 7.759902,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Église Saint-Paul",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_free",
+  "score": 0.914
  },
  {
   "id": "estrasburgo--gare",
@@ -6051,7 +8759,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "Destacado del Neustadt: la cúpula de vidrio sobre la fachada histórica"
+  "notas": "Destacado del Neustadt: la cúpula de vidrio sobre la fachada histórica",
+  "lat": 48.585293,
+  "lng": 7.733925,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Strasbourg",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.789
  },
  {
   "id": "estrasburgo--tribunal-ddhh",
@@ -6069,7 +8785,15 @@
   ],
   "tipo": "Institución",
   "descartado": false,
-  "notas": "En el Barrio Europeo"
+  "notas": "En el Barrio Europeo",
+  "lat": 48.597282,
+  "lng": 7.77464,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cour Européenne des Droits de l'Homme",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.744
  },
  {
   "id": "estrasburgo--pavillon-josephine",
@@ -6087,7 +8811,15 @@
   ],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "En el Parc de l'Orangerie"
+  "notas": "En el Parc de l'Orangerie",
+  "lat": 48.592538,
+  "lng": 7.774807,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Pavillon Joséphine",
+  "locality": "Strasbourg",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.747
  },
  {
   "id": "friburgo--seepark",
@@ -6105,7 +8837,15 @@
   ],
   "tipo": "Parque",
   "descartado": false,
-  "notas": "No es wow, pero lindo para descansar o picnic"
+  "notas": "No es wow, pero lindo para descansar o picnic",
+  "lat": 48.010574,
+  "lng": 7.82072,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Seepark",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_free",
+  "score": 0.9
  },
  {
   "id": "friburgo--konviktstrasse",
@@ -6121,7 +8861,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "Katia: la calle más linda. También zona de bares, tranquila y pintoresca"
+  "notas": "Katia: la calle más linda. También zona de bares, tranquila y pintoresca",
+  "lat": 47.994082,
+  "lng": 7.854611,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Konviktstraße",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.764
  },
  {
   "id": "friburgo--munsterplatz",
@@ -6137,7 +8885,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La plaza principal, donde está la catedral. El mercado es de lunes a sábado: probar la Lange Rote"
+  "notas": "La plaza principal, donde está la catedral. El mercado es de lunes a sábado: probar la Lange Rote",
+  "lat": 47.995596,
+  "lng": 7.852733,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Münsterplatz",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_free",
+  "score": 0.911
  },
  {
   "id": "friburgo--historisches-kaufhaus",
@@ -6153,7 +8909,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "El edificio rojo de la plaza de la Catedral. Una de las fachadas más famosas de Friburgo"
+  "notas": "El edificio rojo de la plaza de la Catedral. Una de las fachadas más famosas de Friburgo",
+  "lat": 47.994967,
+  "lng": 7.852671,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Historisches Kaufhaus",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.762
  },
  {
   "id": "friburgo--schlossbergbahn",
@@ -6169,7 +8933,15 @@
   "alias_es": [],
   "tipo": "Teleférico",
   "descartado": false,
-  "notas": "Funicular al Schlossberg; también se sube caminando en 20-30 min"
+  "notas": "Funicular al Schlossberg; también se sube caminando en 20-30 min",
+  "lat": 47.996615,
+  "lng": 7.858877,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Schlossbergbahn",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_free",
+  "score": 0.84
  },
  {
   "id": "friburgo--augustinerplatz",
@@ -6185,7 +8957,15 @@
   "alias_es": [],
   "tipo": "Plaza",
   "descartado": false,
-  "notas": "La plaza donde los estudiantes se sientan en las escalinatas a tomar cerveza al aire libre"
+  "notas": "La plaza donde los estudiantes se sientan en las escalinatas a tomar cerveza al aire libre",
+  "lat": 47.993753,
+  "lng": 7.852147,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Augustinerplatz",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_free",
+  "score": 0.897
  },
  {
   "id": "friburgo--bertoldsbrunnen",
@@ -6201,7 +8981,15 @@
   "alias_es": [],
   "tipo": "Monumento",
   "descartado": false,
-  "notas": "Una de las mejores zonas para salir de noche"
+  "notas": "Una de las mejores zonas para salir de noche",
+  "lat": 47.994878,
+  "lng": 7.849857,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Bertoldsbrunnen",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.763
  },
  {
   "id": "friburgo--kaiser-joseph-strasse",
@@ -6217,7 +9005,15 @@
   "alias_es": [],
   "tipo": "Calle",
   "descartado": false,
-  "notas": "La calle principal; una de las mejores zonas de noche"
+  "notas": "La calle principal; una de las mejores zonas de noche",
+  "lat": 47.991891,
+  "lng": 7.848479,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Kaiser-Joseph-Straße",
+  "locality": "Freiburg im Breisgau",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.765
  },
  {
   "id": "highlands--callander",
@@ -6233,7 +9029,11 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Parada recomendada en la ruta Edimburgo → Glencoe"
+  "notas": "Parada recomendada en la ruta Edimburgo → Glencoe",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "highlands--rannoch-moor",
@@ -6249,7 +9049,11 @@
   "alias_es": [],
   "tipo": "Paisaje",
   "descartado": false,
-  "notas": "Parada recomendada en la ruta Edimburgo → Glencoe, sobre la A82"
+  "notas": "Parada recomendada en la ruta Edimburgo → Glencoe, sobre la A82",
+  "lat": null,
+  "lng": null,
+  "geo_reason": "sin_candidatos",
+  "confianza": "review"
  },
  {
   "id": "highlands--glenfinnan-viewpoint-east",
@@ -6265,7 +9069,15 @@
   "alias_es": [],
   "tipo": "Mirador",
   "descartado": false,
-  "notas": "Parking prioridad 1 para ver el tren Jacobite. Llegar 45-60' antes, se llena"
+  "notas": "Parking prioridad 1 para ver el tren Jacobite. Llegar 45-60' antes, se llena",
+  "lat": 56.875819,
+  "lng": -5.435234,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Glenfinnan Viaduct Viewpoint",
+  "locality": "Glenfinnan",
+  "geo_reason": "nominatim_free",
+  "score": 0.895
  },
  {
   "id": "highlands--cluanie-inn",
@@ -6281,7 +9093,15 @@
   "alias_es": [],
   "tipo": "Sitio histórico",
   "descartado": false,
-  "notas": "El único punto de servicio en un tramo largo de la A87"
+  "notas": "El único punto de servicio en un tramo largo de la A87",
+  "lat": 57.156131,
+  "lng": -5.182119,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Cluanie Inn",
+  "locality": "Highland",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.73
  },
  {
   "id": "highlands--rothiemurchus",
@@ -6299,7 +9119,15 @@
   ],
   "tipo": "Naturaleza",
   "descartado": false,
-  "notas": "Red de senderos gratuita en las Cairngorms"
+  "notas": "Red de senderos gratuita en las Cairngorms",
+  "lat": 57.173967,
+  "lng": -3.782826,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Rothiemurchus",
+  "locality": "Aviemore",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.753
  },
  {
   "id": "highlands--loch-an-eilein",
@@ -6315,7 +9143,15 @@
   "alias_es": [],
   "tipo": "Lago",
   "descartado": false,
-  "notas": "Isla con castillo en ruinas dentro del loch. Circuito de ~3 km, parking £4"
+  "notas": "Isla con castillo en ruinas dentro del loch. Circuito de ~3 km, parking £4",
+  "lat": 57.147982,
+  "lng": -3.819462,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Loch an Eilein",
+  "locality": "Highland",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.891
  },
  {
   "id": "highlands--cairngorm-gondola",
@@ -6333,7 +9169,15 @@
   ],
   "tipo": "Teleférico",
   "descartado": false,
-  "notas": "~£20. También está el rebaño de renos único en el UK"
+  "notas": "~£20. También está el rebaño de renos único en el UK",
+  "lat": 57.191152,
+  "lng": -3.829352,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "Cairngorm Mountain Sports",
+  "locality": "Aviemore",
+  "geo_reason": "bajo_umbral",
+  "score": 0.746
  },
  {
   "id": "highlands--river-ness",
@@ -6349,7 +9193,15 @@
   "alias_es": [],
   "tipo": "Paseo",
   "descartado": false,
-  "notas": "Muy lindo para caminar de noche o cenar tranquilos"
+  "notas": "Muy lindo para caminar de noche o cenar tranquilos",
+  "lat": 57.45578,
+  "lng": -4.257835,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "River Ness",
+  "locality": "Inverness",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.776
  },
  {
   "id": "highlands--drumnadrochit",
@@ -6365,7 +9217,15 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": false,
-  "notas": "Sede de los Glenurquhart Highland Games (22 de agosto), junto al Lago Ness"
+  "notas": "Sede de los Glenurquhart Highland Games (22 de agosto), junto al Lago Ness",
+  "lat": 57.344384,
+  "lng": -4.485421,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Drumnadrochit Lodges",
+  "locality": "Drumnadrochit",
+  "geo_reason": "nominatim_free",
+  "score": 0.832
  },
  {
   "id": "highlands--ben-nevis-inn",
@@ -6381,7 +9241,15 @@
   "alias_es": [],
   "tipo": "Pub",
   "descartado": false,
-  "notas": "Para música folk/local en Fort William. Ojo que las cocinas cierran 20:30-21h"
+  "notas": "Para música folk/local en Fort William. Ojo que las cocinas cierran 20:30-21h",
+  "lat": 56.810326,
+  "lng": -5.072069,
+  "geo_source": "nominatim",
+  "confianza": "high",
+  "geo_name": "Ben Nevis Inn",
+  "locality": "Fort William",
+  "geo_reason": "nominatim_bounded",
+  "score": 0.754
  },
  {
   "id": "highlands--st-andrews",
@@ -6397,6 +9265,14 @@
   "alias_es": [],
   "tipo": "Pueblo",
   "descartado": true,
-  "notas": "Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra"
+  "notas": "Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra",
+  "lat": 55.863454,
+  "lng": -3.982368,
+  "geo_source": "nominatim",
+  "confianza": "review",
+  "geo_name": "St Andrews",
+  "locality": "Airdrie",
+  "geo_reason": "bajo_umbral",
+  "score": 0.623
  }
 ]

@@ -21,5 +21,45 @@
     "url": "https://www.wikidata.org/wiki/Q1867216",
     "checked_at": "2026-08-02",
     "note": "El CSV tenia 57.212758,-4.526319: un lochan homonimo cerca de Whitebridge, 34 km al este. build_maps.py lo eligio porque su desempate era la cercania al centroide de Highlands (57.2,-4.5) y el falso quedaba a 2 km. Wikidata Q1867216 lo describe como 'lake dammed as a reservoir in Highland'."
+  },
+  "Highlands::lost valley": {
+    "lat": 56.648928,
+    "lng": -5.003205,
+    "source": "overpass:natural=valley Coire Gabhail",
+    "url": "https://www.openstreetmap.org/search?query=Coire%20Gabhail",
+    "checked_at": "2026-08-02",
+    "note": "Nominatim no encuentra 'Lost Valley'; el nombre en OSM es Coire Gabhail. El CSV tenia 56.662,-4.987, la MISMA coordenada exacta que 'Glencoe Valley (Three Sisters)': dos chinches encimadas."
+  },
+  "Highlands::signal rock": {
+    "lat": 56.664936,
+    "lng": -5.067192,
+    "source": "overpass:tourism=attraction Tom a' Ghrianain",
+    "url": "https://www.openstreetmap.org/search?query=Tom%20a%27%20Ghrianain",
+    "checked_at": "2026-08-02",
+    "note": "En OSM figura por su nombre gaelico, Tom a' Ghrianain. El CSV tenia 56.67,-5.1 (2 decimales)."
+  },
+  "Highlands::rubha nam brathairean": {
+    "lat": 57.586542,
+    "lng": -6.139123,
+    "source": "overpass:natural=cape Rubha nam Braithrean",
+    "url": "https://www.openstreetmap.org/search?query=Rubha%20nam%20Br%C3%A0ithrean",
+    "checked_at": "2026-08-02",
+    "note": "Brothers' Point. El CSV tenia 57.55,-6.15, 4,1 km al sur. La grafia con acento (Bràithrean) es la que resuelve."
+  },
+  "Highlands::clava cairns": {
+    "lat": 57.473063,
+    "lng": -4.073688,
+    "source": "overpass:tourism=attraction Balnuaran of Clava",
+    "url": "https://www.openstreetmap.org/search?query=Balnuaran%20of%20Clava",
+    "checked_at": "2026-08-02",
+    "note": "Nombre oficial del sitio: Balnuaran of Clava. Solo corrige precision (el CSV tenia 4 decimales)."
+  },
+  "Highlands::old inverlochy castle": {
+    "lat": 56.832290,
+    "lng": -5.082300,
+    "source": "wikidata:Q17825866",
+    "url": "https://www.wikidata.org/wiki/Q17825866",
+    "checked_at": "2026-08-02",
+    "note": "Wikidata lo describe como 'medieval castle in Highland'. Ojo con el homonimo Q6060140, que es el Inverlochy Castle Hotel, 2,3 km al noreste."
   }
 }
