@@ -64,8 +64,11 @@
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **Montserrat** ⭐ | **FGC R5** (Pl. Espanya) + **cremallera** o **Aeri** (teleférico) | ~1h30 | **~€27 combinado** (TransMontserrat) | ❌ No conviene | Monasterio + montaña; combos Trans/Tot Montserrat |
-| **Girona** | Tren (Rodalies/AVE) | ~40 min (AVE) – 1h20 (R11) | **~€16–22** | ❌ No (regional) | Casco medieval, Game of Thrones |
+| **[Montserrat](Day_trips/Montserrat.md)** ⭐ | **FGC R5** (Pl. Espanya) + **cremallera** o **Aeri** (teleférico) | ~1h30 | **~€27 combinado** (TransMontserrat) | ❌ No conviene | Monasterio + montaña; combos Trans/Tot Montserrat |
+| **[Girona](Day_trips/Girona.md)** ⭐ | Tren (Rodalies R11 / AVE) | ~40 min (AVE) – 1h20 (R11) | **~€16–22** | ❌ No (regional) | Call judío + murallas; extensión a **Figueres** (Dalí, €18.50) |
+| **[Tarragona](Day_trips/Tarragona.md)** | **Rodalies R14/R15** | ~1h–1h20 | **~€8–16** | ❌ No | Anfiteatro romano frente al mar (UNESCO); Pont del Diable gratis |
+| **[Colònia Güell](Day_trips/Colonia%20Guell.md)** | **FGC S4/S8/S33** (Pl. Espanya) | ~25 min | **~€5** (T-casual con zonas) | — (zona 2) | **Medio día**: cripta de Gaudí, UNESCO, ~€10 entrada |
+| **Vic** | **Rodalies R3** | ~1h20 | **~€12** | ❌ No | Ir en día de mercado (sáb/mar) |
 | **Sitges** | **Rodalies R2 Sud** | ~40 min | **~€8–9** | ❌ No | Pueblo playa (frío en nov) |
 
 - **Montserrat:** el ticket **TransMontserrat** (FGC + metro + cremallera/Aeri + funiculares) ronda **€27**; el **Tot Montserrat** suma museo + comida. Comprar en Pl. Espanya o online.

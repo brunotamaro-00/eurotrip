@@ -55,10 +55,12 @@
 
 | Destino | Medio | Tiempo | Costo ida/vuelta | ¿Eurail? | Nota |
 |---------|-------|--------|------------------|----------|------|
-| **Toledo** ⭐ | AVANT/AVE (Atocha) o ALSA bus | ~30 min (tren) | tren **~€14–24** · bus ~€11 | ❌ No conviene | Ciudad medieval UNESCO; reservar AVANT (cupos) |
-| **Segovia** | AVE/AVANT (Chamartín) o ALSA bus | ~30 min (AVE) | tren **~€13–25** · bus ~€8–9 | ❌ No conviene | Acueducto + Alcázar; bus deja más céntrico |
-| **Ávila** | Cercanías/regional | ~1h–1h30 | **~€10–18** | ❌ No | Murallas medievales |
-| **El Escorial** | Cercanías C-3 / C-8 | ~1h | **~€6–8** | ❌ No | Monasterio |
+| **[Toledo](Day_trips/Toledo.md)** ⭐ | AVANT/AVE (Atocha) o ALSA bus | ~33 min (tren) · 1h (bus) | tren **~€14–24** · bus **~€11** | ❌ No conviene | UNESCO; **reservar AVANT** (cupos). Pulsera Turística ~€14 (no incl. Catedral) |
+| **[Segovia](Day_trips/Segovia.md)** ⭐ | AVE/AVANT (Chamartín) o **ALSA bus** (Moncloa) | ~28 min (AVE) · 1h15 (bus) | tren **~€13–25** · bus **~€8–9** | ❌ No conviene | Acueducto + Alcázar (**€7**); **el bus deja más céntrico** (AVE llega a Guiomar, 6 km) |
+| **[El Escorial](Day_trips/El%20Escorial.md)** | Cercanías C-3 / C-8 | ~1h | **~€6–8** | ❌ No | Monasterio de Felipe II; ⚠️ **cierra lunes**. Cuelgamuros: bus escaso |
+| **[Cuenca](Day_trips/Cuenca.md)** | AVE (Atocha) · comparar **Ouigo/Iryo** | ~55 min | **~€20–35** | ❌ No | Casas colgadas + arte abstracto; estación a 5 km del casco (bus 1) |
+| **Ávila** | Cercanías/regional (Chamartín) | ~1h20–1h30 | **~€10–18** | ❌ No | Murallas medievales completas; la ciudad más fría de España en nov |
+| **Alcalá de Henares** | Cercanías C-2 / C-7 | ~35 min | **~€7** | ❌ No | Medio día: UNESCO, Cervantes, Universidad |
 
 - **Andalucía (Toledo/Córdoba/Granada)** son extensiones grandes (AVE 1h45–3h30) — solo si se reasignan noches de margen.
 
