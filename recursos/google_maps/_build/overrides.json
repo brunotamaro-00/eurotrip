@@ -61,5 +61,68 @@
     "url": "https://www.wikidata.org/wiki/Q17825866",
     "checked_at": "2026-08-02",
     "note": "Wikidata lo describe como 'medieval castle in Highland'. Ojo con el homonimo Q6060140, que es el Inverlochy Castle Hotel, 2,3 km al noreste."
+  },
+  "Lisboa::convento do carmo": {
+    "lat": 38.712177,
+    "lng": -9.140160,
+    "source": "nominatim:Convento do Carmo Lisboa",
+    "url": "https://www.openstreetmap.org/search?query=Convento%20do%20Carmo%20Lisboa",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Convento do Carmo, Lisboa, Portugal",
+    "note": "El pin estaba en Caminho do Carmo, Colares (Sintra), 28 km al oeste. Homónimo de calle."
+  },
+  "Budapest::barrio judio de budapest": {
+    "lat": 47.502132,
+    "lng": 19.072910,
+    "source": "photon:Erzsébetváros",
+    "url": "https://www.openstreetmap.org/search?query=Erzs%C3%A9betv%C3%A1ros%20Budapest",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Erzsébetváros, Budapest, Hungary",
+    "note": "El pin y el lugar_busqueda apuntaban a Érd (18 km). El barrio judío es el VII distrito (Erzsébetváros)."
+  },
+  "Cracovia::podgorze": {
+    "lat": 50.043100,
+    "lng": 19.952961,
+    "source": "photon:Podgórze Kraków",
+    "url": "https://www.openstreetmap.org/search?query=Podg%C3%B3rze%20Krak%C3%B3w",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Podgórze, Kraków, Poland",
+    "note": "El pin estaba en Podgórze, Luborzyca (pueblo homónimo 15 km al noreste)."
+  },
+  "Barcelona::eixample": {
+    "lat": 41.393689,
+    "lng": 2.163655,
+    "source": "photon:Eixample Barcelona",
+    "url": "https://www.openstreetmap.org/search?query=Eixample%20Barcelona",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Eixample, Barcelona, Spain",
+    "note": "El pin estaba en Eixample, Alella (Maresme), 15 km al noreste."
+  },
+  "Florencia::mercado central san lorenzo": {
+    "lat": 43.776549,
+    "lng": 11.253631,
+    "source": "nominatim:Mercato Centrale Firenze",
+    "url": "https://www.openstreetmap.org/search?query=Mercato%20Centrale%20Firenze",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Mercato Centrale, Firenze, Italy",
+    "note": "El pin estaba en San Lorenzo, Campi Bisenzio (11 km). Homónimo de barrio."
+  },
+  "Cracovia::arka pana iglesia del arca": {
+    "lat": 50.084044,
+    "lng": 20.029934,
+    "source": "photon:Arka Pana Bieńczyce",
+    "url": "https://www.openstreetmap.org/search?query=Arka%20Pana%20Krak%C3%B3w",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Arka Pana, Kraków, Poland",
+    "note": "El pin estaba en Bieżanów (7 km). La Iglesia del Arca (Kościół Arka Pana) está en Bieńczyce."
+  },
+  "Cracovia::mina de sal de wieliczka": {
+    "lat": 49.983300,
+    "lng": 20.060600,
+    "source": "manual:keep_coord_fix_lb",
+    "url": "https://www.wikidata.org/wiki/Q217066",
+    "checked_at": "2026-08-03",
+    "lugar_busqueda": "Kopalnia Soli Wieliczka, Wieliczka, Poland",
+    "note": "La coordenada ya era correcta (Wieliczka). Solo se corrige lugar_busqueda que decía Kraków."
   }
 }

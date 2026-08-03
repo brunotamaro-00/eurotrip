@@ -23,8 +23,31 @@ from geoutil import decimals, haversine_km, normalize
 OUT = Path(__file__).resolve().parent.parent
 CSVS = ["europa_occidental.csv", "europa_central.csv", "europa_del_sur.csv", "europa_katia.csv"]
 
-FIELDS = ["ciudad", "nombre", "prioridad", "lat", "lng", "lugar_busqueda", "tipo", "precio", "notas"]
+FIELDS = [
+    "ciudad", "nombre", "prioridad", "lat", "lng", "lugar_busqueda", "tipo",
+    "precio", "descripcion", "url", "reserva", "mejor_momento",
+]
 PRIORIDADES = {"Quiero ir", "Quizás", "Solo mapeado"}
+RESERVAS = {"", "Obligatoria", "Recomendada", "No necesaria"}
+# Precio: Gratis · £31 · £31 (≈€36) · CHF 32 (≈€34) · HUF 4900 (≈€12) · €18-25
+PRECIO_OK_RE = re.compile(
+    r"^(?:"
+    r"Gratis(?:\s*\([^)]{1,40}\))?"
+    r"|Incluida"
+    r"|(?:desde\s+)?"
+    r"(?:"
+    r"£\d[\d.,/\-–]*"
+    r"|€\d[\d.,/\-–]*"
+    r"|\$\d[\d.,/\-–]*"
+    r"|CHF\s?\d[\d.,/\-–]*"
+    r"|\d[\d.,]*\s?(?:CZK|PLN|HUF|Ft|Kč)"
+    r")"
+    r"(?:\s*\(≈€[\d.,]+\))?"
+    r"|verificar precio"
+    r")$",
+    re.I,
+)
+URL_OK_RE = re.compile(r"^https?://\S+$")
 
 # Europa continental + islas británicas
 BBOX = (35.0, -11.0, 60.0, 25.0)  # lat_min, lng_min, lat_max, lng_max
@@ -131,6 +154,20 @@ def validate(path: Path) -> list[Issue]:
 
         for e in validate_lugar_busqueda(r["lugar_busqueda"], r["nombre"]):
             issues.append(Issue(rel, i, "lugar_busqueda", e))
+
+        if r.get("reserva", "") not in RESERVAS:
+            issues.append(Issue(rel, i, "reserva", f"valor fuera del vocabulario: {r['reserva']!r}"))
+
+        precio = (r.get("precio") or "").strip()
+        if precio and not PRECIO_OK_RE.match(precio):
+            issues.append(Issue(rel, i, "precio", f"formato no reconocido: {precio!r}", "warn"))
+
+        url = (r.get("url") or "").strip()
+        if url and not URL_OK_RE.match(url):
+            issues.append(Issue(rel, i, "url", f"URL mal formada: {url!r}"))
+
+        if not (r.get("descripcion") or "").strip():
+            issues.append(Issue(rel, i, "descripcion", "vacía", "warn"))
 
         kn = (ciudad, normalize(r["nombre"]))
         if kn in seen_nombre:

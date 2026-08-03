@@ -1,106 +1,104 @@
-# 🗺️ Google My Maps — CSVs de actividades por región
+# Google My Maps — CSVs de actividades por región
 
-4 CSVs listos para importar en [Google My Maps](https://www.google.com/mymaps). Los 3 primeros salen de los `actividades.md` de cada ciudad (**Londres → Budapest**); el cuarto, de los `notas-katia.md`.
+4 CSVs listos para importar en [Google My Maps](https://www.google.com/mymaps). Los 3 primeros salen de los `actividades.md` de cada ciudad (**Londres → Madrid**); el cuarto, de los `notas-katia.md`.
 
-Cada fila trae **`lat` / `lng` verificadas** y un **`lugar_busqueda` en idioma local**, así que se puede importar por cualquiera de los dos (ver más abajo).
+Cada fila trae **`lat` / `lng`**, un **`lugar_busqueda` en idioma local**, y la ficha enriquecida (precio, descripción, link de tickets, reserva, mejor momento).
 
 | Archivo | Región | Ciudades | Lugares |
 |---|---|---|---|
-| `europa_occidental.csv` | 🌍 Occidental | Londres, York, Edimburgo, Highlands, Ámsterdam, París, Colmar, Estrasburgo | 319 |
-| `europa_central.csv` | 🏔️ Central | Friburgo, Grindelwald, Interlaken, Lauterbrunnen, Lucerna, Innsbruck, Viena, Praga, Cracovia, Budapest + **Eslovenia** (Liubliana, Lagos Alpinos, Karst, Valle del Soča, Costa Eslovena) | 262 |
-| `europa_del_sur.csv` | ☀️ Sur | Lisboa, Porto + **Italia** (Roma, Florencia, Nápoles, Bari, Lecce, Matera, Ostuni, Palermo, Catania, Siracusa, Agrigento, Noto, Ragusa) + **España** (Barcelona, Madrid) | 395 |
-| `europa_katia.csv` | 📝 Notas de Katia | lo que aportan los `notas-katia.md` y no está en los otros tres | 267 |
+| `europa_occidental.csv` | Occidental | Londres, York, Edimburgo, Highlands, Ámsterdam, París, Colmar, Estrasburgo | 319 |
+| `europa_central.csv` | Central | Friburgo, Grindelwald, Interlaken, Lauterbrunnen, Lucerna, Innsbruck, Viena, Praga, Cracovia, Budapest + Eslovenia | 262 |
+| `europa_del_sur.csv` | Sur | Lisboa, Porto + Italia + España (Barcelona, Madrid) | 395 |
+| `europa_katia.csv` | Notas de Katia | lo que aportan los `notas-katia.md` y no está en los otros tres | 267 |
 
 **Total: 1243 lugares** con coordenadas.
 
-Los 3 CSV regionales salen de los `actividades.md`; `europa_katia.csv` solo trae lo que **no**
-está en ellos. Cuando un lugar aparece en los dos lados gana la fila regional, porque su
-descripción y su precio vienen de las notas propias.
+Los 3 CSV regionales salen de los `actividades.md`; `europa_katia.csv` solo trae lo que **no** está en ellos. Cuando un lugar aparece en los dos lados gana la fila regional.
 
-`europa_katia.csv` contiene solo lo que **no** estaba ya en los otros tres: se dedupica por nombre, por alias español ↔ idioma local y por coincidencia de coordenada. Todas sus filas van con `prioridad = Solo mapeado`; los lugares que Katia descartó entran igual, marcados `Katia: descartado` en `notas`.
+Todas las filas de Katia van con `prioridad = Solo mapeado`.
 
 ## Columnas
 
-- **`ciudad`** — a qué ciudad pertenece el punto.
-- **`nombre`** — título del marcador.
-- **`prioridad`** — categoría (color); mapea los checkboxes del `.md`:
+```
+ciudad, nombre, prioridad, lat, lng, lugar_busqueda, tipo,
+precio, descripcion, url, reserva, mejor_momento
+```
 
-| En el `.md` | Prioridad | Color sugerido |
-|---|---|---|
-| `[x]` | **Quiero ir** | Verde |
-| `[?]` | **Quizás** | Amarillo/naranja |
-| `[ ]` | **Solo mapeado** | Gris/neutro |
+| Columna | Qué es |
+|---|---|
+| `ciudad` | a qué ciudad pertenece el punto |
+| `nombre` | título del marcador |
+| `prioridad` | color: `Quiero ir` / `Quizás` / `Solo mapeado` (mapea `[x]` / `[?]` / `[ ]`) |
+| `lat`, `lng` | coordenadas WGS84 |
+| `lugar_busqueda` | `Nombre local, Localidad, País` — siempre en idioma local |
+| `tipo` | Museo, Plaza, Iglesia, … |
+| `precio` | moneda local + `≈EUR` cuando aplica (`Gratis`, `£31 (≈€36)`, `CHF 32 (≈€34)`) |
+| `descripcion` | 200–400 chars desde el markdown propio (sin truncar a mitad de palabra) |
+| `url` | solo si sirve para **reservar o comprar entrada**; homepages informativas van vacías |
+| `reserva` | vocabulario cerrado: `Obligatoria` · `Recomendada` · `No necesaria` |
+| `mejor_momento` | corto y accionable (`Martes-jueves, 10am apertura`) |
 
-- **`lat`**, **`lng`** — coordenadas WGS84 verificadas (fuente principal de ubicación).
-- **`lugar_busqueda`** — nombre + ciudad + país (backup / etiqueta).
-- **`tipo`**, **`precio`**, **`notas`** — info del marcador.
+### Qué columnas mostrar en la ficha del pin
+
+Al importar en My Maps, en **Estilo uniforme → Campos a mostrar** conviene marcar: `precio`, `descripcion`, `url`, `reserva`, `mejor_momento`. El resto (`tipo`, `lugar_busqueda`) es ruido en la ficha.
 
 ## Cómo importar cada CSV
 
 1. Crear un mapa nuevo por región → **Importar** → subir el CSV.
-2. Columna a ubicar en el mapa: **`lugar_busqueda`** *o* **`lat` + `lng`** — los dos funcionan (ver abajo). Título de marcadores: **`nombre`**.
-3. **Estilo uniforme** → **Agrupar lugares por** → elegir **`prioridad`** (color por categoría) o **`ciudad`** (color por ciudad) → asignar colores.
-
-### ¿Por `lugar_busqueda` o por `lat`/`lng`?
+2. Columna a ubicar: **`lugar_busqueda`** *o* **`lat` + `lng`**. Título: **`nombre`**.
+3. **Estilo uniforme** → agrupar por **`prioridad`** o **`ciudad`**.
 
 | | `lugar_busqueda` | `lat` + `lng` |
 |---|---|---|
 | Qué hace | My Maps busca el texto y pincha lo que encuentra | pincha la coordenada exacta |
-| Ventaja | el pin queda **enlazado a la ficha real** del lugar (horarios, fotos, reseñas, cómo llegar) | no depende del buscador |
+| Ventaja | el pin queda enlazado a la ficha real del lugar | no depende del buscador |
 | Riesgo | si el nombre es ambiguo puede caer en otro lado | ninguno |
 
-`lugar_busqueda` está escrito como **`Nombre local, Localidad, País`** y **siempre en idioma local** (`Karlův most`, no `Puente de Carlos`), porque una búsqueda por texto resuelve mucho mejor el topónimo local. `_build/verify_search.py` corre el *round-trip test*: consulta el término tal cual lo haría My Maps y verifica que caiga sobre la coordenada verificada.
+> Cada CSV importado = **1 capa**.
 
-> Cada CSV importado = **1 capa**. Si querés una capa por ciudad (para prender/apagar ciudades por separado), importá el mismo CSV varias veces filtrando, o pedí de vuelta los CSVs por ciudad.
+## Fuente de verdad: `_build/places.json`
 
-## Notas
+Los CSV son **salida generada**. No se editan a mano.
 
-- Se excluyó lo no geolocalizable (platos, sistemas de transporte, operadores de free tours, nightlife, fauna genérica, eventos temporales).
-- Los day trips y pueblos de ruta (Route des Vins, Selva Negra, Highlands, Sintra, Auschwitz, Wattens, etc.) caen fuera de la ciudad base a propósito.
-- Coordenadas validadas contra el ancla de cada zona + resolución por Wikidata / OpenStreetMap / Nominatim.
-- **Nightlife no incluido**: se puede sumar como capa/CSV aparte "Noche" (los bares/boliches ya tienen dirección en los `.md`).
-
-## Cómo se generan (carpeta `_build/`)
-
-`build_maps.py` está **congelado**: generó los primeros 585 lugares pero tenía tres defectos
-que dejaron coordenadas mal puestas (el peor, `Loch Cluanie` a 34 km del lago real). El detalle
-está en su docstring. El reemplazo:
+```
+actividades.md ─┐
+                ├─> places.json ──> emit_csvs.py ──> los 4 CSV
+notas-katia.md ─┘        ▲
+                         └── overrides.json, derivar_reglas, pase web, auditoría
+```
 
 | Archivo | Qué hace |
 |---|---|
-| `areas.py` | zonas de búsqueda con radio ≤ 25 km. Highlands está partido en 19 sub-zonas |
-| `geo.py` | resolver en cascada Wikidata → Nominatim → Overpass, con scoring por nombre, tipo, distancia y relevancia |
-| `katia_places.json` | los 371 lugares extraídos a mano de los `notas-katia.md`, con nombre local y alias |
-| `build_katia.py` | geocodifica, deduplica y escribe `europa_katia.csv` |
-| `audit_existing.py` + `apply_audit.py` | auditan y corrigen las coordenadas de los CSV viejos |
-| `fix_lugar_busqueda.py` | normaliza la columna de búsqueda |
-| `validate_csvs.py` | chequeos estructurales, sin red |
-| `verify_search.py` | round-trip test: ¿el texto resuelve al lugar correcto? |
-| `overrides.json` | coordenadas fijadas a mano. **Exige `source`, `url` y `checked_at`** |
+| `places.json` | fuente de verdad de los 1243 lugares (coordenada + 5 campos + provenance) |
+| `build_places.py` | reconcilia CSV ↔ markdown (1243/1243) |
+| `campos.py` / `parse_actividades.py` | extrae precio, descripción, url, reserva, mejor momento del `.md` |
+| `derivar_reglas.py` | reglas baratas: plazas/calles/parques → Gratis + No necesaria; museos UK gratis |
+| `emit_csvs.py` | regenera los 4 CSV desde `places.json` |
+| `audit_coords.py` | auditoría 4 señales (resolver + reverse + decimales + encuadre) |
+| `geo.py` | Wikidata → Overpass → Nominatim → Photon; incluye `reverse()` |
+| `validate_csvs.py` | chequeos estructurales del esquema de 12 columnas |
+| `overrides.json` | coordenadas fijadas a mano (`source` + `url` + `checked_at` obligatorios) |
 
-`overrides.json` tiene ese esquema a propósito: 92 de las 585 filas originales se habían
-tipeado a mano sin dejar ninguna traza de dónde salieron.
+### Regenerar
 
-### Ojo con el rate limit de Nominatim
+```bash
+cd recursos/google_maps/_build
+python3 build_places.py      # si cambió el markdown
+python3 derivar_reglas.py    # rellena Gratis / No necesaria por tipo
+python3 emit_csvs.py         # escribe los 4 CSV
+python3 validate_csvs.py
+```
 
-`nominatim_search()` tragaba el HTTP 429 con un `except` genérico y devolvía lista vacía, así
-que **un rate limit se veía idéntico a "este lugar no existe"**. Ya está arreglado (lanza
-`RateLimited` y reintenta con backoff), pero los conteos de "sin resolver" y los FAIL del
-round-trip que se midieron antes del arreglo están inflados: parte de esos casos eran 429, no
-lugares inexistentes. Conviene re-correr `build_katia.py --geocode` y `verify_search.py` con el
-código nuevo, sin otro proceso consumiendo el límite en paralelo.
+## Notas
 
-### Pendiente
+- Se excluyó lo no geolocalizable (platos, transporte, nightlife, fauna genérica, eventos temporales).
+- Los day trips (Route des Vins, Highlands, Sintra, Auschwitz, …) caen fuera de la ciudad base a propósito.
+- **Nightlife no incluido**: se puede sumar como capa aparte.
+- Fuera de alcance (anotados para no perderlos): ~138 lugares propios y ~23 de Katia que nunca se geocodificaron. El pedido actual es enriquecer lo mapeado, no ampliarlo.
 
-- 122 de los 529 lugares propios siguen sin geocodificar. Buena parte no son puntos del mapa
-  (actividades como "Callejear sin rumbo por Ortigia", platos, películas filmadas en Matera);
-  el resto son nombres que ninguna fuente resuelve. Se retoma con
-  `build_propios.py --geocode` y después `--write`.
+## Pendiente
 
-- Auditoría de coordenadas de las 512 filas fuera de Highlands (`audit_existing.py --out audit_full.csv`).
-  Highlands ya está: 36 correcciones aplicadas.
-- ~30 `lugar_busqueda` siguen en español en países que no lo hablan (entre ellos
-  `Mina de Sal de Wieliczka`, que además no está en Kraków). Necesitan el resolver:
-  `fix_lugar_busqueda.py --apply` sin `--sin-red`.
-- 23 lugares de las notas de Katia quedaron sin geocodificar y no entraron al CSV; la lista
-  está en el mensaje del commit que agregó `europa_katia.csv`.
+- **Pase web** sobre las filas con entrada paga que siguen sin precio (sobre todo `europa_katia.csv`, cuyas notas no mencionan montos).
+- **Auditoría de coordenadas** al 100% (`audit_coords.py` → `reports/auditoria.csv`). Corre en background; veredicto `verificado` / `revisar` / `no_verificable`.
+- ~30 `lugar_busqueda` todavía en español → `fix_lugar_busqueda.py --apply`.
+- Round-trip de `verify_search.py` tras la auditoría.

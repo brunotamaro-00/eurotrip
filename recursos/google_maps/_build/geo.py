@@ -30,7 +30,9 @@ CACHE_PATH = HERE / "geocode_cache2.json"
 
 USER_AGENT = "TripItineraryMapper/2.0 (personal travel planning; github.com/brunotamaro-00/eurotrip)"
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
+NOMINATIM_REVERSE = "https://nominatim.openstreetmap.org/reverse"
 PHOTON = "https://photon.komoot.io/api/"
+PHOTON_REVERSE = "https://photon.komoot.io/reverse"
 WIKIDATA_API = "https://www.wikidata.org/w/api.php"
 WIKIDATA_ENTITY = "https://www.wikidata.org/wiki/Special:EntityData/{qid}.json"
 OVERPASS_HOSTS = [
@@ -363,6 +365,72 @@ def nominatim_search(query: str, area: Area | None, bounded: bool, limit: int = 
             names_all=[r.get("name", "")],
         ))
     return out
+
+
+def reverse(lat: float, lng: float, zoom: int = 18) -> dict:
+    """¿Qué hay EXACTAMENTE en esta coordenada?
+
+    Es la pregunta inversa a la que hace `resolve()`, y por eso es la señal que
+    faltaba en la auditoría. Re-resolver un nombre y comparar distancias no
+    detecta el pin que cayó sobre el edificio de al lado: si la tolerancia del
+    tipo es 150 m, cae dentro y se da por bueno. Preguntarle al mapa qué hay en
+    el punto guardado sí lo detecta, porque devuelve el nombre del vecino.
+
+    Devuelve {name, display, osm_class, locality, source} o {} si no se pudo.
+    Cae a Photon cuando Nominatim está en cooldown, igual que `resolve()`.
+    """
+    if nominatim_disponible():
+        params = {"lat": f"{lat:.6f}", "lon": f"{lng:.6f}", "format": "jsonv2",
+                  "zoom": zoom, "addressdetails": 1, "namedetails": 1}
+        url = f"{NOMINATIM_REVERSE}?{urllib.parse.urlencode(params)}"
+        for intento in range(3):
+            _throttle("nominatim", SLEEP_NOMINATIM)
+            try:
+                r = json.loads(_get(url))
+                _registrar_ok()
+                if "error" in r:
+                    return {}
+                addr = r.get("address", {})
+                return {
+                    "name": r.get("name") or (r.get("namedetails") or {}).get("name", ""),
+                    "display": r.get("display_name", ""),
+                    "osm_class": f"{r.get('category', r.get('class', ''))}={r.get('type', '')}",
+                    "locality": (addr.get("city") or addr.get("town") or addr.get("village")
+                                 or addr.get("municipality") or addr.get("county") or ""),
+                    "source": "nominatim",
+                }
+            except urllib.error.HTTPError as e:
+                if e.code == 429:
+                    if intento == 2:
+                        _registrar_429()
+                        break
+                    time.sleep(10 * (intento + 1))
+                    continue
+                if e.code in (502, 503, 504):
+                    time.sleep(5 * (intento + 1))
+                    continue
+                break
+            except Exception:
+                break
+
+    params = {"lat": f"{lat:.6f}", "lon": f"{lng:.6f}", "limit": 1}
+    _throttle("photon", SLEEP_PHOTON)
+    try:
+        data = json.loads(_get(f"{PHOTON_REVERSE}?{urllib.parse.urlencode(params)}"))
+        feats = data.get("features") or []
+        if not feats:
+            return {}
+        p = feats[0].get("properties", {})
+        return {
+            "name": p.get("name", ""),
+            "display": ", ".join(x for x in (p.get("name"), p.get("street"),
+                                             p.get("city"), p.get("country")) if x),
+            "osm_class": f"{p.get('osm_key', '')}={p.get('osm_value', '')}",
+            "locality": p.get("city") or p.get("county") or "",
+            "source": "photon",
+        }
+    except Exception:
+        return {}
 
 
 # ---------------------------------------------------------------------------
