@@ -110,14 +110,16 @@ Estimación consolidada (**3 agosto 2026**):
 
 | Concepto | Rango |
 |----------|-------|
-| Bruno (108 noches: viaje completo + Portugal) | ~$11,675-16,110 |
-| Katia (108 noches: viaje completo + Pititas AMS/París) | ~$11,897-16,384 |
-| **Total viaje** (2 personas) | **~$23,570-32,495** |
+| Bruno (108 noches: viaje completo + Portugal) | ~$10,712-15,083 |
+| Katia (108 noches: viaje completo + Pititas AMS/París) | ~$10,905-15,360 |
+| **Total viaje** (2 personas) | **~$21,620-30,445** |
 | Ya confirmado (Spitwise, incl. cuotas pendientes) | **$9,233.42 total** · Bruno $4,578.83 · Katia $4,654.59 |
 
 Incluye alojamiento, comida, transporte (Eurail + vuelos + local), museos/actividades y extras (eSIM, lavandería, ETA/ETIAS). El tramo post-Portugal sigue siendo tentativo en fechas; los rangos de alojamiento/comida de esas ciudades pueden moverse al reservar.
 
-**El desglose ahora es por CIUDAD** — ver [`PRESUPUESTO.md`](PRESUPUESTO.md) → *Resumen por Ciudad*, con alojamiento / comida / transporte local / actividades y **$/día** para cada una de las 28 filas del itinerario. Referencia rápida de $/día: más barato **Praga $59-90**, más caro **Ámsterdam $122-160** e **Interlaken $107-171**.
+**El desglose ahora es por CIUDAD** — ver [`PRESUPUESTO.md`](PRESUPUESTO.md) → *Resumen por Ciudad*, con alojamiento / comida / transporte local / actividades y **$/día** para cada una de las 28 filas del itinerario. Referencia rápida de $/día: más barato **Praga $53-82**, más caro **Interlaken $101-166** y **Ámsterdam $108-148**.
+
+La comida se calcula con un **patrón semanal definido**: almuerzo **5/7 picnic o en la calle** + 2/7 sentado en lugar barato · cena **5/7 cocinada en el hostel** + 2/7 afuera. Eso implica **reservar siempre alojamiento con cocina**.
 
 > **Nota 4-12 sept:** el grupo se separa. **Bruno** hace Portugal (Lisboa 5n + Porto 3n); **Katia** hace el bloque *Pititas* (**Ámsterdam 3n + París 5n**, hospedaje $611 ya pago). Ambos vuelven a juntarse en Estrasburgo el 12-sept.
 

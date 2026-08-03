@@ -6,7 +6,7 @@
 - **Viajeros:** 2 personas. **4-12 sept se separan:** Bruno hace **Portugal** (Lisboa 5n + Porto 3n); Katia hace el bloque **Pititas** (Ámsterdam 3n + París 5n)
 - **Países:** 13 países (incluye Portugal)
 - **Ciudades/Bases:** 23 paradas + **3 noches de margen flex** (sin asignar aún)
-- **Presupuesto estimado:** **~$11,675-16,110 pp (Bruno) · ~$11,897-16,384 pp (Katia)** · **~$23,570-32,495 total** · ya confirmado **$9,233.42**. Desglose **por ciudad** (con $/día) en [`PRESUPUESTO.md`](PRESUPUESTO.md)
+- **Presupuesto estimado:** **~$10,712-15,083 pp (Bruno) · ~$10,905-15,360 pp (Katia)** · **~$21,620-30,445 total** · ya confirmado **$9,233.42**. Desglose **por ciudad** (con $/día) en [`PRESUPUESTO.md`](PRESUPUESTO.md). Asume comidas con patrón **5/7 picnic + 5/7 cocinar en el hostel** → **reservar siempre con cocina**
 
 ## Planificación: fechas fijas vs. tentativas
 

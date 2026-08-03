@@ -2,7 +2,7 @@
 
 **Fechas cerradas:** hasta fin del desvío Portugal (**12 sept**). **Post Portugal:** fechas tentativas — priorizar investigación; reservar alojamiento/traslados cuando se confirme tramo y noches. **3 noches de margen:** sin destino; no reservar hasta decidir si se usan y dónde.
 
-**Presupuesto:** **~$23.6k-32.5k** total viaje · **$9,233.42 ya confirmados** (Bruno $4,578.83 · Katia $4,654.59). Desglose **por ciudad** con $/día en [`PRESUPUESTO.md`](PRESUPUESTO.md).
+**Presupuesto:** **~$21.6k-30.4k** total viaje · **$9,233.42 ya confirmados** (Bruno $4,578.83 · Katia $4,654.59). Desglose **por ciudad** con $/día en [`PRESUPUESTO.md`](PRESUPUESTO.md).
 
 ## 🗓️ Calendario de acción (ordenado — de lo más urgente a lo más lejano)
 
