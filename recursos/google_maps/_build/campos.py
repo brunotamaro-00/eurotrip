@@ -55,16 +55,18 @@ SIMBOLO_A_ISO = {
 _NUM = r"\d{1,3}(?:[.,]\d{3})*(?:[.,]\d{1,2})?"
 _RANGO = rf"{_NUM}(?:\s*(?:[-–—]|a|/)\s*{_NUM})?"
 _PRE = r"€|£|\$|CHF|EUR|GBP|USD"
-_SUF = r"CZK|Kč|Kc|PLN|zł|zl|HUF|Ft"
+_SUF = r"CZK|Kč|Kc|PLN|zł|zl|HUF|Ft|€|EUR|£|GBP"
 
 # "€26" · "CHF 115–140" · "£15-20" · "~€5"
 PRECIO_PREFIJO_RE = re.compile(rf"(?<![\w])(?:~|≈|desde\s+|approx\.?\s*)?({_PRE})\s?({_RANGO})", re.I)
-# "700 CZK" · "143 PLN" · "14,000 HUF" · "530 Ft"
+# "700 CZK" · "143 PLN" · "14,000 HUF" · "15 €" · "6,50 €" · "~35 €"
 PRECIO_SUFIJO_RE = re.compile(rf"(?<![\w])(?:~|≈|desde\s+)?({_RANGO})\s?({_SUF})(?![\w])")
 # equivalente en euros que el .md ya escribió al lado: "(~€28)"
 EQUIV_EUR_RE = re.compile(rf"\(\s*[~≈]?\s*€\s?({_RANGO})\s*\)")
 
-GRATIS_RE = re.compile(r"(?i)\b(gratis|gratuit[ao]s?|entrada libre|free entry|free\b)")
+# "entrada libre" NO es gratis: en museos suele significar visita libre (vs guiada)
+# por un precio ("Entrada libre ~15 €" = Palais Garnier).
+GRATIS_RE = re.compile(r"(?i)\b(gratis|gratuit[ao]s?|free entry|free admission)\b")
 
 URL_RE = re.compile(r"https?://[^\s`>)]+")
 # Un link sirve para el CSV solo si permite sacar entrada o reservar. Los

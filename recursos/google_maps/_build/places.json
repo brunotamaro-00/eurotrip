@@ -26911,16 +26911,16 @@
    98
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Barrio marginal reconvertido con huerta social, murales y un circo comunitario. Visita con sentido; hay recorridos guiados solidarios",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -33269,21 +33269,22 @@
    10
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Incluida",
   "descripcion": "Historia de la fundación de Roma",
-  "url": "",
-  "reserva": "",
+  "url": "https://ticketing.colosseo.it/",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--basilica-di-massenzio",
@@ -33303,21 +33304,22 @@
    11
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Incluida",
   "descripcion": "Está dentro del Foro Romano, no es una iglesia",
   "url": "",
-  "reserva": "",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--santa-maria-maggiore",
@@ -33337,21 +33339,22 @@
    11
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--santa-maria-della-vittoria",
@@ -33371,21 +33374,22 @@
    11
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "El Éxtasis de Santa Teresa, de Bernini",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--ghetto-ebraico",
@@ -33473,16 +33477,16 @@
    16
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Menos turístico; Alan lo hizo con el tour de la Vespa",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -33507,16 +33511,16 @@
    16
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -33541,21 +33545,22 @@
    22
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Souvenirs de cuero",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--biblioteca-angelica",
@@ -33575,21 +33580,22 @@
    24
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "roma--auditorium-parco-della-musica",
@@ -33609,21 +33615,22 @@
    161
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según evento",
   "descripcion": "Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--duomo-di-napoli",
@@ -33643,21 +33650,22 @@
    7
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--santa-chiara",
@@ -33677,21 +33685,22 @@
    7
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€7",
   "descripcion": "Ir al claustro de mayólicas",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--gesu-nuovo",
@@ -33711,21 +33720,22 @@
    7
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Fachada de puntas de diamante",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--via-san-gregorio-armeno",
@@ -33779,21 +33789,22 @@
    9
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€9",
   "descripcion": "Otro acceso a la Nápoles subterránea",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--via-toledo",
@@ -33847,16 +33858,16 @@
    10
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En los Quartieri Spagnoli",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -33881,21 +33892,22 @@
    12
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€10",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--galleria-umberto-i",
@@ -33915,16 +33927,16 @@
    13
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -33949,21 +33961,22 @@
    14
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según función",
   "descripcion": "teatrosancarlo.it",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.teatrosancarlo.it/",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "napoles--palazzo-salerno",
@@ -33983,16 +33996,16 @@
    16
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En la Piazza del Plebiscito",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -34017,16 +34030,16 @@
    16
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En la Piazza del Plebiscito",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -34051,16 +34064,16 @@
    16
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En la Piazza del Plebiscito",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -34221,21 +34234,22 @@
    9
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€6",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "liubliana--catedral",
@@ -34255,21 +34269,22 @@
    13
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Puertas de bronce",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "liubliana--iglesia-franciscana",
@@ -34289,21 +34304,22 @@
    13
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La iglesia rosa de Prešernov trg",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "liubliana--kongresni-trg",
@@ -34391,21 +34407,22 @@
    67
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Obra maestra de Plečnik",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "liubliana--zale",
@@ -34561,21 +34578,22 @@
    33
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€33",
   "descripcion": "Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento",
   "url": "",
-  "reserva": "",
-  "mejor_momento": "",
+  "reserva": "Recomendada",
+  "mejor_momento": "Antes de las 9am; verificar si está abierto",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
-   "mejor_momento": ""
+   "reserva": "web",
+   "mejor_momento": "web"
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "karst--veliki-naravni-most",
@@ -34697,21 +34715,22 @@
    36
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "trieste--piazza-unita",
@@ -34765,21 +34784,22 @@
    31
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€17",
   "descripcion": "El wow visual de Trieste, pero consume traslado. Solo si da el horario",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.coopculture.it/en/products/ticket-museo-storico-e-parco-del-castello-di-miramare/",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "trieste--caffe-degli-specchi",
@@ -34799,21 +34819,22 @@
    29
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Consumo",
   "descripcion": "Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "trieste--antico-caffe-san-marco",
@@ -34833,21 +34854,22 @@
    30
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Consumo",
   "descripcion": "Histórico y muy lindo, estilo Mitteleuropa",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "berna--altstadt",
@@ -35037,21 +35059,22 @@
    100
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "CHF 7 (≈€7.5)",
   "descripcion": "El departamento donde vivió Einstein, ambientado como en la época",
-  "url": "",
-  "reserva": "",
+  "url": "https://einstein-bern.ch/en/booking",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "berna--zytglogge",
@@ -35071,21 +35094,22 @@
    102
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "El símbolo de Berna. Cada hora en punto hay un espectáculo mecánico; llegar unos minutos antes. La visita al mecanismo es paga y requiere reserva",
   "url": "",
-  "reserva": "",
-  "mejor_momento": "",
+  "reserva": "No necesaria",
+  "mejor_momento": "Cada hora en punto, llegar unos minutos antes",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
-   "mejor_momento": ""
+   "reserva": "web",
+   "mejor_momento": "web"
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "berna--berner-munster",
@@ -35105,19 +35129,19 @@
    104
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La iglesia más importante de Suiza. Entrada gratis; subir a la torre CHF 7-10, con las mejores vistas de la ciudad y el Aare",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
-  "precio_ambiguo": false,
+  "precio_ambiguo": true,
   "url_ticketing": false,
   "linea_md": ""
  },
@@ -35173,16 +35197,16 @@
    107
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "El Parlamento suizo. Visitas guiadas gratuitas, conviene reservar con anticipación",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "katia_md",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -35309,21 +35333,22 @@
    110
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "CHF 18 (≈€19)",
   "descripcion": "El Museo Einstein está adentro",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "berna--nydeggbrucke",
@@ -35445,21 +35470,22 @@
    80
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "1 hs 30' desde Interlaken",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "kandersteg--oeschinensee",
@@ -35479,13 +35505,13 @@
    82
   ],
   "match": "exacto",
-  "precio": "Gratis",
+  "precio": "CHF 36-40 (≈€39)",
   "descripcion": "Teleférico + 30' caminando. Ida y vuelta CHF 36-40. Se puede subir a pie (1h30) pero el sendero no es lindo. Arriba vale mucho la pena caminar por la orilla",
   "url": "",
   "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "derivado",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "derivado",
@@ -35581,16 +35607,16 @@
    64
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Una de las puertas por donde subir a caminar las murallas",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -35717,21 +35743,22 @@
    179
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "£23 (≈€27)",
   "descripcion": "Katia: descartado — 'otros que creo que no nos interesan'",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.royalyachtbritannia.co.uk/visit/tickets-and-tours/",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "edimburgo--oink",
@@ -35751,21 +35778,22 @@
    170
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Consumo",
   "descripcion": "Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "londres--leicester-square",
@@ -35921,16 +35949,16 @@
    157
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La entrada al Ministerio de Magia en las películas",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -35955,16 +35983,16 @@
    96
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En Greenwich Park, junto al observatorio",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -35989,20 +36017,20 @@
    112
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€15",
   "descripcion": "~15 €. Katia: al pedo si ya fuimos al de Londres",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.mnhn.fr/fr/visite/grande-galerie-de-l-evolution",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
+  "url_ticketing": true,
   "linea_md": ""
  },
  {
@@ -36023,21 +36051,22 @@
    116
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€12",
   "descripcion": "Katia: descartado (meh). Ciencia e inventos, revolución industrial; está dentro de una iglesia",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.arts-et-metiers.net/musee/tarifs-et-horaires",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "paris--musee-rodin",
@@ -36057,20 +36086,20 @@
    118
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€15",
   "descripcion": "Katia: descartado (no iría). ~15 €; muy buenos jardines",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
+  "url_ticketing": true,
   "linea_md": ""
  },
  {
@@ -36227,16 +36256,16 @@
    143
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Katia: yo iría, y un domingo. Los domingos 17h hay recital de órgano. Entrada gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -36261,16 +36290,16 @@
    145
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Estilo más francés y menos medieval. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -36295,20 +36324,20 @@
    161
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€35",
   "descripcion": "Jardines + Hall of Mirrors + Domaine de Marie-Antoinette, ~35 €. Ir al primer horario (9h) y evitar los martes. Alan hizo 1 hs de fila con entrada comprada",
-  "url": "",
-  "reserva": "",
-  "mejor_momento": "",
+  "url": "https://en.chateauversailles.fr/plan-your-visit/tickets-and-prices",
+  "reserva": "Obligatoria",
+  "mejor_momento": "Primera hora; Passport jardines+palacio",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
-   "mejor_momento": ""
+   "url": "web",
+   "reserva": "web",
+   "mejor_momento": "web"
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
+  "url_ticketing": true,
   "linea_md": ""
  },
  {
@@ -36329,21 +36358,22 @@
    181
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Librería del Barrio Latino",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "paris--villa-leandre",
@@ -36533,21 +36563,22 @@
    192
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Desde €125",
   "descripcion": "En Pigalle norte, la zona más turística y de barrio rojo",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.moulinrouge.fr/en/booking/",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "paris--canal-de-lourcq",
@@ -36737,16 +36768,16 @@
    203
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Galerías muy lindas para caminar",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -37009,16 +37040,16 @@
    232
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Muy lindo para pasar caminando de noche",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -37077,21 +37108,22 @@
    235
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Muy linda, cerca del Palais Royal",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "paris--bnf-richelieu",
@@ -37111,16 +37143,16 @@
    237
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La sede más linda y antigua. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -37145,16 +37177,16 @@
    239
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Mucho más pequeña y antigua. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -37179,13 +37211,13 @@
    243
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€15",
   "descripcion": "La ópera. Entrada libre ~15 €; hay obras desde 15 € aunque las buenas son caras",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -37281,21 +37313,22 @@
    253
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según exposición",
   "descripcion": "Espacio de exposiciones y ferias; el precio depende de la muestra. Katia: pasar por afuera",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "paris--les-invalides",
@@ -37315,19 +37348,19 @@
    115
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€17",
   "descripcion": "Tumba de Napoleón. ~17 €; la iglesia y los jardines son gratis",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
    "mejor_momento": ""
   },
-  "precio_ambiguo": false,
+  "precio_ambiguo": true,
   "url_ticketing": false,
   "linea_md": ""
  },
@@ -37689,16 +37722,16 @@
    214
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Siete casas con estilos de distintos países europeos. Curiosidad arquitectónica, zona Museumplein/Vondelpark",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -37757,21 +37790,22 @@
    221
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€14,50",
   "descripcion": "El edificio más antiguo de Ámsterdam. Se llega caminando desde Dam Square y se puede visitar",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.oudekerk.nl/en/opening-hours-admission-prices/40784",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "amsterdam--nieuwe-kerk",
@@ -37791,21 +37825,22 @@
    220
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según exposición",
   "descripcion": "En Dam Square",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.nieuwekerk.nl/en/visit/",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "amsterdam--koninklijk-paleis",
@@ -37825,21 +37860,22 @@
    220
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€13,50",
   "descripcion": "En Dam Square",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.paleisamsterdam.nl/en/visit/",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "amsterdam--leidseplein",
@@ -38131,21 +38167,22 @@
    50
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según tren WAB",
   "descripcion": "Fin del Eiger Trail; se vuelve en tren",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "grindelwald--wilderswil",
@@ -38165,21 +38202,22 @@
    56
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Desde acá sale el tren cremallera a Schynige Platte",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "lauterbrunnen--weisse-lutschine",
@@ -38233,21 +38271,22 @@
    26
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según tramo SBB",
   "descripcion": "Sendero Grütschalp → Mürren: muy fácil, todo plano, 1 hs",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "lauterbrunnen--obersteinberg",
@@ -38267,21 +38306,22 @@
    43
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Trekking desde Gimmelwald. El más alpino y menos turístico. Media, 3-4 hs, ~500 m de desnivel",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "lucerna--wasserturm",
@@ -38301,16 +38341,16 @@
    18
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La torre junto al Kapellbrücke",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38471,16 +38511,16 @@
    23
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Solo verlo por fuera. Uno de los edificios renacentistas más importantes de Suiza",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38539,16 +38579,16 @@
    40
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38573,21 +38613,22 @@
    40
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "innsbruck--spitalskirche",
@@ -38607,21 +38648,22 @@
    40
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "innsbruck--annasaule",
@@ -38675,16 +38717,16 @@
    40
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Fachada del casco antiguo",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38709,16 +38751,16 @@
    40
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Fachada rococó frente al Tejadillo de Oro",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38777,21 +38819,22 @@
    35
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Pueblo cercano",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "viena--volksgarten",
@@ -38845,16 +38888,16 @@
    112
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Pequeña, con uno de los interiores barrocos más bellos. Suele haber conciertos gratuitos de órgano",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38879,16 +38922,16 @@
    113
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Neogótica, cerca de la Universidad. Muy linda desde afuera",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -38913,21 +38956,22 @@
    114
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€15",
   "descripcion": "Katia: descartado. Entierro de los Habsburgo; recomendable si interesa el Imperio Austrohúngaro",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.kaisergruft.at/site/en/visit/prices",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "viena--nationalbibliothek",
@@ -38947,21 +38991,22 @@
    120
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€12",
   "descripcion": "De las bibliotecas históricas más espectaculares de Europa",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.onb.ac.at/en/opening-hours/admission-fees",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "viena--rathaus",
@@ -38981,16 +39026,16 @@
    121
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Neogótico. Las visitas guiadas gratuitas son un buen agregado si coinciden con el horario",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -39015,16 +39060,16 @@
    122
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Recientemente restaurado. Interesante incluso solo desde afuera",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -39287,13 +39332,13 @@
    151
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€4-15",
   "descripcion": "Standing tickets 4-15 €. Ir 80 min antes y hacer fila en la entrada lateral de Operngasse. Llevar bufanda para reservar el lugar en la barra",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39321,13 +39366,13 @@
    153
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€7-10",
   "descripcion": "Sala dorada, acústica perfecta. Donde toca la Filarmónica de Viena. Standing 7-10 €",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39355,21 +39400,22 @@
    162
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Según concierto",
   "descripcion": "Otra opción de concierto además del Musikverein",
   "url": "",
-  "reserva": "",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "viena--ankeruhr",
@@ -39389,16 +39435,16 @@
    154
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Reloj histórico. Ver el desfile de figuras a las 12 del mediodía",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -39525,16 +39571,16 @@
    109
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La iglesia más importante del país, dentro del Castillo. La nave principal se ve gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -39593,21 +39639,22 @@
    111
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Incluida",
   "descripcion": "La iglesia románica más antigua del castillo; incluida en el circuito",
   "url": "",
-  "reserva": "",
+  "reserva": "Recomendada",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "praga--san-nicolas",
@@ -39627,13 +39674,13 @@
    113
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "150 CZK (≈€6)",
   "descripcion": "De las iglesias barrocas más impresionantes de Europa. ~150 CZK",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39661,13 +39708,13 @@
    114
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "230 CZK (≈€9.2)",
   "descripcion": "Complejo barroco famoso por su carillón. ~230 CZK",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39695,13 +39742,13 @@
    115
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "180 CZK (≈€7.2)",
   "descripcion": "Monasterio + biblioteca barroca. ~180 CZK la biblioteca",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39729,13 +39776,13 @@
    116
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "380 CZK (≈€15)",
   "descripcion": "La biblioteca barroca es de las salas más lindas de Europa. Incluye la Torre Astronómica. ~380 CZK",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39763,13 +39810,13 @@
    117
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "190 CZK (≈€7.6)",
   "descripcion": "Antigua puerta medieval de la ciudad. ~190 CZK",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -39797,16 +39844,16 @@
    118
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Art Nouveau. Vale la pena entrar aunque no se haga la visita guiada; el edificio es gratuito",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40035,13 +40082,13 @@
    160
   ],
   "match": "exacto",
-  "precio": "Gratis",
+  "precio": "300 CZK (≈€12)",
   "descripcion": "De las mejores vistas del casco histórico. ~300 CZK. Es el mismo edificio del Reloj Astronómico",
   "url": "",
   "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "derivado",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "derivado",
@@ -40069,16 +40116,16 @@
    161
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Contrasta fuerte con la arquitectura histórica de Praga",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40103,16 +40150,16 @@
    162
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Galería comercial histórica, famosa por la escultura invertida de San Wenceslao",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40137,13 +40184,13 @@
    99
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "20 PLN (≈€4.7)",
   "descripcion": "Historia comunista. ~20 PLN",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -40171,13 +40218,13 @@
    100
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "75 PLN (≈€18)",
   "descripcion": "Katia: descartado. Arte, ~75 PLN",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -40239,16 +40286,16 @@
    113
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40273,16 +40320,16 @@
    114
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Vitrales Art Nouveau de Stanisław Wyspiański. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40307,21 +40354,22 @@
    115
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Neogótica, en Podgórze",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "cracovia--stare-miasto",
@@ -40579,13 +40627,13 @@
    147
   ],
   "match": "exacto",
-  "precio": "Gratis",
+  "precio": "30 PLN (≈€7)",
   "descripcion": "Katia: descartado. El mejor mirador panorámico de Cracovia, ~30 PLN",
   "url": "",
   "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "derivado",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "derivado",
@@ -40613,16 +40661,16 @@
    152
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Exterior gratuito; visitas según programación",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -40851,21 +40899,22 @@
    99
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En el parque Városliget",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "budapest--opera",
@@ -40885,21 +40934,22 @@
    100
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "12760 HUF (≈€32)",
   "descripcion": "También hay visitas guiadas",
-  "url": "",
-  "reserva": "",
+  "url": "https://www.opera.hu/",
+  "reserva": "Obligatoria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "budapest--holocaust-memorial",
@@ -40919,21 +40969,22 @@
    101
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "3600 HUF (≈€9)",
   "descripcion": "",
-  "url": "",
-  "reserva": "",
+  "url": "https://hdke.hu/en/about-us/visitors/tickets/",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "budapest--museo-nacional",
@@ -40953,21 +41004,22 @@
    101
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "3500 HUF (≈€8.8)",
   "descripcion": "",
-  "url": "",
-  "reserva": "",
+  "url": "https://mnm.hu/en/tickets",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "budapest--gozsdu-udvar",
@@ -40987,16 +41039,16 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Siete patios interiores conectados que atraviesan una manzana del Barrio Judío. Zona gastronómica y de ocio",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41055,21 +41107,22 @@
    116
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "4500 HUF (≈€11)",
   "descripcion": "Turístico y bastante caro; se puede subir caminando sin problema",
-  "url": "",
-  "reserva": "",
+  "url": "https://siklojegy.hu/en/tickets",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
-   "url": "",
-   "reserva": "",
+   "url": "web",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
-  "url_ticketing": false,
-  "linea_md": ""
+  "url_ticketing": true,
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "budapest--citadella",
@@ -41123,16 +41176,16 @@
    96
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La antigua aduana medieval; durante siglos el centro económico de la ciudad",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41157,21 +41210,22 @@
    101
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Katia: opcional",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "colmar--saint-matthieu",
@@ -41191,21 +41245,22 @@
    102
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Protestante, sencilla y tranquila. Katia: opcional",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "colmar--rue-des-marchands",
@@ -41293,13 +41348,13 @@
    100
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€6,50",
   "descripcion": "Vida cotidiana alsaciana en casas medievales conectadas por pasarelas. 6,50 €",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -41327,16 +41382,16 @@
    110
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Muy linda y menos turística. Mezcla católica, protestante y medieval. Gratis",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41361,16 +41416,16 @@
    121
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Antigua casa de curtidores convertida en restaurante, en La Petite France",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41429,16 +41484,16 @@
    138
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "La casa alsaciana más famosa de Estrasburgo. Muy impresionante visualmente",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41565,21 +41620,22 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Destacado del Neustadt",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "estrasburgo--palais-du-rhin",
@@ -41599,16 +41655,16 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Destacado del Neustadt",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41633,16 +41689,16 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Destacado del Neustadt",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41667,21 +41723,22 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Destacado del Neustadt",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "estrasburgo--gare",
@@ -41701,16 +41758,16 @@
    130
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Destacado del Neustadt: la cúpula de vidrio sobre la fachada histórica",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41735,16 +41792,16 @@
    132
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "En el Parc de l'Orangerie",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -41905,21 +41962,22 @@
    129
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "€3,50",
   "descripcion": "Funicular al Schlossberg; también se sube caminando en 20-30 min",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  },
  {
   "id": "friburgo--augustinerplatz",
@@ -42041,16 +42099,16 @@
    237
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "El único punto de servicio en un tramo largo de la A87",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "derivado",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "derivado",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
@@ -42109,13 +42167,13 @@
    266
   ],
   "match": "exacto",
-  "precio": "Gratis",
+  "precio": "£4 (≈€4.7)",
   "descripcion": "Isla con castillo en ruinas dentro del loch. Circuito de ~3 km, parking £4",
   "url": "",
   "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "derivado",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "derivado",
@@ -42143,13 +42201,13 @@
    266
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "£20 (≈€23)",
   "descripcion": "~£20. También está el rebaño de renos único en el UK",
   "url": "",
   "reserva": "",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "katia_md",
    "descripcion": "md",
    "url": "",
    "reserva": "",
@@ -42245,20 +42303,21 @@
    295
   ],
   "match": "exacto",
-  "precio": "",
+  "precio": "Gratis",
   "descripcion": "Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra",
   "url": "",
-  "reserva": "",
+  "reserva": "No necesaria",
   "mejor_momento": "",
   "origen": {
-   "precio": "",
+   "precio": "web",
    "descripcion": "md",
    "url": "",
-   "reserva": "",
+   "reserva": "web",
    "mejor_momento": ""
   },
   "precio_ambiguo": false,
   "url_ticketing": false,
-  "linea_md": ""
+  "linea_md": "",
+  "verificado_el": "2026-08-03"
  }
 ]

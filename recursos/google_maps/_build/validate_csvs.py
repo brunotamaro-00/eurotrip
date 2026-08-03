@@ -30,10 +30,14 @@ FIELDS = [
 PRIORIDADES = {"Quiero ir", "Quizás", "Solo mapeado"}
 RESERVAS = {"", "Obligatoria", "Recomendada", "No necesaria"}
 # Precio: Gratis · £31 · £31 (≈€36) · CHF 32 (≈€34) · HUF 4900 (≈€12) · €18-25
+# También: Incluida · Consumo · Según exposición/evento · Desde €125
 PRECIO_OK_RE = re.compile(
     r"^(?:"
     r"Gratis(?:\s*\([^)]{1,40}\))?"
     r"|Incluida"
+    r"|Consumo"
+    r"|Según\s+\S.{0,40}"
+    r"|Desde\s+[£€$].{0,20}"
     r"|(?:desde\s+)?"
     r"(?:"
     r"£\d[\d.,/\-–]*"
