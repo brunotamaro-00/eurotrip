@@ -1,206 +1,1146 @@
 [
  {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 115,
+  "ciudad": "Londres",
+  "nombre": "SANDEMANs Free Tour",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés y español)* — ~3h cubriendo Westminster, Whitehall, Trafalgar Square, Covent Garden y The City; guías freelancers locales cuyo único ingreso es la propina — motivación muy alta; tours en EN y ES disponibles (GRATIS — **propina sugerida £10-15** pp) — punto de encuentro: fuera de la National Gallery en Trafalgar Square; reservar slot online aunque sea gratis `https://www.neweuropetours.eu/sandemans-tours/london/free-tour-of-london/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 116,
+  "ciudad": "Londres",
+  "nombre": "Civitatis Free Tour Londres",
+  "motivo": "nombre no mapeable",
+  "texto": "*(exclusivo en español)* — Tour de 3h exclusivamente en español con guías hispanohablantes seleccionados y pagados por la plataforma (no freelancers); 9.5/10 con más de 5.000 opiniones de viajeros latinoamericanos y españoles; calidad narrativa más alta al 100% en tu idioma (GRATIS — propina cultural, no obligatoria) — la opción más recomendada para hispanohablantes `https://www.civitatis.com/ar/londres/free-tour-londres/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 117,
+  "ciudad": "Londres",
+  "nombre": "Strawberry Tours",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Alternativa a SANDEMANs con grupos más pequeños; foco en zonas alternativas (Shoreditch, street art, Thames South Bank); ideal como segundo tour si ya se hizo el clásico el día 1 (GRATIS — **propina sugerida £10-15**) `https://www.strawberrytours.com/london`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 118,
+  "ciudad": "Londres",
+  "nombre": "GuruWalk Londres",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés y español)* — Marketplace de guías independientes locales; variedad de nichos: barrio de Jack the Ripper, Southwark medieval, pubs históricos, arquitectura georgiana; calidad muy variable según guía — leer reviews individuales antes de reservar (GRATIS — **propina libre**) `https://www.guruwalk.com/london`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 153,
+  "ciudad": "Londres",
+  "nombre": "Leadenhall Market",
+  "motivo": "duplicado en el archivo",
+  "texto": "- El mercado victoriano dorado fue la entrada al Callejón Diagón y el Caldero Chorreante en las películas — ir entre semana para verlo sin turistas de HP `https://www.leadenhallmarket.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 184,
+  "ciudad": "Londres",
+  "nombre": "BBC Proms — 10 agosto",
+  "motivo": "seccion:🎉 Eventos Especiales: 5-13 Agosto 2026",
+  "texto": "- Juilliard Orchestra + Royal Academy of Music Symphony con violinista Vilde Frang dirigidos por Esa-Pekka Salonen (**£8 Promenade + standing**) `https://www.bbc.co.uk/proms`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 185,
+  "ciudad": "Londres",
+  "nombre": "BBC Proms — 13 agosto",
+  "motivo": "seccion:🎉 Eventos Especiales: 5-13 Agosto 2026",
+  "texto": "- Gershwin: Piano Concerto in F con Yeol Eum Son y BBC Symphony Orchestra dirigida por James Gaffigan (**£8 Promenade**) `https://www.bbc.co.uk/proms`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 186,
+  "ciudad": "Londres",
+  "nombre": "Labyrinth on the Thames (fin de semana 8-9 agosto)",
+  "motivo": "seccion:🎉 Eventos Especiales: 5-13 Agosto 2026",
+  "texto": "- Instalaciones de arte y performances en vivo en el Old Royal Naval College de Greenwich (gratis; verificar programa 2026) `https://www.oldroyalnavalcollege.org/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Londres/actividades.md",
+  "line": 187,
+  "ciudad": "Londres",
+  "nombre": "Open Air Theatre — Regent's Park",
+  "motivo": "seccion:🎉 Eventos Especiales: 5-13 Agosto 2026",
+  "texto": "- Temporada de teatro al aire libre activa en agosto; verificar cartelera 2026 `https://openairtheatre.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/York/actividades.md",
+  "line": 62,
+  "ciudad": "York",
+  "nombre": "GuruWalk York",
+  "motivo": "nombre no mapeable",
+  "texto": "*(inglés / verificar español)* — Marketplace; algunos guías ofrecen tours en español de forma esporádica; filtrar por idioma y confirmar disponibilidad antes de ir (GRATIS — **propina libre**) `https://www.guruwalk.com/york`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/York/actividades.md",
+  "line": 94,
+  "ciudad": "York",
+  "nombre": "Ghost Walks",
+  "motivo": "seccion:🎉 Eventos Especiales: 13-15 Agosto 2026",
+  "texto": "- Corren todas las noches del año; los de agosto son especialmente buenos por el ambiente de verano — reservar con anticipación (desde £10) `https://www.theoriginalghostwalk.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/York/actividades.md",
+  "line": 95,
+  "ciudad": "York",
+  "nombre": "Ebor Festival (York Races)",
+  "motivo": "seccion:🎉 Eventos Especiales: 13-15 Agosto 2026",
+  "texto": "- Las carreras de caballos más importantes de Yorkshire comienzan el **19 agosto**, 4 días después de la salida; la ciudad estará empezando a llenarse. Si tienen interés, el hipódromo es espectacular aunque las carreras no coinciden con las fechas `https://www.yorkracecourse.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 73,
+  "ciudad": "Edimburgo",
+  "nombre": "Calton Hill",
+  "motivo": "duplicado en el archivo",
+  "texto": "- 20 min caminando desde la Royal Mile; vistas 360° de la ciudad, el castillo y el Firth of Forth; mejor al atardecer; los monumentos son pintorescos aunque inacabados (GRATIS subir; Nelson Monument ~£8 para entrar)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 75,
+  "ciudad": "Edimburgo",
+  "nombre": "Scott Monument",
+  "motivo": "duplicado en el archivo",
+  "texto": "- 287 escalones de caracol, cada plataforma con mejores vistas; perspectiva única sobre Princes Street Gardens desde arriba (**~£10** — ver Sitios Históricos)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 100,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh Festival Fringe (7-31 ago)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- El festival de artes más grande del mundo; 3.500+ espectáculos en 300+ locales por toda la ciudad; cientos de shows GRATUITOS en la Royal Mile cada día + tickets desde £5 en venues; la ciudad entera es un escenario `https://www.edfringe.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 101,
+  "ciudad": "Edimburgo",
+  "nombre": "Royal Edinburgh Military Tattoo (7-29 ago, Lu-Sáb, 21h)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Espectáculo de bandas militares, gaitas y desfiles frente al Castillo iluminado; \"A Call to Gather\" (tema 2026, Royal Air Force como servicio líder) — **tickets casi seguramente agotados** (se venden meses antes); check resale o pararse en Royal Mile a las 21h para escuchar las gaitas (£21.60-£64 según sector) `https://www.edintattoo.co.uk/tickets/tattoo-2026`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 102,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh International Festival (agosto)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Festival \"curado\" paralelo al Fringe; ópera, danza contemporánea, música clásica y teatro en venues principales; tickets desde £8 `https://www.eif.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 103,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh Art Festival (29 jul-23 ago)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Exposiciones de arte en galerías por toda la ciudad; muchas GRATIS; combina bien con los museos nacionales `https://www.edinburghartfestival.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 104,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh International Book Festival (agosto)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Charlas, lecturas y debates con autores internacionales en Charlotte Square; tickets desde £8-15; algunos eventos GRATIS `https://www.edbookfest.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 105,
+  "ciudad": "Edimburgo",
+  "nombre": "Ghost Tour nocturno",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Edimburgo tiene más \"avistamientos documentados\" por km² que cualquier otra ciudad de Europa; los tours de City of the Dead y Mercat Tours son los más recomendados en Reddit (**desde £10-15**) — reservar en agosto `https://www.mercattours.com/` / `https://www.blackhart.uk.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 106,
+  "ciudad": "Edimburgo",
+  "nombre": "Ceilidh (baile tradicional escocés)",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- Varios locales organizan ceilidhs en agosto para turistas y locales; animado, físico y muy divertido aunque no sepas bailar; buscar cartelera en Assembly Rooms o locales de Grassmarket (**desde £10-15 entrada**)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 107,
+  "ciudad": "Edimburgo",
+  "nombre": "Sandy Bell's Folk Pub",
+  "motivo": "seccion:🎭 Festival, Teatro, Música y Shows",
+  "texto": "- El pub de música folk tradicional más famoso de Edimburgo; sesiones de trad escocés la mayoría de las noches; sin cobro entrada (solo la pinta) `https://sandybells.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 115,
+  "ciudad": "Edimburgo",
+  "nombre": "SANDEMANs New Edinburgh",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés y español)* — La empresa de free tours nació aquí en 2003: Edimburgo es la cuna del modelo; ~2.5h por Old Town, Royal Mile, Greyfriars Kirkyard, Canongate y Holyrood con guías freelancers locales (GRATIS — **propina sugerida £10-12** pp) — punto de encuentro: Mercat Cross en la Royal Mile; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/edinburgh/free-tour-of-edinburgh/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 123,
+  "ciudad": "Edimburgo",
+  "nombre": "Civitatis Free Tour Edimburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(exclusivo en español)* — Tour clásico del Old Town en español con guías seleccionados; ideal para quien llega sin conocimiento previo de la historia escocesa (GRATIS — propina cultural) `https://www.civitatis.com/ar/edimburgo/free-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 124,
+  "ciudad": "Edimburgo",
+  "nombre": "GuruWalk Edimburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Marketplace con guías independientes; varios ofrecen tours en español; filtrar por idioma y leer reviews individuales (GRATIS — **propina libre**) `https://www.guruwalk.com/free-walking-tour-edinburgh`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 136,
+  "ciudad": "Edimburgo",
+  "nombre": "Dean Village",
+  "motivo": "duplicado en el archivo",
+  "texto": "- Aldea medieval en el Water of Leith; la calle Bells Brae y el puente Dean Bridge son spots icónicos; llegar en 20 min caminando desde el centro (ver Parques)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 138,
+  "ciudad": "Edimburgo",
+  "nombre": "Grassmarket",
+  "motivo": "duplicado en el archivo",
+  "texto": "- Por la mañana, mercado y cafés; por la noche, el epicentro de la vida nocturna local con decenas de pubs sobre la plaza"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 151,
+  "ciudad": "Edimburgo",
+  "nombre": "Greyfriars Kirkyard",
+  "motivo": "duplicado en el archivo",
+  "texto": "- Tumba de Thomas Riddell (el \"Tom Riddle\" original), lápidas con McGonagall, Moody, Moodie y docenas de otros apellidos usados por Rowling; imperdible para fans (GRATIS — ver también Sitios Históricos)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 155,
+  "ciudad": "Edimburgo",
+  "nombre": "George Heriot's School (exterior)",
+  "motivo": "duplicado en el archivo",
+  "texto": "- Escuela del s. XVII con cuatro torres y un sistema de casas que muchos señalan como la inspiración más directa de Hogwarts; visible desde Greyfriars (GRATIS)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 175,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh Festival Fringe (activo todo el tiempo)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Buscar el programa antes de llegar; hundreds of free acts en la Royal Mile de 10am a 22h; shows de pago recomendados: reservar 1-2 semanas antes para comedias más populares `https://www.edfringe.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 176,
+  "ciudad": "Edimburgo",
+  "nombre": "Royal Edinburgh Military Tattoo (activo, Lu-Sáb, 21:00)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Check resale platforms para entradas; si no, posicionarse en Calton Hill o el Royal Mile a las 21:00 para escuchar las gaitas y ver el castillo iluminado `https://www.edintattoo.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 177,
+  "ciudad": "Edimburgo",
+  "nombre": "Crieff Highland Gathering — 16 agosto (domingo — verificar fecha 2026)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Highland Games a ~1h en auto de Edimburgo; lanzamiento de tronco (caber toss), tiro de piedra, gaitas y danza; una de las más auténticas de agosto `https://www.crieffhighlandgathering.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 178,
+  "ciudad": "Edimburgo",
+  "nombre": "El cañón de la 1pm (One O'Clock Gun)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Disparado desde el castillo todos los días a la 1pm (excepto domingos y festividades); sonido retumba por todo Old Town; punto de encuentro histórico — llegar a la Royal Mile antes de la 1pm para vivirlo"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 179,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh Art Festival (hasta 23 ago)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Exposiciones de arte en galerías por toda la ciudad; muchas GRATIS; buscar programa `https://www.edinburghartfestival.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Edimburgo/actividades.md",
+  "line": 180,
+  "ciudad": "Edimburgo",
+  "nombre": "Edinburgh International Book Festival (agosto)",
+  "motivo": "seccion:🎉 Eventos Especiales: 15-18 Agosto 2026",
+  "texto": "- Activo durante las fechas; charlas y eventos en Charlotte Square `https://www.edbookfest.co.uk/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 65,
+  "ciudad": "Highlands",
+  "nombre": "Tren Jacobite (Harry Potter Express)",
+  "motivo": "nombre no mapeable",
+  "texto": "- El tren de vapor Fort William→Mallaig cruza el viaducto de Glenfinnan (verificar dirección: **Fort William → Mallaig** es la pasada famosa); pasa por el viaducto **~30-40 min después de salir de Fort William**. Horarios típicos de verano: **Morning** sale FW 10:15 / llega Mallaig 12:25 · **Afternoon** sale FW 12:50 / llega Mallaig 15:06 (→ pasa el viaducto ~10:50 y ~13:25 aprox; **verificar timetable 2026**). El tren pasa rápido, dura segundos; NO hay compra online aún — intentar en taquilla de Fort William station el mismo día (**~£39 adulto ida y vuelta** — verificar precio 2026) `https://westcoastrailways.co.uk/jacobite/timetables`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 130,
+  "ciudad": "Highlands",
+  "nombre": "Eilean Donan Castle (Dornie)",
+  "motivo": "duplicado en el archivo",
+  "texto": "- El castillo más fotogénico de Escocia, en su islote con tres lochs; aunque no se entre, **parar a verlo desde fuera** (gratis); ya descrito en la ruta de ida si se visitó por dentro (**£13 adulto** interior) `https://www.eileandonancastle.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 200,
+  "ciudad": "Highlands",
+  "nombre": "Ciervos rojos",
+  "motivo": "seccion:🦌 Wildlife Watching",
+  "texto": "- Los más grandes de las Islas Británicas; se ven regularmente en Glencoe, Glen Nevis y los valles abiertos de las Highlands; amanecer y atardecer son los mejores momentos"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 201,
+  "ciudad": "Highlands",
+  "nombre": "Chanonry Point (delfines)",
+  "motivo": "seccion:🦌 Wildlife Watching",
+  "texto": "- Ver arriba Base 3; casi garantizado en agosto con marea alta; nariz de botella del Moray Firth"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 202,
+  "ciudad": "Highlands",
+  "nombre": "Águilas calvas (White-tailed Eagles)",
+  "motivo": "seccion:🦌 Wildlife Watching",
+  "texto": "- En Skye, especialmente en la costa sur de Trotternish y alrededor de Portree; las águilas han recolonizado Skye desde los 80s; buscar silueta de \"tabla de planchar volando\""
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 203,
+  "ciudad": "Highlands",
+  "nombre": "Nutrias (otters)",
+  "motivo": "seccion:🦌 Wildlife Watching",
+  "texto": "- En ríos y costas de Skye (Kyleakin, Broadford) y Plockton; amanecer/atardecer en orilla tranquila; buscar rastros de cangrejos en piedras"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/01_Reino_Unido/Highlands/actividades.md",
+  "line": 204,
+  "ciudad": "Highlands",
+  "nombre": "Focas grises",
+  "motivo": "seccion:🦌 Wildlife Watching",
+  "texto": "- En las costas rocosas alrededor de Fort William, Mallaig y el Loch Linhe; frecuentes en la hora dorada"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 41,
+  "ciudad": "Ámsterdam",
+  "nombre": "Alquilar bici — MacBike u otro",
+  "motivo": "nombre no mapeable",
+  "texto": "- Ámsterdam tiene más bicis que personas; es LA forma de moverse; ciudad completamente plana (**MacBike: ~€12-17.50/día** bici estándar; seguro opcional €4.95/día) — Black Bikes y Donkey Republic son alternativas más baratas; reservar online ahorra ~€1 pp `https://www.macbike.nl/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 51,
+  "ciudad": "Ámsterdam",
+  "nombre": "Ferry a Noord (NDSM)",
+  "motivo": "nombre no mapeable",
+  "texto": "- Ferry gratuito desde Centraal Station que cruza el IJ; 15min; vista del skyline de Ámsterdam desde el agua (GRATIS) — a Martu le gustó usarlo como \"mini paseo\" gratis por el agua, alternativa barata al canal cruise `https://gvb.nl/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 164,
+  "ciudad": "Ámsterdam",
+  "nombre": "SANDEMANs Free Tour Ámsterdam",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés y español)* — ~2h cubriendo Dam Square, canales del s. XVII, barrio judío, Jordaan; termina cerca de la Anne Frank House; guías freelancers locales con alta motivación (su único ingreso es la propina) (GRATIS — **propina sugerida €10-15** pp) — punto de encuentro: **National Monument en Dam Square**; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/amsterdam/free-tour-of-amsterdam/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 165,
+  "ciudad": "Ámsterdam",
+  "nombre": "SANDEMANs Red Lights & Dark Amsterdam",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Tour específico del Red Light District (~1.5h); historia, ética y contexto del trabajo sexual en De Wallen desde el s. XVII; imprescindible hacerlo antes de recorrer el barrio solo — da el marco para entenderlo (GRATIS — **propina sugerida €10-15**) `https://www.neweuropetours.eu/sandemans-tours/amsterdam/red-light-district-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 166,
+  "ciudad": "Ámsterdam",
+  "nombre": "GuruWalk Ámsterdam",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace de guías independientes; variedad de nichos: canales de Jordaan, barrio judío, Golden Age, historia de la guerra; leer reviews individuales de cada guía — calidad variable (GRATIS — **propina libre**) `https://www.guruwalk.com/amsterdam`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 170,
+  "ciudad": "Ámsterdam",
+  "nombre": "Civitatis Free Tour Ámsterdam",
+  "motivo": "nombre no mapeable",
+  "texto": "*(exclusivo en español)* — Tour de ~2h del centro histórico en español; guías hispanohablantes seleccionados y pagados por la plataforma; muy bien valorado por viajeros latinoamericanos (GRATIS — propina cultural no obligatoria) `https://www.civitatis.com/ar/amsterdam/free-tour-amsterdam/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 171,
+  "ciudad": "Ámsterdam",
+  "nombre": "GuruWalk Ámsterdam en español",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Varios guías independientes ofrecen tours en español; filtrar por idioma \"español\" y leer el perfil del guía; más variedad temática que Civitatis pero calidad más variable (GRATIS — **propina libre**) `https://www.guruwalk.com/amsterdam`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 180,
+  "ciudad": "Ámsterdam",
+  "nombre": "Ferry al Noord",
+  "motivo": "nombre no mapeable",
+  "texto": "— Cruzar el IJ en ferry desde detrás de Centraal Station; vistas del skyline desde el agua (GRATIS)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 208,
+  "ciudad": "Ámsterdam",
+  "nombre": "Uitmarkt (~28-30 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "⭐ — El festival cultural más grande de los Países Bajos y la **apertura oficial de la temporada cultural** (*De Opening van het culturele seizoen*); último fin de semana de agosto, con música, teatro, danza, exhibiciones, talleres y actividades **gratuitas** repartidas por la ciudad (suele concentrarse en **Museumplein / Leidseplein**); sin reserva — mirar el cronograma el momento y acercarse a lo que interese; **coincide con el final de la estadía** `https://www.uitmarkt.nl/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 209,
+  "ciudad": "Ámsterdam",
+  "nombre": "Pluk de Nacht Film Festival (hasta 29 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Cine al aire libre gratuito, Het Stenen Hoofd, 19:00-00:00; verificar programa 2026 `https://www.pluknacht.nl/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 210,
+  "ciudad": "Ámsterdam",
+  "nombre": "Wooferland Festival (~28 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Festival de música electrónica oldschool (house, trance, techno), Deelplan Houtrak, +18; verificar fechas exactas 2026"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 211,
+  "ciudad": "Ámsterdam",
+  "nombre": "ZeeZout Festival (~28 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Electrónica al aire libre; verificar fechas 2026"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 212,
+  "ciudad": "Ámsterdam",
+  "nombre": "South East Jazz Festival (~28-29 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Jazz gratuito en Amsterdam-Zuidoost; verificar programa 2026"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 213,
+  "ciudad": "Ámsterdam",
+  "nombre": "Pure Markt (~29 ago, 11:00-18:00)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Gastronomía artesanal, música y picnic en Park Frankendael; verificar puremarkt.nl"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 214,
+  "ciudad": "Ámsterdam",
+  "nombre": "IJ-Hallen (~28-29 ago)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Mercado de pulgas gigante en NDSM; mensual, verificar ijhallen.nl"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/02_Paises_Bajos/Amsterdam/actividades.md",
+  "line": 215,
+  "ciudad": "Ámsterdam",
+  "nombre": "Noordermarkt (29 ago — sábado)",
+  "motivo": "seccion:🎉 Eventos: 25-29 agosto 2026",
+  "texto": "— Mercado orgánico de Jordaan; si se sale a París por la tarde, hacer el mercado por la mañana"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 91,
+  "ciudad": "París",
+  "nombre": "SANDEMANs Free Tour París",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — ~3h cubriendo Notre-Dame, Sainte-Chapelle, exterior del Louvre, Pont Neuf y barrio de las islas; el mejor tour para orientarse en la ciudad (GRATIS — **propina sugerida €10-15** pp) — punto de encuentro: **fuente de Place Saint-Michel**; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/paris/free-tour-of-paris/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 92,
+  "ciudad": "París",
+  "nombre": "SANDEMANs Montmartre Tour",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — ~2.5h por Sacré-Cœur, Moulin Rouge, estudios de artistas, historia de Van Gogh y Picasso en Montmartre (GRATIS — **propina sugerida €10-15**) `https://www.neweuropetours.eu/sandemans-tours/paris/paris-montmartre-walking-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 93,
+  "ciudad": "París",
+  "nombre": "SANDEMANs Latin Quarter Tour",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — ~2h por la Sorbonne, Panthéon, callejones medievales y cafés literarios históricos (GRATIS — **propina sugerida €10-15**) `https://www.neweuropetours.eu/sandemans-tours/paris/paris-latin-quarter-walking-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 94,
+  "ciudad": "París",
+  "nombre": "GuruWalk París",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace de guías independientes; tours de Montmartre (desde estación Blanche, 90min), Marais, historia de la guerra, canales; leer reviews individuales del guía (GRATIS — **propina libre**) `https://www.guruwalk.com/paris`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 98,
+  "ciudad": "París",
+  "nombre": "Civitatis Free Tour París",
+  "motivo": "nombre no mapeable",
+  "texto": "*(exclusivo en español)* — ~2h por el centro histórico en español; guías hispanohablantes seleccionados y pagados por la plataforma (GRATIS — propina cultural) `https://www.civitatis.com/es/paris/free-tour-paris/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 99,
+  "ciudad": "París",
+  "nombre": "Civitatis Free Tour Barrio Latino",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — El barrio universitario más histórico de París en español; ~2h (GRATIS — propina cultural) `https://www.civitatis.com/es/paris/visita-guiada-barrio-latino/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 100,
+  "ciudad": "París",
+  "nombre": "Civitatis Free Tour Misterios y Leyendas",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — La leyenda del barbero y el panadero de la Rue Chanoinesse y los orígenes oscuros de las Catacumbas (GRATIS — propina cultural) `https://www.civitatis.com/es/paris/mysteries-and-legends-free-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 101,
+  "ciudad": "París",
+  "nombre": "Civitatis Free Tour en Bicicleta",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Desde Bastille hasta la Torre Eiffel en bici (GRATIS — propina cultural) `https://www.civitatis.com/es/paris/free-tour-bicicleta-paris/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 102,
+  "ciudad": "París",
+  "nombre": "GuruWalk París en español",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Filtrar por idioma español; calidad variable según guía (GRATIS — **propina libre**) `https://www.guruwalk.com/paris`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 125,
+  "ciudad": "París",
+  "nombre": "Jazz à la Villette",
+  "motivo": "seccion:🎉 Eventos: 29 agosto - 4 septiembre 2026",
+  "texto": "(28 ago - 6 sept 2026) — Festival de jazz, soul, funk, hip-hop en La Villette; conciertos pagos (~**€20-40**) y algunos gratuitos; Snarky Puppy, Selah Sue entre los artistas — reservar online con anticipación para headliners `https://jazzalavillette.com/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 126,
+  "ciudad": "París",
+  "nombre": "Marchés aux Puces de Saint-Ouen",
+  "motivo": "seccion:🎉 Eventos: 29 agosto - 4 septiembre 2026",
+  "texto": "— domingo 30 agosto (el día ideal del viaje; abren 10am)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 127,
+  "ciudad": "París",
+  "nombre": "Marché Bastille",
+  "motivo": "seccion:🎉 Eventos: 29 agosto - 4 septiembre 2026",
+  "texto": "— jueves 3 septiembre; el mercado del barrio parisino en su mejor momento"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Paris/actividades.md",
+  "line": 128,
+  "ciudad": "París",
+  "nombre": "Festival Silhouette",
+  "motivo": "seccion:🎉 Eventos: 29 agosto - 4 septiembre 2026",
+  "texto": "— festival de cortometrajes al aire libre, gratis. Cada noche: concierto + proyección de cortos. Pantalla gigante. Gente joven, local, ambiente relajado."
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 44,
+  "ciudad": "Colmar",
+  "nombre": "Marché Couvert (Les Halles)",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "⭐ - El mercado cubierto de Colmar; uno de los mejores de Alsacia; charcutería, queso munster de producción local, foie gras, vinos alsacianos, brezel fresco; almorzar de pie entre los puestos es lo más auténtico y barato de Colmar (~**€8-12** almuerzo) `https://www.marche-couvert-colmar.fr/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 45,
+  "ciudad": "Colmar",
+  "nombre": "Tarte flambée / Flammekueche",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- La \"pizza alsaciana\" de masa finísima; la versión clásica con crème fraîche, cebolla y lardons; la comida obligatoria de Colmar (~**€10-14**)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 46,
+  "ciudad": "Colmar",
+  "nombre": "Baeckeoffe",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- El cassoulet de tres carnes marinadas en vino blanco con patatas; el plato de invierno/otoño de Alsacia; en winstub auténtica (~**€18-24**)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 47,
+  "ciudad": "Colmar",
+  "nombre": "Foie gras de Alsacia",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- Alsacia es la capital del foie gras de pato; en cualquier charcutería del mercado cubierto o como entrante en restaurante (~**€12-18** entrante)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 48,
+  "ciudad": "Colmar",
+  "nombre": "Vinos de la Route des Vins",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- Septiembre es la vendimia; los vinos blancos alsacianos en su mejor momento; bodegas abiertas en el pueblo, cata directamente con productores (~**€4-6** copa / **€8-15** botella de productor local)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 49,
+  "ciudad": "Colmar",
+  "nombre": "Kougelhopf",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- El bizcocho alsaciano esponjoso con forma de corona; el desayuno/merienda del viaje por Alsacia (~**€3-5** la porción en pastelería)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 50,
+  "ciudad": "Colmar",
+  "nombre": "Brezel fresco",
+  "motivo": "seccion:🛒 Mercados y Gastronomía",
+  "texto": "- El pretzel alsaciano; mucho mejor que el empaquetado; en panaderías del centro (~**€1.50-2**)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 73,
+  "ciudad": "Colmar",
+  "nombre": "GuruWalk Colmar",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — El tour más completo y mejor valorado de la ciudad (algunos guías tienen 5.0/5); cubre Petite Venise, Maison Pfister, el casco medieval, historia de la ocupación alemana y el Retablo de Isenheim en contexto (GRATIS — **propina libre**) — punto de encuentro: **puerta de la Iglesia Saint-Martin** (confirmar con el guía) `https://www.guruwalk.com/colmar`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 77,
+  "ciudad": "Colmar",
+  "nombre": "Civitatis Free Tour Colmar",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — ~2h por la Petite Venise y el casco histórico en español; punto de encuentro: **puerta de la Iglesia Saint-Martin** (GRATIS — propina cultural) `https://www.civitatis.com/en/colmar/free-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Colmar/actividades.md",
+  "line": 78,
+  "ciudad": "Colmar",
+  "nombre": "GuruWalk Colmar en español",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Filtrar por idioma español; verificar disponibilidad (GRATIS — **propina libre**) `https://www.guruwalk.com/colmar`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Estrasburgo/actividades.md",
+  "line": 73,
+  "ciudad": "Estrasburgo",
+  "nombre": "GuruWalk Estrasburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace; guía historiador con el tour más completo y mejor valorado de la plataforma (4.9/5); cubre la Grande Île, historia franco-alemana, Petite France (GRATIS — **propina libre**) `https://www.guruwalk.com/strasbourg`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Estrasburgo/actividades.md",
+  "line": 77,
+  "ciudad": "Estrasburgo",
+  "nombre": "Civitatis Free Tour Estrasburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — ~2h por el casco histórico en español; guías hispanohablantes seleccionados (GRATIS — propina cultural) `https://www.civitatis.com/en/strasbourg/free-walking-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/03_Francia/Estrasburgo/actividades.md",
+  "line": 78,
+  "ciudad": "Estrasburgo",
+  "nombre": "GuruWalk Estrasburgo en español",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Filtrar por idioma español; verificar disponibilidad (GRATIS — **propina libre**) `https://www.guruwalk.com/strasbourg`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 84,
+  "ciudad": "Lisboa",
+  "nombre": "Museu do Fado",
+  "motivo": "duplicado en el archivo",
+  "texto": "- La historia completa del fado sin tener que pagar la cena (~**€8** adulto) — buena opción para entender el fado antes de ir a verlo en vivo `https://www.museudofado.pt/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 107,
+  "ciudad": "Lisboa",
+  "nombre": "SANDEMANs Free Tour Lisboa",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés y español)* — ~3h cubriendo Baixa, Alfama, los barrios históricos y la historia de Lisboa desde los romanos hasta el terremoto de 1755 (GRATIS — **propina sugerida €10-15** pp) — punto de encuentro: **Praça do Comércio, junto a la estatua ecuestre de D. José I**; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/lisbon/free-tour-of-lisbon/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 108,
+  "ciudad": "Lisboa",
+  "nombre": "GuruWalk Lisboa",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace de guías independientes; tours de Alfama, Mouraria, Belém; filtrar por idioma y reviews (GRATIS — **propina libre**) `https://www.guruwalk.com/lisbon`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 112,
+  "ciudad": "Lisboa",
+  "nombre": "Civitatis Free Tour Lisboa",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — ~2h por el centro histórico en español (GRATIS — propina cultural) — punto de encuentro: **Praça do Comércio** (confirmar al reservar) `https://www.civitatis.com/es/lisboa/free-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 113,
+  "ciudad": "Lisboa",
+  "nombre": "Civitatis Free Tour Alfama",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Tour específico por el barrio más auténtico en español; historia morisca, fado y las calles del s. VIII (GRATIS — propina cultural) `https://www.civitatis.com/en/lisbon/free-tour-alfama/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 114,
+  "ciudad": "Lisboa",
+  "nombre": "Civitatis Free Tour Barrio Alto y Chiado",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — El Lisboa bohemio y moderno en español — punto de encuentro: **Praça do Comércio** (GRATIS — propina cultural) `https://www.civitatis.com/es/lisboa/free-tour-lisboa-bohemia/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 115,
+  "ciudad": "Lisboa",
+  "nombre": "Civitatis Free Tour Belém",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — La zona de los descubrimientos en español; Jerónimos, Torre, Padrão (GRATIS — propina cultural) `https://www.civitatis.com/en/lisbon/free-walking-tour-belem/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Lisboa/actividades.md",
+  "line": 116,
+  "ciudad": "Lisboa",
+  "nombre": "Civitatis Free Tour Misterios y Leyendas",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — La Lisboa oscura y sobrenatural (GRATIS — propina cultural) `https://www.civitatis.com/es/lisboa/free-tour-misterios-leyendas/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 83,
+  "ciudad": "Porto",
+  "nombre": "SANDEMANs Free Tour Porto",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — ~3h cubriendo Ribeira, São Bento, Clérigos y la historia de Porto desde los romanos hasta el s. XX (GRATIS — **propina sugerida €10-15** pp) — punto de encuentro: **estatua del Obispo António Ferreira Gomes, frente a la Torre dos Clérigos**; reservar slot online `https://www.neweuropetours.eu/sandemans-tours/porto/free-tour-of-porto/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 84,
+  "ciudad": "Porto",
+  "nombre": "GuruWalk Porto",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace de guías independientes; tours de Ribeira, Gaia, Vila de Retorno (rutas alternativas); filtrar por reviews del guía específico (GRATIS — **propina libre**) `https://www.guruwalk.com/porto`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 88,
+  "ciudad": "Porto",
+  "nombre": "Civitatis Free Tour Porto",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — ~2h por el centro histórico en español; guías hispanohablantes seleccionados — punto de encuentro: **Plaza de la Libertad / Avenida dos Aliados** (confirmar al reservar) (GRATIS — propina cultural) `https://www.civitatis.com/en/porto/porto-free-walking-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 89,
+  "ciudad": "Porto",
+  "nombre": "Civitatis Free Tour Ribeira",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Tour específico por el barrio histórico UNESCO en español — punto de encuentro: **Calçada de Vandoma** (GRATIS — propina cultural) `https://www.civitatis.com/en/porto/ribeira-guided-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 90,
+  "ciudad": "Porto",
+  "nombre": "Civitatis Free Tour Lado Oculto de Porto",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Las joyas desconocidas y la historia alternativa de Porto (GRATIS — propina cultural) `https://www.civitatis.com/en/porto/hidden-side-guided-tour/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 91,
+  "ciudad": "Porto",
+  "nombre": "GuruWalk Porto en español",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Filtrar por idioma español; calidad variable según guía (GRATIS — **propina libre**) `https://www.guruwalk.com/porto`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/04_Portugal/Porto/actividades.md",
+  "line": 115,
+  "ciudad": "Porto",
+  "nombre": "Vindima (vendimia) en el Douro",
+  "motivo": "seccion:🎉 Eventos: 9-12 septiembre 2026",
+  "texto": "⭐ — septiembre es temporada de cosecha; el pico es 15 sept-10 oct, pero algunas quintas ya cosechan la 2ª semana; experiencias de pisar uvas y cosechar (**€150-250 pp**) o day tour estándar (**€90-150**) — los tours de vendimia se agotan con 3-4 meses de anticipación; si interesa la Opción C del Día 3, reservar YA `https://www.authentictrails.com/en/douro-valley-harvest-season`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/05_Alemania/Friburgo/actividades.md",
+  "line": 89,
+  "ciudad": "Friburgo",
+  "nombre": "GuruWalk Friburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en inglés)* — Marketplace de guías locales; tours de la Altstadt, historia de los Bächle, arquitectura del Münster y la historia de la ciudad entre Francia y Alemania; filtrar por reviews del guía (GRATIS — **propina libre**) `https://www.guruwalk.com/freiburg-im-breisgau`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/05_Alemania/Friburgo/actividades.md",
+  "line": 93,
+  "ciudad": "Friburgo",
+  "nombre": "Civitatis Free Tour Friburgo",
+  "motivo": "nombre no mapeable",
+  "texto": "*(en español)* — Tour del casco histórico en español; guías hispanohablantes verificados (GRATIS — propina cultural) `https://www.civitatis.com/en/freiburg-im-breisgau/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/05_Alemania/Friburgo/actividades.md",
+  "line": 94,
+  "ciudad": "Friburgo",
+  "nombre": "Free Tour Europe (Friburgo español)",
+  "motivo": "nombre no mapeable",
+  "texto": "- Operador especializado en tours en español para ciudades alemanas (GRATIS — propina) `https://freetoureurope.com/friburgo/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/05_Alemania/Friburgo/actividades.md",
+  "line": 102,
+  "ciudad": "Friburgo",
+  "nombre": "SWR3 New Pop Festival — 17-19 sept 2026, en BADEN-BADEN (no Friburgo)",
+  "motivo": "seccion:🎶 Eventos: 16-19 septiembre 2026",
+  "texto": "⚠️ corrección: el festival es en Baden-Baden (~1h en tren desde Friburgo); conciertos íntimos de artistas emergentes + **conciertos GRATIS diarios** en la concha del Kurhaus y programa gratuito en la \"New Pop City\" — posible day trip si interesa; las entradas de pago se agotan con semanas `https://www.baden-baden.com/en/events/swr3-new-pop-festival`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/05_Alemania/Friburgo/actividades.md",
+  "line": 103,
+  "ciudad": "Friburgo",
+  "nombre": "Münstermarkt en sábado",
+  "motivo": "seccion:🎶 Eventos: 16-19 septiembre 2026",
+  "texto": "— el mercado de los sábados es el más completo; productos de la Selva Negra, vinos de Baden, quesos locales (sáb 19, mañana de salida)"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/06_Suiza/Interlaken/actividades.md",
+  "line": 14,
+  "ciudad": "Interlaken",
+  "nombre": "Parapente tándem (Skywings / Paragliding Interlaken)",
+  "motivo": "nombre no mapeable",
+  "texto": "- Despegue desde Beatenberg, aterrizaje junto al lago en pleno centro; 20–30 min de vuelo con los dos lagos y el Jungfrau de fondo; **vuelo de la mañana = aire más calmo**; **CHF 150–208 (~€162–225)** `https://paragliding-interlaken.ch/en/`"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/06_Suiza/Interlaken/actividades.md",
+  "line": 15,
+  "ciudad": "Interlaken",
+  "nombre": "Canyoning (Chli Schliere y otros)",
+  "motivo": "nombre no mapeable",
+  "texto": "- Descenso de cañones: saltos a pozas, toboganes naturales, rápel por cascadas; **CHF 115–140 (~€124–151)**; medio día"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/06_Suiza/Interlaken/actividades.md",
+  "line": 17,
+  "ciudad": "Interlaken",
+  "nombre": "Rafting (Lütschine / Simme)",
+  "motivo": "nombre no mapeable",
+  "texto": "- Aguas bravas glaciares; **CHF 88–123 (~€95–133)**; medio día"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/06_Suiza/Lauterbrunnen/actividades.md",
+  "line": 24,
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Alquilar bici y pedalear el valle",
+  "motivo": "nombre no mapeable",
+  "texto": "- Lo llano del valle (Lauterbrunnen → Stechelberg) se hace ideal en bici; varias tiendas alquilan por horas/día; la forma más linda de ver las cascadas sin caminar"
+ },
+ {
+  "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/06_Suiza/Lauterbrunnen/actividades.md",
+  "line": 86,
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Trümmelbachfälle",
+  "motivo": "duplicado en el archivo",
+  "texto": "- 100% interior; el mejor plan de lluvia de toda la región; **CHF 16**"
+ },
+ {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Lagos Alpinos/actividades.md",
   "line": 73,
+  "ciudad": "Lagos Alpinos",
   "nombre": "Kremna rezina (Bled cream cake)",
-  "motivo": "seccion:🍽️ Gastronomía"
+  "motivo": "seccion:🍽️ Gastronomía",
+  "texto": "- la milhojas de Bled, imperdible — Park Café o Šmon"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Lagos Alpinos/actividades.md",
   "line": 74,
+  "ciudad": "Lagos Alpinos",
   "nombre": "Miel eslovena / productos de abeja carniola",
-  "motivo": "seccion:🍽️ Gastronomía"
+  "motivo": "seccion:🍽️ Gastronomía",
+  "texto": "- Eslovenia es \"país de apicultores\"; comprá miel o *medica* (aguardiente de miel) en Radovljica"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Lagos Alpinos/actividades.md",
   "line": 75,
+  "ciudad": "Lagos Alpinos",
   "nombre": "Lect (pan de miel)",
-  "motivo": "seccion:🍽️ Gastronomía"
+  "motivo": "seccion:🍽️ Gastronomía",
+  "texto": "- corazones de jengibre decorados (Radovljica)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Lagos Alpinos/actividades.md",
   "line": 76,
+  "ciudad": "Lagos Alpinos",
   "nombre": "Trucha / pescado de lago",
-  "motivo": "seccion:🍽️ Gastronomía"
+  "motivo": "seccion:🍽️ Gastronomía",
+  "texto": "- en Bohinj, más \"de montaña\" y tranquilo que Bled"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Lagos Alpinos/actividades.md",
   "line": 77,
+  "ciudad": "Lagos Alpinos",
   "nombre": "Jota / ričet",
-  "motivo": "seccion:🍽️ Gastronomía"
+  "motivo": "seccion:🍽️ Gastronomía",
+  "texto": "- guisos eslovenos de invierno (chucrut/cebada), reconfortantes con frío de octubre"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Karst y Cuevas/actividades.md",
   "line": 49,
+  "ciudad": "Karst y Cuevas",
   "nombre": "Pršut kraški",
-  "motivo": "seccion:🍽️ Gastronomía del Karst"
+  "motivo": "seccion:🍽️ Gastronomía del Karst",
+  "texto": "- jamón curado al viento *bora*, la joya charcutera del Karst; probalo en tabla con queso local"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Karst y Cuevas/actividades.md",
   "line": 50,
+  "ciudad": "Karst y Cuevas",
   "nombre": "Teran",
-  "motivo": "seccion:🍽️ Gastronomía del Karst"
+  "motivo": "seccion:🍽️ Gastronomía del Karst",
+  "texto": "- vino tinto autóctono del Karst, intenso y rústico (denominación protegida)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Karst y Cuevas/actividades.md",
   "line": 51,
+  "ciudad": "Karst y Cuevas",
   "nombre": "Osmice",
-  "motivo": "seccion:🍽️ Gastronomía del Karst"
+  "motivo": "seccion:🍽️ Gastronomía del Karst",
+  "texto": "- \"tabernas de temporada\" familiares donde se vende vino y embutido casero (tradición Karst; verificar si hay abiertas en octubre)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Karst y Cuevas/actividades.md",
   "line": 52,
+  "ciudad": "Karst y Cuevas",
   "nombre": "Jota / mineštra",
-  "motivo": "seccion:🍽️ Gastronomía del Karst"
+  "motivo": "seccion:🍽️ Gastronomía del Karst",
+  "texto": "- guisos reconfortantes (chucrut o alubias) para el frío"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Karst y Cuevas/actividades.md",
   "line": 53,
+  "ciudad": "Karst y Cuevas",
   "nombre": "Miel y brinjevec",
-  "motivo": "seccion:🍽️ Gastronomía del Karst"
+  "motivo": "seccion:🍽️ Gastronomía del Karst",
+  "texto": "- productos locales; el aguardiente de enebro es típico"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 44,
+  "ciudad": "Valle del Soča",
   "nombre": "Rafting en el Soča",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- clásico de Bovec; opera **hasta el 31 oct** (varios operadores) — octubre = río más solitario y tranquilo — **verificar precio/salida** `https://www.socavalley.com/guided-experiences-rafting-soca-river-slovenia/`"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 45,
+  "ciudad": "Valle del Soča",
   "nombre": "Kayak / packraft",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- para quien prefiere algo propio; cursos y bajadas guiadas (temporada baja en oct)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 46,
+  "ciudad": "Valle del Soča",
   "nombre": "Canyoning (cañón Sušec u otros)",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- opera **hasta fin de octubre**; pico de demanda jun–sep — **reservar** `https://www.socavalley.com/guided-experiences-canyoning-outdoor-slovenia/`"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 48,
+  "ciudad": "Valle del Soča",
   "nombre": "Parapente (Bovec/Kobarid)",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- espectacular con buen tiempo; **muy dependiente de viento/nubes** — se decide el día mismo"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 55,
+  "ciudad": "Valle del Soča",
   "nombre": "Kobariški štruklji",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "- los *štruklji* de Kobarid (rollos dulces con nueces y pasas) son **la estrella local**; están en casi todos los restos del \"Círculo Gastronómico de Kobarid\" `https://www.soca-valley.com/en/be-inspired/travel-tips/2021061413425766/delicious-delicacies-6-culinary-delights/`"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 56,
+  "ciudad": "Valle del Soča",
   "nombre": "Trucha del Soča (postrv)",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "- la trucha mármol del río, a la parrilla o al horno — plato bandera del valle"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 57,
+  "ciudad": "Valle del Soča",
   "nombre": "Frika + krompir s skuto",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "- tortilla de papa y queso (frika) y papas con requesón, comida de montaña"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 58,
+  "ciudad": "Valle del Soča",
   "nombre": "Tolminc (queso)",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "- queso DOP de la zona de Tolmin; buscarlo en tablas/quesería local"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 59,
+  "ciudad": "Valle del Soča",
   "nombre": "Hiša Franko",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "(Kobarid) - **3 estrellas Michelin** de Ana Roš, \"kilómetro cero\" del Soča (trucha, ciervo, plantas silvestres) — **reserva con MUCHA anticipación** y presupuesto alto; experiencia destino `https://www.hisafranko.com/en`"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Valle del Soča y Triglav/actividades.md",
   "line": 60,
+  "ciudad": "Valle del Soča",
   "nombre": "Restos del Círculo Gastronómico de Kobarid",
-  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)"
+  "motivo": "seccion:🍽️ Gastronomía (Kobarid es la capital culinaria del valle)",
+  "texto": "- opción realista para probar *štruklji* y frika sin el ticket de Hiša Franko"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 65,
+  "ciudad": "Costa Eslovena",
   "nombre": "Fritolin / pescado frito",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- street food de Piran (calamares, scampi, sardinas); **Fritolin pri Cantini** es el clásico con fama de \"mejor comida del viaje\" — plato ~€20 `https://goaskalocal.com/blog/local-guide-to-piran-slovenia`"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 66,
+  "ciudad": "Costa Eslovena",
   "nombre": "Pescado y mariscos del Adriático",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- la cocina costera es de fuerte **influencia italiana** (más pescado/pasta que salchicha eslovena)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 67,
+  "ciudad": "Costa Eslovena",
   "nombre": "Fleur de sel / sal de Piran",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- la sal artesanal de Sečovlje, souvenir gastronómico top"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 68,
+  "ciudad": "Costa Eslovena",
   "nombre": "Vinos de Istria (Malvazija, Refošk)",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- blancos y tintos autóctonos de la costa; el interior istrio tiene bodegas"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 69,
+  "ciudad": "Costa Eslovena",
   "nombre": "Aceite de oliva istrio",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- de los mejores del mundo en catas recientes"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/11_Eslovenia/Costa Eslovena y Trieste/actividades.md",
   "line": 70,
+  "ciudad": "Costa Eslovena",
   "nombre": "Café triestino",
-  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)"
+  "motivo": "seccion:🍽️ Gastronomía (Istria + Trieste)",
+  "texto": "- Trieste es capital del café (Illy nació acá); pedí un \"capo in b\" (macchiato local)"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Florencia/actividades.md",
   "line": 30,
+  "ciudad": "Florencia",
   "nombre": "Combo Palazzo Pitti completo",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- Galleria Palatina + Giardino di Boboli + Museo degli Argenti + otros museos del complejo; verifica combos actuales en uffizi.it (los paquetes cambian cada temporada); **combo 3 días Uffizi + Pitti + Boboli: ~€38**"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
   "line": 62,
+  "ciudad": "Ostuni",
   "nombre": "Ceglie Messapica",
-  "motivo": "duplicado en el archivo"
+  "motivo": "duplicado en el archivo",
+  "texto": "- Considerada capital gastronómica de la provincia, con murallas mesapias y un casco blanco sin turistas"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
   "line": 59,
+  "ciudad": "Palermo",
   "nombre": "Santa Maria dello Spasimo",
-  "motivo": "duplicado en el archivo"
+  "motivo": "duplicado en el archivo",
+  "texto": "- Programación de jazz y conciertos en la iglesia sin techo. Verificar cartelera"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
   "line": 52,
+  "ciudad": "Noto",
   "nombre": "Caffè Sicilia",
-  "motivo": "seccion:🍨 Comer en Noto"
+  "motivo": "seccion:🍨 Comer en Noto",
+  "texto": "⭐ - Pastelería de **Corrado Assenza**, una de las más célebres de Italia (salió en *Chef's Table: Pastry*). Granitas, cannoli, dulces de almendra, mermeladas. Es una parada gastronómica de destino, no un café más. **€3-8**"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
   "line": 53,
+  "ciudad": "Noto",
   "nombre": "Pasticceria Costanzo",
-  "motivo": "seccion:🍨 Comer en Noto"
+  "motivo": "seccion:🍨 Comer en Noto",
+  "texto": "- La otra grande del Corso, rival histórica del Caffè Sicilia. Granita de almendra célebre. **€3-6**"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
   "line": 54,
+  "ciudad": "Noto",
   "nombre": "Granita di mandorla",
-  "motivo": "seccion:🍨 Comer en Noto"
+  "motivo": "seccion:🍨 Comer en Noto",
+  "texto": "- Estamos en la zona de la **mandorla di Avola**, la mejor almendra de Italia. La granita de almendra de Noto es la referencia"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
   "line": 55,
+  "ciudad": "Noto",
   "nombre": "Vino Nero d'Avola y Moscato di Noto",
-  "motivo": "seccion:🍨 Comer en Noto"
+  "motivo": "seccion:🍨 Comer en Noto",
+  "texto": "- La zona vitivinícola está al lado; hay enotecas en el Corso con cata"
  },
  {
   "file": "/Users/brunotamaro/Desktop/Trip/Itinerary/13_España/Barcelona/actividades.md",
   "line": 29,
+  "ciudad": "Barcelona",
   "nombre": "Articket BCN",
-  "motivo": "nombre no mapeable"
+  "motivo": "nombre no mapeable",
+  "texto": "- Ticket combinado para 6 museos (MNAC + Fundació Miró + MACBA + Fundació Tàpies + CCCB + Museu Picasso): **€38** total; válido 1 año — si planean visitar ≥3, sale a cuenta (solo Picasso €19 + Miró €18 + MNAC €12 = €49 por separado)"
  }
 ]

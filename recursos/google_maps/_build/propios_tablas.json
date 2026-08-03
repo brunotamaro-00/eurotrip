@@ -1,0 +1,1828 @@
+[
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Mexicana",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   101,
+   101
+  ],
+  "seccion": "# Guía de Variedades (de menor a mayor intensidad)",
+  "texto": "⭐ Suave; Primera vez — la recomendada para debut"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Tampanensis",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   102,
+   102
+  ],
+  "seccion": "# Guía de Variedades (de menor a mayor intensidad)",
+  "texto": "⭐⭐ Media; Experiencia introspectiva, más contemplativa"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Atlantis",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   103,
+   103
+  ],
+  "seccion": "# Guía de Variedades (de menor a mayor intensidad)",
+  "texto": "⭐⭐⭐ Media-alta; Visual, colores y distorsión moderada"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Valhalla",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   104,
+   104
+  ],
+  "seccion": "# Guía de Variedades (de menor a mayor intensidad)",
+  "texto": "⭐⭐⭐⭐ Fuerte; Para experiencia intensa; NO para primera vez"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "High Hawaiians",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   105,
+   105
+  ],
+  "seccion": "# Guía de Variedades (de menor a mayor intensidad)",
+  "texto": "⭐⭐⭐⭐⭐ Muy fuerte; Nivel avanzado; no sin experiencia previa"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Albert Cuypmarkt",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   134,
+   134
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Lun-Sáb; De Pijp; EL mercado de Ámsterdam; stroopwafels frescos (~€2), comida multicultural, ropa, de todo"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Noordermarkt",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   135,
+   135
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "📅 Sábados; Jordaan; Orgánico, quesos, productos locales; muy curado; cae el **29 ago** — si se sale tarde a París, se puede pasar por la mañana"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Waterlooplein",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   136,
+   136
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Lun-Sáb; Centrum; Pulgas, vintage, curiosidades"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "IJ-Hallen",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   137,
+   137
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Fin de semana mensual; NDSM; Mercado de pulgas más grande de Europa; verificar fechas agosto `https://www.ijhallen.nl/`"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Dappermarkt",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   138,
+   138
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Lun-Sáb; Oost; Multicultural, más local que Albert Cuyp, comida étnica barata"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Bloemenmarkt",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   139,
+   139
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Diario; Centrum; Mercado de flores flotante; turístico pero fotogénico; entre semana es más tranquilo"
+ },
+ {
+  "ciudad": "Ámsterdam",
+  "nombre": "Pure Markt",
+  "src_file": "02_Paises_Bajos/Amsterdam/actividades.md",
+  "src_lines": [
+   140,
+   140
+  ],
+  "seccion": "🛒 Mercados",
+  "texto": "Mensual; Frankendael; Gastronomía artesanal, música, picnic; verificar puremarkt.nl"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "A) Return en góndola",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   20,
+   20
+  ],
+  "seccion": "# 🎚️ Cómo subir/bajar de First — variantes (precio + tiempo)",
+  "texto": "**CHF 72** (~€78); ~50 min ida+vuelta en cabina; Nulo; Comodidad total; máximo tiempo arriba"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "B) One-way subida + bajar a pie",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   21,
+   21
+  ],
+  "seccion": "# 🎚️ Cómo subir/bajar de First — variantes (precio + tiempo)",
+  "texto": "**~CHF 36** (~€39); subís en cabina + **bajás 3–4h a pie** (First→Waldspitz→Bort→Grindelwald); Medio (solo bajada); **La jugada ahorro:** pagás la mitad, ves el lago fresco, evitás la subida dura"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "C) Subir a pie + one-way bajada",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   22,
+   22
+  ],
+  "seccion": "# 🎚️ Cómo subir/bajar de First — variantes (precio + tiempo)",
+  "texto": "**~CHF 36** (~€39); **subís 4–5h a pie** + bajás en cabina; Alto (solo subida); \"Ganarte\" la vista y cuidar las rodillas en la bajada"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "D) 100% gratis: subir y bajar a pie",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   23,
+   23
+  ],
+  "seccion": "# 🎚️ Cómo subir/bajar de First — variantes (precio + tiempo)",
+  "texto": "**CHF 0**; **subida 4–5h + bajada 3–4h = 7–9h** (11–12h con Bachalpsee); Muy alto (~2.260 m desnivel acum.); Solo fondistas, con buen clima; día entero de trekking"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "E) Góndola a Bort + resto a pie",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   24,
+   24
+  ],
+  "seccion": "# 🎚️ Cómo subir/bajar de First — variantes (precio + tiempo)",
+  "texto": "ticket a Bort (más barato); según tramo (Bort↔First ~1,5–2h a pie); Medio; Recortar plata y distancia sin hacerlo entero"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "Bachalpsee desde First",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   44,
+   44
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Fácil; ~1h ida / +100 m; Teleférico First **CHF 72**; 9/10; El lago reflejo; de los más fotografiados de Suiza"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "First → Faulhorn → Schynige Platte",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   45,
+   45
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Intenso; 6–7h / +800/−1200 m; First **CHF 72** (baja en Schynige, tren a Wilderswil); 10/10; El mejor de la región; no con clima incierto"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "Panoramaweg: Männlichen → Kleine Scheidegg",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   46,
+   46
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Fácil; ~1.5h; Teleférico Männlichen desde Grindelwald Terminal (aparte); 10/10; Sendero icónico con Eiger/Mönch/Jungfrau enfrente todo el camino"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "Eiger Trail (Eigergletscher → Alpiglen)",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   47,
+   47
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Moderado; ~2.5–3h; Eiger Express / tren a Eigergletscher (aparte); 10/10; Al pie mismo de la cara norte del Eiger; sobrecogedor"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "Pfingstegg → Bäregg / Stieregg",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   48,
+   48
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Moderado; 2–3h; Teleférico Pfingstegg (barato, aparte); 8/10; Balcón sobre el glaciar inferior de Grindelwald; menos concurrido"
+ },
+ {
+  "ciudad": "Grindelwald",
+  "nombre": "Grindelwald → Grosse Scheidegg",
+  "src_file": "06_Suiza/Grindelwald/actividades.md",
+  "src_lines": [
+   49,
+   49
+  ],
+  "seccion": "🥾 Trekkings desde Grindelwald (day-trips a pie)",
+  "texto": "Mod-Intenso; 3–4h a pie; Gratis a pie / PostBus; 8/10; Paso alpino clásico entre Grindelwald y Meiringen"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "North Face Trail (Mürren)",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   59,
+   59
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Fácil-Mod; ~2.5h / 7.4 km / +380 m; Llegar a Mürren (Eurail); 9/10; Loop con el Eiger enfrente; opción de sumar la cascada **Sprutz**; el nombre lo dice todo"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Mountain View Trail: Grütschalp → Allmendhubel → Mürren",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   60,
+   60
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Fácil; 2–3h; Teleférico Grütschalp (Eurail); 9/10; Sendero-balcón con Eiger/Mönch/Jungfrau todo el rato"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Lauterbrunnen → Mürren (a pie)",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   61,
+   61
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Fácil-Mod; 2–3h / +700 m; Gratis; 9/10; Cascadas + pueblo alpino; subir a pie, bajar en teleférico"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Vía Ferrata Mürren → Gimmelwald",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   62,
+   62
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Exigente (arnés); 2–3h; Gratis (equipo aparte); 9/10; Escaleras y pasos al borde del precipicio sobre el valle; de las más épicas de Suiza; guía/equipo recomendado"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Gimmelwald → Obersteinberg",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   63,
+   63
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Moderado; 3–4h / +500 m; Gratis; 9/10; Valle glaciar remoto, mínimos turistas"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Panoramaweg: Männlichen → Kleine Scheidegg",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   64,
+   64
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Fácil; ~1.5h; Wengen + teleférico Männlichen (aparte); 10/10; Sendero icónico con Eiger/Mönch/Jungfrau enfrente; también accesible desde Grindelwald"
+ },
+ {
+  "ciudad": "Lauterbrunnen",
+  "nombre": "Schynige Platte → Faulhorn → First",
+  "src_file": "06_Suiza/Lauterbrunnen/actividades.md",
+  "src_lines": [
+   65,
+   65
+  ],
+  "seccion": "🥾 Trekkings desde Lauterbrunnen (day-trips a pie)",
+  "texto": "Intenso; 6–7h; Tren desde Wilderswil **CHF 72**; 10/10; El trekking top de la región; llegar a Wilderswil en tren (Eurail); no con clima incierto"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Széchenyi",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   54,
+   54
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "**~13,200 HUF** semana / **~14,800 HUF** finde (locker); Neo-barroco enorme, piscinas exteriores amarillas, muy turístico; Primera vez, fotos icónicas"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Rudas",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   55,
+   55
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "**~11,000-12,000 HUF** semana; Otomano original (s. XVI), cúpula con luz cenital, rooftop con vista al Danubio; Experiencia histórica + atmosférica"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Rudas Night",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   56,
+   56
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "**~15,000 HUF**; Noche viernes/sábado (18:00-04:00); coeducacional; vista nocturna al Danubio; Party + spa combinado"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Lukács",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   57,
+   57
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "**~7,000-8,000 HUF** semana / **~8,000-9,000 HUF** finde (locker); Más local, menos show, patio exterior tranquilo; Si querés menos turistas"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Dandár",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   58,
+   58
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "Verificar (~5,000-7,000 HUF); Pequeño, muy local, sin turistas; La opción \"más auténtica\" según r/budapest"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Gellért",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   59,
+   59
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "~~CERRADO~~; Cerrado desde **01.10.2025** por renovación; **reapertura prevista 2028** — no disponible en este viaje; —"
+ },
+ {
+  "ciudad": "Budapest",
+  "nombre": "Király",
+  "src_file": "10_Hungria/Budapest/actividades.md",
+  "src_lines": [
+   60,
+   60
+  ],
+  "seccion": "# Comparativa 2026",
+  "texto": "Verificar (~8,000 HUF); Otomano pequeño, menos turístico, histórico; Experiencia tranquila"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Castello Svevo",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   173,
+   173
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€10**; **€2** (18-25 UE); **Gratis 1er domingo del mes**; aditusculture.com"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Basilica di San Nicola",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   174,
+   174
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Cripta incluida"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Cattedrale di San Sabino — nave",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   175,
+   175
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Succorpo **~€3-5**"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Teatro Petruzzelli — visita guiada",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   176,
+   176
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; fondazionepetruzzelli.it"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Teatro Petruzzelli — función",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   177,
+   177
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**desde €15-25**; —; Temporada activa en noviembre"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Teatro Margherita (exposiciones)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   178,
+   178
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Pinacoteca Corrado Giaquinto",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   179,
+   179
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Museo Archeologico Santa Scolastica",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   180,
+   180
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Street food tour",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   181,
+   181
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€35-55 pp**; —; Bari Vecchia"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Clase de orecchiette",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   182,
+   182
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€40-70 pp**; —; Con señoras de la Strada delle Orecchiette"
+ },
+ {
+  "ciudad": "Bari",
+  "nombre": "Focaccia barese / panzerotto / sgagliozze",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Bari/actividades.md",
+  "src_lines": [
+   183,
+   183
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€1-3**; —; —"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Combi ticket (Catedral + campanario + cripta + Santa Croce + Santa Chiara + Teatro Romano)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   164,
+   164
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€21**; —; Verificar composición exacta al comprar"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Basilica di Santa Croce",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   165,
+   165
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS (o incluida en el combi); —; Verificar régimen vigente"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Museo Faggiano",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   166,
+   166
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; La mejor relación precio/valor de la ciudad"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Anfiteatro Romano (acceso al ruedo)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   167,
+   167
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3**; —; Se ve gratis desde la plaza"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Castello Carlo V + Museo della Cartapesta",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   168,
+   168
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Museo Archeologico Castromediano",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   169,
+   169
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; Gratis 1er domingo del mes"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Museo Ebraico (Palazzo Taurino)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   170,
+   170
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-7**; —; (verificar)"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "MUST — Museo Storico della Città",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   171,
+   171
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Baroque tour guiado (con subterráneo)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   172,
+   172
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€20-35 pp**; —; —"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Street food tour",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   173,
+   173
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€35-55 pp**; —; —"
+ },
+ {
+  "ciudad": "Lecce",
+  "nombre": "Pasticciotto / rustico",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Lecce/actividades.md",
+  "src_lines": [
+   174,
+   174
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€1.50-2**; —; —"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Caminar los Sassi",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   174,
+   174
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Abierto 24h, sin entrada"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Casa Grotta di Vico Solitario",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   175,
+   175
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€3-5**; **€3** (grupos/estudiantes/+65); casagrotta.it"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Casa Noha (FAI)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   176,
+   176
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€7**; —; Instalación audiovisual; ver al principio"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Palombaro Lungo",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   177,
+   177
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; Visita guiada ~30 min"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Iglesias rupestres (cada una)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   178,
+   178
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€2-4**; —; Idris, San Pietro Barisano, Santa Lucia alle Malve…"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Ticket combinado de museos rupestres",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   179,
+   179
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€12-15**; —; Composición variable; casi siempre conviene"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "MUSMA",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   180,
+   180
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€7-8**; —; Escultura contemporánea en cuevas"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Museo Ridola / Palazzo Lanfranchi",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   181,
+   181
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; Gratis 1er domingo del mes"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Cripta del Peccato Originale",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   182,
+   182
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10-13**; —; **Solo con guía y reserva**; a 14 km"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Visita guiada de los Sassi (grupo)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   183,
+   183
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€25-40 pp**; —; 2-3h"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Visita guiada privada",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   184,
+   184
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€150-250**; —; Por grupo"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Tour del Parco della Murgia",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   185,
+   185
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€30-50 pp**; —; Con cruce del cañón"
+ },
+ {
+  "ciudad": "Matera",
+  "nombre": "Parco della Murgia / Belvedere",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Matera/actividades.md",
+  "src_lines": [
+   186,
+   186
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Verificar estado del Ponte Tibetano"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Casco histórico y miradores",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   157,
+   157
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; —"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Concattedrale di Santa Maria Assunta",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   158,
+   158
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS / donación; —; Rosetón de 24 radios"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Museo di Civiltà Preclassiche (\"Delia\")",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   159,
+   159
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; (verificar apertura)"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Frantoio ipogeo con cata",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   160,
+   160
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€8-20 pp**; —; Con reserva"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Cata en masseria (aceite)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   161,
+   161
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€15-40 pp**; —; Con reserva"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Cata de vino (Locorotondo DOC / Primitivo)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   162,
+   162
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€15-35 pp**; —; Con reserva"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Riserva di Torre Guaceto",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   163,
+   163
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Estacionamiento **~€3-5**"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Parco Archeologico di Egnazia + museo",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   164,
+   164
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6-8**; —; Gratis 1er domingo del mes"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Tour del Valle d'Itria (con traslado)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   165,
+   165
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€60-120 pp**; —; Día completo"
+ },
+ {
+  "ciudad": "Ostuni",
+  "nombre": "Guía local en el casco (1h30)",
+  "src_file": "12_Italia/Sur de Italia/Puglia/Ostuni/actividades.md",
+  "src_lines": [
+   166,
+   166
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€50-90**; —; Por grupo"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Palazzo dei Normanni + Cappella Palatina",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   212,
+   212
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€15.50** (ma-ju) / **€19** (vi-lu); —; Vi-lu incluye Apartamentos Reales + Jardines; federicosecondo.org"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Palazzo Abatellis",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   213,
+   213
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€8**; **€4**; GRATIS 1er domingo del mes"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Palazzo Chiaramonte-Steri",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   214,
+   214
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€8**; —; Solo visita guiada, salidas cada hora; coopculture.it"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "La Zisa",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   215,
+   215
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€7**; **€3.50**; coopculture.it"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Catacombe dei Cappuccini",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   216,
+   216
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€3**; —; catacombefraticappuccini.com"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Teatro Massimo (tour)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   217,
+   217
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€12**; **€6** (-26) · **€9** grupos; 30-40 min; EN/ES/IT/FR; teatromassimo.it"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Cattedrale — nave",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   218,
+   218
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Tesoro/criptas **~€7**; techo **~€7** (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Santa Caterina",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   219,
+   219
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€3** iglesia · **€8** +monasterio · **€10** +techo; —; monasterosantacaterina.com"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Chiesa del Gesù (Casa Professa)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   220,
+   220
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-6** completo; **~€2-3** nave; (verificar en sitio)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Martorana",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   221,
+   221
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€2-3**; —; (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "San Cataldo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   222,
+   222
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€2.50**; —; (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "San Giovanni degli Eremiti",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   223,
+   223
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Orto Botanico",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   224,
+   224
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€7**; —; (verificar en coopculture.it)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Museo Salinas",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   225,
+   225
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "GAM Palermo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   226,
+   226
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€7**; —; gampalermo.it"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Oratorios de Serpotta (S. Cita / S. Lorenzo)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   227,
+   227
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-8** c/u; —; Hay combinado; (verificar)"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Ópera dei Pupi (función)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   228,
+   228
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10**; —; Cuticchio / Teatro Argento"
+ },
+ {
+  "ciudad": "Palermo",
+  "nombre": "Bus 806 a Mondello",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Palermo/actividades.md",
+  "src_lines": [
+   229,
+   229
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€1.60** ida; —; AMAT"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Monastero dei Benedettini (visita guiada)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   196,
+   196
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€9**; **€3.50**; 10:00-17:00; monasterodeibenedettini.it"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Combinado Monastero + Museo Diocesano + Terme Achilliane",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   197,
+   197
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€14**; **€4.50**; Mejor combo de la ciudad"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Teatro Greco-Romano + Odeon",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   198,
+   198
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€6-8**; **€4**; 9:00-19:00, última entrada 18:30; parchiarcheologici.regione.sicilia.it"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Terme Achilliane (solo)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   199,
+   199
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; Ticket en el Museo Diocesano; ma-do 9:00-13:00"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Castello Ursino (Museo Civico)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   200,
+   200
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6-10**; —; (verificar)"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Chiesa della Badia di Sant'Agata (cúpula)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   201,
+   201
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "San Nicolò l'Arena (cúpula)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   202,
+   202
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Museo dello Sbarco 1943",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   203,
+   203
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Museo Belliniano",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   204,
+   204
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Palazzo Biscari (visita guiada)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   205,
+   205
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10**; —; Solo con reserva previa"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Teatro Massimo Bellini (función)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   206,
+   206
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**desde ~€10-20**; —; teatromassimobellini.it"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Cattedrale di Sant'Agata",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   207,
+   207
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; —"
+ },
+ {
+  "ciudad": "Catania",
+  "nombre": "Pescheria / Fera 'o Luni",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Catania/actividades.md",
+  "src_lines": [
+   208,
+   208
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Mañanas, lun-sáb"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Parco Archeologico della Neapolis",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   190,
+   190
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€17**; **€10** (18-24 UE); parchiarcheologici.regione.sicilia.it"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Museo Archeologico Paolo Orsi",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   191,
+   191
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€10**; **€5** (18-25 UE); Gratis menores de 18"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Combinado Neapolis + Paolo Orsi",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   192,
+   192
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€18**; **€9**; Ahorra €9"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Castello Maniace",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   193,
+   193
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€9**; —; **Cerrado lunes**; 8:30-13:30"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Catacombe di San Giovanni",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   194,
+   194
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€10**; —; Solo con visita guiada, ~30 min"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Duomo di Siracusa",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   195,
+   195
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€2**; —; —"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Ipogeo di Piazza Duomo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   196,
+   196
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€2**; —; —"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Miqveh (Bagno Ebraico)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   197,
+   197
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; Solo visita guiada; (verificar)"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Galleria Palazzo Bellomo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   198,
+   198
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Museo del Papiro",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   199,
+   199
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Castello Eurialo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   200,
+   200
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Paseo en barca río Ciane",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   201,
+   201
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10-15 pp**; —; Con reserva"
+ },
+ {
+  "ciudad": "Siracusa",
+  "nombre": "Fonte Aretusa / Tempio di Apollo / Piazza Duomo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Siracusa/actividades.md",
+  "src_lines": [
+   202,
+   202
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; —"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Valle dei Templi (parque)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   166,
+   166
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€16**; Reducido 18-25 UE · **gratis** -18 UE; lavalledeitempli.it"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Valle dei Templi + Museo Archeologico",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   167,
+   167
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€22**; —; Combinado recomendado"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Giardino della Kolymbethra",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   168,
+   168
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6**; —; Gestión FAI, **entrada aparte**; fondoambiente.it"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Museo Archeologico Pietro Griffo (solo)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   169,
+   169
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Shuttle entre entradas del parque",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   170,
+   170
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Audioguía oficial",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   171,
+   171
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Visita guiada compartida (valle)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   172,
+   172
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€15-30 pp**; —; Guía oficial privado €60-100/grupo"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Casa Museo Luigi Pirandello",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   173,
+   173
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-5**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Santa Maria dei Greci",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   174,
+   174
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€2-3**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Cattedrale di San Gerlando",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   175,
+   175
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; Verificar apertura"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Eraclea Minoa",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   176,
+   176
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Scala dei Turchi",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   177,
+   177
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; ⚠️ Acceso a la roca posiblemente restringido"
+ },
+ {
+  "ciudad": "Agrigento",
+  "nombre": "Tour Valle + Scala desde Palermo/Catania",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Agrigento/actividades.md",
+  "src_lines": [
+   178,
+   178
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€70-120 pp**; —; Día completo"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Cattedrale di San Nicolò — nave",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   160,
+   160
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Donación"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Cattedrale — cúpula / terrazas",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   161,
+   161
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar apertura)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Palazzo Nicolaci di Villadorata",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   162,
+   162
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6-8**; —; Piso noble; theintrepidguide.com"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Chiesa di Santa Chiara (+ terraza)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   163,
+   163
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€3-5**; —; La mejor vista del Corso"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Chiesa di San Carlo al Corso (campanario)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   164,
+   164
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€2-3**; —; (verificar)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Palazzo Ducezio (Salone degli Specchi)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   165,
+   165
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Palazzo Castelluccio",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   166,
+   166
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10**; —; Visita guiada"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Palazzo Trigona (terrazas)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   167,
+   167
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€5-8**; —; (verificar)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Ticket combinado de iglesias/terrazas",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   168,
+   168
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10-15**; —; Preguntar en la primera visita"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Convento SS. Salvatore + Museo Civico",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   169,
+   169
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Villa Romana del Tellaro",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   170,
+   170
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6**; —; A 10 min"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Eloro (parque arqueológico)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   171,
+   171
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Noto Antica",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   172,
+   172
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Sin infraestructura"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Guía local (1h30-2h)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   173,
+   173
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€60-100**; —; Por grupo"
+ },
+ {
+  "ciudad": "Noto",
+  "nombre": "Tren Siracusa ↔ Noto",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Noto/actividades.md",
+  "src_lines": [
+   174,
+   174
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4** ida; —; 30 min"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Duomo di San Giorgio (Ibla)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   153,
+   153
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; Donación"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Giardino Ibleo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   154,
+   154
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; —"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Scalinata Santa Maria delle Scale",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   155,
+   155
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "GRATIS; —; 340 escalones"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Chiesa di San Giuseppe",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   156,
+   156
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€2-3**; —; (verificar)"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Museo Archeologico Ibleo",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   157,
+   157
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Castello di Donnafugata",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   158,
+   158
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€10**; —; Castillo + parque con laberinto; verificar días de cierre"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Cava d'Ispica",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   159,
+   159
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Kamarina (parque arqueológico)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   160,
+   160
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€4-6**; —; (verificar)"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Tour Montalbano privado (Modica-Ragusa-Punta Secca-Scicli)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   161,
+   161
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**desde ~€80**; —; Por grupo pequeño"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Tour del Val di Noto compartido",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   162,
+   162
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€60-120 pp**; —; Con traslado"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Guía local en Ibla (2h)",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   163,
+   163
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**€60-100**; —; Por grupo"
+ },
+ {
+  "ciudad": "Ragusa",
+  "nombre": "Bus urbano Superiore ↔ Ibla",
+  "src_file": "12_Italia/Sur de Italia/Sicilia/Ragusa/actividades.md",
+  "src_lines": [
+   164,
+   164
+  ],
+  "seccion": "⚠️ Precios Oficiales de Referencia (2026)",
+  "texto": "**~€1.20-1.50**; —; Líneas 11/33"
+ }
+]

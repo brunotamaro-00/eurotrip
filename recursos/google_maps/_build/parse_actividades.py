@@ -23,14 +23,29 @@ import re
 import unicodedata
 from pathlib import Path
 
+import campos
 from destinos import DESTINOS
 
 ROOT = Path("/Users/brunotamaro/Desktop/Trip/Itinerary")
 HERE = Path(__file__).resolve().parent
 OUT_JSON = HERE / "propios_places.json"
 
-ITEM_RE = re.compile(r"^\s*-\s*\[([ x?~])\]\s*\*\*(.+?)\*\*\s*(.*)$")
+# El checkbox puede colgar de un guion o de una lista numerada. Lucerna usa
+# numeración (`2. [ ] **Kapellbrücke + Wasserturm**`) y con el patrón viejo,
+# que solo aceptaba `-`, sus 5 ítems quedaban invisibles.
+ITEM_RE = re.compile(r"^\s*(?:-|\d+\.)\s*\[([ x?~])\]\s*\*\*(.+?)\*\*\s*(.*)$")
 HEADING_RE = re.compile(r"^##\s*(.+?)\s*$")
+
+# Fila de tabla cuya primera celda es un nombre en negrita:
+#   | **Széchenyi** | **~13,200 HUF** semana | Neo-barroco enorme... |
+# Los .md guardan acá los baños de Budapest, los mercados de Ámsterdam y los
+# trekkings suizos — con su precio al lado. NO se convierten en lugares nuevos:
+# se usan solo para enriquecer filas que ya existen en el CSV (ver
+# build_places.py), porque muchas tablas no son lugares (variedades de trufa,
+# opciones de góndola) y crearían puntos fantasma.
+# El `[^|]*` después de la negrita es necesario: varias filas aclaran algo
+# fuera del nombre — `| **Grindelwald → Grosse Scheidegg** (o en PostBus) |`.
+FILA_TABLA_RE = re.compile(r"^\s*\|\s*\*\*([^|*]+?)\*\*[^|]*\|(.+)$")
 
 # Secciones que no aportan puntos en el mapa. Mismo criterio que build_maps.py.
 SKIP_SECTION_SUBSTR = [
@@ -90,10 +105,6 @@ TYPE_FROM_SECTION = [
 
 PRIORIDAD = {"x": "Quiero ir", "?": "Quizás", " ": "Solo mapeado", "~": "Solo mapeado"}
 
-# `**€26**` / `**GRATIS**` / `**desde €29**`
-PRECIO_RE = re.compile(r"\*\*(GRATIS|Gratis|gratis|[^*]{0,28}?[€$£]\s?[\d.,]+[^*]{0,18})\*\*")
-URL_RE = re.compile(r"`?https?://\S+`?")
-TAG_RE = re.compile(r"^\s*\[[^\]]{0,30}\]\s*")
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]+\)")
 
 
@@ -113,26 +124,6 @@ def infer_tipo(section: str) -> str:
     return "Sitio"
 
 
-def extract_precio(resto: str) -> str:
-    m = PRECIO_RE.search(resto)
-    if not m:
-        return ""
-    p = m.group(1).strip()
-    return "Gratis" if p.lower() == "gratis" else p
-
-
-def clean_notas(resto: str) -> str:
-    t = TAG_RE.sub("", resto)
-    t = URL_RE.sub("", t)
-    t = MD_LINK_RE.sub(r"\1", t)
-    t = t.replace("**", "").replace("`", "")
-    # algunos archivos usan ⭐/⭐⭐ como ranking delante de la descripción
-    t = re.sub(r"^[\s\-–—]*[⭐★☆]+[\s\-–—]*", "", t)
-    t = re.sub(r"^\s*[-–—]\s*", "", t)
-    t = re.sub(r"\s{2,}", " ", t).strip(" ;·-–—,")
-    return t
-
-
 def clean_nombre(nombre: str) -> str:
     n = MD_LINK_RE.sub(r"\1", nombre).replace("**", "").strip()
     # "Nombre (aclaración larga)" -> se conserva; el paréntesis corto suele ser
@@ -140,9 +131,22 @@ def clean_nombre(nombre: str) -> str:
     return re.sub(r"\s{2,}", " ", n).strip(" .,;")
 
 
-def parse_file(md: Path, area_key: str, label: str, region: str) -> tuple[list[dict], list[dict]]:
+def parse_tabla(linea: str) -> str:
+    """Convierte una fila de tabla en un texto plano que los extractores puedan leer.
+
+    `| **~13,200 HUF** semana | Neo-barroco enorme | Primera vez |` pasa a
+    `~13,200 HUF semana; Neo-barroco enorme; Primera vez`. Se descartan las
+    celdas que son solo un ranking de estrellas o están vacías.
+    """
+    celdas = [c.strip() for c in linea.split("|")]
+    utiles = [c for c in celdas if c and not re.fullmatch(r"[⭐★☆\s]+", c)]
+    return "; ".join(utiles)
+
+
+def parse_file(md: Path, area_key: str, label: str, region: str) -> tuple[list[dict], list[dict], list[dict]]:
     places: list[dict] = []
     skipped: list[dict] = []
+    tablas: list[dict] = []
     section = ""
     skipping = False
     seen: set[str] = set()
@@ -154,26 +158,53 @@ def parse_file(md: Path, area_key: str, label: str, region: str) -> tuple[list[d
             skipping = should_skip_section(section)
             continue
 
+        # Las tablas se capturan incluso en secciones descartadas. El filtro de
+        # secciones existe para no CREAR lugares que no son puntos del mapa, y
+        # una fila de tabla nunca crea uno: solo enriquece una fila que el CSV
+        # ya tiene. Respetar el filtro acá perdía los precios de las termas de
+        # Budapest, que viven bajo "### Comparativa 2026".
+        t = FILA_TABLA_RE.match(line)
+        if t:
+            tablas.append({
+                "ciudad": label,
+                "nombre": clean_nombre(t.group(1)),
+                "src_file": str(md.relative_to(ROOT)),
+                "src_lines": [i, i],
+                "seccion": section,
+                "texto": parse_tabla(t.group(2)),
+            })
+
         m = ITEM_RE.match(line)
         if not m:
             continue
         mark, nombre_raw, resto = m.group(1), m.group(2), m.group(3)
         nombre = clean_nombre(nombre_raw)
 
+        # Los descartados guardan `ciudad` y `texto` además del motivo: aunque
+        # no generan un lugar nuevo, sirven para enriquecer una fila que el CSV
+        # ya tiene. "Marché Bastille" está en el CSV desde el build viejo y su
+        # línea vive bajo "🎉 Eventos", una sección descartada; sin esto su
+        # descripción y su precio se perdían.
+        def _descartar(motivo: str) -> None:
+            skipped.append({"file": str(md), "line": i, "ciudad": label,
+                            "nombre": nombre, "motivo": motivo, "texto": resto.strip()})
+
         if skipping:
-            skipped.append({"file": str(md), "line": i, "nombre": nombre,
-                            "motivo": f"seccion:{section}"})
+            _descartar(f"seccion:{section}")
             continue
         if not nombre or SKIP_NAME_RE.search(nombre) and SKIP_NAME_RE.search(nombre).group(1):
-            skipped.append({"file": str(md), "line": i, "nombre": nombre,
-                            "motivo": "nombre no mapeable"})
+            _descartar("nombre no mapeable")
             continue
         key = strip_accents(nombre).lower()
         if key in seen:
-            skipped.append({"file": str(md), "line": i, "nombre": nombre,
-                            "motivo": "duplicado en el archivo"})
+            _descartar("duplicado en el archivo")
             continue
         seen.add(key)
+
+        pre = campos.extraer_precio(resto)
+        url = campos.extraer_url(resto)
+        res = campos.extraer_reserva(resto)
+        mom = campos.extraer_momento(resto)
 
         places.append({
             "id": f"{area_key}--{re.sub(r'[^a-z0-9]+', '-', strip_accents(nombre).lower()).strip('-')[:60]}",
@@ -188,11 +219,26 @@ def parse_file(md: Path, area_key: str, label: str, region: str) -> tuple[list[d
             "alias_es": [],
             "tipo": infer_tipo(section),
             "prioridad": PRIORIDAD.get(mark, "Solo mapeado"),
-            "precio": extract_precio(resto),
-            "notas": clean_notas(resto)[:190],
+            # --- los 5 campos enriquecidos, con su procedencia ---
+            "precio": pre["precio"],
+            "descripcion": campos.extraer_descripcion(resto, precio=pre["precio"], momento=mom["mejor_momento"]),
+            "url": url["url"],
+            "reserva": res["reserva"],
+            "mejor_momento": mom["mejor_momento"],
+            "origen": {
+                "precio": pre["origen"],
+                "descripcion": "md" if resto.strip() else "",
+                "url": "md" if url["url"] else "",
+                "reserva": res["origen"],
+                "mejor_momento": mom["origen"],
+            },
+            # banderas para el pase de investigación web
+            "precio_ambiguo": pre["ambiguo"],
+            "url_ticketing": url["ticketing"],
+            "linea_md": resto.strip(),
             "descartado": False,
         })
-    return places, skipped
+    return places, skipped, tablas
 
 
 def main() -> int:
@@ -202,11 +248,13 @@ def main() -> int:
 
     todos: list[dict] = []
     saltados: list[dict] = []
+    tablas: list[dict] = []
     for d in DESTINOS:
-        p, s = parse_file(ROOT / d.md, d.area_key, d.label, d.region)
+        p, s, t = parse_file(ROOT / d.md, d.area_key, d.label, d.region)
         todos += p
         saltados += s
-        print(f"  {d.label:18s} {len(p):3d} lugares · {len(s):3d} salteados")
+        tablas += t
+        print(f"  {d.label:18s} {len(p):3d} lugares · {len(s):3d} salteados · {len(t):3d} filas de tabla")
 
     # ids únicos
     vistos: dict[str, int] = {}
@@ -218,11 +266,22 @@ def main() -> int:
     OUT_JSON.write_text(json.dumps(todos, ensure_ascii=False, indent=1), encoding="utf-8")
     (HERE / "propios_skipped.json").write_text(
         json.dumps(saltados, ensure_ascii=False, indent=1), encoding="utf-8")
+    (HERE / "propios_tablas.json").write_text(
+        json.dumps(tablas, ensure_ascii=False, indent=1), encoding="utf-8")
 
     import collections
     print(f"\nTOTAL {len(todos)} lugares · {len(saltados)} salteados")
     print("por región:", dict(collections.Counter(x["region"] for x in todos)))
     print("por prioridad:", dict(collections.Counter(x["prioridad"] for x in todos)))
+
+    n = len(todos) or 1
+    print("\ncobertura de los campos enriquecidos (lo que aporta el .md):")
+    for campo in ("precio", "descripcion", "url", "reserva", "mejor_momento"):
+        k = sum(1 for x in todos if x[campo])
+        print(f"  {campo:15} {k:4}/{len(todos)}  ({100 * k // n}%)")
+    amb = sum(1 for x in todos if x["precio_ambiguo"])
+    print(f"  {'precio ambiguo':15} {amb:4}  -> resolver en el pase web")
+
     if args.stats:
         print("por tipo:", dict(collections.Counter(x["tipo"] for x in todos).most_common()))
     return 0
