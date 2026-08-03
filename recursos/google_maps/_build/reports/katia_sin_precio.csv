@@ -1,0 +1,122 @@
+ciudad,nombre,tipo,lugar_busqueda,descripcion,id
+Roma,Museo Palatino,Museo,"Museo Palatino, Roma, Italy",Historia de la fundación de Roma,roma--museo-palatino
+Roma,Basílica de Majencio,Sitio histórico,"Basilica di Massenzio, Roma, Italy","Está dentro del Foro Romano, no es una iglesia",roma--basilica-di-massenzio
+Roma,Santa Maria Maggiore,Iglesia,"Basilica di Santa Maria Maggiore, Roma, Italy",,roma--santa-maria-maggiore
+Roma,Santa Maria della Vittoria,Iglesia,"Santa Maria della Vittoria, Roma, Italy","El Éxtasis de Santa Teresa, de Bernini",roma--santa-maria-della-vittoria
+Roma,Muralla Aureliana,Sitio histórico,"Mura aureliane, Roma, Italy",Menos turístico; Alan lo hizo con el tour de la Vespa,roma--mura-aureliane
+Roma,Pirámide Cestia,Sitio histórico,"Piramide di Caio Cestio, Roma, Italy",,roma--piramide-cestia
+Roma,Manufactus,Tienda,"Manufactus, Roma, Italy",Souvenirs de cuero,roma--manufactus
+Roma,Biblioteca Angelica,Sitio histórico,"Biblioteca Angelica, Roma, Italy",,roma--biblioteca-angelica
+Roma,Auditorium Parco della Musica,Teatro,"Auditorium Parco della Musica Ennio Morricone, Roma, Italy",Zona de la Fiesta del Cine de Roma (15-26 oct). Pasear de noche,roma--auditorium-parco-della-musica
+Nápoles,Catedral de Nápoles,Catedral,"Cattedrale di Santa Maria Assunta, Napoli, Italy",,napoles--duomo-di-napoli
+Nápoles,Santa Chiara,Iglesia,"Basilica di Santa Chiara, Napoli, Italy",Ir al claustro de mayólicas,napoles--santa-chiara
+Nápoles,Gesù Nuovo,Iglesia,"Chiesa del Gesù Nuovo, Napoli, Italy",Fachada de puntas de diamante,napoles--gesu-nuovo
+Nápoles,San Lorenzo Maggiore,Iglesia,"Basilica di San Lorenzo Maggiore, Napoli, Italy",Otro acceso a la Nápoles subterránea,napoles--san-lorenzo-maggiore
+Nápoles,Mural de Maradona,Sitio histórico,"Murales di Maradona, Napoli, Italy",En los Quartieri Spagnoli,napoles--murales-maradona
+Nápoles,Castel Nuovo,Castillo,"Castel Nuovo, Napoli, Italy",,napoles--castel-nuovo
+Nápoles,Galleria Umberto I,Sitio histórico,"Galleria Umberto I, Napoli, Italy",,napoles--galleria-umberto-i
+Nápoles,Teatro di San Carlo,Teatro,"Teatro di San Carlo, Napoli, Italy",teatrosancarlo.it,napoles--teatro-san-carlo
+Nápoles,Palazzo Salerno,Palacio,"Palazzo Salerno, Napoli, Italy",En la Piazza del Plebiscito,napoles--palazzo-salerno
+Nápoles,San Francesco di Paola,Iglesia,"Basilica di San Francesco di Paola, Napoli, Italy",En la Piazza del Plebiscito,napoles--san-francesco-di-paola
+Nápoles,Palazzo della Prefettura,Palacio,"Palazzo della Prefettura, Napoli, Italy",En la Piazza del Plebiscito,napoles--palazzo-della-prefettura
+Liubliana,Museo Etnográfico Esloveno,Museo,"Slovenski etnografski muzej, Ljubljana, Slovenia",,liubliana--museo-etnografico
+Liubliana,Catedral de San Nicolás,Catedral,"Stolnica sv. Nikolaja, Ljubljana, Slovenia",Puertas de bronce,liubliana--catedral
+Liubliana,Iglesia Franciscana de la Anunciación,Iglesia,"Frančiškanska cerkev Marijinega oznanjenja, Ljubljana, Slovenia",La iglesia rosa de Prešernov trg,liubliana--iglesia-franciscana
+Liubliana,Biblioteca Nacional (NUK),Sitio histórico,"Narodna in univerzitetna knjižnica, Ljubljana, Slovenia",Obra maestra de Plečnik,liubliana--nuk
+Lagos Alpinos,Teleférico de Vogel,Teleférico,"Vogel, Ukanc, Slovenia",Katia: descartado — cerrado por mantenimiento del 21-sep al 30-nov 2026 (oficial). Verificar en el momento,bled--vogel
+Valle del Soča,Paso de Vršič,Ruta,"Prelaz Vršič, Bovec, Slovenia",Carretera alpina. Revisar el estado antes de comprometer la ruta y tener alternativa por si hay cierre o niebla,soca--vrsic
+Trieste,Castillo de Miramare,Castillo,"Castello di Miramare, Trieste, Italy","El wow visual de Trieste, pero consume traslado. Solo si da el horario",trieste--miramare
+Trieste,Caffè degli Specchi,Café,"Caffè degli Specchi, Trieste, Italy","Café histórico, en la Piazza Unità. Trieste tiene cultura cafetera más Mitteleuropa que italiana",trieste--caffe-degli-specchi
+Trieste,Antico Caffè San Marco,Café,"Antico Caffè San Marco, Trieste, Italy","Histórico y muy lindo, estilo Mitteleuropa",trieste--antico-caffe-san-marco
+Berna,Einsteinhaus,Museo,"Einsteinhaus Bern, Bern, Switzerland","El departamento donde vivió Einstein, ambientado como en la época",berna--einstein-haus
+Berna,Zytglogge,Sitio histórico,"Zytglogge, Bern, Switzerland",El símbolo de Berna. Cada hora en punto hay un espectáculo mecánico; llegar unos minutos antes. La visita al mecanismo es paga y requiere reserva,berna--zytglogge
+Berna,Catedral de Berna,Catedral,"Berner Münster, Bern, Switzerland","La iglesia más importante de Suiza. Entrada gratis; subir a la torre CHF 7-10, con las mejores vistas de la ciudad y el Aare",berna--berner-munster
+Berna,Bundeshaus,Sitio histórico,"Bundeshaus, Bern, Switzerland","El Parlamento suizo. Visitas guiadas gratuitas, conviene reservar con anticipación",berna--bundeshaus
+Berna,Museo de Historia de Berna / Museo Einstein,Museo,"Bernisches Historisches Museum, Bern, Switzerland",El Museo Einstein está adentro,berna--historisches-museum
+Kandersteg,Kandersteg,Pueblo,"Kandersteg, Switzerland",1 hs 30' desde Interlaken,kandersteg--kandersteg
+York,Bootham Bar,Sitio histórico,"Bootham Bar, York, UK",Una de las puertas por donde subir a caminar las murallas,york--bootham-bar
+Edimburgo,Royal Yacht Britannia,Museo,"Royal Yacht Britannia, City of Edinburgh, UK",Katia: descartado — 'otros que creo que no nos interesan',edimburgo--royal-yacht-britannia
+Edimburgo,Oink,Tienda,"Oink, City of Edinburgh, UK","Sándwiches de cerdo baratos y ricos, en Victoria Street (Alan)",edimburgo--oink
+Londres,Great Scotland Yard,Harry Potter,"Great Scotland Yard, City of Westminster, UK",La entrada al Ministerio de Magia en las películas,londres--great-scotland-yard
+Londres,Prime Meridian,Sitio histórico,"Prime Meridian of the World, Greater London, UK","En Greenwich Park, junto al observatorio",londres--prime-meridian
+París,Grande Galerie de l'Évolution,Museo,"Grande Galerie de l'Évolution, Paris, France",~15 €. Katia: al pedo si ya fuimos al de Londres,paris--grande-galerie-evolution
+París,Musée des Arts et Métiers,Museo,"Musée des Arts et Métiers, Paris, France","Katia: descartado (meh). Ciencia e inventos, revolución industrial; está dentro de una iglesia",paris--arts-et-metiers
+París,Musée Rodin,Museo,"Musée Rodin, Paris, France",Katia: descartado (no iría). ~15 €; muy buenos jardines,paris--musee-rodin
+París,Église Saint-Eustache,Iglesia,"Église Saint-Eustache, Paris, France","Katia: yo iría, y un domingo. Los domingos 17h hay recital de órgano. Entrada gratis",paris--saint-eustache
+París,Église Saint-Sulpice,Iglesia,"Église Saint-Sulpice, Paris, France",Estilo más francés y menos medieval. Gratis,paris--saint-sulpice
+París,Palacio de Versalles,Palacio,"Château de Versailles, Versailles, France","Jardines + Hall of Mirrors + Domaine de Marie-Antoinette, ~35 €. Ir al primer horario (9h) y evitar los martes. Alan hizo 1 hs de fila con entrada comprada",paris--versalles
+París,Shakespeare and Company,Tienda,"Shakespeare and Company, Paris, France",Librería del Barrio Latino,paris--shakespeare-and-company
+París,Moulin Rouge,Sitio histórico,"Moulin Rouge, Paris, France","En Pigalle norte, la zona más turística y de barrio rojo",paris--moulin-rouge
+París,Passage des Panoramas,Sitio histórico,"Passage des Panoramas, Paris, France",Galerías muy lindas para caminar,paris--passage-des-panoramas
+París,Hôtel de Ville,Sitio histórico,"Hôtel de Ville de Paris, Paris, France",Muy lindo para pasar caminando de noche,paris--hotel-de-ville
+París,Galerie Vivienne,Sitio histórico,"Galerie Vivienne, Paris, France","Muy linda, cerca del Palais Royal",paris--galerie-vivienne
+París,BnF Richelieu,Sitio histórico,"Bibliothèque nationale de France - Richelieu, Paris, France",La sede más linda y antigua. Gratis,paris--bnf-richelieu
+París,Bibliothèque Mazarine,Sitio histórico,"Bibliothèque Mazarine, Paris, France",Mucho más pequeña y antigua. Gratis,paris--bibliotheque-mazarine
+París,Palais Garnier,Teatro,"Palais Garnier, Paris, France",La ópera. Entrada libre ~15 €; hay obras desde 15 € aunque las buenas son caras,paris--palais-garnier
+París,Grand Palais,Museo,"Grand Palais, Paris, France",Espacio de exposiciones y ferias; el precio depende de la muestra. Katia: pasar por afuera,paris--grand-palais
+París,Les Invalides,Sitio histórico,"Hôtel des Invalides, Paris, France",Tumba de Napoleón. ~17 €; la iglesia y los jardines son gratis,paris--les-invalides
+Ámsterdam,Zevenlandenhuizen,Sitio histórico,"Zevenlandenhuizen, Amsterdam, Netherlands","Siete casas con estilos de distintos países europeos. Curiosidad arquitectónica, zona Museumplein/Vondelpark",amsterdam--zevenlandenhuizen
+Ámsterdam,Oude Kerk,Iglesia,"Oude Kerk, Amsterdam, Netherlands",El edificio más antiguo de Ámsterdam. Se llega caminando desde Dam Square y se puede visitar,amsterdam--oude-kerk
+Ámsterdam,Nieuwe Kerk,Iglesia,"Nieuwe Kerk, Amsterdam, Netherlands",En Dam Square,amsterdam--nieuwe-kerk
+Ámsterdam,Palacio Real de Ámsterdam,Palacio,"Koninklijk Paleis Amsterdam, Amsterdam, Netherlands",En Dam Square,amsterdam--koninklijk-paleis
+Grindelwald,Alpiglen,Trekking,"Alpiglen, Grindelwald, Switzerland",Fin del Eiger Trail; se vuelve en tren,grindelwald--alpiglen
+Grindelwald,Wilderswil,Pueblo,"Wilderswil, Switzerland",Desde acá sale el tren cremallera a Schynige Platte,grindelwald--wilderswil
+Lauterbrunnen,Grütschalp,Teleférico,"Grütschalp, Isenfluh, Switzerland","Sendero Grütschalp → Mürren: muy fácil, todo plano, 1 hs",lauterbrunnen--grutschalp
+Lauterbrunnen,Obersteinberg,Trekking,"Obersteinberg, Lauterbrunnen, Switzerland","Trekking desde Gimmelwald. El más alpino y menos turístico. Media, 3-4 hs, ~500 m de desnivel",lauterbrunnen--obersteinberg
+Lucerna,Wasserturm,Sitio histórico,"Wasserturm, Luzern, Switzerland",La torre junto al Kapellbrücke,lucerna--wasserturm
+Lucerna,Ayuntamiento de Lucerna,Sitio histórico,"Rathaus Luzern, Luzern, Switzerland",Solo verlo por fuera. Uno de los edificios renacentistas más importantes de Suiza,lucerna--rathaus
+Innsbruck,Antiguo Ayuntamiento,Sitio histórico,"Altes Rathaus Innsbruck, Innsbruck, Austria",,innsbruck--altes-rathaus
+Innsbruck,Altes Landhaus,Sitio histórico,"Altes Landhaus, Innsbruck, Austria",,innsbruck--altes-landhaus
+Innsbruck,Spitalskirche,Iglesia,"Spitalskirche Innsbruck, Innsbruck, Austria",,innsbruck--spitalskirche
+Innsbruck,Katzunghaus,Sitio histórico,"Katzunghaus, Innsbruck, Austria",Fachada del casco antiguo,innsbruck--katzunghaus
+Innsbruck,Helblinghaus,Sitio histórico,"Helblinghaus, Innsbruck, Austria",Fachada rococó frente al Tejadillo de Oro,innsbruck--helblinghaus
+Innsbruck,Hall in Tirol,Pueblo,"Hall in Tirol, Austria",Pueblo cercano,innsbruck--hall-in-tirol
+Viena,Peterskirche,Iglesia,"Peterskirche, Wien, Austria","Pequeña, con uno de los interiores barrocos más bellos. Suele haber conciertos gratuitos de órgano",viena--peterskirche
+Viena,Votivkirche,Iglesia,"Votivkirche, Wien, Austria","Neogótica, cerca de la Universidad. Muy linda desde afuera",viena--votivkirche
+Viena,Cripta Imperial,Sitio histórico,"Kaisergruft, Wien, Austria",Katia: descartado. Entierro de los Habsburgo; recomendable si interesa el Imperio Austrohúngaro,viena--kaisergruft
+Viena,Biblioteca Nacional Austriaca (Prunksaal),Sitio histórico,"Prunksaal der Österreichischen Nationalbibliothek, Wien, Austria",De las bibliotecas históricas más espectaculares de Europa,viena--nationalbibliothek
+Viena,Ayuntamiento de Viena,Sitio histórico,"Wiener Rathaus, Wien, Austria",Neogótico. Las visitas guiadas gratuitas son un buen agregado si coinciden con el horario,viena--rathaus
+Viena,Parlamento Austriaco,Sitio histórico,"Parlamentsgebäude, Wien, Austria",Recientemente restaurado. Interesante incluso solo desde afuera,viena--parlament
+Viena,Ópera Estatal de Viena,Teatro,"Wiener Staatsoper, Wien, Austria",Standing tickets 4-15 €. Ir 80 min antes y hacer fila en la entrada lateral de Operngasse. Llevar bufanda para reservar el lugar en la barra,viena--staatsoper
+Viena,Musikverein,Teatro,"Wiener Musikverein, Wien, Austria","Sala dorada, acústica perfecta. Donde toca la Filarmónica de Viena. Standing 7-10 €",viena--musikverein
+Viena,Wiener Konzerthaus,Teatro,"Wiener Konzerthaus, Wien, Austria",Otra opción de concierto además del Musikverein,viena--konzerthaus
+Viena,Ankeruhr,Sitio histórico,"Ankeruhr, Wien, Austria",Reloj histórico. Ver el desfile de figuras a las 12 del mediodía,viena--ankeruhr
+Praga,Catedral de San Vito,Catedral,"Katedrála svatého Víta, Praha, Czechia","La iglesia más importante del país, dentro del Castillo. La nave principal se ve gratis",praga--san-vito
+Praga,Basílica de San Jorge,Iglesia,"Bazilika svatého Jiří, Praha, Czechia",La iglesia románica más antigua del castillo; incluida en el circuito,praga--san-jorge
+Praga,Iglesia de San Nicolás,Iglesia,"Kostel svatého Mikuláše, Praha, Czechia",De las iglesias barrocas más impresionantes de Europa. ~150 CZK,praga--san-nicolas
+Praga,Santuario de Loreto,Iglesia,"Loreta Praha, Praha, Czechia",Complejo barroco famoso por su carillón. ~230 CZK,praga--loreta
+Praga,Monasterio de Strahov,Sitio histórico,"Strahovský klášter, Praha, Czechia",Monasterio + biblioteca barroca. ~180 CZK la biblioteca,praga--strahov
+Praga,Clementinum,Sitio histórico,"Klementinum, Praha, Czechia",La biblioteca barroca es de las salas más lindas de Europa. Incluye la Torre Astronómica. ~380 CZK,praga--clementinum
+Praga,Torre de la Pólvora,Sitio histórico,"Prašná brána, Praha, Czechia",Antigua puerta medieval de la ciudad. ~190 CZK,praga--torre-polvora
+Praga,Casa Municipal,Sitio histórico,"Obecní dům, Praha, Czechia",Art Nouveau. Vale la pena entrar aunque no se haga la visita guiada; el edificio es gratuito,praga--obecni-dum
+Praga,Casa Danzante,Sitio histórico,"Tančící dům, Praha, Czechia",Contrasta fuerte con la arquitectura histórica de Praga,praga--casa-danzante
+Praga,Pasaje Lucerna,Sitio histórico,"Palác Lucerna, Praha, Czechia","Galería comercial histórica, famosa por la escultura invertida de San Wenceslao",praga--pasaje-lucerna
+Cracovia,Museo de Nowa Huta,Museo,"Muzeum Nowej Huty, Kraków, Poland",Historia comunista. ~20 PLN,cracovia--museo-nowa-huta
+Cracovia,Museo Czartoryski,Museo,"Muzeum Czartoryskich, Kraków, Poland","Katia: descartado. Arte, ~75 PLN",cracovia--czartoryski
+Cracovia,Iglesia de San Pedro y San Pablo,Iglesia,"Kościół świętych Piotra i Pawła, Kraków, Poland",La iglesia barroca más importante; famosa por las esculturas de los apóstoles en la fachada. Gratis,cracovia--san-pedro-san-pablo
+Cracovia,Iglesia de San Francisco,Iglesia,"Bazylika św. Franciszka z Asyżu, Kraków, Poland",Vitrales Art Nouveau de Stanisław Wyspiański. Gratis,cracovia--san-francisco
+Cracovia,Iglesia de San José,Iglesia,"Kościół św. Józefa, Kraków, Poland","Neogótica, en Podgórze",cracovia--san-jose
+Cracovia,Teatro Juliusz Słowacki,Teatro,"Teatr im. Juliusza Słowackiego, Kraków, Poland",Exterior gratuito; visitas según programación,cracovia--teatro-slowacki
+Budapest,Castillo Vajdahunyad,Castillo,"Vajdahunyad vára, Budapest, Hungary",En el parque Városliget,budapest--vajdahunyad
+Budapest,Ópera Estatal Húngara,Teatro,"Magyar Állami Operaház, Budapest, Hungary",También hay visitas guiadas,budapest--opera
+Budapest,Holocaust Memorial Center,Museo,"Holokauszt Emlékközpont, Budapest, Hungary",,budapest--holocaust-memorial
+Budapest,Museo Nacional de Hungría,Museo,"Magyar Nemzeti Múzeum, Budapest, Hungary",,budapest--museo-nacional
+Budapest,Gozsdu Udvar,Sitio histórico,"Gozsdu udvar, Budapest, Hungary",Siete patios interiores conectados que atraviesan una manzana del Barrio Judío. Zona gastronómica y de ocio,budapest--gozsdu-udvar
+Budapest,Funicular del Castillo,Teleférico,"Budavári Sikló, Budapest, Hungary",Turístico y bastante caro; se puede subir caminando sin problema,budapest--funicular
+Colmar,Koïfhus,Sitio histórico,"Koïfhus, Colmar, France",La antigua aduana medieval; durante siglos el centro económico de la ciudad,colmar--koifhus
+Colmar,Église des Dominicains,Iglesia,"Église des Dominicains, Colmar, France",Katia: opcional,colmar--eglise-des-dominicains
+Colmar,Église Saint-Matthieu,Iglesia,"Église Saint-Matthieu, Colmar, France","Protestante, sencilla y tranquila. Katia: opcional",colmar--saint-matthieu
+Estrasburgo,Musée Alsacien,Museo,"Musée Alsacien, Strasbourg, France","Vida cotidiana alsaciana en casas medievales conectadas por pasarelas. 6,50 €",estrasburgo--musee-alsacien
+Estrasburgo,Saint-Pierre-le-Jeune,Iglesia,"Église Saint-Pierre-le-Jeune, Strasbourg, France","Muy linda y menos turística. Mezcla católica, protestante y medieval. Gratis",estrasburgo--saint-pierre-le-jeune
+Estrasburgo,Maison des Tanneurs,Sitio histórico,"Maison des Tanneurs, Strasbourg, France","Antigua casa de curtidores convertida en restaurante, en La Petite France",estrasburgo--maison-des-tanneurs
+Estrasburgo,Maison Kammerzell,Sitio histórico,"Maison Kammerzell, Strasbourg, France",La casa alsaciana más famosa de Estrasburgo. Muy impresionante visualmente,estrasburgo--casa-kammerzell
+Estrasburgo,Biblioteca Nacional y Universitaria,Sitio histórico,"Bibliothèque nationale et universitaire, Strasbourg, France",Destacado del Neustadt,estrasburgo--bnu
+Estrasburgo,Palais du Rhin,Palacio,"Palais du Rhin, Strasbourg, France",Destacado del Neustadt,estrasburgo--palais-du-rhin
+Estrasburgo,Palais Universitaire,Sitio histórico,"Palais Universitaire, Strasbourg, France",Destacado del Neustadt,estrasburgo--palais-universitaire
+Estrasburgo,Église Saint-Paul,Iglesia,"Église Saint-Paul de Strasbourg, Strasbourg, France",Destacado del Neustadt,estrasburgo--saint-paul
+Estrasburgo,Gare de Strasbourg,Sitio histórico,"Gare de Strasbourg, Strasbourg, France",Destacado del Neustadt: la cúpula de vidrio sobre la fachada histórica,estrasburgo--gare
+Estrasburgo,Pavillon Joséphine,Sitio histórico,"Pavillon Joséphine, Strasbourg, France",En el Parc de l'Orangerie,estrasburgo--pavillon-josephine
+Friburgo,Schlossbergbahn,Teleférico,"Schlossbergbahn, Freiburg im Breisgau, Germany",Funicular al Schlossberg; también se sube caminando en 20-30 min,friburgo--schlossbergbahn
+Highlands,Cluanie Inn,Sitio histórico,"Cluanie Inn, Highland, UK",El único punto de servicio en un tramo largo de la A87,highlands--cluanie-inn
+Highlands,Cairngorm Mountain Gondola,Teleférico,"Cairngorm Mountain Railway, Aviemore, UK",~£20. También está el rebaño de renos único en el UK,highlands--cairngorm-gondola
+Highlands,St Andrews,Pueblo,"St Andrews, Airdrie, UK","Katia: descartado. Costa de Fife, pueblitos pesqueros; buena transición si se llega desde Inglaterra",highlands--st-andrews
