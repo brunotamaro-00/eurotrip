@@ -35,17 +35,17 @@
 
 > **Prioridad: liviano, secado rápido y versátil.** Las remeras de ciudad pueden ser algodón de calidad (con lavandería semanal no hay problema de secado). Las técnicas deben poder cumplir doble función — trekking y ciudad — así que buscar tela mixta (performance con look/corte normal), no una remera 100% deportiva. Ropa de frío se compra allá sobre el final si es necesario.
 
-### Tops (8 prendas)
-- [ ] 4 remeras manga corta **algodón Supima o mezcla lino-algodón** — ciudad, cenar, uso general
+### Tops (10 prendas)
+- [ ] 5 remeras manga corta **algodón Supima o mezcla lino-algodón** — ciudad, cenar, uso general
   - *Uniqlo Supima Cotton Tee · Gap Favorite Tee · H&M Premium Cotton*
-- [ ] 2 remeras manga corta **técnicas "mixtas"** — sirven para trekking, pero con corte y textura de remera normal para poder usarlas también recorriendo ciudad; nada de pinta 100% deportiva/running (evitar telas brillantes o cortes muy ajustados tipo atlético)
+- [ ] 3 remeras manga corta **técnicas "mixtas"** — sirven para trekking, pero con corte y textura de remera normal para poder usarlas también recorriendo ciudad; nada de pinta 100% deportiva/running (evitar telas brillantes o cortes muy ajustados tipo atlético)
   - *Vuori Strato Tech Tee · Rhone Composite Tee · Western Rise AirLoft Tee · Unbound Merino Tee (lana merino, tampoco huele) · Uniqlo AIRism Cotton*
 - [ ] 1 **camisa de botones liviana, celeste clarito (chambray)** (lino o nylon blend) — enrollada ocupa mínimo; transforma cualquier look para cenar, y funciona abierta sobre una remera como capa liviana de ciudad
   - *Uniqlo Premium Linen · Patagonia Go To Shirt · Bluffworks Ascender*
 - [ ] 1 remera manga larga **térmica/técnica** — base layer para capa extra o días frescos, también sirve de segunda piel bajo el puff en el frío
   - *Uniqlo Heattech · Patagonia Capilene Thermal Weight · Icebreaker Merino 200 Oasis LS*
 
-### Pantalones / Bottoms (4 prendas)
+### Pantalones / Bottoms (5 prendas)
 
 **Shorts (2)**
 - [ ] 1 **bermuda prolija** (nylon o mezcla nylon-lino) — largo a la rodilla, city-appropriate, sirve para cenar
@@ -53,11 +53,13 @@
 - [ ] 1 **short deportivo** — también sirve de malla (elimina llevar traje de baño separado)
   - *Patagonia Baggies · Quiksilver Highline · Vuori Kore Short*
 
-**Pantalones largos (2)**
+**Pantalones largos (3)**
 - [ ] 1 **pantalón prolijo** (chino travel liviano, quick-dry) — para cenar, salidas más arregladas
   - *Patagonia Quandary Pants · Bluffworks Original Chino · Kuhl Silencr*
 - [ ] 1 **pantalón para recorrer** (lino-mezcla, no lino 100% — lino-algodón o lino-viscosa 60-70% lino) — cómodo para caminar todo el día, canchero, enrolla casi a nada; la mezcla arruga mucho menos que el lino puro y seca más rápido
   - *Uniqlo Linen Blend Pants · Zara (comprar allá) · H&M Linen (comprar allá) · Bowen (Argentina)*
+- [ ] 1 **pantalón técnico** (softshell o trekking quick-dry) — caminatas largas, trekking, días de lluvia liviana; se enrolla o comprime bien
+  - *Patagonia Quandary Pants · Outdoor Research Ferrosi · Prana Stretch Zion · Decathlon MH500*
 
 ### Capas Externas
 
@@ -66,6 +68,8 @@
   - *Patagonia R1 Air Zip-Neck (fleece técnico, muy abrigado y transpirable) · Uniqlo Ultra Light Down (pluma, comprime al mínimo) · Patagonia Micro Puff*
 - [ ] 1 **capa de ciudad, azul marino** — punto fino/liviana, no ocupa bulto; se usa **abierta** sobre remera para salir/lucirse, y **cerrada** cualquier otro día de frío moderado (cubre también el rol de "capa básica")
   - *Cárdigan de punto fino en marino (COS, Uniqlo, J.Crew) · overshirt liviano tipo punto (no tejido plano)*
+- [ ] 1 **suéter / buzo liviano** — capa media diaria para frescos de mañana/noche y aviones; más liviano que la capa técnica abrigada, se usa solo o bajo el puff
+  - *Uniqlo Extra Fine Merino Crew · Patagonia Better Sweater (liviano) · Uniqlo Soft Touch Crew*
 
 **Capas externas (protección)**
 - [ ] 1 **puff sintético** (Uniqlo PUFFTECH Jacket) — abrigo principal comprimible; sintético = abriga incluso húmedo
@@ -313,16 +317,16 @@
 - **Octubre-Noviembre:** Comprar ropa de frío allá si hace falta (fleece, chaqueta, gorro, guantes)
 
 ### Regla de esta mochila
-- 8 tops: 4 algodón (crudo, marino, oliva, heather gris cálido), 2 técnicas mixtas (gris carbón, negro), 1 camisa de botones, 1 manga larga térmica
-- 4 bottoms: bermuda prolija + short deportivo + chino travel (prolijo) + pantalón lino (recorrer)
-- 4 capas: capa de ciudad marino (linda y liviana, abierta o cerrada — hace de básica también) + capa técnica (liviana y muy abrigada, va debajo) + puff sintético (Powder Lite) + shell impermeable
+- 10 tops: 5 algodón (crudo, marino, oliva, heather gris cálido, beige), 3 técnicas mixtas (gris carbón, negro, heather), 1 camisa de botones, 1 manga larga térmica
+- 5 bottoms: bermuda prolija + short deportivo + chino travel (prolijo) + pantalón lino (recorrer) + pantalón técnico
+- 5 capas: suéter/buzo liviano + capa de ciudad marino (linda y liviana, abierta o cerrada — hace de básica también) + capa técnica (liviana y muy abrigada, va debajo) + puff sintético (Powder Lite) + shell impermeable
 - 2 pares de zapatillas (deportivas con suela + zapatilla cuero/sneaker) + ojotas
 - El board short hace de malla → una prenda menos
 
 ### Materiales
 - **Remeras de ciudad:** algodón Supima o lino-algodón — con lavandería semanal no hay problema de secado
 - **Remeras técnicas:** tela mixta quick-dry con look/corte de remera normal — sirven para trekking sin desentonar caminando por la ciudad, evitar sintético 100% brillante/atlético
-- **Pantalones:** nylon o mezcla para chino/bermuda; lino-mezcla (no lino 100%) para el pant cómodo — arruga menos y seca más rápido
+- **Pantalones:** nylon o mezcla para chino/bermuda; lino-mezcla (no lino 100%) para el pant cómodo; softshell/trekking quick-dry para el técnico — arruga menos y seca más rápido
 - **Evitar:** prendas que necesiten planchado, telas que tarden días en secar a mano
 
 ### ❌ Qué NO llevar (lecciones de la comunidad viajera)
@@ -380,14 +384,18 @@
 | Remera algodón #2 | Azul marino |
 | Remera algodón #3 | Verde oliva (convertida de técnica a algodón) |
 | Remera algodón #4 | Heather gris cálido (más cálido que el carbón puro, distinto de las técnicas) — va antes de las técnicas en el orden |
+| Remera algodón #5 | Beige / arena |
 | Remera técnica #1 (mixta: trekking + ciudad) | Gris carbón |
 | Remera técnica #2 (mixta: trekking + ciudad) | Negro — va después de la técnica gris carbón en el orden |
+| Remera técnica #3 (mixta: trekking + ciudad) | Heather gris |
 | Camisa de botones | Celeste clarito (chambray) — pensada para usar abierta sobre remera |
 | Manga larga (térmica) | Negro |
 | Bermuda prolija | Beige / arena |
 | Short deportivo | Gris carbón o negro |
 | Pantalón chino (prolijo) | Azul marino o gris carbón |
 | Pantalón lino (recorrer) | Beige / arena |
+| Pantalón técnico | Gris carbón |
+| Suéter / buzo liviano | Gris carbón o negro |
 | Capa técnica (abrigada) | Gris carbón — va tapada, no importa que sea sobria |
 | Capa de ciudad (nueva compra) | Azul marino — abierta para lucirse, cerrada como capa básica de frío moderado |
 | Puff sintético | Negro |
@@ -414,7 +422,7 @@ Con tez mediterránea (subtono cálido, tipo sur de Italia) esta paleta ya funci
 ### Nota sobre prendas no básicas (estampadas / con textura)
 El sistema de arriba asume prendas lisas. Si alguna remera que termines comprando no es básica (rayas, print, textura marcada), tené en cuenta:
 - **Que el color dominante del estampado esté dentro de la paleta** (uno de los 6 colores) — así sigue leyendo como parte del sistema aunque no sea lisa.
-- **Máximo 1 prenda estampada en toda la mochila** — ya no hay un slot "opcional" dedicado, así que si aparece una estampada tendría que reemplazar a una de las 8 prendas fijas. Más de una estampada rompe el objetivo de no pensar combinaciones.
+- **Máximo 1 prenda estampada en toda la mochila** — ya no hay un slot "opcional" dedicado, así que si aparece una estampada tendría que reemplazar a una de las 10 prendas fijas. Más de una estampada rompe el objetivo de no pensar combinaciones.
 - **Nunca combinar estampado con estampado** — estampada arriba siempre va con bottom liso (chino marino, lino beige, etc.).
 - **Si el print tiene más de un color, que al menos uno coincida con la paleta** — evita meter un 7mo color suelto que no combina con nada.
 - **Preferir estampado chico/sutil sobre gráfico grande** si querés que sirva tanto de día como para alguna cena — un gráfico muy fuerte la deja más limitada a looks casuales.
