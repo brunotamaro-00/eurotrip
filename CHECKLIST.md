@@ -2,11 +2,11 @@
 
 **Fechas cerradas:** hasta fin del desvío Portugal (**12 sept**). **Post Portugal:** fechas tentativas — priorizar investigación; reservar alojamiento/traslados cuando se confirme tramo y noches. **3 noches de margen:** sin destino; no reservar hasta decidir si se usan y dónde.
 
-**Presupuesto:** rangos actualizados (~$24k-32k total viaje; ~$6,6k ya confirmados).
+**Presupuesto:** **~$23.6k-32.5k** total viaje · **$9,233.42 ya confirmados** (Bruno $4,578.83 · Katia $4,654.59). Desglose **por ciudad** con $/día en [`PRESUPUESTO.md`](PRESUPUESTO.md).
 
 ## 🗓️ Calendario de acción (ordenado — de lo más urgente a lo más lejano)
 
-> **Cómo usarlo:** la fecha en negrita es **cuándo conviene reservar o entrar a chequear** (no la fecha de la visita). Trabajá de arriba (más urgente) hacia abajo, sacando las cosas "de atrás para adelante". Las ventanas (“abre X antes”) están explicadas en el detalle de cada reserva más abajo. **Hoy: 30-jun-2026.**
+> **Cómo usarlo:** la fecha en negrita es **cuándo conviene reservar o entrar a chequear** (no la fecha de la visita). Trabajá de arriba (más urgente) hacia abajo, sacando las cosas "de atrás para adelante". Las ventanas (“abre X antes”) están explicadas en el detalle de cada reserva más abajo. **Hoy: 3-ago-2026 — el viaje arranca el 5-ago.** ⚠️ Los ítems fechados en julio ya vencieron: revisalos y cerralos o descartalos.
 
 ### 🔴 Ya / esta semana (la ventana ya está abierta)
 - [ ] **Wise/Revolut:** abrir cuenta ya (la tarjeta tarda 1-2 semanas).
@@ -41,7 +41,7 @@
 - [ ] **Park Güell (Barcelona):** Reservar **slot horario** (zona monumental), ~1-2 meses antes.
 - [ ] **Duomo Firenze (cúpula / Brunelleschi Pass):** Reservar **slot** de subida con mucha anticipación (~1-2 meses).
 - [ ] **Cappella Sansevero (Nápoles):** Reservar online (se agota semanas antes).
-- [ ] **Auschwitz-Birkenau (Cracovia):** Tour guiado ($16) recomendado, reservar online sí o sí. ⚠️ **Entradas individuales salen 90 días antes** y vuelan; el tour guiado da más holgura.
+- [ ] **Auschwitz-Birkenau (Cracovia):** Tour guiado (**~150 PLN ≈ €35 / ~$38**) recomendado, reservar online sí o sí. ⚠️ **Entradas individuales salen 90 días antes** y vuelan; el tour guiado da más holgura.
 - [ ] **Catacumbas de París:** Reservar online apenas abran las fechas (cupo timed-entry limitado).
 - [ ] **Edinburgh Castle (Edimburgo):** Comprar entrada online (agosto se agota; **ya a la venta → comprar YA**).
 - [x] **Harry Potter Studio Tour (Londres):** Reservar (se agota con meses).
@@ -55,7 +55,7 @@
 ## 1 a 2 Meses Antes (Trámites y Logística)
 - [ ] **UK ETA (ambos viajeros):** Solicitar online (~£16 pp) antes del 5 ago. Ciudadanos UE **no están exentos** — solo irlandeses. App "UK ETA" o `gov.uk/apply-for-an-electronic-travel-authorisation-eta`.
 - [ ] **ETIAS:** Solicitar autorización para Persona 2/argentina ($8, 72h proceso).
-- [x] **Seguro de Viaje:** **COMPRADO** — **Pax Assistance (4 meses BASIC)** — **USD 350 c/u** (USD 700 total).
+- [x] **Seguro de Viaje:** **COMPRADO** — **Pax Assistance (4 meses BASIC)** — **USD 320 c/u** (USD 640 total, según Spitwise).
 - [ ] **Documentos (por completar):** Pasaporte Persona 1 (número + vencimiento).
 - [ ] **Documentos (por completar):** Pasaporte Persona 2 (número + vencimiento).
 - [ ] **Seguro (por completar):** Número de póliza + contacto 24h (PAX Assistance).
